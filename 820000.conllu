@@ -1,0 +1,29 @@
+# sent_id = 820000
+# text = From rubbing shoulders with scientists in our little universe by the Botanical Gardens , the boy had come to know a thing or two .
+# doc_id = 
+1	From	_	Word	Word	_	2	L	2:L	_
+2	rubbing	_	Word	Word	_	0	root	0:root	_
+3	shoulders	_	Word	Word	_	2	flat	2:flat	_
+4	with	_	Word	Word	_	5	R	5:R	_
+5	scientists	_	Word	Word	_	2	orphan	2:orphan	_
+6	in	_	Word	Word	_	9	R	9:R	_
+7	our	_	Word	Word	_	9	E	9:E	_
+8	little	_	Word	Word	_	9	E	9:E	_
+9	universe	_	Word	Word	_	2	orphan	2:orphan	_
+10	by	_	Word	Word	_	13	R	13:R	_
+11	the	_	Word	Word	_	13	E	13:E	_
+12	Botanical	_	Word	Word	_	13	E	13:E	_
+13	Gardens	_	Word	Word	_	2	orphan	2:orphan	_
+14	,	_	Punctuation	Punctuation	_	2	punct	2:punct	_
+15	the	_	Word	Word	_	16	E	16:E	_
+16	boy	_	Word	Word	_	2	orphan	2:orphan	_
+17	had	_	Word	Word	_	20	F	20:F	_
+18	come	_	Word	Word	_	20	E	20:E	_
+19	to	_	Word	Word	_	20	F	20:F	_
+20	know	_	Word	Word	_	2	orphan	2:orphan	_
+21	a	_	Word	Word	_	22	E	22:E	_
+22	thing	_	Word	Word	_	2	orphan	2:orphan	_
+23	or	_	Word	Word	_	22	N	22:N	_
+24	two	_	Word	Word	_	2	orphan	2:orphan	_
+25	.	_	Punctuation	Punctuation	_	24	punct	24:punct	_
+

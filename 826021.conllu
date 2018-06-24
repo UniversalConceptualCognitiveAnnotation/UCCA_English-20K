@@ -1,0 +1,12 @@
+# sent_id = 826021
+# text = We ’re leaving on the Abraham Lincoln .
+# doc_id = 
+1	We	_	Word	Word	_	3	A	3:A	_
+2	’re	_	Word	Word	_	3	F	3:F	_
+3	leaving	_	Word	Word	_	0	root	0:root	_
+4	on	_	Word	Word	_	6	R	6:R	_
+5	the	_	Word	Word	_	6	E	6:E	_
+6	Abraham	_	Word	Word	_	3	orphan	3:orphan	_
+7	Lincoln	_	Word	Word	_	6	flat	6:flat	_
+8	.	_	Punctuation	Punctuation	_	6	punct	6:punct	_
+

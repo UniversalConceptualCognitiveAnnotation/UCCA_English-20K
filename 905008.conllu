@@ -1,0 +1,16 @@
+# sent_id = 905008
+# text = “ Because the water surrounds me but doesn ’t penetrate me .
+# doc_id = 
+1	“	_	Punctuation	Punctuation	_	5	punct	5:punct	_
+2	Because	_	Word	Word	_	5	L	5:L	_
+3	the	_	Word	Word	_	4	E	4:E	_
+4	water	_	Word	Word	_	0	root	0:root	_
+5	surrounds	_	Word	Word	_	4	orphan	4:orphan	_
+6	me	_	Word	Word	_	5	A	5:A	_
+7	but	_	Word	Word	_	5	L	5:L	_
+8	doesn	_	Word	Word	_	10	F	10:F	_
+9	’t	_	Word	Word	_	10	D	10:D	_
+10	penetrate	_	Word	Word	_	4	orphan	4:orphan	_
+11	me	_	Word	Word	_	10	A	10:A	_
+12	.	_	Punctuation	Punctuation	_	10	punct	10:punct	_
+

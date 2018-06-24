@@ -1,0 +1,31 @@
+# sent_id = 907000
+# text = “ They ’d need to be manufactured , ” Ned Land replied , “ from sheet - iron plates eight inches thick , like ironclad frigates .
+# doc_id = 
+1	“	_	Punctuation	Punctuation	_	7	punct	7:punct	_
+2	They	_	Word	Word	_	7	A	7:A	_
+3	’d	_	Word	Word	_	7	E	7:E	_
+4	need	_	Word	Word	_	7	E	7:E	_
+5	to	_	Word	Word	_	7	F	7:F	_
+6	be	_	Word	Word	_	7	F	7:F	_
+7	manufactured	_	Word	Word	_	0	root	0:root	_
+8	,	_	Punctuation	Punctuation	_	7	punct	7:punct	_
+9	”	_	Punctuation	Punctuation	_	7	punct	7:punct	_
+10	Ned	_	Word	Word	_	12	A	12:A	_
+11	Land	_	Word	Word	_	10	flat	10:flat	_
+12	replied	_	Word	Word	_	7	orphan	7:orphan	_
+13	,	_	Punctuation	Punctuation	_	7	punct	7:punct	_
+14	“	_	Punctuation	Punctuation	_	7	punct	7:punct	_
+15	from	_	Word	Word	_	19	R	19:R	_
+16	sheet	_	Word	Word	_	18	E	18:E	_
+17	-	_	Punctuation	Punctuation	_	18	punct	18:punct	_
+18	iron	_	Word	Word	_	7	orphan	7:orphan	_
+19	plates	_	Word	Word	_	7	orphan	7:orphan	_
+20	eight	_	Word	Word	_	21	E	21:E	_
+21	inches	_	Word	Word	_	7	orphan	7:orphan	_
+22	thick	_	Word	Word	_	21	E	21:E	_
+23	,	_	Punctuation	Punctuation	_	7	punct	7:punct	_
+24	like	_	Word	Word	_	26	R	26:R	_
+25	ironclad	_	Word	Word	_	26	E	26:E	_
+26	frigates	_	Word	Word	_	7	orphan	7:orphan	_
+27	.	_	Punctuation	Punctuation	_	26	punct	26:punct	_
+

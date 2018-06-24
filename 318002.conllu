@@ -1,0 +1,36 @@
+# sent_id = 318002
+# text = If you would like to join the expedition on the Abraham Lincoln , the government of the Union will be pleased to regard you as France ’s representative in this undertaking .
+# doc_id = 
+1	If	_	Word	Word	_	6	L	6:L	_
+2	you	_	Word	Word	_	6	A	6:A	_
+3	would	_	Word	Word	_	4	E	4:E	_
+4	like	_	Word	Word	_	0	root	0:root	_
+5	to	_	Word	Word	_	6	F	6:F	_
+6	join	_	Word	Word	_	4	orphan	4:orphan	_
+7	the	_	Word	Word	_	8	E	8:E	_
+8	expedition	_	Word	Word	_	4	orphan	4:orphan	_
+9	on	_	Word	Word	_	11	R	11:R	_
+10	the	_	Word	Word	_	11	E	11:E	_
+11	Abraham	_	Word	Word	_	4	orphan	4:orphan	_
+12	Lincoln	_	Word	Word	_	11	flat	11:flat	_
+13	,	_	Punctuation	Punctuation	_	6	punct	6:punct	_
+14	the	_	Word	Word	_	15	E	15:E	_
+15	government	_	Word	Word	_	4	orphan	4:orphan	_
+16	of	_	Word	Word	_	18	R	18:R	_
+17	the	_	Word	Word	_	18	E	18:E	_
+18	Union	_	Word	Word	_	4	orphan	4:orphan	_
+19	will	_	Word	Word	_	21	E	21:E	_
+20	be	_	Word	Word	_	21	F	21:F	_
+21	pleased	_	Word	Word	_	4	orphan	4:orphan	_
+22	to	_	Word	Word	_	23	F	23:F	_
+23	regard	_	Word	Word	_	4	orphan	4:orphan	_
+24	you	_	Word	Word	_	23	A	23:A	_
+25	as	_	Word	Word	_	28	R	28:R	_
+26	France	_	Word	Word	_	4	orphan	4:orphan	_
+27	’s	_	Word	Word	_	26	R	26:R	_
+28	representative	_	Word	Word	_	4	orphan	4:orphan	_
+29	in	_	Word	Word	_	31	R	31:R	_
+30	this	_	Word	Word	_	31	E	31:E	_
+31	undertaking	_	Word	Word	_	4	orphan	4:orphan	_
+32	.	_	Punctuation	Punctuation	_	31	punct	31:punct	_
+

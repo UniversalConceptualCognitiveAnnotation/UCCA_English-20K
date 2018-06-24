@@ -1,0 +1,11 @@
+# sent_id = 908002
+# text = The Scotia ’s accident was undeniable .
+# doc_id = 
+1	The	_	Word	Word	_	2	E	2:E	_
+2	Scotia	_	Word	Word	_	0	root	0:root	_
+3	’s	_	Word	Word	_	2	R	2:R	_
+4	accident	_	Word	Word	_	2	orphan	2:orphan	_
+5	was	_	Word	Word	_	6	F	6:F	_
+6	undeniable	_	Word	Word	_	2	orphan	2:orphan	_
+7	.	_	Punctuation	Punctuation	_	6	punct	6:punct	_
+

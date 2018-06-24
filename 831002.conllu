@@ -1,0 +1,10 @@
+# sent_id = 831002
+# text = and halted at Pier 34 .
+# doc_id = 
+1	and	_	Word	Word	_	2	L	2:L	_
+2	halted	_	Word	Word	_	0	root	0:root	_
+3	at	_	Word	Word	_	5	R	5:R	_
+4	Pier	_	Word	Word	_	5	E	5:E	_
+5	34	_	Word	Word	_	2	orphan	2:orphan	_
+6	.	_	Punctuation	Punctuation	_	5	punct	5:punct	_
+

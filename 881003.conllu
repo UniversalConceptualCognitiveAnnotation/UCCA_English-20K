@@ -1,0 +1,37 @@
+# sent_id = 881003
+# text = As often as the sun swept over its daily arc , the masts were populated with sailors whose feet itched and couldn ’t hold still on the planking of the deck below !
+# doc_id = 
+1	As	_	Word	Word	_	2	R	2:R	_
+2	often	_	Word	Word	_	0	root	0:root	_
+3	as	_	Word	Word	_	2	R	2:R	_
+4	the	_	Word	Word	_	5	E	5:E	_
+5	sun	_	Word	Word	_	2	orphan	2:orphan	_
+6	swept	_	Word	Word	_	2	orphan	2:orphan	_
+7	over	_	Word	Word	_	10	R	10:R	_
+8	its	_	Word	Word	_	10	E	10:E	_
+9	daily	_	Word	Word	_	10	E	10:E	_
+10	arc	_	Word	Word	_	2	orphan	2:orphan	_
+11	,	_	Punctuation	Punctuation	_	6	punct	6:punct	_
+12	the	_	Word	Word	_	13	E	13:E	_
+13	masts	_	Word	Word	_	2	orphan	2:orphan	_
+14	were	_	Word	Word	_	15	F	15:F	_
+15	populated	_	Word	Word	_	2	orphan	2:orphan	_
+16	with	_	Word	Word	_	17	R	17:R	_
+17	sailors	_	Word	Word	_	2	orphan	2:orphan	_
+18	whose	_	Word	Word	_	20	R	20:R	_
+19	feet	_	Word	Word	_	2	orphan	2:orphan	_
+20	itched	_	Word	Word	_	2	orphan	2:orphan	_
+21	and	_	Word	Word	_	20	L	20:L	_
+22	couldn	_	Word	Word	_	24	F	24:F	_
+23	’t	_	Word	Word	_	24	D	24:D	_
+24	hold	_	Word	Word	_	2	orphan	2:orphan	_
+25	still	_	Word	Word	_	23	flat	23:flat	_
+26	on	_	Word	Word	_	28	R	28:R	_
+27	the	_	Word	Word	_	28	E	28:E	_
+28	planking	_	Word	Word	_	2	orphan	2:orphan	_
+29	of	_	Word	Word	_	31	R	31:R	_
+30	the	_	Word	Word	_	31	E	31:E	_
+31	deck	_	Word	Word	_	2	orphan	2:orphan	_
+32	below	_	Word	Word	_	31	E	31:E	_
+33	!	_	Punctuation	Punctuation	_	31	punct	31:punct	_
+

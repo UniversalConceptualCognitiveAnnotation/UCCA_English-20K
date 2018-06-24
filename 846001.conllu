@@ -1,0 +1,23 @@
+# sent_id = 846001
+# text = The harbor pilot went down into his dinghy and rejoined a little schooner waiting for him to leeward .
+# doc_id = 
+1	The	_	Word	Word	_	3	E	3:E	_
+2	harbor	_	Word	Word	_	3	E	3:E	_
+3	pilot	_	Word	Word	_	0	root	0:root	_
+4	went	_	Word	Word	_	3	orphan	3:orphan	_
+5	down	_	Word	Word	_	4	flat	4:flat	_
+6	into	_	Word	Word	_	8	R	8:R	_
+7	his	_	Word	Word	_	8	E	8:E	_
+8	dinghy	_	Word	Word	_	3	orphan	3:orphan	_
+9	and	_	Word	Word	_	4	L	4:L	_
+10	rejoined	_	Word	Word	_	3	orphan	3:orphan	_
+11	a	_	Word	Word	_	13	E	13:E	_
+12	little	_	Word	Word	_	13	E	13:E	_
+13	schooner	_	Word	Word	_	3	orphan	3:orphan	_
+14	waiting	_	Word	Word	_	3	orphan	3:orphan	_
+15	for	_	Word	Word	_	16	R	16:R	_
+16	him	_	Word	Word	_	3	orphan	3:orphan	_
+17	to	_	Word	Word	_	18	R	18:R	_
+18	leeward	_	Word	Word	_	3	orphan	3:orphan	_
+19	.	_	Punctuation	Punctuation	_	18	punct	18:punct	_
+

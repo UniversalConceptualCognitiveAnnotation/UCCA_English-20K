@@ -1,0 +1,40 @@
+# sent_id = 826007
+# text = Pack as much into my trunk as you can , my traveling kit , my suits , shirts , and socks , don ’t bother counting , just squeeze it all in — and hurry !
+# doc_id = 
+1	Pack	_	Word	Word	_	0	root	0:root	_
+2	as	_	Word	Word	_	1	D	1:D	_
+3	much	_	Word	Word	_	2	flat	2:flat	_
+4	into	_	Word	Word	_	6	R	6:R	_
+5	my	_	Word	Word	_	6	E	6:E	_
+6	trunk	_	Word	Word	_	1	orphan	1:orphan	_
+7	as	_	Word	Word	_	1	L	1:L	_
+8	you	_	Word	Word	_	9	A	9:A	_
+9	can	_	Word	Word	_	1	orphan	1:orphan	_
+10	,	_	Punctuation	Punctuation	_	1	punct	1:punct	_
+11	my	_	Word	Word	_	13	E	13:E	_
+12	traveling	_	Word	Word	_	13	E	13:E	_
+13	kit	_	Word	Word	_	1	orphan	1:orphan	_
+14	,	_	Punctuation	Punctuation	_	13	punct	13:punct	_
+15	my	_	Word	Word	_	16	E	16:E	_
+16	suits	_	Word	Word	_	1	orphan	1:orphan	_
+17	,	_	Punctuation	Punctuation	_	13	punct	13:punct	_
+18	shirts	_	Word	Word	_	1	orphan	1:orphan	_
+19	,	_	Punctuation	Punctuation	_	13	punct	13:punct	_
+20	and	_	Word	Word	_	13	N	13:N	_
+21	socks	_	Word	Word	_	1	orphan	1:orphan	_
+22	,	_	Punctuation	Punctuation	_	26	punct	26:punct	_
+23	don	_	Word	Word	_	26	F	26:F	_
+24	’t	_	Word	Word	_	26	D	26:D	_
+25	bother	_	Word	Word	_	26	E	26:E	_
+26	counting	_	Word	Word	_	1	orphan	1:orphan	_
+27	,	_	Punctuation	Punctuation	_	1	punct	1:punct	_
+28	just	_	Word	Word	_	29	D	29:D	_
+29	squeeze	_	Word	Word	_	1	orphan	1:orphan	_
+30	it	_	Word	Word	_	1	orphan	1:orphan	_
+31	all	_	Word	Word	_	30	E	30:E	_
+32	in	_	Word	Word	_	29	flat	29:flat	_
+33	—	_	Punctuation	Punctuation	_	1	punct	1:punct	_
+34	and	_	Word	Word	_	1	L	1:L	_
+35	hurry	_	Word	Word	_	1	orphan	1:orphan	_
+36	!	_	Punctuation	Punctuation	_	35	punct	35:punct	_
+

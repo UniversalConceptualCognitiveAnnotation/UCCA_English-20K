@@ -1,0 +1,21 @@
+# sent_id = 301000
+# text = “ Either we know every variety of creature populating our planet , or we do not .
+# doc_id = 
+1	“	_	Punctuation	Punctuation	_	4	punct	4:punct	_
+2	Either	_	Word	Word	_	4	L	4:L	_
+3	we	_	Word	Word	_	4	A	4:A	_
+4	know	_	Word	Word	_	0	root	0:root	_
+5	every	_	Word	Word	_	6	E	6:E	_
+6	variety	_	Word	Word	_	4	orphan	4:orphan	_
+7	of	_	Word	Word	_	8	R	8:R	_
+8	creature	_	Word	Word	_	4	orphan	4:orphan	_
+9	populating	_	Word	Word	_	4	orphan	4:orphan	_
+10	our	_	Word	Word	_	11	E	11:E	_
+11	planet	_	Word	Word	_	4	orphan	4:orphan	_
+12	,	_	Punctuation	Punctuation	_	4	punct	4:punct	_
+13	or	_	Word	Word	_	4	L	4:L	_
+14	we	_	Word	Word	_	15	A	15:A	_
+15	do	_	Word	Word	_	4	orphan	4:orphan	_
+16	not	_	Word	Word	_	15	D	15:D	_
+17	.	_	Punctuation	Punctuation	_	15	punct	15:punct	_
+

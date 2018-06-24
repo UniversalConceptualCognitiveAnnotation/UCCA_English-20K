@@ -1,0 +1,12 @@
+# sent_id = 902001
+# text = ” “ And why this powerful constitution ?
+# doc_id = 
+1	”	_	Punctuation	Punctuation	_	4	punct	4:punct	_
+2	“	_	Punctuation	Punctuation	_	4	punct	4:punct	_
+3	And	_	Word	Word	_	4	L	4:L	_
+4	why	_	Word	Word	_	0	root	0:root	_
+5	this	_	Word	Word	_	7	E	7:E	_
+6	powerful	_	Word	Word	_	7	E	7:E	_
+7	constitution	_	Word	Word	_	4	orphan	4:orphan	_
+8	?	_	Punctuation	Punctuation	_	7	punct	7:punct	_
+

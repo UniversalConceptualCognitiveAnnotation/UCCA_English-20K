@@ -1,0 +1,30 @@
+# sent_id = 56000
+# text = The Scotia hadn\u2019t run afoul of something , it had been fouled , and by a cutting or perforating instrument rather than a blunt one .
+# doc_id = 
+1	The	_	Word	Word	_	2	E	2:E	_
+2	Scotia	_	Word	Word	_	0	root	0:root	_
+3	hadn\u2019t	_	Word	Word	_	4	F	4:F	_
+4	run	_	Word	Word	_	2	orphan	2:orphan	_
+5	afoul	_	Word	Word	_	4	flat	4:flat	_
+6	of	_	Word	Word	_	7	R	7:R	_
+7	something	_	Word	Word	_	2	orphan	2:orphan	_
+8	,	_	Punctuation	Punctuation	_	4	punct	4:punct	_
+9	it	_	Word	Word	_	12	A	12:A	_
+10	had	_	Word	Word	_	12	F	12:F	_
+11	been	_	Word	Word	_	12	F	12:F	_
+12	fouled	_	Word	Word	_	2	orphan	2:orphan	_
+13	,	_	Punctuation	Punctuation	_	4	punct	4:punct	_
+14	and	_	Word	Word	_	4	L	4:L	_
+15	by	_	Word	Word	_	16	R	16:R	_
+16	a	_	Word	Word	_	2	orphan	2:orphan	_
+17	cutting	_	Word	Word	_	16	E	16:E	_
+18	or	_	Word	Word	_	16	N	16:N	_
+19	perforating	_	Word	Word	_	20	E	20:E	_
+20	instrument	_	Word	Word	_	2	orphan	2:orphan	_
+21	rather	_	Word	Word	_	16	R	16:R	_
+22	than	_	Word	Word	_	21	flat	21:flat	_
+23	a	_	Word	Word	_	25	E	25:E	_
+24	blunt	_	Word	Word	_	25	E	25:E	_
+25	one	_	Word	Word	_	2	orphan	2:orphan	_
+26	.	_	Punctuation	Punctuation	_	25	punct	25:punct	_
+

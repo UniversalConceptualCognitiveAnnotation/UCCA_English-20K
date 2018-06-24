@@ -1,0 +1,10 @@
+# sent_id = 885001
+# text = But it had better still .
+# doc_id = 
+1	But	_	Word	Word	_	3	L	3:L	_
+2	it	_	Word	Word	_	3	A	3:A	_
+3	had	_	Word	Word	_	0	root	0:root	_
+4	better	_	Word	Word	_	3	orphan	3:orphan	_
+5	still	_	Word	Word	_	4	E	4:E	_
+6	.	_	Punctuation	Punctuation	_	4	punct	4:punct	_
+

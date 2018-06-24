@@ -1,0 +1,31 @@
+# sent_id = 899003
+# text = So till I have proof to the contrary , I ’ll deny that baleen whales , sperm whales , or unicorns can do any such thing .
+# doc_id = 
+1	So	_	Word	Word	_	5	L	5:L	_
+2	till	_	Word	Word	_	5	L	5:L	_
+3	I	_	Word	Word	_	5	A	5:A	_
+4	have	_	Word	Word	_	5	F	5:F	_
+5	proof	_	Word	Word	_	0	root	0:root	_
+6	to	_	Word	Word	_	8	R	8:R	_
+7	the	_	Word	Word	_	8	E	8:E	_
+8	contrary	_	Word	Word	_	5	orphan	5:orphan	_
+9	,	_	Punctuation	Punctuation	_	5	punct	5:punct	_
+10	I	_	Word	Word	_	12	A	12:A	_
+11	’ll	_	Word	Word	_	12	E	12:E	_
+12	deny	_	Word	Word	_	5	orphan	5:orphan	_
+13	that	_	Word	Word	_	12	F	12:F	_
+14	baleen	_	Word	Word	_	15	E	15:E	_
+15	whales	_	Word	Word	_	5	orphan	5:orphan	_
+16	,	_	Punctuation	Punctuation	_	15	punct	15:punct	_
+17	sperm	_	Word	Word	_	18	E	18:E	_
+18	whales	_	Word	Word	_	5	orphan	5:orphan	_
+19	,	_	Punctuation	Punctuation	_	15	punct	15:punct	_
+20	or	_	Word	Word	_	15	N	15:N	_
+21	unicorns	_	Word	Word	_	15	C	15:C	_
+22	can	_	Word	Word	_	23	E	23:E	_
+23	do	_	Word	Word	_	5	orphan	5:orphan	_
+24	any	_	Word	Word	_	26	E	26:E	_
+25	such	_	Word	Word	_	26	E	26:E	_
+26	thing	_	Word	Word	_	5	orphan	5:orphan	_
+27	.	_	Punctuation	Punctuation	_	26	punct	26:punct	_
+

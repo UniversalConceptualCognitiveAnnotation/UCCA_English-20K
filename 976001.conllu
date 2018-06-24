@@ -1,0 +1,33 @@
+# sent_id = 976001
+# text = Snatching only a few minutes for meals and a few hours for sleep , come rain or come shine , I no longer left the ship ’s deck .
+# doc_id = 
+1	Snatching	_	Word	Word	_	0	root	0:root	_
+2	only	_	Word	Word	_	1	D	1:D	_
+3	a	_	Word	Word	_	5	E	5:E	_
+4	few	_	Word	Word	_	5	E	5:E	_
+5	minutes	_	Word	Word	_	1	orphan	1:orphan	_
+6	for	_	Word	Word	_	7	R	7:R	_
+7	meals	_	Word	Word	_	1	orphan	1:orphan	_
+8	and	_	Word	Word	_	1	L	1:L	_
+9	a	_	Word	Word	_	11	E	11:E	_
+10	few	_	Word	Word	_	11	E	11:E	_
+11	hours	_	Word	Word	_	1	orphan	1:orphan	_
+12	for	_	Word	Word	_	13	R	13:R	_
+13	sleep	_	Word	Word	_	1	orphan	1:orphan	_
+14	,	_	Punctuation	Punctuation	_	1	punct	1:punct	_
+15	come	_	Word	Word	_	16	E	16:E	_
+16	rain	_	Word	Word	_	1	orphan	1:orphan	_
+17	or	_	Word	Word	_	1	L	1:L	_
+18	come	_	Word	Word	_	19	E	19:E	_
+19	shine	_	Word	Word	_	1	orphan	1:orphan	_
+20	,	_	Punctuation	Punctuation	_	1	punct	1:punct	_
+21	I	_	Word	Word	_	24	A	24:A	_
+22	no	_	Word	Word	_	23	E	23:E	_
+23	longer	_	Word	Word	_	1	orphan	1:orphan	_
+24	left	_	Word	Word	_	1	orphan	1:orphan	_
+25	the	_	Word	Word	_	26	E	26:E	_
+26	ship	_	Word	Word	_	1	orphan	1:orphan	_
+27	’s	_	Word	Word	_	26	R	26:R	_
+28	deck	_	Word	Word	_	1	orphan	1:orphan	_
+29	.	_	Punctuation	Punctuation	_	28	punct	28:punct	_
+

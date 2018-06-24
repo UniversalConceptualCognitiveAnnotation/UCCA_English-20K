@@ -1,0 +1,33 @@
+# sent_id = 984004
+# text = Nothing remotely resembling a gigantic narwhale , or an underwater islet , or a derelict shipwreck , or a runaway reef , or anything the least bit unearthly !
+# doc_id = 
+1	Nothing	_	Word	Word	_	3	D	3:D	_
+2	remotely	_	Word	Word	_	3	D	3:D	_
+3	resembling	_	Word	Word	_	0	root	0:root	_
+4	a	_	Word	Word	_	6	E	6:E	_
+5	gigantic	_	Word	Word	_	6	E	6:E	_
+6	narwhale	_	Word	Word	_	3	orphan	3:orphan	_
+7	,	_	Punctuation	Punctuation	_	6	punct	6:punct	_
+8	or	_	Word	Word	_	6	N	6:N	_
+9	an	_	Word	Word	_	11	E	11:E	_
+10	underwater	_	Word	Word	_	11	E	11:E	_
+11	islet	_	Word	Word	_	3	orphan	3:orphan	_
+12	,	_	Punctuation	Punctuation	_	6	punct	6:punct	_
+13	or	_	Word	Word	_	6	N	6:N	_
+14	a	_	Word	Word	_	16	E	16:E	_
+15	derelict	_	Word	Word	_	16	E	16:E	_
+16	shipwreck	_	Word	Word	_	3	orphan	3:orphan	_
+17	,	_	Punctuation	Punctuation	_	6	punct	6:punct	_
+18	or	_	Word	Word	_	6	N	6:N	_
+19	a	_	Word	Word	_	21	E	21:E	_
+20	runaway	_	Word	Word	_	3	orphan	3:orphan	_
+21	reef	_	Word	Word	_	3	orphan	3:orphan	_
+22	,	_	Punctuation	Punctuation	_	6	punct	6:punct	_
+23	or	_	Word	Word	_	6	N	6:N	_
+24	anything	_	Word	Word	_	3	orphan	3:orphan	_
+25	the	_	Word	Word	_	27	E	27:E	_
+26	least	_	Word	Word	_	27	E	27:E	_
+27	bit	_	Word	Word	_	3	orphan	3:orphan	_
+28	unearthly	_	Word	Word	_	3	orphan	3:orphan	_
+29	!	_	Punctuation	Punctuation	_	28	punct	28:punct	_
+

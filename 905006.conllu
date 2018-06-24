@@ -1,0 +1,13 @@
+# sent_id = 905006
+# text = But in the water it ’s another story .
+# doc_id = 
+1	But	_	Word	Word	_	8	L	8:L	_
+2	in	_	Word	Word	_	4	R	4:R	_
+3	the	_	Word	Word	_	4	E	4:E	_
+4	water	_	Word	Word	_	0	root	0:root	_
+5	it	_	Word	Word	_	8	F	8:F	_
+6	’s	_	Word	Word	_	8	F	8:F	_
+7	another	_	Word	Word	_	8	E	8:E	_
+8	story	_	Word	Word	_	4	orphan	4:orphan	_
+9	.	_	Punctuation	Punctuation	_	8	punct	8:punct	_
+

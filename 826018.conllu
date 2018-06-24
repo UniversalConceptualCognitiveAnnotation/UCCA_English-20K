@@ -1,0 +1,11 @@
+# sent_id = 826018
+# text = ” “ Whatever detour master wishes .
+# doc_id = 
+1	”	_	Punctuation	Punctuation	_	4	punct	4:punct	_
+2	“	_	Punctuation	Punctuation	_	4	punct	4:punct	_
+3	Whatever	_	Word	Word	_	4	E	4:E	_
+4	detour	_	Word	Word	_	0	root	0:root	_
+5	master	_	Word	Word	_	6	A	6:A	_
+6	wishes	_	Word	Word	_	4	orphan	4:orphan	_
+7	.	_	Punctuation	Punctuation	_	6	punct	6:punct	_
+

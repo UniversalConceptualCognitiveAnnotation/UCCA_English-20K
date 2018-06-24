@@ -1,0 +1,51 @@
+# sent_id = 906000
+# text = “ All right then , my fine harpooner , if vertebrates several hundred meters long and proportionate in bulk live at such depths , their surface areas make up millions of square centimeters , and the pressure they undergo must be assessed in billions of kilograms .
+# doc_id = 
+1	“	_	Punctuation	Punctuation	_	6	punct	6:punct	_
+2	All	_	Word	Word	_	6	L	6:L	_
+3	right	_	Word	Word	_	2	flat	2:flat	_
+4	then	_	Word	Word	_	2	flat	2:flat	_
+5	,	_	Punctuation	Punctuation	_	6	punct	6:punct	_
+6	my	_	Word	Word	_	0	root	0:root	_
+7	fine	_	Word	Word	_	6	flat	6:flat	_
+8	harpooner	_	Word	Word	_	6	flat	6:flat	_
+9	,	_	Punctuation	Punctuation	_	6	punct	6:punct	_
+10	if	_	Word	Word	_	6	L	6:L	_
+11	vertebrates	_	Word	Word	_	6	orphan	6:orphan	_
+12	several	_	Word	Word	_	13	E	13:E	_
+13	hundred	_	Word	Word	_	6	orphan	6:orphan	_
+14	meters	_	Word	Word	_	6	orphan	6:orphan	_
+15	long	_	Word	Word	_	6	orphan	6:orphan	_
+16	and	_	Word	Word	_	15	N	15:N	_
+17	proportionate	_	Word	Word	_	19	D	19:D	_
+18	in	_	Word	Word	_	19	R	19:R	_
+19	bulk	_	Word	Word	_	6	orphan	6:orphan	_
+20	live	_	Word	Word	_	6	orphan	6:orphan	_
+21	at	_	Word	Word	_	23	R	23:R	_
+22	such	_	Word	Word	_	23	E	23:E	_
+23	depths	_	Word	Word	_	6	orphan	6:orphan	_
+24	,	_	Punctuation	Punctuation	_	6	punct	6:punct	_
+25	their	_	Word	Word	_	27	E	27:E	_
+26	surface	_	Word	Word	_	27	E	27:E	_
+27	areas	_	Word	Word	_	6	orphan	6:orphan	_
+28	make	_	Word	Word	_	6	orphan	6:orphan	_
+29	up	_	Word	Word	_	28	flat	28:flat	_
+30	millions	_	Word	Word	_	6	orphan	6:orphan	_
+31	of	_	Word	Word	_	30	R	30:R	_
+32	square	_	Word	Word	_	33	E	33:E	_
+33	centimeters	_	Word	Word	_	6	orphan	6:orphan	_
+34	,	_	Punctuation	Punctuation	_	6	punct	6:punct	_
+35	and	_	Word	Word	_	6	L	6:L	_
+36	the	_	Word	Word	_	37	E	37:E	_
+37	pressure	_	Word	Word	_	6	orphan	6:orphan	_
+38	they	_	Word	Word	_	39	A	39:A	_
+39	undergo	_	Word	Word	_	6	orphan	6:orphan	_
+40	must	_	Word	Word	_	42	E	42:E	_
+41	be	_	Word	Word	_	42	F	42:F	_
+42	assessed	_	Word	Word	_	6	orphan	6:orphan	_
+43	in	_	Word	Word	_	44	R	44:R	_
+44	billions	_	Word	Word	_	6	orphan	6:orphan	_
+45	of	_	Word	Word	_	44	R	44:R	_
+46	kilograms	_	Word	Word	_	6	orphan	6:orphan	_
+47	.	_	Punctuation	Punctuation	_	46	punct	46:punct	_
+

@@ -1,0 +1,11 @@
+# sent_id = 46001
+# text = The \u201Cmonster question\u201D inflamed all minds .
+# doc_id = 
+1	The	_	Word	Word	_	3	E	3:E	_
+2	\u201Cmonster	_	Word	Word	_	3	E	3:E	_
+3	question\u201D	_	Word	Word	_	0	root	0:root	_
+4	inflamed	_	Word	Word	_	3	orphan	3:orphan	_
+5	all	_	Word	Word	_	6	E	6:E	_
+6	minds	_	Word	Word	_	3	orphan	3:orphan	_
+7	.	_	Punctuation	Punctuation	_	6	punct	6:punct	_
+

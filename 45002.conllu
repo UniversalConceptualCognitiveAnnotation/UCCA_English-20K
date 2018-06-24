@@ -1,0 +1,55 @@
+# sent_id = 45002
+# text = In those newspapers short of copy , you saw the reappearance of every gigantic imaginary creature , from \u201CMoby Dick,\u201D that dreadful white whale from the High Arctic regions , to the stupendous kraken whose tentacles could entwine a 500 - ton craft and drag it into the ocean depths .
+# doc_id = 
+1	In	_	Word	Word	_	3	R	3:R	_
+2	those	_	Word	Word	_	3	E	3:E	_
+3	newspapers	_	Word	Word	_	0	root	0:root	_
+4	short	_	Word	Word	_	6	E	6:E	_
+5	of	_	Word	Word	_	6	R	6:R	_
+6	copy	_	Word	Word	_	3	orphan	3:orphan	_
+7	,	_	Punctuation	Punctuation	_	9	punct	9:punct	_
+8	you	_	Word	Word	_	9	A	9:A	_
+9	saw	_	Word	Word	_	3	orphan	3:orphan	_
+10	the	_	Word	Word	_	11	E	11:E	_
+11	reappearance	_	Word	Word	_	3	orphan	3:orphan	_
+12	of	_	Word	Word	_	11	R	11:R	_
+13	every	_	Word	Word	_	16	E	16:E	_
+14	gigantic	_	Word	Word	_	16	E	16:E	_
+15	imaginary	_	Word	Word	_	16	E	16:E	_
+16	creature	_	Word	Word	_	3	orphan	3:orphan	_
+17	,	_	Punctuation	Punctuation	_	16	punct	16:punct	_
+18	from	_	Word	Word	_	16	R	16:R	_
+19	\u201CMoby	_	Word	Word	_	3	orphan	3:orphan	_
+20	Dick,\u201D	_	Word	Word	_	19	flat	19:flat	_
+21	that	_	Word	Word	_	24	E	24:E	_
+22	dreadful	_	Word	Word	_	24	E	24:E	_
+23	white	_	Word	Word	_	24	E	24:E	_
+24	whale	_	Word	Word	_	3	orphan	3:orphan	_
+25	from	_	Word	Word	_	24	R	24:R	_
+26	the	_	Word	Word	_	29	E	29:E	_
+27	High	_	Word	Word	_	28	E	28:E	_
+28	Arctic	_	Word	Word	_	3	orphan	3:orphan	_
+29	regions	_	Word	Word	_	3	orphan	3:orphan	_
+30	,	_	Punctuation	Punctuation	_	16	punct	16:punct	_
+31	to	_	Word	Word	_	16	R	16:R	_
+32	the	_	Word	Word	_	34	E	34:E	_
+33	stupendous	_	Word	Word	_	34	E	34:E	_
+34	kraken	_	Word	Word	_	3	orphan	3:orphan	_
+35	whose	_	Word	Word	_	38	F	38:F	_
+36	tentacles	_	Word	Word	_	3	orphan	3:orphan	_
+37	could	_	Word	Word	_	38	E	38:E	_
+38	entwine	_	Word	Word	_	3	orphan	3:orphan	_
+39	a	_	Word	Word	_	43	E	43:E	_
+40	500	_	Word	Word	_	42	E	42:E	_
+41	-	_	Punctuation	Punctuation	_	42	punct	42:punct	_
+42	ton	_	Word	Word	_	3	orphan	3:orphan	_
+43	craft	_	Word	Word	_	3	orphan	3:orphan	_
+44	and	_	Word	Word	_	38	L	38:L	_
+45	drag	_	Word	Word	_	3	orphan	3:orphan	_
+46	it	_	Word	Word	_	45	A	45:A	_
+47	into	_	Word	Word	_	50	R	50:R	_
+48	the	_	Word	Word	_	50	E	50:E	_
+49	ocean	_	Word	Word	_	50	E	50:E	_
+50	depths	_	Word	Word	_	3	orphan	3:orphan	_
+51	.	_	Punctuation	Punctuation	_	50	punct	50:punct	_
+

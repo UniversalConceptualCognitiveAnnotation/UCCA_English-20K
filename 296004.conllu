@@ -1,0 +1,43 @@
+# sent_id = 296004
+# text = As long as I could deny the reality of the business , I confined myself to a flat “ no comment . ” But soon , pinned to the wall , I had to explain myself straight out .
+# doc_id = 
+1	As	_	Word	Word	_	2	R	2:R	_
+2	long	_	Word	Word	_	0	root	0:root	_
+3	as	_	Word	Word	_	2	R	2:R	_
+4	I	_	Word	Word	_	6	A	6:A	_
+5	could	_	Word	Word	_	6	E	6:E	_
+6	deny	_	Word	Word	_	2	orphan	2:orphan	_
+7	the	_	Word	Word	_	8	E	8:E	_
+8	reality	_	Word	Word	_	2	orphan	2:orphan	_
+9	of	_	Word	Word	_	11	R	11:R	_
+10	the	_	Word	Word	_	11	E	11:E	_
+11	business	_	Word	Word	_	2	orphan	2:orphan	_
+12	,	_	Punctuation	Punctuation	_	6	punct	6:punct	_
+13	I	_	Word	Word	_	14	A	14:A	_
+14	confined	_	Word	Word	_	2	orphan	2:orphan	_
+15	myself	_	Word	Word	_	14	A	14:A	_
+16	to	_	Word	Word	_	21	R	21:R	_
+17	a	_	Word	Word	_	21	E	21:E	_
+18	flat	_	Word	Word	_	21	E	21:E	_
+19	“	_	Punctuation	Punctuation	_	21	punct	21:punct	_
+20	no	_	Word	Word	_	21	E	21:E	_
+21	comment	_	Word	Word	_	2	orphan	2:orphan	_
+22	.	_	Punctuation	Punctuation	_	6	punct	6:punct	_
+23	”	_	Punctuation	Punctuation	_	6	punct	6:punct	_
+24	But	_	Word	Word	_	6	L	6:L	_
+25	soon	_	Word	Word	_	35	D	35:D	_
+26	,	_	Punctuation	Punctuation	_	6	punct	6:punct	_
+27	pinned	_	Word	Word	_	2	orphan	2:orphan	_
+28	to	_	Word	Word	_	27	flat	27:flat	_
+29	the	_	Word	Word	_	27	flat	27:flat	_
+30	wall	_	Word	Word	_	27	flat	27:flat	_
+31	,	_	Punctuation	Punctuation	_	27	punct	27:punct	_
+32	I	_	Word	Word	_	35	A	35:A	_
+33	had	_	Word	Word	_	35	E	35:E	_
+34	to	_	Word	Word	_	33	flat	33:flat	_
+35	explain	_	Word	Word	_	2	orphan	2:orphan	_
+36	myself	_	Word	Word	_	35	E	35:E	_
+37	straight	_	Word	Word	_	35	D	35:D	_
+38	out	_	Word	Word	_	37	flat	37:flat	_
+39	.	_	Punctuation	Punctuation	_	35	punct	35:punct	_
+

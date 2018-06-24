@@ -1,0 +1,18 @@
+# sent_id = 826014
+# text = Anyhow , we ’ll leave instructions to ship the whole menagerie to France .
+# doc_id = 
+1	Anyhow	_	Word	Word	_	5	L	5:L	_
+2	,	_	Punctuation	Punctuation	_	5	punct	5:punct	_
+3	we	_	Word	Word	_	5	A	5:A	_
+4	’ll	_	Word	Word	_	5	F	5:F	_
+5	leave	_	Word	Word	_	0	root	0:root	_
+6	instructions	_	Word	Word	_	5	orphan	5:orphan	_
+7	to	_	Word	Word	_	8	F	8:F	_
+8	ship	_	Word	Word	_	5	orphan	5:orphan	_
+9	the	_	Word	Word	_	11	E	11:E	_
+10	whole	_	Word	Word	_	11	E	11:E	_
+11	menagerie	_	Word	Word	_	5	orphan	5:orphan	_
+12	to	_	Word	Word	_	13	R	13:R	_
+13	France	_	Word	Word	_	5	orphan	5:orphan	_
+14	.	_	Punctuation	Punctuation	_	13	punct	13:punct	_
+

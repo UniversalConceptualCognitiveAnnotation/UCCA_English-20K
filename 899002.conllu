@@ -1,0 +1,13 @@
+# sent_id = 899002
+# text = “ But I ’ve never seen the like .
+# doc_id = 
+1	“	_	Punctuation	Punctuation	_	6	punct	6:punct	_
+2	But	_	Word	Word	_	6	L	6:L	_
+3	I	_	Word	Word	_	6	A	6:A	_
+4	’ve	_	Word	Word	_	6	F	6:F	_
+5	never	_	Word	Word	_	6	D	6:D	_
+6	seen	_	Word	Word	_	0	root	0:root	_
+7	the	_	Word	Word	_	8	E	8:E	_
+8	like	_	Word	Word	_	6	orphan	6:orphan	_
+9	.	_	Punctuation	Punctuation	_	8	punct	8:punct	_
+

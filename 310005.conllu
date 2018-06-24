@@ -1,0 +1,41 @@
+# sent_id = 310005
+# text = The liquid masses support the largest known species of mammals and perhaps conceal mollusks of incomparable size or crustaceans too frightful to contemplate , such as 100 - meter lobsters or crabs weighing 200 metric tons !
+# doc_id = 
+1	The	_	Word	Word	_	3	E	3:E	_
+2	liquid	_	Word	Word	_	3	E	3:E	_
+3	masses	_	Word	Word	_	0	root	0:root	_
+4	support	_	Word	Word	_	3	orphan	3:orphan	_
+5	the	_	Word	Word	_	8	E	8:E	_
+6	largest	_	Word	Word	_	8	E	8:E	_
+7	known	_	Word	Word	_	3	orphan	3:orphan	_
+8	species	_	Word	Word	_	3	orphan	3:orphan	_
+9	of	_	Word	Word	_	10	R	10:R	_
+10	mammals	_	Word	Word	_	3	orphan	3:orphan	_
+11	and	_	Word	Word	_	4	L	4:L	_
+12	perhaps	_	Word	Word	_	4	G	4:G	_
+13	conceal	_	Word	Word	_	3	orphan	3:orphan	_
+14	mollusks	_	Word	Word	_	3	orphan	3:orphan	_
+15	of	_	Word	Word	_	17	R	17:R	_
+16	incomparable	_	Word	Word	_	17	E	17:E	_
+17	size	_	Word	Word	_	3	orphan	3:orphan	_
+18	or	_	Word	Word	_	14	N	14:N	_
+19	crustaceans	_	Word	Word	_	3	orphan	3:orphan	_
+20	too	_	Word	Word	_	21	E	21:E	_
+21	frightful	_	Word	Word	_	3	orphan	3:orphan	_
+22	to	_	Word	Word	_	23	F	23:F	_
+23	contemplate	_	Word	Word	_	3	orphan	3:orphan	_
+24	,	_	Punctuation	Punctuation	_	19	punct	19:punct	_
+25	such	_	Word	Word	_	30	R	30:R	_
+26	as	_	Word	Word	_	25	flat	25:flat	_
+27	100	_	Word	Word	_	29	E	29:E	_
+28	-	_	Punctuation	Punctuation	_	29	punct	29:punct	_
+29	meter	_	Word	Word	_	3	orphan	3:orphan	_
+30	lobsters	_	Word	Word	_	3	orphan	3:orphan	_
+31	or	_	Word	Word	_	30	N	30:N	_
+32	crabs	_	Word	Word	_	3	orphan	3:orphan	_
+33	weighing	_	Word	Word	_	3	orphan	3:orphan	_
+34	200	_	Word	Word	_	36	E	36:E	_
+35	metric	_	Word	Word	_	36	E	36:E	_
+36	tons	_	Word	Word	_	3	orphan	3:orphan	_
+37	!	_	Punctuation	Punctuation	_	36	punct	36:punct	_
+

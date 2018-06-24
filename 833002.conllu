@@ -1,0 +1,13 @@
+# sent_id = 833002
+# text = “ Commander Farragut ? ” “ In person .
+# doc_id = 
+1	“	_	Punctuation	Punctuation	_	8	punct	8:punct	_
+2	Commander	_	Word	Word	_	3	E	3:E	_
+3	Farragut	_	Word	Word	_	0	root	0:root	_
+4	?	_	Punctuation	Punctuation	_	3	punct	3:punct	_
+5	”	_	Punctuation	Punctuation	_	3	punct	3:punct	_
+6	“	_	Punctuation	Punctuation	_	3	punct	3:punct	_
+7	In	_	Word	Word	_	8	R	8:R	_
+8	person	_	Word	Word	_	3	orphan	3:orphan	_
+9	.	_	Punctuation	Punctuation	_	8	punct	8:punct	_
+

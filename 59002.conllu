@@ -1,0 +1,31 @@
+# sent_id = 59002
+# text = Such a leak could not be patched , and with its paddle wheels half swamped , the Scotia had no choice but to continue its voyage .
+# doc_id = 
+1	Such	_	Word	Word	_	3	E	3:E	_
+2	a	_	Word	Word	_	3	E	3:E	_
+3	leak	_	Word	Word	_	0	root	0:root	_
+4	could	_	Word	Word	_	7	E	7:E	_
+5	not	_	Word	Word	_	7	D	7:D	_
+6	be	_	Word	Word	_	7	F	7:F	_
+7	patched	_	Word	Word	_	3	orphan	3:orphan	_
+8	,	_	Punctuation	Punctuation	_	7	punct	7:punct	_
+9	and	_	Word	Word	_	7	L	7:L	_
+10	with	_	Word	Word	_	13	R	13:R	_
+11	its	_	Word	Word	_	13	E	13:E	_
+12	paddle	_	Word	Word	_	13	E	13:E	_
+13	wheels	_	Word	Word	_	3	orphan	3:orphan	_
+14	half	_	Word	Word	_	15	D	15:D	_
+15	swamped	_	Word	Word	_	3	orphan	3:orphan	_
+16	,	_	Punctuation	Punctuation	_	24	punct	24:punct	_
+17	the	_	Word	Word	_	18	E	18:E	_
+18	Scotia	_	Word	Word	_	3	orphan	3:orphan	_
+19	had	_	Word	Word	_	21	F	21:F	_
+20	no	_	Word	Word	_	21	E	21:E	_
+21	choice	_	Word	Word	_	3	orphan	3:orphan	_
+22	but	_	Word	Word	_	21	R	21:R	_
+23	to	_	Word	Word	_	24	F	24:F	_
+24	continue	_	Word	Word	_	3	orphan	3:orphan	_
+25	its	_	Word	Word	_	26	E	26:E	_
+26	voyage	_	Word	Word	_	3	orphan	3:orphan	_
+27	.	_	Punctuation	Punctuation	_	26	punct	26:punct	_
+

@@ -1,0 +1,18 @@
+# sent_id = 983002
+# text = Hearts were pounding hideously , gearing up for futures full of incurable aneurysms .
+# doc_id = 
+1	Hearts	_	Word	Word	_	3	A	3:A	_
+2	were	_	Word	Word	_	3	F	3:F	_
+3	pounding	_	Word	Word	_	0	root	0:root	_
+4	hideously	_	Word	Word	_	3	D	3:D	_
+5	,	_	Punctuation	Punctuation	_	3	punct	3:punct	_
+6	gearing	_	Word	Word	_	3	orphan	3:orphan	_
+7	up	_	Word	Word	_	6	flat	6:flat	_
+8	for	_	Word	Word	_	9	R	9:R	_
+9	futures	_	Word	Word	_	3	orphan	3:orphan	_
+10	full	_	Word	Word	_	3	orphan	3:orphan	_
+11	of	_	Word	Word	_	10	R	10:R	_
+12	incurable	_	Word	Word	_	3	orphan	3:orphan	_
+13	aneurysms	_	Word	Word	_	3	orphan	3:orphan	_
+14	.	_	Punctuation	Punctuation	_	13	punct	13:punct	_
+

@@ -1,0 +1,30 @@
+# sent_id = 286001
+# text = In my capacity as Assistant Professor at the Paris Museum of Natural History , I had been attached to this expedition by the French government .
+# doc_id = 
+1	In	_	Word	Word	_	3	R	3:R	_
+2	my	_	Word	Word	_	3	E	3:E	_
+3	capacity	_	Word	Word	_	0	root	0:root	_
+4	as	_	Word	Word	_	3	R	3:R	_
+5	Assistant	_	Word	Word	_	6	E	6:E	_
+6	Professor	_	Word	Word	_	3	orphan	3:orphan	_
+7	at	_	Word	Word	_	10	R	10:R	_
+8	the	_	Word	Word	_	10	E	10:E	_
+9	Paris	_	Word	Word	_	10	E	10:E	_
+10	Museum	_	Word	Word	_	3	orphan	3:orphan	_
+11	of	_	Word	Word	_	13	R	13:R	_
+12	Natural	_	Word	Word	_	13	E	13:E	_
+13	History	_	Word	Word	_	3	orphan	3:orphan	_
+14	,	_	Punctuation	Punctuation	_	18	punct	18:punct	_
+15	I	_	Word	Word	_	18	A	18:A	_
+16	had	_	Word	Word	_	18	F	18:F	_
+17	been	_	Word	Word	_	18	F	18:F	_
+18	attached	_	Word	Word	_	3	orphan	3:orphan	_
+19	to	_	Word	Word	_	21	R	21:R	_
+20	this	_	Word	Word	_	21	E	21:E	_
+21	expedition	_	Word	Word	_	3	orphan	3:orphan	_
+22	by	_	Word	Word	_	25	R	25:R	_
+23	the	_	Word	Word	_	25	E	25:E	_
+24	French	_	Word	Word	_	25	E	25:E	_
+25	government	_	Word	Word	_	3	orphan	3:orphan	_
+26	.	_	Punctuation	Punctuation	_	25	punct	25:punct	_
+

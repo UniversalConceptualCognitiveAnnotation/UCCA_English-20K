@@ -1,0 +1,30 @@
+# sent_id = 894001
+# text = Quite naturally , I led our conversation around to the giant unicorn , and I weighed our expedition ’s various chances for success or failure .
+# doc_id = 
+1	Quite	_	Word	Word	_	2	E	2:E	_
+2	naturally	_	Word	Word	_	0	root	0:root	_
+3	,	_	Punctuation	Punctuation	_	5	punct	5:punct	_
+4	I	_	Word	Word	_	5	A	5:A	_
+5	led	_	Word	Word	_	2	orphan	2:orphan	_
+6	our	_	Word	Word	_	7	E	7:E	_
+7	conversation	_	Word	Word	_	2	orphan	2:orphan	_
+8	around	_	Word	Word	_	2	orphan	2:orphan	_
+9	to	_	Word	Word	_	8	R	8:R	_
+10	the	_	Word	Word	_	12	E	12:E	_
+11	giant	_	Word	Word	_	12	E	12:E	_
+12	unicorn	_	Word	Word	_	2	orphan	2:orphan	_
+13	,	_	Punctuation	Punctuation	_	5	punct	5:punct	_
+14	and	_	Word	Word	_	5	L	5:L	_
+15	I	_	Word	Word	_	16	A	16:A	_
+16	weighed	_	Word	Word	_	2	orphan	2:orphan	_
+17	our	_	Word	Word	_	18	E	18:E	_
+18	expedition	_	Word	Word	_	2	orphan	2:orphan	_
+19	’s	_	Word	Word	_	18	R	18:R	_
+20	various	_	Word	Word	_	21	E	21:E	_
+21	chances	_	Word	Word	_	2	orphan	2:orphan	_
+22	for	_	Word	Word	_	23	R	23:R	_
+23	success	_	Word	Word	_	2	orphan	2:orphan	_
+24	or	_	Word	Word	_	23	N	23:N	_
+25	failure	_	Word	Word	_	2	orphan	2:orphan	_
+26	.	_	Punctuation	Punctuation	_	25	punct	25:punct	_
+

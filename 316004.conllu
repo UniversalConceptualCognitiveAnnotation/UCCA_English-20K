@@ -1,0 +1,13 @@
+# sent_id = 316004
+# text = Not a crewman was missing from his post .
+# doc_id = 
+1	Not	_	Word	Word	_	3	E	3:E	_
+2	a	_	Word	Word	_	3	E	3:E	_
+3	crewman	_	Word	Word	_	0	root	0:root	_
+4	was	_	Word	Word	_	5	F	5:F	_
+5	missing	_	Word	Word	_	3	orphan	3:orphan	_
+6	from	_	Word	Word	_	8	R	8:R	_
+7	his	_	Word	Word	_	8	E	8:E	_
+8	post	_	Word	Word	_	3	orphan	3:orphan	_
+9	.	_	Punctuation	Punctuation	_	8	punct	8:punct	_
+

@@ -1,0 +1,9 @@
+# sent_id = 974000
+# text = “ Open your eyes !
+# doc_id = 
+1	“	_	Punctuation	Punctuation	_	2	punct	2:punct	_
+2	Open	_	Word	Word	_	0	root	0:root	_
+3	your	_	Word	Word	_	4	E	4:E	_
+4	eyes	_	Word	Word	_	2	orphan	2:orphan	_
+5	!	_	Punctuation	Punctuation	_	4	punct	4:punct	_
+

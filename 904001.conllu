@@ -1,0 +1,14 @@
+# sent_id = 904001
+# text = “ You can make figures do anything you want !
+# doc_id = 
+1	“	_	Punctuation	Punctuation	_	9	punct	9:punct	_
+2	You	_	Word	Word	_	4	A	4:A	_
+3	can	_	Word	Word	_	4	E	4:E	_
+4	make	_	Word	Word	_	0	root	0:root	_
+5	figures	_	Word	Word	_	4	A	4:A	_
+6	do	_	Word	Word	_	4	orphan	4:orphan	_
+7	anything	_	Word	Word	_	9	A	9:A	_
+8	you	_	Word	Word	_	9	A	9:A	_
+9	want	_	Word	Word	_	4	orphan	4:orphan	_
+10	!	_	Punctuation	Punctuation	_	9	punct	9:punct	_
+

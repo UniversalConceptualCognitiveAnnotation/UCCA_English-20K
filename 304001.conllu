@@ -1,0 +1,39 @@
+# sent_id = 304001
+# text = Increase its dimensions fivefold or even tenfold , then give this cetacean a strength in proportion to its size while enlarging its offensive weapons , and you have the animal we ’re looking for .
+# doc_id = 
+1	Increase	_	Word	Word	_	0	root	0:root	_
+2	its	_	Word	Word	_	3	E	3:E	_
+3	dimensions	_	Word	Word	_	1	orphan	1:orphan	_
+4	fivefold	_	Word	Word	_	1	orphan	1:orphan	_
+5	or	_	Word	Word	_	4	N	4:N	_
+6	even	_	Word	Word	_	7	E	7:E	_
+7	tenfold	_	Word	Word	_	1	orphan	1:orphan	_
+8	,	_	Punctuation	Punctuation	_	1	punct	1:punct	_
+9	then	_	Word	Word	_	1	L	1:L	_
+10	give	_	Word	Word	_	1	orphan	1:orphan	_
+11	this	_	Word	Word	_	12	E	12:E	_
+12	cetacean	_	Word	Word	_	1	orphan	1:orphan	_
+13	a	_	Word	Word	_	14	E	14:E	_
+14	strength	_	Word	Word	_	1	orphan	1:orphan	_
+15	in	_	Word	Word	_	16	R	16:R	_
+16	proportion	_	Word	Word	_	1	orphan	1:orphan	_
+17	to	_	Word	Word	_	16	R	16:R	_
+18	its	_	Word	Word	_	19	E	19:E	_
+19	size	_	Word	Word	_	1	orphan	1:orphan	_
+20	while	_	Word	Word	_	1	L	1:L	_
+21	enlarging	_	Word	Word	_	1	orphan	1:orphan	_
+22	its	_	Word	Word	_	24	E	24:E	_
+23	offensive	_	Word	Word	_	24	E	24:E	_
+24	weapons	_	Word	Word	_	1	orphan	1:orphan	_
+25	,	_	Punctuation	Punctuation	_	1	punct	1:punct	_
+26	and	_	Word	Word	_	1	L	1:L	_
+27	you	_	Word	Word	_	28	A	28:A	_
+28	have	_	Word	Word	_	1	orphan	1:orphan	_
+29	the	_	Word	Word	_	30	E	30:E	_
+30	animal	_	Word	Word	_	1	orphan	1:orphan	_
+31	we	_	Word	Word	_	33	A	33:A	_
+32	’re	_	Word	Word	_	33	F	33:F	_
+33	looking	_	Word	Word	_	1	orphan	1:orphan	_
+34	for	_	Word	Word	_	33	flat	33:flat	_
+35	.	_	Punctuation	Punctuation	_	33	punct	33:punct	_
+

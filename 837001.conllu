@@ -1,0 +1,31 @@
+# sent_id = 837001
+# text = “ With all due respect to master , ” Conseil replied , “ as comfortable as a hermit crab inside the shell of a whelk . ”
+# doc_id = 
+1	“	_	Punctuation	Punctuation	_	15	punct	15:punct	_
+2	With	_	Word	Word	_	15	F	15:F	_
+3	all	_	Word	Word	_	2	flat	2:flat	_
+4	due	_	Word	Word	_	2	flat	2:flat	_
+5	respect	_	Word	Word	_	2	flat	2:flat	_
+6	to	_	Word	Word	_	2	flat	2:flat	_
+7	master	_	Word	Word	_	2	flat	2:flat	_
+8	,	_	Punctuation	Punctuation	_	15	punct	15:punct	_
+9	”	_	Punctuation	Punctuation	_	15	punct	15:punct	_
+10	Conseil	_	Word	Word	_	11	A	11:A	_
+11	replied	_	Word	Word	_	0	root	0:root	_
+12	,	_	Punctuation	Punctuation	_	15	punct	15:punct	_
+13	“	_	Punctuation	Punctuation	_	15	punct	15:punct	_
+14	as	_	Word	Word	_	15	F	15:F	_
+15	comfortable	_	Word	Word	_	11	orphan	11:orphan	_
+16	as	_	Word	Word	_	15	F	15:F	_
+17	a	_	Word	Word	_	19	E	19:E	_
+18	hermit	_	Word	Word	_	19	E	19:E	_
+19	crab	_	Word	Word	_	11	orphan	11:orphan	_
+20	inside	_	Word	Word	_	22	R	22:R	_
+21	the	_	Word	Word	_	22	E	22:E	_
+22	shell	_	Word	Word	_	11	orphan	11:orphan	_
+23	of	_	Word	Word	_	25	R	25:R	_
+24	a	_	Word	Word	_	25	E	25:E	_
+25	whelk	_	Word	Word	_	11	orphan	11:orphan	_
+26	.	_	Punctuation	Punctuation	_	25	punct	25:punct	_
+27	”	_	Punctuation	Punctuation	_	25	punct	25:punct	_
+
