@@ -1,0 +1,12 @@
+1	But	_	Word	-	-	_	_	L	_	_
+2	Commander	_	Word	-	+	_	_	A	_	A
+3	Farragut	_	Word	-	-	_	Terminal	_	_	_
+4	wanted	_	Word	-	+	_	_	_	_	_
+5	nothing	_	Word	-	+	_	_	_	_	D
+6	more	_	Word	-	-	_	_	_	Terminal	_
+7	than	_	Word	-	-	_	_	_	Terminal	_
+8	to	_	Word	-	-	_	_	_	_	F
+9	go	_	Word	-	+	_	_	_	_	_
+10	forth	_	Word	-	-	_	_	_	_	Terminal
+11	.	_	Punctuation	-	-	_	_	_	_	U
+

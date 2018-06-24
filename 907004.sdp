@@ -1,0 +1,24 @@
+1	That	_	Word	-	-	_	_	_	L	_	_
+2	deep	_	Word	-	-	_	_	_	_	_	_
+3	in	_	Word	-	-	_	R	_	_	_	_
+4	the	_	Word	-	-	_	E	_	_	_	_
+5	sea	_	Word	-	+	_	_	_	_	_	_
+6	,	_	Punctuation	-	-	_	_	_	U	_	_
+7	such	_	Word	-	-	_	_	E	_	_	_
+8	animals	_	Word	-	+	_	_	_	_	_	_
+9	would	_	Word	-	-	_	_	_	E	_	_
+10	need	_	Word	-	-	_	_	_	E	_	_
+11	to	_	Word	-	-	_	_	_	F	_	_
+12	be	_	Word	-	-	_	_	_	F	_	_
+13	just	_	Word	-	-	_	_	_	E	_	_
+14	as	_	Word	-	-	_	_	_	F	_	_
+15	strong	_	Word	-	+	_	_	_	_	_	_
+16	as	_	Word	-	-	_	_	_	L	_	_
+17	you	_	Word	-	-	_	_	_	_	A	_
+18	say	_	Word	-	+	_	_	_	_	_	_
+19	—	_	Punctuation	-	-	_	_	_	U	_	_
+20	if	_	Word	-	-	_	_	_	L	_	_
+21	they	_	Word	-	-	_	_	_	_	_	A
+22	exist	_	Word	-	+	_	_	_	_	_	_
+23	.	_	Punctuation	-	-	_	_	_	_	_	U
+

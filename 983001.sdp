@@ -1,0 +1,13 @@
+1	And	_	Word	-	-	_	_	_	L
+2	in	_	Word	-	-	_	R	_	_
+3	all	_	Word	-	-	_	E	_	_
+4	honesty	_	Word	-	+	_	_	_	_
+5	,	_	Punctuation	-	-	_	_	_	U
+6	shipboard	_	Word	-	-	_	_	E	_
+7	conditions	_	Word	-	+	_	_	_	_
+8	became	_	Word	-	-	_	_	_	E
+9	life	_	Word	-	-	_	_	_	E
+10	-	_	Punctuation	-	-	_	_	_	U
+11	threatening	_	Word	-	+	_	_	_	_
+12	.	_	Punctuation	-	-	_	_	_	U
+

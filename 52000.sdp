@@ -1,0 +1,16 @@
+1	No	_	Word	-	-	_	E	_	_	_	_
+2	one	_	Word	-	+	_	_	_	_	_	_
+3	is	_	Word	-	-	_	_	F	_	_	_
+4	unaware	_	Word	-	+	_	_	_	_	_	_
+5	of	_	Word	-	-	_	_	_	R	_	_
+6	the	_	Word	-	-	_	_	_	E	_	_
+7	name	_	Word	-	+	_	_	_	_	_	_
+8	of	_	Word	-	-	_	_	_	_	_	R
+9	that	_	Word	-	-	_	_	_	_	E	_
+10	famous	_	Word	-	-	_	_	_	_	E	_
+11	English	_	Word	-	-	_	_	_	_	E	_
+12	shipowner	_	Word	-	+	_	_	_	_	_	_
+13	,	_	Punctuation	-	-	_	_	_	_	_	U
+14	Cunard	_	Word	-	+	_	_	_	_	_	_
+15	.	_	Punctuation	-	-	_	_	_	_	_	U
+

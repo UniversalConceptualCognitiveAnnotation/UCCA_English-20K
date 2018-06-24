@@ -1,0 +1,11 @@
+1	And	_	Word	-	+	_	_	L
+2	yet	_	Word	-	-	_	Terminal	_
+3	,	_	Punctuation	-	-	_	_	U
+4	what	_	Word	-	-	_	_	F
+5	a	_	Word	-	-	_	_	E
+6	fine	_	Word	-	-	_	_	E
+7	,	_	Punctuation	-	-	_	_	U
+8	gallant	_	Word	-	-	_	_	E
+9	lad	_	Word	-	+	_	_	_
+10	!	_	Punctuation	-	-	_	_	U
+

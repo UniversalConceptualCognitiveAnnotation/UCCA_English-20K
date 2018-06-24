@@ -1,0 +1,18 @@
+1	“	_	Punctuation	-	-	_	U	_
+2	Go	_	Word	-	+	_	_	_
+3	on	_	Word	-	-	_	Terminal	_
+4	!	_	Punctuation	-	-	_	U	_
+5	”	_	Punctuation	-	-	_	U	_
+6	“	_	Punctuation	-	-	_	U	_
+7	Because	_	Word	-	-	_	L	_
+8	.	_	Punctuation	-	-	_	U	_
+9	.	_	Punctuation	-	-	_	U	_
+10	.	_	Punctuation	-	-	_	U	_
+11	it	_	Word	-	-	_	_	A
+12	just	_	Word	-	-	_	_	D
+13	couldn	_	Word	-	-	_	_	E
+14	’t	_	Word	-	-	_	_	D
+15	be	_	Word	-	-	_	_	F
+16	true	_	Word	-	+	_	_	_
+17	!	_	Punctuation	-	-	_	_	U
+

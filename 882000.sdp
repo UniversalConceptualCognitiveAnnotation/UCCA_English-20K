@@ -1,0 +1,27 @@
+1	As	_	Word	-	+	_	_	_	L	_	_	_	_	_	_
+2	for	_	Word	-	-	_	Terminal	_	_	_	_	_	_	_	_
+3	the	_	Word	-	-	_	_	E	_	_	_	_	_	_	_
+4	crew	_	Word	-	+	_	_	_	_	A	_	A	A	_	A
+5	,	_	Punctuation	-	-	_	_	_	U	_	_	_	_	_	_
+6	they	_	Word	-	-	_	_	_	F	_	_	_	_	_	_
+7	only	_	Word	-	-	_	_	_	D	_	_	_	_	_	_
+8	wanted	_	Word	-	+	_	_	_	_	_	_	_	_	_	_
+9	to	_	Word	-	-	_	_	_	_	F	_	_	_	_	_
+10	encounter	_	Word	-	+	_	_	_	_	_	_	_	_	_	_
+11	the	_	Word	-	-	_	_	_	_	_	E	_	_	_	_
+12	unicorn	_	Word	-	+	_	_	_	_	_	_	_	_	_	_
+13	,	_	Punctuation	-	-	_	_	_	_	U	_	_	_	_	_
+14	harpoon	_	Word	-	+	_	_	_	_	_	_	_	_	_	_
+15	it	_	Word	-	-	_	_	_	_	_	_	A	_	_	_
+16	,	_	Punctuation	-	-	_	_	_	_	U	_	_	_	_	_
+17	haul	_	Word	-	+	_	_	_	_	_	_	_	_	_	_
+18	it	_	Word	-	-	_	_	_	_	_	_	_	A	_	_
+19	on	_	Word	-	-	_	_	_	_	_	_	_	_	R	_
+20	board	_	Word	-	+	_	_	_	_	_	_	_	_	_	_
+21	,	_	Punctuation	-	-	_	_	_	_	U	_	_	_	_	_
+22	and	_	Word	-	-	_	_	_	_	L	_	_	_	_	_
+23	carve	_	Word	-	+	_	_	_	_	_	_	_	_	_	_
+24	it	_	Word	-	-	_	_	_	_	_	_	_	_	_	A
+25	up	_	Word	-	-	_	_	_	_	_	_	_	_	_	Terminal
+26	.	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	U
+

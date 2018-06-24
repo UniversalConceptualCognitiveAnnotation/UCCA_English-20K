@@ -1,0 +1,23 @@
+1	Our	_	Word	-	-	_	E	_	_	_	_	_
+2	frigate	_	Word	-	+	_	_	_	_	_	_	_
+3	would	_	Word	-	-	_	_	E	_	_	_	_
+4	have	_	Word	-	-	_	_	F	_	_	_	_
+5	had	_	Word	-	-	_	_	F	_	_	_	_
+6	fivescore	_	Word	-	-	_	_	E	_	_	_	_
+7	good	_	Word	-	-	_	_	E	_	_	_	_
+8	reasons	_	Word	-	+	_	_	_	_	_	_	_
+9	for	_	Word	-	-	_	_	_	F	_	_	_
+10	renaming	_	Word	-	+	_	_	_	_	_	_	_
+11	itself	_	Word	-	-	_	_	_	E	_	_	_
+12	the	_	Word	-	-	_	_	_	_	E	_	_
+13	Argus	_	Word	-	+	_	_	_	_	_	_	_
+14	,	_	Punctuation	-	-	_	_	_	U	_	_	_
+15	after	_	Word	-	-	_	_	_	_	_	R	_
+16	that	_	Word	-	-	_	_	_	_	_	E	_
+17	mythological	_	Word	-	-	_	_	_	_	_	E	_
+18	beast	_	Word	-	+	_	_	_	_	_	_	_
+19	with	_	Word	-	-	_	_	_	_	_	_	R
+20	100	_	Word	-	-	_	_	_	_	_	_	E
+21	eyes	_	Word	-	+	_	_	_	_	_	_	_
+22	!	_	Punctuation	-	-	_	_	_	_	_	_	U
+

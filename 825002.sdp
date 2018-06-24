@@ -1,0 +1,19 @@
+1	There	_	Word	-	+	_	_	_	_	_	_	_
+2	was	_	Word	-	-	_	Terminal	_	_	_	_	_
+3	good	_	Word	-	-	_	_	E	_	_	_	_
+4	reason	_	Word	-	+	_	_	_	_	_	_	_
+5	to	_	Word	-	-	_	_	_	F	_	_	_
+6	stop	_	Word	-	+	_	_	_	_	_	_	_
+7	and	_	Word	-	-	_	_	_	N	_	_	_
+8	think	_	Word	-	-	_	_	_	C	_	_	_
+9	,	_	Punctuation	-	-	_	U	_	_	_	_	_
+10	even	_	Word	-	-	_	_	_	_	_	_	R
+11	for	_	Word	-	-	_	_	_	_	_	_	R
+12	the	_	Word	-	-	_	_	_	_	E	_	_
+13	world	_	Word	-	+	_	_	_	_	_	_	_
+14	’s	_	Word	-	-	_	_	_	_	R	_	_
+15	most	_	Word	-	-	_	_	_	_	_	E	_
+16	emotionless	_	Word	-	+	_	_	_	_	_	_	_
+17	man	_	Word	-	+	_	_	_	_	_	_	_
+18	.	_	Punctuation	-	-	_	_	_	_	_	_	U
+

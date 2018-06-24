@@ -1,0 +1,10 @@
+1	”	_	Punctuation	-	-	_	U	_	_
+2	repeated	_	Word	-	+	_	_	_	_
+3	the	_	Word	-	-	_	_	E	_
+4	sailors	_	Word	-	+	_	_	_	_
+5	of	_	Word	-	-	_	_	_	R
+6	the	_	Word	-	-	_	_	_	E
+7	Abraham	_	Word	-	+	_	_	_	_
+8	Lincoln	_	Word	-	-	_	_	_	Terminal
+9	.	_	Punctuation	-	-	_	_	_	U
+

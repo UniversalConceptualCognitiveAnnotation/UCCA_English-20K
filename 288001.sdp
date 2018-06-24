@@ -1,0 +1,27 @@
+1	The	_	Word	-	-	_	E	_	_	_	_	_	_	_
+2	hypothesis	_	Word	-	+	_	_	_	_	A	_	_	_	_
+3	of	_	Word	-	-	_	_	R	R	_	_	_	_	_
+4	a	_	Word	-	-	_	_	E	_	_	_	_	_	_
+5	drifting	_	Word	-	-	_	_	E	_	_	_	_	_	_
+6	islet	_	Word	-	+	_	_	_	_	_	_	_	_	_
+7	or	_	Word	-	-	_	_	N	_	_	_	_	_	_
+8	an	_	Word	-	-	_	_	_	E	_	_	_	_	_
+9	elusive	_	Word	-	-	_	_	_	E	_	_	_	_	_
+10	reef	_	Word	-	+	_	_	_	_	_	_	_	_	_
+11	,	_	Punctuation	-	-	_	U	_	_	_	_	_	_	_
+12	put	_	Word	-	+	_	_	_	_	_	_	_	_	_
+13	forward	_	Word	-	-	_	_	_	_	Terminal	_	_	_	_
+14	by	_	Word	-	-	_	_	_	_	_	R	_	_	_
+15	people	_	Word	-	+	_	_	_	_	_	_	_	A	_
+16	not	_	Word	-	-	_	_	_	_	_	_	E	_	_
+17	quite	_	Word	-	+	_	_	_	_	_	_	_	_	_
+18	in	_	Word	-	-	_	_	_	_	_	_	_	R	_
+19	their	_	Word	-	-	_	_	_	_	_	_	_	E	_
+20	right	_	Word	-	-	_	_	_	_	_	_	_	E	_
+21	minds	_	Word	-	+	_	_	_	_	_	_	_	_	_
+22	,	_	Punctuation	-	-	_	_	_	_	_	_	_	_	U
+23	was	_	Word	-	-	_	_	_	_	_	_	_	_	F
+24	completely	_	Word	-	-	_	_	_	_	_	_	_	_	D
+25	eliminated	_	Word	-	+	_	_	_	_	_	_	_	_	_
+26	.	_	Punctuation	-	-	_	_	_	_	_	_	_	_	U
+

@@ -1,0 +1,23 @@
+1	This	_	Word	-	-	_	E	_	_	_	_	_	_	_
+2	breach	_	Word	-	+	_	_	_	_	_	_	_	_	_
+3	in	_	Word	-	-	_	_	R	_	_	_	_	_	_
+4	the	_	Word	-	-	_	_	E	_	_	_	_	_	_
+5	sheet	_	Word	-	-	_	_	E	_	_	_	_	_	_
+6	iron	_	Word	-	+	_	_	_	_	_	_	_	_	_
+7	was	_	Word	-	-	_	_	_	_	F	_	_	_	_
+8	so	_	Word	-	-	_	_	_	E	_	_	_	_	_
+9	perfectly	_	Word	-	+	_	_	_	_	_	_	_	_	_
+10	formed	_	Word	-	+	_	_	_	_	_	_	_	_	_
+11	,	_	Punctuation	-	-	_	_	_	_	U	_	_	_	_
+12	no	_	Word	-	-	_	_	_	_	_	E	_	_	_
+13	punch	_	Word	-	+	_	_	_	_	_	_	_	_	_
+14	could	_	Word	-	-	_	_	_	_	_	_	E	_	_
+15	have	_	Word	-	-	_	_	_	_	_	_	F	_	_
+16	done	_	Word	-	+	_	_	_	_	_	_	_	_	_
+17	a	_	Word	-	-	_	_	_	_	_	_	_	E	_
+18	cleaner	_	Word	-	-	_	_	_	_	_	_	_	E	_
+19	job	_	Word	-	+	_	_	_	_	_	_	_	_	_
+20	of	_	Word	-	-	_	_	_	_	_	_	_	_	R
+21	it	_	Word	-	+	_	_	_	_	_	_	_	_	_
+22	.	_	Punctuation	-	-	_	_	_	_	_	_	_	_	U
+

@@ -1,0 +1,18 @@
+1	Fortunately	_	Word	-	-	_	_	D	_	_	_
+2	this	_	Word	-	-	_	E	_	_	_	_
+3	compartment	_	Word	-	+	_	_	_	_	_	_
+4	didn\u2019t	_	Word	-	-	_	_	F	_	_	_
+5	contain	_	Word	-	+	_	_	_	_	_	_
+6	the	_	Word	-	-	_	_	_	E	_	_
+7	boilers	_	Word	-	+	_	_	_	_	_	_
+8	,	_	Punctuation	-	-	_	_	U	_	_	_
+9	because	_	Word	-	-	_	_	L	_	_	_
+10	their	_	Word	-	-	_	_	_	_	E	_
+11	furnaces	_	Word	-	+	_	_	_	_	_	_
+12	would	_	Word	-	-	_	_	_	_	_	E
+13	have	_	Word	-	-	_	_	_	_	_	F
+14	been	_	Word	-	-	_	_	_	_	_	F
+15	abruptly	_	Word	-	-	_	_	_	_	_	D
+16	extinguished	_	Word	-	+	_	_	_	_	_	_
+17	.	_	Punctuation	-	-	_	_	_	_	_	U
+

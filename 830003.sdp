@@ -1,0 +1,19 @@
+1	I	_	Word	-	-	_	A	_	_	_	_	_
+2	left	_	Word	-	-	_	E	_	_	_	_	_
+3	instructions	_	Word	-	+	_	_	_	_	_	_	_
+4	for	_	Word	-	-	_	_	R	_	_	_	_
+5	shipping	_	Word	-	+	_	_	_	_	_	_	_
+6	my	_	Word	-	-	_	_	_	E	_	_	_
+7	containers	_	Word	-	+	_	_	_	_	_	_	_
+8	of	_	Word	-	-	_	_	_	_	R	R	_
+9	stuffed	_	Word	-	-	_	_	_	_	E	_	_
+10	animals	_	Word	-	+	_	_	_	_	_	_	_
+11	and	_	Word	-	-	_	_	_	_	N	_	_
+12	dried	_	Word	-	-	_	_	_	_	_	E	_
+13	plants	_	Word	-	+	_	_	_	_	_	_	_
+14	to	_	Word	-	-	_	_	_	_	_	_	R
+15	Paris	_	Word	-	+	_	_	_	_	_	_	_
+16	,	_	Punctuation	-	-	_	_	_	_	_	_	U
+17	France	_	Word	-	-	_	_	_	_	_	_	E
+18	.	_	Punctuation	-	-	_	_	_	_	_	_	U
+

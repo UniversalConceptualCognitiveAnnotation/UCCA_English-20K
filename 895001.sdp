@@ -1,0 +1,13 @@
+1	Do	_	Word	-	-	_	F	_
+2	you	_	Word	-	-	_	A	A
+3	have	_	Word	-	-	_	F	_
+4	any	_	Word	-	-	_	E	_
+5	particular	_	Word	-	-	_	E	_
+6	reasons	_	Word	-	+	_	_	_
+7	for	_	Word	-	-	_	_	F
+8	being	_	Word	-	-	_	_	F
+9	so	_	Word	-	-	_	_	E
+10	skeptical	_	Word	-	+	_	_	_
+11	?	_	Punctuation	-	-	_	_	U
+12	”	_	Punctuation	-	-	_	_	U
+

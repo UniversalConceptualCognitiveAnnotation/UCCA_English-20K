@@ -1,0 +1,17 @@
+1	“	_	Punctuation	-	-	_	U	_	_
+2	I	_	Word	-	-	_	A	_	_
+3	haven	_	Word	-	-	_	F	_	_
+4	’t	_	Word	-	-	_	D	_	_
+5	the	_	Word	-	-	_	E	_	_
+6	foggiest	_	Word	-	-	_	E	_	_
+7	notion	_	Word	-	+	_	_	_	_
+8	,	_	Punctuation	-	-	_	U	_	_
+9	Professor	_	Word	-	+	_	H	_	_
+10	Aronnax	_	Word	-	-	_	_	Terminal	_
+11	.	_	Punctuation	-	-	_	U	_	_
+12	”	_	Punctuation	-	-	_	U	_	_
+13	“	_	Punctuation	-	-	_	U	_	_
+14	About	_	Word	-	+	_	_	_	_
+15	17,000	_	Word	-	-	_	_	_	E
+16	.	_	Punctuation	-	-	_	_	_	U
+

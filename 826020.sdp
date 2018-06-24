@@ -1,0 +1,11 @@
+1	A	_	Word	-	-	_	E	_	_
+2	route	_	Word	-	+	_	_	_	_
+3	slightly	_	Word	-	-	_	_	E	_
+4	less	_	Word	-	+	_	_	_	_
+5	direct	_	Word	-	-	_	_	_	_
+6	,	_	Punctuation	-	-	_	U	_	_
+7	that	_	Word	-	+	_	D	_	_
+8	’s	_	Word	-	-	_	_	_	Terminal
+9	all	_	Word	-	-	_	_	_	Terminal
+10	.	_	Punctuation	-	-	_	U	_	_
+
