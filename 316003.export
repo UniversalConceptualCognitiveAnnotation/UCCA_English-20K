@@ -1,0 +1,18 @@
+#BOS 316003
+His	Word	--	Terminal	500
+coal	Word	--	Terminal	501
+bunkers	Word	--	Terminal	502
+were	Word	--	Terminal	503
+overflowing	Word	--	Terminal	504
+.	Punctuation	--	Terminal	505
+#500	FN	--	E	506
+#501	FN	--	E	506
+#502	FN	--	C	506
+#503	FN	--	F	507
+#504	FN	--	C	507
+#505	PNCT	--	U	507
+#506	FN	--	A	508
+#507	FN	--	S	508
+#508	FN	--	H	509
+#509	FN	--	--	0
+#EOS 316003

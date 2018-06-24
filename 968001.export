@@ -1,0 +1,59 @@
+#BOS 968001
+But	Word	--	Terminal	500
+one	Word	--	Terminal	501
+circumstance	Word	--	Terminal	502
+arose	Word	--	Terminal	503
+that	Word	--	Terminal	504
+displayed	Word	--	Terminal	505
+Ned	Word	--	Terminal	506
+Land	Word	--	Terminal	506
+’s	Word	--	Terminal	507
+marvelous	Word	--	Terminal	508
+skills	Word	--	Terminal	509
+and	Word	--	Terminal	510
+showed	Word	--	Terminal	511
+just	Word	--	Terminal	512
+how	Word	--	Terminal	513
+much	Word	--	Terminal	513
+confidence	Word	--	Terminal	514
+we	Word	--	Terminal	515
+could	Word	--	Terminal	516
+place	Word	--	Terminal	517
+in	Word	--	Terminal	518
+him	Word	--	Terminal	519
+.	Punctuation	--	Terminal	520
+#500	FN	--	L	532
+#501	FN	--	E	521
+#502	FN	--	C	521	A*	528	A*	531
+#503	FN	--	P	522
+#504	FN	--	L	532	LR	530
+#505	FN	--	P	528
+#506	FN	--	C	523
+#507	FN	--	R	523
+#508	FN	--	E	524
+#509	FN	--	C	524
+#510	FN	--	L	532	LR	533
+#511	FN	--	P	531
+#512	FN	--	D	531
+#513	FN	--	E	525
+#514	FN	--	C	525
+#515	FN	--	A	529
+#516	FN	--	E	526
+#517	FN	--	C	526
+#518	FN	--	R	527
+#519	FN	--	C	527
+#520	PNCT	--	U	527
+#521	FN	--	A	522
+#522	FN	--	H	532	LA	530
+#523	FN	--	E	524
+#524	FN	--	A	528
+#525	FN	--	A	529
+#526	FN	--	P	529
+#527	FN	--	A	529
+#528	FN	--	H	532	LA	533	LA	530
+#529	FN	--	A	531
+#530	LKG	--	--	0
+#531	FN	--	H	532	LA	533
+#532	FN	--	--	0
+#533	LKG	--	--	0
+#EOS 968001

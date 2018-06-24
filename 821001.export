@@ -1,0 +1,41 @@
+#BOS 821001
+Not	Word	--	Terminal	500
+once	Word	--	Terminal	501
+did	Word	--	Terminal	502
+he	Word	--	Terminal	503
+comment	Word	--	Terminal	504
+on	Word	--	Terminal	505
+the	Word	--	Terminal	506
+length	Word	--	Terminal	507
+or	Word	--	Terminal	508
+the	Word	--	Terminal	509
+hardships	Word	--	Terminal	510
+of	Word	--	Terminal	511
+a	Word	--	Terminal	512
+journey	Word	--	Terminal	513
+.	Punctuation	--	Terminal	514
+#500	FN	--	E	515
+#501	FN	--	C	515
+#502	FN	--	F	516
+#503	FN	--	A	522
+#504	FN	--	C	516
+#505	FN	--	R	517	R*	518
+#506	FN	--	E	517
+#507	FN	--	C	517
+#508	FN	--	N	519
+#509	FN	--	E	518
+#510	FN	--	C	518
+#511	FN	--	R	520
+#512	FN	--	E	520
+#513	FN	--	C	520
+#514	PNCT	--	U	520
+#515	FN	--	D	522
+#516	FN	--	P	522
+#517	FN	--	C	519
+#518	FN	--	C	519
+#519	FN	--	C	521
+#520	FN	--	E	521
+#521	FN	--	A	522
+#522	FN	--	H	523
+#523	FN	--	--	0
+#EOS 821001

@@ -1,0 +1,13 @@
+#BOS 832001
+I	Word	--	Terminal	500
+rushed	Word	--	Terminal	501
+aboard	Word	--	Terminal	502
+.	Punctuation	--	Terminal	503
+#500	FN	--	A	505
+#501	FN	--	P	505
+#502	FN	--	R	504
+#503	PNCT	--	U	504
+#504	FN	--	A	505
+#505	FN	--	H	506
+#506	FN	--	--	0
+#EOS 832001

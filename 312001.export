@@ -1,0 +1,37 @@
+#BOS 312001
+The	Word	--	Terminal	500
+industrial	Word	--	Terminal	501
+and	Word	--	Terminal	502
+commercial	Word	--	Terminal	503
+newspapers	Word	--	Terminal	504
+dealt	Word	--	Terminal	505
+with	Word	--	Terminal	506
+the	Word	--	Terminal	507
+question	Word	--	Terminal	508
+chiefly	Word	--	Terminal	509
+from	Word	--	Terminal	510
+this	Word	--	Terminal	511
+viewpoint	Word	--	Terminal	512
+.	Punctuation	--	Terminal	513
+#500	FN	--	E	514	E*	515
+#501	FN	--	E	514
+#502	FN	--	N	516
+#503	FN	--	E	515
+#504	FN	--	C	515	C*	514
+#505	FN	--	P	519
+#506	FN	--	R	517
+#507	FN	--	E	517
+#508	FN	--	C	517
+#509	FN	--	D	519
+#510	FN	--	R	518
+#511	FN	--	E	518
+#512	FN	--	C	518
+#513	PNCT	--	U	518
+#514	FN	--	C	516
+#515	FN	--	C	516
+#516	FN	--	A	519
+#517	FN	--	A	519
+#518	FN	--	A	519
+#519	FN	--	H	520
+#520	FN	--	--	0
+#EOS 312001

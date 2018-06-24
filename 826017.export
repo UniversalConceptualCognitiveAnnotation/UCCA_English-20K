@@ -1,0 +1,62 @@
+#BOS 826017
+“	Punctuation	--	Terminal	500
+Yes	Word	--	Terminal	501
+,	Punctuation	--	Terminal	502
+we	Word	--	Terminal	503
+are	Word	--	Terminal	504
+.	Punctuation	--	Terminal	505
+.	Punctuation	--	Terminal	506
+.	Punctuation	--	Terminal	507
+certainly	Word	--	Terminal	508
+.	Punctuation	--	Terminal	509
+.	Punctuation	--	Terminal	510
+.	Punctuation	--	Terminal	511
+,	Punctuation	--	Terminal	512
+”	Punctuation	--	Terminal	513
+I	Word	--	Terminal	514
+replied	Word	--	Terminal	515
+evasively	Word	--	Terminal	516
+,	Punctuation	--	Terminal	517
+“	Punctuation	--	Terminal	518
+but	Word	--	Terminal	519
+after	Word	--	Terminal	520
+we	Word	--	Terminal	521
+make	Word	--	Terminal	522
+a	Word	--	Terminal	523
+detour	Word	--	Terminal	524
+.	Punctuation	--	Terminal	525
+#500	PNCT	--	U	533
+#501	FN	--	F	526
+#502	PNCT	--	U	526
+#503	FN	--	A	526
+#504	FN	--	P	526
+#505	PNCT	--	U	526
+#506	PNCT	--	U	526
+#507	PNCT	--	U	526
+#508	FN	--	D	526
+#509	PNCT	--	U	533
+#510	PNCT	--	U	533
+#511	PNCT	--	U	533
+#512	PNCT	--	U	533
+#513	PNCT	--	U	533
+#514	FN	--	A	532
+#515	FN	--	P	532
+#516	FN	--	D	532
+#517	PNCT	--	U	533
+#518	PNCT	--	U	533
+#519	FN	--	L	533	LR	530
+#520	FN	--	L	533	LR	529
+#521	FN	--	A	528
+#522	FN	--	P	528
+#523	FN	--	E	527
+#524	FN	--	C	527
+#525	PNCT	--	U	527
+#526	FN	--	H	533	LA	529	LA	530	A*	532
+#527	FN	--	A	528
+#528	FN	--	H	533	LA	529	LA	530
+#529	LKG	--	--	0
+#530	LKG	--	--	0
+#531	FN	--	A	532
+#532	FN	--	H	533
+#533	FN	--	--	0
+#EOS 826017

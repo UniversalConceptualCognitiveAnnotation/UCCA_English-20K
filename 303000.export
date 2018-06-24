@@ -1,0 +1,117 @@
+#BOS 303000
+“	Punctuation	--	Terminal	500
+If	Word	--	Terminal	501
+,	Punctuation	--	Terminal	502
+on	Word	--	Terminal	503
+the	Word	--	Terminal	504
+other	Word	--	Terminal	505
+hand	Word	--	Terminal	506
+,	Punctuation	--	Terminal	507
+we	Word	--	Terminal	508
+do	Word	--	Terminal	509
+know	Word	--	Terminal	510
+every	Word	--	Terminal	511
+living	Word	--	Terminal	512
+species	Word	--	Terminal	513
+,	Punctuation	--	Terminal	514
+we	Word	--	Terminal	515
+must	Word	--	Terminal	516
+look	Word	--	Terminal	517
+for	Word	--	Terminal	517
+the	Word	--	Terminal	518
+animal	Word	--	Terminal	519
+in	Word	--	Terminal	520
+question	Word	--	Terminal	521
+among	Word	--	Terminal	522
+those	Word	--	Terminal	523
+marine	Word	--	Terminal	524
+creatures	Word	--	Terminal	525
+already	Word	--	Terminal	526
+cataloged	Word	--	Terminal	527
+,	Punctuation	--	Terminal	528
+and	Word	--	Terminal	529
+in	Word	--	Terminal	530
+this	Word	--	Terminal	531
+event	Word	--	Terminal	532
+I	Word	--	Terminal	533
+would	Word	--	Terminal	534
+be	Word	--	Terminal	535
+inclined	Word	--	Terminal	536
+to	Word	--	Terminal	537
+accept	Word	--	Terminal	538
+the	Word	--	Terminal	539
+existence	Word	--	Terminal	540
+of	Word	--	Terminal	541
+a	Word	--	Terminal	542
+giant	Word	--	Terminal	543
+narwhale	Word	--	Terminal	544
+.	Punctuation	--	Terminal	545
+#500	PNCT	--	U	566
+#501	FN	--	L	566	LR	562
+#502	PNCT	--	U	566
+#503	FN	--	R	546
+#504	FN	--	E	546
+#505	FN	--	E	546
+#506	FN	--	C	546
+#507	PNCT	--	U	566
+#508	FN	--	A	556
+#509	FN	--	F	547
+#510	FN	--	C	547
+#511	FN	--	E	549
+#512	FN	--	P	548
+#513	FN	--	C	549	A*	548
+#514	PNCT	--	U	566
+#515	FN	--	A	565
+#516	FN	--	E	550
+#517	FN	--	C	550
+#518	FN	--	E	558
+#519	FN	--	C	558
+#520	FN	--	R	551
+#521	FN	--	C	551
+#522	FN	--	R	564
+#523	FN	--	E	564
+#524	FN	--	E	564
+#525	FN	--	C	564	A*	563
+#526	FN	--	D	563
+#527	FN	--	P	563
+#528	PNCT	--	U	566
+#529	FN	--	L	566	LR	567
+#530	FN	--	R	552
+#531	FN	--	E	552
+#532	FN	--	C	552
+#533	FN	--	A	561
+#534	FN	--	E	553
+#535	FN	--	F	553
+#536	FN	--	C	553
+#537	FN	--	F	554
+#538	FN	--	C	554
+#539	FN	--	E	560
+#540	FN	--	C	560
+#541	FN	--	R	555
+#542	FN	--	E	555
+#543	FN	--	E	555
+#544	FN	--	C	555
+#545	PNCT	--	U	555
+#546	FN	--	L	566	LR	557
+#547	FN	--	P	556
+#548	FN	--	E	549
+#549	FN	--	A	556
+#550	FN	--	P	565
+#551	FN	--	E	558
+#552	FN	--	A	561
+#553	FN	--	E	554
+#554	FN	--	P	561
+#555	FN	--	E	560
+#556	FN	--	H	566	LA	557	LA	562
+#557	LKG	--	--	0
+#558	FN	--	A	565
+#559	FN	--	A	563
+#560	FN	--	A	561
+#561	FN	--	H	566	LA	567
+#562	LKG	--	--	0
+#563	FN	--	E	564
+#564	FN	--	A	565
+#565	FN	--	H	566	LA	567
+#566	FN	--	--	0
+#567	LKG	--	--	0
+#EOS 303000

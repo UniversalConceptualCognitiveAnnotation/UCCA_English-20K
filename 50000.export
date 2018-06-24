@@ -1,0 +1,44 @@
+#BOS 50000
+This	Word	--	Terminal	500
+accident	Word	--	Terminal	501
+happened	Word	--	Terminal	502
+around	Word	--	Terminal	503
+five	Word	--	Terminal	504
+o\u2019clock	Word	--	Terminal	504
+in	Word	--	Terminal	505
+the	Word	--	Terminal	506
+morning	Word	--	Terminal	507
+,	Punctuation	--	Terminal	508
+just	Word	--	Terminal	509
+as	Word	--	Terminal	509
+day	Word	--	Terminal	510
+was	Word	--	Terminal	511
+beginning	Word	--	Terminal	512
+to	Word	--	Terminal	513
+break	Word	--	Terminal	514
+.	Punctuation	--	Terminal	515
+#500	FN	--	E	516
+#501	FN	--	C	516
+#502	FN	--	P	520
+#503	FN	--	R	519
+#504	FN	--	C	519
+#505	FN	--	R	517
+#506	FN	--	E	517
+#507	FN	--	C	517
+#508	PNCT	--	U	522
+#509	FN	--	L	522	LR	523
+#510	FN	--	A	521
+#511	FN	--	F	518
+#512	FN	--	E	518
+#513	FN	--	F	518
+#514	FN	--	C	518
+#515	PNCT	--	U	518
+#516	FN	--	A	520
+#517	FN	--	E	519
+#518	FN	--	P	521
+#519	FN	--	D	520
+#520	FN	--	H	522
+#521	FN	--	H	522	LA	523
+#522	FN	--	--	0
+#523	LKG	--	--	0
+#EOS 50000

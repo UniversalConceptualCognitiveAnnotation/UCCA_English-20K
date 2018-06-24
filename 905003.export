@@ -1,0 +1,19 @@
+#BOS 905003
+”	Punctuation	--	Terminal	500
+“	Punctuation	--	Terminal	501
+Without	Word	--	Terminal	502
+your	Word	--	Terminal	503
+noticing	Word	--	Terminal	504
+it	Word	--	Terminal	505
+.	Punctuation	--	Terminal	506
+#500	PNCT	--	U	508
+#501	PNCT	--	U	508
+#502	FN	--	L	508	LR	509
+#503	FN	--	A	507
+#504	FN	--	P	507
+#505	FN	--	A	507
+#506	PNCT	--	U	507
+#507	FN	--	H	508	LA	509
+#508	FN	--	--	0
+#509	LKG	--	--	0
+#EOS 905003

@@ -1,0 +1,45 @@
+#BOS 58002
+Fortunately	Word	--	Terminal	500
+this	Word	--	Terminal	501
+compartment	Word	--	Terminal	502
+didn\u2019t	Word	--	Terminal	503
+contain	Word	--	Terminal	504
+the	Word	--	Terminal	505
+boilers	Word	--	Terminal	506
+,	Punctuation	--	Terminal	507
+because	Word	--	Terminal	508
+their	Word	--	Terminal	509
+furnaces	Word	--	Terminal	510
+would	Word	--	Terminal	511
+have	Word	--	Terminal	512
+been	Word	--	Terminal	513
+abruptly	Word	--	Terminal	514
+extinguished	Word	--	Terminal	515
+.	Punctuation	--	Terminal	516
+#500	FN	--	D	523
+#501	FN	--	E	517
+#502	FN	--	C	517
+#503	FN	--	F	518
+#504	FN	--	C	518
+#505	FN	--	E	519
+#506	FN	--	C	519
+#507	PNCT	--	U	524
+#508	FN	--	L	524	LR	525
+#509	FN	--	E	520
+#510	FN	--	C	520
+#511	FN	--	E	521
+#512	FN	--	F	521
+#513	FN	--	F	521
+#514	FN	--	D	522
+#515	FN	--	C	521
+#516	PNCT	--	U	521
+#517	FN	--	A	523
+#518	FN	--	P	523
+#519	FN	--	A	523
+#520	FN	--	A	522
+#521	FN	--	P	522
+#522	FN	--	H	524	LA	525
+#523	FN	--	H	524	LA	525
+#524	FN	--	--	0
+#525	LKG	--	--	0
+#EOS 58002

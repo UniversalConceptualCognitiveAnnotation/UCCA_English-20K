@@ -1,0 +1,24 @@
+#BOS 841001
+“	Punctuation	--	Terminal	500
+Aye	Word	--	Terminal	501
+,	Punctuation	--	Terminal	502
+sir	Word	--	Terminal	501
+,	Punctuation	--	Terminal	503
+”	Punctuation	--	Terminal	504
+the	Word	--	Terminal	505
+engineer	Word	--	Terminal	506
+replied	Word	--	Terminal	507
+.	Punctuation	--	Terminal	508
+#500	PNCT	--	U	510
+#501	FN	--	H	511	A*	510
+#502	PNCT	--	U	511
+#503	PNCT	--	U	511
+#504	PNCT	--	U	511
+#505	FN	--	E	509
+#506	FN	--	C	509
+#507	FN	--	P	510
+#508	PNCT	--	U	510
+#509	FN	--	A	510
+#510	FN	--	H	511
+#511	FN	--	--	0
+#EOS 841001

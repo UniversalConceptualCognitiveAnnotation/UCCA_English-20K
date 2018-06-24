@@ -1,0 +1,45 @@
+#BOS 893002
+Before	Word	--	Terminal	500
+eight	Word	--	Terminal	501
+days	Word	--	Terminal	502
+were	Word	--	Terminal	503
+out	Word	--	Terminal	504
+,	Punctuation	--	Terminal	505
+the	Word	--	Terminal	506
+Abraham	Word	--	Terminal	507
+Lincoln	Word	--	Terminal	507
+would	Word	--	Terminal	508
+plow	Word	--	Terminal	509
+the	Word	--	Terminal	510
+waves	Word	--	Terminal	511
+of	Word	--	Terminal	512
+the	Word	--	Terminal	513
+Pacific	Word	--	Terminal	514
+.	Punctuation	--	Terminal	515
+#500	FN	--	L	524	LR	525
+#501	FN	--	E	516
+#502	FN	--	C	516
+#503	FN	--	F	517
+#504	FN	--	C	517
+#505	PNCT	--	U	524
+#506	FN	--	E	518
+#507	FN	--	C	518
+#508	FN	--	E	519
+#509	FN	--	C	519
+#510	FN	--	E	522
+#511	FN	--	C	522
+#512	FN	--	R	520
+#513	FN	--	E	520
+#514	FN	--	C	520
+#515	PNCT	--	U	520
+#516	FN	--	A	521
+#517	FN	--	P	521
+#518	FN	--	A	523
+#519	FN	--	P	523
+#520	FN	--	E	522
+#521	FN	--	H	524	LA	525
+#522	FN	--	A	523
+#523	FN	--	H	524	LA	525
+#524	FN	--	--	0
+#525	LKG	--	--	0
+#EOS 893002

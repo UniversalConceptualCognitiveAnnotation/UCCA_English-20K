@@ -1,0 +1,31 @@
+#BOS 895001
+Do	Word	--	Terminal	500
+you	Word	--	Terminal	501
+have	Word	--	Terminal	502
+any	Word	--	Terminal	503
+particular	Word	--	Terminal	504
+reasons	Word	--	Terminal	505
+for	Word	--	Terminal	506
+being	Word	--	Terminal	507
+so	Word	--	Terminal	508
+skeptical	Word	--	Terminal	509
+?	Punctuation	--	Terminal	510
+”	Punctuation	--	Terminal	511
+#500	FN	--	F	515
+#501	FN	--	A	515	A*	514
+#502	FN	--	F	512
+#503	FN	--	E	512
+#504	FN	--	E	512
+#505	FN	--	C	512
+#506	FN	--	F	513
+#507	FN	--	F	513
+#508	FN	--	E	513
+#509	FN	--	C	513
+#510	PNCT	--	U	513
+#511	PNCT	--	U	513
+#512	FN	--	P	515
+#513	FN	--	S	514
+#514	FN	--	A	515
+#515	FN	--	H	516
+#516	FN	--	--	0
+#EOS 895001

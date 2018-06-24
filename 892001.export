@@ -1,0 +1,66 @@
+#BOS 892001
+I	Word	--	Terminal	500
+must	Word	--	Terminal	501
+admit	Word	--	Terminal	502
+that	Word	--	Terminal	503
+he	Word	--	Terminal	504
+flatly	Word	--	Terminal	505
+didn	Word	--	Terminal	506
+’t	Word	--	Terminal	507
+believe	Word	--	Terminal	508
+in	Word	--	Terminal	509
+the	Word	--	Terminal	510
+unicorn	Word	--	Terminal	511
+,	Punctuation	--	Terminal	512
+and	Word	--	Terminal	513
+alone	Word	--	Terminal	514
+on	Word	--	Terminal	515
+board	Word	--	Terminal	516
+,	Punctuation	--	Terminal	517
+he	Word	--	Terminal	518
+didn	Word	--	Terminal	519
+’t	Word	--	Terminal	520
+share	Word	--	Terminal	521
+the	Word	--	Terminal	522
+general	Word	--	Terminal	523
+conviction	Word	--	Terminal	524
+.	Punctuation	--	Terminal	525
+#500	FN	--	A	533
+#501	FN	--	E	526
+#502	FN	--	C	526
+#503	FN	--	F	533
+#504	FN	--	A	532
+#505	FN	--	D	532
+#506	FN	--	F	527
+#507	FN	--	D	532
+#508	FN	--	C	527
+#509	FN	--	R	528
+#510	FN	--	E	528
+#511	FN	--	C	528
+#512	PNCT	--	U	536
+#513	FN	--	L	536	LR	537
+#514	FN	--	C	534
+#515	FN	--	R	529
+#516	FN	--	C	529
+#517	PNCT	--	U	535
+#518	FN	--	A	535
+#519	FN	--	F	530
+#520	FN	--	D	535
+#521	FN	--	C	530
+#522	FN	--	E	531
+#523	FN	--	E	531
+#524	FN	--	C	531
+#525	PNCT	--	U	531
+#526	FN	--	P	533
+#527	FN	--	P	532
+#528	FN	--	A	532
+#529	FN	--	E	534
+#530	FN	--	P	535
+#531	FN	--	A	535
+#532	FN	--	A	533
+#533	FN	--	H	536	LA	537
+#534	FN	--	D	535
+#535	FN	--	H	536	LA	537
+#536	FN	--	--	0
+#537	LKG	--	--	0
+#EOS 892001

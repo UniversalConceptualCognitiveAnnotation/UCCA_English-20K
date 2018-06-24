@@ -1,0 +1,48 @@
+#BOS 971002
+But	Word	--	Terminal	500
+Commander	Word	--	Terminal	501
+Farragut	Word	--	Terminal	502
+was	Word	--	Terminal	503
+unwilling	Word	--	Terminal	504
+to	Word	--	Terminal	505
+attempt	Word	--	Terminal	506
+this	Word	--	Terminal	507
+tortuous	Word	--	Terminal	508
+passageway	Word	--	Terminal	509
+and	Word	--	Terminal	510
+maneuvered	Word	--	Terminal	511
+instead	Word	--	Terminal	512
+to	Word	--	Terminal	513
+double	Word	--	Terminal	514
+Cape	Word	--	Terminal	515
+Horn	Word	--	Terminal	516
+.	Punctuation	--	Terminal	517
+#500	FN	--	L	526
+#501	FN	--	E	518
+#502	FN	--	C	518	A*	519	A*	525
+#503	FN	--	F	520
+#504	FN	--	E	520
+#505	FN	--	F	520
+#506	FN	--	C	520
+#507	FN	--	E	521
+#508	FN	--	E	521
+#509	FN	--	C	521
+#510	FN	--	L	526	LR	527
+#511	FN	--	P	519
+#512	FN	--	D	519
+#513	FN	--	F	522
+#514	FN	--	C	522
+#515	FN	--	E	523
+#516	FN	--	C	523
+#517	PNCT	--	U	523
+#518	FN	--	A	524
+#519	FN	--	H	526	LA	527
+#520	FN	--	P	524
+#521	FN	--	A	524
+#522	FN	--	P	525
+#523	FN	--	A	525
+#524	FN	--	H	526	LA	527
+#525	FN	--	H	526
+#526	FN	--	--	0
+#527	LKG	--	--	0
+#EOS 971002

@@ -1,0 +1,18 @@
+#BOS 60001
+They	Word	--	Terminal	500
+couldn\u2019t	Word	--	Terminal	501
+believe	Word	--	Terminal	502
+their	Word	--	Terminal	503
+eyes	Word	--	Terminal	504
+.	Punctuation	--	Terminal	505
+#500	FN	--	A	508
+#501	FN	--	F	506
+#502	FN	--	C	506
+#503	FN	--	E	507
+#504	FN	--	C	507
+#505	PNCT	--	U	507
+#506	FN	--	P	508
+#507	FN	--	A	508
+#508	FN	--	H	509
+#509	FN	--	--	0
+#EOS 60001

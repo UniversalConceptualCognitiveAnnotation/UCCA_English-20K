@@ -1,0 +1,58 @@
+#BOS 317000
+I	Word	--	Terminal	500
+received	Word	--	Terminal	501
+a	Word	--	Terminal	502
+letter	Word	--	Terminal	503
+three	Word	--	Terminal	504
+hours	Word	--	Terminal	505
+before	Word	--	Terminal	506
+the	Word	--	Terminal	507
+Abraham	Word	--	Terminal	508
+Lincoln	Word	--	Terminal	508
+left	Word	--	Terminal	509
+its	Word	--	Terminal	510
+Brooklyn	Word	--	Terminal	511
+pier	Word	--	Terminal	512
+;	Punctuation	--	Terminal	513
+1	Word	--	Terminal	514
+the	Word	--	Terminal	515
+letter	Word	--	Terminal	516
+read	Word	--	Terminal	517
+as	Word	--	Terminal	518
+follows	Word	--	Terminal	519
+:	Punctuation	--	Terminal	520
+#500	FN	--	A	528
+#501	FN	--	P	528
+#502	FN	--	E	521
+#503	FN	--	C	521
+#504	FN	--	E	522
+#505	FN	--	C	522
+#506	FN	--	C	523
+#507	FN	--	E	524
+#508	FN	--	C	524
+#509	FN	--	P	529
+#510	FN	--	E	525
+#511	FN	--	E	525
+#512	FN	--	C	525
+#513	PNCT	--	U	532
+#514	FN	--	F	532
+#515	FN	--	E	526
+#516	FN	--	C	526
+#517	FN	--	P	531
+#518	FN	--	R	527
+#519	FN	--	C	527
+#520	PNCT	--	U	527
+#521	FN	--	A	528
+#522	FN	--	E	523
+#523	FN	--	L	532	LR	533
+#524	FN	--	A	529
+#525	FN	--	A	529
+#526	FN	--	A	531
+#527	FN	--	A	531
+#528	FN	--	H	532	LA	533
+#529	FN	--	H	532	LA	533
+#530	FN	--	A	531
+#531	FN	--	H	532
+#532	FN	--	--	0
+#533	LKG	--	--	0
+#EOS 317000

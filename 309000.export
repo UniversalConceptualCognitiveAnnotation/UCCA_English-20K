@@ -1,0 +1,105 @@
+#BOS 309000
+These	Word	--	Terminal	500
+last	Word	--	Terminal	501
+words	Word	--	Terminal	502
+were	Word	--	Terminal	503
+cowardly	Word	--	Terminal	504
+of	Word	--	Terminal	505
+me	Word	--	Terminal	506
+;	Punctuation	--	Terminal	507
+but	Word	--	Terminal	508
+as	Word	--	Terminal	509
+far	Word	--	Terminal	510
+as	Word	--	Terminal	511
+I	Word	--	Terminal	512
+could	Word	--	Terminal	513
+,	Punctuation	--	Terminal	514
+I	Word	--	Terminal	515
+wanted	Word	--	Terminal	516
+to	Word	--	Terminal	517
+protect	Word	--	Terminal	518
+my	Word	--	Terminal	519
+professorial	Word	--	Terminal	520
+dignity	Word	--	Terminal	521
+and	Word	--	Terminal	522
+not	Word	--	Terminal	523
+lay	Word	--	Terminal	524
+myself	Word	--	Terminal	524
+open	Word	--	Terminal	524
+to	Word	--	Terminal	525
+laughter	Word	--	Terminal	526
+from	Word	--	Terminal	527
+the	Word	--	Terminal	528
+Americans	Word	--	Terminal	529
+,	Punctuation	--	Terminal	530
+who	Word	--	Terminal	531
+when	Word	--	Terminal	532
+they	Word	--	Terminal	533
+do	Word	--	Terminal	534
+laugh	Word	--	Terminal	535
+,	Punctuation	--	Terminal	536
+laugh	Word	--	Terminal	537
+raucously	Word	--	Terminal	538
+.	Punctuation	--	Terminal	539
+#500	FN	--	E	540
+#501	FN	--	E	540
+#502	FN	--	C	540
+#503	FN	--	F	541
+#504	FN	--	C	541
+#505	FN	--	R	542
+#506	FN	--	C	542
+#507	PNCT	--	U	560
+#508	FN	--	L	560	LR	556
+#509	FN	--	R	543
+#510	FN	--	C	543
+#511	FN	--	R	543
+#512	FN	--	A	551
+#513	FN	--	E	544
+#514	PNCT	--	U	560
+#515	FN	--	A	552	A*	558
+#516	FN	--	E	545	E*	546
+#517	FN	--	F	545
+#518	FN	--	C	545	C*	544
+#519	FN	--	E	547
+#520	FN	--	E	547
+#521	FN	--	C	547
+#522	FN	--	L	560
+#523	FN	--	D	558
+#524	FN	--	E	546
+#525	FN	--	F	546
+#526	FN	--	C	546
+#527	FN	--	R	557
+#528	FN	--	E	557
+#529	FN	--	C	557
+#530	PNCT	--	U	557
+#531	FN	--	R	555
+#532	FN	--	L	555	LR	559
+#533	FN	--	A	554	A*	548
+#534	FN	--	F	549
+#535	FN	--	C	549
+#536	PNCT	--	U	555
+#537	FN	--	P	548
+#538	FN	--	D	548
+#539	PNCT	--	U	548
+#540	FN	--	A	550
+#541	FN	--	S	550
+#542	FN	--	A	550
+#543	FN	--	L	560	LR	553
+#544	FN	--	P	551
+#545	FN	--	P	552
+#546	FN	--	P	558
+#547	FN	--	A	552	A*	551
+#548	FN	--	H	555
+#549	FN	--	P	554
+#550	FN	--	H	560	LA	556
+#551	FN	--	H	560	LA	553
+#552	FN	--	H	560	LA	556
+#553	LKG	--	--	0
+#554	FN	--	H	555	LA	559
+#555	FN	--	E	557
+#556	LKG	--	--	0
+#557	FN	--	A	558
+#558	FN	--	H	560
+#559	LKG	--	--	0
+#560	FN	--	--	0
+#EOS 309000

@@ -1,0 +1,92 @@
+#BOS 311002
+I	Word	--	Terminal	500
+repeat	Word	--	Terminal	501
+:	Punctuation	--	Terminal	502
+opinion	Word	--	Terminal	503
+had	Word	--	Terminal	504
+crystallized	Word	--	Terminal	505
+as	Word	--	Terminal	506
+to	Word	--	Terminal	507
+the	Word	--	Terminal	508
+nature	Word	--	Terminal	509
+of	Word	--	Terminal	510
+this	Word	--	Terminal	511
+phenomenon	Word	--	Terminal	512
+,	Punctuation	--	Terminal	513
+and	Word	--	Terminal	514
+the	Word	--	Terminal	515
+public	Word	--	Terminal	516
+accepted	Word	--	Terminal	517
+without	Word	--	Terminal	518
+argument	Word	--	Terminal	519
+the	Word	--	Terminal	520
+existence	Word	--	Terminal	521
+of	Word	--	Terminal	522
+a	Word	--	Terminal	523
+prodigious	Word	--	Terminal	524
+creature	Word	--	Terminal	525
+that	Word	--	Terminal	526
+had	Word	--	Terminal	527
+nothing	Word	--	Terminal	528
+in	Word	--	Terminal	529
+common	Word	--	Terminal	530
+with	Word	--	Terminal	531
+the	Word	--	Terminal	532
+fabled	Word	--	Terminal	533
+sea	Word	--	Terminal	534
+serpent	Word	--	Terminal	535
+.	Punctuation	--	Terminal	536
+#500	FN	--	A	537
+#501	FN	--	P	537
+#502	PNCT	--	U	551
+#503	FN	--	A	546
+#504	FN	--	F	538
+#505	FN	--	C	538
+#506	FN	--	R	545
+#507	FN	--	R	545
+#508	FN	--	E	545
+#509	FN	--	C	545
+#510	FN	--	R	539
+#511	FN	--	E	539
+#512	FN	--	C	539
+#513	PNCT	--	U	551
+#514	FN	--	L	551	LR	552
+#515	FN	--	E	540
+#516	FN	--	C	540	A*	541
+#517	FN	--	P	550
+#518	FN	--	L	551	LR	542
+#519	FN	--	P	541
+#520	FN	--	E	549
+#521	FN	--	C	549
+#522	FN	--	R	548
+#523	FN	--	E	548
+#524	FN	--	E	548
+#525	FN	--	C	548	A*	547
+#526	FN	--	R	547
+#527	FN	--	E	543
+#528	FN	--	A	547
+#529	FN	--	R	543
+#530	FN	--	C	543
+#531	FN	--	R	544
+#532	FN	--	E	544
+#533	FN	--	E	544
+#534	FN	--	E	544
+#535	FN	--	C	544
+#536	PNCT	--	U	544
+#537	FN	--	H	551
+#538	FN	--	P	546
+#539	FN	--	E	545
+#540	FN	--	A	550
+#541	FN	--	H	551	LA	542
+#542	LKG	--	--	0
+#543	FN	--	S	547
+#544	FN	--	A	547
+#545	FN	--	A	546
+#546	FN	--	H	551	LA	552
+#547	FN	--	E	548
+#548	FN	--	E	549
+#549	FN	--	A	550
+#550	FN	--	H	551	LA	552
+#551	FN	--	--	0
+#552	LKG	--	--	0
+#EOS 311002

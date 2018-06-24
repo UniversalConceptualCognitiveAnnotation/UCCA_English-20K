@@ -1,0 +1,30 @@
+#BOS 50001
+The	Word	--	Terminal	500
+officers	Word	--	Terminal	501
+on	Word	--	Terminal	502
+watch	Word	--	Terminal	503
+rushed	Word	--	Terminal	504
+to	Word	--	Terminal	505
+the	Word	--	Terminal	506
+craft	Word	--	Terminal	507
+\u2019s	Word	--	Terminal	508
+stern	Word	--	Terminal	509
+.	Punctuation	--	Terminal	510
+#500	FN	--	E	514
+#501	FN	--	C	514
+#502	FN	--	R	511
+#503	FN	--	C	511
+#504	FN	--	P	515
+#505	FN	--	R	513
+#506	FN	--	E	512
+#507	FN	--	C	512
+#508	FN	--	F	512
+#509	FN	--	C	513
+#510	PNCT	--	U	513
+#511	FN	--	E	514
+#512	FN	--	E	513
+#513	FN	--	A	515
+#514	FN	--	A	515
+#515	FN	--	H	516
+#516	FN	--	--	0
+#EOS 50001

@@ -1,0 +1,42 @@
+#BOS 50005
+Had	Word	--	Terminal	500
+it	Word	--	Terminal	501
+run	Word	--	Terminal	502
+afoul	Word	--	Terminal	502
+of	Word	--	Terminal	503
+an	Word	--	Terminal	504
+underwater	Word	--	Terminal	505
+rock	Word	--	Terminal	506
+or	Word	--	Terminal	507
+the	Word	--	Terminal	508
+wreckage	Word	--	Terminal	509
+of	Word	--	Terminal	510
+some	Word	--	Terminal	511
+enormous	Word	--	Terminal	512
+derelict	Word	--	Terminal	513
+ship	Word	--	Terminal	514
+?	Punctuation	--	Terminal	515
+#500	FN	--	F	516
+#501	FN	--	A	521
+#502	FN	--	C	516
+#503	FN	--	R	517	R*	519
+#504	FN	--	E	517
+#505	FN	--	E	517
+#506	FN	--	C	517
+#507	FN	--	N	520
+#508	FN	--	E	519
+#509	FN	--	C	519
+#510	FN	--	R	518
+#511	FN	--	E	518
+#512	FN	--	E	518
+#513	FN	--	E	518
+#514	FN	--	C	518
+#515	PNCT	--	U	518
+#516	FN	--	P	521
+#517	FN	--	C	520
+#518	FN	--	E	519
+#519	FN	--	C	520
+#520	FN	--	A	521
+#521	FN	--	H	522
+#522	FN	--	--	0
+#EOS 50005

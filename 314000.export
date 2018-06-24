@@ -1,0 +1,72 @@
+#BOS 314000
+But	Word	--	Terminal	500
+,	Punctuation	--	Terminal	501
+as	Word	--	Terminal	502
+it	Word	--	Terminal	503
+always	Word	--	Terminal	504
+happens	Word	--	Terminal	505
+,	Punctuation	--	Terminal	506
+just	Word	--	Terminal	507
+when	Word	--	Terminal	508
+a	Word	--	Terminal	509
+decision	Word	--	Terminal	510
+had	Word	--	Terminal	511
+been	Word	--	Terminal	512
+made	Word	--	Terminal	513
+to	Word	--	Terminal	514
+chase	Word	--	Terminal	515
+the	Word	--	Terminal	516
+monster	Word	--	Terminal	517
+,	Punctuation	--	Terminal	518
+the	Word	--	Terminal	519
+monster	Word	--	Terminal	520
+put	Word	--	Terminal	521
+in	Word	--	Terminal	521
+no	Word	--	Terminal	522
+further	Word	--	Terminal	523
+appearances	Word	--	Terminal	524
+.	Punctuation	--	Terminal	525
+#500	FN	--	L	541	LR	537
+#501	PNCT	--	U	541
+#502	FN	--	L	541	LR	535
+#503	FN	--	F	526
+#504	FN	--	D	526
+#505	FN	--	P	526
+#506	PNCT	--	U	541
+#507	FN	--	E	527
+#508	FN	--	C	527
+#509	FN	--	E	528
+#510	FN	--	C	528
+#511	FN	--	F	529
+#512	FN	--	F	529
+#513	FN	--	C	529
+#514	FN	--	F	530
+#515	FN	--	C	530
+#516	FN	--	E	531
+#517	FN	--	C	531
+#518	PNCT	--	U	541
+#519	FN	--	E	532
+#520	FN	--	C	532
+#521	FN	--	P	534
+#522	FN	--	E	533
+#523	FN	--	E	533
+#524	FN	--	C	533
+#525	PNCT	--	U	533
+#526	FN	--	H	541	LA	535
+#527	FN	--	L	541	LR	542
+#528	FN	--	A	540
+#529	FN	--	P	540
+#530	FN	--	P	539
+#531	FN	--	A	539
+#532	FN	--	A	534
+#533	FN	--	A	534
+#534	FN	--	H	541	LA	537
+#535	LKG	--	--	0
+#536	FN	--	A	540
+#537	LKG	--	--	0
+#538	FN	--	A	539
+#539	FN	--	A	540
+#540	FN	--	H	541	LA	542
+#541	FN	--	--	0
+#542	LKG	--	--	0
+#EOS 314000

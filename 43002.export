@@ -1,0 +1,83 @@
+#BOS 43002
+Now	Word	--	Terminal	500
+then	Word	--	Terminal	500
+,	Punctuation	--	Terminal	501
+the	Word	--	Terminal	502
+biggest	Word	--	Terminal	503
+whales	Word	--	Terminal	504
+,	Punctuation	--	Terminal	505
+those	Word	--	Terminal	506
+rorqual	Word	--	Terminal	507
+whales	Word	--	Terminal	508
+that	Word	--	Terminal	509
+frequent	Word	--	Terminal	510
+the	Word	--	Terminal	511
+waterways	Word	--	Terminal	512
+of	Word	--	Terminal	513
+the	Word	--	Terminal	514
+Aleutian	Word	--	Terminal	515
+Islands	Word	--	Terminal	516
+,	Punctuation	--	Terminal	517
+have	Word	--	Terminal	518
+never	Word	--	Terminal	519
+exceeded	Word	--	Terminal	520
+a	Word	--	Terminal	521
+length	Word	--	Terminal	522
+of	Word	--	Terminal	523
+56	Word	--	Terminal	524
+meters	Word	--	Terminal	525
+\u2014	Punctuation	--	Terminal	526
+if	Word	--	Terminal	527
+they	Word	--	Terminal	528
+reach	Word	--	Terminal	529
+even	Word	--	Terminal	530
+that	Word	--	Terminal	531
+.	Punctuation	--	Terminal	532
+#500	FN	--	L	545	LR	546
+#501	PNCT	--	U	545
+#502	FN	--	E	543
+#503	FN	--	E	543
+#504	FN	--	C	543
+#505	PNCT	--	U	543
+#506	FN	--	E	542
+#507	FN	--	E	542
+#508	FN	--	C	542	A*	541
+#509	FN	--	F	541
+#510	FN	--	P	541
+#511	FN	--	E	539
+#512	FN	--	C	539
+#513	FN	--	R	539
+#514	FN	--	E	533
+#515	FN	--	E	533
+#516	FN	--	C	533
+#517	PNCT	--	U	544
+#518	FN	--	F	534
+#519	FN	--	D	544
+#520	FN	--	C	534
+#521	FN	--	E	535
+#522	FN	--	C	535
+#523	FN	--	R	536
+#524	FN	--	E	536
+#525	FN	--	C	536
+#526	PNCT	--	U	545
+#527	FN	--	L	545	LR	540
+#528	FN	--	A	538
+#529	FN	--	P	538
+#530	FN	--	E	537
+#531	FN	--	C	537
+#532	PNCT	--	U	537
+#533	FN	--	E	539
+#534	FN	--	P	544
+#535	FN	--	E	536
+#536	FN	--	A	544
+#537	FN	--	A	538
+#538	FN	--	H	545	LA	540
+#539	FN	--	A	541
+#540	LKG	--	--	0
+#541	FN	--	E	542
+#542	FN	--	E	543
+#543	FN	--	A	544
+#544	FN	--	H	545	LA	546
+#545	FN	--	--	0
+#546	LKG	--	--	0
+#EOS 43002

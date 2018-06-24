@@ -1,0 +1,117 @@
+#BOS 60004
+Consequently	Word	--	Terminal	500
+,	Punctuation	--	Terminal	501
+it	Word	--	Terminal	502
+must	Word	--	Terminal	503
+have	Word	--	Terminal	504
+been	Word	--	Terminal	505
+produced	Word	--	Terminal	506
+by	Word	--	Terminal	507
+a	Word	--	Terminal	508
+perforating	Word	--	Terminal	509
+tool	Word	--	Terminal	510
+of	Word	--	Terminal	511
+uncommon	Word	--	Terminal	512
+toughness	Word	--	Terminal	513
+\u2014	Punctuation	--	Terminal	514
+plus	Word	--	Terminal	515
+,	Punctuation	--	Terminal	516
+after	Word	--	Terminal	517
+being	Word	--	Terminal	518
+launched	Word	--	Terminal	519
+with	Word	--	Terminal	520
+prodigious	Word	--	Terminal	521
+power	Word	--	Terminal	522
+and	Word	--	Terminal	523
+then	Word	--	Terminal	524
+piercing	Word	--	Terminal	525
+four	Word	--	Terminal	526
+centimeters	Word	--	Terminal	527
+of	Word	--	Terminal	528
+sheet	Word	--	Terminal	529
+iron	Word	--	Terminal	530
+,	Punctuation	--	Terminal	531
+this	Word	--	Terminal	532
+tool	Word	--	Terminal	533
+had	Word	--	Terminal	534
+needed	Word	--	Terminal	535
+to	Word	--	Terminal	536
+withdraw	Word	--	Terminal	537
+itself	Word	--	Terminal	538
+by	Word	--	Terminal	539
+a	Word	--	Terminal	540
+backward	Word	--	Terminal	541
+motion	Word	--	Terminal	542
+truly	Word	--	Terminal	543
+inexplicable	Word	--	Terminal	544
+.	Punctuation	--	Terminal	545
+#500	FN	--	L	567	LR	559
+#501	PNCT	--	U	567
+#502	FN	--	A	554
+#503	FN	--	E	546
+#504	FN	--	F	546
+#505	FN	--	F	546
+#506	FN	--	C	546
+#507	FN	--	R	553
+#508	FN	--	E	553
+#509	FN	--	E	553
+#510	FN	--	C	553
+#511	FN	--	R	547
+#512	FN	--	E	547
+#513	FN	--	C	547
+#514	PNCT	--	U	567
+#515	FN	--	L	567	LR	568
+#516	PNCT	--	U	567
+#517	FN	--	L	567	LR	565
+#518	FN	--	F	548
+#519	FN	--	C	548
+#520	FN	--	R	549
+#521	FN	--	E	549
+#522	FN	--	C	549
+#523	FN	--	L	567	LR	564
+#524	FN	--	L	567	LR	560
+#525	FN	--	P	556
+#526	FN	--	E	555
+#527	FN	--	C	555
+#528	FN	--	R	550
+#529	FN	--	E	550
+#530	FN	--	C	550
+#531	PNCT	--	U	556
+#532	FN	--	E	551
+#533	FN	--	C	551
+#534	FN	--	F	552
+#535	FN	--	E	552
+#536	FN	--	F	552
+#537	FN	--	C	552
+#538	FN	--	A	566
+#539	FN	--	R	563
+#540	FN	--	E	563
+#541	FN	--	E	563
+#542	FN	--	C	563	A*	561
+#543	FN	--	G	561
+#544	FN	--	P	561
+#545	PNCT	--	U	561
+#546	FN	--	P	554
+#547	FN	--	E	553
+#548	FN	--	P	562
+#549	FN	--	D	562
+#550	FN	--	E	555
+#551	FN	--	A	566	A*	562	A*	556
+#552	FN	--	P	566
+#553	FN	--	A	554
+#554	FN	--	H	567	LA	559
+#555	FN	--	A	556
+#556	FN	--	H	567	LA	560	LA	564
+#557	FN	--	A	561
+#558	FN	--	A	562
+#559	LKG	--	--	0
+#560	LKG	--	--	0
+#561	FN	--	E	563
+#562	FN	--	H	567	LA	564	LA	565
+#563	FN	--	A	566
+#564	LKG	--	--	0
+#565	LKG	--	--	0
+#566	FN	--	H	567	LA	568
+#567	FN	--	--	0
+#568	LKG	--	--	0
+#EOS 60004

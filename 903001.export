@@ -1,0 +1,42 @@
+#BOS 903001
+“	Punctuation	--	Terminal	500
+Oh	Word	--	Terminal	501
+really	Word	--	Terminal	501
+,	Punctuation	--	Terminal	502
+and	Word	--	Terminal	503
+I	Word	--	Terminal	504
+can	Word	--	Terminal	505
+prove	Word	--	Terminal	506
+it	Word	--	Terminal	507
+to	Word	--	Terminal	508
+you	Word	--	Terminal	509
+with	Word	--	Terminal	510
+a	Word	--	Terminal	511
+few	Word	--	Terminal	511
+simple	Word	--	Terminal	512
+figures	Word	--	Terminal	513
+.	Punctuation	--	Terminal	514
+”	Punctuation	--	Terminal	515
+#500	PNCT	--	U	520
+#501	FN	--	H	520	LA	521
+#502	PNCT	--	U	520
+#503	FN	--	L	520	LR	521
+#504	FN	--	A	519
+#505	FN	--	E	516
+#506	FN	--	C	516
+#507	FN	--	A	519
+#508	FN	--	R	517
+#509	FN	--	C	517
+#510	FN	--	R	518
+#511	FN	--	E	518
+#512	FN	--	E	518
+#513	FN	--	C	518
+#514	PNCT	--	U	518
+#515	PNCT	--	U	518
+#516	FN	--	P	519
+#517	FN	--	A	519
+#518	FN	--	A	519
+#519	FN	--	H	520	LA	521
+#520	FN	--	--	0
+#521	LKG	--	--	0
+#EOS 903001

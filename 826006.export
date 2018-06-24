@@ -1,0 +1,25 @@
+#BOS 826006
+“	Punctuation	--	Terminal	500
+We	Word	--	Terminal	501
+haven	Word	--	Terminal	502
+’t	Word	--	Terminal	503
+a	Word	--	Terminal	504
+moment	Word	--	Terminal	505
+to	Word	--	Terminal	506
+lose	Word	--	Terminal	507
+.	Punctuation	--	Terminal	508
+#500	PNCT	--	U	510
+#501	FN	--	A	512	A*	510
+#502	FN	--	P	512
+#503	FN	--	D	512
+#504	FN	--	E	511
+#505	FN	--	C	511	A*	510
+#506	FN	--	F	509
+#507	FN	--	C	509
+#508	PNCT	--	U	509
+#509	FN	--	P	510
+#510	FN	--	E	511
+#511	FN	--	A	512
+#512	FN	--	H	513
+#513	FN	--	--	0
+#EOS 826006

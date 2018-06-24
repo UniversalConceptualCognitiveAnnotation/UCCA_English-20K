@@ -1,0 +1,56 @@
+#BOS 836001
+I	Word	--	Terminal	500
+was	Word	--	Terminal	501
+well	Word	--	Terminal	502
+satisfied	Word	--	Terminal	503
+with	Word	--	Terminal	504
+my	Word	--	Terminal	505
+cabin	Word	--	Terminal	506
+,	Punctuation	--	Terminal	507
+which	Word	--	Terminal	508
+was	Word	--	Terminal	509
+located	Word	--	Terminal	510
+in	Word	--	Terminal	511
+the	Word	--	Terminal	512
+stern	Word	--	Terminal	513
+and	Word	--	Terminal	514
+opened	Word	--	Terminal	515
+into	Word	--	Terminal	516
+the	Word	--	Terminal	517
+officers’	Word	--	Terminal	518
+mess	Word	--	Terminal	519
+.	Punctuation	--	Terminal	520
+#500	FN	--	A	531
+#501	FN	--	F	521
+#502	FN	--	D	531
+#503	FN	--	C	521
+#504	FN	--	R	529
+#505	FN	--	E	529
+#506	FN	--	C	529	A*	526	A*	527
+#507	PNCT	--	U	529
+#508	FN	--	R	526	R*	527
+#509	FN	--	F	522
+#510	FN	--	C	522
+#511	FN	--	R	523
+#512	FN	--	E	523
+#513	FN	--	C	523
+#514	FN	--	L	528	LR	530
+#515	FN	--	P	527
+#516	FN	--	R	525
+#517	FN	--	E	524
+#518	FN	--	C	524
+#519	FN	--	C	525
+#520	PNCT	--	U	525
+#521	FN	--	S	531
+#522	FN	--	S	526
+#523	FN	--	A	526
+#524	FN	--	E	525
+#525	FN	--	A	527
+#526	FN	--	H	528	LA	530
+#527	FN	--	H	528	LA	530
+#528	FN	--	E	529
+#529	FN	--	A	531
+#530	LKG	--	--	0
+#531	FN	--	H	532
+#532	FN	--	--	0
+#EOS 836001

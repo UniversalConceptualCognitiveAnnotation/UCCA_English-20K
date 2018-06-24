@@ -1,0 +1,38 @@
+#BOS 314003
+Apparently	Word	--	Terminal	500
+the	Word	--	Terminal	501
+unicorn	Word	--	Terminal	502
+had	Word	--	Terminal	503
+gotten	Word	--	Terminal	504
+wise	Word	--	Terminal	505
+to	Word	--	Terminal	506
+these	Word	--	Terminal	507
+plots	Word	--	Terminal	508
+being	Word	--	Terminal	509
+woven	Word	--	Terminal	510
+around	Word	--	Terminal	511
+it	Word	--	Terminal	512
+.	Punctuation	--	Terminal	513
+#500	FN	--	G	521
+#501	FN	--	E	514
+#502	FN	--	C	514
+#503	FN	--	F	515
+#504	FN	--	E	515
+#505	FN	--	C	515
+#506	FN	--	R	519
+#507	FN	--	E	519
+#508	FN	--	C	519	A*	518
+#509	FN	--	F	516
+#510	FN	--	C	516
+#511	FN	--	R	517
+#512	FN	--	C	517
+#513	PNCT	--	U	517
+#514	FN	--	A	520
+#515	FN	--	P	520
+#516	FN	--	P	518
+#517	FN	--	A	518
+#518	FN	--	E	519
+#519	FN	--	A	520
+#520	FN	--	H	521
+#521	FN	--	--	0
+#EOS 314003

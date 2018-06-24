@@ -1,0 +1,58 @@
+#BOS 288002
+And	Word	--	Terminal	500
+indeed	Word	--	Terminal	501
+,	Punctuation	--	Terminal	502
+unless	Word	--	Terminal	503
+this	Word	--	Terminal	504
+reef	Word	--	Terminal	505
+had	Word	--	Terminal	506
+an	Word	--	Terminal	507
+engine	Word	--	Terminal	508
+in	Word	--	Terminal	509
+its	Word	--	Terminal	510
+belly	Word	--	Terminal	511
+,	Punctuation	--	Terminal	512
+how	Word	--	Terminal	513
+could	Word	--	Terminal	514
+it	Word	--	Terminal	515
+move	Word	--	Terminal	516
+about	Word	--	Terminal	516
+with	Word	--	Terminal	517
+such	Word	--	Terminal	518
+prodigious	Word	--	Terminal	519
+speed	Word	--	Terminal	520
+?	Punctuation	--	Terminal	521
+#500	FN	--	L	529	LR	532
+#501	FN	--	L	529	LR	531
+#502	PNCT	--	U	529
+#503	FN	--	L	529	LR	530
+#504	FN	--	E	522
+#505	FN	--	C	522
+#506	FN	--	S	527
+#507	FN	--	E	523
+#508	FN	--	C	523
+#509	FN	--	R	524
+#510	FN	--	E	524
+#511	FN	--	C	524
+#512	PNCT	--	U	529
+#513	FN	--	F	528
+#514	FN	--	E	525
+#515	FN	--	A	528
+#516	FN	--	C	525
+#517	FN	--	R	526
+#518	FN	--	E	526
+#519	FN	--	E	526
+#520	FN	--	C	526
+#521	PNCT	--	U	526
+#522	FN	--	A	527
+#523	FN	--	A	527
+#524	FN	--	A	527
+#525	FN	--	P	528
+#526	FN	--	A	528
+#527	FN	--	H	529	LA	530
+#528	FN	--	H	529	LA	531	LA	532
+#529	FN	--	--	0
+#530	LKG	--	--	0
+#531	LKG	--	--	0
+#532	LKG	--	--	0
+#EOS 288002

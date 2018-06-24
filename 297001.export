@@ -1,0 +1,33 @@
+#BOS 297001
+Since	Word	--	Terminal	500
+I	Word	--	Terminal	501
+could	Word	--	Terminal	502
+no	Word	--	Terminal	503
+longer	Word	--	Terminal	504
+hold	Word	--	Terminal	505
+my	Word	--	Terminal	505
+tongue	Word	--	Terminal	505
+,	Punctuation	--	Terminal	506
+I	Word	--	Terminal	507
+let	Word	--	Terminal	508
+it	Word	--	Terminal	509
+wag	Word	--	Terminal	510
+.	Punctuation	--	Terminal	511
+#500	FN	--	L	516
+#501	FN	--	A	513
+#502	FN	--	E	512
+#503	FN	--	D	513
+#504	FN	--	D	513
+#505	FN	--	C	512
+#506	PNCT	--	U	516
+#507	FN	--	A	515
+#508	FN	--	E	514
+#509	FN	--	F	514
+#510	FN	--	C	514
+#511	PNCT	--	U	514
+#512	FN	--	P	513
+#513	FN	--	H	516
+#514	FN	--	P	515
+#515	FN	--	H	516
+#516	FN	--	--	0
+#EOS 297001

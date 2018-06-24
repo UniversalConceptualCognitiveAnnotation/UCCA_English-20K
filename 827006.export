@@ -1,0 +1,22 @@
+#BOS 827006
+But	Word	--	Terminal	500
+we	Word	--	Terminal	501
+’re	Word	--	Terminal	502
+going	Word	--	Terminal	503
+just	Word	--	Terminal	504
+the	Word	--	Terminal	505
+same	Word	--	Terminal	506
+!	Punctuation	--	Terminal	507
+#500	FN	--	L	511
+#501	FN	--	A	510
+#502	FN	--	F	508
+#503	FN	--	C	508
+#504	FN	--	E	509
+#505	FN	--	E	509
+#506	FN	--	C	509
+#507	PNCT	--	U	509
+#508	FN	--	P	510
+#509	FN	--	D	510
+#510	FN	--	H	511
+#511	FN	--	--	0
+#EOS 827006

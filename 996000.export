@@ -1,0 +1,76 @@
+#BOS 996000
+“If	Word	--	Terminal	500
+master	Word	--	Terminal	501
+will	Word	--	Terminal	502
+permit	Word	--	Terminal	503
+my	Word	--	Terminal	504
+saying	Word	--	Terminal	505
+so,”	Word	--	Terminal	506
+Conseil	Word	--	Terminal	507
+replied,	Word	--	Terminal	508
+“I	Word	--	Terminal	509
+never	Word	--	Terminal	510
+expected	Word	--	Terminal	511
+to	Word	--	Terminal	512
+win	Word	--	Terminal	513
+that	Word	--	Terminal	514
+prize,	Word	--	Terminal	515
+and	Word	--	Terminal	516
+the	Word	--	Terminal	517
+Union	Word	--	Terminal	518
+government	Word	--	Terminal	519
+could	Word	--	Terminal	520
+have	Word	--	Terminal	521
+promised	Word	--	Terminal	522
+$100,000.00	Word	--	Terminal	523
+and	Word	--	Terminal	524
+been	Word	--	Terminal	525
+none	Word	--	Terminal	526
+the	Word	--	Terminal	527
+poorer.”	Word	--	Terminal	528
+#500	FN	--	L	541	LR	544
+#501	FN	--	A	537
+#502	FN	--	E	529
+#503	FN	--	C	529
+#504	FN	--	A	537	A*	530
+#505	FN	--	P	530
+#506	FN	--	A	530
+#507	FN	--	A	538
+#508	FN	--	P	538
+#509	FN	--	A	539
+#510	FN	--	D	539
+#511	FN	--	E	531
+#512	FN	--	F	531
+#513	FN	--	C	531
+#514	FN	--	E	532
+#515	FN	--	C	532
+#516	FN	--	L	541	LR	543
+#517	FN	--	E	533
+#518	FN	--	E	533
+#519	FN	--	C	533	A*	540
+#520	FN	--	E	534
+#521	FN	--	F	534
+#522	FN	--	C	534
+#523	FN	--	A	535
+#524	FN	--	L	541	LR	542
+#525	FN	--	S	540
+#526	FN	--	D	540
+#527	FN	--	E	536
+#528	FN	--	C	536
+#529	FN	--	P	537
+#530	FN	--	A	537
+#531	FN	--	P	539
+#532	FN	--	A	539
+#533	FN	--	A	535
+#534	FN	--	P	535
+#535	FN	--	H	541	LA	542	LA	543
+#536	FN	--	A	540
+#537	FN	--	H	541	LA	544	A*	538
+#538	FN	--	H	541
+#539	FN	--	H	541	LA	543	LA	544
+#540	FN	--	H	541	LA	542
+#541	FN	--	--	0
+#542	LKG	--	--	0
+#543	LKG	--	--	0
+#544	LKG	--	--	0
+#EOS 996000

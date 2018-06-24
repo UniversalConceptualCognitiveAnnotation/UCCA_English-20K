@@ -1,0 +1,43 @@
+#BOS 828001
+“	Punctuation	--	Terminal	500
+But	Word	--	Terminal	501
+think	Word	--	Terminal	502
+it	Word	--	Terminal	503
+over	Word	--	Terminal	504
+,	Punctuation	--	Terminal	505
+because	Word	--	Terminal	506
+I	Word	--	Terminal	507
+don	Word	--	Terminal	508
+’t	Word	--	Terminal	509
+want	Word	--	Terminal	510
+to	Word	--	Terminal	511
+hide	Word	--	Terminal	512
+anything	Word	--	Terminal	513
+from	Word	--	Terminal	514
+you	Word	--	Terminal	515
+.	Punctuation	--	Terminal	516
+#500	PNCT	--	U	521
+#501	FN	--	L	521	LR	523
+#502	FN	--	P	517
+#503	FN	--	A	517
+#504	FN	--	D	517
+#505	PNCT	--	U	521
+#506	FN	--	L	521	LR	522
+#507	FN	--	A	520
+#508	FN	--	F	518
+#509	FN	--	D	520
+#510	FN	--	E	518
+#511	FN	--	F	518
+#512	FN	--	C	518
+#513	FN	--	A	520
+#514	FN	--	R	519
+#515	FN	--	C	519
+#516	PNCT	--	U	519
+#517	FN	--	H	521	LA	522	LA	523
+#518	FN	--	P	520
+#519	FN	--	A	520
+#520	FN	--	H	521	LA	522
+#521	FN	--	--	0
+#522	LKG	--	--	0
+#523	LKG	--	--	0
+#EOS 828001

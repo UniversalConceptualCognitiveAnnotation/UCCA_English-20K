@@ -1,0 +1,21 @@
+#BOS 984003
+Nothing	Word	--	Terminal	500
+except	Word	--	Terminal	500
+an	Word	--	Terminal	501
+immenseness	Word	--	Terminal	502
+of	Word	--	Terminal	503
+deserted	Word	--	Terminal	504
+waves	Word	--	Terminal	505
+!	Punctuation	--	Terminal	506
+#500	FN	--	D	509
+#501	FN	--	E	508
+#502	FN	--	C	508
+#503	FN	--	R	507
+#504	FN	--	E	507
+#505	FN	--	C	507
+#506	PNCT	--	U	507
+#507	FN	--	E	508
+#508	FN	--	A	509
+#509	FN	--	H	510
+#510	FN	--	--	0
+#EOS 984003

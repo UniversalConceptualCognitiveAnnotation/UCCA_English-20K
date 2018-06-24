@@ -1,0 +1,23 @@
+#BOS 977000
+But	Word	--	Terminal	500
+what	Word	--	Terminal	501
+a	Word	--	Terminal	502
+waste	Word	--	Terminal	503
+of	Word	--	Terminal	504
+energy	Word	--	Terminal	505
+!	Punctuation	--	Terminal	506
+#500	FN	--	L	512	LR	513
+#501	FN	--	F	511
+#502	FN	--	E	510
+#503	FN	--	C	510
+#504	FN	--	R	507
+#505	FN	--	C	507
+#506	PNCT	--	U	507
+#507	FN	--	E	510
+#508	FN	--	A	511
+#509	FN	--	S	511
+#510	FN	--	A	511
+#511	FN	--	H	512	LA	513
+#512	FN	--	--	0
+#513	LKG	--	--	0
+#EOS 977000

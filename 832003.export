@@ -1,0 +1,71 @@
+#BOS 832003
+One	Word	--	Terminal	500
+of	Word	--	Terminal	501
+the	Word	--	Terminal	502
+sailors	Word	--	Terminal	503
+led	Word	--	Terminal	504
+me	Word	--	Terminal	505
+to	Word	--	Terminal	506
+the	Word	--	Terminal	507
+afterdeck	Word	--	Terminal	508
+,	Punctuation	--	Terminal	509
+where	Word	--	Terminal	510
+I	Word	--	Terminal	511
+stood	Word	--	Terminal	512
+in	Word	--	Terminal	513
+the	Word	--	Terminal	514
+presence	Word	--	Terminal	515
+of	Word	--	Terminal	516
+a	Word	--	Terminal	517
+smart	Word	--	Terminal	518
+-	Punctuation	--	Terminal	519
+looking	Word	--	Terminal	518
+officer	Word	--	Terminal	520
+who	Word	--	Terminal	521
+extended	Word	--	Terminal	522
+his	Word	--	Terminal	523
+hand	Word	--	Terminal	524
+to	Word	--	Terminal	525
+me	Word	--	Terminal	526
+.	Punctuation	--	Terminal	527
+#500	FN	--	C	528
+#501	FN	--	R	528
+#502	FN	--	E	529
+#503	FN	--	C	529
+#504	FN	--	P	534
+#505	FN	--	A	534
+#506	FN	--	R	530
+#507	FN	--	E	530
+#508	FN	--	C	530
+#509	PNCT	--	U	538
+#510	FN	--	L	538	LR	539
+#511	FN	--	A	537
+#512	FN	--	E	531
+#513	FN	--	R	531
+#514	FN	--	E	531
+#515	FN	--	C	531
+#516	FN	--	R	536
+#517	FN	--	E	536
+#518	FN	--	E	536
+#519	PNCT	--	U	536
+#520	FN	--	C	536	A*	535
+#521	FN	--	R	535
+#522	FN	--	P	535
+#523	FN	--	E	532
+#524	FN	--	C	532
+#525	FN	--	R	533
+#526	FN	--	C	533
+#527	PNCT	--	U	533
+#528	FN	--	E	529
+#529	FN	--	A	534
+#530	FN	--	A	534
+#531	FN	--	P	537
+#532	FN	--	A	535
+#533	FN	--	A	535
+#534	FN	--	H	538	LA	539
+#535	FN	--	E	536
+#536	FN	--	A	537
+#537	FN	--	H	538	LA	539
+#538	FN	--	--	0
+#539	LKG	--	--	0
+#EOS 832003

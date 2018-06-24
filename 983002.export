@@ -1,0 +1,38 @@
+#BOS 983002
+Hearts	Word	--	Terminal	500
+were	Word	--	Terminal	501
+pounding	Word	--	Terminal	502
+hideously	Word	--	Terminal	503
+,	Punctuation	--	Terminal	504
+gearing	Word	--	Terminal	505
+up	Word	--	Terminal	505
+for	Word	--	Terminal	506
+futures	Word	--	Terminal	507
+full	Word	--	Terminal	508
+of	Word	--	Terminal	509
+incurable	Word	--	Terminal	510
+aneurysms	Word	--	Terminal	511
+.	Punctuation	--	Terminal	512
+#500	FN	--	A	514	A*	520
+#501	FN	--	F	513
+#502	FN	--	C	513
+#503	FN	--	D	514
+#504	PNCT	--	U	521
+#505	FN	--	P	520
+#506	FN	--	R	515
+#507	FN	--	C	515
+#508	FN	--	C	516
+#509	FN	--	R	516
+#510	FN	--	P	518
+#511	FN	--	C	519	A*	518
+#512	PNCT	--	U	519
+#513	FN	--	P	514
+#514	FN	--	H	521
+#515	FN	--	A	520
+#516	FN	--	E	519
+#517	FN	--	A	518
+#518	FN	--	E	519
+#519	FN	--	A	520
+#520	FN	--	H	521
+#521	FN	--	--	0
+#EOS 983002

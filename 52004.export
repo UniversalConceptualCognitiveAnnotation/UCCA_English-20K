@@ -1,0 +1,49 @@
+#BOS 52004
+So	Word	--	Terminal	500
+in	Word	--	Terminal	501
+1867	Word	--	Terminal	502
+this	Word	--	Terminal	503
+company	Word	--	Terminal	504
+owned	Word	--	Terminal	505
+twelve	Word	--	Terminal	506
+ships	Word	--	Terminal	507
+,	Punctuation	--	Terminal	508
+eight	Word	--	Terminal	509
+with	Word	--	Terminal	510
+paddle	Word	--	Terminal	511
+wheels	Word	--	Terminal	512
+and	Word	--	Terminal	513
+four	Word	--	Terminal	514
+with	Word	--	Terminal	515
+propellers	Word	--	Terminal	516
+.	Punctuation	--	Terminal	517
+#500	FN	--	L	527	LR	528
+#501	FN	--	R	518
+#502	FN	--	C	518
+#503	FN	--	E	519
+#504	FN	--	C	519
+#505	FN	--	S	526
+#506	FN	--	E	525
+#507	FN	--	C	525	C*	522	C*	523
+#508	PNCT	--	U	525
+#509	FN	--	E	522
+#510	FN	--	R	520
+#511	FN	--	E	520
+#512	FN	--	C	520
+#513	FN	--	N	524
+#514	FN	--	E	523
+#515	FN	--	R	521
+#516	FN	--	C	521
+#517	PNCT	--	U	521
+#518	FN	--	D	526
+#519	FN	--	A	526
+#520	FN	--	E	522
+#521	FN	--	E	523
+#522	FN	--	C	524
+#523	FN	--	C	524
+#524	FN	--	E	525
+#525	FN	--	A	526
+#526	FN	--	H	527	LA	528
+#527	FN	--	--	0
+#528	LKG	--	--	0
+#EOS 52004

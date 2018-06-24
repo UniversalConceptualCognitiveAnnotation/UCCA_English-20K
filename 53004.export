@@ -1,0 +1,58 @@
+#BOS 53004
+Given	Word	--	Terminal	500
+this	Word	--	Terminal	501
+,	Punctuation	--	Terminal	502
+no	Word	--	Terminal	503
+one	Word	--	Terminal	504
+will	Word	--	Terminal	505
+be	Word	--	Terminal	506
+astonished	Word	--	Terminal	507
+at	Word	--	Terminal	508
+the	Word	--	Terminal	509
+uproar	Word	--	Terminal	510
+provoked	Word	--	Terminal	511
+by	Word	--	Terminal	512
+this	Word	--	Terminal	513
+accident	Word	--	Terminal	514
+involving	Word	--	Terminal	515
+one	Word	--	Terminal	516
+of	Word	--	Terminal	517
+its	Word	--	Terminal	518
+finest	Word	--	Terminal	519
+steamers	Word	--	Terminal	520
+.	Punctuation	--	Terminal	521
+#500	FN	--	E	522
+#501	FN	--	C	522
+#502	PNCT	--	U	532
+#503	FN	--	E	523
+#504	FN	--	C	523
+#505	FN	--	E	524
+#506	FN	--	F	524
+#507	FN	--	C	524
+#508	FN	--	R	530
+#509	FN	--	E	530
+#510	FN	--	C	530	A*	529
+#511	FN	--	P	529
+#512	FN	--	R	528
+#513	FN	--	E	528
+#514	FN	--	C	528	A*	527
+#515	FN	--	P	527
+#516	FN	--	C	525
+#517	FN	--	R	525
+#518	FN	--	E	526
+#519	FN	--	E	526
+#520	FN	--	C	526
+#521	PNCT	--	U	526
+#522	FN	--	L	532	LR	533
+#523	FN	--	A	531
+#524	FN	--	P	531
+#525	FN	--	E	526
+#526	FN	--	A	527
+#527	FN	--	E	528
+#528	FN	--	A	529
+#529	FN	--	E	530
+#530	FN	--	A	531
+#531	FN	--	H	532	LA	533
+#532	FN	--	--	0
+#533	LKG	--	--	0
+#EOS 53004

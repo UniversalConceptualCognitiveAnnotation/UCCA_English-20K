@@ -1,0 +1,77 @@
+#BOS 969000
+Off	Word	--	Terminal	500
+the	Word	--	Terminal	501
+Falkland	Word	--	Terminal	502
+Islands	Word	--	Terminal	503
+on	Word	--	Terminal	504
+June	Word	--	Terminal	505
+30	Word	--	Terminal	505
+,	Punctuation	--	Terminal	506
+the	Word	--	Terminal	507
+frigate	Word	--	Terminal	508
+came	Word	--	Terminal	509
+in	Word	--	Terminal	510
+contact	Word	--	Terminal	511
+with	Word	--	Terminal	512
+a	Word	--	Terminal	513
+fleet	Word	--	Terminal	514
+of	Word	--	Terminal	515
+American	Word	--	Terminal	516
+whalers	Word	--	Terminal	517
+,	Punctuation	--	Terminal	518
+and	Word	--	Terminal	519
+we	Word	--	Terminal	520
+learned	Word	--	Terminal	521
+that	Word	--	Terminal	522
+they	Word	--	Terminal	523
+hadn	Word	--	Terminal	524
+’t	Word	--	Terminal	525
+seen	Word	--	Terminal	526
+the	Word	--	Terminal	527
+narwhale	Word	--	Terminal	528
+.	Punctuation	--	Terminal	529
+#500	FN	--	S	533
+#501	FN	--	E	530
+#502	FN	--	E	530
+#503	FN	--	C	530
+#504	FN	--	R	531
+#505	FN	--	C	531
+#506	PNCT	--	U	542
+#507	FN	--	E	532
+#508	FN	--	C	532	A*	533
+#509	FN	--	E	534
+#510	FN	--	R	534
+#511	FN	--	C	534
+#512	FN	--	R	538
+#513	FN	--	E	538
+#514	FN	--	C	538
+#515	FN	--	R	535
+#516	FN	--	E	535
+#517	FN	--	C	535
+#518	PNCT	--	U	542
+#519	FN	--	L	542	LR	543
+#520	FN	--	A	541
+#521	FN	--	P	541
+#522	FN	--	F	541
+#523	FN	--	A	540
+#524	FN	--	F	536
+#525	FN	--	D	540
+#526	FN	--	C	536
+#527	FN	--	E	537
+#528	FN	--	C	537
+#529	PNCT	--	U	537
+#530	FN	--	A	533
+#531	FN	--	D	533
+#532	FN	--	A	539
+#533	FN	--	H	542
+#534	FN	--	P	539
+#535	FN	--	E	538
+#536	FN	--	P	540
+#537	FN	--	A	540
+#538	FN	--	A	539
+#539	FN	--	H	542	LA	543
+#540	FN	--	A	541
+#541	FN	--	H	542	LA	543
+#542	FN	--	--	0
+#543	LKG	--	--	0
+#EOS 969000

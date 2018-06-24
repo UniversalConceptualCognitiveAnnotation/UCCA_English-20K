@@ -1,0 +1,27 @@
+#BOS 826012
+”	Punctuation	--	Terminal	500
+“	Punctuation	--	Terminal	501
+The	Word	--	Terminal	502
+hotel	Word	--	Terminal	503
+will	Word	--	Terminal	504
+keep	Word	--	Terminal	505
+them	Word	--	Terminal	506
+for	Word	--	Terminal	507
+us	Word	--	Terminal	508
+.	Punctuation	--	Terminal	509
+#500	PNCT	--	U	513
+#501	PNCT	--	U	513
+#502	FN	--	E	510
+#503	FN	--	C	510
+#504	FN	--	E	511
+#505	FN	--	C	511
+#506	FN	--	A	513
+#507	FN	--	R	512
+#508	FN	--	C	512
+#509	PNCT	--	U	512
+#510	FN	--	A	513
+#511	FN	--	P	513
+#512	FN	--	A	513
+#513	FN	--	H	514
+#514	FN	--	--	0
+#EOS 826012

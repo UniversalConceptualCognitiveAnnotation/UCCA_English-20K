@@ -1,0 +1,93 @@
+#BOS 304001
+Increase	Word	--	Terminal	500
+its	Word	--	Terminal	501
+dimensions	Word	--	Terminal	502
+fivefold	Word	--	Terminal	503
+or	Word	--	Terminal	504
+even	Word	--	Terminal	505
+tenfold	Word	--	Terminal	506
+,	Punctuation	--	Terminal	507
+then	Word	--	Terminal	508
+give	Word	--	Terminal	509
+this	Word	--	Terminal	510
+cetacean	Word	--	Terminal	511
+a	Word	--	Terminal	512
+strength	Word	--	Terminal	513
+in	Word	--	Terminal	514
+proportion	Word	--	Terminal	515
+to	Word	--	Terminal	516
+its	Word	--	Terminal	517
+size	Word	--	Terminal	518
+while	Word	--	Terminal	519
+enlarging	Word	--	Terminal	520
+its	Word	--	Terminal	521
+offensive	Word	--	Terminal	522
+weapons	Word	--	Terminal	523
+,	Punctuation	--	Terminal	524
+and	Word	--	Terminal	525
+you	Word	--	Terminal	526
+have	Word	--	Terminal	527
+the	Word	--	Terminal	528
+animal	Word	--	Terminal	529
+we	Word	--	Terminal	530
+’re	Word	--	Terminal	531
+looking	Word	--	Terminal	532
+for	Word	--	Terminal	532
+.	Punctuation	--	Terminal	533
+#500	FN	--	P	543
+#501	FN	--	E	534
+#502	FN	--	C	534
+#503	FN	--	C	542
+#504	FN	--	N	542
+#505	FN	--	E	535
+#506	FN	--	C	535
+#507	PNCT	--	U	554
+#508	FN	--	L	554	LR	551
+#509	FN	--	P	546
+#510	FN	--	E	536
+#511	FN	--	C	536
+#512	FN	--	E	545
+#513	FN	--	C	545
+#514	FN	--	R	537
+#515	FN	--	C	537
+#516	FN	--	R	537
+#517	FN	--	E	538
+#518	FN	--	C	538
+#519	FN	--	L	554	LR	552
+#520	FN	--	P	548
+#521	FN	--	E	539
+#522	FN	--	E	539
+#523	FN	--	C	539
+#524	PNCT	--	U	554
+#525	FN	--	L	554	LR	555
+#526	FN	--	A	553
+#527	FN	--	S	553
+#528	FN	--	E	550
+#529	FN	--	C	550	A*	549
+#530	FN	--	A	549
+#531	FN	--	F	540
+#532	FN	--	C	540
+#533	PNCT	--	U	540
+#534	FN	--	A	543
+#535	FN	--	C	542
+#536	FN	--	A	546
+#537	FN	--	E	538
+#538	FN	--	E	545
+#539	FN	--	A	548
+#540	FN	--	P	549
+#541	FN	--	A	543
+#542	FN	--	A	543
+#543	FN	--	H	554
+#544	FN	--	A	546
+#545	FN	--	A	546
+#546	FN	--	H	554	LA	555	LA	551
+#547	FN	--	A	548
+#548	FN	--	H	554	LA	552
+#549	FN	--	E	550
+#550	FN	--	A	553
+#551	LKG	--	--	0
+#552	LKG	--	--	0
+#553	FN	--	H	554	LA	555
+#554	FN	--	--	0
+#555	LKG	--	--	0
+#EOS 304001

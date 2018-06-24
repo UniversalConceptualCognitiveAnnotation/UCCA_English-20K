@@ -1,0 +1,96 @@
+#BOS 310004
+Now	Word	--	Terminal	500
+then	Word	--	Terminal	500
+,	Punctuation	--	Terminal	501
+the	Word	--	Terminal	502
+sea	Word	--	Terminal	503
+is	Word	--	Terminal	504
+precisely	Word	--	Terminal	505
+their	Word	--	Terminal	506
+best	Word	--	Terminal	507
+medium	Word	--	Terminal	508
+,	Punctuation	--	Terminal	509
+the	Word	--	Terminal	510
+only	Word	--	Terminal	511
+setting	Word	--	Terminal	512
+suitable	Word	--	Terminal	513
+for	Word	--	Terminal	514
+the	Word	--	Terminal	515
+breeding	Word	--	Terminal	516
+and	Word	--	Terminal	517
+growing	Word	--	Terminal	518
+of	Word	--	Terminal	519
+such	Word	--	Terminal	520
+giants	Word	--	Terminal	521
+—	Punctuation	--	Terminal	522
+next	Word	--	Terminal	523
+to	Word	--	Terminal	523
+which	Word	--	Terminal	524
+such	Word	--	Terminal	525
+land	Word	--	Terminal	526
+animals	Word	--	Terminal	527
+as	Word	--	Terminal	528
+elephants	Word	--	Terminal	529
+or	Word	--	Terminal	530
+rhinoceroses	Word	--	Terminal	531
+are	Word	--	Terminal	532
+mere	Word	--	Terminal	533
+dwarves	Word	--	Terminal	534
+.	Punctuation	--	Terminal	535
+#500	FN	--	L	555	LR	549
+#501	PNCT	--	U	555
+#502	FN	--	E	536
+#503	FN	--	C	536	A*	554
+#504	FN	--	S	546	S*	554
+#505	FN	--	D	546
+#506	FN	--	E	537
+#507	FN	--	E	537
+#508	FN	--	C	537
+#509	PNCT	--	U	555
+#510	FN	--	E	553
+#511	FN	--	E	553
+#512	FN	--	C	553	A*	552
+#513	FN	--	S	552
+#514	FN	--	R	551
+#515	FN	--	E	538	E*	539
+#516	FN	--	C	538
+#517	FN	--	N	540
+#518	FN	--	C	539
+#519	FN	--	R	550
+#520	FN	--	E	550	E*	541
+#521	FN	--	C	550	C*	541
+#522	PNCT	--	U	550
+#523	FN	--	R	541
+#524	FN	--	R	548
+#525	FN	--	E	547
+#526	FN	--	E	547
+#527	FN	--	C	547
+#528	FN	--	R	542	R*	543
+#529	FN	--	C	542
+#530	FN	--	N	544
+#531	FN	--	C	543
+#532	FN	--	F	545
+#533	FN	--	E	545
+#534	FN	--	C	545
+#535	PNCT	--	U	545
+#536	FN	--	A	546
+#537	FN	--	A	546
+#538	FN	--	C	540
+#539	FN	--	C	540
+#540	FN	--	P	551
+#541	FN	--	A	548
+#542	FN	--	C	544
+#543	FN	--	C	544
+#544	FN	--	E	547
+#545	FN	--	S	548
+#546	FN	--	H	555	LA	549
+#547	FN	--	A	548
+#548	FN	--	E	550
+#549	LKG	--	--	0
+#550	FN	--	A	551
+#551	FN	--	A	552
+#552	FN	--	E	553
+#553	FN	--	A	554
+#554	FN	--	H	555
+#555	FN	--	--	0
+#EOS 310004
