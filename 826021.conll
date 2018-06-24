@@ -1,0 +1,10 @@
+# sent_id = 826021
+1	We	_	Word	Word	_	3	A	_	_
+2	’re	_	Word	Word	_	3	F	_	_
+3	leaving	_	Word	Word	_	0	ROOT	_	_
+4	on	_	Word	Word	_	6	R	_	_
+5	the	_	Word	Word	_	6	E	_	_
+6	Abraham	_	Word	Word	_	0	ROOT	_	_
+7	Lincoln	_	Word	Word	_	6	Terminal	_	_
+8	.	_	Punctuation	Punctuation	_	6	U	_	_
+

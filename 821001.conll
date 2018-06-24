@@ -1,0 +1,18 @@
+# sent_id = 821001
+1	Not	_	Word	Word	_	2	E	_	_
+2	once	_	Word	Word	_	0	ROOT	_	_
+3	did	_	Word	Word	_	5	F	_	_
+4	he	_	Word	Word	_	5	A	_	_
+5	comment	_	Word	Word	_	0	ROOT	_	_
+6	on	_	Word	Word	_	11	R	_	_
+6	on	_	Word	Word	_	8	R	_	_
+7	the	_	Word	Word	_	8	E	_	_
+8	length	_	Word	Word	_	0	ROOT	_	_
+9	or	_	Word	Word	_	8	N	_	_
+10	the	_	Word	Word	_	11	E	_	_
+11	hardships	_	Word	Word	_	0	ROOT	_	_
+12	of	_	Word	Word	_	14	R	_	_
+13	a	_	Word	Word	_	14	E	_	_
+14	journey	_	Word	Word	_	0	ROOT	_	_
+15	.	_	Punctuation	Punctuation	_	14	U	_	_
+

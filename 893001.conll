@@ -1,0 +1,24 @@
+# sent_id = 893001
+1	We	_	Word	Word	_	3	A	_	_
+2	had	_	Word	Word	_	3	F	_	_
+3	crossed	_	Word	Word	_	0	ROOT	_	_
+4	the	_	Word	Word	_	5	E	_	_
+5	Tropic	_	Word	Word	_	0	ROOT	_	_
+6	of	_	Word	Word	_	7	R	_	_
+7	Capricorn	_	Word	Word	_	0	ROOT	_	_
+8	,	_	Punctuation	Punctuation	_	3	U	_	_
+9	and	_	Word	Word	_	3	L	_	_
+10	the	_	Word	Word	_	11	E	_	_
+11	Strait	_	Word	Word	_	0	ROOT	_	_
+12	of	_	Word	Word	_	13	R	_	_
+13	Magellan	_	Word	Word	_	0	ROOT	_	_
+14	opened	_	Word	Word	_	0	ROOT	_	_
+15	less	_	Word	Word	_	0	ROOT	_	_
+16	than	_	Word	Word	_	15	F	_	_
+17	700	_	Word	Word	_	18	E	_	_
+18	miles	_	Word	Word	_	0	ROOT	_	_
+19	to	_	Word	Word	_	21	R	_	_
+20	the	_	Word	Word	_	21	E	_	_
+21	south	_	Word	Word	_	0	ROOT	_	_
+22	.	_	Punctuation	Punctuation	_	21	U	_	_
+

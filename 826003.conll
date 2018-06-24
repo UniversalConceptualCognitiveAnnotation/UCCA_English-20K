@@ -1,0 +1,17 @@
+# sent_id = 826003
+1	“	_	Punctuation	Punctuation	_	2	U	_	_
+2	Yes	_	Word	Word	_	0	ROOT	_	_
+3	,	_	Punctuation	Punctuation	_	2	U	_	_
+4	my	_	Word	Word	_	2	Terminal	_	_
+5	boy	_	Word	Word	_	2	Terminal	_	_
+6	.	_	Punctuation	Punctuation	_	2	U	_	_
+7	Get	_	Word	Word	_	10	F	_	_
+8	my	_	Word	Word	_	9	N	_	_
+9	things	_	Word	Word	_	0	ROOT	_	_
+10	ready	_	Word	Word	_	0	ROOT	_	_
+11	,	_	Punctuation	Punctuation	_	2	U	_	_
+12	get	_	Word	Word	_	14	F	_	_
+13	yours	_	Word	Word	_	14	A	_	_
+14	ready	_	Word	Word	_	0	ROOT	_	_
+15	.	_	Punctuation	Punctuation	_	14	U	_	_
+

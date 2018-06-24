@@ -1,0 +1,31 @@
+# sent_id = 882000
+1	As	_	Word	Word	_	8	L	_	_
+2	for	_	Word	Word	_	1	Terminal	_	_
+3	the	_	Word	Word	_	4	E	_	_
+4	crew	_	Word	Word	_	10	A	_	_
+4	crew	_	Word	Word	_	17	A	_	_
+4	crew	_	Word	Word	_	23	A	_	_
+4	crew	_	Word	Word	_	14	A	_	_
+5	,	_	Punctuation	Punctuation	_	8	U	_	_
+6	they	_	Word	Word	_	8	F	_	_
+7	only	_	Word	Word	_	8	D	_	_
+8	wanted	_	Word	Word	_	0	ROOT	_	_
+9	to	_	Word	Word	_	10	F	_	_
+10	encounter	_	Word	Word	_	0	ROOT	_	_
+11	the	_	Word	Word	_	12	E	_	_
+12	unicorn	_	Word	Word	_	0	ROOT	_	_
+13	,	_	Punctuation	Punctuation	_	10	U	_	_
+14	harpoon	_	Word	Word	_	0	ROOT	_	_
+15	it	_	Word	Word	_	14	A	_	_
+16	,	_	Punctuation	Punctuation	_	10	U	_	_
+17	haul	_	Word	Word	_	0	ROOT	_	_
+18	it	_	Word	Word	_	17	A	_	_
+19	on	_	Word	Word	_	20	R	_	_
+20	board	_	Word	Word	_	0	ROOT	_	_
+21	,	_	Punctuation	Punctuation	_	10	U	_	_
+22	and	_	Word	Word	_	10	L	_	_
+23	carve	_	Word	Word	_	0	ROOT	_	_
+24	it	_	Word	Word	_	23	A	_	_
+25	up	_	Word	Word	_	23	Terminal	_	_
+26	.	_	Punctuation	Punctuation	_	23	U	_	_
+

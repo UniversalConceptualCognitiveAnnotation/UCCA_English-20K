@@ -1,0 +1,24 @@
+# sent_id = 53004
+1	Given	_	Word	Word	_	2	E	_	_
+2	this	_	Word	Word	_	0	ROOT	_	_
+3	,	_	Punctuation	Punctuation	_	8	U	_	_
+4	no	_	Word	Word	_	5	E	_	_
+5	one	_	Word	Word	_	0	ROOT	_	_
+6	will	_	Word	Word	_	8	E	_	_
+7	be	_	Word	Word	_	8	F	_	_
+8	astonished	_	Word	Word	_	0	ROOT	_	_
+9	at	_	Word	Word	_	11	R	_	_
+10	the	_	Word	Word	_	11	E	_	_
+11	uproar	_	Word	Word	_	12	A	_	_
+12	provoked	_	Word	Word	_	0	ROOT	_	_
+13	by	_	Word	Word	_	15	R	_	_
+14	this	_	Word	Word	_	15	E	_	_
+15	accident	_	Word	Word	_	16	A	_	_
+16	involving	_	Word	Word	_	0	ROOT	_	_
+17	one	_	Word	Word	_	0	ROOT	_	_
+18	of	_	Word	Word	_	17	R	_	_
+19	its	_	Word	Word	_	21	E	_	_
+20	finest	_	Word	Word	_	21	E	_	_
+21	steamers	_	Word	Word	_	0	ROOT	_	_
+22	.	_	Punctuation	Punctuation	_	21	U	_	_
+

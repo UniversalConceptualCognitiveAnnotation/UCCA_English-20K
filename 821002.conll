@@ -1,0 +1,30 @@
+# sent_id = 821002
+1	Never	_	Word	Word	_	4	D	_	_
+2	did	_	Word	Word	_	4	F	_	_
+3	he	_	Word	Word	_	4	A	_	_
+3	he	_	Word	Word	_	6	A	_	_
+4	object	_	Word	Word	_	0	ROOT	_	_
+5	to	_	Word	Word	_	6	F	_	_
+6	buckling	_	Word	Word	_	0	ROOT	_	_
+7	up	_	Word	Word	_	6	Terminal	_	_
+8	his	_	Word	Word	_	9	E	_	_
+9	suitcase	_	Word	Word	_	0	ROOT	_	_
+10	for	_	Word	Word	_	12	R	_	_
+11	any	_	Word	Word	_	12	E	_	_
+12	country	_	Word	Word	_	0	ROOT	_	_
+13	whatever	_	Word	Word	_	12	E	_	_
+14	,	_	Punctuation	Punctuation	_	12	U	_	_
+15	China	_	Word	Word	_	0	ROOT	_	_
+16	or	_	Word	Word	_	15	N	_	_
+17	the	_	Word	Word	_	18	E	_	_
+18	Congo	_	Word	Word	_	0	ROOT	_	_
+19	,	_	Punctuation	Punctuation	_	12	U	_	_
+20	no	_	Word	Word	_	23	F	_	_
+21	matter	_	Word	Word	_	20	Terminal	_	_
+22	how	_	Word	Word	_	20	Terminal	_	_
+23	far	_	Word	Word	_	0	ROOT	_	_
+24	off	_	Word	Word	_	23	Terminal	_	_
+25	it	_	Word	Word	_	23	A	_	_
+26	was	_	Word	Word	_	23	F	_	_
+27	.	_	Punctuation	Punctuation	_	23	U	_	_
+

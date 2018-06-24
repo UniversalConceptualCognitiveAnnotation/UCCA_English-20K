@@ -1,0 +1,28 @@
+# sent_id = 892001
+1	I	_	Word	Word	_	3	A	_	_
+2	must	_	Word	Word	_	3	E	_	_
+3	admit	_	Word	Word	_	0	ROOT	_	_
+4	that	_	Word	Word	_	3	F	_	_
+5	he	_	Word	Word	_	9	A	_	_
+6	flatly	_	Word	Word	_	9	D	_	_
+7	didn	_	Word	Word	_	9	F	_	_
+8	’t	_	Word	Word	_	9	D	_	_
+9	believe	_	Word	Word	_	0	ROOT	_	_
+10	in	_	Word	Word	_	12	R	_	_
+11	the	_	Word	Word	_	12	E	_	_
+12	unicorn	_	Word	Word	_	0	ROOT	_	_
+13	,	_	Punctuation	Punctuation	_	3	U	_	_
+14	and	_	Word	Word	_	3	L	_	_
+15	alone	_	Word	Word	_	0	ROOT	_	_
+16	on	_	Word	Word	_	17	R	_	_
+17	board	_	Word	Word	_	0	ROOT	_	_
+18	,	_	Punctuation	Punctuation	_	22	U	_	_
+19	he	_	Word	Word	_	22	A	_	_
+20	didn	_	Word	Word	_	22	F	_	_
+21	’t	_	Word	Word	_	22	D	_	_
+22	share	_	Word	Word	_	0	ROOT	_	_
+23	the	_	Word	Word	_	25	E	_	_
+24	general	_	Word	Word	_	25	E	_	_
+25	conviction	_	Word	Word	_	0	ROOT	_	_
+26	.	_	Punctuation	Punctuation	_	25	U	_	_
+

@@ -1,0 +1,17 @@
+# sent_id = 835000
+1	The	_	Word	Word	_	2	E	_	_
+2	Abraham	_	Word	Word	_	0	ROOT	_	_
+3	Lincoln	_	Word	Word	_	2	Terminal	_	_
+4	had	_	Word	Word	_	7	F	_	_
+5	been	_	Word	Word	_	7	F	_	_
+6	perfectly	_	Word	Word	_	7	D	_	_
+7	chosen	_	Word	Word	_	0	ROOT	_	_
+8	and	_	Word	Word	_	7	N	_	_
+9	fitted	_	Word	Word	_	7	C	_	_
+10	out	_	Word	Word	_	9	Terminal	_	_
+11	for	_	Word	Word	_	14	R	_	_
+12	its	_	Word	Word	_	14	E	_	_
+13	new	_	Word	Word	_	14	E	_	_
+14	assignment	_	Word	Word	_	0	ROOT	_	_
+15	.	_	Punctuation	Punctuation	_	14	U	_	_
+

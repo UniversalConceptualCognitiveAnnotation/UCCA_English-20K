@@ -1,0 +1,24 @@
+# sent_id = 60002
+1	Two	_	Word	Word	_	0	ROOT	_	_
+2	and	_	Word	Word	_	1	N	_	_
+3	a	_	Word	Word	_	4	E	_	_
+4	half	_	Word	Word	_	0	ROOT	_	_
+5	meters	_	Word	Word	_	0	ROOT	_	_
+6	below	_	Word	Word	_	8	R	_	_
+7	its	_	Word	Word	_	8	E	_	_
+8	waterline	_	Word	Word	_	0	ROOT	_	_
+9	,	_	Punctuation	Punctuation	_	11	U	_	_
+10	there	_	Word	Word	_	11	A	_	_
+11	gaped	_	Word	Word	_	0	ROOT	_	_
+12	a	_	Word	Word	_	14	E	_	_
+13	symmetrical	_	Word	Word	_	14	E	_	_
+14	gash	_	Word	Word	_	0	ROOT	_	_
+15	in	_	Word	Word	_	21	R	_	_
+16	the	_	Word	Word	_	17	E	_	_
+17	shape	_	Word	Word	_	0	ROOT	_	_
+18	of	_	Word	Word	_	17	R	_	_
+19	an	_	Word	Word	_	21	E	_	_
+20	isosceles	_	Word	Word	_	21	E	_	_
+21	triangle	_	Word	Word	_	0	ROOT	_	_
+22	.	_	Punctuation	Punctuation	_	21	U	_	_
+

@@ -1,0 +1,26 @@
+# sent_id = 905005
+1	When	_	Word	Word	_	10	L	_	_
+2	the	_	Word	Word	_	6	E	_	_
+3	inside	_	Word	Word	_	2	E	_	_
+4	and	_	Word	Word	_	2	N	_	_
+5	outside	_	Word	Word	_	6	E	_	_
+6	pressures	_	Word	Word	_	2	C	_	_
+7	are	_	Word	Word	_	10	F	_	_
+8	in	_	Word	Word	_	10	R	_	_
+9	perfect	_	Word	Word	_	10	E	_	_
+10	balance	_	Word	Word	_	0	ROOT	_	_
+11	,	_	Punctuation	Punctuation	_	10	U	_	_
+12	they	_	Word	Word	_	13	A	_	_
+13	neutralize	_	Word	Word	_	0	ROOT	_	_
+14	each	_	Word	Word	_	13	D	_	_
+15	other	_	Word	Word	_	14	Terminal	_	_
+16	and	_	Word	Word	_	10	L	_	_
+17	allow	_	Word	Word	_	20	E	_	_
+18	you	_	Word	Word	_	20	A	_	_
+19	to	_	Word	Word	_	20	F	_	_
+20	tolerate	_	Word	Word	_	0	ROOT	_	_
+21	them	_	Word	Word	_	20	A	_	_
+22	without	_	Word	Word	_	23	R	_	_
+23	discomfort	_	Word	Word	_	0	ROOT	_	_
+24	.	_	Punctuation	Punctuation	_	23	U	_	_
+

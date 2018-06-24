@@ -1,0 +1,30 @@
+# sent_id = 291000
+1	Now	_	Word	Word	_	10	L	_	_
+2	then	_	Word	Word	_	1	Terminal	_	_
+3	,	_	Punctuation	Punctuation	_	10	U	_	_
+4	although	_	Word	Word	_	10	L	_	_
+5	the	_	Word	Word	_	7	E	_	_
+6	latter	_	Word	Word	_	7	E	_	_
+7	hypothesis	_	Word	Word	_	0	ROOT	_	_
+8	was	_	Word	Word	_	10	F	_	_
+9	completely	_	Word	Word	_	10	D	_	_
+10	admissible	_	Word	Word	_	0	ROOT	_	_
+11	,	_	Punctuation	Punctuation	_	10	U	_	_
+12	it	_	Word	Word	_	15	A	_	_
+13	couldn	_	Word	Word	_	15	E	_	_
+14	’t	_	Word	Word	_	15	D	_	_
+15	stand	_	Word	Word	_	0	ROOT	_	_
+16	up	_	Word	Word	_	15	Terminal	_	_
+17	to	_	Word	Word	_	18	R	_	_
+18	inquiries	_	Word	Word	_	19	A	_	_
+19	conducted	_	Word	Word	_	0	ROOT	_	_
+20	in	_	Word	Word	_	24	R	_	_
+21	both	_	Word	Word	_	24	E	_	_
+22	the	_	Word	Word	_	24	E	_	_
+23	New	_	Word	Word	_	24	E	_	_
+24	World	_	Word	Word	_	26	C	_	_
+25	and	_	Word	Word	_	24	N	_	_
+26	the	_	Word	Word	_	0	ROOT	_	_
+27	Old	_	Word	Word	_	26	E	_	_
+28	.	_	Punctuation	Punctuation	_	26	U	_	_
+

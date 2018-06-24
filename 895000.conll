@@ -1,0 +1,25 @@
+# sent_id = 895000
+1	“	_	Punctuation	Punctuation	_	14	U	_	_
+2	Ned	_	Word	Word	_	14	A	_	_
+3	,	_	Punctuation	Punctuation	_	14	U	_	_
+4	”	_	Punctuation	Punctuation	_	14	U	_	_
+5	I	_	Word	Word	_	6	A	_	_
+6	asked	_	Word	Word	_	0	ROOT	_	_
+7	him	_	Word	Word	_	6	A	_	_
+8	,	_	Punctuation	Punctuation	_	14	U	_	_
+9	“	_	Punctuation	Punctuation	_	14	U	_	_
+10	how	_	Word	Word	_	14	F	_	_
+11	can	_	Word	Word	_	14	E	_	_
+12	you	_	Word	Word	_	14	F	_	_
+13	still	_	Word	Word	_	14	D	_	_
+14	doubt	_	Word	Word	_	0	ROOT	_	_
+15	the	_	Word	Word	_	16	E	_	_
+16	reality	_	Word	Word	_	0	ROOT	_	_
+17	of	_	Word	Word	_	19	R	_	_
+18	this	_	Word	Word	_	19	E	_	_
+19	cetacean	_	Word	Word	_	22	A	_	_
+20	we	_	Word	Word	_	22	A	_	_
+21	’re	_	Word	Word	_	22	F	_	_
+22	after	_	Word	Word	_	0	ROOT	_	_
+23	?	_	Punctuation	Punctuation	_	22	U	_	_
+
