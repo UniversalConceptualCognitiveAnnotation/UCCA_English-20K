@@ -1,22 +1,28 @@
-cache: apt
 dist: trusty
 sudo: false
 language: python
+python: 3.6
 cache:
+  apt: true
   pip: true
-  directories:
-  - $HOME/virtualenv
-python:
-  - "3.6"
-install:
-  - pip install -U ucca
+install: pip install -U ucca
 env:
   global:
+    - SCRIPTS=https://raw.githubusercontent.com/UniversalConceptualCognitiveAnnotation/docs/master/scripts
     - secure: "isR2WjZoi+um3hjs1ZRU3C1FBTrxsKsZvqcnP0PKtEcrSwugoUSuVmm9upep99U2E5KGlAENKmiuc32RNa5uiVksoRNOY1Ak0VEYJnlfZdSg87J5qHydHieR1s/Rr+fmC1BSTBC19G4mQjNhrtXXVFkyskV0wPssMJu6pwnTHaznlBNZKW+Hf9jkZfYWDv+kfhqI/SNvwN9lQRgFuk+VKwmmiCarmkRkh9/rvLrUqfbQq0s5wpkvWosr1GWT6wg3C90+NJbsxU00e372k9uihOstaZCWV3WsRkNaopIAGiNQ1uxxJC9RkSlVlZ2j0LPALV4oZGUeivcfVq7oC/O0bi3OpN9cve7HDP04ZeM4RZpyw8fFZAuUMTZynqgk1RNb3ytY1IkNhxhnAQ6ibtvfgC84ukHLDtGCaLCIu8fT/QfJR37ZEVkoNEfocJxSQWp1BgyEK7VCmArsjhjQ1e6r5oL7gE4d/QAN8hpxAeP3hyFD1XyAguACDYgGZDStgl6v/PuInzy9p5AlsoRoQ/GY5bJOFVG199lR2QzP/6bbS0Ry/LLDSXJYIiEjTSwjKk9rROcCh+ZY8Nk4aROEGeWyHlXbpT7SL8fWjPUCRKwzLI7j08jozCyI0//t9VJ7D4jzFjObb/d2LWwc4MGrXGP8YuYO5Uhuhl3sgydryuMSAG8="
-  matrix:
-  - DATASET=xml
-script:
-  - python -m scripts.validate $DATASET || echo Ignoring validation failures
-after_success:
-  - curl https://raw.githubusercontent.com/UniversalConceptualCognitiveAnnotation/docs/master/.visualize.sh | bash
+stages:
+  - test
+  - split
+  - convert
+jobs:
+  include:
+    - script: python -m scripts.validate xml || echo Ignoring validation failures
+    - stage: split
+      script:
+        - curl $SCRIPTS/split_to_sentences.sh | bash
+        - curl $SCRIPTS/push.sh | bash
+    - stage: convert
+      script:
+        - curl $SCRIPTS/visualize.sh | bash
+        - curl $SCRIPTS/push.sh | bash
 
