@@ -1,0 +1,11 @@
+# ::id 52004
+# ::tok So in 1867 this company owned twelve ships , eight with paddle wheels and four with propellers .
+(label :L label
+       :H label
+       :D label
+       :A label
+       :S label
+       :R label
+       :C label
+       :E label
+       :N label)

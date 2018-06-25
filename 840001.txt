@@ -1,0 +1,7 @@
+# ::id 840001
+# ::tok He summoned his engineer .
+(label :H label
+       :A label
+       :P label
+       :E label
+       :C label)

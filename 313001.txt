@@ -1,0 +1,8 @@
+# ::id 313001
+# ::tok In New York preparations were under way for an expedition designed to chase this narwhale .
+(label :H label
+       :A label
+       :P label
+       :R label
+       :C label
+       :E label)

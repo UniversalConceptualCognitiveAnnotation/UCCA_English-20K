@@ -1,0 +1,11 @@
+# ::id 815003
+# ::tok I forgot everything else , and without another thought of exhaustion , friends , or collections , I accepted the American government ’s offer .
+(label :H label
+       :L label
+       :A label
+       :P label
+       :D label
+       :C label
+       :E label
+       :R label
+       :N label)

@@ -1,0 +1,9 @@
+# ::id 54003
+# ::tok It was then drawing 6.7 meters of water and displacing 6,624 cubic meters .
+(label :H label
+       :L label
+       :A label
+       :P label
+       :C label
+       :E label
+       :R label)

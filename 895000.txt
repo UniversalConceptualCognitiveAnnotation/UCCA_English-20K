@@ -1,0 +1,9 @@
+# ::id 895000
+# ::tok “ Ned , ” I asked him , “ how can you still doubt the reality of this cetacean we ’re after ?
+(label :H label
+       :A label
+       :P label
+       :D label
+       :E label
+       :C label
+       :R label)

@@ -1,0 +1,8 @@
+# ::id 310001
+# ::tok It rallied a number of supporters .
+(label :H label
+       :A label
+       :P label
+       :E label
+       :C label
+       :R label)

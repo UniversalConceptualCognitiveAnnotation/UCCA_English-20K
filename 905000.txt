@@ -1,0 +1,8 @@
+# ::id 905000
+# ::tok “ I haven ’t the foggiest notion , Professor Aronnax . ” “ About 17,000 .
+(label :H label
+       :A label
+       :P label
+       :D label
+       :E label
+       :C label)

@@ -1,0 +1,12 @@
+# ::id 307000
+# ::tok “ So , until information becomes more abundant , I plump for a sea unicorn of colossal dimensions , no longer armed with a mere lance but with an actual spur , like ironclad frigates or those warships called ‘rams,’ whose mass and motor power it would possess simultaneously .
+(label :L label
+       :H label
+       :A label
+       :S label
+       :P label
+       :D label
+       :E label
+       :C label
+       :R label
+       :N label)

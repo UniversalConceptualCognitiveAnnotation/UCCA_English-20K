@@ -1,0 +1,9 @@
+# ::id 982001
+# ::tok These bearings determined , the frigate took a more decisive westward heading and tackled the seas of the central Pacific .
+(label :H label
+       :L label
+       :A label
+       :P label
+       :E label
+       :C label
+       :R label)

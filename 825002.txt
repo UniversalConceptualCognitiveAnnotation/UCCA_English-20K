@@ -1,0 +1,10 @@
+# ::id 825002
+# ::tok There was good reason to stop and think , even for the world ’s most emotionless man .
+(label :H label
+       :S label
+       :A label
+       :E label
+       :C label
+       :R label
+       :P label
+       :N label)

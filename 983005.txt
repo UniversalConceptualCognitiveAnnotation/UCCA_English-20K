@@ -1,0 +1,11 @@
+# ::id 983005
+# ::tok Twenty times a day some error in perception , or the optical illusions of some sailor perched in the crosstrees , would cause intolerable anguish , and this emotion , repeated twenty times over , kept us in a state of irritability so intense that a reaction was bound to follow .
+(label :H label
+       :L label
+       :D label
+       :A label
+       :P label
+       :E label
+       :C label
+       :N label
+       :R label)

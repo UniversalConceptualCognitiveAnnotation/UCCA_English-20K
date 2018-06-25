@@ -1,0 +1,10 @@
+# ::id 47001
+# ::tok With inexhaustible zest , the popular press took potshots at feature articles from the Geographic Institute of Brazil , the Royal Academy of Science in Berlin , the British Association , the Smithsonian Institution in Washington , D.C . , at discussions in The Indian Archipelago , in Cosmos published by Father Moigno , in Petermann \u2019s Mittheilungen,2 and at scientific chronicles in the great French and foreign newspapers .
+(label :H label
+       :D label
+       :A label
+       :P label
+       :R label
+       :E label
+       :C label
+       :N label)

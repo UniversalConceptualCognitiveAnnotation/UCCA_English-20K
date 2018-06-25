@@ -1,0 +1,7 @@
+# ::id 316000
+# ::tok This news caused intense excitement .
+(label :H label
+       :A label
+       :P label
+       :E label
+       :C label)

@@ -1,0 +1,11 @@
+# ::id 979002
+# ::tok But this stubborn Canadian spent eight hours out of every twelve reading or sleeping in his cabin .
+(label :L label
+       :H label
+       :A label
+       :P label
+       :D label
+       :E label
+       :C label
+       :R label
+       :N label)

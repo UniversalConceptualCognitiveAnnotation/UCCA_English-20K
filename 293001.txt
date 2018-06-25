@@ -1,0 +1,11 @@
+# ::id 293001
+# ::tok Since the public interest was at stake and transoceanic travel was suffering , the sincerity of these governments could not be doubted .
+(label :L label
+       :H label
+       :A label
+       :S label
+       :P label
+       :D label
+       :E label
+       :C label
+       :R label)

@@ -1,0 +1,11 @@
+# ::id 979000
+# ::tok Ned Land still kept up the most tenacious skepticism ; beyond his spells on watch , he pretended that he never even looked at the surface of the waves , at least while no whales were in sight .
+(label :H label
+       :L label
+       :A label
+       :D label
+       :S label
+       :P label
+       :E label
+       :C label
+       :R label)

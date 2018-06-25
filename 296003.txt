@@ -1,0 +1,8 @@
+# ::id 296003
+# ::tok My views were in demand .
+(label :H label
+       :A label
+       :P label
+       :E label
+       :C label
+       :R label)

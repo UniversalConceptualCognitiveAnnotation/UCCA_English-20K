@@ -1,0 +1,10 @@
+# ::id 48003
+# ::tok The monster again became an islet , rock , or reef , but a runaway reef , unfixed and elusive .
+(label :H label
+       :A label
+       :D label
+       :P label
+       :E label
+       :C label
+       :R label
+       :N label)

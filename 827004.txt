@@ -1,0 +1,7 @@
+# ::id 827004
+# ::tok We don ’t know where it will take us !
+(label :H label
+       :A label
+       :P label
+       :D label
+       :C label)

@@ -1,0 +1,10 @@
+# ::id 298000
+# ::tok “ Therefore , ” I wrote , “ after examining these different hypotheses one by one , we are forced , every other supposition having been refuted , to accept the existence of an extremely powerful marine animal .
+(label :L label
+       :H label
+       :A label
+       :P label
+       :D label
+       :E label
+       :C label
+       :R label)

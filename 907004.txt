@@ -1,0 +1,10 @@
+# ::id 907004
+# ::tok That deep in the sea , such animals would need to be just as strong as you say — if they exist .
+(label :L label
+       :H label
+       :A label
+       :S label
+       :P label
+       :C label
+       :E label
+       :R label)

@@ -1,0 +1,11 @@
+# ::id 42001
+# ::tok Consequently , this extraordinary cetacean could transfer itself from one locality to another with startling swiftness , since within an interval of just three days , the Governor Higginson and the Christopher Columbus had observed it at two positions on the charts separated by a distance of more than 700 nautical leagues .
+(label :L label
+       :H label
+       :A label
+       :P label
+       :D label
+       :E label
+       :C label
+       :R label
+       :N label)

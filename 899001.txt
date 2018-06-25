@@ -1,0 +1,8 @@
+# ::id 899001
+# ::tok ” “ Wooden ships maybe , ” the Canadian replied .
+(label :H label
+       :P label
+       :A label
+       :D label
+       :E label
+       :C label)

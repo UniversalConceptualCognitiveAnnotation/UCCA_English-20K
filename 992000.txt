@@ -1,0 +1,12 @@
+# ::id 992000
+# ::tok By then the frigate lay in latitude 31° 15′ north and longitude 136° 42′ east. The shores of Japan were less than 200 miles to our leeward. Night was coming on. Eight o’clock had just struck. Huge clouds covered the moon’s disk, then in its first quarter. The sea undulated placidly beneath the frigate’s stempost.
+(label :L label
+       :H label
+       :A label
+       :S label
+       :P label
+       :D label
+       :E label
+       :C label
+       :N label
+       :R label)

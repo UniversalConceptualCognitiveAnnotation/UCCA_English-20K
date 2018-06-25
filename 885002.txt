@@ -1,0 +1,8 @@
+# ::id 885002
+# ::tok It had Ned Land , the King of Harpooners .
+(label :H label
+       :A label
+       :P label
+       :C label
+       :E label
+       :R label)

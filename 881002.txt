@@ -1,0 +1,9 @@
+# ::id 881002
+# ::tok Voluntary watches from the crosstrees of the topgallant sail were self-imposed by more than one who would have cursed such toil under any other circumstances .
+(label :H label
+       :L label
+       :A label
+       :P label
+       :E label
+       :C label
+       :R label)

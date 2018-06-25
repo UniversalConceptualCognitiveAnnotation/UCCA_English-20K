@@ -1,0 +1,9 @@
+# ::id 893000
+# ::tok During the magnificent evening of June 25 — in other words , three weeks after our departure — the frigate lay abreast of Cabo Blanco , thirty miles to leeward of the coast of Patagonia .
+(label :H label
+       :D label
+       :A label
+       :P label
+       :E label
+       :R label
+       :C label)

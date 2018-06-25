@@ -1,0 +1,9 @@
+# ::id 841000
+# ::tok “ Are we up to pressure ? ” he asked the man .
+(label :H label
+       :S label
+       :A label
+       :P label
+       :R label
+       :C label
+       :E label)

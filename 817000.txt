@@ -1,0 +1,10 @@
+# ::id 817000
+# ::tok But in the meantime I would have to look for this narwhale in the northern Pacific Ocean ; which meant returning to France by way of the Antipodes .
+(label :L label
+       :H label
+       :D label
+       :A label
+       :P label
+       :R label
+       :E label
+       :C label)

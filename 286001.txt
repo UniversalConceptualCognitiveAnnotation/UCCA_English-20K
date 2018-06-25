@@ -1,0 +1,8 @@
+# ::id 286001
+# ::tok In my capacity as Assistant Professor at the Paris Museum of Natural History , I had been attached to this expedition by the French government .
+(label :H label
+       :A label
+       :P label
+       :E label
+       :C label
+       :R label)

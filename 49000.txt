@@ -1,0 +1,10 @@
+# ::id 49000
+# ::tok On March 5 , 1867 , the Moravian from the Montreal Ocean Co . , lying during the night in latitude 27° 30\u2032 and longitude 72° 15\u2032 , ran its starboard quarter afoul of a rock marked on no charts of these waterways .
+(label :H label
+       :D label
+       :A label
+       :P label
+       :R label
+       :C label
+       :E label
+       :N label)

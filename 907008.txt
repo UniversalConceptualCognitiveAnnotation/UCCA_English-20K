@@ -1,0 +1,9 @@
+# ::id 907008
+# ::tok ” the Canadian replied , unconsciously echoing a famous catchphrase of the scientist Arago .
+(label :H label
+       :A label
+       :P label
+       :D label
+       :E label
+       :C label
+       :R label)

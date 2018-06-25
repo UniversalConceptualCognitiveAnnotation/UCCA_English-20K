@@ -1,0 +1,10 @@
+# ::id 902003
+# ::tok “ Because it takes incalculable strength just to live in those deep strata and withstand their pressure . ”
+(label :L label
+       :H label
+       :P label
+       :A label
+       :E label
+       :C label
+       :D label
+       :R label)

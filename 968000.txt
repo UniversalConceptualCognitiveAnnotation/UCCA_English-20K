@@ -1,0 +1,9 @@
+# ::id 968000
+# ::tok ﻿ For some while the voyage of the Abraham Lincoln was marked by no incident .
+(label :H label
+       :D label
+       :A label
+       :P label
+       :R label
+       :E label
+       :C label)

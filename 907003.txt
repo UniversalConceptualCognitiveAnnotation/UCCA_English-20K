@@ -1,0 +1,8 @@
+# ::id 907003
+# ::tok “ Well , have I convinced you ? ” “ You ’ve convinced me of one thing , Mr . Naturalist .
+(label :H label
+       :P label
+       :A label
+       :C label
+       :E label
+       :R label)

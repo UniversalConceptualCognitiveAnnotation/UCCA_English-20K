@@ -1,0 +1,12 @@
+# ::id 990000
+# ::tok Two days passed. The Abraham Lincoln stayed at half steam. On the offchance that the animal might be found in these waterways, a thousand methods were used to spark its interest or rouse it from its apathy. Enormous sides of bacon were trailed in our wake, to the great satisfaction, I must say, of assorted sharks. While the Abraham Lincoln heaved to, its longboats radiated in every direction around it and didn’t leave a single point of the sea unexplored. But the evening of November 4 arrived with this underwater mystery still unsolved.
+(label :H label
+       :L label
+       :G label
+       :A label
+       :P label
+       :D label
+       :R label
+       :E label
+       :C label
+       :S label)

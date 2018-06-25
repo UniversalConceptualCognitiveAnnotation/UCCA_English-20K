@@ -1,0 +1,9 @@
+# ::id 888000
+# ::tok Commander Farragut , to my thinking , had made a wise move in hiring on this man .
+(label :H label
+       :G label
+       :A label
+       :P label
+       :R label
+       :E label
+       :C label)

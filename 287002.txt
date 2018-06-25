@@ -1,0 +1,7 @@
+# ::id 287002
+# ::tok This mystery puzzled me .
+(label :H label
+       :A label
+       :P label
+       :E label
+       :C label)

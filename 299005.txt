@@ -1,0 +1,8 @@
+# ::id 299005
+# ::tok It ’s almost beyond conjecture .
+(label :H label
+       :A label
+       :S label
+       :D label
+       :R label
+       :C label)

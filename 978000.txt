@@ -1,0 +1,8 @@
+# ::id 978000
+# ::tok However , the weather held good .
+(label :L label
+       :H label
+       :A label
+       :S label
+       :E label
+       :C label)

@@ -1,0 +1,9 @@
+# ::id 816000
+# ::tok “ Besides , ” I mused , “ all roads lead home to Europe , and our unicorn may be gracious enough to take me toward the coast of France !
+(label :L label
+       :H label
+       :A label
+       :P label
+       :E label
+       :C label
+       :R label)

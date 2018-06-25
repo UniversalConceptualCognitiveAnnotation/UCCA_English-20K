@@ -1,0 +1,7 @@
+# ::id 314002
+# ::tok Not a single ship encountered it .
+(label :H label
+       :A label
+       :P label
+       :E label
+       :C label)

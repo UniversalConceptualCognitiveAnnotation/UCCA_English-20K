@@ -1,0 +1,12 @@
+# ::id 815000
+# ::tok Even so , I had just returned from an arduous journey , exhausted and badly needing a rest .
+(label :L label
+       :H label
+       :A label
+       :P label
+       :D label
+       :S label
+       :C label
+       :R label
+       :E label
+       :N label)

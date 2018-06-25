@@ -1,0 +1,11 @@
+# ::id 60004
+# ::tok Consequently , it must have been produced by a perforating tool of uncommon toughness \u2014 plus , after being launched with prodigious power and then piercing four centimeters of sheet iron , this tool had needed to withdraw itself by a backward motion truly inexplicable .
+(label :L label
+       :H label
+       :A label
+       :P label
+       :D label
+       :E label
+       :C label
+       :R label
+       :G label)

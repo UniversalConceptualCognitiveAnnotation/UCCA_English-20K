@@ -1,0 +1,10 @@
+# ::id 887002
+# ::tok His looks caught the attention , and above all the strength of his gaze , which gave a unique emphasis to his facial appearance .
+(label :H label
+       :L label
+       :A label
+       :P label
+       :D label
+       :E label
+       :C label
+       :R label)

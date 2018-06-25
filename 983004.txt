@@ -1,0 +1,5 @@
+# ::id 983004
+# ::tok Nobody ate , nobody slept .
+(label :H label
+       :A label
+       :P label)

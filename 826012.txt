@@ -1,0 +1,8 @@
+# ::id 826012
+# ::tok ” “ The hotel will keep them for us .
+(label :H label
+       :A label
+       :P label
+       :E label
+       :C label
+       :R label)

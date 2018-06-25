@@ -1,0 +1,9 @@
+# ::id 57002
+# ::tok Divided into seven compartments by watertight bulkheads , the Scotia could brave any leak with impunity .
+(label :H label
+       :A label
+       :P label
+       :D label
+       :E label
+       :C label
+       :R label)

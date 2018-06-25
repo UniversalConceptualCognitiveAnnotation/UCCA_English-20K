@@ -1,0 +1,9 @@
+# ::id 886000
+# ::tok Gifted with uncommon manual ability , Ned Land was a Canadian who had no equal in his dangerous trade .
+(label :H label
+       :A label
+       :S label
+       :E label
+       :R label
+       :C label
+       :P label)

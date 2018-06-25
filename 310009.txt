@@ -1,0 +1,11 @@
+# ::id 310009
+# ::tok Couldn ’t the heart of the ocean hide the last - remaining varieties of these titanic species , for whom years are centuries and centuries millennia ?
+(label :H label
+       :P label
+       :D label
+       :A label
+       :E label
+       :C label
+       :R label
+       :L label
+       :S label)

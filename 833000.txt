@@ -1,0 +1,9 @@
+# ::id 833000
+# ::tok “ Professor Pierre Aronnax ? ” he said to me .
+(label :H label
+       :A label
+       :S label
+       :P label
+       :E label
+       :C label
+       :R label)

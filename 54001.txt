@@ -1,0 +1,8 @@
+# ::id 54001
+# ::tok It was traveling at a speed of 13.43 knots under the thrust of its 1,000 - horsepower engines .
+(label :H label
+       :A label
+       :P label
+       :C label
+       :R label
+       :E label)

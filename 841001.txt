@@ -1,0 +1,7 @@
+# ::id 841001
+# ::tok “ Aye , sir , ” the engineer replied .
+(label :H label
+       :A label
+       :P label
+       :E label
+       :C label)

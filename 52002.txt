@@ -1,0 +1,11 @@
+# ::id 52002
+# ::tok Eight years later , the company \u2019s assets were increased by four 650 - horsepower ships at 1,820 metric tons , and in two more years , by two other vessels of still greater power and tonnage .
+(label :H label
+       :L label
+       :D label
+       :A label
+       :P label
+       :E label
+       :C label
+       :R label
+       :N label)

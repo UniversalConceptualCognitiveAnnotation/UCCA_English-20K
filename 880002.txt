@@ -1,0 +1,7 @@
+# ::id 880002
+# ::tok He was its very soul .
+(label :H label
+       :A label
+       :S label
+       :E label
+       :C label)

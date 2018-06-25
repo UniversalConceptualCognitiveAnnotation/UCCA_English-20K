@@ -1,0 +1,8 @@
+# ::id 833001
+# ::tok “ The same , ” I replied .
+(label :H label
+       :A label
+       :S label
+       :P label
+       :E label
+       :C label)

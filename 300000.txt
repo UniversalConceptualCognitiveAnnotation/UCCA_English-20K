@@ -1,0 +1,10 @@
+# ::id 300000
+# ::tok “ However , the solution to this problem submitted to me can take the form of a choice between two alternatives .
+(label :L label
+       :H label
+       :A label
+       :S label
+       :E label
+       :C label
+       :R label
+       :P label)

@@ -1,0 +1,9 @@
+# ::id 833002
+# ::tok “ Commander Farragut ? ” “ In person .
+(label :H label
+       :A label
+       :S label
+       :D label
+       :E label
+       :C label
+       :R label)

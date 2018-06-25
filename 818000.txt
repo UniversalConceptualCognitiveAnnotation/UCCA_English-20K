@@ -1,0 +1,9 @@
+# ::id 818000
+# ::tok “ Conseil ! ” I called in an impatient voice .
+(label :H label
+       :A label
+       :P label
+       :D label
+       :R label
+       :E label
+       :C label)

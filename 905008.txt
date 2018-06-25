@@ -1,0 +1,9 @@
+# ::id 905008
+# ::tok “ Because the water surrounds me but doesn ’t penetrate me .
+(label :L label
+       :H label
+       :A label
+       :P label
+       :D label
+       :E label
+       :C label)

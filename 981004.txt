@@ -1,0 +1,11 @@
+# ::id 981004
+# ::tok Yet everyone still felt confident of success , and not a sailor on board would have bet against the narwhale appearing , and soon .
+(label :L label
+       :H label
+       :A label
+       :D label
+       :S label
+       :P label
+       :E label
+       :C label
+       :R label)

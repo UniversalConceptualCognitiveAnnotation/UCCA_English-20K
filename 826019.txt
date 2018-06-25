@@ -1,0 +1,7 @@
+# ::id 826019
+# ::tok ” “ Oh , it ’s nothing really !
+(label :H label
+       :A label
+       :S label
+       :D label
+       :C label)

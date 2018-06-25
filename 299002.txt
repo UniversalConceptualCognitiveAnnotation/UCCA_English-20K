@@ -1,0 +1,8 @@
+# ::id 299002
+# ::tok What goes on in those distant depths ?
+(label :H label
+       :A label
+       :P label
+       :R label
+       :E label
+       :C label)

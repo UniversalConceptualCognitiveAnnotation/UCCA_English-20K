@@ -1,0 +1,10 @@
+# ::id 907005
+# ::tok ” “ But if they don ’t exist , my stubborn harpooner , how do you explain the accident that happened to the Scotia ?
+(label :L label
+       :H label
+       :A label
+       :P label
+       :D label
+       :C label
+       :E label
+       :R label)

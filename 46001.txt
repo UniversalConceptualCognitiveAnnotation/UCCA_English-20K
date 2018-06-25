@@ -1,0 +1,7 @@
+# ::id 46001
+# ::tok The \u201Cmonster question\u201D inflamed all minds .
+(label :H label
+       :A label
+       :P label
+       :E label
+       :C label)

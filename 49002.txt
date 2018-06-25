@@ -1,0 +1,11 @@
+# ::id 49002
+# ::tok Without the high quality of its hull , the Moravian would surely have split open from this collision and gone down together with those 237 passengers it was bringing back from Canada .
+(label :H label
+       :L label
+       :A label
+       :P label
+       :G label
+       :D label
+       :R label
+       :E label
+       :C label)

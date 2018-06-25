@@ -1,0 +1,11 @@
+# ::id 904005
+# ::tok In reality , such a column of water wouldn ’t be quite so high because here we ’re dealing with salt water , which is denser than fresh water .
+(label :L label
+       :H label
+       :R label
+       :C label
+       :A label
+       :S label
+       :D label
+       :P label
+       :E label)

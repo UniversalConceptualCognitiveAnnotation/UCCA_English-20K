@@ -1,0 +1,11 @@
+# ::id 977001
+# ::tok The Abraham Lincoln would change course and race after the animal sighted , only to find an ordinary baleen whale or a common sperm whale that soon disappeared amid a chorus of curses !
+(label :H label
+       :L label
+       :A label
+       :P label
+       :D label
+       :E label
+       :C label
+       :R label
+       :N label)

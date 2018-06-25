@@ -1,0 +1,10 @@
+# ::id 900000
+# ::tok “ So , Mr . Naturalist , ” Ned Land continued in a bantering tone , “ you ’ll just keep on believing in the existence of some enormous cetacean . . . ?
+(label :L label
+       :H label
+       :A label
+       :P label
+       :D label
+       :R label
+       :E label
+       :C label)

@@ -1,0 +1,8 @@
+# ::id 846000
+# ::tok Three o’clock then sounded .
+(label :H label
+       :L label
+       :A label
+       :P label
+       :E label
+       :C label)

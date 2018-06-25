@@ -1,0 +1,9 @@
+# ::id 881001
+# ::tok They could be heard chatting , discussing , arguing , calculating the different chances of an encounter , and observing the vast expanse of the ocean .
+(label :H label
+       :A label
+       :P label
+       :L label
+       :E label
+       :C label
+       :R label)

@@ -1,0 +1,9 @@
+# ::id 971000
+# ::tok The frigate sailed along the east coast of South America with prodigious speed .
+(label :H label
+       :A label
+       :P label
+       :D label
+       :E label
+       :C label
+       :R label)

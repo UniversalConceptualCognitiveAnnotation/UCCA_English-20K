@@ -1,0 +1,9 @@
+# ::id 317000
+# ::tok I received a letter three hours before the Abraham Lincoln left its Brooklyn pier ; 1 the letter read as follows :
+(label :H label
+       :L label
+       :A label
+       :P label
+       :E label
+       :C label
+       :R label)

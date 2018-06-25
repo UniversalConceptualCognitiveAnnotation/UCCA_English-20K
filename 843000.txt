@@ -1,0 +1,9 @@
+# ::id 843000
+# ::tok The wharves of Brooklyn , and every part of New York bordering the East River , were crowded with curiosity seekers .
+(label :H label
+       :A label
+       :P label
+       :C label
+       :N label
+       :R label
+       :E label)

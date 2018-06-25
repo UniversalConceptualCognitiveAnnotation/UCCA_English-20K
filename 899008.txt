@@ -1,0 +1,10 @@
+# ::id 899008
+# ::tok Consequently , the feats of krakens or other monsters of that ilk must be relegated to the realm of fiction . ”
+(label :L label
+       :H label
+       :A label
+       :P label
+       :E label
+       :C label
+       :N label
+       :R label)

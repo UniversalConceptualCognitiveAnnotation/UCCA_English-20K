@@ -1,0 +1,9 @@
+# ::id 972001
+# ::tok Indeed , were we likely to encounter the narwhale in such a cramped strait ?
+(label :L label
+       :H label
+       :P label
+       :A label
+       :E label
+       :C label
+       :R label)

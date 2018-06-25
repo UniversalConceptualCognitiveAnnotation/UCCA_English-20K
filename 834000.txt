@@ -1,0 +1,9 @@
+# ::id 834000
+# ::tok I bowed , and letting the commander attend to getting under way , I was taken to the cabin that had been set aside for me .
+(label :H label
+       :L label
+       :A label
+       :P label
+       :E label
+       :C label
+       :R label)

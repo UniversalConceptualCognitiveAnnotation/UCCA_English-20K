@@ -1,0 +1,8 @@
+# ::id 826006
+# ::tok “ We haven ’t a moment to lose .
+(label :H label
+       :A label
+       :P label
+       :D label
+       :E label
+       :C label)

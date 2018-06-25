@@ -1,0 +1,9 @@
+# ::id 826004
+# ::tok We ’re departing in two hours .
+(label :H label
+       :A label
+       :P label
+       :D label
+       :C label
+       :R label
+       :E label)

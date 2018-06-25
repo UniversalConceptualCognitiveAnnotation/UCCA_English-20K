@@ -1,0 +1,8 @@
+# ::id 974002
+# ::tok ” repeated the sailors of the Abraham Lincoln .
+(label :H label
+       :P label
+       :A label
+       :E label
+       :C label
+       :R label)

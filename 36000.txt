@@ -1,0 +1,10 @@
+# ::id 36000
+# ::tok The year 1866 was marked by a bizarre development , an unexplained and downright inexplicable phenomenon that surely no one has forgotten .
+(label :H label
+       :A label
+       :P label
+       :E label
+       :C label
+       :R label
+       :N label
+       :G label)

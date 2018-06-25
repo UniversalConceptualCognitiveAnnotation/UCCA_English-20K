@@ -1,0 +1,8 @@
+# ::id 898003
+# ::tok I ’ve chased plenty of cetaceans , I ’ve harpooned a good number , I ’ve killed several .
+(label :H label
+       :A label
+       :P label
+       :C label
+       :E label
+       :R label)

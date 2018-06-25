@@ -1,0 +1,8 @@
+# ::id 311001
+# ::tok Enough of these fairy tales that time has changed for me into harsh realities .
+(label :H label
+       :P label
+       :A label
+       :R label
+       :E label
+       :C label)

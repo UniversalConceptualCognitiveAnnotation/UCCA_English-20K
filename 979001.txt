@@ -1,0 +1,9 @@
+# ::id 979001
+# ::tok And yet the marvelous power of his vision could have performed yeoman service .
+(label :L label
+       :H label
+       :A label
+       :P label
+       :E label
+       :C label
+       :R label)

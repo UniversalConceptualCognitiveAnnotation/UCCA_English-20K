@@ -1,0 +1,10 @@
+# ::id 821003
+# ::tok He went here , there , and everywhere in perfect contentment .
+(label :H label
+       :A label
+       :P label
+       :D label
+       :C label
+       :N label
+       :R label
+       :E label)

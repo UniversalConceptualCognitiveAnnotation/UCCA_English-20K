@@ -1,0 +1,8 @@
+# ::id 53001
+# ::tok No transoceanic navigational undertaking has been conducted with more ability , no business dealings have been crowned with greater success .
+(label :H label
+       :A label
+       :P label
+       :E label
+       :C label
+       :R label)

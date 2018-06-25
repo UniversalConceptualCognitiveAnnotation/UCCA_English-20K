@@ -1,0 +1,6 @@
+# ::id 984002
+# ::tok And we found nothing !
+(label :L label
+       :H label
+       :A label
+       :P label)

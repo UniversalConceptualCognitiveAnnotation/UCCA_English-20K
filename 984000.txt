@@ -1,0 +1,10 @@
+# ::id 984000
+# ::tok And this reaction wasn ’t long in coming .
+(label :L label
+       :H label
+       :A label
+       :P label
+       :D label
+       :E label
+       :C label
+       :R label)

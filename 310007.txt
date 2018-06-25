@@ -1,0 +1,9 @@
+# ::id 310007
+# ::tok Our Creator cast them using a colossal mold that time has gradually made smaller .
+(label :H label
+       :A label
+       :P label
+       :E label
+       :C label
+       :R label
+       :D label)

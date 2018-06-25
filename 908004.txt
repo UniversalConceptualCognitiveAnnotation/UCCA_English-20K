@@ -1,0 +1,11 @@
+# ::id 908004
+# ::tok Now then , this hole didn ’t make itself , and since it hadn ’t resulted from underwater rocks or underwater machines , it must have been caused by the perforating tool of some animal .
+(label :L label
+       :H label
+       :A label
+       :P label
+       :D label
+       :E label
+       :C label
+       :N label
+       :R label)

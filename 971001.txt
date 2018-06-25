@@ -1,0 +1,9 @@
+# ::id 971001
+# ::tok By July 3 we were at the entrance to the Strait of Magellan , abreast of Cabo de las Virgenes .
+(label :H label
+       :D label
+       :A label
+       :S label
+       :R label
+       :C label
+       :E label)

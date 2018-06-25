@@ -1,0 +1,11 @@
+# ::id 840000
+# ::tok But Commander Farragut didn ’t want to waste a single day , or even a single hour , in making for those seas where the animal had just been sighted .
+(label :L label
+       :H label
+       :A label
+       :P label
+       :D label
+       :E label
+       :C label
+       :N label
+       :R label)

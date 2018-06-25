@@ -1,0 +1,9 @@
+# ::id 60002
+# ::tok Two and a half meters below its waterline , there gaped a symmetrical gash in the shape of an isosceles triangle .
+(label :H label
+       :A label
+       :P label
+       :E label
+       :C label
+       :N label
+       :R label)

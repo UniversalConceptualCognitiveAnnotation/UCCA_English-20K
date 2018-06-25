@@ -1,0 +1,9 @@
+# ::id 60000
+# ::tok The engineers then proceeded to inspect the Scotia , which had been put in dry dock .
+(label :H label
+       :L label
+       :A label
+       :P label
+       :E label
+       :C label
+       :R label)

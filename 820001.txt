@@ -1,0 +1,10 @@
+# ::id 820001
+# ::tok In Conseil I had a seasoned specialist in biological classification , an enthusiast who could run with acrobatic agility up and down the whole ladder of branches , groups , classes , subclasses , orders , families , genera , subgenera , species , and varieties .
+(label :H label
+       :A label
+       :P label
+       :R label
+       :C label
+       :E label
+       :D label
+       :N label)

@@ -1,0 +1,8 @@
+# ::id 45001
+# ::tok The tabloids found it a fine opportunity for hatching all sorts of hoaxes .
+(label :H label
+       :A label
+       :P label
+       :E label
+       :C label
+       :R label)

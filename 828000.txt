@@ -1,0 +1,6 @@
+# ::id 828000
+# ::tok “ What master does , I ’ll do , ” Conseil replied .
+(label :H label
+       :A label
+       :P label
+       :C label)

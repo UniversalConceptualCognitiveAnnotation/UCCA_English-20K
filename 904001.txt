@@ -1,0 +1,7 @@
+# ::id 904001
+# ::tok “ You can make figures do anything you want !
+(label :H label
+       :A label
+       :P label
+       :E label
+       :C label)

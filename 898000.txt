@@ -1,0 +1,7 @@
+# ::id 898000
+# ::tok “ That ’s just where you ’re mistaken , professor , ” Ned replied .
+(label :H label
+       :A label
+       :D label
+       :P label
+       :C label)

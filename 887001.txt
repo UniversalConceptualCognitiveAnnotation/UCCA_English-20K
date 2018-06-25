@@ -1,0 +1,11 @@
+# ::id 887001
+# ::tok A man of great height — over six English feet — he was powerfully built , serious in manner , not very sociable , sometimes headstrong , and quite ill - tempered when crossed .
+(label :H label
+       :L label
+       :S label
+       :A label
+       :D label
+       :P label
+       :E label
+       :C label
+       :R label)

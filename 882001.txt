@@ -1,0 +1,9 @@
+# ::id 882001
+# ::tok They surveyed the sea with scrupulous care .
+(label :H label
+       :A label
+       :P label
+       :D label
+       :E label
+       :C label
+       :R label)

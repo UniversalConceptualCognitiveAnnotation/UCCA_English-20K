@@ -1,0 +1,8 @@
+# ::id 899004
+# ::tok ” “ Listen to me , Ned — ” “ No , no , professor . I ’ll go along with anything you want except that .
+(label :H label
+       :P label
+       :A label
+       :R label
+       :C label
+       :E label)

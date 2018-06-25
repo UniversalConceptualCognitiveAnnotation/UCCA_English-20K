@@ -1,0 +1,10 @@
+# ::id 994000
+# ::tok Observing Conseil, I discovered that, just barely, the gallant lad had fallen under the general influence. At least so I thought. Perhaps his nerves were twitching with curiosity for the first time in history.
+(label :H label
+       :L label
+       :A label
+       :P label
+       :R label
+       :C label
+       :D label
+       :E label)

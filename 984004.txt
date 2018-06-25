@@ -1,0 +1,10 @@
+# ::id 984004
+# ::tok Nothing remotely resembling a gigantic narwhale , or an underwater islet , or a derelict shipwreck , or a runaway reef , or anything the least bit unearthly !
+(label :H label
+       :D label
+       :A label
+       :C label
+       :E label
+       :S label
+       :N label
+       :P label)

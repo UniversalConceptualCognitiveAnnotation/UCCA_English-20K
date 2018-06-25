@@ -1,0 +1,8 @@
+# ::id 905007
+# ::tok ” “ Yes , I see , ” Ned replied , growing more interested .
+(label :H label
+       :A label
+       :P label
+       :D label
+       :E label
+       :C label)

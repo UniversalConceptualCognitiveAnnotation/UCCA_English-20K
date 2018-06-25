@@ -1,0 +1,7 @@
+# ::id 316003
+# ::tok His coal bunkers were overflowing .
+(label :H label
+       :A label
+       :S label
+       :E label
+       :C label)

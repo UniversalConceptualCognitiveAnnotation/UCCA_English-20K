@@ -1,0 +1,9 @@
+# ::id 977000
+# ::tok But what a waste of energy !
+(label :L label
+       :H label
+       :A label
+       :S label
+       :E label
+       :C label
+       :R label)

@@ -1,0 +1,8 @@
+# ::id 316006
+# ::tok Half a day ’s delay would have been unforgivable !
+(label :H label
+       :A label
+       :S label
+       :E label
+       :C label
+       :R label)

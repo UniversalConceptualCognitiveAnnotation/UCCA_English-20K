@@ -1,0 +1,8 @@
+# ::id 316002
+# ::tok His provisions were loaded on board .
+(label :H label
+       :A label
+       :P label
+       :E label
+       :C label
+       :R label)

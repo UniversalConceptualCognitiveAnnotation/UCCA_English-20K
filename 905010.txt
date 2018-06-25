@@ -1,0 +1,5 @@
+# ::id 905010
+# ::tok ” “ Fire and brimstone ! ” Ned put in .
+(label :H label
+       :A label
+       :P label)

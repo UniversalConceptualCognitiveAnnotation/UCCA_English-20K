@@ -1,0 +1,12 @@
+# ::id 993000
+# ::tok Just then I was in the bow, leaning over the starboard rail. Conseil, stationed beside me, stared straight ahead. Roosting in the shrouds, the crew examined the horizon, which shrank and darkened little by little. Officers were probing the increasing gloom with their night glasses. Sometimes the murky ocean sparkled beneath moonbeams that darted between the fringes of two clouds. Then all traces of light vanished into the darkness.
+(label :L label
+       :H label
+       :A label
+       :S label
+       :P label
+       :D label
+       :R label
+       :E label
+       :C label
+       :N label)

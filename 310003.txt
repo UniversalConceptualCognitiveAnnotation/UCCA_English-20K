@@ -1,0 +1,8 @@
+# ::id 310003
+# ::tok The human mind enjoys impressive visions of unearthly creatures .
+(label :H label
+       :A label
+       :P label
+       :E label
+       :C label
+       :R label)

@@ -1,0 +1,9 @@
+# ::id 53004
+# ::tok Given this , no one will be astonished at the uproar provoked by this accident involving one of its finest steamers .
+(label :L label
+       :H label
+       :E label
+       :C label
+       :A label
+       :P label
+       :R label)

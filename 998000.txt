@@ -1,0 +1,11 @@
+# ::id 998000
+# ::tok Conseil didn’t have time to complete the compliment. In the midst of the general silence, a voice became audible. It was Ned Land’s voice, and it shouted: “Ahoy! There’s the thing in question, abreast of us to leeward!”
+(label :H label
+       :L label
+       :A label
+       :D label
+       :P label
+       :S label
+       :E label
+       :C label
+       :R label)

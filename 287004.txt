@@ -1,0 +1,11 @@
+# ::id 287004
+# ::tok Something was out there , that much was certain , and any doubting Thomas was invited to place his finger on the Scotia ’s wound .
+(label :H label
+       :G label
+       :L label
+       :A label
+       :S label
+       :P label
+       :C label
+       :E label
+       :R label)

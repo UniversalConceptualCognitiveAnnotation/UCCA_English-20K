@@ -1,0 +1,11 @@
+# ::id 894001
+# ::tok Quite naturally , I led our conversation around to the giant unicorn , and I weighed our expedition ’s various chances for success or failure .
+(label :H label
+       :L label
+       :D label
+       :A label
+       :P label
+       :E label
+       :C label
+       :R label
+       :N label)

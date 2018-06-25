@@ -1,0 +1,10 @@
+# ::id 293000
+# ::tok But this hypothesis of a war machine collapsed in the face of formal denials from the various governments .
+(label :L label
+       :H label
+       :A label
+       :P label
+       :E label
+       :C label
+       :R label
+       :D label)

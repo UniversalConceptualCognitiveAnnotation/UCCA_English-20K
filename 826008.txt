@@ -1,0 +1,8 @@
+# ::id 826008
+# ::tok ” “ What about master ’s collections ?
+(label :H label
+       :S label
+       :A label
+       :E label
+       :C label
+       :R label)

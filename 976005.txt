@@ -1,0 +1,9 @@
+# ::id 976005
+# ::tok The cowls over the companionways would vomit a torrent of sailors and officers .
+(label :H label
+       :A label
+       :P label
+       :E label
+       :C label
+       :R label
+       :N label)

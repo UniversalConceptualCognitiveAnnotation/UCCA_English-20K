@@ -1,0 +1,9 @@
+# ::id 827003
+# ::tok It ’s a glorious mission but also a dangerous one !
+(label :H label
+       :L label
+       :A label
+       :S label
+       :D label
+       :E label
+       :C label)

@@ -1,0 +1,9 @@
+# ::id 842002
+# ::tok Long horizontal pistons groaned and pushed the tie rods of the drive shaft .
+(label :H label
+       :L label
+       :A label
+       :P label
+       :E label
+       :C label
+       :R label)

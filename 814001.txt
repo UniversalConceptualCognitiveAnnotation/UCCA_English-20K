@@ -1,0 +1,11 @@
+# ::id 814001
+# ::tok Three seconds after reading this letter from the honorable Secretary of the Navy , I understood at last that my true vocation , my sole purpose in life , was to hunt down this disturbing monster and rid the world of it .
+(label :L label
+       :H label
+       :E label
+       :C label
+       :R label
+       :A label
+       :P label
+       :D label
+       :S label)

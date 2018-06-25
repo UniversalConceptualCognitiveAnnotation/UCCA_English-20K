@@ -1,0 +1,9 @@
+# ::id 846001
+# ::tok The harbor pilot went down into his dinghy and rejoined a little schooner waiting for him to leeward .
+(label :H label
+       :L label
+       :A label
+       :P label
+       :E label
+       :C label
+       :R label)

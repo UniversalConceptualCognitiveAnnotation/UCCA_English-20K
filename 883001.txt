@@ -1,0 +1,8 @@
+# ::id 883001
+# ::tok Our frigate would have had fivescore good reasons for renaming itself the Argus , after that mythological beast with 100 eyes !
+(label :H label
+       :A label
+       :P label
+       :E label
+       :C label
+       :R label)

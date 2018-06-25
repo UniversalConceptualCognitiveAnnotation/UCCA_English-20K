@@ -1,0 +1,11 @@
+# ::id 899006
+# ::tok ” “ Even less likely , Ned . The devilfish is merely a mollusk , and even this name hints at its semiliquid flesh , because it ’s Latin meaning soft one .
+(label :H label
+       :L label
+       :A label
+       :S label
+       :D label
+       :P label
+       :E label
+       :C label
+       :R label)

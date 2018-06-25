@@ -1,0 +1,11 @@
+# ::id 826007
+# ::tok Pack as much into my trunk as you can , my traveling kit , my suits , shirts , and socks , don ’t bother counting , just squeeze it all in — and hurry !
+(label :H label
+       :L label
+       :P label
+       :D label
+       :A label
+       :R label
+       :E label
+       :C label
+       :N label)

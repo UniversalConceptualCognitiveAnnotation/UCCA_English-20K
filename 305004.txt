@@ -1,0 +1,9 @@
+# ::id 305004
+# ::tok The museum at the Faculty of Medicine in Paris owns one of these tusks with a length of 2.25 meters and a width at its base of forty-eight centimeters !
+(label :H label
+       :A label
+       :S label
+       :E label
+       :C label
+       :R label
+       :N label)

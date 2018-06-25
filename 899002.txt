@@ -1,0 +1,9 @@
+# ::id 899002
+# ::tok “ But I ’ve never seen the like .
+(label :L label
+       :H label
+       :A label
+       :P label
+       :D label
+       :C label
+       :E label)

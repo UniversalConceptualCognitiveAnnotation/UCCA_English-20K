@@ -1,0 +1,9 @@
+# ::id 983000
+# ::tok We were finally in the area of the monster ’s latest antics !
+(label :H label
+       :A label
+       :S label
+       :D label
+       :E label
+       :C label
+       :R label)

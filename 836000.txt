@@ -1,0 +1,8 @@
+# ::id 836000
+# ::tok The frigate ’s interior accommodations complemented its nautical virtues .
+(label :H label
+       :A label
+       :P label
+       :E label
+       :C label
+       :R label)

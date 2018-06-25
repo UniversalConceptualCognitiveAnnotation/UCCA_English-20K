@@ -1,0 +1,8 @@
+# ::id 908001
+# ::tok That day I pressed him no further .
+(label :H label
+       :D label
+       :A label
+       :P label
+       :E label
+       :C label)

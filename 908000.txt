@@ -1,0 +1,11 @@
+# ::id 908000
+# ::tok But this reply proved nothing , other than how bullheaded the harpooner could be .
+(label :L label
+       :H label
+       :A label
+       :P label
+       :E label
+       :C label
+       :R label
+       :D label
+       :S label)

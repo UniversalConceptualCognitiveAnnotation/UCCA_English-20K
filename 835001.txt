@@ -1,0 +1,9 @@
+# ::id 835001
+# ::tok It was a high - speed frigate furnished with superheating equipment that allowed the tension of its steam to build to seven atmospheres .
+(label :H label
+       :A label
+       :S label
+       :E label
+       :C label
+       :P label
+       :R label)

@@ -1,0 +1,10 @@
+# ::id 980001
+# ::tok “ Nothing ’s out there , Professor Aronnax , and if there is some animal , what chance would we have of spotting it ?
+(label :H label
+       :L label
+       :A label
+       :S label
+       :P label
+       :E label
+       :C label
+       :R label)

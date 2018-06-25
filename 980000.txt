@@ -1,0 +1,5 @@
+# ::id 980000
+# ::tok “ Bah ! ” he replied .
+(label :H label
+       :A label
+       :P label)

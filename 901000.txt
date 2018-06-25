@@ -1,0 +1,9 @@
+# ::id 901000
+# ::tok “ Humph ! ” the harpooner put in , shaking his head with the attitude of a man who doesn ’t want to be convinced .
+(label :H label
+       :A label
+       :P label
+       :D label
+       :E label
+       :C label
+       :R label)

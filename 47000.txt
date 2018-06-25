@@ -1,0 +1,9 @@
+# ::id 47000
+# ::tok For six months the war seesawed .
+(label :H label
+       :D label
+       :A label
+       :P label
+       :R label
+       :E label
+       :C label)

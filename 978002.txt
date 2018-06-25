@@ -1,0 +1,11 @@
+# ::id 978002
+# ::tok By then it was the bad season in these southernmost regions , because July in this zone corresponds to our January in Europe ; but the sea remained smooth and easily visible over a vast perimeter .
+(label :L label
+       :H label
+       :R label
+       :C label
+       :S label
+       :A label
+       :P label
+       :E label
+       :N label)

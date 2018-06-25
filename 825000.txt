@@ -1,0 +1,9 @@
+# ::id 825000
+# ::tok To be sure , I had confidence in this devoted lad .
+(label :L label
+       :H label
+       :A label
+       :P label
+       :C label
+       :R label
+       :E label)

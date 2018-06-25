@@ -1,0 +1,11 @@
+# ::id 816001
+# ::tok That fine animal may even let itself be captured in European seas — as a personal favor to me — and I’ll bring back to the Museum of Natural History at least half a meter of its ivory lance ! ”
+(label :H label
+       :G label
+       :L label
+       :A label
+       :P label
+       :D label
+       :E label
+       :C label
+       :R label)

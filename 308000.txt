@@ -1,0 +1,11 @@
+# ::id 308000
+# ::tok “ This inexplicable phenomenon is thus explained away — unless it ’s something else entirely , which , despite everything that has been sighted , studied , explored and experienced , is still possible ! ”
+(label :H label
+       :L label
+       :A label
+       :P label
+       :S label
+       :D label
+       :E label
+       :C label
+       :N label)

@@ -1,0 +1,6 @@
+# ::id 826002
+# ::tok “ Did master summon me ? ” he said , entering .
+(label :H label
+       :P label
+       :A label
+       :C label)

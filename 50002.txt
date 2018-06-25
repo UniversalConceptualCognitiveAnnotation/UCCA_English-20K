@@ -1,0 +1,9 @@
+# ::id 50002
+# ::tok They examined the ocean with the most scrupulous care .
+(label :H label
+       :A label
+       :P label
+       :D label
+       :E label
+       :C label
+       :R label)

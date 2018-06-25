@@ -1,0 +1,11 @@
+# ::id 969000
+# ::tok Off the Falkland Islands on June 30 , the frigate came in contact with a fleet of American whalers , and we learned that they hadn ’t seen the narwhale .
+(label :H label
+       :L label
+       :A label
+       :S label
+       :D label
+       :P label
+       :E label
+       :C label
+       :R label)

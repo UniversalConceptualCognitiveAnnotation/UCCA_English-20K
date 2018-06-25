@@ -1,0 +1,12 @@
+# ::id 905005
+# ::tok When the inside and outside pressures are in perfect balance , they neutralize each other and allow you to tolerate them without discomfort .
+(label :L label
+       :H label
+       :A label
+       :S label
+       :P label
+       :D label
+       :C label
+       :N label
+       :R label
+       :E label)

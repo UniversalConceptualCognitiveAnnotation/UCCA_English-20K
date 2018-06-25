@@ -1,0 +1,9 @@
+# ::id 313000
+# ::tok Public opinion being pronounced , the States of the Union were the first in the field .
+(label :H label
+       :A label
+       :P label
+       :S label
+       :C label
+       :E label
+       :R label)

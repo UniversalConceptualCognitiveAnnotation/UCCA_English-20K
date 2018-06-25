@@ -1,0 +1,8 @@
+# ::id 287003
+# ::tok Finding it impossible to form any views , I drifted from one extreme to the other .
+(label :H label
+       :A label
+       :P label
+       :E label
+       :C label
+       :R label)

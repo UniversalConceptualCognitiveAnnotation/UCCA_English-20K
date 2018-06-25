@@ -1,0 +1,7 @@
+# ::id 825003
+# ::tok What would Conseil say ?
+(label :H label
+       :A label
+       :P label
+       :E label
+       :C label)

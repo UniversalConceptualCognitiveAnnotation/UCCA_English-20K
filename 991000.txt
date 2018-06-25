@@ -1,0 +1,11 @@
+# ::id 991000
+# ::tok At noon the next day, November 5, the agreed-upon delay expired. After a position fix, true to his promise, Commander Farragut would have to set his course for the southeast and leave the northerly regions of the Pacific decisively behind.
+(label :H label
+       :L label
+       :D label
+       :A label
+       :P label
+       :S label
+       :R label
+       :C label
+       :E label)

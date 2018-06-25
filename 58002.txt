@@ -1,0 +1,9 @@
+# ::id 58002
+# ::tok Fortunately this compartment didn\u2019t contain the boilers , because their furnaces would have been abruptly extinguished .
+(label :H label
+       :L label
+       :D label
+       :A label
+       :P label
+       :E label
+       :C label)

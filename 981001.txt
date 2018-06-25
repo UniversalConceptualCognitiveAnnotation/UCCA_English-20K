@@ -1,0 +1,8 @@
+# ::id 981001
+# ::tok Obviously we were just groping blindly .
+(label :L label
+       :H label
+       :A label
+       :P label
+       :D label
+       :C label)

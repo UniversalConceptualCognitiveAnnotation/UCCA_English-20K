@@ -1,0 +1,12 @@
+# ::id 37000
+# ::tok In essence , over a period of time several ships had encountered \u201Can enormous thing\u201D at sea , a long spindle-shaped object , sometimes giving off a phosphorescent glow , infinitely bigger and faster than any whale .
+(label :L label
+       :H label
+       :R label
+       :C label
+       :D label
+       :A label
+       :P label
+       :E label
+       :S label
+       :N label)

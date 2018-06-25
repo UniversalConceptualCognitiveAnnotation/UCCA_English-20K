@@ -1,0 +1,9 @@
+# ::id 832000
+# ::tok Our baggage was immediately carried to the deck of the frigate .
+(label :H label
+       :A label
+       :P label
+       :D label
+       :E label
+       :C label
+       :R label)

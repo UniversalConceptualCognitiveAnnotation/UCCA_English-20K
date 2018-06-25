@@ -1,0 +1,9 @@
+# ::id 314005
+# ::tok Accordingly , the wags claimed that this slippery rascal had waylaid some passing telegram and was making the most of it .
+(label :L label
+       :H label
+       :A label
+       :P label
+       :E label
+       :C label
+       :R label)

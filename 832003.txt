@@ -1,0 +1,9 @@
+# ::id 832003
+# ::tok One of the sailors led me to the afterdeck , where I stood in the presence of a smart - looking officer who extended his hand to me .
+(label :H label
+       :L label
+       :A label
+       :P label
+       :E label
+       :C label
+       :R label)

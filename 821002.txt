@@ -1,0 +1,11 @@
+# ::id 821002
+# ::tok Never did he object to buckling up his suitcase for any country whatever , China or the Congo , no matter how far off it was .
+(label :H label
+       :D label
+       :P label
+       :A label
+       :C label
+       :E label
+       :R label
+       :N label
+       :S label)

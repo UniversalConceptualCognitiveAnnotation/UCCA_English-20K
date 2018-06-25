@@ -1,0 +1,10 @@
+# ::id 820003
+# ::tok Classifying was everything to him , so he knew nothing else .
+(label :H label
+       :L label
+       :A label
+       :S label
+       :P label
+       :R label
+       :C label
+       :E label)

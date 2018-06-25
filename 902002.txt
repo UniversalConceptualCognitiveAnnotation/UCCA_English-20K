@@ -1,0 +1,5 @@
+# ::id 902002
+# ::tok ” Ned asked .
+(label :H label
+       :A label
+       :P label)

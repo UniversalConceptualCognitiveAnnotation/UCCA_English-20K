@@ -1,0 +1,7 @@
+# ::id 60001
+# ::tok They couldn\u2019t believe their eyes .
+(label :H label
+       :A label
+       :P label
+       :C label
+       :E label)

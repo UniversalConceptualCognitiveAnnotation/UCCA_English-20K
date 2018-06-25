@@ -1,0 +1,9 @@
+# ::id 880008
+# ::tok No middle of the road for these two .
+(label :H label
+       :S label
+       :D label
+       :A label
+       :C label
+       :E label
+       :R label)

@@ -1,0 +1,7 @@
+# ::id 826018
+# ::tok ” “ Whatever detour master wishes .
+(label :H label
+       :A label
+       :E label
+       :C label
+       :P label)

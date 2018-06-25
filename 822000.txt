@@ -1,0 +1,10 @@
+# ::id 822000
+# ::tok The lad was thirty years old , and his age to that of his employer was as fifteen is to twenty .
+(label :H label
+       :L label
+       :A label
+       :S label
+       :E label
+       :C label
+       :R label
+       :P label)

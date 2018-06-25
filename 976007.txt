@@ -1,0 +1,11 @@
+# ::id 976007
+# ::tok I stared ; I stared until I nearly went blind from a worn-out retina , while Conseil , as stoic as ever , kept repeating to me in a calm tone : “ If master ’s eyes would kindly stop bulging , master will see farther ! ”
+(label :H label
+       :L label
+       :A label
+       :P label
+       :D label
+       :E label
+       :C label
+       :R label
+       :S label)

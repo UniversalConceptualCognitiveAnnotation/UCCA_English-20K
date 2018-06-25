@@ -1,0 +1,10 @@
+# ::id 828001
+# ::tok “ But think it over , because I don ’t want to hide anything from you .
+(label :L label
+       :H label
+       :P label
+       :A label
+       :D label
+       :E label
+       :C label
+       :R label)

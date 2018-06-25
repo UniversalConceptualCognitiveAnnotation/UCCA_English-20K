@@ -1,0 +1,10 @@
+# ::id 881003
+# ::tok As often as the sun swept over its daily arc , the masts were populated with sailors whose feet itched and couldn ’t hold still on the planking of the deck below !
+(label :L label
+       :H label
+       :R label
+       :C label
+       :A label
+       :P label
+       :E label
+       :D label)

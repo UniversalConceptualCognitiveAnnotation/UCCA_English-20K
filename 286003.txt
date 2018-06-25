@@ -1,0 +1,9 @@
+# ::id 286003
+# ::tok My departure for France was set for early May .
+(label :H label
+       :A label
+       :P label
+       :D label
+       :C label
+       :R label
+       :E label)

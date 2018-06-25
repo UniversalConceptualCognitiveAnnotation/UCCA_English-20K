@@ -1,0 +1,9 @@
+# ::id 827006
+# ::tok But we ’re going just the same !
+(label :L label
+       :H label
+       :A label
+       :P label
+       :D label
+       :C label
+       :E label)

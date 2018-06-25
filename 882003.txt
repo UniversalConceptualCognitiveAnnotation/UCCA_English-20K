@@ -1,0 +1,9 @@
+# ::id 882003
+# ::tok I’ ll let the reader decide whether eyes got proper exercise aboard the Abraham Lincoln .
+(label :G label
+       :H label
+       :A label
+       :P label
+       :E label
+       :C label
+       :R label)

@@ -1,0 +1,9 @@
+# ::id 305002
+# ::tok Some of these teeth have been found buried in the bodies of baleen whales , which the narwhale attacks with invariable success .
+(label :H label
+       :A label
+       :P label
+       :E label
+       :C label
+       :R label
+       :D label)

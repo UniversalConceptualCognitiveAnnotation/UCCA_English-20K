@@ -1,0 +1,11 @@
+# ::id 836001
+# ::tok I was well satisfied with my cabin , which was located in the stern and opened into the officers’ mess .
+(label :H label
+       :A label
+       :S label
+       :D label
+       :C label
+       :R label
+       :E label
+       :L label
+       :P label)

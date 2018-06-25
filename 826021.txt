@@ -1,0 +1,8 @@
+# ::id 826021
+# ::tok We ’re leaving on the Abraham Lincoln .
+(label :H label
+       :A label
+       :P label
+       :C label
+       :R label
+       :E label)

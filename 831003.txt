@@ -1,0 +1,11 @@
+# ::id 831003
+# ::tok There the Katrin ferry transferred men , horses , and carriage to Brooklyn , that great New York annex located on the left bank of the East River , and in a few minutes we arrived at the wharf next to which the Abraham Lincoln was vomiting torrents of black smoke from its two funnels .
+(label :H label
+       :L label
+       :A label
+       :P label
+       :D label
+       :E label
+       :C label
+       :N label
+       :R label)

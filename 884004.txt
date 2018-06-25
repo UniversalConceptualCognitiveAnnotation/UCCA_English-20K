@@ -1,0 +1,9 @@
+# ::id 884004
+# ::tok Made in America , this valuable instrument could fire a four - kilogram conical projectile an average distance of sixteen kilometers without the least bother .
+(label :H label
+       :A label
+       :P label
+       :D label
+       :E label
+       :C label
+       :R label)

@@ -1,0 +1,11 @@
+# ::id 976001
+# ::tok Snatching only a few minutes for meals and a few hours for sleep , come rain or come shine , I no longer left the ship ’s deck .
+(label :H label
+       :L label
+       :P label
+       :D label
+       :A label
+       :S label
+       :E label
+       :C label
+       :R label)

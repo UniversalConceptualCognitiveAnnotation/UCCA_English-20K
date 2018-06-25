@@ -1,0 +1,6 @@
+# ::id 832001
+# ::tok I rushed aboard .
+(label :H label
+       :A label
+       :P label
+       :R label)

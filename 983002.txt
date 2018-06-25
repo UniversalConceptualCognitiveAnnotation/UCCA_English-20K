@@ -1,0 +1,9 @@
+# ::id 983002
+# ::tok Hearts were pounding hideously , gearing up for futures full of incurable aneurysms .
+(label :H label
+       :A label
+       :P label
+       :D label
+       :C label
+       :R label
+       :E label)

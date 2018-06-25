@@ -1,0 +1,11 @@
+# ::id 980003
+# ::tok People say they ’ve sighted this slippery beast again in the Pacific high seas — I ’m truly willing to believe it , but two months have already gone by since then , and judging by your narwhale ’s personality , it hates growing moldy from hanging out too long in the same waterways !
+(label :H label
+       :L label
+       :A label
+       :P label
+       :D label
+       :E label
+       :C label
+       :R label
+       :S label)

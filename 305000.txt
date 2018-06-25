@@ -1,0 +1,11 @@
+# ::id 305000
+# ::tok “ In essence , the narwhale is armed with a sort of ivory sword , or lance , as certain naturalists have expressed it .
+(label :L label
+       :H label
+       :R label
+       :C label
+       :A label
+       :S label
+       :E label
+       :N label
+       :P label)

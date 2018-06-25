@@ -1,0 +1,9 @@
+# ::id 815002
+# ::tok But now nothing could hold me back .
+(label :L label
+       :H label
+       :D label
+       :A label
+       :P label
+       :E label
+       :C label)

@@ -1,0 +1,12 @@
+# ::id 61002
+# ::tok This outrageous animal had to shoulder responsibility for all derelict vessels , whose numbers are unfortunately considerable , since out of those 3,000 ships whose losses are recorded annually at the marine insurance bureau , the figure for steam or sailing ships supposedly lost with all hands , in the absence of any news , amounts to at least 200 !
+(label :H label
+       :L label
+       :A label
+       :P label
+       :E label
+       :C label
+       :R label
+       :D label
+       :S label
+       :N label)

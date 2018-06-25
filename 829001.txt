@@ -1,0 +1,12 @@
+# ::id 829001
+# ::tok Conseil did them in a flash , and I was sure the lad hadn ’t missed a thing , because he classified shirts and suits as expertly as birds and mammals .
+(label :H label
+       :L label
+       :A label
+       :P label
+       :D label
+       :S label
+       :R label
+       :E label
+       :C label
+       :N label)

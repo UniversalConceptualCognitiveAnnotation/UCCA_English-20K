@@ -1,0 +1,12 @@
+# ::id 975002
+# ::tok Day and night we observed the surface of the ocean , and those with nyctalopic eyes , whose ability to see in the dark increased their chances by fifty percent , had an excellent shot at winning the prize .
+(label :H label
+       :L label
+       :D label
+       :A label
+       :P label
+       :C label
+       :N label
+       :E label
+       :R label
+       :S label)

@@ -1,0 +1,8 @@
+# ::id 908002
+# ::tok The Scotia ’s accident was undeniable .
+(label :H label
+       :A label
+       :S label
+       :E label
+       :C label
+       :R label)

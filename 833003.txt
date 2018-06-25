@@ -1,0 +1,5 @@
+# ::id 833003
+# ::tok Welcome aboard , professor .
+(label :H label
+       :S label
+       :A label)

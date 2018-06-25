@@ -1,0 +1,12 @@
+# ::id 985000
+# ::tok So the reaction set in. At first, discouragement took hold of people’s minds, opening the door to disbelief. A new feeling appeared on board, made up of three-tenths shame and seven-tenths fury. The crew called themselves “out-and-out fools” for being hoodwinked by a fairy tale, then grew steadily more furious! The mountains of arguments amassed over a year collapsed all at once, and each man now wanted only to catch up on his eating and sleeping, to make up for the time he had so stupidly sacrificed.
+(label :L label
+       :H label
+       :A label
+       :P label
+       :R label
+       :C label
+       :S label
+       :D label
+       :E label
+       :N label)

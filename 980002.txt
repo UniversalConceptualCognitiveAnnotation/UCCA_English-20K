@@ -1,0 +1,9 @@
+# ::id 980002
+# ::tok Can ’t you see we ’re just wandering around at random ?
+(label :H label
+       :P label
+       :D label
+       :A label
+       :E label
+       :C label
+       :R label)

@@ -1,0 +1,5 @@
+# ::id 828003
+# ::tok ” “ As master wishes . ”
+(label :H label
+       :A label
+       :P label)

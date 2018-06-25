@@ -1,0 +1,9 @@
+# ::id 894002
+# ::tok Then , seeing that Ned just let me talk without saying much himself , I pressed him more closely .
+(label :L label
+       :H label
+       :A label
+       :P label
+       :D label
+       :C label
+       :E label)

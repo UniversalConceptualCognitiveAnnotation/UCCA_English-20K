@@ -1,0 +1,8 @@
+# ::id 983003
+# ::tok The entire crew suffered from a nervous excitement that it ’s beyond me to describe .
+(label :H label
+       :A label
+       :P label
+       :E label
+       :C label
+       :R label)

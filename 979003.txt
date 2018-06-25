@@ -1,0 +1,10 @@
+# ::id 979003
+# ::tok A hundred times I chided him for his unconcern .
+(label :H label
+       :L label
+       :D label
+       :A label
+       :P label
+       :S label
+       :E label
+       :C label)

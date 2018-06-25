@@ -1,0 +1,9 @@
+# ::id 903001
+# ::tok “ Oh really , and I can prove it to you with a few simple figures . ”
+(label :H label
+       :L label
+       :A label
+       :P label
+       :E label
+       :C label
+       :R label)

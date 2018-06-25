@@ -1,0 +1,9 @@
+# ::id 973000
+# ::tok Near three o’clock in the afternoon on July 6 , fifteen miles south of shore , the Abraham Lincoln doubled that solitary islet at the tip of the South American continent , that stray rock Dutch seamen had named Cape Horn after their hometown of Hoorn .
+(label :H label
+       :D label
+       :A label
+       :P label
+       :E label
+       :C label
+       :R label)

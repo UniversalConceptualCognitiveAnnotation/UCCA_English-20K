@@ -1,0 +1,9 @@
+# ::id 975000
+# ::tok And they opened amazingly wide .
+(label :L label
+       :H label
+       :A label
+       :P label
+       :D label
+       :E label
+       :C label)

@@ -1,0 +1,9 @@
+# ::id 49001
+# ::tok Under the combined efforts of wind and 400 - horsepower steam , it was traveling at a speed of thirteen knots .
+(label :H label
+       :A label
+       :P label
+       :R label
+       :E label
+       :C label
+       :N label)

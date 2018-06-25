@@ -1,0 +1,11 @@
+# ::id 286004
+# ::tok In the meantime , then , I was busy classifying my mineralogical , botanical , and zoological treasures when that incident took place with the Scotia .
+(label :H label
+       :L label
+       :D label
+       :A label
+       :P label
+       :R label
+       :E label
+       :C label
+       :N label)

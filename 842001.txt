@@ -1,0 +1,8 @@
+# ::id 842001
+# ::tok Steam rushed whistling into the gaping valves .
+(label :H label
+       :A label
+       :P label
+       :R label
+       :E label
+       :C label)

@@ -1,0 +1,9 @@
+# ::id 827007
+# ::tok We have a commander who ’s game for anything ! ”
+(label :H label
+       :A label
+       :P label
+       :E label
+       :C label
+       :R label
+       :S label)

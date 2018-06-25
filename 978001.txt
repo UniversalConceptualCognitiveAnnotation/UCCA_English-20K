@@ -1,0 +1,9 @@
+# ::id 978001
+# ::tok Our voyage was proceeding under the most favorable conditions .
+(label :H label
+       :A label
+       :P label
+       :D label
+       :E label
+       :C label
+       :R label)

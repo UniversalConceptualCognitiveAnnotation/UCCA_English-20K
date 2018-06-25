@@ -1,0 +1,9 @@
+# ::id 837001
+# ::tok “ With all due respect to master , ” Conseil replied , “ as comfortable as a hermit crab inside the shell of a whelk . ”
+(label :H label
+       :S label
+       :A label
+       :P label
+       :C label
+       :E label
+       :R label)

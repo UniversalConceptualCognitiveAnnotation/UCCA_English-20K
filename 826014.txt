@@ -1,0 +1,9 @@
+# ::id 826014
+# ::tok Anyhow , we ’ll leave instructions to ship the whole menagerie to France .
+(label :L label
+       :H label
+       :A label
+       :P label
+       :C label
+       :E label
+       :R label)

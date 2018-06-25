@@ -1,0 +1,9 @@
+# ::id 890002
+# ::tok His tales took on the form of an epic poem , and I felt I was hearing some Canadian Homer reciting his Iliad of the High Arctic regions .
+(label :H label
+       :L label
+       :A label
+       :P label
+       :E label
+       :C label
+       :R label)

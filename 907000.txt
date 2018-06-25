@@ -1,0 +1,8 @@
+# ::id 907000
+# ::tok “ They ’d need to be manufactured , ” Ned Land replied , “ from sheet - iron plates eight inches thick , like ironclad frigates .
+(label :H label
+       :A label
+       :P label
+       :E label
+       :C label
+       :R label)

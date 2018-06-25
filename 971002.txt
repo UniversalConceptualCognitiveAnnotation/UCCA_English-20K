@@ -1,0 +1,9 @@
+# ::id 971002
+# ::tok But Commander Farragut was unwilling to attempt this tortuous passageway and maneuvered instead to double Cape Horn .
+(label :L label
+       :H label
+       :A label
+       :P label
+       :D label
+       :E label
+       :C label)

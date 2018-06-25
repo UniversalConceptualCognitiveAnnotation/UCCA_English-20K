@@ -1,0 +1,9 @@
+# ::id 59000
+# ::tok Captain Anderson called an immediate halt , and one of his sailors dived down to assess the damage .
+(label :H label
+       :L label
+       :A label
+       :P label
+       :E label
+       :C label
+       :R label)

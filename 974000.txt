@@ -1,0 +1,7 @@
+# ::id 974000
+# ::tok “ Open your eyes !
+(label :H label
+       :A label
+       :P label
+       :E label
+       :C label)

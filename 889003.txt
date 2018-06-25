@@ -1,0 +1,11 @@
+# ::id 889003
+# ::tok The harpooner ’s family originated in Quebec , and they were already a line of bold fishermen back in the days when this town still belonged to France .
+(label :H label
+       :L label
+       :A label
+       :P label
+       :S label
+       :D label
+       :E label
+       :C label
+       :R label)

@@ -1,0 +1,9 @@
+# ::id 843001
+# ::tok Departing from 500,000 throats , three cheers burst forth in succession .
+(label :H label
+       :A label
+       :P label
+       :D label
+       :R label
+       :E label
+       :C label)

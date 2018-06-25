@@ -1,0 +1,9 @@
+# ::id 297001
+# ::tok Since I could no longer hold my tongue , I let it wag .
+(label :L label
+       :H label
+       :A label
+       :P label
+       :D label
+       :E label
+       :C label)

@@ -1,0 +1,8 @@
+# ::id 291001
+# ::tok That a private individual had such a mechanism at his disposal was less than probable .
+(label :H label
+       :A label
+       :S label
+       :R label
+       :E label
+       :C label)

@@ -1,0 +1,8 @@
+# ::id 884001
+# ::tok No whaling vessel could have been better armed .
+(label :H label
+       :A label
+       :P label
+       :D label
+       :E label
+       :C label)

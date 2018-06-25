@@ -1,0 +1,7 @@
+# ::id 826003
+# ::tok “ Yes , my boy . Get my things ready , get yours ready .
+(label :H label
+       :A label
+       :P label
+       :C label
+       :N label)

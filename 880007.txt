@@ -1,0 +1,8 @@
+# ::id 880007
+# ::tok Either Commander Farragut would slay the narwhale , or the narwhale would slay Commander Farragut .
+(label :L label
+       :H label
+       :A label
+       :P label
+       :E label
+       :C label)

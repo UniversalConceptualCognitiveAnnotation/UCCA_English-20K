@@ -1,0 +1,8 @@
+# ::id 305001
+# ::tok It ’s a king-sized tooth as hard as steel .
+(label :H label
+       :A label
+       :S label
+       :E label
+       :C label
+       :R label)

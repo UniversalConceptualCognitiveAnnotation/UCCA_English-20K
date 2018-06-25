@@ -1,0 +1,9 @@
+# ::id 309002
+# ::tok Yet deep down , I had accepted the existence of “ the monster . ”
+(label :L label
+       :H label
+       :A label
+       :P label
+       :C label
+       :E label
+       :R label)

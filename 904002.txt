@@ -1,0 +1,8 @@
+# ::id 904002
+# ::tok ” “ In business , Ned , but not in mathematics .
+(label :H label
+       :L label
+       :A label
+       :D label
+       :R label
+       :C label)

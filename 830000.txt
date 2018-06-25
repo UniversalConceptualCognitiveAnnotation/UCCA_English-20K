@@ -1,0 +1,8 @@
+# ::id 830000
+# ::tok The hotel elevator dropped us off in the main vestibule on the mezzanine .
+(label :H label
+       :A label
+       :P label
+       :E label
+       :C label
+       :R label)

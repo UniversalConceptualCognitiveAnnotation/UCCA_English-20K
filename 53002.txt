@@ -1,0 +1,10 @@
+# ::id 53002
+# ::tok In twenty-six years Cunard ships have made 2,000 Atlantic crossings without so much as a voyage canceled , a delay recorded , a man , a craft , or even a letter lost .
+(label :H label
+       :D label
+       :A label
+       :P label
+       :R label
+       :E label
+       :C label
+       :N label)

@@ -1,0 +1,10 @@
+# ::id 882000
+# ::tok As for the crew , they only wanted to encounter the unicorn , harpoon it , haul it on board , and carve it up .
+(label :L label
+       :H label
+       :A label
+       :D label
+       :P label
+       :E label
+       :C label
+       :R label)

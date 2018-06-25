@@ -1,0 +1,11 @@
+# ::id 897000
+# ::tok “ But Ned , you ’re a professional whaler , a man familiar with all the great marine mammals — your mind should easily accept this hypothesis of an enormous cetacean , and you ought to be the last one to doubt it under these circumstances ! ”
+(label :L label
+       :H label
+       :A label
+       :S label
+       :P label
+       :D label
+       :C label
+       :E label
+       :R label)

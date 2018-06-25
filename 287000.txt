@@ -1,0 +1,11 @@
+# ::id 287000
+# ::tok I was perfectly abreast of this question , which was the big news of the day , and how could I not have been ?
+(label :H label
+       :L label
+       :A label
+       :S label
+       :D label
+       :P label
+       :C label
+       :R label
+       :E label)

@@ -1,0 +1,9 @@
+# ::id 893002
+# ::tok Before eight days were out , the Abraham Lincoln would plow the waves of the Pacific .
+(label :L label
+       :H label
+       :A label
+       :P label
+       :E label
+       :C label
+       :R label)

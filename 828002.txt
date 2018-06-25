@@ -1,0 +1,10 @@
+# ::id 828002
+# ::tok This is one of those voyages from which people don ’t always come back !
+(label :H label
+       :A label
+       :S label
+       :E label
+       :C label
+       :R label
+       :P label
+       :D label)

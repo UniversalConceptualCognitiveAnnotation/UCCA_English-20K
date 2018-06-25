@@ -1,0 +1,9 @@
+# ::id 45002
+# ::tok In those newspapers short of copy , you saw the reappearance of every gigantic imaginary creature , from \u201CMoby Dick,\u201D that dreadful white whale from the High Arctic regions , to the stupendous kraken whose tentacles could entwine a 500 - ton craft and drag it into the ocean depths .
+(label :H label
+       :A label
+       :P label
+       :R label
+       :E label
+       :C label
+       :L label)

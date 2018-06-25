@@ -1,0 +1,9 @@
+# ::id 45000
+# ::tok n every big city the monster was the latest rage ; they sang about it in the coffee houses , they ridiculed it in the newspapers , they dramatized it in the theaters .
+(label :H label
+       :A label
+       :S label
+       :P label
+       :R label
+       :E label
+       :C label)

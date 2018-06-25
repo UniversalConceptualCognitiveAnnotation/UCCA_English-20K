@@ -1,0 +1,9 @@
+# ::id 839000
+# ::tok Just then Commander Farragut was giving orders to cast off the last moorings holding the Abraham Lincoln to its Brooklyn pier .
+(label :L label
+       :H label
+       :E label
+       :C label
+       :A label
+       :P label
+       :R label)

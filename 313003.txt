@@ -1,0 +1,10 @@
+# ::id 313003
+# ::tok The naval arsenals were unlocked for Commander Farragut , who pressed energetically forward with the arming of his frigate .
+(label :H label
+       :A label
+       :S label
+       :E label
+       :C label
+       :R label
+       :P label
+       :D label)

@@ -1,0 +1,9 @@
+# ::id 826010
+# ::tok “ We ’ll deal with them later .
+(label :H label
+       :A label
+       :P label
+       :D label
+       :E label
+       :C label
+       :R label)

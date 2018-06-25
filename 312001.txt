@@ -1,0 +1,10 @@
+# ::id 312001
+# ::tok The industrial and commercial newspapers dealt with the question chiefly from this viewpoint .
+(label :H label
+       :A label
+       :P label
+       :D label
+       :C label
+       :N label
+       :R label
+       :E label)

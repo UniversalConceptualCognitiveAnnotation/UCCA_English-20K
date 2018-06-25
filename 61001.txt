@@ -1,0 +1,10 @@
+# ::id 61001
+# ::tok Indeed , from this moment on , any maritime casualty without an established cause was charged to the monster \u2019s account .
+(label :L label
+       :H label
+       :A label
+       :D label
+       :P label
+       :R label
+       :E label
+       :C label)

@@ -1,0 +1,8 @@
+# ::id 316001
+# ::tok Not even a 24 - hour breather was granted to Commander Farragut .
+(label :H label
+       :A label
+       :P label
+       :E label
+       :C label
+       :R label)

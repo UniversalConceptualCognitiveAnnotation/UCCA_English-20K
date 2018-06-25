@@ -1,0 +1,10 @@
+# ::id 888002
+# ::tok I can do no better than to compare him with a powerful telescope that could double as a cannon always ready to fire .
+(label :H label
+       :A label
+       :P label
+       :E label
+       :C label
+       :R label
+       :D label
+       :S label)

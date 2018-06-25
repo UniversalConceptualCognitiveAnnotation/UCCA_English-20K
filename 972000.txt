@@ -1,0 +1,9 @@
+# ::id 972000
+# ::tok The crew sided with him unanimously .
+(label :H label
+       :A label
+       :P label
+       :D label
+       :E label
+       :C label
+       :R label)

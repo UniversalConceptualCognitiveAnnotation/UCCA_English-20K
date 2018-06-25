@@ -1,0 +1,9 @@
+# ::id 837000
+# ::tok “ We ’ll be quite comfortable here , ” I told Conseil .
+(label :H label
+       :A label
+       :S label
+       :D label
+       :P label
+       :E label
+       :C label)

@@ -1,0 +1,9 @@
+# ::id 314000
+# ::tok But , as it always happens , just when a decision had been made to chase the monster , the monster put in no further appearances .
+(label :L label
+       :H label
+       :D label
+       :P label
+       :E label
+       :C label
+       :A label)

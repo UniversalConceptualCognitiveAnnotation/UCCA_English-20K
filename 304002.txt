@@ -1,0 +1,10 @@
+# ::id 304002
+# ::tok It would have the proportions determined by the officers of the Shannon , the instrument needed to perforate the Scotia , and the power to pierce a steamer ’s hull .
+(label :H label
+       :A label
+       :S label
+       :C label
+       :N label
+       :E label
+       :P label
+       :R label)

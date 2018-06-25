@@ -1,0 +1,8 @@
+# ::id 891002
+# ::tok Ah , my gallant Ned ! I ask only to live 100 years more , the longer to remember you !
+(label :H label
+       :A label
+       :P label
+       :D label
+       :E label
+       :C label)

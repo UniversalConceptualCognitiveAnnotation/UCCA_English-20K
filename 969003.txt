@@ -1,0 +1,12 @@
+# ::id 969003
+# ::tok And the Canadian had such good luck that with a right - and - left shot , he harpooned not one whale but two , striking the first straight to the heart and catching the other after a few minutes’ chase !
+(label :L label
+       :H label
+       :A label
+       :S label
+       :P label
+       :D label
+       :E label
+       :C label
+       :R label
+       :N label)

@@ -1,0 +1,9 @@
+# ::id 299000
+# ::tok “ The deepest parts of the ocean are totally unknown to us .
+(label :H label
+       :A label
+       :P label
+       :D label
+       :E label
+       :C label
+       :R label)

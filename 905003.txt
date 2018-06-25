@@ -1,0 +1,6 @@
+# ::id 905003
+# ::tok ” “ Without your noticing it .
+(label :L label
+       :H label
+       :A label
+       :P label)

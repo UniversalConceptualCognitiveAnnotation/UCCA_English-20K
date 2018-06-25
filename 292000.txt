@@ -1,0 +1,11 @@
+# ::id 292000
+# ::tok Only some government could own such an engine of destruction , and in these disaster-filled times , when men tax their ingenuity to build increasingly powerful aggressive weapons , it was possible that , unknown to the rest of the world , some nation could have been testing such a fearsome machine .
+(label :H label
+       :L label
+       :A label
+       :P label
+       :D label
+       :S label
+       :E label
+       :C label
+       :R label)

@@ -1,0 +1,9 @@
+# ::id 296002
+# ::tok Well received in scholarly circles , this book had established me as a specialist in this pretty obscure field of natural history .
+(label :H label
+       :A label
+       :D label
+       :P label
+       :E label
+       :C label
+       :R label)

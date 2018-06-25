@@ -1,0 +1,8 @@
+# ::id 310000
+# ::tok My article was hotly debated , causing a fine old uproar .
+(label :H label
+       :A label
+       :P label
+       :D label
+       :E label
+       :C label)

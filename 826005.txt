@@ -1,0 +1,6 @@
+# ::id 826005
+# ::tok ” “ As master wishes , ” Conseil replied serenely .
+(label :H label
+       :A label
+       :P label
+       :D label)

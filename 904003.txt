@@ -1,0 +1,7 @@
+# ::id 904003
+# ::tok Listen to me .
+(label :H label
+       :A label
+       :P label
+       :R label
+       :C label)

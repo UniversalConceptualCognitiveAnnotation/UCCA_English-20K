@@ -1,0 +1,11 @@
+# ::id 976003
+# ::tok And how many times I shared the excitement of general staff and crew when some unpredictable whale lifted its blackish back above the waves .
+(label :L label
+       :H label
+       :D label
+       :A label
+       :P label
+       :E label
+       :C label
+       :N label
+       :R label)

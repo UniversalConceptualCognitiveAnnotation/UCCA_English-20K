@@ -1,0 +1,11 @@
+# ::id 38001
+# ::tok If it was a cetacean , it exceeded in bulk any whale previously classified by science .
+(label :L label
+       :H label
+       :A label
+       :S label
+       :P label
+       :E label
+       :C label
+       :R label
+       :D label)

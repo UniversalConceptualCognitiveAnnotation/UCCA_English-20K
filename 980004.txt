@@ -1,0 +1,9 @@
+# ::id 980004
+# ::tok It ’s blessed with a terrific gift for getting around .
+(label :H label
+       :A label
+       :S label
+       :C label
+       :R label
+       :E label
+       :P label)

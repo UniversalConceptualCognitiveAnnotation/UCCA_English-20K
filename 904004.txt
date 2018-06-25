@@ -1,0 +1,9 @@
+# ::id 904004
+# ::tok Let ’s accept that the pressure of one atmosphere is represented by the pressure of a column of water thirty-two feet high .
+(label :H label
+       :A label
+       :P label
+       :E label
+       :C label
+       :R label
+       :S label)

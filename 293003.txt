@@ -1,0 +1,11 @@
+# ::id 293003
+# ::tok Keeping a secret under such circumstances would be difficult enough for an individual , and certainly impossible for a nation whose every move is under constant surveillance by rival powers .
+(label :H label
+       :L label
+       :A label
+       :S label
+       :G label
+       :P label
+       :E label
+       :C label
+       :R label)

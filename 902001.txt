@@ -1,0 +1,7 @@
+# ::id 902001
+# ::tok ” “ And why this powerful constitution ?
+(label :L label
+       :H label
+       :A label
+       :E label
+       :C label)

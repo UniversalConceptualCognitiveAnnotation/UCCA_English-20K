@@ -1,0 +1,10 @@
+# ::id 814000
+# ::tok ﻿Three seconds before the arrival of J . B . Hobson ’s letter , I no more dreamed of chasing the unicorn than of trying for the Northwest Passage .
+(label :L label
+       :H label
+       :E label
+       :C label
+       :R label
+       :P label
+       :A label
+       :D label)

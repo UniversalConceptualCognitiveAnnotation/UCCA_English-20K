@@ -1,0 +1,12 @@
+# ::id 48001
+# ::tok But now it was no longer an issue of a scientific problem to be solved , but a quite real and serious danger to be avoided .
+(label :L label
+       :H label
+       :E label
+       :C label
+       :A label
+       :S label
+       :D label
+       :P label
+       :R label
+       :N label)

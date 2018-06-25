@@ -1,0 +1,9 @@
+# ::id 826017
+# ::tok “ Yes , we are . . . certainly . . . , ” I replied evasively , “ but after we make a detour .
+(label :H label
+       :L label
+       :A label
+       :D label
+       :P label
+       :E label
+       :C label)

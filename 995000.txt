@@ -1,0 +1,8 @@
+# ::id 995000
+# ::tok “Come on, Conseil!” I told him. “Here’s your last chance to pocket that $2,000.00!”
+(label :H label
+       :P label
+       :A label
+       :S label
+       :E label
+       :C label)

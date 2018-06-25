@@ -1,0 +1,9 @@
+# ::id 880006
+# ::tok The man was a sort of Knight of Rhodes , a latter - day Sir Dieudonné of Gozo , on his way to fight an encounter with the dragon devastating the island .
+(label :H label
+       :A label
+       :S label
+       :P label
+       :E label
+       :C label
+       :R label)

@@ -1,0 +1,12 @@
+# ::id 310004
+# ::tok Now then , the sea is precisely their best medium , the only setting suitable for the breeding and growing of such giants — next to which such land animals as elephants or rhinoceroses are mere dwarves .
+(label :L label
+       :H label
+       :A label
+       :S label
+       :D label
+       :E label
+       :C label
+       :R label
+       :P label
+       :N label)

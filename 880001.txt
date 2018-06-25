@@ -1,0 +1,8 @@
+# ::id 880001
+# ::tok His ship and he were one .
+(label :H label
+       :A label
+       :S label
+       :C label
+       :N label
+       :E label)

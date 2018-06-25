@@ -1,0 +1,8 @@
+# ::id 881000
+# ::tok The ship ’s officers shared the views of their leader .
+(label :H label
+       :A label
+       :P label
+       :E label
+       :C label
+       :R label)

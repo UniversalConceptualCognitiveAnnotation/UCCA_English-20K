@@ -1,0 +1,11 @@
+# ::id 997000
+# ::tok “You’re right, Conseil, it turned out to be a foolish business after all, and we jumped into it too hastily. What a waste of time, what a futile expense of emotion! Six months ago we could have been back in France—” “In master’s little apartment,” Conseil answered. “In master’s museum! And by now I would have classified master’s fossils. And master’s babirusa would be ensconced in its cage at the zoo in the Botanical Gardens, and it would have attracted every curiosity seeker in town!” “Quite so, Conseil, and what’s more, I imagine that people will soon be poking fun at us!” “To be sure,” Conseil replied serenely, “I do think they’ll have fun at master’s expense. And must it be said&nbsp;.&nbsp;.&nbsp;.&nbsp;?” “It must be said, Conseil.” “Well then, it will serve master right!” “How true!” “When one has the honor of being an expert as master is, one mustn’t lay himself open to—”
+(label :H label
+       :L label
+       :A label
+       :S label
+       :D label
+       :P label
+       :C label
+       :E label
+       :R label)

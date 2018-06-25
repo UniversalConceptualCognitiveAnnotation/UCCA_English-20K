@@ -1,0 +1,12 @@
+# ::id 906000
+# ::tok “ All right then , my fine harpooner , if vertebrates several hundred meters long and proportionate in bulk live at such depths , their surface areas make up millions of square centimeters , and the pressure they undergo must be assessed in billions of kilograms .
+(label :L label
+       :H label
+       :A label
+       :P label
+       :C label
+       :E label
+       :R label
+       :N label
+       :S label
+       :D label)

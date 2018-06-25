@@ -1,0 +1,9 @@
+# ::id 884002
+# ::tok We had every known mechanism , from the hand - hurled harpoon , to the blunderbuss firing barbed arrows , to the duck gun with exploding bullets .
+(label :H label
+       :A label
+       :P label
+       :E label
+       :C label
+       :R label
+       :D label)

@@ -1,0 +1,9 @@
+# ::id 822001
+# ::tok Please forgive me for this underhanded way of admitting I had turned forty .
+(label :H label
+       :A label
+       :P label
+       :R label
+       :E label
+       :C label
+       :S label)

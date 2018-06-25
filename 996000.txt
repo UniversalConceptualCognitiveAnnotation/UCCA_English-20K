@@ -1,0 +1,10 @@
+# ::id 996000
+# ::tok “If master will permit my saying so,” Conseil replied, “I never expected to win that prize, and the Union government could have promised $100,000.00 and been none the poorer.”
+(label :L label
+       :H label
+       :A label
+       :P label
+       :D label
+       :S label
+       :E label
+       :C label)

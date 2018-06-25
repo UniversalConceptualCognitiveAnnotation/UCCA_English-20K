@@ -1,0 +1,11 @@
+# ::id 294000
+# ::tok So , after inquiries conducted in England , France , Russia , Prussia , Spain , Italy , America , and even Turkey , the hypothesis of an underwater Monitor was ultimately rejected .
+(label :L label
+       :H label
+       :A label
+       :P label
+       :D label
+       :C label
+       :N label
+       :E label
+       :R label)

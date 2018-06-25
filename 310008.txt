@@ -1,0 +1,10 @@
+# ::id 310008
+# ::tok With its untold depths , couldn ’t the sea keep alive such huge specimens of life from another age , this sea that never changes while the land masses undergo almost continuous alteration ?
+(label :H label
+       :A label
+       :P label
+       :D label
+       :R label
+       :E label
+       :C label
+       :L label)

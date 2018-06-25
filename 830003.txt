@@ -1,0 +1,9 @@
+# ::id 830003
+# ::tok I left instructions for shipping my containers of stuffed animals and dried plants to Paris , France .
+(label :H label
+       :A label
+       :P label
+       :E label
+       :C label
+       :R label
+       :N label)

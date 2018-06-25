@@ -1,0 +1,9 @@
+# ::id 821000
+# ::tok For the past ten years , Conseil had gone with me wherever science beckoned .
+(label :H label
+       :D label
+       :A label
+       :P label
+       :R label
+       :E label
+       :C label)

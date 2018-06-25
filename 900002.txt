@@ -1,0 +1,10 @@
+# ::id 900002
+# ::tok I believe in the existence of a mammal with a powerful constitution , belonging to the vertebrate branch like baleen whales , sperm whales , or dolphins , and armed with a tusk made of horn that has tremendous penetrating power . ”
+(label :H label
+       :A label
+       :P label
+       :R label
+       :E label
+       :C label
+       :N label
+       :S label)

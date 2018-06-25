@@ -1,0 +1,9 @@
+# ::id 815001
+# ::tok I wanted nothing more than to see my country again , my friends , my modest quarters by the Botanical Gardens , my dearly beloved collections !
+(label :H label
+       :A label
+       :P label
+       :D label
+       :C label
+       :E label
+       :R label)

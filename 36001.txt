@@ -1,0 +1,11 @@
+# ::id 36001
+# ::tok Without getting into those rumors that upset civilians in the seaports and deranged the public mind even far inland , it must be said that professional seamen were especially alarmed .
+(label :L label
+       :H label
+       :P label
+       :A label
+       :R label
+       :E label
+       :C label
+       :D label
+       :G label)

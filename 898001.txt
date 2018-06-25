@@ -1,0 +1,11 @@
+# ::id 898001
+# ::tok “ The common man may still believe in fabulous comets crossing outer space , or in prehistoric monsters living at the earth ’s core , but astronomers and geologists don ’t swallow such fairy tales .
+(label :H label
+       :L label
+       :A label
+       :P label
+       :D label
+       :E label
+       :C label
+       :N label
+       :R label)

@@ -1,0 +1,9 @@
+# ::id 880000
+# ::tok ﻿ Commander Farragut was a good seaman , worthy of the frigate he commanded .
+(label :H label
+       :A label
+       :S label
+       :E label
+       :C label
+       :R label
+       :P label)

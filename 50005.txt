@@ -1,0 +1,9 @@
+# ::id 50005
+# ::tok Had it run afoul of an underwater rock or the wreckage of some enormous derelict ship ?
+(label :H label
+       :P label
+       :A label
+       :C label
+       :N label
+       :R label
+       :E label)

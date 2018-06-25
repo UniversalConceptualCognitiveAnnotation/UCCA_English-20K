@@ -1,0 +1,9 @@
+# ::id 40001
+# ::tok As for relegating it to the realm of fiction , that charge had to be dropped .
+(label :L label
+       :H label
+       :A label
+       :P label
+       :R label
+       :E label
+       :C label)

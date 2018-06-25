@@ -1,0 +1,11 @@
+# ::id 823001
+# ::tok He was a fanatic on formality , and he only addressed me in the third person — to the point where it got tiresome .
+(label :H label
+       :L label
+       :A label
+       :S label
+       :D label
+       :P label
+       :R label
+       :E label
+       :C label)

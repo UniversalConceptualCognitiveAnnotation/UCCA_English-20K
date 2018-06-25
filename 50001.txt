@@ -1,0 +1,8 @@
+# ::id 50001
+# ::tok The officers on watch rushed to the craft \u2019s stern .
+(label :H label
+       :A label
+       :P label
+       :E label
+       :C label
+       :R label)

@@ -1,0 +1,8 @@
+# ::id 316004
+# ::tok Not a crewman was missing from his post .
+(label :H label
+       :A label
+       :S label
+       :E label
+       :C label
+       :R label)

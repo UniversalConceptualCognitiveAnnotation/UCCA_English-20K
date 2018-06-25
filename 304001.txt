@@ -1,0 +1,11 @@
+# ::id 304001
+# ::tok Increase its dimensions fivefold or even tenfold , then give this cetacean a strength in proportion to its size while enlarging its offensive weapons , and you have the animal we ’re looking for .
+(label :H label
+       :L label
+       :A label
+       :P label
+       :S label
+       :E label
+       :C label
+       :N label
+       :R label)

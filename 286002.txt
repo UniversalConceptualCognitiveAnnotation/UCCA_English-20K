@@ -1,0 +1,10 @@
+# ::id 286002
+# ::tok After spending six months in Nebraska , I arrived in New York laden with valuable collections near the end of March .
+(label :L label
+       :H label
+       :A label
+       :P label
+       :D label
+       :R label
+       :C label
+       :E label)

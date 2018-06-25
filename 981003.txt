@@ -1,0 +1,9 @@
+# ::id 981003
+# ::tok All the same , our chances were automatically pretty limited .
+(label :L label
+       :H label
+       :A label
+       :S label
+       :D label
+       :E label
+       :C label)

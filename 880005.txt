@@ -1,0 +1,9 @@
+# ::id 880005
+# ::tok The monster existed , and he had vowed to rid the seas of it .
+(label :H label
+       :L label
+       :A label
+       :P label
+       :E label
+       :C label
+       :R label)

@@ -1,0 +1,11 @@
+# ::id 976000
+# ::tok As for me , I was hardly drawn by the lure of money and yet was far from the least attentive on board .
+(label :L label
+       :H label
+       :R label
+       :C label
+       :A label
+       :P label
+       :D label
+       :S label
+       :E label)

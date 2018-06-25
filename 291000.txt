@@ -1,0 +1,11 @@
+# ::id 291000
+# ::tok Now then , although the latter hypothesis was completely admissible , it couldn ’t stand up to inquiries conducted in both the New World and the Old .
+(label :L label
+       :H label
+       :A label
+       :P label
+       :D label
+       :E label
+       :C label
+       :R label
+       :N label)

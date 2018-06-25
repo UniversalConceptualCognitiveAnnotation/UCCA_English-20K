@@ -1,0 +1,9 @@
+# ::id 296000
+# ::tok After I arrived in New York , several people did me the honor of consulting me on the phenomenon in question .
+(label :L label
+       :H label
+       :A label
+       :P label
+       :R label
+       :C label
+       :E label)

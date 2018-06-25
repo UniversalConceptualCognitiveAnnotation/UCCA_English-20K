@@ -1,0 +1,8 @@
+# ::id 299004
+# ::tok What is the constitution of these animals ?
+(label :H label
+       :A label
+       :S label
+       :E label
+       :C label
+       :R label)

@@ -1,0 +1,8 @@
+# ::id 842000
+# ::tok At this order , which was relayed to the engine by means of a compressed - air device , the mechanics activated the start - up wheel .
+(label :H label
+       :A label
+       :P label
+       :R label
+       :E label
+       :C label)

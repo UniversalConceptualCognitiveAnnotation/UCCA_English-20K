@@ -1,0 +1,10 @@
+# ::id 888001
+# ::tok With his eye and his throwing arm , he was worth the whole crew all by himself .
+(label :H label
+       :A label
+       :P label
+       :D label
+       :C label
+       :N label
+       :E label
+       :R label)

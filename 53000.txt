@@ -1,0 +1,11 @@
+# ::id 53000
+# ::tok If I give these highly condensed details , it is so everyone can fully understand the importance of this maritime transportation company , known the world over for its shrewd management .
+(label :L label
+       :H label
+       :A label
+       :P label
+       :S label
+       :E label
+       :C label
+       :D label
+       :R label)

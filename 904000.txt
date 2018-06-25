@@ -1,0 +1,5 @@
+# ::id 904000
+# ::tok “ Bosh ! ” Ned replied .
+(label :H label
+       :A label
+       :P label)

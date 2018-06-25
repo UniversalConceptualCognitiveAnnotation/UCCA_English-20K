@@ -1,0 +1,11 @@
+# ::id 889002
+# ::tok It was an opportunity for him to speak , and for me to hear , that old Rabelaisian dialect still used in some Canadian provinces .
+(label :H label
+       :L label
+       :S label
+       :A label
+       :E label
+       :C label
+       :R label
+       :P label
+       :D label)

@@ -1,0 +1,9 @@
+# ::id 54002
+# ::tok Its paddle wheels were churning the sea with perfect steadiness .
+(label :H label
+       :A label
+       :P label
+       :D label
+       :E label
+       :C label
+       :R label)

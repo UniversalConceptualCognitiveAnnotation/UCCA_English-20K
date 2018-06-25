@@ -1,0 +1,11 @@
+# ::id 821004
+# ::tok Moreover , he enjoyed excellent health that defied all ailments , owned solid muscles , but hadn ’t a nerve in him , not a sign of nerves — the mental type , I mean .
+(label :L label
+       :H label
+       :A label
+       :P label
+       :D label
+       :G label
+       :E label
+       :C label
+       :R label)

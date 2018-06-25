@@ -1,0 +1,9 @@
+# ::id 314004
+# ::tok People were constantly babbling about the creature , even via the Atlantic Cable !
+(label :H label
+       :A label
+       :P label
+       :D label
+       :C label
+       :R label
+       :E label)
