@@ -82,8 +82,8 @@
 79	seas	_	Word	Word	_	3	orphan	3:orphan	_
 80	of	_	Word	Word	_	79	R	79:R	_
 81	France	_	Word	Word	_	86	E	86:E	_
-82	\u2019	_	Punctuation	Punctuation	_	89	punct	89:punct	_
-83	s	_	Word	Word	_	89	E	89:E	_
+82	\u2019	_	Punctuation	Punctuation	_	86	punct	86:punct	_
+83	s	_	Word	Word	_	86	F	86:F	_
 84	old	_	Word	Word	_	86	E	86:E	_
 85	extremist	_	Word	Word	_	86	E	86:E	_
 86	newspaper	_	Word	Word	_	3	orphan	3:orphan	_
