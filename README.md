@@ -3,10 +3,11 @@ UCCA-Annotated French-English Parallel Corpus
 Version 1.0 (February 21, 2016)
 -------------------------------
 
-This bundle contains 154 pairs of French-English aligned passages annotated 
+This bundle and [its French counterpart](https://github.com/UniversalConceptualCognitiveAnnotation/UCCA_French-20K)
+contain 154 pairs of French-English aligned passages, annotated
 with the UCCA annotation (Abend & Rappoport, ACL 2013).
-Each of the two monolingual parts of the corpus contains 583 sentences 
-which correspond to 12.5K tokens in English and 13.1K tokens in French.
+Each of the two monolingual parts of the corpus contains 583 sentences,
+which correspond to 12355 tokens in English.
 
 
 The users of this dataset are kindly requested to cite [the following publication](http://www.aclweb.org/anthology/W15-3502):
