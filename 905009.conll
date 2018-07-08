@@ -16,14 +16,14 @@
 15	the	_	Word	Word	_	16	E	_	_
 16	sea	_	Word	Word	_	0	ROOT	_	_
 17	,	_	Punctuation	Punctuation	_	20	U	_	_
-18	you	_	Word	Word	_	44	A	_	_
+18	you	_	Word	Word	_	29	A	_	_
 18	you	_	Word	Word	_	61	A	_	_
 18	you	_	Word	Word	_	20	A	_	_
-18	you	_	Word	Word	_	29	A	_	_
+18	you	_	Word	Word	_	44	A	_	_
 19	’ll	_	Word	Word	_	20	E	_	_
+20	undergo	_	Word	Word	_	61	P	_	_
 20	undergo	_	Word	Word	_	44	P	_	_
 20	undergo	_	Word	Word	_	29	P	_	_
-20	undergo	_	Word	Word	_	61	P	_	_
 21	a	_	Word	Word	_	22	E	_	_
 22	pressure	_	Word	Word	_	40	E	_	_
 22	pressure	_	Word	Word	_	55	E	_	_

@@ -36,8 +36,8 @@
 35	avoid	_	Word	Word	_	0	ROOT	_	_
 36	—	_	Punctuation	Punctuation	_	3	U	_	_
 37	“	_	Punctuation	Punctuation	_	3	U	_	_
-38	No	_	Word	Word	_	3	H	_	_
 38	No	_	Word	Word	_	44	A	_	_
+38	No	_	Word	Word	_	3	H	_	_
 39	doubt	_	Word	Word	_	38	Terminal	_	_
 40	,	_	Punctuation	Punctuation	_	3	U	_	_
 41	”	_	Punctuation	Punctuation	_	3	U	_	_
@@ -59,15 +59,15 @@
 57	So	_	Word	Word	_	3	L	_	_
 58	the	_	Word	Word	_	59	E	_	_
 59	frigate	_	Word	Word	_	64	A	_	_
-59	frigate	_	Word	Word	_	85	A	_	_
 59	frigate	_	Word	Word	_	75	A	_	_
+59	frigate	_	Word	Word	_	85	A	_	_
 60	kept	_	Word	Word	_	0	ROOT	_	_
 61	well	_	Word	Word	_	60	D	_	_
 62	out	_	Word	Word	_	60	Terminal	_	_
 63	when	_	Word	Word	_	3	L	_	_
 64	passing	_	Word	Word	_	0	ROOT	_	_
-65	the	_	Word	Word	_	72	E	_	_
 65	the	_	Word	Word	_	68	E	_	_
+65	the	_	Word	Word	_	72	E	_	_
 66	Tuamotu	_	Word	Word	_	65	E	_	_
 67	,	_	Punctuation	Punctuation	_	65	U	_	_
 68	Marquesas	_	Word	Word	_	0	ROOT	_	_

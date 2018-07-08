@@ -1,7 +1,7 @@
 # sent_id = 304000
 1	“	_	Punctuation	Punctuation	_	11	U	_	_
-2	The	_	Word	Word	_	8	E	_	_
 2	The	_	Word	Word	_	4	E	_	_
+2	The	_	Word	Word	_	8	E	_	_
 3	common	_	Word	Word	_	4	E	_	_
 4	narwhale	_	Word	Word	_	0	ROOT	_	_
 5	,	_	Punctuation	Punctuation	_	4	U	_	_

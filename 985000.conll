@@ -6,8 +6,8 @@
 5	in.	_	Word	Word	_	4	Terminal	_	_
 6	At	_	Word	Word	_	7	R	_	_
 7	first,	_	Word	Word	_	0	ROOT	_	_
-8	discouragement	_	Word	Word	_	9	A	_	_
 8	discouragement	_	Word	Word	_	14	A	_	_
+8	discouragement	_	Word	Word	_	9	A	_	_
 9	took	_	Word	Word	_	0	ROOT	_	_
 10	hold	_	Word	Word	_	9	Terminal	_	_
 11	of	_	Word	Word	_	13	R	_	_
@@ -26,8 +26,8 @@
 24	board,	_	Word	Word	_	0	ROOT	_	_
 25	made	_	Word	Word	_	0	ROOT	_	_
 26	up	_	Word	Word	_	25	Terminal	_	_
-27	of	_	Word	Word	_	29	R	_	_
 27	of	_	Word	Word	_	32	R	_	_
+27	of	_	Word	Word	_	29	R	_	_
 28	three-tenths	_	Word	Word	_	29	E	_	_
 29	shame	_	Word	Word	_	0	ROOT	_	_
 30	and	_	Word	Word	_	29	N	_	_
