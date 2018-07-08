@@ -16,7 +16,9 @@ jobs:
     - stage: split
       script: curl $SCRIPTS/split_to_sentences.sh | bash
     - stage: convert
-      script: curl $SCRIPTS/visualize.sh | bash
+      script: curl $SCRIPTS/validate_sentences.sh | bash
+      env: FORMAT=validate
+    - script: curl $SCRIPTS/visualize.sh | bash
       env: FORMAT=visualize
     - script: curl $SCRIPTS/sentences_to_xml.sh | bash
       env: FORMAT=xml
