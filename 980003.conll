@@ -41,8 +41,8 @@
 39	’s	_	Word	Word	_	38	R	_	_
 40	personality	_	Word	Word	_	0	ROOT	_	_
 41	,	_	Punctuation	Punctuation	_	2	U	_	_
-42	it	_	Word	Word	_	45	A	_	_
 42	it	_	Word	Word	_	47	A	_	_
+42	it	_	Word	Word	_	45	A	_	_
 43	hates	_	Word	Word	_	45	E	_	_
 44	growing	_	Word	Word	_	45	E	_	_
 45	moldy	_	Word	Word	_	0	ROOT	_	_

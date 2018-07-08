@@ -28,8 +28,8 @@
 27	accept	_	Word	Word	_	0	ROOT	_	_
 28	the	_	Word	Word	_	29	E	_	_
 29	existence	_	Word	Word	_	0	ROOT	_	_
-30	of	_	Word	Word	_	31	R	_	_
 30	of	_	Word	Word	_	33	R	_	_
+30	of	_	Word	Word	_	31	R	_	_
 31	fish	_	Word	Word	_	0	ROOT	_	_
 32	or	_	Word	Word	_	31	N	_	_
 33	cetaceans	_	Word	Word	_	0	ROOT	_	_
@@ -42,8 +42,8 @@
 39	new	_	Word	Word	_	40	E	_	_
 40	genera	_	Word	Word	_	0	ROOT	_	_
 41	,	_	Punctuation	Punctuation	_	31	U	_	_
-42	animals	_	Word	Word	_	75	A	_	_
 42	animals	_	Word	Word	_	49	A	_	_
+42	animals	_	Word	Word	_	75	A	_	_
 43	with	_	Word	Word	_	47	R	_	_
 44	a	_	Word	Word	_	47	E	_	_
 45	basically	_	Word	Word	_	47	E	_	_

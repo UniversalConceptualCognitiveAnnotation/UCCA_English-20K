@@ -54,8 +54,8 @@
 52	which	_	Word	Word	_	54	F	_	_
 53	he	_	Word	Word	_	54	A	_	_
 54	claims	_	Word	Word	_	0	ROOT	_	_
-55	he	_	Word	Word	_	59	A	_	_
 55	he	_	Word	Word	_	56	A	_	_
+55	he	_	Word	Word	_	59	A	_	_
 56	saw	_	Word	Word	_	0	ROOT	_	_
 57	,	_	Punctuation	Punctuation	_	56	U	_	_
 58	while	_	Word	Word	_	56	L	_	_
@@ -82,8 +82,8 @@
 79	seas	_	Word	Word	_	0	ROOT	_	_
 80	of	_	Word	Word	_	79	R	_	_
 81	France	_	Word	Word	_	86	E	_	_
-82	\u2019	_	Punctuation	Punctuation	_	89	U	_	_
-83	s	_	Word	Word	_	89	E	_	_
+82	\u2019	_	Punctuation	Punctuation	_	86	U	_	_
+83	s	_	Word	Word	_	86	F	_	_
 84	old	_	Word	Word	_	86	E	_	_
 85	extremist	_	Word	Word	_	86	E	_	_
 86	newspaper	_	Word	Word	_	0	ROOT	_	_

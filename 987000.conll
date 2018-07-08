@@ -9,8 +9,8 @@
 8	much	_	Word	Word	_	9	E	_	_
 9	longer.	_	Word	Word	_	0	ROOT	_	_
 10	The	_	Word	Word	_	11	E	_	_
-11	Abraham	_	Word	Word	_	19	A	_	_
 11	Abraham	_	Word	Word	_	25	A	_	_
+11	Abraham	_	Word	Word	_	19	A	_	_
 12	Lincoln	_	Word	Word	_	11	Terminal	_	_
 13	had	_	Word	Word	_	14	F	_	_
 14	done	_	Word	Word	_	17	C	_	_
@@ -36,8 +36,8 @@
 34	naval	_	Word	Word	_	35	E	_	_
 35	craft	_	Word	Word	_	0	ROOT	_	_
 36	shown	_	Word	Word	_	0	ROOT	_	_
-37	more	_	Word	Word	_	38	E	_	_
 37	more	_	Word	Word	_	40	E	_	_
+37	more	_	Word	Word	_	38	E	_	_
 38	patience	_	Word	Word	_	0	ROOT	_	_
 39	and	_	Word	Word	_	38	N	_	_
 40	zeal;	_	Word	Word	_	0	ROOT	_	_
