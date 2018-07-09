@@ -2,8 +2,8 @@
 # ::tok “ Go on ! ” “ Because . . . it just couldn ’t be true !
 (label :H label
        :L label
-       :P label
        :A label
+       :P label
        :D label
        :S label
        :E label

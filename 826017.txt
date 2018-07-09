@@ -3,7 +3,7 @@
 (label :H label
        :L label
        :A label
-       :D label
        :P label
-       :E label
-       :C label)
+       :D label
+       :C label
+       :E label)

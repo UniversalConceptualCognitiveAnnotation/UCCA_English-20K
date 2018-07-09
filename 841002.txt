@@ -2,7 +2,7 @@
 # ::tok “ Go ahead , then ! ” Commander Farragut called .
 (label :H label
        :L label
-       :P label
        :A label
+       :P label
        :E label
        :C label)

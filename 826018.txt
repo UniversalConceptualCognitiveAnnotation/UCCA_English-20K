@@ -2,6 +2,6 @@
 # ::tok ” “ Whatever detour master wishes .
 (label :H label
        :A label
+       :P label
        :E label
-       :C label
-       :P label)
+       :C label)

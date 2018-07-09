@@ -2,7 +2,7 @@
 # ::tok And yet , what a fine , gallant lad !
 (label :L label
        :H label
-       :S label
        :A label
+       :S label
        :E label
        :C label)

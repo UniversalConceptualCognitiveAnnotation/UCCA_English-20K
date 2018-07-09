@@ -1,8 +1,9 @@
 # ::id 984003
 # ::tok Nothing except an immenseness of deserted waves !
 (label :H label
-       :D label
        :A label
+       :P label
+       :D label
        :E label
        :C label
        :R label)

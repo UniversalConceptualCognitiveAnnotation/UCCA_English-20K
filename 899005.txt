@@ -1,8 +1,8 @@
 # ::id 899005
 # ::tok Some gigantic devilfish maybe . . . ?
 (label :H label
-       :P label
        :A label
+       :P label
        :D label
        :E label
        :C label)

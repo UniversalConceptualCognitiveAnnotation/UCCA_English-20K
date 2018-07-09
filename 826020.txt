@@ -1,8 +1,8 @@
 # ::id 826020
 # ::tok A route slightly less direct , that ’s all .
 (label :H label
-       :S label
        :A label
+       :S label
        :D label
        :E label
        :C label)

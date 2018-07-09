@@ -2,8 +2,8 @@
 # ::tok and halted at Pier 34 .
 (label :L label
        :H label
-       :P label
        :A label
+       :P label
        :R label
        :E label
        :C label)
