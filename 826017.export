@@ -25,38 +25,41 @@ make	Word	--	Terminal	522
 a	Word	--	Terminal	523
 detour	Word	--	Terminal	524
 .	Punctuation	--	Terminal	525
-#500	PNCT	--	U	533
-#501	FN	--	F	526
-#502	PNCT	--	U	526
-#503	FN	--	A	526
-#504	FN	--	P	526
-#505	PNCT	--	U	526
-#506	PNCT	--	U	526
-#507	PNCT	--	U	526
-#508	FN	--	D	526
-#509	PNCT	--	U	533
-#510	PNCT	--	U	533
-#511	PNCT	--	U	533
-#512	PNCT	--	U	533
-#513	PNCT	--	U	533
-#514	FN	--	A	532
-#515	FN	--	P	532
-#516	FN	--	D	532
-#517	PNCT	--	U	533
-#518	PNCT	--	U	533
-#519	FN	--	L	533	LR	530
-#520	FN	--	L	533	LR	529
-#521	FN	--	A	528
-#522	FN	--	P	528
-#523	FN	--	E	527
-#524	FN	--	C	527
-#525	PNCT	--	U	527
-#526	FN	--	H	533	LA	529	LA	530	A*	532
-#527	FN	--	A	528
-#528	FN	--	H	533	LA	529	LA	530
-#529	LKG	--	--	0
-#530	LKG	--	--	0
-#531	FN	--	A	532
-#532	FN	--	H	533
-#533	FN	--	--	0
+#500	PNCT	--	U	534
+#501	FN	--	F	531
+#502	PNCT	--	U	531
+#503	FN	--	A	531
+#504	FN	--	F	530
+#505	PNCT	--	U	531
+#506	PNCT	--	U	531
+#507	PNCT	--	U	531
+#508	FN	--	D	531
+#509	PNCT	--	U	534
+#510	PNCT	--	U	534
+#511	PNCT	--	U	534
+#512	PNCT	--	U	534
+#513	PNCT	--	U	534
+#514	FN	--	A	533
+#515	FN	--	P	533
+#516	FN	--	D	533
+#517	PNCT	--	U	534
+#518	PNCT	--	U	534
+#519	FN	--	L	534	LR	536
+#520	FN	--	L	534	LR	535
+#521	FN	--	A	527
+#522	FN	--	P	527
+#523	FN	--	E	526
+#524	FN	--	C	526
+#525	PNCT	--	U	526
+#526	FN	--	A	527
+#527	FN	--	H	534	LA	535	LA	536
+#528	FN	--	A	531
+#529	FN	--	C	530
+#530	FN	--	P	531
+#531	FN	--	H	534	LA	535	LA	536	A*	533
+#532	FN	--	A	533
+#533	FN	--	H	534
+#534	FN	--	--	0
+#535	LKG	--	--	0
+#536	LKG	--	--	0
 #EOS 826017

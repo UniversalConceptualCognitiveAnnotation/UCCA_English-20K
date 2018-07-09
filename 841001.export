@@ -9,16 +9,17 @@ the	Word	--	Terminal	505
 engineer	Word	--	Terminal	506
 replied	Word	--	Terminal	507
 .	Punctuation	--	Terminal	508
-#500	PNCT	--	U	510
-#501	FN	--	H	511	A*	510
-#502	PNCT	--	U	511
-#503	PNCT	--	U	511
-#504	PNCT	--	U	511
+#500	PNCT	--	U	511
+#501	FN	--	H	512	A*	511
+#502	PNCT	--	U	512
+#503	PNCT	--	U	512
+#504	PNCT	--	U	512
 #505	FN	--	E	509
 #506	FN	--	C	509
-#507	FN	--	P	510
-#508	PNCT	--	U	510
-#509	FN	--	A	510
-#510	FN	--	H	511
-#511	FN	--	--	0
+#507	FN	--	P	511
+#508	PNCT	--	U	511
+#509	FN	--	A	511
+#510	FN	--	A	511
+#511	FN	--	H	512
+#512	FN	--	--	0
 #EOS 841001

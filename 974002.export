@@ -8,16 +8,17 @@ the	Word	--	Terminal	505
 Abraham	Word	--	Terminal	506
 Lincoln	Word	--	Terminal	506
 .	Punctuation	--	Terminal	507
-#500	PNCT	--	U	510
-#501	FN	--	P	510
-#502	FN	--	E	509
-#503	FN	--	C	509
+#500	PNCT	--	U	511
+#501	FN	--	P	511
+#502	FN	--	E	510
+#503	FN	--	C	510
 #504	FN	--	R	508
 #505	FN	--	E	508
 #506	FN	--	C	508
 #507	PNCT	--	U	508
-#508	FN	--	E	509
-#509	FN	--	A	510
-#510	FN	--	H	511
-#511	FN	--	--	0
+#508	FN	--	E	510
+#509	FN	--	A	511
+#510	FN	--	A	511
+#511	FN	--	H	512
+#512	FN	--	--	0
 #EOS 974002
