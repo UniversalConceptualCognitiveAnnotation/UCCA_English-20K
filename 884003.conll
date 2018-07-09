@@ -12,8 +12,8 @@
 11	loading	_	Word	Word	_	0	ROOT	_	_
 12	cannon	_	Word	Word	_	11	A	_	_
 13	,	_	Punctuation	Punctuation	_	12	U	_	_
-14	very	_	Word	Word	_	15	D	_	_
 14	very	_	Word	Word	_	19	D	_	_
+14	very	_	Word	Word	_	15	D	_	_
 15	heavy	_	Word	Word	_	0	ROOT	_	_
 16	of	_	Word	Word	_	17	R	_	_
 17	barrel	_	Word	Word	_	0	ROOT	_	_

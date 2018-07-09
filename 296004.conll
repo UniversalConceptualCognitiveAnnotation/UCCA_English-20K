@@ -30,8 +30,8 @@
 29	the	_	Word	Word	_	27	Terminal	_	_
 30	wall	_	Word	Word	_	27	Terminal	_	_
 31	,	_	Punctuation	Punctuation	_	27	U	_	_
-32	I	_	Word	Word	_	27	A	_	_
 32	I	_	Word	Word	_	35	A	_	_
+32	I	_	Word	Word	_	27	A	_	_
 33	had	_	Word	Word	_	35	E	_	_
 34	to	_	Word	Word	_	33	Terminal	_	_
 35	explain	_	Word	Word	_	0	ROOT	_	_

@@ -19,8 +19,8 @@
 17	species	_	Word	Word	_	19	C	_	_
 18	,	_	Punctuation	Punctuation	_	17	U	_	_
 19	for	_	Word	Word	_	0	ROOT	_	_
-20	whom	_	Word	Word	_	22	R	_	_
 20	whom	_	Word	Word	_	25	R	_	_
+20	whom	_	Word	Word	_	22	R	_	_
 21	years	_	Word	Word	_	22	A	_	_
 22	are	_	Word	Word	_	25	S	_	_
 23	centuries	_	Word	Word	_	22	A	_	_

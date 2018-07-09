@@ -6,8 +6,8 @@
 5	turned	_	Word	Word	_	8	E	_	_
 6	out	_	Word	Word	_	5	Terminal	_	_
 7	to	_	Word	Word	_	8	F	_	_
-8	be	_	Word	Word	_	29	S	_	_
 8	be	_	Word	Word	_	23	S	_	_
+8	be	_	Word	Word	_	29	S	_	_
 9	a	_	Word	Word	_	11	E	_	_
 10	foolish	_	Word	Word	_	11	E	_	_
 11	business	_	Word	Word	_	23	A	_	_
@@ -36,8 +36,8 @@
 33	months	_	Word	Word	_	0	ROOT	_	_
 34	ago	_	Word	Word	_	33	R	_	_
 35	we	_	Word	Word	_	39	A	_	_
-35	we	_	Word	Word	_	50	A	_	_
 35	we	_	Word	Word	_	45	A	_	_
+35	we	_	Word	Word	_	50	A	_	_
 36	could	_	Word	Word	_	39	E	_	_
 37	have	_	Word	Word	_	39	F	_	_
 38	been	_	Word	Word	_	39	F	_	_

@@ -36,13 +36,13 @@
 34	naval	_	Word	Word	_	35	E	_	_
 35	craft	_	Word	Word	_	0	ROOT	_	_
 36	shown	_	Word	Word	_	0	ROOT	_	_
-37	more	_	Word	Word	_	40	E	_	_
 37	more	_	Word	Word	_	38	E	_	_
+37	more	_	Word	Word	_	40	E	_	_
 38	patience	_	Word	Word	_	0	ROOT	_	_
 39	and	_	Word	Word	_	38	N	_	_
 40	zeal;	_	Word	Word	_	0	ROOT	_	_
-41	they	_	Word	Word	_	43	A	_	_
 41	they	_	Word	Word	_	53	A	_	_
+41	they	_	Word	Word	_	43	A	_	_
 42	weren’t	_	Word	Word	_	43	D	_	_
 43	responsible	_	Word	Word	_	0	ROOT	_	_
 44	for	_	Word	Word	_	46	R	_	_
