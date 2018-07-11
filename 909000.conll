@@ -19,14 +19,14 @@
 18	was	_	Word	Word	_	20	F	_	_
 19	a	_	Word	Word	_	20	E	_	_
 20	member	_	Word	Word	_	0	ROOT	_	_
-21	of	_	Word	Word	_	24	R	_	_
-21	of	_	Word	Word	_	30	R	_	_
 21	of	_	Word	Word	_	36	R	_	_
 21	of	_	Word	Word	_	27	R	_	_
+21	of	_	Word	Word	_	24	R	_	_
+21	of	_	Word	Word	_	30	R	_	_
 22	the	_	Word	Word	_	23	E	_	_
+22	the	_	Word	Word	_	29	E	_	_
 22	the	_	Word	Word	_	35	E	_	_
 22	the	_	Word	Word	_	26	E	_	_
-22	the	_	Word	Word	_	29	E	_	_
 23	branch	_	Word	Word	_	0	ROOT	_	_
 24	Vertebrata	_	Word	Word	_	0	ROOT	_	_
 25	,	_	Punctuation	Punctuation	_	24	U	_	_
