@@ -33,8 +33,8 @@
 31	fish	_	Word	Word	_	0	ROOT	_	_
 32	or	_	Word	Word	_	31	N	_	_
 33	cetaceans	_	Word	Word	_	0	ROOT	_	_
-34	of	_	Word	Word	_	36	R	_	_
 34	of	_	Word	Word	_	40	R	_	_
+34	of	_	Word	Word	_	36	R	_	_
 35	new	_	Word	Word	_	36	E	_	_
 36	species	_	Word	Word	_	0	ROOT	_	_
 37	or	_	Word	Word	_	36	N	_	_

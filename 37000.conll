@@ -20,8 +20,8 @@
 19	a	_	Word	Word	_	22	E	_	_
 20	long	_	Word	Word	_	22	E	_	_
 21	spindle-shaped	_	Word	Word	_	22	E	_	_
-22	object	_	Word	Word	_	32	A	_	_
 22	object	_	Word	Word	_	25	A	_	_
+22	object	_	Word	Word	_	32	A	_	_
 23	,	_	Punctuation	Punctuation	_	25	U	_	_
 24	sometimes	_	Word	Word	_	25	D	_	_
 25	giving	_	Word	Word	_	0	ROOT	_	_

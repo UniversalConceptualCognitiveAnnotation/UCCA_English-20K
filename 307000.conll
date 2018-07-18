@@ -13,8 +13,8 @@
 12	for	_	Word	Word	_	15	R	_	_
 13	a	_	Word	Word	_	15	E	_	_
 14	sea	_	Word	Word	_	15	E	_	_
-15	unicorn	_	Word	Word	_	22	A	_	_
 15	unicorn	_	Word	Word	_	31	A	_	_
+15	unicorn	_	Word	Word	_	22	A	_	_
 16	of	_	Word	Word	_	18	R	_	_
 17	colossal	_	Word	Word	_	18	E	_	_
 18	dimensions	_	Word	Word	_	0	ROOT	_	_
@@ -37,10 +37,10 @@
 35	frigates	_	Word	Word	_	0	ROOT	_	_
 36	or	_	Word	Word	_	35	N	_	_
 37	those	_	Word	Word	_	38	E	_	_
-38	warships	_	Word	Word	_	39	A	_	_
 38	warships	_	Word	Word	_	48	A	_	_
-38	warships	_	Word	Word	_	45	E	_	_
+38	warships	_	Word	Word	_	39	A	_	_
 38	warships	_	Word	Word	_	42	E	_	_
+38	warships	_	Word	Word	_	45	E	_	_
 39	called	_	Word	Word	_	0	ROOT	_	_
 40	‘rams,’	_	Word	Word	_	39	A	_	_
 41	whose	_	Word	Word	_	48	R	_	_
