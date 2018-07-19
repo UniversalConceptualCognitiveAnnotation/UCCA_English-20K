@@ -13,12 +13,12 @@
 12	century	_	Word	Word	_	0	ROOT	_	_
 13	,	_	Punctuation	Punctuation	_	17	U	_	_
 14	the	_	Word	Word	_	15	E	_	_
-15	Abraham	_	Word	Word	_	44	A	_	_
-15	Abraham	_	Word	Word	_	32	A	_	_
 15	Abraham	_	Word	Word	_	61	A	_	_
 15	Abraham	_	Word	Word	_	26	A	_	_
 15	Abraham	_	Word	Word	_	49	A	_	_
 15	Abraham	_	Word	Word	_	36	A	_	_
+15	Abraham	_	Word	Word	_	44	A	_	_
+15	Abraham	_	Word	Word	_	32	A	_	_
 16	Lincoln	_	Word	Word	_	15	Terminal	_	_
 17	plowed	_	Word	Word	_	0	ROOT	_	_
 18	all	_	Word	Word	_	21	E	_	_

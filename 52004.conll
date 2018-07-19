@@ -6,8 +6,8 @@
 5	company	_	Word	Word	_	0	ROOT	_	_
 6	owned	_	Word	Word	_	0	ROOT	_	_
 7	twelve	_	Word	Word	_	8	E	_	_
-8	ships	_	Word	Word	_	10	C	_	_
 8	ships	_	Word	Word	_	15	C	_	_
+8	ships	_	Word	Word	_	10	C	_	_
 9	,	_	Punctuation	Punctuation	_	8	U	_	_
 10	eight	_	Word	Word	_	0	ROOT	_	_
 11	with	_	Word	Word	_	13	R	_	_
