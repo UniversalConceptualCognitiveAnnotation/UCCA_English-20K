@@ -32,5 +32,7 @@ jobs:
       env: FORMAT=amr
     - script: curl $SCRIPTS/convert.sh | bash -s $FORMAT
       env: FORMAT=export
+    - script: curl $SCRIPTS/convert.sh | bash -s $FORMAT
+      env: FORMAT=txt
 after_success: curl $SCRIPTS/push.sh | bash
 
