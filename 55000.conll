@@ -20,8 +20,8 @@
 19	lounge	_	Word	Word	_	0	ROOT	_	_
 20	,	_	Punctuation	Punctuation	_	23	U	_	_
 21	a	_	Word	Word	_	22	E	_	_
-22	collision	_	Word	Word	_	31	A	_	_
 22	collision	_	Word	Word	_	26	A	_	_
+22	collision	_	Word	Word	_	31	A	_	_
 23	occurred	_	Word	Word	_	0	ROOT	_	_
 24	,	_	Punctuation	Punctuation	_	23	U	_	_
 25	scarcely	_	Word	Word	_	26	D	_	_

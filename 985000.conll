@@ -6,8 +6,8 @@
 5	in.	_	Word	Word	_	4	Terminal	_	_
 6	At	_	Word	Word	_	7	R	_	_
 7	first,	_	Word	Word	_	0	ROOT	_	_
-8	discouragement	_	Word	Word	_	9	A	_	_
 8	discouragement	_	Word	Word	_	14	A	_	_
+8	discouragement	_	Word	Word	_	9	A	_	_
 9	took	_	Word	Word	_	0	ROOT	_	_
 10	hold	_	Word	Word	_	9	Terminal	_	_
 11	of	_	Word	Word	_	13	R	_	_
@@ -34,8 +34,8 @@
 31	seven-tenths	_	Word	Word	_	32	E	_	_
 32	fury.	_	Word	Word	_	0	ROOT	_	_
 33	The	_	Word	Word	_	34	E	_	_
-34	crew	_	Word	Word	_	41	A	_	_
 34	crew	_	Word	Word	_	50	A	_	_
+34	crew	_	Word	Word	_	41	A	_	_
 35	called	_	Word	Word	_	0	ROOT	_	_
 36	themselves	_	Word	Word	_	35	A	_	_
 37	“out-and-out	_	Word	Word	_	38	E	_	_

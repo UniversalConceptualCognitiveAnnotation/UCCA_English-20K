@@ -25,8 +25,8 @@
 24	with	_	Word	Word	_	27	R	_	_
 25	some	_	Word	Word	_	27	E	_	_
 26	aquatic	_	Word	Word	_	27	E	_	_
-27	mammal	_	Word	Word	_	31	A	_	_
 27	mammal	_	Word	Word	_	35	A	_	_
+27	mammal	_	Word	Word	_	31	A	_	_
 28	,	_	Punctuation	Punctuation	_	27	U	_	_
 29	until	_	Word	Word	_	30	E	_	_
 30	then	_	Word	Word	_	0	ROOT	_	_
