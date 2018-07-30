@@ -8,38 +8,36 @@
                   :E (v16 / label)
                   :C (v17 / label)
                   :E (v18 / label
-                          :R (v32 / label)
-                          :E (v33 / label)
-                          :C (v34 / label)))
+                          :R (v26 / label)
+                          :E (v27 / label)
+                          :C (v28 / label)))
            :A (v6 / label
                   :E (v19 / label)
                   :C (v20 / label))
-           :P (v7 / label
-                  :E (v21 / label)
-                  :C (v22 / label)
-                  :E (v23 / label))
+           :D (v7 / label)
            :G (v8 / label)
-           :A (v9 / label
-                  :R (v24 / label)
-                  :E (v25 / label)
-                  :C (v26 / label)))
+           :P (v9 / label)
+           :A (v10 / label
+                   :R (v21 / label)
+                   :E (v22 / label)
+                   :C (v23 / label)))
     :L (v3 / label)
     :H (v4 / label
-           :P (v10 / label)
-           :A (v11 / label)
-           :D (v12 / label)
+           :P (v11 / label)
+           :A (v12 / label)
            :A (v13 / label
-                   :R (v27 / label)
-                   :E (v28 / label)
-                   :E (v29 / label)
-                   :C (v30 / label)
-                   :E (v31 / label
-                           :A v30
-                           :A (v35 / label)
-                           :P (v36 / label
-                                   :E (v38 / label)
-                                   :C (v39 / label))
-                           :A (v37 / label
-                                   :R (v40 / label)
-                                   :C (v41 / label))))
+                   :P v11
+                   :D (v24 / label)
+                   :A (v25 / label
+                           :R (v29 / label)
+                           :E (v30 / label)
+                           :E (v31 / label)
+                           :C (v32 / label)
+                           :E (v33 / label
+                                   :A v32
+                                   :A (v34 / label)
+                                   :P (v35 / label)
+                                   :A (v36 / label
+                                           :R (v37 / label)
+                                           :C (v38 / label)))))
            :A v6))

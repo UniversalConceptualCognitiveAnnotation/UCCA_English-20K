@@ -5,20 +5,18 @@
            :D (v3 / label
                   :E (v7 / label)
                   :C (v8 / label))
-           :P (v4 / label
-                  :C (v9 / label))
-           :A (v5 / label)
+           :A (v4 / label)
+           :P (v5 / label)
            :A (v6 / label
+                  :R (v9 / label)
                   :C (v10 / label
                           :C (v12 / label
-                                  :R (v18 / label)
-                                  :E (v19 / label)
-                                  :C (v20 / label))
+                                  :E (v18 / label)
+                                  :C (v19 / label))
                           :N (v13 / label)
                           :C (v14 / label
-                                  :E (v21 / label)
-                                  :C (v22 / label)
-                                  :R v18))
+                                  :E (v20 / label)
+                                  :C (v21 / label)))
                   :E (v11 / label
                           :R (v15 / label)
                           :E (v16 / label)

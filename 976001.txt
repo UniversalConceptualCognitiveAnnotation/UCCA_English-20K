@@ -2,50 +2,40 @@
 # ::tok Snatching only a few minutes for meals and a few hours for sleep , come rain or come shine , I no longer left the ship ’s deck .
 (v1 / label
     :H (v2 / label
-           :A (v9 / label)
-           :P (v10 / label)
-           :D (v11 / label)
-           :A (v12 / label
-                   :E (v23 / label)
-                   :E (v24 / label)
-                   :C (v25 / label))
-           :A (v13 / label
-                   :R (v26 / label)
-                   :C (v27 / label
-                           :A (v41 / label)
-                           :P (v42 / label))))
+           :A (v6 / label)
+           :P (v7 / label)
+           :D (v8 / label)
+           :A (v9 / label
+                  :E (v19 / label)
+                  :E (v20 / label)
+                  :C (v21 / label))
+           :A (v10 / label
+                   :R (v22 / label)
+                   :C (v23 / label)))
     :L (v3 / label)
     :H (v4 / label
-           :A (v14 / label)
-           :A (v15 / label
-                   :E (v28 / label)
+           :A (v11 / label)
+           :A (v12 / label
+                   :E (v24 / label)
+                   :E (v25 / label)
+                   :C (v26 / label))
+           :A (v13 / label
+                   :R (v27 / label)
+                   :C (v28 / label
+                           :A (v33 / label)
+                           :P (v34 / label)))
+           :P v7
+           :D v8)
+    :H (v5 / label
+           :D (v14 / label)
+           :A (v15 / label)
+           :D (v16 / label
                    :E (v29 / label)
                    :C (v30 / label))
-           :A (v16 / label
-                   :R (v31 / label)
-                   :C (v32 / label
-                           :A (v43 / label)
-                           :P (v44 / label)))
-           :P v10
-           :D v11)
-    :H (v5 / label
-           :S (v17 / label
-                   :E (v33 / label)
-                   :C (v34 / label)))
-    :L (v6 / label)
-    :H (v7 / label
-           :S (v18 / label
-                   :E (v35 / label)
-                   :C (v36 / label)))
-    :H (v8 / label
-           :A (v19 / label)
-           :D (v20 / label
-                   :E (v37 / label)
-                   :C (v38 / label))
-           :P (v21 / label)
-           :A (v22 / label
-                   :E (v39 / label
-                           :E (v45 / label)
-                           :C (v46 / label)
-                           :R (v47 / label))
-                   :C (v40 / label))))
+           :P (v17 / label)
+           :A (v18 / label
+                   :E (v31 / label
+                           :E (v35 / label)
+                           :C (v36 / label)
+                           :R (v37 / label))
+                   :C (v32 / label))))

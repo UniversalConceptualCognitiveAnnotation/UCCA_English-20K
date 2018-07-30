@@ -22,10 +22,9 @@
                    :C (v22 / label)
                    :R (v23 / label)
                    :E (v24 / label
+                           :C (v25 / label)
                            :C (v26 / label)
-                           :C (v27 / label)
-                           :N (v28 / label)
-                           :C (v29 / label)))
-           :P (v11 / label
-                   :C (v25 / label))
-           :D (v12 / label)))
+                           :N (v27 / label)
+                           :C (v28 / label)))
+           :D (v11 / label)
+           :P (v12 / label)))

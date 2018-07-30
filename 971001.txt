@@ -2,7 +2,7 @@
 # ::tok By July 3 we were at the entrance to the Strait of Magellan , abreast of Cabo de las Virgenes .
 (v1 / label
     :H (v2 / label
-           :D (v3 / label
+           :T (v3 / label
                   :R (v7 / label)
                   :C (v8 / label))
            :A (v4 / label)
@@ -10,20 +10,16 @@
            :A (v6 / label
                   :E (v9 / label
                          :E (v14 / label
-                                 :C (v23 / label)
-                                 :R (v24 / label))
-                         :C (v15 / label)
-                         :E (v16 / label
-                                 :R (v25 / label)
-                                 :E (v26 / label)
-                                 :C (v27 / label)))
+                                 :C (v22 / label)
+                                 :R (v23 / label))
+                         :C (v15 / label))
                   :E (v10 / label
-                          :R (v17 / label)
-                          :E (v18 / label)
-                          :C (v19 / label)
-                          :R (v20 / label))
+                          :R (v16 / label)
+                          :E (v17 / label)
+                          :C (v18 / label)
+                          :R (v19 / label))
                   :E (v11 / label)
                   :C (v12 / label)
                   :E (v13 / label
-                          :R (v21 / label)
-                          :C (v22 / label)))))
+                          :R (v20 / label)
+                          :C (v21 / label)))))

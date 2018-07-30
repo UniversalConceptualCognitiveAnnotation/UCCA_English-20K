@@ -1,26 +1,29 @@
 # ::id 301000
 # ::tok “ Either we know every variety of creature populating our planet , or we do not .
 (v1 / label
-    :L (v2 / label)
-    :H (v3 / label
-           :A (v6 / label)
-           :P (v7 / label)
-           :A (v8 / label
-                  :E (v12 / label)
-                  :C (v13 / label)
-                  :E (v14 / label
-                          :R (v15 / label)
-                          :C (v16 / label)
-                          :E (v17 / label
-                                  :A v16
-                                  :P (v18 / label)
-                                  :A (v19 / label
-                                          :E (v20 / label)
-                                          :C (v21 / label))))))
-    :L (v4 / label)
-    :H (v5 / label
-           :A (v9 / label)
-           :P (v10 / label
-                   :C v7)
-           :D (v11 / label)
-           :A v8))
+    :H (v2 / label
+           :A (v3 / label)
+           :P (v4 / label)
+           :A (v5 / label
+                  :L (v6 / label)
+                  :H (v7 / label
+                         :A (v10 / label)
+                         :P (v11 / label)
+                         :A (v12 / label
+                                 :E (v15 / label)
+                                 :C (v16 / label)
+                                 :E (v17 / label
+                                         :R (v18 / label)
+                                         :C (v19 / label)
+                                         :E (v20 / label
+                                                 :A v19
+                                                 :P (v21 / label)
+                                                 :A (v22 / label
+                                                         :E (v23 / label)
+                                                         :C (v24 / label))))))
+                  :L (v8 / label)
+                  :H (v9 / label
+                         :A (v13 / label)
+                         :D (v14 / label)
+                         :P v11
+                         :A v12))))

@@ -6,24 +6,23 @@
            :A (v5 / label)
            :P (v6 / label)
            :A (v7 / label
-                  :H (v11 / label
-                          :A (v18 / label)
+                  :R (v11 / label)
+                  :H (v12 / label
+                          :A (v17 / label)
+                          :D (v18 / label)
                           :D (v19 / label)
-                          :P (v20 / label
-                                  :E (v24 / label)
-                                  :C (v25 / label))
-                          :A (v21 / label))
-                  :L (v12 / label)
-                  :H (v13 / label
+                          :A (v20 / label)
+                          :P (v21 / label))
+                  :L (v13 / label)
+                  :H (v14 / label
+                          :D v13
                           :P (v22 / label)
                           :D (v23 / label)
-                          :A v18)))
+                          :A v17)))
     :H (v4 / label
            :A v5
-           :P (v8 / label
-                  :C (v14 / label)
-                  :E (v15 / label))
+           :P (v8 / label)
            :A (v9 / label)
            :D (v10 / label
-                   :E (v16 / label)
-                   :C (v17 / label))))
+                   :E (v15 / label)
+                   :C (v16 / label))))

@@ -2,50 +2,48 @@
 # ::tok A man of great height — over six English feet — he was powerfully built , serious in manner , not very sociable , sometimes headstrong , and quite ill - tempered when crossed .
 (v1 / label
     :H (v2 / label
-           :A (v11 / label)
-           :S (v12 / label)
-           :A (v13 / label
-                   :E (v26 / label)
-                   :C (v27 / label)
-                   :E (v28 / label
-                           :E (v37 / label
-                                   :R (v41 / label)
-                                   :E (v42 / label)
-                                   :E (v43 / label)
-                                   :C (v44 / label))
-                           :R (v38 / label)
-                           :E (v39 / label)
-                           :C (v40 / label))))
+           :A (v9 / label)
+           :S (v10 / label)
+           :A (v11 / label
+                   :E (v25 / label)
+                   :C (v26 / label)
+                   :E (v27 / label
+                           :E (v34 / label
+                                   :R (v38 / label)
+                                   :E (v39 / label)
+                                   :E (v40 / label)
+                                   :C (v41 / label))
+                           :R (v35 / label)
+                           :E (v36 / label)
+                           :C (v37 / label))))
     :H (v3 / label
-           :A (v14 / label)
-           :S (v15 / label
-                   :E (v29 / label)
-                   :C (v30 / label)))
+           :A (v12 / label)
+           :D (v13 / label)
+           :S (v14 / label))
     :H (v4 / label
-           :S (v16 / label)
-           :A (v17 / label
-                   :R (v31 / label)
-                   :C (v32 / label)
-                   :E v14))
+           :S (v15 / label)
+           :D (v16 / label
+                   :R (v28 / label)
+                   :C (v29 / label)
+                   :E v12)
+           :A v12)
     :H (v5 / label
+           :D (v17 / label)
            :D (v18 / label)
-           :S (v19 / label
-                   :E (v33 / label)
-                   :C (v34 / label))
-           :A v14)
+           :S (v19 / label)
+           :A v12)
     :H (v6 / label
-           :D (v20 / label)
+           :T (v20 / label)
            :S (v21 / label)
-           :A v14)
+           :A v12)
     :L (v7 / label)
     :H (v8 / label
            :D (v22 / label)
            :S (v23 / label
-                   :E (v35 / label)
-                   :C (v36 / label))
-           :A v14)
-    :L (v9 / label)
-    :H (v10 / label
-            :A (v24 / label)
-            :P (v25 / label)
-            :A v14))
+                   :E (v30 / label)
+                   :C (v31 / label))
+           :A (v24 / label
+                   :R (v32 / label)
+                   :P (v33 / label)
+                   :A v12)
+           :A v12))

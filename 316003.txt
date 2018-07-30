@@ -6,5 +6,4 @@
                   :E (v5 / label)
                   :E (v6 / label)
                   :C (v7 / label))
-           :S (v4 / label
-                  :C (v8 / label))))
+           :S (v4 / label)))

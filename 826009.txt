@@ -1,9 +1,13 @@
 # ::id 826009
-# ::tok ” Conseil ventured to observe .
+# ::tok ” “ The hotel will keep them for us .
 (v1 / label
     :H (v2 / label
-           :A (v3 / label)
-           :A (v4 / label)
-           :P (v5 / label
-                  :E (v6 / label)
-                  :C (v7 / label))))
+           :A (v3 / label
+                  :E (v8 / label)
+                  :C (v9 / label))
+           :D (v4 / label)
+           :S (v5 / label)
+           :A (v6 / label)
+           :A (v7 / label
+                  :R (v10 / label)
+                  :C (v11 / label))))

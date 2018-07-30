@@ -1,7 +1,0 @@
-# ::id 828003
-# ::tok ” “ As master wishes . ”
-(v1 / label
-    :H (v2 / label
-           :A (v3 / label)
-           :A (v4 / label)
-           :P (v5 / label)))

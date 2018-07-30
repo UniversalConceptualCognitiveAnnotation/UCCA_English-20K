@@ -3,22 +3,20 @@
 (v1 / label
     :L (v2 / label)
     :H (v3 / label
-           :A (v5 / label
-                  :E (v10 / label)
-                  :C (v11 / label))
-           :P (v6 / label
-                  :C (v12 / label)))
+           :A (v5 / label)
+           :T (v6 / label
+                  :E (v11 / label)
+                  :C (v12 / label))
+           :P (v7 / label))
     :H (v4 / label
-           :A (v7 / label
+           :A (v8 / label
                   :E (v13 / label)
                   :C (v14 / label))
-           :P (v8 / label
-                  :E (v15 / label)
-                  :C (v16 / label))
-           :A (v9 / label
-                  :E (v17 / label)
-                  :C (v18 / label)
-                  :E (v19 / label
-                          :R (v20 / label)
-                          :E (v21 / label)
-                          :C (v22 / label)))))
+           :P (v9 / label)
+           :A (v10 / label
+                   :E (v15 / label)
+                   :C (v16 / label)
+                   :E (v17 / label
+                           :R (v18 / label)
+                           :E (v19 / label)
+                           :C (v20 / label)))))

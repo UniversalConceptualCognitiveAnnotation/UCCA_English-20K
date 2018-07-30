@@ -2,16 +2,15 @@
 # ::tok A quarter of an hour later , our trunks were ready .
 (v1 / label
     :H (v2 / label
-           :D (v3 / label
+           :T (v3 / label
                   :E (v6 / label
-                         :E (v13 / label)
-                         :C (v14 / label)
-                         :R (v15 / label))
-                  :R (v7 / label)
+                         :E (v12 / label)
+                         :C (v13 / label)
+                         :R (v14 / label))
+                  :E (v7 / label)
                   :E (v8 / label)
                   :C (v9 / label))
            :A (v4 / label
                   :E (v10 / label)
                   :C (v11 / label))
-           :S (v5 / label
-                  :C (v12 / label))))
+           :S (v5 / label)))

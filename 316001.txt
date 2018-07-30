@@ -2,17 +2,19 @@
 # ::tok Not even a 24 - hour breather was granted to Commander Farragut .
 (v1 / label
     :H (v2 / label
-           :A (v3 / label
-                  :E (v6 / label
-                         :C (v13 / label)
-                         :E (v14 / label))
-                  :E (v7 / label)
-                  :E (v8 / label
-                         :E (v15 / label)
-                         :C (v16 / label))
-                  :C (v9 / label))
-           :P (v4 / label
-                  :C (v10 / label))
-           :A (v5 / label
-                  :R (v11 / label)
-                  :C (v12 / label))))
+           :D (v3 / label
+                  :C (v7 / label)
+                  :E (v8 / label))
+           :A (v4 / label
+                  :A (v9 / label)
+                  :P (v10 / label
+                          :E (v15 / label)
+                          :C (v16 / label))
+                  :T (v11 / label
+                          :E (v17 / label)
+                          :C (v18 / label)))
+           :P (v5 / label)
+           :A (v6 / label
+                  :R (v12 / label)
+                  :E (v13 / label)
+                  :C (v14 / label))))

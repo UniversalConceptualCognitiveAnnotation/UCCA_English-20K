@@ -2,36 +2,35 @@
 # ::tok I left Conseil to the proper stowing of our luggage and climbed on deck to watch the preparations for getting under way .
 (v1 / label
     :H (v2 / label
-           :A (v6 / label)
-           :P (v7 / label)
-           :A (v8 / label)
-           :A (v9 / label
-                  :R (v14 / label)
-                  :E (v15 / label)
-                  :C (v16 / label
-                          :A v8
-                          :D (v23 / label)
-                          :P (v24 / label)
-                          :A (v25 / label
-                                  :R (v28 / label)
-                                  :E (v29 / label)
-                                  :C (v30 / label)))))
+           :A (v7 / label)
+           :P (v8 / label)
+           :A (v9 / label)
+           :A (v10 / label
+                   :R (v15 / label)
+                   :P (v16 / label
+                           :E (v23 / label)
+                           :C (v24 / label))
+                   :D (v17 / label)
+                   :A (v18 / label
+                           :R (v25 / label)
+                           :E (v26 / label)
+                           :C (v27 / label))))
     :L (v3 / label)
     :H (v4 / label
-           :P (v10 / label)
-           :A (v11 / label
-                   :R (v17 / label)
-                   :C (v18 / label))
-           :A v6)
-    :H (v5 / label
-           :P (v12 / label
-                   :C (v19 / label))
-           :A (v13 / label
-                   :E (v20 / label)
-                   :C (v21 / label)
-                   :E (v22 / label
-                           :R (v26 / label)
-                           :C (v27 / label
-                                   :A (v31 / label)
-                                   :P (v32 / label))))
-           :A v6))
+           :P (v11 / label)
+           :A (v12 / label
+                   :R (v19 / label)
+                   :C (v20 / label))
+           :A v7)
+    :L (v5 / label)
+    :H (v6 / label
+           :P (v13 / label)
+           :A (v14 / label
+                   :P (v21 / label
+                           :E (v28 / label)
+                           :C (v29 / label))
+                   :A (v22 / label
+                           :R (v30 / label)
+                           :C (v31 / label
+                                   :A (v32 / label)
+                                   :P (v33 / label))))))

@@ -1,14 +1,42 @@
 # ::id 833001
-# ::tok “ The same , ” I replied .
+# ::tok “ The same , ” I replied . “ Commander Farragut ? ” “ In person . Welcome aboard , professor . Your cabin is waiting for you . ”
 (v1 / label
     :H (v2 / label
-           :A (v4 / label)
-           :S (v5 / label)
-           :A (v6 / label
-                  :E (v10 / label)
-                  :C (v11 / label)))
+           :A (v4 / label
+                  :H (v10 / label
+                          :S (v15 / label)
+                          :A (v16 / label)
+                          :A (v17 / label
+                                  :E (v31 / label)
+                                  :C (v32 / label)))
+                  :H (v11 / label
+                          :S (v18 / label)
+                          :A (v19 / label)
+                          :A (v20 / label
+                                  :E (v33 / label)
+                                  :C (v24 / label))))
+           :A (v5 / label)
+           :P (v6 / label))
     :H (v3 / label
-           :A v2
            :A (v7 / label)
-           :A (v8 / label)
-           :P (v9 / label)))
+           :P (v8 / label)
+           :A (v9 / label
+                  :H (v12 / label
+                          :A (v21 / label)
+                          :S (v22 / label)
+                          :D (v23 / label
+                                  :R (v34 / label)
+                                  :C (v35 / label))
+                          :A v24)
+                  :H (v13 / label
+                          :S (v25 / label)
+                          :A (v26 / label)
+                          :A (v27 / label))
+                  :H (v14 / label
+                          :A (v28 / label
+                                  :E (v36 / label)
+                                  :C (v37 / label))
+                          :P (v29 / label)
+                          :A (v30 / label
+                                  :R (v38 / label)
+                                  :C (v39 / label))))))

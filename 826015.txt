@@ -1,12 +1,13 @@
 # ::id 826015
-# ::tok ” “ Then we aren ’t returning to Paris ?
+# ::tok ” “ As master thinks best , ” Conseil replied placidly .
 (v1 / label
-    :L (v2 / label)
-    :H (v3 / label
+    :H (v2 / label
+           :A (v3 / label
+                  :G (v7 / label)
+                  :P (v8 / label)
+                  :A (v9 / label
+                         :A (v10 / label)
+                         :S (v11 / label)))
            :A (v4 / label)
-           :P (v5 / label
-                  :C (v8 / label))
-           :D (v6 / label)
-           :A (v7 / label
-                  :R (v9 / label)
-                  :C (v10 / label))))
+           :P (v5 / label)
+           :D (v6 / label)))

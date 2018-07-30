@@ -8,15 +8,12 @@
                   :N (v10 / label)
                   :C (v11 / label))
            :A (v7 / label
-                  :C (v12 / label
+                  :E (v12 / label)
+                  :E (v13 / label
                           :C (v18 / label)
-                          :E (v19 / label)
-                          :E (v20 / label))
-                  :N (v13 / label)
-                  :C (v14 / label
-                          :E (v21 / label)
-                          :C v18
-                          :E v19)))
+                          :N (v19 / label)
+                          :C (v20 / label))
+                  :C (v14 / label)))
     :L (v3 / label)
     :H (v4 / label
            :S (v8 / label

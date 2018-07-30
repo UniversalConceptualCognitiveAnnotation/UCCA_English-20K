@@ -1,11 +1,13 @@
 # ::id 841001
 # ::tok “ Aye , sir , ” the engineer replied .
 (v1 / label
-    :H (v2 / label)
-    :H (v3 / label
-           :A v2
-           :A (v4 / label)
-           :A (v5 / label
-                  :E (v7 / label)
-                  :C (v8 / label))
-           :P (v6 / label)))
+    :H (v2 / label
+           :A (v3 / label
+                  :A (v6 / label)
+                  :S (v7 / label)
+                  :D (v8 / label)
+                  :G (v9 / label))
+           :A (v4 / label
+                  :E (v10 / label)
+                  :C (v11 / label))
+           :P (v5 / label)))

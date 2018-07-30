@@ -1,9 +1,37 @@
 # ::id 904003
-# ::tok Listen to me .
+# ::tok Let ’s accept that the pressure of one atmosphere is represented by the pressure of a column of water thirty-two feet high .
 (v1 / label
     :H (v2 / label
-           :A (v3 / label)
-           :P (v4 / label)
-           :A (v5 / label
-                  :R (v6 / label)
-                  :C (v7 / label))))
+           :H (v3 / label
+                  :D (v4 / label)
+                  :A (v5 / label)
+                  :P (v6 / label)
+                  :A (v7 / label
+                         :R (v8 / label)
+                         :A (v9 / label
+                                :S (v12 / label
+                                        :E (v17 / label)
+                                        :C (v18 / label))
+                                :A (v13 / label
+                                        :R (v19 / label)
+                                        :E (v20 / label)
+                                        :C (v21 / label)))
+                         :P (v10 / label)
+                         :A (v11 / label
+                                 :R (v14 / label)
+                                 :S (v15 / label
+                                         :E (v22 / label)
+                                         :C (v23 / label))
+                                 :A (v16 / label
+                                         :R (v24 / label)
+                                         :E (v25 / label)
+                                         :E (v26 / label
+                                                 :A (v29 / label
+                                                         :E (v33 / label)
+                                                         :C (v34 / label))
+                                                 :S (v30 / label)
+                                                 :A (v27 / label))
+                                         :C v27
+                                         :E (v28 / label
+                                                 :R (v31 / label)
+                                                 :C (v32 / label))))))))

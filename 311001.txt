@@ -12,12 +12,13 @@
                          :A v8
                          :R (v10 / label)
                          :A (v11 / label)
-                         :P (v12 / label
-                                 :C (v15 / label))
+                         :P (v12 / label)
                          :A (v13 / label
-                                 :R (v16 / label)
-                                 :C (v17 / label))
+                                 :R (v15 / label)
+                                 :C (v16 / label))
                          :A (v14 / label
-                                 :R (v18 / label)
-                                 :E (v19 / label)
-                                 :C (v20 / label))))))
+                                 :R (v17 / label)
+                                 :E (v18 / label
+                                         :A (v19 / label)
+                                         :S (v20 / label))
+                                 :C v19)))))

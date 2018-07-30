@@ -1,12 +1,15 @@
 # ::id 902001
-# ::tok ” “ And why this powerful constitution ?
+# ::tok ” “ And why this powerful constitution ? ” Ned asked .
 (v1 / label
-    :L (v2 / label)
-    :H (v3 / label)
-    :H (v4 / label
-           :A (v5 / label)
-           :P (v6 / label)
-           :A (v7 / label
-                  :E (v8 / label)
-                  :E (v9 / label)
-                  :C (v10 / label))))
+    :H (v2 / label
+           :A (v3 / label
+                  :L (v6 / label)
+                  :H (v7 / label
+                         :S (v8 / label)
+                         :A (v9 / label)
+                         :A (v10 / label
+                                 :E (v11 / label)
+                                 :E (v12 / label)
+                                 :C (v13 / label))))
+           :A (v4 / label)
+           :P (v5 / label)))

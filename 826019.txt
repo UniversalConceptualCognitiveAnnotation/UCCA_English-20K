@@ -1,8 +1,0 @@
-# ::id 826019
-# ::tok ” “ Oh , it ’s nothing really !
-(v1 / label
-    :H (v2 / label
-           :A (v3 / label)
-           :S (v4 / label
-                  :C (v6 / label))
-           :D (v5 / label)))

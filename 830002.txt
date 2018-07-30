@@ -15,12 +15,10 @@
                   :E (v13 / label
                           :A v12
                           :R (v14 / label)
-                          :P (v15 / label
-                                  :R (v18 / label)
-                                  :C (v19 / label))
-                          :D (v16 / label)
+                          :T (v15 / label)
+                          :P (v16 / label)
                           :A (v17 / label
-                                  :R (v20 / label)
-                                  :E (v21 / label)
-                                  :E (v22 / label)
-                                  :C (v23 / label))))))
+                                  :R (v18 / label)
+                                  :E (v19 / label)
+                                  :E (v20 / label)
+                                  :C (v21 / label))))))

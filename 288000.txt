@@ -15,5 +15,4 @@
            :S (v9 / label
                   :R (v14 / label)
                   :E (v15 / label)
-                  :E (v16 / label)
-                  :C (v17 / label))))
+                  :C (v16 / label))))

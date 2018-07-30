@@ -13,9 +13,9 @@
                   :E (v11 / label)
                   :C (v12 / label)
                   :E (v13 / label
-                          :A v12
                           :R (v14 / label)
-                          :P (v15 / label
-                                  :E (v17 / label)
-                                  :C (v18 / label))
-                          :A (v16 / label)))))
+                          :S (v15 / label)
+                          :A (v16 / label)
+                          :A (v17 / label
+                                  :A v12
+                                  :P (v18 / label))))))

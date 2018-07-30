@@ -2,7 +2,7 @@
 # ::tok That day I pressed him no further .
 (v1 / label
     :H (v2 / label
-           :D (v3 / label
+           :T (v3 / label
                   :E (v8 / label)
                   :C (v9 / label))
            :A (v4 / label)

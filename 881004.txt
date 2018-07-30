@@ -1,23 +1,22 @@
 # ::id 881004
-# ::tok And the Abraham Lincoln ’s stempost hadn ’t even cut the suspected waters of the Pacific .
+# ::tok And the Abraham Lincoln ’s stempost had n’t even cut the suspected waters of the Pacific .
 (v1 / label
     :L (v2 / label)
     :H (v3 / label
            :A (v4 / label
                   :E (v9 / label
-                         :E (v16 / label)
-                         :C (v17 / label)
-                         :R (v18 / label))
+                         :E (v15 / label)
+                         :C (v16 / label)
+                         :R (v17 / label))
                   :C (v10 / label))
-           :P (v5 / label
-                  :C (v11 / label))
-           :D (v6 / label)
-           :D (v7 / label)
+           :D (v5 / label)
+           :G (v6 / label)
+           :P (v7 / label)
            :A (v8 / label
+                  :E (v11 / label)
                   :E (v12 / label)
-                  :E (v13 / label)
-                  :C (v14 / label)
-                  :E (v15 / label
-                          :R (v19 / label)
-                          :E (v20 / label)
-                          :C (v21 / label)))))
+                  :C (v13 / label)
+                  :E (v14 / label
+                          :R (v18 / label)
+                          :E (v19 / label)
+                          :C (v20 / label)))))

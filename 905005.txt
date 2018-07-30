@@ -1,33 +1,30 @@
 # ::id 905005
-# ::tok When the inside and outside pressures are in perfect balance , they neutralize each other and allow you to tolerate them without discomfort .
+# ::tok ” “ Yes , I see , ” Ned replied , growing more interested . “ Because the water surrounds me but does n’t penetrate me .
 (v1 / label
-    :L (v2 / label)
-    :H (v3 / label
-           :A (v7 / label
-                  :C (v16 / label
-                          :C (v26 / label)
-                          :E (v27 / label)
-                          :E (v28 / label))
-                  :N (v17 / label)
-                  :C (v18 / label
-                          :E (v29 / label)
-                          :C v26
-                          :E v27))
-           :S (v8 / label
-                  :R (v19 / label)
-                  :E (v20 / label)
-                  :C (v21 / label)))
-    :H (v4 / label
-           :A (v9 / label)
-           :P (v10 / label)
-           :D (v11 / label))
-    :L (v5 / label)
-    :H (v6 / label
-           :P (v12 / label
-                   :E (v22 / label)
-                   :C (v23 / label))
-           :A (v13 / label)
-           :A (v14 / label)
-           :D (v15 / label
-                   :R (v24 / label)
-                   :C (v25 / label))))
+    :H (v2 / label
+           :A (v3 / label
+                  :H (v6 / label
+                         :D (v13 / label)
+                         :A (v14 / label)
+                         :P (v15 / label))
+                  :L (v7 / label)
+                  :H (v8 / label
+                         :A (v16 / label
+                                 :E (v26 / label)
+                                 :C (v22 / label))
+                         :P (v17 / label)
+                         :A (v18 / label))
+                  :L (v9 / label)
+                  :H (v10 / label
+                          :D (v19 / label)
+                          :P (v20 / label)
+                          :A (v21 / label)
+                          :A v22))
+           :A (v4 / label
+                  :C (v11 / label)
+                  :E (v12 / label
+                          :A v11
+                          :D (v23 / label)
+                          :D (v24 / label)
+                          :P (v25 / label)))
+           :P (v5 / label)))

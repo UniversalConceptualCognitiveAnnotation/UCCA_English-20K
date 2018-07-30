@@ -2,50 +2,43 @@
 # ::tok In twenty-six years Cunard ships have made 2,000 Atlantic crossings without so much as a voyage canceled , a delay recorded , a man , a craft , or even a letter lost .
 (v1 / label
     :H (v2 / label
-           :D (v3 / label
-                  :R (v8 / label)
-                  :E (v9 / label)
-                  :C (v10 / label))
-           :A (v4 / label
-                  :E (v11 / label)
-                  :C (v12 / label))
-           :P (v5 / label
-                  :C (v13 / label))
-           :A (v6 / label
-                  :E (v14 / label)
-                  :E (v15 / label)
-                  :C (v16 / label))
-           :A (v7 / label
-                  :R (v17 / label)
-                  :E (v18 / label)
-                  :C (v19 / label
-                          :C (v20 / label
-                                  :E (v23 / label)
-                                  :C (v24 / label)
-                                  :E (v25 / label
-                                          :A v24
-                                          :A (v31 / label)
-                                          :P (v32 / label)))
-                          :C (v21 / label
-                                  :E (v26 / label)
-                                  :C (v27 / label)
-                                  :E (v28 / label
-                                          :A v27
-                                          :A (v33 / label)
-                                          :P (v34 / label)))
-                          :C (v22 / label
-                                  :C (v29 / label
-                                          :C (v35 / label
-                                                  :E (v40 / label)
-                                                  :C (v41 / label))
-                                          :C (v36 / label
-                                                  :E (v42 / label)
-                                                  :C (v43 / label))
-                                          :N (v37 / label)
-                                          :C (v38 / label
-                                                  :E (v44 / label)
-                                                  :E (v45 / label)
-                                                  :C (v46 / label)))
-                                  :E (v30 / label
-                                          :A v29
-                                          :P (v39 / label)))))))
+           :T (v7 / label
+                  :R (v20 / label)
+                  :E (v21 / label)
+                  :C (v22 / label))
+           :A (v8 / label
+                  :E (v23 / label)
+                  :C (v24 / label))
+           :D (v9 / label)
+           :D (v10 / label)
+           :D (v11 / label)
+           :P (v12 / label))
+    :L (v3 / label)
+    :H (v4 / label
+           :D v3
+           :A (v13 / label
+                   :E (v25 / label)
+                   :C (v26 / label))
+           :P (v14 / label))
+    :H (v5 / label
+           :D v3
+           :A (v15 / label
+                   :A (v27 / label)
+                   :P (v28 / label
+                           :E (v33 / label)
+                           :C (v34 / label)))
+           :P (v16 / label))
+    :H (v6 / label
+           :A (v17 / label
+                   :C (v29 / label
+                           :E (v35 / label)
+                           :C (v36 / label))
+                   :C (v30 / label
+                           :E (v37 / label)
+                           :C (v38 / label))
+                   :N (v31 / label)
+                   :C (v32 / label
+                           :E (v39 / label)
+                           :C (v40 / label)))
+           :G (v18 / label)
+           :P (v19 / label)))

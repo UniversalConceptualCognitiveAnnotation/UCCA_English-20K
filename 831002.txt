@@ -7,5 +7,4 @@
            :P (v5 / label)
            :A (v6 / label
                   :R (v7 / label)
-                  :E (v8 / label)
-                  :C (v9 / label))))
+                  :C (v8 / label))))

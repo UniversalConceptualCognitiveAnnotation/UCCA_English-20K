@@ -1,39 +1,35 @@
 # ::id 56000
-# ::tok The Scotia hadn\u2019t run afoul of something , it had been fouled , and by a cutting or perforating instrument rather than a blunt one .
+# ::tok The Scotia had n't run afoul of something , it had been fouled , and by a cutting or perforating instrument rather than a blunt one .
 (v1 / label
     :H (v2 / label
            :A (v6 / label
-                  :E (v15 / label)
-                  :C (v16 / label))
-           :P (v7 / label
+                  :E (v16 / label)
                   :C (v17 / label))
-           :A (v8 / label
+           :D (v7 / label)
+           :P (v8 / label)
+           :A (v9 / label
                   :R (v18 / label)
                   :C (v19 / label)))
     :H (v3 / label
-           :A (v9 / label)
            :A (v10 / label)
-           :P (v11 / label
-                   :C (v20 / label)))
+           :A (v11 / label)
+           :P (v12 / label))
     :L (v4 / label)
     :H (v5 / label
-           :A (v12 / label
-                   :R (v21 / label)
-                   :C (v22 / label
-                           :C (v26 / label
-                                   :C v9
-                                   :E (v29 / label)
-                                   :E (v30 / label))
-                           :N (v27 / label)
-                           :C (v28 / label
-                                   :E (v31 / label)
-                                   :C v9
-                                   :E v29)))
-           :R (v13 / label)
-           :A (v14 / label
+           :A (v13 / label
+                   :R (v20 / label)
+                   :E (v21 / label
+                           :C (v25 / label
+                                   :E (v28 / label)
+                                   :C (v29 / label))
+                           :N (v26 / label)
+                           :C (v27 / label))
+                   :C v10)
+           :R (v14 / label)
+           :A (v15 / label
+                   :E (v22 / label)
                    :E (v23 / label)
-                   :E (v24 / label)
-                   :C (v25 / label)
-                   :R v21)
-           :A v10
-           :P v11))
+                   :C (v24 / label)
+                   :R v20)
+           :A v11
+           :P v12))

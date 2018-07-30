@@ -2,41 +2,43 @@
 # ::tok As long as I could deny the reality of the business , I confined myself to a flat “ no comment . ” But soon , pinned to the wall , I had to explain myself straight out .
 (v1 / label
     :L (v2 / label
-           :R (v8 / label)
-           :C (v9 / label)
-           :R (v10 / label))
+           :R (v7 / label)
+           :C (v8 / label)
+           :R (v9 / label))
     :H (v3 / label
-           :A (v11 / label)
-           :P (v12 / label
-                   :E (v24 / label)
-                   :C (v25 / label))
+           :A (v10 / label)
+           :D (v11 / label)
+           :P (v12 / label)
            :A (v13 / label
-                   :E (v26 / label)
-                   :C (v27 / label)
-                   :E (v28 / label
-                           :R (v37 / label)
-                           :E (v38 / label)
-                           :C (v39 / label))))
+                   :E (v23 / label)
+                   :C (v24 / label)
+                   :E (v25 / label
+                           :R (v32 / label)
+                           :E (v33 / label)
+                           :C (v34 / label))))
     :H (v4 / label
            :A (v14 / label)
            :P (v15 / label)
            :A (v16 / label)
            :A (v17 / label
-                   :R (v29 / label)
-                   :E (v30 / label)
-                   :E (v31 / label)
-                   :E (v32 / label)
-                   :C (v33 / label)))
+                   :R (v26 / label)
+                   :E (v27 / label)
+                   :E (v28 / label)
+                   :C (v29 / label
+                           :A (v35 / label)
+                           :P (v36 / label)
+                           :A (v37 / label
+                                   :A (v39 / label)
+                                   :D (v40 / label)
+                                   :P (v41 / label)))))
     :L (v5 / label)
     :H (v6 / label
-           :D (v18 / label)
-           :A (v19 / label)
-           :P (v20 / label
-                   :E (v34 / label)
-                   :C (v35 / label)
-                   :E (v36 / label))
-           :D (v21 / label))
-    :H (v7 / label
-           :A (v22 / label)
-           :P (v23 / label)
-           :A v19))
+           :T (v18 / label)
+           :A (v19 / label
+                   :E (v30 / label
+                           :A (v31 / label)
+                           :P (v38 / label))
+                   :C v31)
+           :D (v20 / label)
+           :P (v21 / label)
+           :D (v22 / label)))

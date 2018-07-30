@@ -11,16 +11,14 @@
     :H (v4 / label
            :A (v8 / label)
            :P (v9 / label)
-           :A (v10 / label
-                   :R (v14 / label)
-                   :C (v15 / label))
+           :D (v10 / label)
            :A (v11 / label
-                   :E (v16 / label)
-                   :C (v17 / label)
-                   :E (v18 / label
-                           :A v17
-                           :D (v19 / label)
-                           :P (v20 / label)
-                           :A (v21 / label
-                                   :R (v22 / label)
-                                   :C (v23 / label))))))
+                   :E (v14 / label)
+                   :C (v15 / label)
+                   :E (v16 / label
+                           :A v15
+                           :T (v17 / label)
+                           :P (v18 / label)
+                           :A (v19 / label
+                                   :R (v20 / label)
+                                   :C (v21 / label))))))

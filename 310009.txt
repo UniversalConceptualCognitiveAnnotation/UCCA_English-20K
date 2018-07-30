@@ -1,44 +1,49 @@
 # ::id 310009
-# ::tok Couldn ’t the heart of the ocean hide the last - remaining varieties of these titanic species , for whom years are centuries and centuries millennia ?
+# ::tok With its untold depths , could n’t the sea keep alive such huge specimens of life from another age , this sea that never changes while the land masses undergo almost continuous alteration ?
 (v1 / label
     :H (v2 / label
-           :P (v4 / label
+           :A (v3 / label
+                  :R (v9 / label)
                   :E (v10 / label)
-                  :C (v11 / label))
+                  :E (v11 / label
+                          :A (v12 / label)
+                          :A (v21 / label)
+                          :P (v22 / label))
+                  :C v12)
+           :D (v4 / label)
            :D (v5 / label)
            :A (v6 / label
-                  :E (v12 / label)
-                  :C (v13 / label)
-                  :E (v14 / label
-                          :R (v19 / label)
-                          :E (v20 / label)
-                          :C (v21 / label)))
-           :A (v7 / label
-                  :E (v15 / label)
-                  :C (v16 / label)))
-    :H (v3 / label
-           :P (v8 / label)
-           :A (v9 / label
-                  :C (v17 / label)
-                  :E (v18 / label
-                          :R (v22 / label)
+                  :E (v13 / label
                           :E (v23 / label)
-                          :E (v24 / label)
-                          :C (v25 / label)
-                          :E (v26 / label
-                                  :H (v27 / label
-                                          :A (v30 / label
-                                                  :C v25
-                                                  :R (v37 / label))
-                                          :R (v31 / label)
-                                          :A (v32 / label)
-                                          :S (v33 / label)
-                                          :A (v34 / label))
-                                  :L (v28 / label)
-                                  :H (v29 / label
-                                          :A v25
-                                          :A (v35 / label)
-                                          :A (v36 / label)
-                                          :R v31
-                                          :S v33))))
-           :A v6))
+                          :C (v24 / label)
+                          :E (v25 / label
+                                  :H (v31 / label
+                                          :A v24
+                                          :R (v34 / label)
+                                          :D (v35 / label)
+                                          :P (v36 / label))
+                                  :L (v32 / label)
+                                  :H (v33 / label
+                                          :A (v37 / label
+                                                  :E (v41 / label)
+                                                  :E (v42 / label)
+                                                  :C (v43 / label))
+                                          :P (v38 / label)
+                                          :D (v39 / label)
+                                          :A (v40 / label
+                                                  :E (v44 / label)
+                                                  :C (v45 / label)))))
+                  :E (v14 / label)
+                  :C (v15 / label))
+           :P (v7 / label)
+           :A (v8 / label
+                  :E (v16 / label)
+                  :E (v17 / label)
+                  :E (v18 / label
+                          :R (v26 / label)
+                          :E (v27 / label)
+                          :C (v28 / label))
+                  :C (v19 / label)
+                  :E (v20 / label
+                          :R (v29 / label)
+                          :C (v30 / label)))))

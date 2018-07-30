@@ -1,5 +1,5 @@
 # ::id 44000
-# ::tok One after another , reports arrived that would profoundly affect public opinion : new observations taken by the transatlantic liner Pereire , the Inman line \u2019s Etna running afoul of the monster , an official report drawn up by officers on the French frigate Normandy , dead - earnest reckonings obtained by the general staff of Commodore Fitz-James aboard the Lord Clyde .
+# ::tok One after another , reports arrived that would profoundly affect public opinion : new observations taken by the transatlantic liner Pereire , the Inman line 's Etna running afoul of the monster , an official report drawn up by officers on the French frigate Normandy , dead - earnest reckonings obtained by the general staff of Commodore Fitz-James aboard the Lord Clyde .
 (v1 / label
     :H (v2 / label
            :D (v3 / label
@@ -11,69 +11,69 @@
                          :C (v11 / label)
                          :E (v12 / label
                                  :A v11
-                                 :P (v17 / label
-                                         :E (v32 / label)
-                                         :C (v33 / label))
+                                 :R (v17 / label)
                                  :D (v18 / label)
-                                 :A (v19 / label
+                                 :P (v19 / label)
+                                 :A (v20 / label
                                          :E (v34 / label)
                                          :C (v35 / label))))
                   :C (v10 / label
                           :C (v13 / label
-                                  :A (v20 / label
+                                  :A (v21 / label
                                           :E (v36 / label)
                                           :C (v37 / label))
-                                  :P (v21 / label)
-                                  :A (v22 / label
+                                  :P (v22 / label)
+                                  :A (v23 / label
                                           :R (v38 / label)
                                           :E (v39 / label
-                                                  :E (v62 / label)
-                                                  :E (v63 / label)
-                                                  :C (v64 / label))
+                                                  :E (v66 / label)
+                                                  :E (v67 / label)
+                                                  :C (v68 / label))
                                           :C (v40 / label)))
                           :C (v14 / label
-                                  :E (v23 / label)
-                                  :C (v24 / label
-                                          :A (v41 / label
-                                                  :E (v65 / label
-                                                          :E (v72 / label)
-                                                          :C (v73 / label))
-                                                  :C (v66 / label))
-                                          :P (v42 / label)
-                                          :A (v43 / label
-                                                  :R (v67 / label)
-                                                  :E (v68 / label)
-                                                  :C (v69 / label))))
+                                  :A (v24 / label
+                                          :E (v41 / label)
+                                          :E (v42 / label
+                                                  :E (v69 / label)
+                                                  :C (v70 / label))
+                                          :R (v43 / label)
+                                          :C (v44 / label))
+                                  :P (v25 / label)
+                                  :A (v26 / label
+                                          :R (v45 / label)
+                                          :E (v46 / label)
+                                          :C (v47 / label)))
                           :C (v15 / label
-                                  :A (v25 / label
-                                          :E (v44 / label)
-                                          :E (v45 / label)
-                                          :C (v46 / label))
-                                  :P (v26 / label)
                                   :A (v27 / label
-                                          :R (v47 / label)
-                                          :C (v48 / label)
-                                          :R (v49 / label)
-                                          :E (v50 / label
-                                                  :E (v70 / label
-                                                          :E (v74 / label)
-                                                          :E (v75 / label)
-                                                          :C (v76 / label))
-                                                  :C (v71 / label))))
-                          :C (v16 / label
-                                  :A (v28 / label
-                                          :E (v51 / label)
-                                          :C (v52 / label))
-                                  :P (v29 / label)
-                                  :A (v30 / label
+                                          :E (v48 / label)
+                                          :E (v49 / label)
+                                          :C (v50 / label))
+                                  :P (v28 / label)
+                                  :A (v29 / label
+                                          :R (v51 / label)
+                                          :C (v52 / label)
                                           :R (v53 / label)
-                                          :E (v54 / label)
-                                          :E (v55 / label)
-                                          :C (v56 / label)
-                                          :R (v57 / label)
-                                          :E (v58 / label))
-                                  :A (v31 / label
-                                          :R (v59 / label)
+                                          :E (v54 / label
+                                                  :E (v71 / label
+                                                          :E (v73 / label)
+                                                          :E (v74 / label)
+                                                          :C (v75 / label))
+                                                  :C (v72 / label))))
+                          :C (v16 / label
+                                  :A (v30 / label
+                                          :A (v55 / label)
+                                          :D (v56 / label)
+                                          :P (v57 / label))
+                                  :P (v31 / label)
+                                  :A (v32 / label
+                                          :R (v58 / label)
+                                          :E (v59 / label)
                                           :E (v60 / label)
-                                          :C (v61 / label)))))
+                                          :C v55
+                                          :R (v61 / label)
+                                          :E (v62 / label))
+                                  :A (v33 / label
+                                          :R (v63 / label)
+                                          :E (v64 / label)
+                                          :C (v65 / label)))))
            :P (v5 / label)))

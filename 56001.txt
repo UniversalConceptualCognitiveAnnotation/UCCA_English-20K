@@ -1,58 +1,51 @@
 # ::id 56001
-# ::tok This encounter seemed so minor that nobody on board would have been disturbed by it , had it not been for the shouts of crewmen in the hold , who climbed on deck yelling : \u201C We \u2019re sinking ! We \u2019re sinking ! \u201D
+# ::tok This encounter seemed so minor that nobody on board would have been disturbed by it , had it not been for the shouts of crewmen in the hold , who climbed on deck yelling : " We 're sinking ! We 're sinking ! "
 (v1 / label
     :H (v2 / label
            :A (v7 / label
-                  :E (v19 / label)
-                  :C (v20 / label))
-           :S (v8 / label
                   :E (v21 / label)
-                  :E (v22 / label)
-                  :C (v23 / label)))
+                  :C (v22 / label))
+           :G (v8 / label)
+           :S (v9 / label
+                  :E (v23 / label)
+                  :C (v24 / label)))
     :L (v3 / label)
     :H (v4 / label
-           :A (v9 / label
-                  :C (v24 / label)
-                  :E (v25 / label
-                          :R (v36 / label)
-                          :C (v37 / label)))
-           :P (v10 / label
-                   :E (v26 / label)
-                   :C (v27 / label))
+           :A (v10 / label)
            :A (v11 / label
-                   :R (v28 / label)
-                   :C (v29 / label)))
+                   :R (v25 / label)
+                   :C (v26 / label))
+           :D (v12 / label)
+           :P (v13 / label)
+           :A (v14 / label
+                   :R (v27 / label)
+                   :C (v28 / label)))
     :H (v5 / label
-           :S (v12 / label)
-           :A (v13 / label)
-           :D (v14 / label)
-           :A (v15 / label
-                   :R (v30 / label)
-                   :E (v31 / label)
-                   :C (v32 / label)
-                   :E (v33 / label
-                           :R (v38 / label)
-                           :C (v18 / label)
-                           :E (v39 / label
-                                   :R (v45 / label)
-                                   :E (v46 / label)
-                                   :C (v47 / label))
-                           :E (v40 / label
-                                   :A v18
-                                   :R (v48 / label)
-                                   :P (v49 / label)
-                                   :A (v50 / label
-                                           :R (v53 / label)
-                                           :C (v54 / label))))))
-    :H (v6 / label
-           :P (v16 / label)
+           :D (v15 / label)
+           :P (v16 / label
+                   :E (v29 / label)
+                   :C (v30 / label))
            :A (v17 / label
+                   :R (v31 / label)
+                   :C (v20 / label)
+                   :E (v32 / label
+                           :R (v36 / label)
+                           :E (v37 / label)
+                           :C (v38 / label))
+                   :E (v33 / label
+                           :A v20
+                           :R (v39 / label)
+                           :P (v40 / label)
+                           :A (v41 / label
+                                   :R (v46 / label)
+                                   :C (v47 / label)))))
+    :H (v6 / label
+           :P (v18 / label)
+           :A (v19 / label
                    :H (v34 / label
-                           :A (v41 / label)
-                           :P (v42 / label
-                                   :C (v51 / label)))
+                           :A (v42 / label)
+                           :P (v43 / label))
                    :H (v35 / label
-                           :A (v43 / label)
-                           :P (v44 / label
-                                   :C (v52 / label))))
-           :A v18))
+                           :A (v44 / label)
+                           :P (v45 / label)))
+           :A v20))

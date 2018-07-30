@@ -1,27 +1,10 @@
 # ::id 907005
-# ::tok ” “ But if they don ’t exist , my stubborn harpooner , how do you explain the accident that happened to the Scotia ?
+# ::tok ” “ It ’s maybe . . . , ” Ned said , hesitating .
 (v1 / label
-    :L (v2 / label)
-    :L (v3 / label)
-    :H (v4 / label
-           :A (v7 / label)
-           :P (v8 / label
-                  :C (v14 / label))
-           :D (v9 / label))
-    :H (v5 / label)
-    :H (v6 / label
-           :D (v10 / label)
-           :P (v11 / label
-                   :C (v15 / label))
-           :A (v12 / label)
-           :A (v13 / label
-                   :E (v16 / label)
-                   :C (v17 / label)
-                   :E (v18 / label
-                           :A v17
-                           :R (v19 / label)
-                           :P (v20 / label)
-                           :A (v21 / label
-                                   :R (v22 / label)
-                                   :E (v23 / label)
-                                   :C (v24 / label))))))
+    :H (v2 / label
+           :A (v3 / label
+                  :A (v7 / label)
+                  :S (v8 / label))
+           :A (v4 / label)
+           :P (v5 / label)
+           :D (v6 / label)))

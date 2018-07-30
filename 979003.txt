@@ -4,8 +4,8 @@
     :H (v2 / label
            :D (v5 / label
                   :E (v11 / label
-                          :E (v13 / label)
-                          :C (v14 / label))
+                          :E (v15 / label)
+                          :C (v16 / label))
                   :C (v12 / label))
            :A (v6 / label)
            :P (v7 / label)
@@ -13,4 +13,6 @@
     :L (v3 / label)
     :H (v4 / label
            :A (v9 / label)
-           :S (v10 / label)))
+           :S (v10 / label
+                   :E (v13 / label)
+                   :C (v14 / label))))

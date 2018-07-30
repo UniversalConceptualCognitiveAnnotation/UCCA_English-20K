@@ -25,6 +25,8 @@
                           :E (v17 / label)
                           :C (v18 / label)
                           :E (v19 / label
-                                  :C (v24 / label)
-                                  :N (v25 / label)
-                                  :C (v26 / label))))))
+                                  :A v18
+                                  :S (v24 / label
+                                          :C (v25 / label)
+                                          :N (v26 / label)
+                                          :C (v27 / label)))))))

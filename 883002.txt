@@ -2,40 +2,39 @@
 # ::tok The lone rebel among us was Conseil , who seemed utterly uninterested in the question exciting us and was out of step with the general enthusiasm on board .
 (v1 / label
     :H (v2 / label
-           :A (v7 / label
-                  :E (v15 / label)
-                  :E (v16 / label)
-                  :C (v17 / label)
-                  :E (v18 / label
-                          :R (v31 / label)
-                          :C (v32 / label)))
-           :S (v8 / label)
-           :A (v9 / label))
-    :L (v3 / label)
-    :H (v4 / label
-           :P (v10 / label
-                   :E (v19 / label)
-                   :C (v20 / label))
-           :D (v11 / label)
-           :A (v12 / label
-                   :R (v21 / label)
-                   :E (v22 / label)
-                   :C (v23 / label)
-                   :E (v24 / label
-                           :A v23
-                           :P (v33 / label)
-                           :A (v34 / label)))
-           :A v9)
-    :L (v5 / label)
-    :H (v6 / label
-           :S (v13 / label
-                   :C (v25 / label))
-           :A (v14 / label
-                   :R (v26 / label)
-                   :E (v27 / label)
-                   :E (v28 / label)
-                   :C (v29 / label)
-                   :E (v30 / label
-                           :R (v35 / label)
-                           :C (v36 / label)))
-           :A v9))
+           :S (v3 / label
+                  :E (v7 / label)
+                  :C (v8 / label))
+           :D (v4 / label)
+           :A (v5 / label
+                  :R (v9 / label)
+                  :C (v10 / label))
+           :A (v6 / label
+                  :C (v11 / label)
+                  :E (v12 / label
+                          :H (v13 / label
+                                  :A v11
+                                  :R (v16 / label)
+                                  :G (v17 / label)
+                                  :D (v18 / label)
+                                  :S (v19 / label)
+                                  :A (v20 / label
+                                          :R (v23 / label)
+                                          :E (v24 / label)
+                                          :C (v25 / label)
+                                          :E (v26 / label
+                                                  :A v25
+                                                  :P (v32 / label)
+                                                  :A (v33 / label))))
+                          :L (v14 / label)
+                          :H (v15 / label
+                                  :A v11
+                                  :S (v21 / label)
+                                  :A (v22 / label
+                                          :R (v27 / label)
+                                          :E (v28 / label)
+                                          :E (v29 / label)
+                                          :C (v30 / label)
+                                          :E (v31 / label
+                                                  :R (v34 / label)
+                                                  :C (v35 / label))))))))

@@ -2,16 +2,15 @@
 # ::tok For two months nobody heard a word about it .
 (v1 / label
     :H (v2 / label
-           :D (v3 / label
-                  :R (v7 / label)
-                  :E (v8 / label)
-                  :C (v9 / label))
+           :T (v3 / label
+                  :R (v8 / label)
+                  :E (v9 / label)
+                  :C (v10 / label))
            :A (v4 / label)
-           :P (v5 / label
-                  :C (v10 / label)
-                  :E (v11 / label
-                          :E (v14 / label)
-                          :C (v15 / label)))
+           :P (v5 / label)
            :A (v6 / label
-                  :R (v12 / label)
-                  :C (v13 / label))))
+                  :E (v11 / label)
+                  :C (v12 / label))
+           :A (v7 / label
+                  :R (v13 / label)
+                  :C (v14 / label))))

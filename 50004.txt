@@ -1,27 +1,26 @@
 # ::id 50004
-# ::tok The site \u2019s exact bearings were taken , and the Moravian continued on course apparently undamaged .
+# ::tok The site 's exact bearings were taken , and the Moravian continued on course apparently undamaged .
 (v1 / label
     :H (v2 / label
            :A (v5 / label)
            :A (v6 / label
                   :E (v12 / label
-                          :E (v23 / label)
-                          :C (v24 / label))
+                          :E (v22 / label)
+                          :C (v23 / label))
                   :E (v13 / label)
                   :C (v14 / label))
-           :P (v7 / label
-                  :C (v15 / label)))
+           :P (v7 / label))
     :L (v3 / label)
     :H (v4 / label
            :A (v8 / label
-                  :E (v16 / label)
-                  :C (v17 / label))
+                  :E (v15 / label)
+                  :C (v16 / label))
            :P (v9 / label)
            :A (v10 / label
-                   :R (v18 / label)
-                   :C (v19 / label))
+                   :R (v17 / label)
+                   :C (v18 / label))
            :A (v11 / label
                    :A v8
-                   :A (v20 / label)
-                   :D (v21 / label)
-                   :P (v22 / label))))
+                   :A (v19 / label)
+                   :D (v20 / label)
+                   :P (v21 / label))))

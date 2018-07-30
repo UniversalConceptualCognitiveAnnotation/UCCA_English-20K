@@ -2,7 +2,7 @@
 # ::tok For six months the war seesawed .
 (v1 / label
     :H (v2 / label
-           :D (v3 / label
+           :T (v3 / label
                   :R (v6 / label)
                   :E (v7 / label)
                   :C (v8 / label))

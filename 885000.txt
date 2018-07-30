@@ -1,17 +1,16 @@
 # ::id 885000
-# ::tok So the Abraham Lincoln wasn ’t lacking in means of destruction .
+# ::tok So the Abraham Lincoln was n’t lacking in means of destruction .
 (v1 / label
     :L (v2 / label)
     :H (v3 / label
            :A (v4 / label
                   :E (v8 / label)
                   :C (v9 / label))
-           :P (v5 / label
-                  :C (v10 / label))
-           :D (v6 / label)
+           :D (v5 / label)
+           :S (v6 / label)
            :A (v7 / label
-                  :E (v11 / label
-                          :R (v13 / label)
-                          :C (v14 / label)
-                          :R (v15 / label))
-                  :C (v12 / label))))
+                  :E (v10 / label
+                          :R (v12 / label)
+                          :C (v13 / label)
+                          :R (v14 / label))
+                  :C (v11 / label))))

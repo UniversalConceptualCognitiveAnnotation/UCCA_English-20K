@@ -7,9 +7,9 @@
                   :E (v13 / label)
                   :C (v14 / label)
                   :E (v15 / label
-                          :R (v23 / label)
-                          :E (v24 / label)
-                          :C (v25 / label)))
+                          :R (v21 / label)
+                          :E (v22 / label)
+                          :C (v23 / label)))
            :A (v5 / label
                   :E (v16 / label)
                   :C (v11 / label))
@@ -17,19 +17,16 @@
            :A (v7 / label)
            :A (v8 / label
                   :R (v17 / label)
-                  :E (v18 / label)
-                  :C (v19 / label)))
+                  :C (v18 / label)))
     :H (v3 / label
            :P (v9 / label)
            :A (v10 / label
+                   :C (v19 / label)
                    :E (v20 / label
-                           :R (v26 / label)
-                           :E (v27 / label)
-                           :C (v28 / label)
-                           :E (v29 / label
-                                   :R (v30 / label)
-                                   :E (v31 / label)
-                                   :C (v32 / label)))
-                   :E (v21 / label)
-                   :C (v22 / label))
+                           :R (v24 / label)
+                           :E (v25 / label)
+                           :C (v26 / label)
+                           :E (v27 / label
+                                   :R (v28 / label)
+                                   :C (v29 / label))))
            :A v11))

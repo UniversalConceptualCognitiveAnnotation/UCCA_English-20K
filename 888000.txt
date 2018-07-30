@@ -2,23 +2,22 @@
 # ::tok Commander Farragut , to my thinking , had made a wise move in hiring on this man .
 (v1 / label
     :H (v2 / label
-           :A (v5 / label
-                  :E (v14 / label)
+           :A (v3 / label
+                  :E (v9 / label)
+                  :C (v10 / label))
+           :G (v4 / label
+                  :R (v11 / label)
+                  :E (v12 / label)
                   :C (v13 / label))
+           :D (v5 / label)
            :P (v6 / label
+                  :E (v14 / label)
                   :C (v15 / label))
-           :A (v7 / label
-                  :E (v16 / label)
-                  :E (v17 / label)
-                  :C (v18 / label)))
-    :G (v3 / label
-           :R (v8 / label)
-           :E (v9 / label)
-           :C (v10 / label))
-    :H (v4 / label
-           :P (v11 / label
-                   :C (v19 / label))
-           :A (v12 / label
-                   :E (v20 / label)
-                   :C (v21 / label))
-           :A v13))
+           :D (v7 / label)
+           :A (v8 / label
+                  :R (v16 / label)
+                  :P (v17 / label)
+                  :A (v18 / label
+                          :E (v19 / label)
+                          :C (v20 / label))
+                  :A v10)))

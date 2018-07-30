@@ -1,5 +1,5 @@
 # ::id 45003
-# ::tok They even reprinted reports from ancient times : the views of Aristotle and Pliny accepting the existence of such monsters , then the Norwegian stories of Bishop Pontoppidan , the narratives of Paul Egede , and finally the reports of Captain Harrington \u2014 whose good faith is above suspicion \u2014 in which he claims he saw , while aboard the Castilian in 1857 , one of those enormous serpents that , until then , had frequented only the seas of France \u2019 s old extremist newspaper , The Constitutionalist
+# ::tok They even reprinted reports from ancient times : the views of Aristotle and Pliny accepting the existence of such monsters , then the Norwegian stories of Bishop Pontoppidan , the narratives of Paul Egede , and finally the reports of Captain Harrington - whose good faith is above suspicion - in which he claims he saw , while aboard the Castilian in 1857 , one of those enormous serpents that , until then , had frequented only the seas of France ' s old extremist newspaper , The Constitutionalist
 (v1 / label
     :H (v2 / label
            :A (v3 / label)
@@ -28,12 +28,13 @@
                                          :A v21
                                          :P (v40 / label)
                                          :A (v41 / label
-                                                 :E (v52 / label)
-                                                 :C (v53 / label)
-                                                 :R (v54 / label)
-                                                 :E (v55 / label
-                                                         :E (v61 / label)
-                                                         :C (v62 / label)))))
+                                                 :S (v52 / label
+                                                         :E (v60 / label)
+                                                         :C (v61 / label))
+                                                 :A (v53 / label
+                                                         :R (v62 / label)
+                                                         :E (v63 / label)
+                                                         :C (v64 / label)))))
                          :N (v13 / label)
                          :C (v14 / label
                                  :E (v24 / label)
@@ -54,54 +55,55 @@
                                          :R (v42 / label)
                                          :C (v43 / label)
                                          :E (v44 / label
-                                                 :A (v56 / label
-                                                         :E v43
-                                                         :E (v63 / label)
-                                                         :C (v64 / label))
-                                                 :S (v57 / label
+                                                 :A v43
+                                                 :R (v54 / label)
+                                                 :A (v55 / label
                                                          :E (v65 / label)
-                                                         :C (v66 / label))))
+                                                         :C (v66 / label))
+                                                 :S (v56 / label
+                                                         :E (v67 / label)
+                                                         :C (v68 / label))))
                                  :E (v36 / label
+                                         :A v34
                                          :R (v45 / label)
                                          :A (v46 / label)
                                          :P (v47 / label)
                                          :A (v48 / label
-                                                 :H (v58 / label
-                                                         :A (v67 / label)
-                                                         :P (v68 / label)
-                                                         :A (v69 / label
-                                                                 :E (v73 / label)
-                                                                 :R (v74 / label)
+                                                 :H (v57 / label
+                                                         :A (v69 / label)
+                                                         :P (v70 / label)
+                                                         :A (v71 / label
                                                                  :E (v75 / label)
-                                                                 :E (v76 / label)
-                                                                 :C (v77 / label)
-                                                                 :E (v78 / label
-                                                                         :A v77
-                                                                         :D (v83 / label
-                                                                                 :E (v86 / label)
-                                                                                 :C (v87 / label))
-                                                                         :P (v84 / label
-                                                                                 :C (v88 / label))
-                                                                         :A (v85 / label
+                                                                 :R (v76 / label)
+                                                                 :E (v77 / label)
+                                                                 :E (v78 / label)
+                                                                 :C (v79 / label)
+                                                                 :E (v80 / label
+                                                                         :A v79
+                                                                         :R (v85 / label)
+                                                                         :T (v86 / label
                                                                                  :E (v89 / label)
-                                                                                 :E (v90 / label)
-                                                                                 :C (v91 / label)
-                                                                                 :R (v92 / label)
-                                                                                 :E (v93 / label
-                                                                                         :E (v94 / label
-                                                                                                 :E (v97 / label)
+                                                                                 :C (v90 / label))
+                                                                         :P (v87 / label)
+                                                                         :A (v88 / label
+                                                                                 :E (v91 / label)
+                                                                                 :E (v92 / label)
+                                                                                 :C (v93 / label)
+                                                                                 :R (v94 / label)
+                                                                                 :E (v95 / label
+                                                                                         :E (v96 / label
                                                                                                  :E (v98 / label)
                                                                                                  :E (v99 / label)
-                                                                                                 :C (v100 / label))
-                                                                                         :E (v95 / label)
-                                                                                         :C (v96 / label))))))
-                                                 :L (v59 / label)
-                                                 :H (v60 / label
-                                                         :S (v70 / label)
-                                                         :A (v71 / label
-                                                                 :E (v79 / label)
-                                                                 :C (v80 / label))
-                                                         :D (v72 / label
-                                                                 :R (v81 / label)
+                                                                                                 :E (v100 / label)
+                                                                                                 :C (v101 / label))
+                                                                                         :C (v97 / label))))))
+                                                 :L (v58 / label)
+                                                 :H (v59 / label
+                                                         :S (v72 / label)
+                                                         :A (v73 / label
+                                                                 :E (v81 / label)
                                                                  :C (v82 / label))
-                                                         :A v67))))))))
+                                                         :T (v74 / label
+                                                                 :R (v83 / label)
+                                                                 :C (v84 / label))
+                                                         :A v69))))))))

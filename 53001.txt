@@ -2,25 +2,23 @@
 # ::tok No transoceanic navigational undertaking has been conducted with more ability , no business dealings have been crowned with greater success .
 (v1 / label
     :H (v2 / label
-           :A (v4 / label
-                  :E (v10 / label)
-                  :E (v11 / label)
+           :D (v4 / label)
+           :A (v5 / label
                   :E (v12 / label)
-                  :C (v13 / label))
-           :P (v5 / label
+                  :E (v13 / label)
                   :C (v14 / label))
-           :A (v6 / label
+           :P (v6 / label)
+           :A (v7 / label
                   :R (v15 / label)
                   :E (v16 / label)
                   :C (v17 / label)))
     :H (v3 / label
-           :A (v7 / label
-                  :E (v18 / label)
-                  :E (v19 / label)
-                  :C (v20 / label))
-           :P (v8 / label
-                  :C (v21 / label))
+           :D (v8 / label)
            :A (v9 / label
-                  :R (v22 / label)
-                  :E (v23 / label)
-                  :C (v24 / label))))
+                  :E (v18 / label)
+                  :C (v19 / label))
+           :P (v10 / label)
+           :A (v11 / label
+                   :R (v20 / label)
+                   :E (v21 / label)
+                   :C (v22 / label))))

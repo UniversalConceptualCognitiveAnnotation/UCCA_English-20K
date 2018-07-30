@@ -2,29 +2,28 @@
 # ::tok Never did he object to buckling up his suitcase for any country whatever , China or the Congo , no matter how far off it was .
 (v1 / label
     :H (v2 / label
-           :D (v3 / label)
-           :P (v4 / label
-                  :C (v7 / label))
-           :A (v5 / label)
+           :T (v3 / label)
+           :A (v4 / label)
+           :P (v5 / label)
            :A (v6 / label
-                  :A v5
-                  :P (v8 / label
+                  :A v4
+                  :P (v7 / label)
+                  :A (v8 / label
+                         :E (v10 / label)
                          :C (v11 / label))
                   :A (v9 / label
-                         :E (v12 / label)
-                         :C (v13 / label))
-                  :A (v10 / label
-                          :R (v14 / label)
-                          :E (v15 / label)
-                          :C (v16 / label)
-                          :E (v17 / label)
-                          :E (v18 / label
-                                  :C (v20 / label)
-                                  :N (v21 / label)
-                                  :C (v22 / label
-                                          :E (v25 / label)
-                                          :C (v26 / label)))
-                          :E (v19 / label
-                                  :S (v23 / label
-                                          :C (v27 / label))
-                                  :A (v24 / label))))))
+                         :R (v12 / label)
+                         :E (v13 / label)
+                         :C (v14 / label)
+                         :E (v15 / label)
+                         :E (v16 / label
+                                 :C (v18 / label)
+                                 :N (v19 / label)
+                                 :C (v20 / label
+                                         :E (v25 / label)
+                                         :C (v26 / label)))
+                         :E (v17 / label
+                                 :D (v21 / label)
+                                 :D (v22 / label)
+                                 :S (v23 / label)
+                                 :A (v24 / label))))))

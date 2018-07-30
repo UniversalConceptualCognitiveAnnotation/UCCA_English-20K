@@ -1,5 +1,0 @@
-# ::id 318004
-# ::tok Very cordially yours , J . B . HOBSON , Secretary of the Navy .
-(v1 / label
-    :H (v2 / label)
-    :H (v3 / label))

@@ -1,34 +1,34 @@
 # ::id 43002
-# ::tok Now then , the biggest whales , those rorqual whales that frequent the waterways of the Aleutian Islands , have never exceeded a length of 56 meters \u2014 if they reach even that .
+# ::tok Now then , the biggest whales , those rorqual whales that frequent the waterways of the Aleutian Islands , have never exceeded a length of 56 meters - if they reach even that .
 (v1 / label
     :L (v2 / label)
     :H (v3 / label
            :A (v6 / label
-                  :E (v13 / label)
                   :E (v14 / label)
-                  :C (v15 / label)
-                  :E (v16 / label
-                          :E (v24 / label)
-                          :E (v25 / label)
-                          :C (v26 / label)
-                          :E (v27 / label
-                                  :A v26
-                                  :P (v30 / label)
-                                  :A (v31 / label
-                                          :E (v32 / label)
-                                          :C (v33 / label)
-                                          :R (v34 / label)
-                                          :E (v35 / label
+                  :E (v15 / label)
+                  :C (v16 / label)
+                  :E (v17 / label
+                          :E (v22 / label)
+                          :E (v23 / label)
+                          :C (v24 / label)
+                          :E (v25 / label
+                                  :A v24
+                                  :R (v28 / label)
+                                  :P (v29 / label)
+                                  :A (v30 / label
+                                          :E (v31 / label)
+                                          :C (v32 / label)
+                                          :R (v33 / label)
+                                          :E (v34 / label
+                                                  :E (v35 / label)
                                                   :E (v36 / label)
-                                                  :E (v37 / label)
-                                                  :C (v38 / label))))))
-           :P (v7 / label
-                  :C (v17 / label))
-           :D (v8 / label)
+                                                  :C (v37 / label))))))
+           :T (v7 / label)
+           :P (v8 / label)
            :A (v9 / label
                   :E (v18 / label
-                          :E (v28 / label)
-                          :C (v29 / label))
+                          :E (v26 / label)
+                          :C (v27 / label))
                   :R (v19 / label)
                   :E (v20 / label)
                   :C (v21 / label)))
@@ -36,6 +36,5 @@
     :H (v5 / label
            :A (v10 / label)
            :P (v11 / label)
-           :A (v12 / label
-                   :E (v22 / label)
-                   :C (v23 / label))))
+           :G (v12 / label)
+           :A (v13 / label)))

@@ -1,13 +1,61 @@
 # ::id 826005
-# ::tok ” “ As master wishes , ” Conseil replied serenely .
+# ::tok “ We have n’t a moment to lose . Pack as much into my trunk as you can , my traveling kit , my suits , shirts , and socks , do n’t bother counting , just squeeze it all in — and hurry !
 (v1 / label
     :H (v2 / label
-           :A (v4 / label)
-           :A (v5 / label)
-           :P (v6 / label))
-    :H (v3 / label
-           :A v2
-           :A (v7 / label)
-           :A (v8 / label)
-           :P (v9 / label)
-           :D (v10 / label)))
+           :A (v3 / label)
+           :P (v4 / label)
+           :A (v5 / label
+                  :H (v6 / label
+                         :A (v14 / label)
+                         :D (v15 / label)
+                         :D (v16 / label)
+                         :T (v17 / label
+                                 :E (v32 / label)
+                                 :C (v33 / label))
+                         :P (v18 / label))
+                  :H (v7 / label
+                         :P (v19 / label)
+                         :A (v20 / label)
+                         :A (v21 / label
+                                 :R (v34 / label)
+                                 :E (v35 / label)
+                                 :C (v36 / label))
+                         :A (v22 / label
+                                 :C (v37 / label
+                                         :E (v45 / label)
+                                         :E (v46 / label)
+                                         :C (v47 / label))
+                                 :C (v38 / label
+                                         :E (v48 / label)
+                                         :C (v49 / label))
+                                 :C (v39 / label
+                                         :C (v50 / label)
+                                         :E v45)
+                                 :N (v40 / label)
+                                 :C (v41 / label
+                                         :C (v51 / label)
+                                         :E v45)))
+                  :L (v8 / label)
+                  :H (v9 / label
+                         :A (v23 / label)
+                         :D (v24 / label
+                                 :E (v42 / label)
+                                 :C v19)
+                         :P v19)
+                  :H (v10 / label
+                          :D (v25 / label)
+                          :D (v26 / label)
+                          :P (v27 / label)
+                          :A v23
+                          :A v22)
+                  :H (v11 / label
+                          :D (v28 / label)
+                          :P (v29 / label)
+                          :A (v30 / label
+                                  :C (v43 / label)
+                                  :E (v44 / label))
+                          :A v23)
+                  :L (v12 / label)
+                  :H (v13 / label
+                          :P (v31 / label)
+                          :A v23))))

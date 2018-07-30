@@ -1,45 +1,40 @@
 # ::id 996000
 # ::tok “If master will permit my saying so,” Conseil replied, “I never expected to win that prize, and the Union government could have promised $100,000.00 and been none the poorer.”
 (v1 / label
-    :L (v2 / label)
-    :H (v3 / label
-           :A (v10 / label)
-           :P (v11 / label
-                   :E (v27 / label)
-                   :C (v28 / label))
-           :A (v12 / label)
-           :A (v13 / label
-                   :A v12
-                   :P (v29 / label)
-                   :A (v30 / label)))
-    :H (v4 / label
-           :A v3
-           :A (v14 / label)
-           :P (v15 / label))
-    :H (v5 / label
-           :A (v16 / label)
-           :D (v17 / label)
-           :P (v18 / label
-                   :E (v31 / label)
-                   :C (v32 / label))
-           :A (v19 / label
-                   :E (v33 / label)
-                   :C (v34 / label)))
-    :L (v6 / label)
-    :H (v7 / label
-           :A (v20 / label
-                   :E (v35 / label)
-                   :E (v36 / label)
-                   :C (v26 / label))
-           :P (v21 / label
-                   :E (v37 / label)
-                   :C (v38 / label))
-           :A (v22 / label))
-    :L (v8 / label)
-    :H (v9 / label
-           :S (v23 / label)
-           :D (v24 / label)
-           :A (v25 / label
-                   :E (v39 / label)
-                   :C (v40 / label))
-           :A v26))
+    :H (v2 / label
+           :A (v3 / label
+                  :L (v6 / label)
+                  :H (v7 / label
+                         :A (v13 / label)
+                         :G (v14 / label)
+                         :D (v15 / label)
+                         :P (v16 / label)
+                         :A (v17 / label
+                                 :A (v29 / label)
+                                 :P (v30 / label)))
+                  :H (v8 / label
+                         :A (v18 / label)
+                         :T (v19 / label)
+                         :D (v20 / label)
+                         :P (v21 / label)
+                         :A (v22 / label
+                                 :E (v31 / label)
+                                 :C (v32 / label)))
+                  :L (v9 / label)
+                  :H (v10 / label
+                          :A (v23 / label
+                                  :E (v33 / label)
+                                  :E (v34 / label)
+                                  :C (v35 / label))
+                          :D (v24 / label)
+                          :P (v25 / label)
+                          :A (v26 / label))
+                  :L (v11 / label)
+                  :H (v12 / label
+                          :D (v27 / label)
+                          :S (v28 / label
+                                  :E (v36 / label)
+                                  :C (v37 / label))
+                          :A v18))
+           :A (v4 / label)
+           :P (v5 / label)))

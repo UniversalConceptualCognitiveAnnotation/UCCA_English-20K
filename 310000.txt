@@ -6,13 +6,14 @@
            :A (v5 / label
                   :E (v11 / label)
                   :C (v10 / label))
-           :P (v6 / label
-                  :C (v12 / label))
-           :D (v7 / label))
+           :D (v6 / label)
+           :P (v7 / label))
     :H (v3 / label
            :P (v8 / label)
            :A (v9 / label
-                  :E (v13 / label)
-                  :E (v14 / label)
-                  :C (v15 / label))
+                  :A (v12 / label)
+                  :P (v13 / label
+                          :E (v15 / label)
+                          :C (v16 / label))
+                  :D (v14 / label))
            :A v10))

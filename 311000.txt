@@ -1,17 +1,17 @@
 # ::id 311000
-# ::tok But I mustn ’t let these fantasies run away with me !
+# ::tok But I must n’t let these fantasies run away with me !
 (v1 / label
     :L (v2 / label)
     :H (v3 / label
            :A (v4 / label)
-           :P (v5 / label
-                  :E (v9 / label)
-                  :E (v10 / label)
-                  :C (v11 / label))
+           :D (v5 / label)
            :D (v6 / label)
-           :A (v7 / label
-                  :E (v12 / label)
-                  :C (v13 / label))
+           :P (v7 / label)
            :A (v8 / label
-                  :R (v14 / label)
-                  :C (v15 / label))))
+                  :A (v9 / label
+                         :E (v12 / label)
+                         :C (v13 / label))
+                  :P (v10 / label)
+                  :A (v11 / label
+                          :R (v14 / label)
+                          :C (v15 / label)))))

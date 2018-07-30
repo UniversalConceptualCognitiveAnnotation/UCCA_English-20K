@@ -1,30 +1,28 @@
 # ::id 884000
 # ::tok As I said , Commander Farragut had carefully equipped his ship with all the gear needed to fish for a gigantic cetacean .
 (v1 / label
-    :G (v2 / label)
-    :H (v3 / label
+    :H (v2 / label
+           :G (v3 / label)
            :A (v4 / label
                   :E (v9 / label)
                   :C (v10 / label))
-           :P (v5 / label
-                  :C (v11 / label))
-           :D (v6 / label)
+           :D (v5 / label)
+           :P (v6 / label)
            :A (v7 / label
-                  :E (v12 / label)
-                  :C (v13 / label))
+                  :E (v11 / label)
+                  :C (v12 / label))
            :A (v8 / label
-                  :R (v14 / label)
-                  :E (v15 / label)
-                  :E (v16 / label)
-                  :C (v17 / label)
-                  :E (v18 / label
-                          :A v17
-                          :A (v19 / label)
-                          :P (v20 / label
-                                  :E (v22 / label)
-                                  :C (v23 / label))
-                          :A (v21 / label
-                                  :R (v24 / label)
-                                  :E (v25 / label)
-                                  :E (v26 / label)
-                                  :C (v27 / label))))))
+                  :R (v13 / label)
+                  :A (v14 / label
+                          :E (v17 / label
+                                  :S (v25 / label)
+                                  :A (v20 / label))
+                          :E (v18 / label)
+                          :E (v19 / label)
+                          :C v20)
+                  :P (v15 / label)
+                  :A (v16 / label
+                          :R (v21 / label)
+                          :E (v22 / label)
+                          :E (v23 / label)
+                          :C (v24 / label)))))

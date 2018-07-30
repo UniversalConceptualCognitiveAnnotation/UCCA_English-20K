@@ -1,26 +1,38 @@
 # ::id 895000
-# ::tok “ Ned , ” I asked him , “ how can you still doubt the reality of this cetacean we ’re after ?
+# ::tok “ Ned , ” I asked him , “ how can you still doubt the reality of this cetacean we ’re after ? Do you have any particular reasons for being so skeptical ? ”
 (v1 / label
     :H (v2 / label
+           :A (v3 / label
+                  :H (v7 / label
+                         :G (v9 / label)
+                         :D (v10 / label)
+                         :D (v11 / label)
+                         :A (v12 / label)
+                         :T (v13 / label)
+                         :P (v14 / label)
+                         :A (v15 / label
+                                 :S (v21 / label
+                                         :E (v27 / label)
+                                         :C (v28 / label))
+                                 :A (v22 / label
+                                         :R (v29 / label)
+                                         :E (v30 / label)
+                                         :C (v31 / label)
+                                         :E (v32 / label
+                                                 :A v31
+                                                 :A (v33 / label)
+                                                 :P (v34 / label)))))
+                  :H (v8 / label
+                         :A (v16 / label)
+                         :D (v17 / label)
+                         :P (v18 / label
+                                 :E (v23 / label)
+                                 :C (v24 / label))
+                         :D (v19 / label)
+                         :A (v20 / label
+                                 :A v16
+                                 :D (v25 / label)
+                                 :S (v26 / label))))
            :A (v4 / label)
-           :P (v5 / label
-                  :E (v12 / label)
-                  :C (v13 / label))
-           :D (v6 / label)
-           :A (v7 / label
-                  :E (v14 / label)
-                  :C (v15 / label)
-                  :E (v16 / label
-                          :R (v17 / label)
-                          :E (v18 / label)
-                          :C (v19 / label)
-                          :E (v20 / label
-                                  :A v19
-                                  :A (v21 / label)
-                                  :P (v22 / label
-                                          :C (v23 / label))))))
-    :H (v3 / label
-           :A (v8 / label)
-           :A (v9 / label)
-           :P (v10 / label)
-           :A (v11 / label)))
+           :P (v5 / label)
+           :A (v6 / label)))

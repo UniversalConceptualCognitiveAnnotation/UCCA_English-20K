@@ -1,43 +1,38 @@
 # ::id 48001
 # ::tok But now it was no longer an issue of a scientific problem to be solved , but a quite real and serious danger to be avoided .
 (v1 / label
-    :L (v2 / label
-           :E (v6 / label)
-           :C (v7 / label))
+    :L (v2 / label)
     :H (v3 / label
-           :A (v8 / label)
-           :S (v9 / label)
-           :D (v10 / label
-                   :E (v13 / label)
-                   :C (v14 / label))
-           :A (v11 / label
-                   :A (v15 / label)
-                   :A (v16 / label
-                           :E (v21 / label)
-                           :C (v22 / label)
-                           :E (v23 / label
-                                   :R (v29 / label)
-                                   :E (v30 / label)
-                                   :E (v31 / label)
-                                   :C (v32 / label)))
-                   :P (v17 / label
-                           :C (v24 / label))))
+           :T (v6 / label)
+           :A (v7 / label)
+           :D (v8 / label
+                  :E (v13 / label)
+                  :C (v14 / label))
+           :S (v9 / label
+                  :E (v15 / label)
+                  :C (v16 / label))
+           :A (v10 / label
+                   :R (v17 / label)
+                   :A (v18 / label
+                           :E (v23 / label)
+                           :E (v24 / label)
+                           :C (v25 / label))
+                   :P (v19 / label)))
     :L (v4 / label)
     :H (v5 / label
-           :A (v12 / label
-                   :A (v18 / label)
-                   :A (v19 / label
-                           :E (v25 / label)
-                           :E (v26 / label
-                                   :C (v33 / label
-                                           :E (v36 / label)
-                                           :C (v37 / label))
-                                   :N (v34 / label)
-                                   :C (v35 / label
-                                           :C (v38 / label)
-                                           :E v36))
-                           :C (v27 / label))
-                   :P (v20 / label
-                           :C (v28 / label)))
-           :A v8
-           :S v9))
+           :A (v11 / label
+                   :A (v20 / label)
+                   :A (v21 / label
+                           :E (v26 / label)
+                           :E (v27 / label
+                                   :C (v29 / label
+                                           :E (v32 / label)
+                                           :C (v33 / label))
+                                   :N (v30 / label)
+                                   :C (v31 / label
+                                           :C (v34 / label)
+                                           :E v32))
+                           :C (v28 / label))
+                   :P (v22 / label))
+           :A v7
+           :S (v12 / label)))

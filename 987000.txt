@@ -1,82 +1,76 @@
 # ::id 987000
-# ::tok But this futile search couldn’t drag on much longer. The Abraham Lincoln had done everything it could to succeed and had no reason to blame itself. Never had the crew of an American naval craft shown more patience and zeal; they weren’t responsible for this failure; there was nothing to do but go home.
+# ::tok But this futile search could n’t drag on much longer. The Abraham Lincoln had done everything it could to succeed and had no reason to blame itself. Never had the crew of an American naval craft shown more patience and zeal; they were n’t responsible for this failure; there was nothing to do but go home.
 (v1 / label
     :L (v2 / label)
     :H (v3 / label
            :A (v11 / label
-                   :E (v33 / label)
-                   :E (v34 / label)
-                   :C (v35 / label
-                           :A (v59 / label)
-                           :P (v60 / label)))
-           :P (v12 / label
-                   :E (v36 / label)
-                   :C (v37 / label))
-           :D (v13 / label
-                   :E (v38 / label)
-                   :C (v39 / label)))
+                   :A (v36 / label)
+                   :P (v37 / label
+                           :E (v55 / label)
+                           :C (v56 / label))
+                   :D (v38 / label))
+           :D (v12 / label)
+           :D (v13 / label)
+           :P (v14 / label)
+           :T (v15 / label
+                   :E (v39 / label)
+                   :C (v40 / label)))
     :H (v4 / label
-           :A (v14 / label
-                   :E (v40 / label)
-                   :C (v18 / label))
-           :P (v15 / label
-                   :C (v41 / label))
            :A (v16 / label
+                   :E (v41 / label)
+                   :C (v20 / label))
+           :P (v17 / label)
+           :A (v18 / label
                    :C (v42 / label)
                    :E (v43 / label
+                           :P v17
                            :A v42
-                           :A (v61 / label)
-                           :P (v62 / label
-                                   :E (v74 / label)
-                                   :C v41))))
+                           :A (v57 / label)
+                           :D (v58 / label))))
     :H (v5 / label
-           :P (v17 / label
-                   :C (v44 / label))
-           :A v18)
+           :P (v19 / label)
+           :A v20)
     :L (v6 / label)
     :H (v7 / label
-           :P (v19 / label
-                   :E (v45 / label
-                           :C (v63 / label))
-                   :C (v46 / label))
-           :D (v20 / label)
-           :A (v21 / label)
-           :A v18)
+           :D (v21 / label)
+           :A (v22 / label)
+           :P (v23 / label)
+           :A (v24 / label)
+           :A v20)
     :H (v8 / label
-           :D (v22 / label)
-           :P (v23 / label
-                   :C (v47 / label))
-           :A (v24 / label
-                   :E (v48 / label)
-                   :C (v49 / label)
-                   :E (v50 / label
-                           :R (v64 / label)
-                           :E (v65 / label)
-                           :E (v66 / label)
-                           :E (v67 / label)
-                           :C (v68 / label)))
-           :A (v25 / label
-                   :C (v51 / label
-                           :E (v69 / label)
-                           :C (v70 / label))
-                   :N (v52 / label)
-                   :C (v53 / label
-                           :C (v71 / label)
-                           :E v69)))
+           :T (v25 / label)
+           :A (v26 / label
+                   :E (v44 / label)
+                   :C (v45 / label)
+                   :E (v46 / label
+                           :R (v59 / label)
+                           :E (v60 / label)
+                           :E (v61 / label)
+                           :E (v62 / label)
+                           :C (v63 / label)))
+           :P (v27 / label)
+           :A (v28 / label
+                   :E (v47 / label)
+                   :C (v48 / label
+                           :C (v64 / label)
+                           :N (v65 / label)
+                           :C (v66 / label))))
     :H (v9 / label
-           :A (v26 / label)
-           :D (v27 / label)
-           :S (v28 / label)
-           :A (v29 / label
-                   :R (v54 / label)
-                   :E (v55 / label)
-                   :C (v56 / label
-                           :A (v72 / label)
-                           :P (v73 / label))))
+           :A (v29 / label)
+           :D (v30 / label)
+           :S (v31 / label)
+           :A (v32 / label
+                   :R (v49 / label)
+                   :E (v50 / label)
+                   :C (v51 / label
+                           :A (v67 / label)
+                           :P (v68 / label))))
     :H (v10 / label
-            :P (v30 / label
-                    :E (v57 / label)
-                    :C (v58 / label))
-            :D (v31 / label)
-            :A (v32 / label)
-            :A v26))
+            :A (v33 / label)
+            :P (v34 / label)
+            :A (v35 / label
+                    :R (v52 / label)
+                    :P (v53 / label)
+                    :A (v54 / label)
+                    :A v29)
+            :A v29))

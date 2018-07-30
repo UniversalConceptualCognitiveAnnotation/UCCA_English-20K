@@ -2,28 +2,28 @@
 # ::tok The Abraham Lincoln replied by three times lowering and hoisting the American flag , whose thirty-nine stars gleamed from the gaff of the mizzen sail ; then , changing speed to take the buoy - marked channel that curved into the inner bay formed by the spit of Sandy Hook , it hugged this sand - covered strip of land where thousands of spectators acclaimed us one more time .
 (v1 / label
     :H (v2 / label
-           :A (v9 / label)
-           :A (v10 / label
-                   :E (v23 / label)
-                   :C (v15 / label))
-           :P (v11 / label))
+           :A (v10 / label)
+           :A (v11 / label
+                   :E (v24 / label)
+                   :C (v16 / label))
+           :P (v12 / label))
     :L (v3 / label)
     :H (v4 / label
-           :D (v12 / label
-                   :E (v24 / label)
-                   :C (v25 / label))
-           :P (v13 / label
-                   :C (v26 / label)
-                   :N (v27 / label)
-                   :C (v28 / label))
-           :A (v14 / label
-                   :E (v29 / label)
+           :D (v13 / label
+                   :E (v25 / label)
+                   :C (v26 / label))
+           :P (v14 / label
+                   :C (v27 / label)
+                   :N (v28 / label)
+                   :C (v29 / label))
+           :A (v15 / label
                    :E (v30 / label)
-                   :C (v31 / label)
-                   :E (v32 / label
+                   :E (v31 / label)
+                   :C (v32 / label)
+                   :E (v33 / label
                            :R (v43 / label)
                            :A (v44 / label
-                                   :E v31
+                                   :E v32
                                    :E (v61 / label)
                                    :C (v62 / label))
                            :P (v45 / label)
@@ -36,17 +36,16 @@
                                            :E (v78 / label)
                                            :E (v79 / label)
                                            :C (v80 / label)))))
-           :A v15)
+           :A v16)
     :L (v5 / label)
     :H (v6 / label
-           :A (v16 / label)
-           :P (v17 / label)
-           :A (v18 / label))
-    :H (v7 / label
-           :A v16
-           :P (v19 / label
-                   :C (v33 / label))
-           :A (v20 / label
+           :A (v17 / label)
+           :P (v18 / label)
+           :A (v19 / label))
+    :L (v7 / label)
+    :H (v8 / label
+           :P (v20 / label)
+           :A (v21 / label
                    :E (v34 / label)
                    :E (v35 / label
                            :E (v47 / label)
@@ -71,14 +70,15 @@
                                                    :E (v88 / label
                                                            :R (v89 / label)
                                                            :C (v90 / label))))))))
-    :H (v8 / label
-           :A v16
-           :P (v21 / label)
-           :A (v22 / label
+    :H (v9 / label
+           :A v17
+           :P (v22 / label)
+           :A (v23 / label
                    :E (v38 / label)
                    :E (v39 / label
-                           :E (v52 / label)
-                           :C (v53 / label))
+                           :A (v41 / label)
+                           :A (v52 / label)
+                           :S (v53 / label))
                    :E (v40 / label
                            :R (v54 / label)
                            :A (v55 / label
@@ -92,7 +92,7 @@
                                    :E (v74 / label)
                                    :E (v75 / label)
                                    :C (v76 / label))
-                           :A (v41 / label))
+                           :A v41)
                    :C v41
                    :E (v42 / label
                            :R (v59 / label)

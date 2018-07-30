@@ -1,13 +1,14 @@
 # ::id 825000
 # ::tok To be sure , I had confidence in this devoted lad .
 (v1 / label
-    :L (v2 / label)
-    :H (v3 / label
+    :H (v2 / label
+           :G (v3 / label)
            :A (v4 / label)
-           :P (v5 / label
-                  :C (v7 / label))
+           :P (v5 / label)
            :A (v6 / label
-                  :R (v8 / label)
-                  :E (v9 / label)
-                  :E (v10 / label)
-                  :C (v11 / label))))
+                  :R (v7 / label)
+                  :E (v8 / label)
+                  :E (v9 / label
+                         :A (v10 / label)
+                         :S (v11 / label))
+                  :C v10)))

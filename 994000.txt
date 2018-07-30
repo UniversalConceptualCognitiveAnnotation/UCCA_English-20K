@@ -2,49 +2,56 @@
 # ::tok Observing Conseil, I discovered that, just barely, the gallant lad had fallen under the general influence. At least so I thought. Perhaps his nerves were twitching with curiosity for the first time in history.
 (v1 / label
     :H (v2 / label
-           :A (v7 / label)
-           :P (v8 / label)
-           :A (v9 / label))
-    :H (v3 / label
-           :A v7
-           :P (v10 / label)
-           :A (v11 / label
-                   :D (v22 / label
-                           :E (v36 / label)
-                           :C (v37 / label))
-                   :A (v23 / label
-                           :E (v38 / label)
-                           :E (v39 / label)
-                           :C (v40 / label))
-                   :P (v24 / label
-                           :C (v41 / label))
-                   :A (v25 / label
-                           :R (v42 / label)
-                           :E (v43 / label)
-                           :E (v44 / label)
-                           :C (v45 / label))))
-    :L (v4 / label
-           :R (v12 / label)
-           :C (v13 / label))
+           :A (v6 / label
+                  :E (v19 / label
+                          :A (v20 / label)
+                          :P (v35 / label)
+                          :A (v36 / label))
+                  :C v20)
+           :P (v7 / label)
+           :A (v8 / label
+                  :R (v21 / label)
+                  :D (v22 / label
+                          :E (v37 / label)
+                          :C (v38 / label))
+                  :A (v23 / label
+                          :E (v39 / label)
+                          :E (v40 / label
+                                  :A (v41 / label)
+                                  :S (v49 / label))
+                          :C v41)
+                  :P (v24 / label)
+                  :A (v25 / label
+                          :R (v42 / label)
+                          :E (v43 / label)
+                          :E (v44 / label)
+                          :C (v45 / label
+                                  :D v44
+                                  :P (v50 / label)
+                                  :A v41))))
+    :L (v3 / label
+           :R (v9 / label)
+           :C (v10 / label))
+    :H (v4 / label
+           :A (v11 / label)
+           :A (v12 / label)
+           :P (v13 / label))
     :H (v5 / label
-           :A (v14 / label)
-           :A (v15 / label)
-           :P (v16 / label))
-    :H (v6 / label
-           :D (v17 / label)
-           :A (v18 / label
+           :D (v14 / label)
+           :A (v15 / label
                    :E (v26 / label)
                    :C (v27 / label))
-           :P (v19 / label
-                   :C (v28 / label))
-           :A (v20 / label
-                   :R (v29 / label)
-                   :C (v30 / label))
-           :D (v21 / label
-                   :R (v31 / label)
+           :P (v16 / label)
+           :A (v17 / label
+                   :R (v28 / label)
+                   :C (v29 / label
+                           :S (v46 / label)
+                           :A v27))
+           :T (v18 / label
+                   :R (v30 / label)
+                   :E (v31 / label)
                    :E (v32 / label)
-                   :E (v33 / label)
-                   :C (v34 / label)
-                   :E (v35 / label
-                           :R (v46 / label)
-                           :C (v47 / label)))))
+                   :C (v33 / label)
+                   :E (v34 / label
+                           :R (v47 / label)
+                           :C (v48 / label)))))

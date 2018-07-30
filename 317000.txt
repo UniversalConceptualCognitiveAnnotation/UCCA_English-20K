@@ -2,31 +2,29 @@
 # ::tok I received a letter three hours before the Abraham Lincoln left its Brooklyn pier ; 1 the letter read as follows :
 (v1 / label
     :H (v2 / label
-           :A (v6 / label)
-           :P (v7 / label)
+           :A (v4 / label)
+           :P (v5 / label)
+           :A (v6 / label
+                  :E (v11 / label)
+                  :C (v12 / label))
+           :A (v7 / label
+                  :T (v13 / label
+                          :E (v21 / label)
+                          :C (v22 / label)
+                          :R (v23 / label))
+                  :A (v14 / label
+                          :E (v24 / label)
+                          :C (v25 / label))
+                  :P (v15 / label)
+                  :A (v16 / label
+                          :E (v26 / label)
+                          :E (v27 / label)
+                          :C (v28 / label))))
+    :H (v3 / label
            :A (v8 / label
-                  :E (v18 / label)
-                  :C (v19 / label)))
-    :L (v3 / label
-           :E (v9 / label
-                  :E (v20 / label)
-                  :C (v21 / label))
-           :C (v10 / label))
-    :H (v4 / label
-           :A (v11 / label
-                   :E (v22 / label)
-                   :C (v23 / label))
-           :P (v12 / label)
-           :A (v13 / label
-                   :E (v24 / label)
-                   :E (v25 / label)
-                   :C (v26 / label)))
-    :H (v5 / label
-           :A (v14 / label)
-           :A (v15 / label
-                   :E (v27 / label)
-                   :C (v28 / label))
-           :P (v16 / label)
-           :A (v17 / label
-                   :R (v29 / label)
-                   :C (v30 / label))))
+                  :E (v17 / label)
+                  :C (v18 / label))
+           :P (v9 / label)
+           :A (v10 / label
+                   :R (v19 / label)
+                   :C (v20 / label))))

@@ -1,14 +1,15 @@
 # ::id 903000
 # ::tok “ Oh really ? ” Ned said , tipping me a wink .
 (v1 / label
-    :H (v2 / label)
-    :H (v3 / label
-           :A v2
-           :A (v5 / label)
-           :P (v6 / label))
-    :H (v4 / label
-           :P (v7 / label
-                  :E (v9 / label)
-                  :E (v10 / label)
-                  :C (v11 / label))
-           :A (v8 / label)))
+    :H (v2 / label
+           :A (v3 / label
+                  :A (v6 / label)
+                  :S (v7 / label)
+                  :D (v8 / label))
+           :A (v4 / label
+                  :C (v9 / label)
+                  :E (v10 / label
+                          :A v9
+                          :P (v11 / label)
+                          :A (v12 / label)))
+           :P (v5 / label)))

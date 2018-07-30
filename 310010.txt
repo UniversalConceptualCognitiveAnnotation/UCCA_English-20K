@@ -1,0 +1,40 @@
+# ::id 310010
+# ::tok Could n’t the heart of the ocean hide the last - remaining varieties of these titanic species , for whom years are centuries and centuries millennia ?
+(v1 / label
+    :H (v2 / label
+           :D (v4 / label)
+           :D (v5 / label)
+           :A (v6 / label
+                  :E (v11 / label)
+                  :C (v12 / label)
+                  :E (v13 / label
+                          :R (v18 / label)
+                          :E (v19 / label)
+                          :C (v20 / label)))
+           :P (v7 / label)
+           :A (v8 / label
+                  :E (v14 / label)
+                  :C (v15 / label)))
+    :H (v3 / label
+           :P (v9 / label)
+           :A (v10 / label
+                   :C (v16 / label)
+                   :E (v17 / label
+                           :R (v21 / label)
+                           :E (v22 / label)
+                           :E (v23 / label)
+                           :C (v24 / label)
+                           :E (v25 / label
+                                   :R (v26 / label
+                                           :R (v30 / label)
+                                           :C (v31 / label))
+                                   :H (v27 / label
+                                           :A (v32 / label)
+                                           :S (v33 / label)
+                                           :A (v34 / label))
+                                   :L (v28 / label)
+                                   :H (v29 / label
+                                           :A (v35 / label)
+                                           :A (v36 / label)
+                                           :S v33))))
+           :A v6))

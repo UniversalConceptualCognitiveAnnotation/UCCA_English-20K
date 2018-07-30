@@ -1,10 +1,9 @@
 # ::id 981001
 # ::tok Obviously we were just groping blindly .
 (v1 / label
-    :L (v2 / label)
-    :H (v3 / label
+    :H (v2 / label
+           :G (v3 / label)
            :A (v4 / label)
-           :P (v5 / label
-                  :C (v8 / label))
-           :D (v6 / label)
+           :D (v5 / label)
+           :P (v6 / label)
            :D (v7 / label)))

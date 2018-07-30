@@ -2,22 +2,31 @@
 # ::tok “ With all due respect to master , ” Conseil replied , “ as comfortable as a hermit crab inside the shell of a whelk . ”
 (v1 / label
     :H (v2 / label
-           :S (v4 / label
-                  :C (v10 / label))
-           :A (v5 / label
-                  :E (v11 / label)
-                  :E (v12 / label
-                          :R (v15 / label)
-                          :E (v16 / label)
-                          :C (v17 / label)
-                          :E (v18 / label
-                                  :R (v19 / label)
-                                  :E (v20 / label)
-                                  :C (v21 / label)))
-                  :E (v13 / label)
-                  :C (v14 / label)))
-    :H (v3 / label
-           :A (v6 / label)
-           :A (v7 / label)
-           :A (v8 / label)
-           :P (v9 / label)))
+           :A (v3 / label
+                  :H (v6 / label
+                         :A (v8 / label)
+                         :R (v9 / label)
+                         :D (v10 / label)
+                         :S (v11 / label)
+                         :G (v12 / label))
+                  :H (v7 / label
+                         :A (v13 / label)
+                         :D (v14 / label)
+                         :S (v15 / label)
+                         :D (v16 / label)
+                         :A (v17 / label
+                                 :S v15
+                                 :A (v18 / label
+                                         :E (v20 / label)
+                                         :E (v21 / label)
+                                         :C (v22 / label))
+                                 :A (v19 / label
+                                         :R (v23 / label)
+                                         :E (v24 / label)
+                                         :C (v25 / label)
+                                         :E (v26 / label
+                                                 :R (v27 / label)
+                                                 :E (v28 / label)
+                                                 :C (v29 / label))))))
+           :A (v4 / label)
+           :P (v5 / label)))

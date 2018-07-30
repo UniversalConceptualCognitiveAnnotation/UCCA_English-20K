@@ -1,41 +1,38 @@
 # ::id 969000
-# ::tok Off the Falkland Islands on June 30 , the frigate came in contact with a fleet of American whalers , and we learned that they hadn ’t seen the narwhale .
+# ::tok Off the Falkland Islands on June 30 , the frigate came in contact with a fleet of American whalers , and we learned that they had n’t seen the narwhale .
 (v1 / label
     :H (v2 / label
-           :A (v6 / label)
-           :S (v7 / label)
+           :A (v5 / label
+                  :E (v12 / label
+                          :A (v14 / label)
+                          :S (v26 / label)
+                          :A (v27 / label
+                                  :E (v33 / label)
+                                  :E (v34 / label)
+                                  :C (v35 / label)))
+                  :E (v13 / label)
+                  :C v14)
+           :T (v6 / label
+                  :R (v15 / label)
+                  :C (v16 / label))
+           :P (v7 / label)
            :A (v8 / label
-                  :E (v16 / label)
-                  :E (v17 / label)
-                  :C (v18 / label))
-           :D (v9 / label
-                  :R (v19 / label)
-                  :C (v20 / label)))
-    :H (v3 / label
-           :A (v10 / label
-                   :E (v21 / label)
-                   :C v6)
-           :P (v11 / label
-                   :E (v22 / label)
-                   :R (v23 / label)
-                   :C (v24 / label))
-           :A (v12 / label
-                   :R (v25 / label)
-                   :E (v26 / label)
-                   :C (v27 / label)
-                   :E (v28 / label
-                           :R (v33 / label)
-                           :E (v34 / label)
-                           :C (v35 / label))))
-    :L (v4 / label)
-    :H (v5 / label
-           :A (v13 / label)
-           :P (v14 / label)
-           :A (v15 / label
-                   :A (v29 / label)
-                   :P (v30 / label
-                           :C (v36 / label))
-                   :D (v31 / label)
-                   :A (v32 / label
-                           :E (v37 / label)
-                           :C (v38 / label)))))
+                  :R (v17 / label)
+                  :E (v18 / label)
+                  :C (v19 / label)
+                  :E (v20 / label
+                          :R (v28 / label)
+                          :E (v29 / label)
+                          :C (v30 / label))))
+    :L (v3 / label)
+    :H (v4 / label
+           :A (v9 / label)
+           :P (v10 / label)
+           :A (v11 / label
+                   :R (v21 / label)
+                   :A (v22 / label)
+                   :D (v23 / label)
+                   :P (v24 / label)
+                   :A (v25 / label
+                           :E (v31 / label)
+                           :C (v32 / label)))))

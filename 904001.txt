@@ -1,17 +1,20 @@
 # ::id 904001
-# ::tok “ You can make figures do anything you want !
+# ::tok ” “ In business , Ned , but not in mathematics .
 (v1 / label
     :H (v2 / label
-           :A (v3 / label)
-           :P (v4 / label
-                  :E (v7 / label)
-                  :C (v8 / label))
-           :A (v5 / label)
-           :A (v6 / label
-                  :P (v9 / label)
-                  :A (v10 / label
-                          :A v3
-                          :A (v12 / label)
-                          :A (v13 / label)
-                          :P (v14 / label))
-                  :A (v11 / label))))
+           :H (v3 / label
+                  :P (v6 / label)
+                  :A (v7 / label)
+                  :A (v8 / label
+                         :R (v15 / label)
+                         :C (v16 / label))
+                  :G (v9 / label))
+           :L (v4 / label)
+           :H (v5 / label
+                  :A (v10 / label)
+                  :P (v11 / label)
+                  :A (v12 / label)
+                  :D (v13 / label)
+                  :A (v14 / label
+                          :R (v17 / label)
+                          :C (v18 / label)))))

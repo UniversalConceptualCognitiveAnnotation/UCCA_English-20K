@@ -1,24 +1,24 @@
 # ::id 310007
-# ::tok Our Creator cast them using a colossal mold that time has gradually made smaller .
+# ::tok Formerly , in prehistoric days , land animals ( quadrupeds , apes , reptiles , birds ) were built on a gigantic scale .
 (v1 / label
     :H (v2 / label
-           :A (v4 / label
-                  :E (v9 / label)
-                  :C (v10 / label))
-           :P (v5 / label)
-           :A (v6 / label))
-    :H (v3 / label
+           :A (v3 / label)
+           :T (v4 / label)
+           :T (v5 / label
+                  :R (v9 / label)
+                  :E (v10 / label)
+                  :C (v11 / label))
+           :A (v6 / label
+                  :E (v12 / label
+                          :C (v19 / label)
+                          :C (v20 / label)
+                          :C (v21 / label)
+                          :C (v22 / label))
+                  :E (v13 / label)
+                  :C (v14 / label))
            :P (v7 / label)
            :A (v8 / label
-                  :E (v11 / label)
-                  :E (v12 / label)
-                  :C (v13 / label)
-                  :E (v14 / label
-                          :A v13
-                          :R (v15 / label)
-                          :A (v16 / label)
-                          :P (v17 / label
-                                  :E (v19 / label)
-                                  :C (v20 / label))
-                          :D (v18 / label)))
-           :A v4))
+                  :R (v15 / label)
+                  :E (v16 / label)
+                  :E (v17 / label)
+                  :C (v18 / label))))

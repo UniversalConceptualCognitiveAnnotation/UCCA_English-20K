@@ -1,43 +1,43 @@
 # ::id 52002
-# ::tok Eight years later , the company \u2019s assets were increased by four 650 - horsepower ships at 1,820 metric tons , and in two more years , by two other vessels of still greater power and tonnage .
+# ::tok Eight years later , the company 's assets were increased by four 650 - horsepower ships at 1,820 metric tons , and in two more years , by two other vessels of still greater power and tonnage .
 (v1 / label
     :H (v2 / label
-           :D (v5 / label
+           :T (v5 / label
                   :E (v11 / label)
                   :C (v12 / label)
                   :R (v13 / label))
            :A (v6 / label
                   :E (v14 / label
-                          :E (v31 / label)
-                          :C (v32 / label))
+                          :E (v30 / label)
+                          :C (v31 / label)
+                          :R (v32 / label))
                   :C (v15 / label))
-           :P (v7 / label
-                  :C (v16 / label))
+           :P (v7 / label)
            :A (v8 / label
-                  :R (v17 / label)
-                  :E (v18 / label)
-                  :E (v19 / label
+                  :R (v16 / label)
+                  :E (v17 / label)
+                  :E (v18 / label
                           :E (v33 / label)
                           :C (v34 / label))
-                  :C (v20 / label)
-                  :E (v21 / label
+                  :C (v19 / label)
+                  :E (v20 / label
                           :R (v35 / label)
                           :E (v36 / label)
                           :E (v37 / label)
                           :C (v38 / label))))
     :L (v3 / label)
     :H (v4 / label
-           :D (v9 / label
-                  :R (v22 / label)
+           :T (v9 / label
+                  :R (v21 / label)
+                  :E (v22 / label)
                   :E (v23 / label)
-                  :E (v24 / label)
-                  :C (v25 / label))
+                  :C (v24 / label))
            :A (v10 / label
-                   :R (v26 / label)
+                   :R (v25 / label)
+                   :E (v26 / label)
                    :E (v27 / label)
-                   :E (v28 / label)
-                   :C (v29 / label)
-                   :E (v30 / label
+                   :C (v28 / label)
+                   :E (v29 / label
                            :C (v39 / label
                                    :R (v42 / label)
                                    :E (v43 / label)

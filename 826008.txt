@@ -1,10 +1,25 @@
 # ::id 826008
-# ::tok ” “ What about master ’s collections ?
+# ::tok ” “ What ! The archaeotherium , hyracotherium , oreodonts , cheiropotamus , and master ’s other fossil skeletons ?
 (v1 / label
     :H (v2 / label
-           :S (v3 / label)
-           :A (v4 / label
-                  :E (v5 / label
-                         :C (v7 / label)
-                         :R (v8 / label))
-                  :C (v6 / label))))
+           :A (v3 / label)
+           :P (v4 / label)
+           :A (v5 / label
+                  :P (v6 / label)
+                  :T (v7 / label)
+                  :A (v8 / label)
+                  :A (v9 / label
+                         :E (v10 / label)
+                         :C (v11 / label
+                                 :C (v12 / label)
+                                 :C (v13 / label)
+                                 :C (v14 / label)
+                                 :C (v15 / label)
+                                 :N (v16 / label)
+                                 :C (v17 / label
+                                         :E (v18 / label
+                                                 :C (v22 / label)
+                                                 :R (v23 / label))
+                                         :E (v19 / label)
+                                         :E (v20 / label)
+                                         :C (v21 / label)))))))

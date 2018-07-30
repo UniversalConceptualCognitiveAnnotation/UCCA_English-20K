@@ -1,15 +1,14 @@
 # ::id 826006
-# ::tok “ We haven ’t a moment to lose .
+# ::tok ” “ What about master ’s collections ? ” Conseil ventured to observe .
 (v1 / label
     :H (v2 / label
-           :A (v3 / label)
-           :P (v4 / label)
+           :A (v3 / label
+                  :S (v7 / label)
+                  :A (v8 / label
+                         :E (v9 / label
+                                :C (v11 / label)
+                                :R (v12 / label))
+                         :C (v10 / label)))
+           :A (v4 / label)
            :D (v5 / label)
-           :A (v6 / label
-                  :E (v7 / label)
-                  :C (v8 / label)
-                  :E (v9 / label
-                         :A v3
-                         :A v8
-                         :P (v10 / label
-                                 :C (v11 / label))))))
+           :P (v6 / label)))

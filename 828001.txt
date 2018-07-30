@@ -1,20 +1,38 @@
 # ::id 828001
-# ::tok “ But think it over , because I don ’t want to hide anything from you .
+# ::tok “ But think it over , because I do n’t want to hide anything from you . This is one of those voyages from which people do n’t always come back !
 (v1 / label
-    :L (v2 / label)
-    :H (v3 / label
-           :A (v6 / label)
-           :P (v7 / label)
-           :A (v8 / label)
-           :D (v9 / label))
-    :L (v4 / label)
-    :H (v5 / label
-           :A (v10 / label)
-           :P (v11 / label
-                   :E (v15 / label)
-                   :C (v16 / label))
-           :D (v12 / label)
-           :A (v13 / label)
-           :A (v14 / label
-                   :R (v17 / label)
-                   :C (v18 / label))))
+    :H (v2 / label
+           :A (v3 / label)
+           :P (v4 / label)
+           :A (v5 / label
+                  :L (v6 / label)
+                  :H (v7 / label
+                         :A (v11 / label)
+                         :P (v12 / label)
+                         :A (v13 / label)
+                         :D (v14 / label))
+                  :L (v8 / label)
+                  :H (v9 / label
+                         :A (v15 / label)
+                         :D (v16 / label)
+                         :D (v17 / label)
+                         :P (v18 / label)
+                         :A (v19 / label)
+                         :A (v20 / label
+                                 :R (v24 / label)
+                                 :C (v25 / label)))
+                  :H (v10 / label
+                          :A (v21 / label)
+                          :S (v22 / label)
+                          :A (v23 / label
+                                  :E (v26 / label
+                                          :C (v30 / label)
+                                          :R (v31 / label))
+                                  :E (v27 / label
+                                          :R (v32 / label)
+                                          :A (v33 / label)
+                                          :D (v34 / label)
+                                          :T (v35 / label)
+                                          :P (v36 / label))
+                                  :E (v28 / label)
+                                  :C (v29 / label))))))

@@ -1,56 +1,60 @@
 # ::id 998000
-# ::tok Conseil didn’t have time to complete the compliment. In the midst of the general silence, a voice became audible. It was Ned Land’s voice, and it shouted: “Ahoy! There’s the thing in question, abreast of us to leeward!”
+# ::tok Conseil did n’t have time to complete the compliment. In the midst of the general silence, a voice became audible. It was Ned Land ’s voice, and it shouted: “Ahoy! There ’s the thing in question, abreast of us to leeward!”
 (v1 / label
     :H (v2 / label
-           :A (v8 / label)
-           :D (v9 / label)
-           :P (v10 / label
-                   :E (v24 / label)
-                   :C (v25 / label))
+           :A (v7 / label)
+           :D (v8 / label)
+           :S (v9 / label)
+           :A (v10 / label)
            :A (v11 / label
-                   :E (v26 / label)
-                   :C (v27 / label)))
+                   :A v7
+                   :R (v23 / label)
+                   :P (v24 / label)
+                   :A (v25 / label
+                           :E (v37 / label)
+                           :C (v38 / label))))
     :H (v3 / label
            :A (v12 / label)
            :A (v13 / label
-                   :E (v28 / label
-                           :R (v44 / label)
-                           :E (v45 / label)
-                           :C (v46 / label)
-                           :R (v47 / label))
-                   :E (v29 / label)
+                   :E (v26 / label
+                           :R (v39 / label)
+                           :E (v40 / label)
+                           :C (v41 / label)
+                           :R (v42 / label))
+                   :E (v27 / label)
+                   :E (v28 / label)
+                   :C (v29 / label
+                           :A (v43 / label)
+                           :S (v44 / label)))
+           :A (v14 / label
                    :E (v30 / label)
                    :C (v31 / label))
-           :A (v14 / label
-                   :E (v32 / label)
-                   :C (v33 / label))
-           :P (v15 / label
-                   :E (v34 / label)
-                   :C (v35 / label)))
+           :D (v15 / label)
+           :P (v16 / label))
     :H (v4 / label
-           :A (v16 / label)
-           :S (v17 / label)
-           :A (v18 / label
-                   :E (v36 / label)
-                   :C (v37 / label)))
+           :A (v17 / label)
+           :S (v18 / label)
+           :A (v19 / label
+                   :E (v32 / label
+                           :C (v45 / label)
+                           :R (v46 / label))
+                   :C (v33 / label)))
     :L (v5 / label)
     :H (v6 / label
-           :A (v7 / label
-                  :S (v21 / label)
-                  :A (v22 / label
-                          :E (v38 / label)
-                          :C (v39 / label)
-                          :E (v40 / label
-                                  :R (v48 / label)
-                                  :C (v49 / label)))
-                  :A (v23 / label
-                          :E (v41 / label
-                                  :R (v50 / label)
-                                  :C (v51 / label))
-                          :R (v42 / label
-                                  :C (v52 / label)
-                                  :R (v53 / label))
-                          :C (v43 / label)))
-           :A (v19 / label)
-           :P (v20 / label))
-    :H v7)
+           :A (v20 / label)
+           :P (v21 / label)
+           :A (v22 / label
+                   :S (v34 / label)
+                   :A (v35 / label
+                           :A (v47 / label
+                                   :E (v52 / label)
+                                   :C (v53 / label))
+                           :S (v48 / label))
+                   :A (v36 / label
+                           :E (v49 / label
+                                   :R (v54 / label)
+                                   :C (v55 / label))
+                           :R (v50 / label
+                                   :C (v56 / label)
+                                   :R (v57 / label))
+                           :C (v51 / label)))))

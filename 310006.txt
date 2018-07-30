@@ -1,26 +1,8 @@
 # ::id 310006
-# ::tok Why not ? Formerly , in prehistoric days , land animals ( quadrupeds , apes , reptiles , birds ) were built on a gigantic scale .
+# ::tok Why not ?
 (v1 / label
-    :H (v2 / label)
-    :H (v3 / label
+    :H (v2 / label
+           :S (v3 / label)
            :A (v4 / label)
            :D (v5 / label)
-           :D (v6 / label
-                  :R (v10 / label)
-                  :E (v11 / label)
-                  :C (v12 / label))
-           :A (v7 / label
-                  :E (v13 / label
-                          :C (v21 / label)
-                          :C (v22 / label)
-                          :C (v23 / label)
-                          :C (v24 / label))
-                  :E (v14 / label)
-                  :C (v15 / label))
-           :P (v8 / label
-                  :C (v16 / label))
-           :A (v9 / label
-                  :R (v17 / label)
-                  :E (v18 / label)
-                  :E (v19 / label)
-                  :C (v20 / label))))
+           :D (v6 / label)))

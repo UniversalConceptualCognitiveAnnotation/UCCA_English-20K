@@ -1,40 +1,38 @@
 # ::id 840000
-# ::tok But Commander Farragut didn ’t want to waste a single day , or even a single hour , in making for those seas where the animal had just been sighted .
+# ::tok But Commander Farragut did n’t want to waste a single day , or even a single hour , in making for those seas where the animal had just been sighted .
 (v1 / label
     :L (v2 / label)
     :H (v3 / label
            :A (v5 / label
-                  :E (v12 / label)
-                  :C (v11 / label))
-           :P (v6 / label
-                  :E (v13 / label)
-                  :C (v14 / label))
+                  :E (v14 / label)
+                  :C (v13 / label))
+           :D (v6 / label)
            :D (v7 / label)
-           :A (v8 / label
+           :P (v8 / label)
+           :T (v9 / label
                   :C (v15 / label
-                          :E (v23 / label)
-                          :E (v24 / label)
-                          :C (v25 / label))
+                          :E (v21 / label)
+                          :E (v22 / label)
+                          :C (v23 / label))
                   :N (v16 / label)
                   :C (v17 / label
+                          :E (v24 / label)
+                          :E (v25 / label)
                           :E (v26 / label)
-                          :E (v27 / label)
-                          :E (v28 / label)
-                          :C (v29 / label))))
+                          :C (v27 / label))))
     :H (v4 / label
-           :P (v9 / label
-                  :C (v18 / label))
-           :A (v10 / label
-                   :R (v19 / label)
-                   :E (v20 / label)
-                   :C (v21 / label)
-                   :E (v22 / label
-                           :A v21
-                           :R (v30 / label)
-                           :A (v31 / label
-                                   :E (v34 / label)
-                                   :C (v35 / label))
-                           :P (v32 / label
-                                   :C (v36 / label))
-                           :D (v33 / label)))
-           :A v11))
+           :R (v10 / label)
+           :P (v11 / label)
+           :A (v12 / label
+                   :E (v18 / label)
+                   :C (v19 / label)
+                   :E (v20 / label
+                           :A v19
+                           :A (v28 / label)
+                           :R (v29 / label)
+                           :A (v30 / label
+                                   :E (v33 / label)
+                                   :C (v34 / label))
+                           :D (v31 / label)
+                           :P (v32 / label)))
+           :A v13))

@@ -2,17 +2,18 @@
 # ::tok I’ m writing of this bold companion as I currently know him .
 (v1 / label
     :H (v2 / label
-           :A (v5 / label)
-           :P (v6 / label
-                  :C (v12 / label))
-           :A (v7 / label
-                  :R (v13 / label)
-                  :E (v14 / label)
-                  :E (v15 / label)
-                  :C (v16 / label)))
-    :L (v3 / label)
-    :H (v4 / label
-           :A (v8 / label)
-           :D (v9 / label)
-           :P (v10 / label)
-           :A (v11 / label)))
+           :A (v3 / label)
+           :P (v4 / label)
+           :A (v5 / label
+                  :R (v7 / label)
+                  :E (v8 / label)
+                  :E (v9 / label
+                         :A (v10 / label)
+                         :S (v16 / label))
+                  :C v10)
+           :A (v6 / label
+                  :R (v11 / label)
+                  :A (v12 / label)
+                  :T (v13 / label)
+                  :P (v14 / label)
+                  :A (v15 / label))))

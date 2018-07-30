@@ -2,27 +2,27 @@
 # ::tok Gifted with uncommon manual ability , Ned Land was a Canadian who had no equal in his dangerous trade .
 (v1 / label
     :H (v2 / label
-           :A (v4 / label)
-           :S (v5 / label
+           :A (v3 / label
+                  :E (v6 / label
+                         :A (v7 / label)
+                         :S (v11 / label)
+                         :A (v12 / label
+                                 :R (v17 / label)
+                                 :E (v18 / label)
+                                 :E (v19 / label)
+                                 :C (v20 / label)))
+                  :C v7)
+           :S (v4 / label)
+           :A (v5 / label
                   :E (v8 / label)
-                  :R (v9 / label)
-                  :E (v10 / label)
-                  :E (v11 / label)
-                  :C (v12 / label)))
-    :H (v3 / label
-           :A v4
-           :S (v6 / label)
-           :A (v7 / label
-                  :E (v13 / label)
-                  :C (v14 / label)
-                  :E (v15 / label
-                          :R (v16 / label)
-                          :P (v17 / label)
-                          :A (v18 / label
-                                  :E (v20 / label)
-                                  :C (v21 / label))
-                          :A (v19 / label
-                                  :R (v22 / label)
+                  :C (v9 / label)
+                  :E (v10 / label
+                          :A v9
+                          :R (v13 / label)
+                          :D (v14 / label)
+                          :S (v15 / label)
+                          :A (v16 / label
+                                  :R (v21 / label)
+                                  :E (v22 / label)
                                   :E (v23 / label)
-                                  :E (v24 / label)
-                                  :C (v25 / label))))))
+                                  :C (v24 / label))))))

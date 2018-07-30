@@ -10,11 +10,10 @@
            :P (v6 / label)
            :A (v7 / label
                   :H (v10 / label
-                          :P (v15 / label
-                                  :C (v24 / label))
+                          :P (v15 / label)
                           :A (v16 / label
-                                  :E (v25 / label)
-                                  :C (v26 / label))
+                                  :E (v24 / label)
+                                  :C (v25 / label))
                           :A v9)
                   :H (v11 / label
                           :P (v17 / label)
@@ -24,8 +23,8 @@
                           :P (v19 / label)
                           :A (v20 / label)
                           :A (v21 / label
-                                  :R (v27 / label)
-                                  :C (v28 / label))
+                                  :R (v26 / label)
+                                  :C (v27 / label))
                           :A v9)
                   :L (v13 / label)
                   :H (v14 / label

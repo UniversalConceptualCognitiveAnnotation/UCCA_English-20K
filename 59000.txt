@@ -2,26 +2,28 @@
 # ::tok Captain Anderson called an immediate halt , and one of his sailors dived down to assess the damage .
 (v1 / label
     :H (v2 / label
-           :A (v5 / label)
+           :A (v5 / label
+                  :E (v12 / label)
+                  :C (v13 / label))
            :P (v6 / label)
            :A (v7 / label
-                  :E (v12 / label)
-                  :E (v13 / label)
-                  :C (v14 / label)))
+                  :E (v14 / label)
+                  :E (v15 / label)
+                  :C (v16 / label)))
     :L (v3 / label)
     :H (v4 / label
            :A (v8 / label
-                  :E (v15 / label
-                          :C (v20 / label)
-                          :R (v21 / label))
-                  :E (v16 / label)
-                  :C (v17 / label))
+                  :E (v17 / label
+                          :C (v23 / label)
+                          :R (v24 / label))
+                  :E (v18 / label)
+                  :C (v19 / label))
            :P (v9 / label)
            :A (v10 / label)
            :A (v11 / label
                    :A v8
-                   :P (v18 / label
-                           :C (v22 / label))
-                   :A (v19 / label
-                           :E (v23 / label)
-                           :C (v24 / label)))))
+                   :R (v20 / label)
+                   :P (v21 / label)
+                   :A (v22 / label
+                           :E (v25 / label)
+                           :C (v26 / label)))))

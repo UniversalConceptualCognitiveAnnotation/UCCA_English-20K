@@ -1,8 +1,13 @@
 # ::id 905003
-# ::tok ” “ Without your noticing it .
+# ::tok ” “ Without my noticing it ?
 (v1 / label
-    :L (v2 / label)
-    :H (v3 / label
-           :A (v4 / label)
-           :P (v5 / label)
-           :A (v6 / label)))
+    :H (v2 / label
+           :A (v3 / label)
+           :P (v4 / label)
+           :A (v5 / label
+                  :L (v6 / label)
+                  :H (v7 / label
+                         :D v6
+                         :A (v8 / label)
+                         :P (v9 / label)
+                         :A (v10 / label)))))

@@ -1,29 +1,30 @@
 # ::id 900000
 # ::tok “ So , Mr . Naturalist , ” Ned Land continued in a bantering tone , “ you ’ll just keep on believing in the existence of some enormous cetacean . . . ?
 (v1 / label
-    :L (v2 / label)
-    :H (v3 / label)
-    :H (v4 / label
-           :A (v6 / label)
-           :P (v7 / label)
-           :D (v8 / label
-                  :R (v13 / label)
-                  :E (v14 / label)
+    :H (v2 / label
+           :A (v3 / label
+                  :D (v7 / label)
+                  :G (v8 / label)
+                  :A (v9 / label)
+                  :D (v10 / label)
+                  :D (v11 / label)
+                  :P (v12 / label)
+                  :A (v13 / label
+                          :R (v18 / label)
+                          :S (v19 / label
+                                  :E (v21 / label)
+                                  :C (v22 / label))
+                          :A (v20 / label
+                                  :R (v23 / label)
+                                  :E (v24 / label)
+                                  :E (v25 / label
+                                          :A (v26 / label)
+                                          :S (v27 / label))
+                                  :C v26)))
+           :A (v4 / label)
+           :P (v5 / label)
+           :D (v6 / label
+                  :R (v14 / label)
                   :E (v15 / label)
-                  :C (v16 / label)))
-    :H (v5 / label
-           :A (v9 / label)
-           :P (v10 / label
-                   :E (v17 / label)
-                   :E (v18 / label)
-                   :C (v19 / label))
-           :D (v11 / label)
-           :A (v12 / label
-                   :R (v20 / label)
-                   :E (v21 / label)
-                   :C (v22 / label)
-                   :E (v23 / label
-                           :R (v24 / label)
-                           :E (v25 / label)
-                           :E (v26 / label)
-                           :C (v27 / label)))))
+                  :E (v16 / label)
+                  :C (v17 / label))))

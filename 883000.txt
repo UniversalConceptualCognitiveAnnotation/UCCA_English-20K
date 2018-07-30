@@ -1,31 +1,29 @@
 # ::id 883000
-# ::tok As for me , I didn ’t lag behind the others and I yielded to no one my share in these daily observations .
+# ::tok As for me , I did n’t lag behind the others and I yielded to no one my share in these daily observations .
 (v1 / label
-    :L (v2 / label
-           :R (v6 / label)
-           :R (v7 / label)
-           :C (v8 / label))
-    :H (v3 / label
-           :A (v9 / label)
-           :P (v10 / label
-                   :C (v17 / label))
-           :D (v11 / label)
+    :H (v2 / label
+           :G (v5 / label)
+           :A (v6 / label)
+           :D (v7 / label)
+           :P (v8 / label)
+           :A (v9 / label
+                  :E (v15 / label)
+                  :C (v16 / label)))
+    :L (v3 / label)
+    :H (v4 / label
+           :A (v10 / label)
+           :P (v11 / label)
            :A (v12 / label
+                   :R (v17 / label)
                    :E (v18 / label)
-                   :C (v19 / label)))
-    :L (v4 / label)
-    :H (v5 / label
-           :A (v13 / label)
-           :P (v14 / label
+                   :C (v19 / label))
+           :A (v13 / label
                    :E (v20 / label)
-                   :E (v21 / label)
-                   :C (v22 / label))
-           :A (v15 / label
+                   :C (v21 / label))
+           :A (v14 / label
+                   :A (v22 / label)
                    :R (v23 / label)
-                   :E (v24 / label)
-                   :C (v25 / label))
-           :A (v16 / label
-                   :R (v26 / label)
-                   :E (v27 / label)
-                   :E (v28 / label)
-                   :C (v29 / label))))
+                   :P (v24 / label
+                           :E (v26 / label)
+                           :C (v27 / label))
+                   :T (v25 / label))))

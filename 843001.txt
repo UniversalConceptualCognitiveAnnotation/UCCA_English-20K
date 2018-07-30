@@ -2,17 +2,17 @@
 # ::tok Departing from 500,000 throats , three cheers burst forth in succession .
 (v1 / label
     :H (v2 / label
-           :A (v4 / label)
-           :P (v5 / label)
-           :A (v6 / label
-                  :R (v10 / label)
-                  :E (v11 / label)
-                  :C (v12 / label)))
-    :H (v3 / label
-           :A (v7 / label
-                  :E (v13 / label)
-                  :C v4)
-           :P (v8 / label)
-           :D (v9 / label
-                  :R (v14 / label)
-                  :C (v15 / label))))
+           :A (v3 / label
+                  :E (v6 / label
+                         :A (v8 / label)
+                         :P (v11 / label)
+                         :A (v12 / label
+                                 :R (v13 / label)
+                                 :E (v14 / label)
+                                 :C (v15 / label)))
+                  :E (v7 / label)
+                  :C v8)
+           :P (v4 / label)
+           :D (v5 / label
+                  :R (v9 / label)
+                  :C (v10 / label))))

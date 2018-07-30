@@ -2,37 +2,38 @@
 # ::tok ﻿Three seconds before the arrival of J . B . Hobson ’s letter , I no more dreamed of chasing the unicorn than of trying for the Northwest Passage .
 (v1 / label
     :L (v2 / label
-           :E (v7 / label)
-           :C (v8 / label)
-           :R (v9 / label))
+           :E (v5 / label)
+           :C (v6 / label)
+           :R (v7 / label))
     :H (v3 / label
-           :P (v10 / label
-                   :E (v18 / label)
-                   :C (v19 / label))
-           :A (v11 / label
-                   :R (v20 / label)
-                   :E (v21 / label
-                           :C (v30 / label)
-                           :R (v31 / label))
-                   :C (v22 / label)))
+           :P (v8 / label
+                  :E (v14 / label)
+                  :C (v15 / label))
+           :A (v9 / label
+                  :R (v16 / label)
+                  :E (v17 / label
+                          :C (v22 / label)
+                          :R (v23 / label))
+                  :C (v18 / label)))
     :H (v4 / label
-           :A (v12 / label)
-           :D (v13 / label)
-           :P (v14 / label)
-           :A (v15 / label
-                   :A v12
-                   :P (v23 / label
-                           :C (v32 / label))
-                   :A (v24 / label
-                           :E (v33 / label)
-                           :C (v34 / label))))
-    :L (v5 / label)
-    :H (v6 / label
-           :P (v16 / label
-                   :C (v25 / label))
-           :A (v17 / label
-                   :R (v26 / label)
-                   :E (v27 / label)
-                   :E (v28 / label)
-                   :C (v29 / label))
-           :A v12))
+           :A (v10 / label)
+           :D (v11 / label)
+           :P (v12 / label)
+           :A (v13 / label
+                   :C (v19 / label
+                           :A v10
+                           :R (v24 / label)
+                           :P (v25 / label)
+                           :A (v26 / label
+                                   :E (v30 / label)
+                                   :C (v31 / label)))
+                   :N (v20 / label)
+                   :C (v21 / label
+                           :A v10
+                           :R (v27 / label)
+                           :P (v28 / label)
+                           :A (v29 / label
+                                   :R (v32 / label)
+                                   :E (v33 / label)
+                                   :E (v34 / label)
+                                   :C (v35 / label))))))

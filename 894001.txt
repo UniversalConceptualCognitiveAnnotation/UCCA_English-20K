@@ -22,17 +22,15 @@
            :A (v10 / label)
            :P (v11 / label)
            :A (v12 / label
-                   :E (v21 / label
+                   :A (v21 / label
                            :E (v27 / label)
                            :C (v28 / label)
                            :R (v29 / label))
-                   :E (v22 / label)
-                   :C (v23 / label)
-                   :E (v24 / label
-                           :C (v30 / label
-                                   :R (v33 / label)
-                                   :C (v34 / label))
-                           :N (v31 / label)
-                           :C (v32 / label
-                                   :C (v35 / label)
-                                   :R v33)))))
+                   :D (v22 / label)
+                   :S (v23 / label)
+                   :A (v24 / label
+                           :R (v30 / label)
+                           :C (v31 / label
+                                   :C (v32 / label)
+                                   :N (v33 / label)
+                                   :C (v34 / label))))))

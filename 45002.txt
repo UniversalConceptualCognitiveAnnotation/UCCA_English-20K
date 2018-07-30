@@ -1,5 +1,5 @@
 # ::id 45002
-# ::tok In those newspapers short of copy , you saw the reappearance of every gigantic imaginary creature , from \u201CMoby Dick,\u201D that dreadful white whale from the High Arctic regions , to the stupendous kraken whose tentacles could entwine a 500 - ton craft and drag it into the ocean depths .
+# ::tok In those newspapers short of copy , you saw the reappearance of every gigantic imaginary creature , from "Moby Dick," that dreadful white whale from the High Arctic regions , to the stupendous kraken whose tentacles could entwine a 500 - ton craft and drag it into the ocean depths .
 (v1 / label
     :H (v2 / label
            :A (v3 / label
@@ -7,61 +7,61 @@
                   :E (v8 / label)
                   :C (v9 / label)
                   :E (v10 / label
-                          :E (v15 / label)
-                          :R (v16 / label)
-                          :C (v17 / label)))
+                          :A v9
+                          :S (v13 / label)))
            :A (v4 / label)
            :P (v5 / label)
            :A (v6 / label
-                  :E (v11 / label)
-                  :C (v12 / label)
-                  :R (v13 / label)
-                  :E (v14 / label
-                          :R (v18 / label)
-                          :E (v19 / label
-                                  :C (v26 / label)
-                                  :E (v27 / label
-                                          :E (v32 / label)
-                                          :E (v33 / label)
-                                          :E (v34 / label)
-                                          :C (v35 / label)
-                                          :R (v36 / label)
-                                          :E (v37 / label
-                                                  :E (v41 / label)
-                                                  :E (v42 / label
-                                                          :E (v51 / label)
-                                                          :C (v52 / label))
-                                                  :C (v43 / label))))
-                          :R (v20 / label)
-                          :E (v21 / label
-                                  :E (v28 / label)
-                                  :E (v29 / label)
-                                  :C (v30 / label)
-                                  :E (v31 / label
-                                          :H (v38 / label
-                                                  :A (v44 / label
-                                                          :E v30
-                                                          :C (v50 / label))
-                                                  :P (v45 / label
-                                                          :E (v53 / label)
-                                                          :C (v54 / label))
-                                                  :A (v46 / label
-                                                          :E (v55 / label)
-                                                          :E (v56 / label
-                                                                  :E (v62 / label)
-                                                                  :C (v63 / label))
-                                                          :C (v57 / label)))
-                                          :L (v39 / label)
-                                          :H (v40 / label
-                                                  :P (v47 / label)
-                                                  :A (v48 / label)
-                                                  :A (v49 / label
-                                                          :R (v58 / label)
-                                                          :E (v59 / label)
-                                                          :E (v60 / label)
-                                                          :C (v61 / label))
-                                                  :A v50)))
-                          :E (v22 / label)
-                          :E (v23 / label)
-                          :E (v24 / label)
-                          :C (v25 / label)))))
+                  :P (v11 / label
+                          :E (v14 / label)
+                          :C (v15 / label))
+                  :A (v12 / label
+                          :R (v16 / label)
+                          :E (v17 / label
+                                  :N (v22 / label)
+                                  :C (v23 / label
+                                          :C (v26 / label)
+                                          :E (v27 / label
+                                                  :E (v32 / label)
+                                                  :E (v33 / label)
+                                                  :E (v34 / label)
+                                                  :C (v35 / label)
+                                                  :R (v36 / label)
+                                                  :E (v37 / label
+                                                          :E (v41 / label)
+                                                          :E (v42 / label
+                                                                  :E (v52 / label)
+                                                                  :C (v53 / label))
+                                                          :C (v43 / label))))
+                                  :N (v24 / label)
+                                  :C (v25 / label
+                                          :E (v28 / label)
+                                          :E (v29 / label)
+                                          :C (v30 / label)
+                                          :E (v31 / label
+                                                  :H (v38 / label
+                                                          :A v30
+                                                          :R (v44 / label)
+                                                          :A (v45 / label)
+                                                          :D (v46 / label)
+                                                          :P (v47 / label)
+                                                          :A (v48 / label
+                                                                  :E (v54 / label)
+                                                                  :E (v55 / label
+                                                                          :E (v61 / label)
+                                                                          :C (v62 / label))
+                                                                  :C (v56 / label)))
+                                                  :L (v39 / label)
+                                                  :H (v40 / label
+                                                          :A v30
+                                                          :P (v49 / label)
+                                                          :A (v50 / label)
+                                                          :A (v51 / label
+                                                                  :R (v57 / label)
+                                                                  :E (v58 / label)
+                                                                  :E (v59 / label)
+                                                                  :C (v60 / label))))))
+                          :E (v18 / label)
+                          :E (v19 / label)
+                          :E (v20 / label)
+                          :C (v21 / label)))))

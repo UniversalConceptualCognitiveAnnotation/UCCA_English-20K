@@ -1,35 +1,38 @@
 # ::id 904004
-# ::tok Let ’s accept that the pressure of one atmosphere is represented by the pressure of a column of water thirty-two feet high .
+# ::tok In reality , such a column of water would n’t be quite so high because here we ’re dealing with salt water , which is denser than fresh water .
 (v1 / label
     :H (v2 / label
-           :A (v3 / label)
-           :P (v4 / label
-                  :E (v6 / label)
-                  :C (v7 / label))
-           :A (v5 / label
-                  :A (v8 / label
-                         :E (v11 / label)
-                         :C (v12 / label)
-                         :E (v13 / label
-                                 :R (v19 / label)
-                                 :E (v20 / label)
-                                 :C (v21 / label)))
-                  :P (v9 / label
-                         :C (v14 / label))
-                  :A (v10 / label
-                          :R (v15 / label)
-                          :E (v16 / label)
-                          :C (v17 / label)
-                          :E (v18 / label
-                                  :R (v22 / label)
-                                  :E (v23 / label)
-                                  :E (v24 / label
-                                          :A (v27 / label
-                                                  :E (v31 / label)
-                                                  :C (v32 / label))
-                                          :S (v28 / label)
-                                          :A (v25 / label))
-                                  :C v25
-                                  :E (v26 / label
-                                          :R (v29 / label)
-                                          :C (v30 / label)))))))
+           :L (v3 / label
+                  :R (v9 / label)
+                  :C (v10 / label))
+           :H (v4 / label
+                  :A (v11 / label
+                          :E (v23 / label)
+                          :E (v24 / label)
+                          :C (v25 / label)
+                          :E (v26 / label
+                                  :R (v32 / label)
+                                  :C (v33 / label)))
+                  :D (v12 / label)
+                  :D (v13 / label)
+                  :D (v14 / label)
+                  :D (v15 / label)
+                  :S (v16 / label))
+           :L (v5 / label)
+           :H (v6 / label
+                  :A (v17 / label)
+                  :A (v18 / label)
+                  :P (v19 / label)
+                  :A (v20 / label
+                          :R (v27 / label)
+                          :E (v28 / label)
+                          :C (v29 / label)))
+           :L (v7 / label)
+           :H (v8 / label
+                  :S (v21 / label)
+                  :A (v22 / label
+                          :E (v30 / label
+                                  :A (v31 / label)
+                                  :S (v34 / label))
+                          :C v31)
+                  :A v20)))

@@ -8,7 +8,6 @@
            :A (v6 / label)
            :P (v7 / label)
            :A (v8 / label
-                  :A (v9 / label)
-                  :P (v10 / label
-                          :C (v11 / label)
-                          :E (v12 / label)))))
+                  :P (v9 / label)
+                  :A (v10 / label)
+                  :D (v11 / label))))

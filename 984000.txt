@@ -1,13 +1,12 @@
 # ::id 984000
-# ::tok And this reaction wasn ’t long in coming .
+# ::tok And this reaction was n’t long in coming .
 (v1 / label
     :L (v2 / label)
     :H (v3 / label
            :A (v4 / label
                   :E (v7 / label)
-                  :C (v8 / label))
-           :P (v5 / label
-                  :E (v9 / label)
-                  :R (v10 / label)
-                  :C (v11 / label))
-           :D (v6 / label)))
+                  :C (v8 / label
+                         :A (v9 / label)
+                         :P (v10 / label)))
+           :D (v5 / label)
+           :S (v6 / label)))

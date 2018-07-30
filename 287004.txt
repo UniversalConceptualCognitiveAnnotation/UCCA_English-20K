@@ -2,31 +2,27 @@
 # ::tok Something was out there , that much was certain , and any doubting Thomas was invited to place his finger on the Scotia ’s wound .
 (v1 / label
     :H (v2 / label
-           :A (v6 / label)
-           :S (v7 / label
-                  :C (v12 / label))
-           :A (v8 / label))
-    :G (v3 / label)
-    :L (v4 / label)
-    :H (v5 / label
-           :A (v9 / label
-                  :E (v13 / label)
-                  :E (v14 / label)
-                  :C (v15 / label))
-           :P (v10 / label
-                   :C (v16 / label))
-           :A (v11 / label
-                   :P (v17 / label
+           :A (v5 / label)
+           :S (v6 / label)
+           :G (v7 / label))
+    :L (v3 / label)
+    :H (v4 / label
+           :A (v8 / label
+                  :E (v11 / label)
+                  :E (v12 / label)
+                  :C (v13 / label))
+           :P (v9 / label)
+           :A (v10 / label
+                   :R (v14 / label)
+                   :P (v15 / label)
+                   :A (v16 / label
+                           :E (v18 / label)
+                           :C (v19 / label))
+                   :A (v17 / label
                            :R (v20 / label)
-                           :C (v21 / label))
-                   :A (v18 / label
-                           :E (v22 / label)
-                           :C (v23 / label))
-                   :A (v19 / label
-                           :R (v24 / label)
-                           :E (v25 / label
-                                   :E (v27 / label)
-                                   :C (v28 / label)
-                                   :R (v29 / label))
-                           :C (v26 / label))
-                   :A v15)))
+                           :E (v21 / label
+                                   :E (v23 / label)
+                                   :C (v24 / label)
+                                   :R (v25 / label))
+                           :C (v22 / label))
+                   :A v13)))

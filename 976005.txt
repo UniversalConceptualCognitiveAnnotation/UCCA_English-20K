@@ -6,18 +6,16 @@
                   :E (v6 / label)
                   :C (v7 / label)
                   :E (v8 / label
-                         :R (v13 / label)
-                         :E (v14 / label)
-                         :C (v15 / label)))
-           :P (v4 / label
-                  :E (v9 / label)
-                  :C (v10 / label))
+                         :R (v11 / label)
+                         :E (v12 / label)
+                         :C (v13 / label)))
+           :P (v4 / label)
            :A (v5 / label
-                  :E (v11 / label
-                          :E (v16 / label)
+                  :E (v9 / label
+                         :E (v14 / label)
+                         :C (v15 / label)
+                         :R (v16 / label))
+                  :C (v10 / label
                           :C (v17 / label)
-                          :R (v18 / label))
-                  :C (v12 / label
-                          :C (v19 / label)
-                          :N (v20 / label)
-                          :C (v21 / label)))))
+                          :N (v18 / label)
+                          :C (v19 / label)))))

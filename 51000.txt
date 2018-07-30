@@ -1,38 +1,37 @@
 # ::id 51000
-# ::tok This occurrence , extremely serious in itself , might perhaps have been forgotten like so many others , if three weeks later it hadn\u2019t been reenacted under identical conditions .
+# ::tok This occurrence , extremely serious in itself , might perhaps have been forgotten like so many others , if three weeks later it had n't been reenacted under identical conditions .
 (v1 / label
     :H (v2 / label
            :A (v5 / label)
            :A (v6 / label
-                  :E (v14 / label)
-                  :C (v15 / label)
-                  :E (v16 / label
-                          :A v15
-                          :D (v29 / label)
-                          :S (v30 / label)
-                          :A (v31 / label
-                                  :R (v34 / label)
-                                  :C (v35 / label))))
-           :P (v7 / label
-                  :E (v17 / label)
-                  :C (v18 / label))
+                  :E (v16 / label)
+                  :C (v17 / label)
+                  :E (v18 / label
+                          :A v17
+                          :D (v28 / label)
+                          :S (v29 / label)
+                          :A (v30 / label
+                                  :R (v33 / label)
+                                  :C (v34 / label))))
+           :D (v7 / label)
            :G (v8 / label)
-           :A (v9 / label
-                  :R (v19 / label)
-                  :E (v20 / label
-                          :E (v32 / label)
-                          :C (v33 / label))
-                  :C (v21 / label)))
+           :P (v9 / label)
+           :A (v10 / label
+                   :R (v19 / label)
+                   :E (v20 / label
+                           :E (v31 / label)
+                           :C (v32 / label))
+                   :C (v21 / label)))
     :L (v3 / label)
     :H (v4 / label
-           :D (v10 / label
+           :T (v11 / label
                    :R (v22 / label)
                    :E (v23 / label)
                    :C (v24 / label))
-           :A (v11 / label)
-           :P (v12 / label
-                   :C (v25 / label))
-           :A (v13 / label
-                   :R (v26 / label)
-                   :E (v27 / label)
-                   :C (v28 / label))))
+           :A (v12 / label)
+           :D (v13 / label)
+           :P (v14 / label)
+           :A (v15 / label
+                   :R (v25 / label)
+                   :E (v26 / label)
+                   :C (v27 / label))))

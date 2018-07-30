@@ -5,7 +5,7 @@
     :H (v3 / label
            :A (v6 / label)
            :P (v7 / label)
-           :A (v8 / label
+           :T (v8 / label
                   :R (v15 / label)
                   :C (v16 / label))
            :A (v9 / label
@@ -17,7 +17,7 @@
            :A (v11 / label
                    :R (v19 / label)
                    :C (v20 / label))
-           :D (v12 / label
+           :T (v12 / label
                    :R (v21 / label)
                    :E (v22 / label
                            :E (v27 / label)

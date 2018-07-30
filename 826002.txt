@@ -2,14 +2,13 @@
 # ::tok “ Did master summon me ? ” he said , entering .
 (v1 / label
     :H (v2 / label
-           :P (v5 / label
-                  :C (v11 / label))
-           :A (v6 / label)
-           :A (v7 / label))
+           :A (v4 / label
+                  :A (v8 / label)
+                  :G (v9 / label)
+                  :P (v10 / label)
+                  :A (v11 / label))
+           :A (v5 / label)
+           :P (v6 / label))
     :H (v3 / label
-           :A v2
-           :A (v8 / label)
-           :P (v9 / label))
-    :H (v4 / label
-           :P (v10 / label)
-           :A v8))
+           :P (v7 / label)
+           :A v5))

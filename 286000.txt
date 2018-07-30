@@ -1,41 +1,40 @@
 # ::id 286000
-# ::tok ufeffDuring the period in which these developments were occurring , I had returned from a scientific undertaking organized to explore the Nebraska badlands in the United States .
+# ::tok During the period in which these developments were occurring , I had returned from a scientific undertaking organized to explore the Nebraska badlands in the United States .
 (v1 / label
-    :H (v2 / label
-           :D (v3 / label
-                  :R (v7 / label)
-                  :E (v8 / label)
-                  :C (v9 / label)
-                  :E (v10 / label
-                          :D v9
-                          :R (v17 / label)
-                          :R (v18 / label)
-                          :A (v19 / label
-                                  :E (v24 / label)
-                                  :C (v25 / label))
-                          :P (v20 / label
-                                  :C (v26 / label))))
-           :A (v4 / label)
-           :P (v5 / label
-                  :C (v11 / label))
+    :L (v2 / label)
+    :H (v3 / label
+           :S (v5 / label)
            :A (v6 / label
-                  :R (v12 / label)
-                  :E (v13 / label)
+                  :E (v10 / label
+                          :R (v18 / label)
+                          :R (v19 / label)
+                          :A (v20 / label
+                                  :E (v25 / label)
+                                  :C (v26 / label))
+                          :P (v21 / label)
+                          :T (v12 / label))
+                  :E (v11 / label)
+                  :C v12))
+    :H (v4 / label
+           :A (v7 / label)
+           :P (v8 / label)
+           :A (v9 / label
+                  :R (v13 / label)
                   :E (v14 / label)
-                  :C (v15 / label)
-                  :E (v16 / label
-                          :A v15
-                          :A (v21 / label)
-                          :P (v22 / label)
-                          :A (v23 / label
+                  :E (v15 / label)
+                  :C (v16 / label)
+                  :E (v17 / label
+                          :A v16
+                          :A (v22 / label)
+                          :P (v23 / label)
+                          :A (v24 / label
                                   :A (v27 / label)
-                                  :P (v28 / label
-                                          :C (v30 / label))
+                                  :P (v28 / label)
                                   :A (v29 / label
-                                          :E (v31 / label
-                                                  :R (v35 / label)
-                                                  :E (v36 / label)
-                                                  :C (v37 / label))
+                                          :E (v30 / label
+                                                  :R (v34 / label)
+                                                  :E (v35 / label)
+                                                  :C (v36 / label))
+                                          :E (v31 / label)
                                           :E (v32 / label)
-                                          :E (v33 / label)
-                                          :C (v34 / label)))))))
+                                          :C (v33 / label)))))))

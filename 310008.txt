@@ -1,49 +1,23 @@
 # ::id 310008
-# ::tok With its untold depths , couldn ’t the sea keep alive such huge specimens of life from another age , this sea that never changes while the land masses undergo almost continuous alteration ?
+# ::tok Our Creator cast them using a colossal mold that time has gradually made smaller .
 (v1 / label
     :H (v2 / label
-           :A (v3 / label
-                  :R (v8 / label)
+           :A (v4 / label
                   :E (v9 / label)
-                  :E (v10 / label
-                          :A (v11 / label)
-                          :A (v21 / label)
-                          :P (v22 / label))
-                  :C v11)
-           :P (v4 / label
-                  :C (v12 / label))
-           :D (v5 / label)
-           :A (v6 / label
-                  :E (v13 / label
-                          :E (v23 / label)
-                          :C (v24 / label)
-                          :E (v25 / label
-                                  :H (v31 / label
-                                          :A v24
-                                          :R (v34 / label)
-                                          :D (v35 / label)
-                                          :P (v36 / label))
-                                  :L (v32 / label)
-                                  :H (v33 / label
-                                          :A (v37 / label
-                                                  :E (v41 / label)
-                                                  :E (v42 / label)
-                                                  :C (v43 / label))
-                                          :P (v38 / label)
-                                          :D (v39 / label)
-                                          :A (v40 / label
-                                                  :E (v44 / label)
-                                                  :C (v45 / label)))))
-                  :E (v14 / label)
-                  :C (v15 / label))
-           :A (v7 / label
-                  :E (v16 / label)
-                  :E (v17 / label)
-                  :E (v18 / label
-                          :R (v26 / label)
-                          :E (v27 / label)
-                          :C (v28 / label))
-                  :C (v19 / label)
-                  :E (v20 / label
-                          :R (v29 / label)
-                          :C (v30 / label)))))
+                  :C (v10 / label))
+           :P (v5 / label)
+           :A (v6 / label))
+    :H (v3 / label
+           :P (v7 / label)
+           :A (v8 / label
+                  :E (v11 / label)
+                  :E (v12 / label)
+                  :C (v13 / label)
+                  :E (v14 / label
+                          :A v13
+                          :R (v15 / label)
+                          :A (v16 / label)
+                          :D (v17 / label)
+                          :D (v18 / label)
+                          :S (v19 / label)))
+           :A v4))

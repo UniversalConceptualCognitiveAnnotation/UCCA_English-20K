@@ -2,7 +2,7 @@
 # ::tok During this memorable campaign , journalists making a profession of science battled with those making a profession of wit , spilling waves of ink and some of them even two or three drops of blood , since they went from sea serpents to the most offensive personal remarks .
 (v1 / label
     :H (v2 / label
-           :D (v8 / label
+           :A (v8 / label
                   :R (v22 / label)
                   :E (v23 / label)
                   :E (v24 / label)

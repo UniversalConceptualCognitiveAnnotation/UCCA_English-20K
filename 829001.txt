@@ -1,42 +1,38 @@
 # ::id 829001
-# ::tok Conseil did them in a flash , and I was sure the lad hadn ’t missed a thing , because he classified shirts and suits as expertly as birds and mammals .
+# ::tok Conseil did them in a flash , and I was sure the lad had n’t missed a thing , because he classified shirts and suits as expertly as birds and mammals .
 (v1 / label
     :H (v2 / label
            :A (v8 / label)
            :P (v9 / label)
            :A (v10 / label)
-           :D (v11 / label
-                   :R (v21 / label)
-                   :E (v22 / label)
-                   :C (v23 / label)))
+           :D (v11 / label))
     :L (v3 / label)
     :H (v4 / label
            :A (v12 / label)
-           :S (v13 / label
-                   :C (v24 / label))
+           :S (v13 / label)
            :A (v14 / label
-                   :A (v25 / label
-                           :E (v35 / label)
+                   :A (v21 / label
+                           :E (v31 / label)
                            :C (v20 / label))
-                   :P (v26 / label
-                           :C (v36 / label))
-                   :D (v27 / label)
-                   :A (v28 / label
-                           :E (v37 / label)
-                           :C (v38 / label))))
+                   :D (v22 / label)
+                   :P (v23 / label)
+                   :A (v24 / label
+                           :E (v32 / label)
+                           :C (v33 / label))))
     :L (v5 / label)
     :H (v6 / label
-           :A (v15 / label)
-           :P (v16 / label)
-           :A (v17 / label
-                   :C (v29 / label)
-                   :N (v30 / label)
-                   :C (v31 / label)))
+           :D (v15 / label)
+           :A (v16 / label)
+           :P (v17 / label)
+           :A (v18 / label
+                   :C (v25 / label)
+                   :N (v26 / label)
+                   :C (v27 / label)))
     :H (v7 / label
-           :D (v18 / label)
+           :D v15
            :A (v19 / label
-                   :C (v32 / label)
-                   :N (v33 / label)
-                   :C (v34 / label))
-           :P v16
+                   :C (v28 / label)
+                   :N (v29 / label)
+                   :C (v30 / label))
+           :P v17
            :A v20))

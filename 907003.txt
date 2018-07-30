@@ -1,21 +1,48 @@
 # ::id 907003
-# ::tok “ Well , have I convinced you ? ” “ You ’ve convinced me of one thing , Mr . Naturalist .
+# ::tok “ Well , have I convinced you ? ” “ You ’ve convinced me of one thing , Mr . Naturalist . That deep in the sea , such animals would need to be just as strong as you say — if they exist .
 (v1 / label
     :H (v2 / label
-           :P (v4 / label
-                  :C (v11 / label))
-           :A (v5 / label)
-           :A (v6 / label))
+           :A (v4 / label)
+           :P (v5 / label)
+           :A (v6 / label
+                  :A (v10 / label)
+                  :P (v11 / label)
+                  :A (v12 / label)))
     :H (v3 / label
-           :A (v7 / label
-                  :C (v12 / label)
-                  :E (v13 / label
-                          :E (v18 / label)
-                          :C (v19 / label)))
-           :P (v8 / label
-                  :C (v14 / label))
-           :A (v9 / label)
-           :A (v10 / label
-                   :R (v15 / label)
-                   :E (v16 / label)
-                   :C (v17 / label))))
+           :A (v7 / label)
+           :P (v8 / label)
+           :A (v9 / label
+                  :H (v13 / label
+                          :A (v20 / label)
+                          :P (v21 / label)
+                          :A (v22 / label)
+                          :A (v23 / label
+                                  :R (v37 / label)
+                                  :E (v38 / label)
+                                  :C (v39 / label))
+                          :G (v24 / label))
+                  :L (v14 / label)
+                  :H (v15 / label
+                          :A (v25 / label
+                                  :C (v40 / label)
+                                  :E (v41 / label
+                                          :R (v44 / label)
+                                          :E (v45 / label)
+                                          :C (v46 / label)))
+                          :A (v26 / label
+                                  :E (v42 / label)
+                                  :C (v43 / label))
+                          :D (v27 / label)
+                          :D (v28 / label)
+                          :D (v29 / label)
+                          :D (v30 / label)
+                          :S (v31 / label))
+                  :L (v16 / label)
+                  :H (v17 / label
+                          :D (v32 / label)
+                          :A (v33 / label)
+                          :P (v34 / label))
+                  :L (v18 / label)
+                  :H (v19 / label
+                          :A (v35 / label)
+                          :P (v36 / label)))))

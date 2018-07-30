@@ -1,33 +1,34 @@
 # ::id 54000
-# ::tok On April 13 , 1867 , with a smooth sea and a moderate breeze , the Scotia lay in longitude 15° 12\u2032 and latitude 45° 37\u2032 .
+# ::tok On April 13 , 1867 , with a smooth sea and a moderate breeze , the Scotia lay in longitude 15° 12' and latitude 45° 37' .
 (v1 / label
     :H (v2 / label
-           :D (v3 / label
+           :T (v3 / label
                   :R (v8 / label)
                   :C (v9 / label))
            :A (v4 / label
-                  :C (v10 / label
-                          :R (v18 / label)
-                          :E (v19 / label)
-                          :E (v20 / label)
-                          :C (v21 / label))
-                  :N (v11 / label)
-                  :C (v12 / label
-                          :E (v22 / label)
-                          :E (v23 / label)
-                          :C (v24 / label)
-                          :R v18))
+                  :R (v10 / label)
+                  :C (v11 / label
+                          :C (v18 / label
+                                  :E (v25 / label)
+                                  :E (v26 / label)
+                                  :C (v27 / label))
+                          :N (v19 / label)
+                          :C (v20 / label
+                                  :R v10
+                                  :E (v28 / label)
+                                  :E (v29 / label)
+                                  :C (v30 / label))))
            :A (v5 / label
-                  :E (v13 / label)
-                  :C (v14 / label))
+                  :E (v12 / label)
+                  :C (v13 / label))
            :P (v6 / label)
            :A (v7 / label
+                  :R (v14 / label)
                   :C (v15 / label
-                          :R (v25 / label)
-                          :E (v26 / label)
-                          :C (v27 / label))
+                          :E (v21 / label)
+                          :C (v22 / label))
                   :N (v16 / label)
                   :C (v17 / label
-                          :E (v28 / label)
-                          :C (v29 / label)
-                          :R v25))))
+                          :R v14
+                          :E (v23 / label)
+                          :C (v24 / label)))))
