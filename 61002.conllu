@@ -4,7 +4,7 @@
 1	This	_	Word	Word	_	3	E	3:E	_
 2	outrageous	_	Word	Word	_	3	E	3:E	_
 3	animal	_	Word	Word	_	0	root	0:root	_
-4	had	_	Word	Word	_	6	E	6:E	_
+4	had	_	Word	Word	_	6	D	6:D	_
 5	to	_	Word	Word	_	4	flat	4:flat	_
 6	shoulder	_	Word	Word	_	3	orphan	3:orphan	_
 7	responsibility	_	Word	Word	_	3	orphan	3:orphan	_
@@ -14,9 +14,9 @@
 11	vessels	_	Word	Word	_	3	orphan	3:orphan	_
 12	,	_	Punctuation	Punctuation	_	11	punct	11:punct	_
 13	whose	_	Word	Word	_	17	R	17:R	_
-14	numbers	_	Word	Word	_	3	orphan	3:orphan	_
+14	numbers	_	Word	Word	_	17	A	17:A	_
 15	are	_	Word	Word	_	17	F	17:F	_
-16	unfortunately	_	Word	Word	_	17	R	17:R	_
+16	unfortunately	_	Word	Word	_	17	G	17:G	_
 17	considerable	_	Word	Word	_	3	orphan	3:orphan	_
 18	,	_	Punctuation	Punctuation	_	6	punct	6:punct	_
 19	since	_	Word	Word	_	6	L	6:L	_
@@ -26,10 +26,10 @@
 23	3,000	_	Word	Word	_	24	E	24:E	_
 24	ships	_	Word	Word	_	3	orphan	3:orphan	_
 25	whose	_	Word	Word	_	28	R	28:R	_
-26	losses	_	Word	Word	_	3	orphan	3:orphan	_
+26	losses	_	Word	Word	_	28	A	28:A	_
 27	are	_	Word	Word	_	28	F	28:F	_
 28	recorded	_	Word	Word	_	3	orphan	3:orphan	_
-29	annually	_	Word	Word	_	28	D	28:D	_
+29	annually	_	Word	Word	_	28	T	28:T	_
 30	at	_	Word	Word	_	34	R	34:R	_
 31	the	_	Word	Word	_	34	E	34:E	_
 32	marine	_	Word	Word	_	33	E	33:E	_
@@ -45,9 +45,9 @@
 42	ships	_	Word	Word	_	3	orphan	3:orphan	_
 43	supposedly	_	Word	Word	_	44	D	44:D	_
 44	lost	_	Word	Word	_	3	orphan	3:orphan	_
-45	with	_	Word	Word	_	47	R	47:R	_
-46	all	_	Word	Word	_	47	E	47:E	_
-47	hands	_	Word	Word	_	3	orphan	3:orphan	_
+45	with	_	Word	Word	_	46	R	46:R	_
+46	all	_	Word	Word	_	3	orphan	3:orphan	_
+47	hands	_	Word	Word	_	46	flat	46:flat	_
 48	,	_	Punctuation	Punctuation	_	56	punct	56:punct	_
 49	in	_	Word	Word	_	51	R	51:R	_
 50	the	_	Word	Word	_	51	E	51:E	_

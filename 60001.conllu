@@ -1,10 +1,11 @@
 # sent_id = 60001
-# text = They couldn\u2019t believe their eyes .
+# text = They could n't believe their eyes .
 # doc_id = 
-1	They	_	Word	Word	_	3	A	3:A	_
-2	couldn\u2019t	_	Word	Word	_	3	F	3:F	_
-3	believe	_	Word	Word	_	0	root	0:root	_
-4	their	_	Word	Word	_	5	E	5:E	_
-5	eyes	_	Word	Word	_	3	orphan	3:orphan	_
-6	.	_	Punctuation	Punctuation	_	5	punct	5:punct	_
+1	They	_	Word	Word	_	4	A	4:A	_
+2	could	_	Word	Word	_	4	D	4:D	_
+3	n't	_	Word	Word	_	4	D	4:D	_
+4	believe	_	Word	Word	_	0	root	0:root	_
+5	their	_	Word	Word	_	6	E	6:E	_
+6	eyes	_	Word	Word	_	4	orphan	4:orphan	_
+7	.	_	Punctuation	Punctuation	_	6	punct	6:punct	_
 

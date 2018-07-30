@@ -1,13 +1,13 @@
 # sent_id = 984000
-# text = And this reaction wasn ’t long in coming .
+# text = And this reaction was n’t long in coming .
 # doc_id = 
-1	And	_	Word	Word	_	8	L	8:L	_
+1	And	_	Word	Word	_	6	L	6:L	_
 2	this	_	Word	Word	_	3	E	3:E	_
 3	reaction	_	Word	Word	_	0	root	0:root	_
-4	wasn	_	Word	Word	_	8	F	8:F	_
-5	’t	_	Word	Word	_	8	D	8:D	_
-6	long	_	Word	Word	_	8	E	8:E	_
-7	in	_	Word	Word	_	8	R	8:R	_
-8	coming	_	Word	Word	_	3	orphan	3:orphan	_
-9	.	_	Punctuation	Punctuation	_	8	punct	8:punct	_
+4	was	_	Word	Word	_	6	F	6:F	_
+5	n’t	_	Word	Word	_	6	D	6:D	_
+6	long	_	Word	Word	_	3	orphan	3:orphan	_
+7	in	_	Word	Word	_	6	flat	6:flat	_
+8	coming	_	Word	Word	_	6	flat	6:flat	_
+9	.	_	Punctuation	Punctuation	_	6	punct	6:punct	_
 

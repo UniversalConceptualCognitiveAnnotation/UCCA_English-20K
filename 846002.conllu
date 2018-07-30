@@ -22,9 +22,9 @@
 19	,	_	Punctuation	Punctuation	_	21	punct	21:punct	_
 20	yellow	_	Word	Word	_	21	E	21:E	_
 21	coast	_	Word	Word	_	2	orphan	2:orphan	_
-22	of	_	Word	Word	_	24	R	24:R	_
-23	Long	_	Word	Word	_	24	E	24:E	_
-24	Island	_	Word	Word	_	2	orphan	2:orphan	_
+22	of	_	Word	Word	_	23	R	23:R	_
+23	Long	_	Word	Word	_	2	orphan	2:orphan	_
+24	Island	_	Word	Word	_	23	flat	23:flat	_
 25	;	_	Punctuation	Punctuation	_	4	punct	4:punct	_
 26	and	_	Word	Word	_	4	L	4:L	_
 27	at	_	Word	Word	_	29	R	29:R	_

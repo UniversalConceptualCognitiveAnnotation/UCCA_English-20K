@@ -7,7 +7,7 @@
 4	Farragut	_	Word	Word	_	0	root	0:root	_
 5	had	_	Word	Word	_	6	F	6:F	_
 6	mentioned	_	Word	Word	_	4	orphan	4:orphan	_
-7	that	_	Word	Word	_	6	F	6:F	_
+7	that	_	Word	Word	_	15	R	15:R	_
 8	a	_	Word	Word	_	10	E	10:E	_
 9	certain	_	Word	Word	_	10	E	10:E	_
 10	sum	_	Word	Word	_	4	orphan	4:orphan	_
@@ -32,8 +32,8 @@
 29	or	_	Word	Word	_	28	N	28:N	_
 30	sailor	_	Word	Word	_	28	C	28:C	_
 31	,	_	Punctuation	Punctuation	_	28	punct	28:punct	_
-32	mate	_	Word	Word	_	4	orphan	4:orphan	_
-33	or	_	Word	Word	_	32	N	32:N	_
-34	officer	_	Word	Word	_	32	C	32:C	_
-35	.	_	Punctuation	Punctuation	_	32	punct	32:punct	_
+32	mate	_	Word	Word	_	28	C	28:C	_
+33	or	_	Word	Word	_	28	N	28:N	_
+34	officer	_	Word	Word	_	28	C	28:C	_
+35	.	_	Punctuation	Punctuation	_	28	punct	28:punct	_
 

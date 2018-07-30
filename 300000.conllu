@@ -1,9 +1,9 @@
 # sent_id = 300000
 # text = “ However , the solution to this problem submitted to me can take the form of a choice between two alternatives .
 # doc_id = 
-1	“	_	Punctuation	Punctuation	_	15	punct	15:punct	_
-2	However	_	Word	Word	_	15	L	15:L	_
-3	,	_	Punctuation	Punctuation	_	15	punct	15:punct	_
+1	“	_	Punctuation	Punctuation	_	13	punct	13:punct	_
+2	However	_	Word	Word	_	13	L	13:L	_
+3	,	_	Punctuation	Punctuation	_	13	punct	13:punct	_
 4	the	_	Word	Word	_	5	E	5:E	_
 5	solution	_	Word	Word	_	0	root	0:root	_
 6	to	_	Word	Word	_	8	R	8:R	_
@@ -12,11 +12,11 @@
 9	submitted	_	Word	Word	_	5	orphan	5:orphan	_
 10	to	_	Word	Word	_	11	R	11:R	_
 11	me	_	Word	Word	_	5	orphan	5:orphan	_
-12	can	_	Word	Word	_	15	E	15:E	_
-13	take	_	Word	Word	_	15	E	15:E	_
-14	the	_	Word	Word	_	15	E	15:E	_
-15	form	_	Word	Word	_	5	orphan	5:orphan	_
-16	of	_	Word	Word	_	15	R	15:R	_
+12	can	_	Word	Word	_	13	D	13:D	_
+13	take	_	Word	Word	_	5	orphan	5:orphan	_
+14	the	_	Word	Word	_	13	flat	13:flat	_
+15	form	_	Word	Word	_	13	flat	13:flat	_
+16	of	_	Word	Word	_	13	R	13:R	_
 17	a	_	Word	Word	_	18	E	18:E	_
 18	choice	_	Word	Word	_	5	orphan	5:orphan	_
 19	between	_	Word	Word	_	21	R	21:R	_

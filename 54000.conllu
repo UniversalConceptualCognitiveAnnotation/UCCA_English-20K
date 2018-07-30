@@ -1,5 +1,5 @@
 # sent_id = 54000
-# text = On April 13 , 1867 , with a smooth sea and a moderate breeze , the Scotia lay in longitude 15° 12\u2032 and latitude 45° 37\u2032 .
+# text = On April 13 , 1867 , with a smooth sea and a moderate breeze , the Scotia lay in longitude 15° 12' and latitude 45° 37' .
 # doc_id = 
 1	On	_	Word	Word	_	2	R	2:R	_
 2	April	_	Word	Word	_	0	root	0:root	_
@@ -22,10 +22,10 @@
 19	in	_	Word	Word	_	21	R	21:R	_
 20	longitude	_	Word	Word	_	21	E	21:E	_
 21	15°	_	Word	Word	_	2	orphan	2:orphan	_
-22	12\u2032	_	Word	Word	_	21	flat	21:flat	_
+22	12'	_	Word	Word	_	21	flat	21:flat	_
 23	and	_	Word	Word	_	21	N	21:N	_
 24	latitude	_	Word	Word	_	25	E	25:E	_
 25	45°	_	Word	Word	_	2	orphan	2:orphan	_
-26	37\u2032	_	Word	Word	_	25	flat	25:flat	_
+26	37'	_	Word	Word	_	25	flat	25:flat	_
 27	.	_	Punctuation	Punctuation	_	25	punct	25:punct	_
 

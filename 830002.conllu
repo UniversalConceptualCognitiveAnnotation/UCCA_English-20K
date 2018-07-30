@@ -9,11 +9,11 @@
 6	that	_	Word	Word	_	8	E	8:E	_
 7	huge	_	Word	Word	_	8	E	8:E	_
 8	counter	_	Word	Word	_	2	orphan	2:orphan	_
-9	that	_	Word	Word	_	13	R	13:R	_
-10	was	_	Word	Word	_	13	F	13:F	_
-11	always	_	Word	Word	_	13	D	13:D	_
-12	under	_	Word	Word	_	13	R	13:R	_
-13	siege	_	Word	Word	_	2	orphan	2:orphan	_
+9	that	_	Word	Word	_	12	R	12:R	_
+10	was	_	Word	Word	_	12	F	12:F	_
+11	always	_	Word	Word	_	12	T	12:T	_
+12	under	_	Word	Word	_	2	orphan	2:orphan	_
+13	siege	_	Word	Word	_	12	flat	12:flat	_
 14	by	_	Word	Word	_	17	R	17:R	_
 15	a	_	Word	Word	_	17	E	17:E	_
 16	considerable	_	Word	Word	_	17	E	17:E	_

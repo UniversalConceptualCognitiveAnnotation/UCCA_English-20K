@@ -8,7 +8,7 @@
 5	for	_	Word	Word	_	4	flat	4:flat	_
 6	dissecting	_	Word	Word	_	2	orphan	2:orphan	_
 7	this	_	Word	Word	_	9	E	9:E	_
-8	unknown	_	Word	Word	_	9	E	9:E	_
+8	unknown	_	Word	Word	_	2	orphan	2:orphan	_
 9	monster	_	Word	Word	_	2	orphan	2:orphan	_
 10	;	_	Punctuation	Punctuation	_	4	punct	4:punct	_
 11	to	_	Word	Word	_	12	F	12:F	_

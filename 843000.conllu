@@ -13,14 +13,14 @@
 10	New	_	Word	Word	_	2	orphan	2:orphan	_
 11	York	_	Word	Word	_	10	flat	10:flat	_
 12	bordering	_	Word	Word	_	2	orphan	2:orphan	_
-13	the	_	Word	Word	_	15	E	15:E	_
-14	East	_	Word	Word	_	15	E	15:E	_
-15	River	_	Word	Word	_	2	orphan	2:orphan	_
+13	the	_	Word	Word	_	14	E	14:E	_
+14	East	_	Word	Word	_	2	orphan	2:orphan	_
+15	River	_	Word	Word	_	14	flat	14:flat	_
 16	,	_	Punctuation	Punctuation	_	18	punct	18:punct	_
 17	were	_	Word	Word	_	18	F	18:F	_
 18	crowded	_	Word	Word	_	2	orphan	2:orphan	_
 19	with	_	Word	Word	_	21	R	21:R	_
-20	curiosity	_	Word	Word	_	21	E	21:E	_
+20	curiosity	_	Word	Word	_	21	A	21:A	_
 21	seekers	_	Word	Word	_	2	orphan	2:orphan	_
 22	.	_	Punctuation	Punctuation	_	21	punct	21:punct	_
 

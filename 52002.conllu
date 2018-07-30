@@ -1,5 +1,5 @@
 # sent_id = 52002
-# text = Eight years later , the company \u2019s assets were increased by four 650 - horsepower ships at 1,820 metric tons , and in two more years , by two other vessels of still greater power and tonnage .
+# text = Eight years later , the company 's assets were increased by four 650 - horsepower ships at 1,820 metric tons , and in two more years , by two other vessels of still greater power and tonnage .
 # doc_id = 
 1	Eight	_	Word	Word	_	2	E	2:E	_
 2	years	_	Word	Word	_	0	root	0:root	_
@@ -7,7 +7,7 @@
 4	,	_	Punctuation	Punctuation	_	10	punct	10:punct	_
 5	the	_	Word	Word	_	6	E	6:E	_
 6	company	_	Word	Word	_	2	orphan	2:orphan	_
-7	\u2019s	_	Word	Word	_	6	F	6:F	_
+7	's	_	Word	Word	_	6	R	6:R	_
 8	assets	_	Word	Word	_	2	orphan	2:orphan	_
 9	were	_	Word	Word	_	10	F	10:F	_
 10	increased	_	Word	Word	_	2	orphan	2:orphan	_

@@ -16,7 +16,7 @@
 13	a	_	Word	Word	_	14	E	14:E	_
 14	line	_	Word	Word	_	2	orphan	2:orphan	_
 15	of	_	Word	Word	_	17	R	17:R	_
-16	bold	_	Word	Word	_	17	E	17:E	_
+16	bold	_	Word	Word	_	2	orphan	2:orphan	_
 17	fishermen	_	Word	Word	_	2	orphan	2:orphan	_
 18	back	_	Word	Word	_	21	R	21:R	_
 19	in	_	Word	Word	_	21	R	21:R	_
@@ -25,7 +25,7 @@
 22	when	_	Word	Word	_	26	R	26:R	_
 23	this	_	Word	Word	_	24	E	24:E	_
 24	town	_	Word	Word	_	2	orphan	2:orphan	_
-25	still	_	Word	Word	_	26	D	26:D	_
+25	still	_	Word	Word	_	26	T	26:T	_
 26	belonged	_	Word	Word	_	2	orphan	2:orphan	_
 27	to	_	Word	Word	_	28	R	28:R	_
 28	France	_	Word	Word	_	2	orphan	2:orphan	_

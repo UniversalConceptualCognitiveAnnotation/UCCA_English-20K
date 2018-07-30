@@ -16,13 +16,13 @@
 13	scientific	_	Word	Word	_	2	orphan	2:orphan	_
 14	,	_	Punctuation	Punctuation	_	2	punct	2:punct	_
 15	and	_	Word	Word	_	2	L	2:L	_
-16	this	_	Word	Word	_	17	A	17:A	_
-17	is	_	Word	Word	_	2	orphan	2:orphan	_
+16	this	_	Word	Word	_	19	A	19:A	_
+17	is	_	Word	Word	_	19	F	19:F	_
 18	an	_	Word	Word	_	19	E	19:E	_
 19	excerpt	_	Word	Word	_	2	orphan	2:orphan	_
 20	from	_	Word	Word	_	23	R	23:R	_
 21	the	_	Word	Word	_	23	E	23:E	_
-22	well-padded	_	Word	Word	_	23	E	23:E	_
+22	well-padded	_	Word	Word	_	2	orphan	2:orphan	_
 23	article	_	Word	Word	_	2	orphan	2:orphan	_
 24	I	_	Word	Word	_	25	A	25:A	_
 25	published	_	Word	Word	_	2	orphan	2:orphan	_

@@ -13,7 +13,7 @@
 10	,	_	Punctuation	Punctuation	_	3	punct	3:punct	_
 11	that	_	Word	Word	_	12	E	12:E	_
 12	charge	_	Word	Word	_	3	orphan	3:orphan	_
-13	had	_	Word	Word	_	16	E	16:E	_
+13	had	_	Word	Word	_	16	D	16:D	_
 14	to	_	Word	Word	_	13	flat	13:flat	_
 15	be	_	Word	Word	_	16	F	16:F	_
 16	dropped	_	Word	Word	_	3	orphan	3:orphan	_

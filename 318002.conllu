@@ -1,5 +1,5 @@
 # sent_id = 318002
-# text = If you would like to join the expedition on the Abraham Lincoln , the government of the Union will be pleased to regard you as France ’s representative in this undertaking .
+# text = If you would like to join the expedition on the Abraham Lincoln , the government of the Union will be pleased to regard you as France ’s representative in this undertaking . Commander Farragut has a cabin at your disposal . Very cordially yours , J . B . HOBSON , Secretary of the Navy .
 # doc_id = 
 1	If	_	Word	Word	_	6	L	6:L	_
 2	you	_	Word	Word	_	6	A	6:A	_
@@ -19,9 +19,9 @@
 16	of	_	Word	Word	_	18	R	18:R	_
 17	the	_	Word	Word	_	18	E	18:E	_
 18	Union	_	Word	Word	_	4	orphan	4:orphan	_
-19	will	_	Word	Word	_	21	E	21:E	_
-20	be	_	Word	Word	_	21	F	21:F	_
-21	pleased	_	Word	Word	_	4	orphan	4:orphan	_
+19	will	_	Word	Word	_	23	D	23:D	_
+20	be	_	Word	Word	_	23	F	23:F	_
+21	pleased	_	Word	Word	_	23	D	23:D	_
 22	to	_	Word	Word	_	23	F	23:F	_
 23	regard	_	Word	Word	_	4	orphan	4:orphan	_
 24	you	_	Word	Word	_	23	A	23:A	_
@@ -32,5 +32,29 @@
 29	in	_	Word	Word	_	31	R	31:R	_
 30	this	_	Word	Word	_	31	E	31:E	_
 31	undertaking	_	Word	Word	_	4	orphan	4:orphan	_
-32	.	_	Punctuation	Punctuation	_	31	punct	31:punct	_
+32	.	_	Punctuation	Punctuation	_	6	punct	6:punct	_
+33	Commander	_	Word	Word	_	34	E	34:E	_
+34	Farragut	_	Word	Word	_	4	orphan	4:orphan	_
+35	has	_	Word	Word	_	4	orphan	4:orphan	_
+36	a	_	Word	Word	_	37	E	37:E	_
+37	cabin	_	Word	Word	_	4	orphan	4:orphan	_
+38	at	_	Word	Word	_	4	orphan	4:orphan	_
+39	your	_	Word	Word	_	38	flat	38:flat	_
+40	disposal	_	Word	Word	_	38	flat	38:flat	_
+41	.	_	Punctuation	Punctuation	_	6	punct	6:punct	_
+42	Very	_	Word	Word	_	6	H	6:H	_
+43	cordially	_	Word	Word	_	42	flat	42:flat	_
+44	yours	_	Word	Word	_	42	flat	42:flat	_
+45	,	_	Punctuation	Punctuation	_	6	punct	6:punct	_
+46	J	_	Word	Word	_	6	H	6:H	_
+47	.	_	Punctuation	Punctuation	_	6	punct	6:punct	_
+48	B	_	Word	Word	_	46	flat	46:flat	_
+49	.	_	Punctuation	Punctuation	_	6	punct	6:punct	_
+50	HOBSON	_	Word	Word	_	46	flat	46:flat	_
+51	,	_	Punctuation	Punctuation	_	6	punct	6:punct	_
+52	Secretary	_	Word	Word	_	46	flat	46:flat	_
+53	of	_	Word	Word	_	46	flat	46:flat	_
+54	the	_	Word	Word	_	46	flat	46:flat	_
+55	Navy	_	Word	Word	_	46	flat	46:flat	_
+56	.	_	Punctuation	Punctuation	_	6	punct	6:punct	_
 

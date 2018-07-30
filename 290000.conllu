@@ -2,9 +2,9 @@
 # text = So only two possible solutions to the question were left , creating two very distinct groups of supporters : on one side , those favoring a monster of colossal strength ; on the other , those favoring an “ underwater boat ” of tremendous motor power .
 # doc_id = 
 1	So	_	Word	Word	_	10	L	10:L	_
-2	only	_	Word	Word	_	5	R	5:R	_
-3	two	_	Word	Word	_	5	E	5:E	_
-4	possible	_	Word	Word	_	5	E	5:E	_
+2	only	_	Word	Word	_	5	D	5:D	_
+3	two	_	Word	Word	_	5	D	5:D	_
+4	possible	_	Word	Word	_	5	D	5:D	_
 5	solutions	_	Word	Word	_	0	root	0:root	_
 6	to	_	Word	Word	_	8	R	8:R	_
 7	the	_	Word	Word	_	8	E	8:E	_
@@ -29,7 +29,7 @@
 26	a	_	Word	Word	_	27	E	27:E	_
 27	monster	_	Word	Word	_	5	orphan	5:orphan	_
 28	of	_	Word	Word	_	30	R	30:R	_
-29	colossal	_	Word	Word	_	30	E	30:E	_
+29	colossal	_	Word	Word	_	30	D	30:D	_
 30	strength	_	Word	Word	_	5	orphan	5:orphan	_
 31	;	_	Punctuation	Punctuation	_	25	punct	25:punct	_
 32	on	_	Word	Word	_	34	R	34:R	_
@@ -42,10 +42,10 @@
 39	“	_	Punctuation	Punctuation	_	41	punct	41:punct	_
 40	underwater	_	Word	Word	_	41	E	41:E	_
 41	boat	_	Word	Word	_	5	orphan	5:orphan	_
-42	”	_	Punctuation	Punctuation	_	41	punct	41:punct	_
+42	”	_	Punctuation	Punctuation	_	46	punct	46:punct	_
 43	of	_	Word	Word	_	46	R	46:R	_
-44	tremendous	_	Word	Word	_	46	E	46:E	_
-45	motor	_	Word	Word	_	46	E	46:E	_
+44	tremendous	_	Word	Word	_	46	D	46:D	_
+45	motor	_	Word	Word	_	46	D	46:D	_
 46	power	_	Word	Word	_	5	orphan	5:orphan	_
 47	.	_	Punctuation	Punctuation	_	46	punct	46:punct	_
 

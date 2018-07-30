@@ -1,7 +1,7 @@
 # sent_id = 286000
-# text = ufeffDuring the period in which these developments were occurring , I had returned from a scientific undertaking organized to explore the Nebraska badlands in the United States .
+# text = During the period in which these developments were occurring , I had returned from a scientific undertaking organized to explore the Nebraska badlands in the United States .
 # doc_id = 
-1	ufeffDuring	_	Word	Word	_	3	R	3:R	_
+1	During	_	Word	Word	_	3	L	3:L	_
 2	the	_	Word	Word	_	3	E	3:E	_
 3	period	_	Word	Word	_	0	root	0:root	_
 4	in	_	Word	Word	_	9	R	9:R	_
@@ -10,7 +10,7 @@
 7	developments	_	Word	Word	_	3	orphan	3:orphan	_
 8	were	_	Word	Word	_	9	F	9:F	_
 9	occurring	_	Word	Word	_	3	orphan	3:orphan	_
-10	,	_	Punctuation	Punctuation	_	13	punct	13:punct	_
+10	,	_	Punctuation	Punctuation	_	3	punct	3:punct	_
 11	I	_	Word	Word	_	13	A	13:A	_
 12	had	_	Word	Word	_	13	F	13:F	_
 13	returned	_	Word	Word	_	3	orphan	3:orphan	_

@@ -1,5 +1,5 @@
 # sent_id = 972002
-# text = Many of our sailors swore that the monster couldn ’t negotiate this passageway simply because “ he ’s too big for it ! ”
+# text = Many of our sailors swore that the monster could n’t negotiate this passageway simply because “ he ’s too big for it ! ”
 # doc_id = 
 1	Many	_	Word	Word	_	0	root	0:root	_
 2	of	_	Word	Word	_	1	R	1:R	_
@@ -9,8 +9,8 @@
 6	that	_	Word	Word	_	5	F	5:F	_
 7	the	_	Word	Word	_	8	E	8:E	_
 8	monster	_	Word	Word	_	1	orphan	1:orphan	_
-9	couldn	_	Word	Word	_	11	E	11:E	_
-10	’t	_	Word	Word	_	11	D	11:D	_
+9	could	_	Word	Word	_	11	D	11:D	_
+10	n’t	_	Word	Word	_	11	D	11:D	_
 11	negotiate	_	Word	Word	_	1	orphan	1:orphan	_
 12	this	_	Word	Word	_	13	E	13:E	_
 13	passageway	_	Word	Word	_	1	orphan	1:orphan	_

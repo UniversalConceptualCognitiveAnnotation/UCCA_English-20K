@@ -1,7 +1,7 @@
 # sent_id = 53001
 # text = No transoceanic navigational undertaking has been conducted with more ability , no business dealings have been crowned with greater success .
 # doc_id = 
-1	No	_	Word	Word	_	4	E	4:E	_
+1	No	_	Word	Word	_	7	D	7:D	_
 2	transoceanic	_	Word	Word	_	4	E	4:E	_
 3	navigational	_	Word	Word	_	4	E	4:E	_
 4	undertaking	_	Word	Word	_	0	root	0:root	_
@@ -12,7 +12,7 @@
 9	more	_	Word	Word	_	10	E	10:E	_
 10	ability	_	Word	Word	_	4	orphan	4:orphan	_
 11	,	_	Punctuation	Punctuation	_	7	punct	7:punct	_
-12	no	_	Word	Word	_	14	E	14:E	_
+12	no	_	Word	Word	_	17	D	17:D	_
 13	business	_	Word	Word	_	14	E	14:E	_
 14	dealings	_	Word	Word	_	4	orphan	4:orphan	_
 15	have	_	Word	Word	_	17	F	17:F	_

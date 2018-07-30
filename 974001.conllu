@@ -1,8 +1,0 @@
-# sent_id = 974001
-# text = Open your eyes !
-# doc_id = 
-1	Open	_	Word	Word	_	0	root	0:root	_
-2	your	_	Word	Word	_	3	E	3:E	_
-3	eyes	_	Word	Word	_	1	orphan	1:orphan	_
-4	!	_	Punctuation	Punctuation	_	3	punct	3:punct	_
-

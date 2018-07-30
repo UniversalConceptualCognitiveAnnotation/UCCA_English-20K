@@ -1,7 +1,7 @@
 # sent_id = 286003
 # text = My departure for France was set for early May .
 # doc_id = 
-1	My	_	Word	Word	_	2	A	2:A	_
+1	My	_	Word	Word	_	2	E	2:E	_
 2	departure	_	Word	Word	_	0	root	0:root	_
 3	for	_	Word	Word	_	4	R	4:R	_
 4	France	_	Word	Word	_	2	orphan	2:orphan	_

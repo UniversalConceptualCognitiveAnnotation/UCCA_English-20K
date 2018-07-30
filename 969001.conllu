@@ -24,16 +24,16 @@
 21	Lincoln	_	Word	Word	_	20	flat	20:flat	_
 22	and	_	Word	Word	_	12	L	12:L	_
 23	asked	_	Word	Word	_	2	orphan	2:orphan	_
-24	his	_	Word	Word	_	25	A	25:A	_
+24	his	_	Word	Word	_	25	E	25:E	_
 25	help	_	Word	Word	_	2	orphan	2:orphan	_
 26	in	_	Word	Word	_	27	R	27:R	_
 27	hunting	_	Word	Word	_	2	orphan	2:orphan	_
 28	a	_	Word	Word	_	30	E	30:E	_
 29	baleen	_	Word	Word	_	30	E	30:E	_
 30	whale	_	Word	Word	_	2	orphan	2:orphan	_
-31	that	_	Word	Word	_	34	R	34:R	_
-32	was	_	Word	Word	_	34	F	34:F	_
-33	in	_	Word	Word	_	34	R	34:R	_
-34	sight	_	Word	Word	_	2	orphan	2:orphan	_
-35	.	_	Punctuation	Punctuation	_	34	punct	34:punct	_
+31	that	_	Word	Word	_	33	R	33:R	_
+32	was	_	Word	Word	_	33	F	33:F	_
+33	in	_	Word	Word	_	2	orphan	2:orphan	_
+34	sight	_	Word	Word	_	33	flat	33:flat	_
+35	.	_	Punctuation	Punctuation	_	33	punct	33:punct	_
 

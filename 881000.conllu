@@ -5,9 +5,9 @@
 2	ship	_	Word	Word	_	0	root	0:root	_
 3	’s	_	Word	Word	_	2	R	2:R	_
 4	officers	_	Word	Word	_	2	orphan	2:orphan	_
-5	shared	_	Word	Word	_	7	E	7:E	_
-6	the	_	Word	Word	_	7	E	7:E	_
-7	views	_	Word	Word	_	2	orphan	2:orphan	_
+5	shared	_	Word	Word	_	2	orphan	2:orphan	_
+6	the	_	Word	Word	_	5	flat	5:flat	_
+7	views	_	Word	Word	_	5	flat	5:flat	_
 8	of	_	Word	Word	_	10	R	10:R	_
 9	their	_	Word	Word	_	10	E	10:E	_
 10	leader	_	Word	Word	_	2	orphan	2:orphan	_

@@ -1,5 +1,5 @@
 # sent_id = 59001
-# text = Within moments they had located a hole two meters in width on the steamer \u2019s underside .
+# text = Within moments they had located a hole two meters in width on the steamer 's underside .
 # doc_id = 
 1	Within	_	Word	Word	_	2	R	2:R	_
 2	moments	_	Word	Word	_	0	root	0:root	_
@@ -15,7 +15,7 @@
 12	on	_	Word	Word	_	16	R	16:R	_
 13	the	_	Word	Word	_	14	E	14:E	_
 14	steamer	_	Word	Word	_	2	orphan	2:orphan	_
-15	\u2019s	_	Word	Word	_	14	R	14:R	_
+15	's	_	Word	Word	_	14	R	14:R	_
 16	underside	_	Word	Word	_	2	orphan	2:orphan	_
 17	.	_	Punctuation	Punctuation	_	16	punct	16:punct	_
 

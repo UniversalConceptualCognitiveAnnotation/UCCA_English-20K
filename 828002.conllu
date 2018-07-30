@@ -1,19 +1,11 @@
 # sent_id = 828002
-# text = This is one of those voyages from which people don ’t always come back !
+# text = ” “ As master wishes . ”
 # doc_id = 
-1	This	_	Word	Word	_	2	A	2:A	_
-2	is	_	Word	Word	_	0	root	0:root	_
-3	one	_	Word	Word	_	2	orphan	2:orphan	_
-4	of	_	Word	Word	_	3	R	3:R	_
-5	those	_	Word	Word	_	6	E	6:E	_
-6	voyages	_	Word	Word	_	2	orphan	2:orphan	_
-7	from	_	Word	Word	_	2	orphan	2:orphan	_
-8	which	_	Word	Word	_	13	R	13:R	_
-9	people	_	Word	Word	_	13	A	13:A	_
-10	don	_	Word	Word	_	13	F	13:F	_
-11	’t	_	Word	Word	_	13	D	13:D	_
-12	always	_	Word	Word	_	13	D	13:D	_
-13	come	_	Word	Word	_	2	orphan	2:orphan	_
-14	back	_	Word	Word	_	13	flat	13:flat	_
-15	!	_	Punctuation	Punctuation	_	13	punct	13:punct	_
+1	”	_	Punctuation	Punctuation	_	5	punct	5:punct	_
+2	“	_	Punctuation	Punctuation	_	5	punct	5:punct	_
+3	As	_	Word	Word	_	5	D	5:D	_
+4	master	_	Word	Word	_	5	G	5:G	_
+5	wishes	_	Word	Word	_	0	root	0:root	_
+6	.	_	Punctuation	Punctuation	_	5	punct	5:punct	_
+7	”	_	Punctuation	Punctuation	_	5	punct	5:punct	_
 

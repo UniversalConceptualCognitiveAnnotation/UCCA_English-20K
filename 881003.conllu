@@ -1,5 +1,5 @@
 # sent_id = 881003
-# text = As often as the sun swept over its daily arc , the masts were populated with sailors whose feet itched and couldn ’t hold still on the planking of the deck below !
+# text = As often as the sun swept over its daily arc , the masts were populated with sailors whose feet itched and could n’t hold still on the planking of the deck below !
 # doc_id = 
 1	As	_	Word	Word	_	2	R	2:R	_
 2	often	_	Word	Word	_	0	root	0:root	_
@@ -19,13 +19,13 @@
 16	with	_	Word	Word	_	17	R	17:R	_
 17	sailors	_	Word	Word	_	2	orphan	2:orphan	_
 18	whose	_	Word	Word	_	20	R	20:R	_
-19	feet	_	Word	Word	_	2	orphan	2:orphan	_
+19	feet	_	Word	Word	_	20	A	20:A	_
 20	itched	_	Word	Word	_	2	orphan	2:orphan	_
 21	and	_	Word	Word	_	20	L	20:L	_
-22	couldn	_	Word	Word	_	24	F	24:F	_
-23	’t	_	Word	Word	_	24	D	24:D	_
+22	could	_	Word	Word	_	24	D	24:D	_
+23	n’t	_	Word	Word	_	24	D	24:D	_
 24	hold	_	Word	Word	_	2	orphan	2:orphan	_
-25	still	_	Word	Word	_	23	flat	23:flat	_
+25	still	_	Word	Word	_	24	flat	24:flat	_
 26	on	_	Word	Word	_	28	R	28:R	_
 27	the	_	Word	Word	_	28	E	28:E	_
 28	planking	_	Word	Word	_	2	orphan	2:orphan	_

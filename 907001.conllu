@@ -5,7 +5,7 @@
 2	“	_	Punctuation	Punctuation	_	3	punct	3:punct	_
 3	Right	_	Word	Word	_	0	root	0:root	_
 4	,	_	Punctuation	Punctuation	_	3	punct	3:punct	_
-5	Ned	_	Word	Word	_	3	flat	3:flat	_
+5	Ned	_	Word	Word	_	3	G	3:G	_
 6	,	_	Punctuation	Punctuation	_	3	punct	3:punct	_
 7	and	_	Word	Word	_	3	L	3:L	_
 8	then	_	Word	Word	_	3	L	3:L	_
@@ -15,11 +15,11 @@
 12	such	_	Word	Word	_	14	E	14:E	_
 13	a	_	Word	Word	_	14	E	14:E	_
 14	mass	_	Word	Word	_	3	orphan	3:orphan	_
-15	could	_	Word	Word	_	16	E	16:E	_
+15	could	_	Word	Word	_	16	D	16:D	_
 16	inflict	_	Word	Word	_	3	orphan	3:orphan	_
 17	if	_	Word	Word	_	3	L	3:L	_
 18	it	_	Word	Word	_	20	A	20:A	_
-19	were	_	Word	Word	_	20	F	20:F	_
+19	were	_	Word	Word	_	20	D	20:D	_
 20	launched	_	Word	Word	_	3	orphan	3:orphan	_
 21	with	_	Word	Word	_	23	R	23:R	_
 22	the	_	Word	Word	_	23	E	23:E	_

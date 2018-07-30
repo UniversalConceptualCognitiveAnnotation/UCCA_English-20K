@@ -1,10 +1,10 @@
 # sent_id = 43000
-# text = Fifteen days later and 2,000 leagues farther , the Helvetia from the Compagnie Nationale and the Shannon from the Royal Mail line , running on opposite tacks in that part of the Atlantic lying between the United States and Europe , respectively signaled each other that the monster had been sighted in latitude 42° 15\u2032 north and longitude 60° 35\u2032 west of the meridian of Greenwich .
+# text = Fifteen days later and 2,000 leagues farther , the Helvetia from the Compagnie Nationale and the Shannon from the Royal Mail line , running on opposite tacks in that part of the Atlantic lying between the United States and Europe , respectively signaled each other that the monster had been sighted in latitude 42° 15' north and longitude 60° 35' west of the meridian of Greenwich .
 # doc_id = 
 1	Fifteen	_	Word	Word	_	2	E	2:E	_
 2	days	_	Word	Word	_	0	root	0:root	_
 3	later	_	Word	Word	_	2	E	2:E	_
-4	and	_	Word	Word	_	2	N	2:N	_
+4	and	_	Word	Word	_	6	R	6:R	_
 5	2,000	_	Word	Word	_	6	E	6:E	_
 6	leagues	_	Word	Word	_	2	orphan	2:orphan	_
 7	farther	_	Word	Word	_	6	E	6:E	_
@@ -46,7 +46,7 @@
 43	signaled	_	Word	Word	_	2	orphan	2:orphan	_
 44	each	_	Word	Word	_	43	A	43:A	_
 45	other	_	Word	Word	_	44	flat	44:flat	_
-46	that	_	Word	Word	_	51	F	51:F	_
+46	that	_	Word	Word	_	51	R	51:R	_
 47	the	_	Word	Word	_	48	E	48:E	_
 48	monster	_	Word	Word	_	2	orphan	2:orphan	_
 49	had	_	Word	Word	_	51	F	51:F	_
@@ -55,12 +55,12 @@
 52	in	_	Word	Word	_	54	R	54:R	_
 53	latitude	_	Word	Word	_	54	E	54:E	_
 54	42°	_	Word	Word	_	2	orphan	2:orphan	_
-55	15\u2032	_	Word	Word	_	54	flat	54:flat	_
+55	15'	_	Word	Word	_	54	flat	54:flat	_
 56	north	_	Word	Word	_	54	flat	54:flat	_
 57	and	_	Word	Word	_	54	N	54:N	_
 58	longitude	_	Word	Word	_	59	E	59:E	_
 59	60°	_	Word	Word	_	2	orphan	2:orphan	_
-60	35\u2032	_	Word	Word	_	59	flat	59:flat	_
+60	35'	_	Word	Word	_	59	flat	59:flat	_
 61	west	_	Word	Word	_	59	flat	59:flat	_
 62	of	_	Word	Word	_	64	R	64:R	_
 63	the	_	Word	Word	_	64	E	64:E	_

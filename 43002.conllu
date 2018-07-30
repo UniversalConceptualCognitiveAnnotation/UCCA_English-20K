@@ -1,5 +1,5 @@
 # sent_id = 43002
-# text = Now then , the biggest whales , those rorqual whales that frequent the waterways of the Aleutian Islands , have never exceeded a length of 56 meters \u2014 if they reach even that .
+# text = Now then , the biggest whales , those rorqual whales that frequent the waterways of the Aleutian Islands , have never exceeded a length of 56 meters - if they reach even that .
 # doc_id = 
 1	Now	_	Word	Word	_	22	L	22:L	_
 2	then	_	Word	Word	_	1	flat	1:flat	_
@@ -11,7 +11,7 @@
 8	those	_	Word	Word	_	10	E	10:E	_
 9	rorqual	_	Word	Word	_	10	E	10:E	_
 10	whales	_	Word	Word	_	6	orphan	6:orphan	_
-11	that	_	Word	Word	_	12	F	12:F	_
+11	that	_	Word	Word	_	12	R	12:R	_
 12	frequent	_	Word	Word	_	6	orphan	6:orphan	_
 13	the	_	Word	Word	_	14	E	14:E	_
 14	waterways	_	Word	Word	_	6	orphan	6:orphan	_
@@ -21,18 +21,18 @@
 18	Islands	_	Word	Word	_	6	orphan	6:orphan	_
 19	,	_	Punctuation	Punctuation	_	22	punct	22:punct	_
 20	have	_	Word	Word	_	22	F	22:F	_
-21	never	_	Word	Word	_	22	D	22:D	_
+21	never	_	Word	Word	_	22	T	22:T	_
 22	exceeded	_	Word	Word	_	6	orphan	6:orphan	_
 23	a	_	Word	Word	_	24	E	24:E	_
 24	length	_	Word	Word	_	6	orphan	6:orphan	_
 25	of	_	Word	Word	_	27	R	27:R	_
 26	56	_	Word	Word	_	27	E	27:E	_
 27	meters	_	Word	Word	_	6	orphan	6:orphan	_
-28	\u2014	_	Punctuation	Punctuation	_	22	punct	22:punct	_
+28	-	_	Punctuation	Punctuation	_	22	punct	22:punct	_
 29	if	_	Word	Word	_	22	L	22:L	_
 30	they	_	Word	Word	_	31	A	31:A	_
 31	reach	_	Word	Word	_	6	orphan	6:orphan	_
-32	even	_	Word	Word	_	33	E	33:E	_
-33	that	_	Word	Word	_	6	orphan	6:orphan	_
-34	.	_	Punctuation	Punctuation	_	33	punct	33:punct	_
+32	even	_	Word	Word	_	31	G	31:G	_
+33	that	_	Word	Word	_	31	A	31:A	_
+34	.	_	Punctuation	Punctuation	_	31	punct	31:punct	_
 

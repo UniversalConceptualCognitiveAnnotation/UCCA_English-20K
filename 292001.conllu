@@ -23,14 +23,14 @@
 20	which	_	Word	Word	_	24	R	24:R	_
 21	in	_	Word	Word	_	22	R	22:R	_
 22	turn	_	Word	Word	_	2	orphan	2:orphan	_
-23	will	_	Word	Word	_	24	E	24:E	_
+23	will	_	Word	Word	_	24	D	24:D	_
 24	lead	_	Word	Word	_	2	orphan	2:orphan	_
 25	to	_	Word	Word	_	28	R	28:R	_
 26	the	_	Word	Word	_	27	E	27:E	_
 27	world	_	Word	Word	_	2	orphan	2:orphan	_
 28	putting	_	Word	Word	_	2	orphan	2:orphan	_
-29	its	_	Word	Word	_	30	E	30:E	_
-30	foot	_	Word	Word	_	2	orphan	2:orphan	_
-31	down	_	Word	Word	_	28	A	28:A	_
+29	its	_	Word	Word	_	28	flat	28:flat	_
+30	foot	_	Word	Word	_	28	flat	28:flat	_
+31	down	_	Word	Word	_	28	flat	28:flat	_
 32	.	_	Punctuation	Punctuation	_	28	punct	28:punct	_
 

@@ -5,7 +5,7 @@
 2	when	_	Word	Word	_	4	L	4:L	_
 3	they	_	Word	Word	_	4	A	4:A	_
 4	examined	_	Word	Word	_	0	root	0:root	_
-5	its	_	Word	Word	_	6	E	6:E	_
+5	its	_	Word	Word	_	6	R	6:R	_
 6	undersides	_	Word	Word	_	4	orphan	4:orphan	_
 7	in	_	Word	Word	_	10	R	10:R	_
 8	the	_	Word	Word	_	10	E	10:E	_
@@ -14,7 +14,7 @@
 11	,	_	Punctuation	Punctuation	_	4	punct	4:punct	_
 12	they	_	Word	Word	_	13	A	13:A	_
 13	discovered	_	Word	Word	_	4	orphan	4:orphan	_
-14	that	_	Word	Word	_	21	F	21:F	_
+14	that	_	Word	Word	_	21	R	21:R	_
 15	part	_	Word	Word	_	4	orphan	4:orphan	_
 16	of	_	Word	Word	_	15	R	15:R	_
 17	its	_	Word	Word	_	18	E	18:E	_

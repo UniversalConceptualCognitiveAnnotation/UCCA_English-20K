@@ -2,7 +2,7 @@
 # text = They could be heard chatting , discussing , arguing , calculating the different chances of an encounter , and observing the vast expanse of the ocean .
 # doc_id = 
 1	They	_	Word	Word	_	5	A	5:A	_
-2	could	_	Word	Word	_	4	E	4:E	_
+2	could	_	Word	Word	_	4	D	4:D	_
 3	be	_	Word	Word	_	4	F	4:F	_
 4	heard	_	Word	Word	_	0	root	0:root	_
 5	chatting	_	Word	Word	_	4	orphan	4:orphan	_

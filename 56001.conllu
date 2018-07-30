@@ -1,27 +1,27 @@
 # sent_id = 56001
-# text = This encounter seemed so minor that nobody on board would have been disturbed by it , had it not been for the shouts of crewmen in the hold , who climbed on deck yelling : \u201C We \u2019re sinking ! We \u2019re sinking ! \u201D
+# text = This encounter seemed so minor that nobody on board would have been disturbed by it , had it not been for the shouts of crewmen in the hold , who climbed on deck yelling : " We 're sinking ! We 're sinking ! "
 # doc_id = 
 1	This	_	Word	Word	_	2	E	2:E	_
 2	encounter	_	Word	Word	_	0	root	0:root	_
-3	seemed	_	Word	Word	_	5	E	5:E	_
+3	seemed	_	Word	Word	_	5	G	5:G	_
 4	so	_	Word	Word	_	5	E	5:E	_
 5	minor	_	Word	Word	_	2	orphan	2:orphan	_
 6	that	_	Word	Word	_	5	L	5:L	_
-7	nobody	_	Word	Word	_	2	orphan	2:orphan	_
+7	nobody	_	Word	Word	_	13	A	13:A	_
 8	on	_	Word	Word	_	9	R	9:R	_
 9	board	_	Word	Word	_	2	orphan	2:orphan	_
-10	would	_	Word	Word	_	13	E	13:E	_
+10	would	_	Word	Word	_	13	D	13:D	_
 11	have	_	Word	Word	_	13	F	13:F	_
 12	been	_	Word	Word	_	13	F	13:F	_
 13	disturbed	_	Word	Word	_	2	orphan	2:orphan	_
 14	by	_	Word	Word	_	15	R	15:R	_
 15	it	_	Word	Word	_	2	orphan	2:orphan	_
 16	,	_	Punctuation	Punctuation	_	5	punct	5:punct	_
-17	had	_	Word	Word	_	2	orphan	2:orphan	_
-18	it	_	Word	Word	_	17	A	17:A	_
-19	not	_	Word	Word	_	17	D	17:D	_
-20	been	_	Word	Word	_	17	F	17:F	_
-21	for	_	Word	Word	_	23	R	23:R	_
+17	had	_	Word	Word	_	23	D	23:D	_
+18	it	_	Word	Word	_	17	flat	17:flat	_
+19	not	_	Word	Word	_	17	flat	17:flat	_
+20	been	_	Word	Word	_	17	flat	17:flat	_
+21	for	_	Word	Word	_	17	flat	17:flat	_
 22	the	_	Word	Word	_	23	E	23:E	_
 23	shouts	_	Word	Word	_	2	orphan	2:orphan	_
 24	of	_	Word	Word	_	25	R	25:R	_
@@ -36,14 +36,14 @@
 33	deck	_	Word	Word	_	2	orphan	2:orphan	_
 34	yelling	_	Word	Word	_	2	orphan	2:orphan	_
 35	:	_	Punctuation	Punctuation	_	34	punct	34:punct	_
-36	\u201C	_	Punctuation	Punctuation	_	34	punct	34:punct	_
+36	"	_	Punctuation	Punctuation	_	34	punct	34:punct	_
 37	We	_	Word	Word	_	39	A	39:A	_
-38	\u2019re	_	Word	Word	_	39	F	39:F	_
+38	're	_	Word	Word	_	39	F	39:F	_
 39	sinking	_	Word	Word	_	2	orphan	2:orphan	_
 40	!	_	Punctuation	Punctuation	_	39	punct	39:punct	_
 41	We	_	Word	Word	_	43	A	43:A	_
-42	\u2019re	_	Word	Word	_	43	F	43:F	_
+42	're	_	Word	Word	_	43	F	43:F	_
 43	sinking	_	Word	Word	_	2	orphan	2:orphan	_
 44	!	_	Punctuation	Punctuation	_	43	punct	43:punct	_
-45	\u201D	_	Punctuation	Punctuation	_	43	punct	43:punct	_
+45	"	_	Punctuation	Punctuation	_	43	punct	43:punct	_
 

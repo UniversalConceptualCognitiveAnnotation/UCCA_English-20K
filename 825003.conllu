@@ -2,7 +2,7 @@
 # text = What would Conseil say ?
 # doc_id = 
 1	What	_	Word	Word	_	4	A	4:A	_
-2	would	_	Word	Word	_	4	E	4:E	_
+2	would	_	Word	Word	_	4	D	4:D	_
 3	Conseil	_	Word	Word	_	4	A	4:A	_
 4	say	_	Word	Word	_	0	root	0:root	_
 5	?	_	Punctuation	Punctuation	_	4	punct	4:punct	_

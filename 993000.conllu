@@ -13,7 +13,7 @@
 10	the	_	Word	Word	_	12	E	12:E	_
 11	starboard	_	Word	Word	_	12	E	12:E	_
 12	rail.	_	Word	Word	_	4	orphan	4:orphan	_
-13	Conseil,	_	Word	Word	_	17	A	17:A	_
+13	Conseil,	_	Word	Word	_	4	orphan	4:orphan	_
 14	stationed	_	Word	Word	_	4	orphan	4:orphan	_
 15	beside	_	Word	Word	_	16	R	16:R	_
 16	me,	_	Word	Word	_	4	orphan	4:orphan	_
@@ -46,7 +46,7 @@
 43	their	_	Word	Word	_	45	E	45:E	_
 44	night	_	Word	Word	_	45	E	45:E	_
 45	glasses.	_	Word	Word	_	4	orphan	4:orphan	_
-46	Sometimes	_	Word	Word	_	50	D	50:D	_
+46	Sometimes	_	Word	Word	_	50	T	50:T	_
 47	the	_	Word	Word	_	49	E	49:E	_
 48	murky	_	Word	Word	_	49	E	49:E	_
 49	ocean	_	Word	Word	_	4	orphan	4:orphan	_

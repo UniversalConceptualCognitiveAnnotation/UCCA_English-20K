@@ -1,31 +1,7 @@
 # sent_id = 310006
-# text = Why not ? Formerly , in prehistoric days , land animals ( quadrupeds , apes , reptiles , birds ) were built on a gigantic scale .
+# text = Why not ?
 # doc_id = 
 1	Why	_	Word	Word	_	0	root	0:root	_
-2	not	_	Word	Word	_	1	flat	1:flat	_
+2	not	_	Word	Word	_	1	D	1:D	_
 3	?	_	Punctuation	Punctuation	_	1	punct	1:punct	_
-4	Formerly	_	Word	Word	_	22	D	22:D	_
-5	,	_	Punctuation	Punctuation	_	22	punct	22:punct	_
-6	in	_	Word	Word	_	8	R	8:R	_
-7	prehistoric	_	Word	Word	_	8	E	8:E	_
-8	days	_	Word	Word	_	1	orphan	1:orphan	_
-9	,	_	Punctuation	Punctuation	_	22	punct	22:punct	_
-10	land	_	Word	Word	_	11	E	11:E	_
-11	animals	_	Word	Word	_	1	orphan	1:orphan	_
-12	(	_	Punctuation	Punctuation	_	11	punct	11:punct	_
-13	quadrupeds	_	Word	Word	_	1	orphan	1:orphan	_
-14	,	_	Punctuation	Punctuation	_	13	punct	13:punct	_
-15	apes	_	Word	Word	_	13	C	13:C	_
-16	,	_	Punctuation	Punctuation	_	13	punct	13:punct	_
-17	reptiles	_	Word	Word	_	13	C	13:C	_
-18	,	_	Punctuation	Punctuation	_	13	punct	13:punct	_
-19	birds	_	Word	Word	_	13	C	13:C	_
-20	)	_	Punctuation	Punctuation	_	22	punct	22:punct	_
-21	were	_	Word	Word	_	22	F	22:F	_
-22	built	_	Word	Word	_	1	orphan	1:orphan	_
-23	on	_	Word	Word	_	26	R	26:R	_
-24	a	_	Word	Word	_	26	E	26:E	_
-25	gigantic	_	Word	Word	_	26	E	26:E	_
-26	scale	_	Word	Word	_	1	orphan	1:orphan	_
-27	.	_	Punctuation	Punctuation	_	26	punct	26:punct	_
 

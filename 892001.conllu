@@ -1,14 +1,14 @@
 # sent_id = 892001
-# text = I must admit that he flatly didn ’t believe in the unicorn , and alone on board , he didn ’t share the general conviction .
+# text = I must admit that he flatly did n’t believe in the unicorn , and alone on board , he did n’t share the general conviction .
 # doc_id = 
 1	I	_	Word	Word	_	3	A	3:A	_
-2	must	_	Word	Word	_	3	E	3:E	_
+2	must	_	Word	Word	_	3	D	3:D	_
 3	admit	_	Word	Word	_	0	root	0:root	_
-4	that	_	Word	Word	_	3	F	3:F	_
+4	that	_	Word	Word	_	9	R	9:R	_
 5	he	_	Word	Word	_	9	A	9:A	_
 6	flatly	_	Word	Word	_	9	D	9:D	_
-7	didn	_	Word	Word	_	9	F	9:F	_
-8	’t	_	Word	Word	_	9	D	9:D	_
+7	did	_	Word	Word	_	9	F	9:F	_
+8	n’t	_	Word	Word	_	9	D	9:D	_
 9	believe	_	Word	Word	_	3	orphan	3:orphan	_
 10	in	_	Word	Word	_	12	R	12:R	_
 11	the	_	Word	Word	_	12	E	12:E	_
@@ -20,8 +20,8 @@
 17	board	_	Word	Word	_	3	orphan	3:orphan	_
 18	,	_	Punctuation	Punctuation	_	22	punct	22:punct	_
 19	he	_	Word	Word	_	22	A	22:A	_
-20	didn	_	Word	Word	_	22	F	22:F	_
-21	’t	_	Word	Word	_	22	D	22:D	_
+20	did	_	Word	Word	_	22	F	22:F	_
+21	n’t	_	Word	Word	_	22	D	22:D	_
 22	share	_	Word	Word	_	3	orphan	3:orphan	_
 23	the	_	Word	Word	_	25	E	25:E	_
 24	general	_	Word	Word	_	25	E	25:E	_

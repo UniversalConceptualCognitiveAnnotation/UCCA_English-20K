@@ -14,12 +14,12 @@
 11	quarto	_	Word	Word	_	2	orphan	2:orphan	_
 12	,	_	Punctuation	Punctuation	_	8	punct	8:punct	_
 13	entitled	_	Word	Word	_	2	orphan	2:orphan	_
-14	The	_	Word	Word	_	15	E	15:E	_
-15	Mysteries	_	Word	Word	_	2	orphan	2:orphan	_
-16	of	_	Word	Word	_	20	R	20:R	_
-17	the	_	Word	Word	_	20	E	20:E	_
-18	Great	_	Word	Word	_	20	E	20:E	_
-19	Ocean	_	Word	Word	_	20	E	20:E	_
-20	Depths	_	Word	Word	_	2	orphan	2:orphan	_
-21	.	_	Punctuation	Punctuation	_	20	punct	20:punct	_
+14	The	_	Word	Word	_	13	A	13:A	_
+15	Mysteries	_	Word	Word	_	14	flat	14:flat	_
+16	of	_	Word	Word	_	14	flat	14:flat	_
+17	the	_	Word	Word	_	14	flat	14:flat	_
+18	Great	_	Word	Word	_	14	flat	14:flat	_
+19	Ocean	_	Word	Word	_	14	flat	14:flat	_
+20	Depths	_	Word	Word	_	14	flat	14:flat	_
+21	.	_	Punctuation	Punctuation	_	13	punct	13:punct	_
 

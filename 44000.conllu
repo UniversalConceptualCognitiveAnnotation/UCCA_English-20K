@@ -1,5 +1,5 @@
 # sent_id = 44000
-# text = One after another , reports arrived that would profoundly affect public opinion : new observations taken by the transatlantic liner Pereire , the Inman line \u2019s Etna running afoul of the monster , an official report drawn up by officers on the French frigate Normandy , dead - earnest reckonings obtained by the general staff of Commodore Fitz-James aboard the Lord Clyde .
+# text = One after another , reports arrived that would profoundly affect public opinion : new observations taken by the transatlantic liner Pereire , the Inman line 's Etna running afoul of the monster , an official report drawn up by officers on the French frigate Normandy , dead - earnest reckonings obtained by the general staff of Commodore Fitz-James aboard the Lord Clyde .
 # doc_id = 
 1	One	_	Word	Word	_	0	root	0:root	_
 2	after	_	Word	Word	_	1	R	1:R	_
@@ -7,8 +7,8 @@
 4	,	_	Punctuation	Punctuation	_	6	punct	6:punct	_
 5	reports	_	Word	Word	_	1	orphan	1:orphan	_
 6	arrived	_	Word	Word	_	1	orphan	1:orphan	_
-7	that	_	Word	Word	_	10	F	10:F	_
-8	would	_	Word	Word	_	10	E	10:E	_
+7	that	_	Word	Word	_	10	R	10:R	_
+8	would	_	Word	Word	_	10	F	10:F	_
 9	profoundly	_	Word	Word	_	10	D	10:D	_
 10	affect	_	Word	Word	_	1	orphan	1:orphan	_
 11	public	_	Word	Word	_	12	E	12:E	_
@@ -23,10 +23,10 @@
 20	liner	_	Word	Word	_	1	orphan	1:orphan	_
 21	Pereire	_	Word	Word	_	1	orphan	1:orphan	_
 22	,	_	Punctuation	Punctuation	_	16	punct	16:punct	_
-23	the	_	Word	Word	_	28	E	28:E	_
+23	the	_	Word	Word	_	27	E	27:E	_
 24	Inman	_	Word	Word	_	25	E	25:E	_
 25	line	_	Word	Word	_	1	orphan	1:orphan	_
-26	\u2019s	_	Word	Word	_	27	F	27:F	_
+26	's	_	Word	Word	_	27	R	27:R	_
 27	Etna	_	Word	Word	_	1	orphan	1:orphan	_
 28	running	_	Word	Word	_	1	orphan	1:orphan	_
 29	afoul	_	Word	Word	_	28	flat	28:flat	_
@@ -47,7 +47,7 @@
 44	frigate	_	Word	Word	_	1	orphan	1:orphan	_
 45	Normandy	_	Word	Word	_	1	orphan	1:orphan	_
 46	,	_	Punctuation	Punctuation	_	16	punct	16:punct	_
-47	dead	_	Word	Word	_	50	E	50:E	_
+47	dead	_	Word	Word	_	50	D	50:D	_
 48	-	_	Punctuation	Punctuation	_	50	punct	50:punct	_
 49	earnest	_	Word	Word	_	47	flat	47:flat	_
 50	reckonings	_	Word	Word	_	1	orphan	1:orphan	_

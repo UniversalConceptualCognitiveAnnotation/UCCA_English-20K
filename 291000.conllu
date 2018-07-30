@@ -1,5 +1,5 @@
 # sent_id = 291000
-# text = Now then , although the latter hypothesis was completely admissible , it couldn ’t stand up to inquiries conducted in both the New World and the Old .
+# text = Now then , although the latter hypothesis was completely admissible , it could n’t stand up to inquiries conducted in both the New World and the Old .
 # doc_id = 
 1	Now	_	Word	Word	_	10	L	10:L	_
 2	then	_	Word	Word	_	1	flat	1:flat	_
@@ -13,8 +13,8 @@
 10	admissible	_	Word	Word	_	7	orphan	7:orphan	_
 11	,	_	Punctuation	Punctuation	_	10	punct	10:punct	_
 12	it	_	Word	Word	_	15	A	15:A	_
-13	couldn	_	Word	Word	_	15	E	15:E	_
-14	’t	_	Word	Word	_	15	D	15:D	_
+13	could	_	Word	Word	_	15	D	15:D	_
+14	n’t	_	Word	Word	_	15	D	15:D	_
 15	stand	_	Word	Word	_	7	orphan	7:orphan	_
 16	up	_	Word	Word	_	15	flat	15:flat	_
 17	to	_	Word	Word	_	18	R	18:R	_

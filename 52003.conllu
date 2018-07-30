@@ -1,14 +1,14 @@
 # sent_id = 52003
 # text = In 1853 the Cunard Co . , whose mail - carrying charter had just been renewed , successively added to its assets the Arabia , the Persia , the China , the Scotia , the Java , and the Russia , all ships of top speed and , after the Great Eastern , the biggest ever to plow the seas .
 # doc_id = 
-1	In	_	Word	Word	_	2	E	2:E	_
+1	In	_	Word	Word	_	2	R	2:R	_
 2	1853	_	Word	Word	_	0	root	0:root	_
 3	the	_	Word	Word	_	4	E	4:E	_
 4	Cunard	_	Word	Word	_	2	orphan	2:orphan	_
 5	Co	_	Word	Word	_	4	flat	4:flat	_
 6	.	_	Punctuation	Punctuation	_	4	punct	4:punct	_
 7	,	_	Punctuation	Punctuation	_	4	punct	4:punct	_
-8	whose	_	Word	Word	_	16	F	16:F	_
+8	whose	_	Word	Word	_	16	R	16:R	_
 9	mail	_	Word	Word	_	11	E	11:E	_
 10	-	_	Punctuation	Punctuation	_	11	punct	11:punct	_
 11	carrying	_	Word	Word	_	2	orphan	2:orphan	_
@@ -53,10 +53,10 @@
 50	the	_	Word	Word	_	51	E	51:E	_
 51	Great	_	Word	Word	_	2	orphan	2:orphan	_
 52	Eastern	_	Word	Word	_	51	flat	51:flat	_
-53	,	_	Punctuation	Punctuation	_	51	punct	51:punct	_
-54	the	_	Word	Word	_	51	E	51:E	_
-55	biggest	_	Word	Word	_	51	E	51:E	_
-56	ever	_	Word	Word	_	58	D	58:D	_
+53	,	_	Punctuation	Punctuation	_	54	punct	54:punct	_
+54	the	_	Word	Word	_	2	orphan	2:orphan	_
+55	biggest	_	Word	Word	_	54	E	54:E	_
+56	ever	_	Word	Word	_	54	D	54:D	_
 57	to	_	Word	Word	_	58	F	58:F	_
 58	plow	_	Word	Word	_	2	orphan	2:orphan	_
 59	the	_	Word	Word	_	60	E	60:E	_

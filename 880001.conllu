@@ -5,7 +5,7 @@
 2	ship	_	Word	Word	_	0	root	0:root	_
 3	and	_	Word	Word	_	2	N	2:N	_
 4	he	_	Word	Word	_	2	C	2:C	_
-5	were	_	Word	Word	_	2	orphan	2:orphan	_
-6	one	_	Word	Word	_	5	A	5:A	_
-7	.	_	Punctuation	Punctuation	_	5	punct	5:punct	_
+5	were	_	Word	Word	_	6	F	6:F	_
+6	one	_	Word	Word	_	2	orphan	2:orphan	_
+7	.	_	Punctuation	Punctuation	_	6	punct	6:punct	_
 

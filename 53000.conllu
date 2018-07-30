@@ -13,7 +13,7 @@
 10	is	_	Word	Word	_	11	F	11:F	_
 11	so	_	Word	Word	_	3	orphan	3:orphan	_
 12	everyone	_	Word	Word	_	15	A	15:A	_
-13	can	_	Word	Word	_	15	E	15:E	_
+13	can	_	Word	Word	_	15	D	15:D	_
 14	fully	_	Word	Word	_	15	D	15:D	_
 15	understand	_	Word	Word	_	3	orphan	3:orphan	_
 16	the	_	Word	Word	_	17	E	17:E	_
@@ -30,7 +30,7 @@
 27	over	_	Word	Word	_	26	R	26:R	_
 28	for	_	Word	Word	_	31	R	31:R	_
 29	its	_	Word	Word	_	31	E	31:E	_
-30	shrewd	_	Word	Word	_	31	E	31:E	_
+30	shrewd	_	Word	Word	_	31	D	31:D	_
 31	management	_	Word	Word	_	3	orphan	3:orphan	_
 32	.	_	Punctuation	Punctuation	_	31	punct	31:punct	_
 

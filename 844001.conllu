@@ -31,7 +31,7 @@
 28	,	_	Punctuation	Punctuation	_	4	punct	4:punct	_
 29	changing	_	Word	Word	_	2	orphan	2:orphan	_
 30	speed	_	Word	Word	_	29	A	29:A	_
-31	to	_	Word	Word	_	32	F	32:F	_
+31	to	_	Word	Word	_	4	L	4:L	_
 32	take	_	Word	Word	_	2	orphan	2:orphan	_
 33	the	_	Word	Word	_	37	E	37:E	_
 34	buoy	_	Word	Word	_	36	E	36:E	_
@@ -51,11 +51,11 @@
 48	of	_	Word	Word	_	49	R	49:R	_
 49	Sandy	_	Word	Word	_	2	orphan	2:orphan	_
 50	Hook	_	Word	Word	_	49	flat	49:flat	_
-51	,	_	Punctuation	Punctuation	_	32	punct	32:punct	_
+51	,	_	Punctuation	Punctuation	_	4	punct	4:punct	_
 52	it	_	Word	Word	_	53	A	53:A	_
 53	hugged	_	Word	Word	_	2	orphan	2:orphan	_
 54	this	_	Word	Word	_	58	E	58:E	_
-55	sand	_	Word	Word	_	57	E	57:E	_
+55	sand	_	Word	Word	_	57	A	57:A	_
 56	-	_	Punctuation	Punctuation	_	57	punct	57:punct	_
 57	covered	_	Word	Word	_	2	orphan	2:orphan	_
 58	strip	_	Word	Word	_	2	orphan	2:orphan	_

@@ -1,21 +1,22 @@
 # sent_id = 58002
-# text = Fortunately this compartment didn\u2019t contain the boilers , because their furnaces would have been abruptly extinguished .
+# text = Fortunately this compartment did n't contain the boilers , because their furnaces would have been abruptly extinguished .
 # doc_id = 
-1	Fortunately	_	Word	Word	_	5	D	5:D	_
+1	Fortunately	_	Word	Word	_	6	G	6:G	_
 2	this	_	Word	Word	_	3	E	3:E	_
 3	compartment	_	Word	Word	_	0	root	0:root	_
-4	didn\u2019t	_	Word	Word	_	5	F	5:F	_
-5	contain	_	Word	Word	_	3	orphan	3:orphan	_
-6	the	_	Word	Word	_	7	E	7:E	_
-7	boilers	_	Word	Word	_	3	orphan	3:orphan	_
-8	,	_	Punctuation	Punctuation	_	5	punct	5:punct	_
-9	because	_	Word	Word	_	5	L	5:L	_
-10	their	_	Word	Word	_	11	E	11:E	_
-11	furnaces	_	Word	Word	_	3	orphan	3:orphan	_
-12	would	_	Word	Word	_	16	E	16:E	_
-13	have	_	Word	Word	_	16	F	16:F	_
-14	been	_	Word	Word	_	16	F	16:F	_
-15	abruptly	_	Word	Word	_	16	D	16:D	_
-16	extinguished	_	Word	Word	_	3	orphan	3:orphan	_
-17	.	_	Punctuation	Punctuation	_	16	punct	16:punct	_
+4	did	_	Word	Word	_	6	F	6:F	_
+5	n't	_	Word	Word	_	6	D	6:D	_
+6	contain	_	Word	Word	_	3	orphan	3:orphan	_
+7	the	_	Word	Word	_	8	E	8:E	_
+8	boilers	_	Word	Word	_	3	orphan	3:orphan	_
+9	,	_	Punctuation	Punctuation	_	6	punct	6:punct	_
+10	because	_	Word	Word	_	6	L	6:L	_
+11	their	_	Word	Word	_	12	E	12:E	_
+12	furnaces	_	Word	Word	_	3	orphan	3:orphan	_
+13	would	_	Word	Word	_	17	D	17:D	_
+14	have	_	Word	Word	_	17	F	17:F	_
+15	been	_	Word	Word	_	17	F	17:F	_
+16	abruptly	_	Word	Word	_	17	D	17:D	_
+17	extinguished	_	Word	Word	_	3	orphan	3:orphan	_
+18	.	_	Punctuation	Punctuation	_	17	punct	17:punct	_
 

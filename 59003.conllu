@@ -12,7 +12,7 @@
 9	Clear	_	Word	Word	_	8	flat	8:flat	_
 10	,	_	Punctuation	Punctuation	_	4	punct	4:punct	_
 11	and	_	Word	Word	_	4	L	4:L	_
-12	after	_	Word	Word	_	14	R	14:R	_
+12	after	_	Word	Word	_	4	L	4:L	_
 13	three	_	Word	Word	_	14	E	14:E	_
 14	days	_	Word	Word	_	2	orphan	2:orphan	_
 15	of	_	Word	Word	_	16	R	16:R	_
@@ -23,7 +23,7 @@
 20	with	_	Word	Word	_	22	R	22:R	_
 21	acute	_	Word	Word	_	22	E	22:E	_
 22	anxiety	_	Word	Word	_	2	orphan	2:orphan	_
-23	,	_	Punctuation	Punctuation	_	25	punct	25:punct	_
+23	,	_	Punctuation	Punctuation	_	4	punct	4:punct	_
 24	it	_	Word	Word	_	25	A	25:A	_
 25	entered	_	Word	Word	_	2	orphan	2:orphan	_
 26	the	_	Word	Word	_	28	E	28:E	_

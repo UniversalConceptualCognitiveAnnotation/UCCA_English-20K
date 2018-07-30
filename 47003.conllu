@@ -22,8 +22,8 @@
 19	off	_	Word	Word	_	18	flat	18:flat	_
 20	the	_	Word	Word	_	21	E	21:E	_
 21	monster	_	Word	Word	_	7	orphan	7:orphan	_
-22	for	_	Word	Word	_	23	F	23:F	_
-23	good	_	Word	Word	_	7	orphan	7:orphan	_
+22	for	_	Word	Word	_	18	D	18:D	_
+23	good	_	Word	Word	_	22	flat	22:flat	_
 24	,	_	Punctuation	Punctuation	_	18	punct	18:punct	_
 25	spurning	_	Word	Word	_	7	orphan	7:orphan	_
 26	it	_	Word	Word	_	25	A	25:A	_
@@ -49,9 +49,9 @@
 46	quietus	_	Word	Word	_	7	orphan	7:orphan	_
 47	amid	_	Word	Word	_	50	R	50:R	_
 48	a	_	Word	Word	_	50	E	50:E	_
-49	universal	_	Word	Word	_	50	E	50:E	_
+49	universal	_	Word	Word	_	50	D	50:D	_
 50	burst	_	Word	Word	_	7	orphan	7:orphan	_
-51	of	_	Word	Word	_	52	R	52:R	_
-52	laughter	_	Word	Word	_	7	orphan	7:orphan	_
-53	.	_	Punctuation	Punctuation	_	52	punct	52:punct	_
+51	of	_	Word	Word	_	50	flat	50:flat	_
+52	laughter	_	Word	Word	_	50	flat	50:flat	_
+53	.	_	Punctuation	Punctuation	_	50	punct	50:punct	_
 

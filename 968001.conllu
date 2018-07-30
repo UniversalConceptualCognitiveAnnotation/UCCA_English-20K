@@ -5,7 +5,7 @@
 2	one	_	Word	Word	_	3	E	3:E	_
 3	circumstance	_	Word	Word	_	0	root	0:root	_
 4	arose	_	Word	Word	_	3	orphan	3:orphan	_
-5	that	_	Word	Word	_	4	L	4:L	_
+5	that	_	Word	Word	_	6	R	6:R	_
 6	displayed	_	Word	Word	_	3	orphan	3:orphan	_
 7	Ned	_	Word	Word	_	3	orphan	3:orphan	_
 8	Land	_	Word	Word	_	7	flat	7:flat	_
@@ -19,7 +19,7 @@
 16	much	_	Word	Word	_	15	flat	15:flat	_
 17	confidence	_	Word	Word	_	3	orphan	3:orphan	_
 18	we	_	Word	Word	_	20	A	20:A	_
-19	could	_	Word	Word	_	20	E	20:E	_
+19	could	_	Word	Word	_	20	D	20:D	_
 20	place	_	Word	Word	_	3	orphan	3:orphan	_
 21	in	_	Word	Word	_	22	R	22:R	_
 22	him	_	Word	Word	_	3	orphan	3:orphan	_

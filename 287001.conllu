@@ -6,10 +6,10 @@
 3	read	_	Word	Word	_	0	root	0:root	_
 4	and	_	Word	Word	_	3	N	3:N	_
 5	reread	_	Word	Word	_	3	C	3:C	_
-6	every	_	Word	Word	_	3	orphan	3:orphan	_
-7	American	_	Word	Word	_	6	E	6:E	_
-8	and	_	Word	Word	_	6	N	6:N	_
-9	European	_	Word	Word	_	10	E	10:E	_
+6	every	_	Word	Word	_	10	E	10:E	_
+7	American	_	Word	Word	_	3	orphan	3:orphan	_
+8	and	_	Word	Word	_	7	N	7:N	_
+9	European	_	Word	Word	_	7	C	7:C	_
 10	newspaper	_	Word	Word	_	3	orphan	3:orphan	_
 11	without	_	Word	Word	_	3	L	3:L	_
 12	being	_	Word	Word	_	15	F	15:F	_

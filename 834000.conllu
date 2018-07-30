@@ -8,8 +8,8 @@
 5	letting	_	Word	Word	_	2	orphan	2:orphan	_
 6	the	_	Word	Word	_	7	E	7:E	_
 7	commander	_	Word	Word	_	2	orphan	2:orphan	_
-8	attend	_	Word	Word	_	10	E	10:E	_
-9	to	_	Word	Word	_	10	F	10:F	_
+8	attend	_	Word	Word	_	2	orphan	2:orphan	_
+9	to	_	Word	Word	_	8	flat	8:flat	_
 10	getting	_	Word	Word	_	2	orphan	2:orphan	_
 11	under	_	Word	Word	_	10	flat	10:flat	_
 12	way	_	Word	Word	_	10	flat	10:flat	_

@@ -3,10 +3,10 @@
 # doc_id = 
 1	Without	_	Word	Word	_	2	L	2:L	_
 2	getting	_	Word	Word	_	0	root	0:root	_
-3	into	_	Word	Word	_	5	R	5:R	_
+3	into	_	Word	Word	_	2	flat	2:flat	_
 4	those	_	Word	Word	_	5	E	5:E	_
 5	rumors	_	Word	Word	_	2	orphan	2:orphan	_
-6	that	_	Word	Word	_	5	F	5:F	_
+6	that	_	Word	Word	_	7	R	7:R	_
 7	upset	_	Word	Word	_	2	orphan	2:orphan	_
 8	civilians	_	Word	Word	_	7	A	7:A	_
 9	in	_	Word	Word	_	11	R	11:R	_
@@ -21,10 +21,10 @@
 18	far	_	Word	Word	_	19	E	19:E	_
 19	inland	_	Word	Word	_	2	orphan	2:orphan	_
 20	,	_	Punctuation	Punctuation	_	2	punct	2:punct	_
-21	it	_	Word	Word	_	24	F	24:F	_
-22	must	_	Word	Word	_	24	E	24:E	_
-23	be	_	Word	Word	_	24	F	24:F	_
-24	said	_	Word	Word	_	2	orphan	2:orphan	_
+21	it	_	Word	Word	_	30	F	30:F	_
+22	must	_	Word	Word	_	30	G	30:G	_
+23	be	_	Word	Word	_	22	flat	22:flat	_
+24	said	_	Word	Word	_	22	flat	22:flat	_
 25	that	_	Word	Word	_	30	F	30:F	_
 26	professional	_	Word	Word	_	27	E	27:E	_
 27	seamen	_	Word	Word	_	2	orphan	2:orphan	_

@@ -22,12 +22,12 @@
 19	others	_	Word	Word	_	5	orphan	5:orphan	_
 20	,	_	Punctuation	Punctuation	_	5	punct	5:punct	_
 21	as	_	Word	Word	_	5	L	5:L	_
-22	can	_	Word	Word	_	24	E	24:E	_
+22	can	_	Word	Word	_	24	D	24:D	_
 23	be	_	Word	Word	_	24	F	24:F	_
 24	seen	_	Word	Word	_	5	orphan	5:orphan	_
 25	in	_	Word	Word	_	28	R	28:R	_
 26	a	_	Word	Word	_	28	E	28:E	_
-27	recent	_	Word	Word	_	28	E	28:E	_
+27	recent	_	Word	Word	_	28	T	28:T	_
 28	survey	_	Word	Word	_	5	orphan	5:orphan	_
 29	of	_	Word	Word	_	31	R	31:R	_
 30	official	_	Word	Word	_	31	E	31:E	_

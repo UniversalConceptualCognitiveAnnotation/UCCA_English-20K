@@ -1,5 +1,5 @@
 # sent_id = 49000
-# text = On March 5 , 1867 , the Moravian from the Montreal Ocean Co . , lying during the night in latitude 27° 30\u2032 and longitude 72° 15\u2032 , ran its starboard quarter afoul of a rock marked on no charts of these waterways .
+# text = On March 5 , 1867 , the Moravian from the Montreal Ocean Co . , lying during the night in latitude 27° 30' and longitude 72° 15' , ran its starboard quarter afoul of a rock marked on no charts of these waterways .
 # doc_id = 
 1	On	_	Word	Word	_	2	R	2:R	_
 2	March	_	Word	Word	_	0	root	0:root	_
@@ -14,8 +14,8 @@
 11	Montreal	_	Word	Word	_	2	orphan	2:orphan	_
 12	Ocean	_	Word	Word	_	11	flat	11:flat	_
 13	Co	_	Word	Word	_	11	flat	11:flat	_
-14	.	_	Punctuation	Punctuation	_	29	punct	29:punct	_
-15	,	_	Punctuation	Punctuation	_	29	punct	29:punct	_
+14	.	_	Punctuation	Punctuation	_	8	punct	8:punct	_
+15	,	_	Punctuation	Punctuation	_	8	punct	8:punct	_
 16	lying	_	Word	Word	_	2	orphan	2:orphan	_
 17	during	_	Word	Word	_	19	R	19:R	_
 18	the	_	Word	Word	_	19	E	19:E	_
@@ -23,11 +23,11 @@
 20	in	_	Word	Word	_	22	R	22:R	_
 21	latitude	_	Word	Word	_	22	E	22:E	_
 22	27°	_	Word	Word	_	2	orphan	2:orphan	_
-23	30\u2032	_	Word	Word	_	22	flat	22:flat	_
+23	30'	_	Word	Word	_	22	flat	22:flat	_
 24	and	_	Word	Word	_	22	N	22:N	_
 25	longitude	_	Word	Word	_	26	E	26:E	_
 26	72°	_	Word	Word	_	2	orphan	2:orphan	_
-27	15\u2032	_	Word	Word	_	26	flat	26:flat	_
+27	15'	_	Word	Word	_	26	flat	26:flat	_
 28	,	_	Punctuation	Punctuation	_	29	punct	29:punct	_
 29	ran	_	Word	Word	_	2	orphan	2:orphan	_
 30	its	_	Word	Word	_	32	E	32:E	_

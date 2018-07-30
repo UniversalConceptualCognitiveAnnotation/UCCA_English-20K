@@ -1,7 +1,7 @@
 # sent_id = 289000
 # text = Also discredited was the idea of a floating hull or some other enormous wreckage , and again because of this speed of movement .
 # doc_id = 
-1	Also	_	Word	Word	_	2	D	2:D	_
+1	Also	_	Word	Word	_	2	L	2:L	_
 2	discredited	_	Word	Word	_	0	root	0:root	_
 3	was	_	Word	Word	_	2	F	2:F	_
 4	the	_	Word	Word	_	5	E	5:E	_
@@ -16,13 +16,13 @@
 13	enormous	_	Word	Word	_	14	E	14:E	_
 14	wreckage	_	Word	Word	_	2	orphan	2:orphan	_
 15	,	_	Punctuation	Punctuation	_	2	punct	2:punct	_
-16	and	_	Word	Word	_	2	F	2:F	_
-17	again	_	Word	Word	_	18	E	18:E	_
-18	because	_	Word	Word	_	2	orphan	2:orphan	_
+16	and	_	Word	Word	_	2	orphan	2:orphan	_
+17	again	_	Word	Word	_	16	C	16:C	_
+18	because	_	Word	Word	_	21	R	21:R	_
 19	of	_	Word	Word	_	18	flat	18:flat	_
 20	this	_	Word	Word	_	21	E	21:E	_
 21	speed	_	Word	Word	_	2	orphan	2:orphan	_
-22	of	_	Word	Word	_	23	R	23:R	_
-23	movement	_	Word	Word	_	2	orphan	2:orphan	_
-24	.	_	Punctuation	Punctuation	_	23	punct	23:punct	_
+22	of	_	Word	Word	_	21	flat	21:flat	_
+23	movement	_	Word	Word	_	21	flat	21:flat	_
+24	.	_	Punctuation	Punctuation	_	21	punct	21:punct	_
 

@@ -18,8 +18,8 @@
 15	abreast	_	Word	Word	_	2	orphan	2:orphan	_
 16	of	_	Word	Word	_	15	R	15:R	_
 17	Cabo	_	Word	Word	_	2	orphan	2:orphan	_
-18	de	_	Word	Word	_	20	R	20:R	_
-19	las	_	Word	Word	_	20	E	20:E	_
-20	Virgenes	_	Word	Word	_	2	orphan	2:orphan	_
-21	.	_	Punctuation	Punctuation	_	20	punct	20:punct	_
+18	de	_	Word	Word	_	17	flat	17:flat	_
+19	las	_	Word	Word	_	17	flat	17:flat	_
+20	Virgenes	_	Word	Word	_	17	flat	17:flat	_
+21	.	_	Punctuation	Punctuation	_	17	punct	17:punct	_
 

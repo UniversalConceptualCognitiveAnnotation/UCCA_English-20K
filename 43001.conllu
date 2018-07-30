@@ -1,5 +1,5 @@
 # sent_id = 43001
-# text = From their simultaneous observations , they were able to estimate the mammal \u2019s minimum length at more than 350 English feet ; this was because both the Shannon and the Helvetia were of smaller dimensions , although each measured 100 meters stem to stern .
+# text = From their simultaneous observations , they were able to estimate the mammal 's minimum length at more than 350 English feet ; this was because both the Shannon and the Helvetia were of smaller dimensions , although each measured 100 meters stem to stern .
 # doc_id = 
 1	From	_	Word	Word	_	4	R	4:R	_
 2	their	_	Word	Word	_	4	E	4:E	_
@@ -8,12 +8,12 @@
 5	,	_	Punctuation	Punctuation	_	10	punct	10:punct	_
 6	they	_	Word	Word	_	10	A	10:A	_
 7	were	_	Word	Word	_	10	F	10:F	_
-8	able	_	Word	Word	_	10	E	10:E	_
+8	able	_	Word	Word	_	10	D	10:D	_
 9	to	_	Word	Word	_	10	F	10:F	_
 10	estimate	_	Word	Word	_	4	orphan	4:orphan	_
 11	the	_	Word	Word	_	15	E	15:E	_
 12	mammal	_	Word	Word	_	15	E	15:E	_
-13	\u2019s	_	Word	Word	_	15	F	15:F	_
+13	's	_	Word	Word	_	15	F	15:F	_
 14	minimum	_	Word	Word	_	15	E	15:E	_
 15	length	_	Word	Word	_	4	orphan	4:orphan	_
 16	at	_	Word	Word	_	21	R	21:R	_
@@ -38,7 +38,7 @@
 35	dimensions	_	Word	Word	_	4	orphan	4:orphan	_
 36	,	_	Punctuation	Punctuation	_	10	punct	10:punct	_
 37	although	_	Word	Word	_	10	L	10:L	_
-38	each	_	Word	Word	_	4	orphan	4:orphan	_
+38	each	_	Word	Word	_	39	A	39:A	_
 39	measured	_	Word	Word	_	4	orphan	4:orphan	_
 40	100	_	Word	Word	_	41	E	41:E	_
 41	meters	_	Word	Word	_	4	orphan	4:orphan	_

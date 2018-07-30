@@ -1,5 +1,5 @@
 # sent_id = 45003
-# text = They even reprinted reports from ancient times : the views of Aristotle and Pliny accepting the existence of such monsters , then the Norwegian stories of Bishop Pontoppidan , the narratives of Paul Egede , and finally the reports of Captain Harrington \u2014 whose good faith is above suspicion \u2014 in which he claims he saw , while aboard the Castilian in 1857 , one of those enormous serpents that , until then , had frequented only the seas of France \u2019 s old extremist newspaper , The Constitutionalist
+# text = They even reprinted reports from ancient times : the views of Aristotle and Pliny accepting the existence of such monsters , then the Norwegian stories of Bishop Pontoppidan , the narratives of Paul Egede , and finally the reports of Captain Harrington - whose good faith is above suspicion - in which he claims he saw , while aboard the Castilian in 1857 , one of those enormous serpents that , until then , had frequented only the seas of France ' s old extremist newspaper , The Constitutionalist
 # doc_id = 
 1	They	_	Word	Word	_	3	A	3:A	_
 2	even	_	Word	Word	_	3	G	3:G	_
@@ -18,7 +18,7 @@
 15	accepting	_	Word	Word	_	3	orphan	3:orphan	_
 16	the	_	Word	Word	_	17	E	17:E	_
 17	existence	_	Word	Word	_	3	orphan	3:orphan	_
-18	of	_	Word	Word	_	17	R	17:R	_
+18	of	_	Word	Word	_	20	R	20:R	_
 19	such	_	Word	Word	_	20	E	20:E	_
 20	monsters	_	Word	Word	_	3	orphan	3:orphan	_
 21	,	_	Punctuation	Punctuation	_	10	punct	10:punct	_
@@ -43,16 +43,16 @@
 40	of	_	Word	Word	_	41	R	41:R	_
 41	Captain	_	Word	Word	_	3	orphan	3:orphan	_
 42	Harrington	_	Word	Word	_	41	flat	41:flat	_
-43	\u2014	_	Punctuation	Punctuation	_	41	punct	41:punct	_
-44	whose	_	Word	Word	_	49	F	49:F	_
+43	-	_	Punctuation	Punctuation	_	41	punct	41:punct	_
+44	whose	_	Word	Word	_	49	R	49:R	_
 45	good	_	Word	Word	_	46	E	46:E	_
 46	faith	_	Word	Word	_	3	orphan	3:orphan	_
 47	is	_	Word	Word	_	49	F	49:F	_
 48	above	_	Word	Word	_	49	E	49:E	_
 49	suspicion	_	Word	Word	_	3	orphan	3:orphan	_
-50	\u2014	_	Punctuation	Punctuation	_	39	punct	39:punct	_
+50	-	_	Punctuation	Punctuation	_	39	punct	39:punct	_
 51	in	_	Word	Word	_	54	R	54:R	_
-52	which	_	Word	Word	_	54	F	54:F	_
+52	which	_	Word	Word	_	51	flat	51:flat	_
 53	he	_	Word	Word	_	54	A	54:A	_
 54	claims	_	Word	Word	_	3	orphan	3:orphan	_
 55	he	_	Word	Word	_	56	A	56:A	_
@@ -70,7 +70,7 @@
 67	those	_	Word	Word	_	69	E	69:E	_
 68	enormous	_	Word	Word	_	69	E	69:E	_
 69	serpents	_	Word	Word	_	3	orphan	3:orphan	_
-70	that	_	Word	Word	_	76	F	76:F	_
+70	that	_	Word	Word	_	76	R	76:R	_
 71	,	_	Punctuation	Punctuation	_	76	punct	76:punct	_
 72	until	_	Word	Word	_	73	E	73:E	_
 73	then	_	Word	Word	_	3	orphan	3:orphan	_
@@ -82,12 +82,12 @@
 79	seas	_	Word	Word	_	3	orphan	3:orphan	_
 80	of	_	Word	Word	_	79	R	79:R	_
 81	France	_	Word	Word	_	86	E	86:E	_
-82	\u2019	_	Punctuation	Punctuation	_	86	punct	86:punct	_
+82	'	_	Punctuation	Punctuation	_	86	punct	86:punct	_
 83	s	_	Word	Word	_	86	F	86:F	_
 84	old	_	Word	Word	_	86	E	86:E	_
 85	extremist	_	Word	Word	_	86	E	86:E	_
 86	newspaper	_	Word	Word	_	3	orphan	3:orphan	_
-87	,	_	Punctuation	Punctuation	_	89	punct	89:punct	_
-88	The	_	Word	Word	_	89	E	89:E	_
-89	Constitutionalist	_	Word	Word	_	3	orphan	3:orphan	_
+87	,	_	Punctuation	Punctuation	_	88	punct	88:punct	_
+88	The	_	Word	Word	_	3	orphan	3:orphan	_
+89	Constitutionalist	_	Word	Word	_	88	flat	88:flat	_
 

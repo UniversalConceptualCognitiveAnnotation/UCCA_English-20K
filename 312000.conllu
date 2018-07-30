@@ -11,7 +11,7 @@
 8	a	_	Word	Word	_	10	E	10:E	_
 9	scientific	_	Word	Word	_	10	E	10:E	_
 10	problem	_	Word	Word	_	3	orphan	3:orphan	_
-11	to	_	Word	Word	_	13	R	13:R	_
+11	to	_	Word	Word	_	13	F	13:F	_
 12	be	_	Word	Word	_	13	F	13:F	_
 13	solved	_	Word	Word	_	3	orphan	3:orphan	_
 14	,	_	Punctuation	Punctuation	_	4	punct	4:punct	_
@@ -23,17 +23,17 @@
 20	in	_	Word	Word	_	21	R	21:R	_
 21	America	_	Word	Word	_	3	orphan	3:orphan	_
 22	and	_	Word	Word	_	21	N	21:N	_
-23	England	_	Word	Word	_	3	orphan	3:orphan	_
-24	,	_	Punctuation	Punctuation	_	28	punct	28:punct	_
-25	were	_	Word	Word	_	28	F	28:F	_
-26	determined	_	Word	Word	_	28	E	28:E	_
-27	to	_	Word	Word	_	28	F	28:F	_
+23	England	_	Word	Word	_	21	C	21:C	_
+24	,	_	Punctuation	Punctuation	_	26	punct	26:punct	_
+25	were	_	Word	Word	_	26	F	26:F	_
+26	determined	_	Word	Word	_	3	orphan	3:orphan	_
+27	to	_	Word	Word	_	28	R	28:R	_
 28	purge	_	Word	Word	_	3	orphan	3:orphan	_
 29	the	_	Word	Word	_	30	E	30:E	_
 30	ocean	_	Word	Word	_	3	orphan	3:orphan	_
 31	of	_	Word	Word	_	34	R	34:R	_
 32	this	_	Word	Word	_	34	E	34:E	_
-33	daunting	_	Word	Word	_	34	E	34:E	_
+33	daunting	_	Word	Word	_	3	orphan	3:orphan	_
 34	monster	_	Word	Word	_	3	orphan	3:orphan	_
 35	,	_	Punctuation	Punctuation	_	4	punct	4:punct	_
 36	to	_	Word	Word	_	4	L	4:L	_
@@ -41,7 +41,7 @@
 38	the	_	Word	Word	_	39	E	39:E	_
 39	safety	_	Word	Word	_	3	orphan	3:orphan	_
 40	of	_	Word	Word	_	42	R	42:R	_
-41	transoceanic	_	Word	Word	_	42	E	42:E	_
+41	transoceanic	_	Word	Word	_	42	D	42:D	_
 42	travel	_	Word	Word	_	3	orphan	3:orphan	_
 43	.	_	Punctuation	Punctuation	_	42	punct	42:punct	_
 

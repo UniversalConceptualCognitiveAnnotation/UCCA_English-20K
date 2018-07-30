@@ -11,7 +11,7 @@
 8	,	_	Punctuation	Punctuation	_	1	punct	1:punct	_
 9	the	_	Word	Word	_	10	E	10:E	_
 10	Scotia	_	Word	Word	_	1	orphan	1:orphan	_
-11	could	_	Word	Word	_	12	E	12:E	_
+11	could	_	Word	Word	_	12	D	12:D	_
 12	brave	_	Word	Word	_	1	orphan	1:orphan	_
 13	any	_	Word	Word	_	14	E	14:E	_
 14	leak	_	Word	Word	_	1	orphan	1:orphan	_

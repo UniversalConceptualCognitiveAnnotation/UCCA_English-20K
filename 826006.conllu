@@ -1,13 +1,18 @@
 # sent_id = 826006
-# text = “ We haven ’t a moment to lose .
+# text = ” “ What about master ’s collections ? ” Conseil ventured to observe .
 # doc_id = 
-1	“	_	Punctuation	Punctuation	_	8	punct	8:punct	_
-2	We	_	Word	Word	_	3	A	3:A	_
-3	haven	_	Word	Word	_	0	root	0:root	_
-4	’t	_	Word	Word	_	3	D	3:D	_
-5	a	_	Word	Word	_	6	E	6:E	_
-6	moment	_	Word	Word	_	3	orphan	3:orphan	_
-7	to	_	Word	Word	_	8	F	8:F	_
-8	lose	_	Word	Word	_	3	orphan	3:orphan	_
-9	.	_	Punctuation	Punctuation	_	8	punct	8:punct	_
+1	”	_	Punctuation	Punctuation	_	13	punct	13:punct	_
+2	“	_	Punctuation	Punctuation	_	13	punct	13:punct	_
+3	What	_	Word	Word	_	0	root	0:root	_
+4	about	_	Word	Word	_	3	flat	3:flat	_
+5	master	_	Word	Word	_	3	orphan	3:orphan	_
+6	’s	_	Word	Word	_	5	R	5:R	_
+7	collections	_	Word	Word	_	3	orphan	3:orphan	_
+8	?	_	Punctuation	Punctuation	_	13	punct	13:punct	_
+9	”	_	Punctuation	Punctuation	_	13	punct	13:punct	_
+10	Conseil	_	Word	Word	_	13	A	13:A	_
+11	ventured	_	Word	Word	_	13	D	13:D	_
+12	to	_	Word	Word	_	13	F	13:F	_
+13	observe	_	Word	Word	_	3	orphan	3:orphan	_
+14	.	_	Punctuation	Punctuation	_	13	punct	13:punct	_
 

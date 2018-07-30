@@ -20,11 +20,11 @@
 17	our	_	Word	Word	_	18	E	18:E	_
 18	expedition	_	Word	Word	_	2	orphan	2:orphan	_
 19	’s	_	Word	Word	_	18	R	18:R	_
-20	various	_	Word	Word	_	21	E	21:E	_
+20	various	_	Word	Word	_	21	D	21:D	_
 21	chances	_	Word	Word	_	2	orphan	2:orphan	_
 22	for	_	Word	Word	_	23	R	23:R	_
 23	success	_	Word	Word	_	2	orphan	2:orphan	_
 24	or	_	Word	Word	_	23	N	23:N	_
-25	failure	_	Word	Word	_	2	orphan	2:orphan	_
-26	.	_	Punctuation	Punctuation	_	25	punct	25:punct	_
+25	failure	_	Word	Word	_	23	C	23:C	_
+26	.	_	Punctuation	Punctuation	_	23	punct	23:punct	_
 

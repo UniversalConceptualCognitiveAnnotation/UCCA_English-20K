@@ -5,9 +5,9 @@
 2	then	_	Word	Word	_	0	root	0:root	_
 3	Commander	_	Word	Word	_	4	E	4:E	_
 4	Farragut	_	Word	Word	_	2	orphan	2:orphan	_
-5	was	_	Word	Word	_	7	F	7:F	_
-6	giving	_	Word	Word	_	7	F	7:F	_
-7	orders	_	Word	Word	_	2	orphan	2:orphan	_
+5	was	_	Word	Word	_	6	F	6:F	_
+6	giving	_	Word	Word	_	2	orphan	2:orphan	_
+7	orders	_	Word	Word	_	6	flat	6:flat	_
 8	to	_	Word	Word	_	9	F	9:F	_
 9	cast	_	Word	Word	_	2	orphan	2:orphan	_
 10	off	_	Word	Word	_	9	flat	9:flat	_
