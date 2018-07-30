@@ -3,56 +3,53 @@ Given	Word	--	Terminal	500
 this	Word	--	Terminal	501
 ,	Punctuation	--	Terminal	502
 no	Word	--	Terminal	503
-one	Word	--	Terminal	504
-will	Word	--	Terminal	505
-be	Word	--	Terminal	506
-astonished	Word	--	Terminal	507
-at	Word	--	Terminal	508
-the	Word	--	Terminal	509
-uproar	Word	--	Terminal	510
-provoked	Word	--	Terminal	511
-by	Word	--	Terminal	512
-this	Word	--	Terminal	513
-accident	Word	--	Terminal	514
-involving	Word	--	Terminal	515
-one	Word	--	Terminal	516
-of	Word	--	Terminal	517
-its	Word	--	Terminal	518
-finest	Word	--	Terminal	519
-steamers	Word	--	Terminal	520
-.	Punctuation	--	Terminal	521
-#500	FN	--	E	522
-#501	FN	--	C	522
-#502	PNCT	--	U	532
-#503	FN	--	E	523
-#504	FN	--	C	523
-#505	FN	--	E	524
-#506	FN	--	F	524
-#507	FN	--	C	524
-#508	FN	--	R	530
-#509	FN	--	E	530
-#510	FN	--	C	530	A*	529
-#511	FN	--	P	529
-#512	FN	--	R	528
-#513	FN	--	E	528
-#514	FN	--	C	528	A*	527
-#515	FN	--	P	527
-#516	FN	--	C	525
-#517	FN	--	R	525
-#518	FN	--	E	526
-#519	FN	--	E	526
-#520	FN	--	C	526
-#521	PNCT	--	U	526
-#522	FN	--	L	532	LR	533
-#523	FN	--	A	531
-#524	FN	--	P	531
-#525	FN	--	E	526
-#526	FN	--	A	527
-#527	FN	--	E	528
-#528	FN	--	A	529
-#529	FN	--	E	530
-#530	FN	--	A	531
-#531	FN	--	H	532	LA	533
-#532	FN	--	--	0
-#533	LKG	--	--	0
+one	Word	--	Terminal	503
+will	Word	--	Terminal	504
+be	Word	--	Terminal	505
+astonished	Word	--	Terminal	506
+at	Word	--	Terminal	507
+the	Word	--	Terminal	508
+uproar	Word	--	Terminal	509
+provoked	Word	--	Terminal	510
+by	Word	--	Terminal	511
+this	Word	--	Terminal	512
+accident	Word	--	Terminal	513
+involving	Word	--	Terminal	514
+one	Word	--	Terminal	515
+of	Word	--	Terminal	516
+its	Word	--	Terminal	517
+finest	Word	--	Terminal	518
+steamers	Word	--	Terminal	519
+.	Punctuation	--	Terminal	520
+#500	FN	--	E	521
+#501	FN	--	C	521
+#502	PNCT	--	U	529
+#503	FN	--	A	528
+#504	FN	--	F	528
+#505	FN	--	F	528
+#506	FN	--	P	528
+#507	FN	--	R	527
+#508	FN	--	E	527
+#509	FN	--	C	527	A*	526
+#510	FN	--	P	526
+#511	FN	--	R	525
+#512	FN	--	E	525
+#513	FN	--	C	525	A*	524
+#514	FN	--	P	524
+#515	FN	--	C	522
+#516	FN	--	R	522
+#517	FN	--	R	523
+#518	FN	--	E	523
+#519	FN	--	C	523
+#520	PNCT	--	U	523
+#521	FN	--	L	529	LR	530
+#522	FN	--	E	523
+#523	FN	--	A	524
+#524	FN	--	E	525
+#525	FN	--	A	526
+#526	FN	--	E	527
+#527	FN	--	A	528
+#528	FN	--	H	529	LA	530
+#529	FN	--	--	0
+#530	LKG	--	--	0
 #EOS 53004

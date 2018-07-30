@@ -6,18 +6,16 @@ waste	Word	--	Terminal	503
 of	Word	--	Terminal	504
 energy	Word	--	Terminal	505
 !	Punctuation	--	Terminal	506
-#500	FN	--	L	512	LR	513
-#501	FN	--	F	511
-#502	FN	--	E	510
-#503	FN	--	C	510
-#504	FN	--	R	507
-#505	FN	--	C	507
-#506	PNCT	--	U	507
-#507	FN	--	E	510
-#508	FN	--	A	511
-#509	FN	--	S	511
-#510	FN	--	A	511
-#511	FN	--	H	512	LA	513
-#512	FN	--	--	0
-#513	LKG	--	--	0
+#500	FN	--	L	510	LR	511
+#501	FN	--	D	509
+#502	FN	--	E	507
+#503	FN	--	C	507
+#504	FN	--	R	508
+#505	FN	--	C	508
+#506	PNCT	--	U	508
+#507	FN	--	P	509
+#508	FN	--	A	509
+#509	FN	--	H	510	LA	511
+#510	FN	--	--	0
+#511	LKG	--	--	0
 #EOS 977000

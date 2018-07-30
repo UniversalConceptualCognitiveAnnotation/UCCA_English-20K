@@ -11,8 +11,8 @@ completely	Word	--	Terminal	507
 admissible	Word	--	Terminal	508
 ,	Punctuation	--	Terminal	509
 it	Word	--	Terminal	510
-couldn	Word	--	Terminal	511
-’t	Word	--	Terminal	512
+could	Word	--	Terminal	511
+n’t	Word	--	Terminal	512
 stand	Word	--	Terminal	513
 up	Word	--	Terminal	513
 to	Word	--	Terminal	514
@@ -27,46 +27,44 @@ and	Word	--	Terminal	522
 the	Word	--	Terminal	523
 Old	Word	--	Terminal	524
 .	Punctuation	--	Terminal	525
-#500	FN	--	L	540	LR	541
-#501	PNCT	--	U	540
-#502	FN	--	L	540	LR	536
+#500	FN	--	L	538	LR	539
+#501	PNCT	--	U	538
+#502	FN	--	L	538	LR	534
 #503	FN	--	E	526
 #504	FN	--	E	526
 #505	FN	--	C	526
-#506	FN	--	F	527
-#507	FN	--	D	533
-#508	FN	--	C	527
-#509	PNCT	--	U	540
-#510	FN	--	A	539
-#511	FN	--	E	528
-#512	FN	--	D	539
-#513	FN	--	C	528
-#514	FN	--	R	538
-#515	FN	--	C	538	A*	537
-#516	FN	--	P	537
-#517	FN	--	R	535
-#518	FN	--	E	535
-#519	FN	--	E	529
-#520	FN	--	E	529
-#521	FN	--	C	529	C*	530
-#522	FN	--	N	531
-#523	FN	--	E	530
-#524	FN	--	E	530
-#525	PNCT	--	U	530
-#526	FN	--	A	533
-#527	FN	--	P	533
-#528	FN	--	P	539
-#529	FN	--	C	531
-#530	FN	--	C	531
-#531	FN	--	C	535
-#532	FN	--	A	533
-#533	FN	--	H	540	LA	536
-#534	FN	--	A	537
-#535	FN	--	A	537
-#536	LKG	--	--	0
-#537	FN	--	E	538
-#538	FN	--	A	539
-#539	FN	--	H	540	LA	541
-#540	FN	--	--	0
-#541	LKG	--	--	0
+#506	FN	--	F	531
+#507	FN	--	D	531
+#508	FN	--	P	531
+#509	PNCT	--	U	538
+#510	FN	--	A	537
+#511	FN	--	D	537
+#512	FN	--	D	537
+#513	FN	--	P	537
+#514	FN	--	R	536
+#515	FN	--	C	536	A*	535
+#516	FN	--	P	535
+#517	FN	--	R	533
+#518	FN	--	E	533
+#519	FN	--	E	527
+#520	FN	--	E	527
+#521	FN	--	C	527	C*	528
+#522	FN	--	N	529
+#523	FN	--	E	528
+#524	FN	--	E	528
+#525	PNCT	--	U	528
+#526	FN	--	A	531
+#527	FN	--	C	529
+#528	FN	--	C	529
+#529	FN	--	C	533
+#530	FN	--	A	531
+#531	FN	--	H	538	LA	534
+#532	FN	--	A	535
+#533	FN	--	A	535
+#534	LKG	--	--	0
+#535	FN	--	E	536
+#536	FN	--	A	537
+#537	FN	--	H	538	LA	539
+#538	FN	--	--	0
+#539	LKG	--	--	0
 #EOS 291000

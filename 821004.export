@@ -15,8 +15,8 @@ solid	Word	--	Terminal	512
 muscles	Word	--	Terminal	513
 ,	Punctuation	--	Terminal	514
 but	Word	--	Terminal	515
-hadn	Word	--	Terminal	516
-’t	Word	--	Terminal	517
+had	Word	--	Terminal	516
+n’t	Word	--	Terminal	517
 a	Word	--	Terminal	518
 nerve	Word	--	Terminal	519
 in	Word	--	Terminal	520
@@ -51,11 +51,11 @@ mean	Word	--	Terminal	532
 #513	FN	--	C	535
 #514	PNCT	--	U	546
 #515	FN	--	L	546	LR	544
-#516	FN	--	P	542
+#516	FN	--	S	542
 #517	FN	--	D	542
 #518	FN	--	E	540
 #519	FN	--	C	540
-#520	FN	--	F	542
+#520	FN	--	D	542
 #521	PNCT	--	U	542
 #522	FN	--	E	537
 #523	FN	--	E	536

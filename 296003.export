@@ -7,7 +7,7 @@ demand	Word	--	Terminal	504
 .	Punctuation	--	Terminal	505
 #500	FN	--	E	506
 #501	FN	--	C	506
-#502	FN	--	F	507
+#502	FN	--	F	509
 #503	FN	--	R	507
 #504	FN	--	C	507
 #505	PNCT	--	U	507

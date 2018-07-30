@@ -16,13 +16,13 @@ a	Word	--	Terminal	511
 marine	Word	--	Terminal	512
 monster	Word	--	Terminal	513
 ?	Punctuation	--	Terminal	514
-#500	FN	--	L	520
-#501	PNCT	--	U	520
-#502	FN	--	A	519
-#503	FN	--	S	519
+#500	FN	--	L	519
+#501	PNCT	--	U	519
+#502	FN	--	A	518
+#503	FN	--	F	518
 #504	FN	--	C	515
 #505	FN	--	R	515
-#506	FN	--	C	518
+#506	FN	--	S	518
 #507	FN	--	R	517
 #508	FN	--	E	517
 #509	FN	--	C	517
@@ -31,10 +31,9 @@ monster	Word	--	Terminal	513
 #512	FN	--	E	516
 #513	FN	--	C	516
 #514	PNCT	--	U	516
-#515	FN	--	E	518
+#515	FN	--	A	518
 #516	FN	--	E	517
-#517	FN	--	E	518
-#518	FN	--	A	519
-#519	FN	--	H	520
-#520	FN	--	--	0
+#517	FN	--	A	518
+#518	FN	--	H	519
+#519	FN	--	--	0
 #EOS 892000

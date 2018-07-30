@@ -13,69 +13,66 @@ would	Word	--	Terminal	510
 surely	Word	--	Terminal	511
 have	Word	--	Terminal	512
 split	Word	--	Terminal	513
-open	Word	--	Terminal	514
-from	Word	--	Terminal	515
-this	Word	--	Terminal	516
-collision	Word	--	Terminal	517
-and	Word	--	Terminal	518
-gone	Word	--	Terminal	519
-down	Word	--	Terminal	520
-together	Word	--	Terminal	521
-with	Word	--	Terminal	522
-those	Word	--	Terminal	523
-237	Word	--	Terminal	524
-passengers	Word	--	Terminal	525
-it	Word	--	Terminal	526
-was	Word	--	Terminal	527
-bringing	Word	--	Terminal	528
-back	Word	--	Terminal	529
-from	Word	--	Terminal	530
-Canada	Word	--	Terminal	531
-.	Punctuation	--	Terminal	532
-#500	FN	--	R	539
-#501	FN	--	E	539
-#502	FN	--	E	539
-#503	FN	--	C	539
-#504	FN	--	R	533
-#505	FN	--	E	533
-#506	FN	--	C	533
-#507	PNCT	--	U	540
-#508	FN	--	E	534
-#509	FN	--	C	534
-#510	FN	--	E	535
-#511	FN	--	G	540
-#512	FN	--	F	535
-#513	FN	--	C	535
-#514	FN	--	E	535
-#515	FN	--	R	536
-#516	FN	--	E	536
-#517	FN	--	C	536
-#518	FN	--	L	544	LR	545
-#519	FN	--	P	543
-#520	FN	--	A	543
-#521	FN	--	D	543
-#522	FN	--	R	542
-#523	FN	--	E	542
-#524	FN	--	E	542
-#525	FN	--	C	542	A*	541
-#526	FN	--	A	541
-#527	FN	--	F	537
-#528	FN	--	E	537
-#529	FN	--	C	537
-#530	FN	--	R	538
-#531	FN	--	C	538
-#532	PNCT	--	U	538
-#533	FN	--	E	539
-#534	FN	--	A	540	A*	543
-#535	FN	--	P	540
-#536	FN	--	A	540
-#537	FN	--	P	541
-#538	FN	--	A	541
+open	Word	--	Terminal	513
+from	Word	--	Terminal	514
+this	Word	--	Terminal	515
+collision	Word	--	Terminal	516
+and	Word	--	Terminal	517
+gone	Word	--	Terminal	518
+down	Word	--	Terminal	519
+together	Word	--	Terminal	520
+with	Word	--	Terminal	521
+those	Word	--	Terminal	522
+237	Word	--	Terminal	523
+passengers	Word	--	Terminal	524
+it	Word	--	Terminal	525
+was	Word	--	Terminal	526
+bringing	Word	--	Terminal	527
+back	Word	--	Terminal	527
+from	Word	--	Terminal	528
+Canada	Word	--	Terminal	529
+.	Punctuation	--	Terminal	530
+#500	FN	--	R	535
+#501	FN	--	E	535
+#502	FN	--	E	535
+#503	FN	--	C	535
+#504	FN	--	R	531
+#505	FN	--	E	531
+#506	FN	--	C	531
+#507	PNCT	--	U	536
+#508	FN	--	E	532
+#509	FN	--	C	532
+#510	FN	--	D	536
+#511	FN	--	G	536
+#512	FN	--	F	536
+#513	FN	--	P	536
+#514	FN	--	R	533
+#515	FN	--	E	533
+#516	FN	--	C	533
+#517	FN	--	L	541	LR	542
+#518	FN	--	P	540	P*	539
+#519	FN	--	A	540
+#520	FN	--	D	539
+#521	FN	--	R	538
+#522	FN	--	E	538
+#523	FN	--	E	538
+#524	FN	--	C	538	A*	537
+#525	FN	--	A	537
+#526	FN	--	F	537
+#527	FN	--	P	537
+#528	FN	--	R	534
+#529	FN	--	C	534
+#530	PNCT	--	U	534
+#531	FN	--	E	535
+#532	FN	--	A	536	A*	540
+#533	FN	--	A	536
+#534	FN	--	A	537
+#535	FN	--	A	536
+#536	FN	--	H	541	LA	542
+#537	FN	--	E	538
+#538	FN	--	A	539
 #539	FN	--	A	540
-#540	FN	--	H	544	LA	545
-#541	FN	--	E	542
-#542	FN	--	A	543
-#543	FN	--	H	544	LA	545
-#544	FN	--	--	0
-#545	LKG	--	--	0
+#540	FN	--	H	541	LA	542
+#541	FN	--	--	0
+#542	LKG	--	--	0
 #EOS 49002

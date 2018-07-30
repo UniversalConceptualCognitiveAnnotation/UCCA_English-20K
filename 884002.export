@@ -28,7 +28,7 @@ exploding	Word	--	Terminal	525
 bullets	Word	--	Terminal	526
 .	Punctuation	--	Terminal	527
 #500	FN	--	A	542
-#501	FN	--	P	542
+#501	FN	--	S	542
 #502	FN	--	E	541
 #503	FN	--	P	530
 #504	FN	--	C	541	A*	530

@@ -14,26 +14,27 @@ escaped	Word	--	Terminal	511
 public	Word	--	Terminal	512
 notice	Word	--	Terminal	513
 ?	Punctuation	--	Terminal	514
-#500	FN	--	L	520	LR	521
-#501	PNCT	--	U	520
-#502	FN	--	A	519
-#503	FN	--	E	515
-#504	FN	--	E	518
-#505	FN	--	C	518
+#500	FN	--	L	521	LR	522
+#501	PNCT	--	U	521
+#502	FN	--	D	520
+#503	FN	--	D	520
+#504	FN	--	E	515
+#505	FN	--	C	515
 #506	FN	--	R	516
 #507	FN	--	E	516
 #508	FN	--	E	516
 #509	FN	--	C	516
-#510	FN	--	F	515
-#511	FN	--	C	515
-#512	FN	--	E	517
-#513	FN	--	C	517
-#514	PNCT	--	U	517
-#515	FN	--	P	519
-#516	FN	--	E	518
-#517	FN	--	A	519
+#510	FN	--	F	520
+#511	FN	--	P	520
+#512	FN	--	D	519
+#513	FN	--	P	519
+#514	PNCT	--	U	519
+#515	FN	--	P	517
+#516	FN	--	A	517
+#517	FN	--	A	520
 #518	FN	--	A	519
-#519	FN	--	H	520	LA	521
-#520	FN	--	--	0
-#521	LKG	--	--	0
+#519	FN	--	A	520
+#520	FN	--	H	521	LA	522
+#521	FN	--	--	0
+#522	LKG	--	--	0
 #EOS 293002

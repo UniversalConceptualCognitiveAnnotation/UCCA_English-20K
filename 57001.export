@@ -1,27 +1,23 @@
 #BOS 57001
 In	Word	--	Terminal	500
-fact	Word	--	Terminal	501
-,	Punctuation	--	Terminal	502
-there	Word	--	Terminal	503
-could	Word	--	Terminal	504
-be	Word	--	Terminal	503
+fact	Word	--	Terminal	500
+,	Punctuation	--	Terminal	501
+there	Word	--	Terminal	502
+could	Word	--	Terminal	503
+be	Word	--	Terminal	504
 no	Word	--	Terminal	505
 immediate	Word	--	Terminal	506
 danger	Word	--	Terminal	507
 .	Punctuation	--	Terminal	508
-#500	FN	--	R	509
-#501	FN	--	C	509
-#502	PNCT	--	U	513
-#503	FN	--	C	510
-#504	FN	--	E	510
-#505	FN	--	D	512
-#506	FN	--	E	511
-#507	FN	--	C	511
-#508	PNCT	--	U	511
-#509	FN	--	L	513	LR	514
-#510	FN	--	S	512
-#511	FN	--	A	512
-#512	FN	--	H	513	LA	514
-#513	FN	--	--	0
-#514	LKG	--	--	0
+#500	FN	--	G	509
+#501	PNCT	--	U	509
+#502	FN	--	A	509
+#503	FN	--	D	509
+#504	FN	--	F	509
+#505	FN	--	D	509
+#506	FN	--	D	509
+#507	FN	--	S	509
+#508	PNCT	--	U	509
+#509	FN	--	H	510
+#510	FN	--	--	0
 #EOS 57001

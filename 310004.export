@@ -25,72 +25,67 @@ giants	Word	--	Terminal	521
 —	Punctuation	--	Terminal	522
 next	Word	--	Terminal	523
 to	Word	--	Terminal	523
-which	Word	--	Terminal	524
-such	Word	--	Terminal	525
-land	Word	--	Terminal	526
-animals	Word	--	Terminal	527
-as	Word	--	Terminal	528
-elephants	Word	--	Terminal	529
-or	Word	--	Terminal	530
-rhinoceroses	Word	--	Terminal	531
-are	Word	--	Terminal	532
-mere	Word	--	Terminal	533
-dwarves	Word	--	Terminal	534
-.	Punctuation	--	Terminal	535
-#500	FN	--	L	555	LR	549
-#501	PNCT	--	U	555
-#502	FN	--	E	536
-#503	FN	--	C	536	A*	554
-#504	FN	--	S	546	S*	554
-#505	FN	--	D	546
-#506	FN	--	E	537
-#507	FN	--	E	537
-#508	FN	--	C	537
-#509	PNCT	--	U	555
-#510	FN	--	E	553
-#511	FN	--	E	553
-#512	FN	--	C	553	A*	552
-#513	FN	--	S	552
-#514	FN	--	R	551
-#515	FN	--	E	538	E*	539
-#516	FN	--	C	538
-#517	FN	--	N	540
-#518	FN	--	C	539
-#519	FN	--	R	550
-#520	FN	--	E	550	E*	541
-#521	FN	--	C	550	C*	541
-#522	PNCT	--	U	550
-#523	FN	--	R	541
-#524	FN	--	R	548
-#525	FN	--	E	547
-#526	FN	--	E	547
-#527	FN	--	C	547
-#528	FN	--	R	542	R*	543
-#529	FN	--	C	542
-#530	FN	--	N	544
-#531	FN	--	C	543
-#532	FN	--	F	545
-#533	FN	--	E	545
-#534	FN	--	C	545
-#535	PNCT	--	U	545
-#536	FN	--	A	546
-#537	FN	--	A	546
-#538	FN	--	C	540
-#539	FN	--	C	540
-#540	FN	--	P	551
-#541	FN	--	A	548
-#542	FN	--	C	544
-#543	FN	--	C	544
-#544	FN	--	E	547
-#545	FN	--	S	548
-#546	FN	--	H	555	LA	549
-#547	FN	--	A	548
-#548	FN	--	E	550
-#549	LKG	--	--	0
-#550	FN	--	A	551
-#551	FN	--	A	552
-#552	FN	--	E	553
-#553	FN	--	A	554
-#554	FN	--	H	555
-#555	FN	--	--	0
+which	Word	--	Terminal	523
+such	Word	--	Terminal	524
+land	Word	--	Terminal	525
+animals	Word	--	Terminal	526
+as	Word	--	Terminal	524
+elephants	Word	--	Terminal	527
+or	Word	--	Terminal	528
+rhinoceroses	Word	--	Terminal	529
+are	Word	--	Terminal	530
+mere	Word	--	Terminal	531
+dwarves	Word	--	Terminal	532
+.	Punctuation	--	Terminal	533
+#500	FN	--	L	550	LR	544
+#501	PNCT	--	U	550
+#502	FN	--	E	534
+#503	FN	--	C	534	A*	549
+#504	FN	--	S	541	S*	549
+#505	FN	--	D	541
+#506	FN	--	E	535
+#507	FN	--	E	535
+#508	FN	--	C	535
+#509	PNCT	--	U	550
+#510	FN	--	E	548
+#511	FN	--	E	548
+#512	FN	--	C	548	A*	547
+#513	FN	--	S	547
+#514	FN	--	R	546
+#515	FN	--	E	536	E*	537
+#516	FN	--	C	536
+#517	FN	--	N	538
+#518	FN	--	C	537
+#519	FN	--	R	545
+#520	FN	--	E	545
+#521	FN	--	C	545
+#522	PNCT	--	U	545
+#523	FN	--	R	543
+#524	FN	--	E	542
+#525	FN	--	E	542
+#526	FN	--	C	542
+#527	FN	--	C	539
+#528	FN	--	N	539
+#529	FN	--	C	539
+#530	FN	--	S	543
+#531	FN	--	E	540
+#532	FN	--	C	540
+#533	PNCT	--	U	540
+#534	FN	--	A	541
+#535	FN	--	A	541
+#536	FN	--	C	538
+#537	FN	--	C	538
+#538	FN	--	P	546
+#539	FN	--	E	542
+#540	FN	--	A	543
+#541	FN	--	H	550	LA	544
+#542	FN	--	A	543
+#543	FN	--	E	545
+#544	LKG	--	--	0
+#545	FN	--	A	546
+#546	FN	--	A	547
+#547	FN	--	E	548
+#548	FN	--	A	549
+#549	FN	--	H	550
+#550	FN	--	--	0
 #EOS 310004

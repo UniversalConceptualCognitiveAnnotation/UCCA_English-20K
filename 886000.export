@@ -19,28 +19,28 @@ his	Word	--	Terminal	515
 dangerous	Word	--	Terminal	516
 trade	Word	--	Terminal	517
 .	Punctuation	--	Terminal	518
-#500	FN	--	E	519
+#500	FN	--	S	520
 #501	FN	--	R	519
 #502	FN	--	E	519
 #503	FN	--	E	519
 #504	FN	--	C	519
 #505	PNCT	--	U	520
-#506	FN	--	A	525	A*	520
+#506	FN	--	C	521	A*	520
 #507	FN	--	S	525
 #508	FN	--	E	524
-#509	FN	--	C	524
+#509	FN	--	C	524	A*	523
 #510	FN	--	R	523
-#511	FN	--	P	523
-#512	FN	--	E	521
-#513	FN	--	C	521
+#511	FN	--	F	523
+#512	FN	--	D	523
+#513	FN	--	S	523
 #514	FN	--	R	522
 #515	FN	--	E	522
 #516	FN	--	E	522
 #517	FN	--	C	522
 #518	PNCT	--	U	522
-#519	FN	--	S	520
-#520	FN	--	H	526
-#521	FN	--	A	523
+#519	FN	--	A	520
+#520	FN	--	E	521
+#521	FN	--	A	525
 #522	FN	--	A	523
 #523	FN	--	E	524
 #524	FN	--	A	525

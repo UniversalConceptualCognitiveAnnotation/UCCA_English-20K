@@ -8,7 +8,7 @@ taken	Word	--	Terminal	505
 at	Word	--	Terminal	506
 different	Word	--	Terminal	507
 times	Word	--	Terminal	508
-\u2014	Word	--	Terminal	509
+-	Word	--	Terminal	509
 rejecting	Word	--	Terminal	510
 those	Word	--	Terminal	511
 timid	Word	--	Terminal	512
@@ -38,7 +38,7 @@ wide	Word	--	Terminal	535
 and	Word	--	Terminal	536
 three	Word	--	Terminal	537
 long	Word	--	Terminal	538
-\u2014	Word	--	Terminal	539
+-	Word	--	Terminal	539
 you	Word	--	Terminal	540
 could	Word	--	Terminal	541
 still	Word	--	Terminal	542
@@ -64,22 +64,22 @@ existed	Word	--	Terminal	561
 at	Word	--	Terminal	562
 all	Word	--	Terminal	562
 .	Punctuation	--	Terminal	563
-#500	FN	--	P	592
-#501	FN	--	E	584
-#502	FN	--	C	584
-#503	FN	--	R	584
-#504	FN	--	C	583	A*	576
-#505	FN	--	P	576
+#500	FN	--	P	583
+#501	FN	--	E	581
+#502	FN	--	C	581
+#503	FN	--	R	581
+#504	FN	--	C	580	A*	574
+#505	FN	--	P	574
 #506	FN	--	R	564
 #507	FN	--	E	564
 #508	FN	--	C	564
-#509	FN	--	F	595
-#510	FN	--	P	586
-#511	FN	--	E	585
-#512	FN	--	E	585
-#513	FN	--	C	585	A*	578
-#514	FN	--	F	578
-#515	FN	--	P	578
+#509	FN	--	F	590
+#510	FN	--	P	584
+#511	FN	--	E	577
+#512	FN	--	E	577
+#513	FN	--	C	577	A*	575
+#514	FN	--	R	575
+#515	FN	--	P	575
 #516	FN	--	E	565
 #517	FN	--	C	565
 #518	FN	--	E	566
@@ -87,78 +87,76 @@ all	Word	--	Terminal	562
 #520	FN	--	R	567
 #521	FN	--	E	567
 #522	FN	--	C	567
-#523	PNCT	--	U	595
-#524	FN	--	L	595	LR	596
-#525	FN	--	P	593
+#523	PNCT	--	U	590
+#524	FN	--	L	590	LR	592
+#525	FN	--	P	589
 #526	FN	--	E	588
 #527	FN	--	E	588
-#528	FN	--	C	588	A*	587
-#529	FN	--	F	587
-#530	FN	--	P	587
-#531	FN	--	A	587
-#532	FN	--	R	580
+#528	FN	--	C	588	A*	582
+#529	FN	--	R	582
+#530	FN	--	P	582
+#531	FN	--	A	582
+#532	FN	--	R	576
 #533	FN	--	E	568
 #534	FN	--	C	568	C*	569
 #535	FN	--	E	568
 #536	FN	--	N	570
 #537	FN	--	E	569
 #538	FN	--	E	569
-#539	FN	--	F	595
-#540	FN	--	A	594
-#541	FN	--	E	571
-#542	FN	--	D	594
-#543	FN	--	C	571
-#544	FN	--	F	591
-#545	FN	--	E	572
-#546	FN	--	E	572
-#547	FN	--	C	572
-#548	FN	--	D	591
-#549	FN	--	P	591
-#550	FN	--	E	590
-#551	FN	--	C	590
-#552	FN	--	R	590
-#553	FN	--	C	589	A*	581
-#554	FN	--	D	581
-#555	FN	--	P	581
-#556	FN	--	R	573
-#557	FN	--	C	573
-#558	PNCT	--	U	595
-#559	FN	--	L	595	LR	582
-#560	FN	--	A	574
-#561	FN	--	P	574
-#562	FN	--	G	574
-#563	PNCT	--	U	574
-#564	FN	--	A	576
-#565	FN	--	A	578
+#539	FN	--	F	591
+#540	FN	--	C	591	A*	583	A*	584	A*	589
+#541	FN	--	D	593
+#542	FN	--	D	593
+#543	FN	--	P	593
+#544	FN	--	R	587
+#545	FN	--	E	571
+#546	FN	--	E	571
+#547	FN	--	C	571
+#548	FN	--	D	587
+#549	FN	--	P	587
+#550	FN	--	E	586
+#551	FN	--	C	586
+#552	FN	--	R	586
+#553	FN	--	C	585	A*	578
+#554	FN	--	T	578
+#555	FN	--	P	578
+#556	FN	--	R	572
+#557	FN	--	C	572
+#558	PNCT	--	U	594
+#559	FN	--	L	594	LR	579
+#560	FN	--	A	573
+#561	FN	--	P	573
+#562	FN	--	G	573
+#563	PNCT	--	U	573
+#564	FN	--	A	574
+#565	FN	--	A	575
 #566	FN	--	E	567
-#567	FN	--	A	578
+#567	FN	--	A	575
 #568	FN	--	C	570
 #569	FN	--	C	570
-#570	FN	--	C	580
-#571	FN	--	P	594
-#572	FN	--	A	591
-#573	FN	--	A	581
-#574	FN	--	H	595	LA	582
-#575	FN	--	A	592
-#576	FN	--	E	583
-#577	FN	--	A	586
+#570	FN	--	C	576
+#571	FN	--	A	587
+#572	FN	--	A	578
+#573	FN	--	H	594	LA	579
+#574	FN	--	E	580
+#575	FN	--	E	577
+#576	FN	--	A	582
+#577	FN	--	A	584
 #578	FN	--	E	585
-#579	FN	--	A	593
-#580	FN	--	A	587
-#581	FN	--	E	589
-#582	LKG	--	--	0
-#583	FN	--	E	584
-#584	FN	--	A	592
-#585	FN	--	A	586
-#586	FN	--	H	595
-#587	FN	--	E	588
-#588	FN	--	A	593
-#589	FN	--	E	590
-#590	FN	--	A	591
-#591	FN	--	A	594
-#592	FN	--	H	595
-#593	FN	--	H	595	LA	596
-#594	FN	--	H	595
-#595	FN	--	--	0
-#596	LKG	--	--	0
+#579	LKG	--	--	0
+#580	FN	--	E	581
+#581	FN	--	A	583
+#582	FN	--	E	588
+#583	FN	--	H	590
+#584	FN	--	H	590
+#585	FN	--	E	586
+#586	FN	--	A	587
+#587	FN	--	A	593
+#588	FN	--	A	589
+#589	FN	--	H	590	LA	592
+#590	FN	--	E	591
+#591	FN	--	A	593
+#592	LKG	--	--	0
+#593	FN	--	H	594
+#594	FN	--	--	0
 #EOS 39000

@@ -7,12 +7,13 @@ excitement	Word	--	Terminal	504
 .	Punctuation	--	Terminal	505
 #500	FN	--	E	506
 #501	FN	--	C	506
-#502	FN	--	P	508
-#503	FN	--	E	507
-#504	FN	--	C	507
-#505	PNCT	--	U	507
-#506	FN	--	A	508
+#502	FN	--	P	509
+#503	FN	--	D	508
+#504	FN	--	P	508
+#505	PNCT	--	U	508
+#506	FN	--	A	509
 #507	FN	--	A	508
-#508	FN	--	H	509
-#509	FN	--	--	0
+#508	FN	--	A	509
+#509	FN	--	H	510
+#510	FN	--	--	0
 #EOS 316000

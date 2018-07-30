@@ -70,169 +70,167 @@ direction	Word	--	Terminal	562
 around	Word	--	Terminal	563
 it	Word	--	Terminal	564
 and	Word	--	Terminal	565
-didn’t	Word	--	Terminal	566
-leave	Word	--	Terminal	567
-a	Word	--	Terminal	568
-single	Word	--	Terminal	569
-point	Word	--	Terminal	570
-of	Word	--	Terminal	571
-the	Word	--	Terminal	572
-sea	Word	--	Terminal	573
-unexplored.	Word	--	Terminal	574
-But	Word	--	Terminal	575
-the	Word	--	Terminal	576
-evening	Word	--	Terminal	577
-of	Word	--	Terminal	578
-November	Word	--	Terminal	579
-4	Word	--	Terminal	579
-arrived	Word	--	Terminal	580
-with	Word	--	Terminal	581
-this	Word	--	Terminal	582
-underwater	Word	--	Terminal	583
-mystery	Word	--	Terminal	584
-still	Word	--	Terminal	585
-unsolved.	Word	--	Terminal	586
-#500	FN	--	E	587
-#501	FN	--	C	587
-#502	FN	--	P	588
-#503	FN	--	E	589
-#504	FN	--	C	589
-#505	FN	--	P	618
-#506	FN	--	R	590
-#507	FN	--	E	590
-#508	FN	--	C	590
-#509	FN	--	R	591
-#510	FN	--	E	591
-#511	FN	--	C	591
-#512	FN	--	R	591
-#513	FN	--	E	592
-#514	FN	--	C	592
-#515	FN	--	E	593
-#516	FN	--	F	593
-#517	FN	--	C	593
-#518	FN	--	R	594
-#519	FN	--	E	594
-#520	FN	--	C	594
-#521	FN	--	E	595
-#522	FN	--	C	595
-#523	FN	--	C	596
-#524	FN	--	F	597
-#525	FN	--	C	597
-#526	FN	--	F	598
-#527	FN	--	C	598
-#528	FN	--	E	599
-#529	FN	--	C	599
-#530	FN	--	L	639	LR	642
-#531	FN	--	P	624
-#532	FN	--	A	624
-#533	FN	--	R	623
-#534	FN	--	A	600
-#535	FN	--	S	600
-#536	FN	--	E	601
-#537	FN	--	C	601
-#538	FN	--	R	601
-#539	FN	--	C	602
-#540	FN	--	F	603
-#541	FN	--	C	603
-#542	FN	--	R	604
-#543	FN	--	E	604
-#544	FN	--	C	604
-#545	FN	--	L	639	LR	634
-#546	FN	--	E	605
-#547	FN	--	D	620
-#548	FN	--	C	605
-#549	FN	--	G	639
-#550	FN	--	R	606
-#551	FN	--	E	606
-#552	FN	--	C	606
-#553	FN	--	L	639	LR	625
-#554	FN	--	E	607
-#555	FN	--	C	607
-#556	FN	--	P	608
-#557	FN	--	E	609
-#558	FN	--	C	609	A*	627
-#559	FN	--	P	621
-#560	FN	--	R	610
-#561	FN	--	E	610
-#562	FN	--	C	610
-#563	FN	--	R	611
-#564	FN	--	C	611
-#565	FN	--	L	639	LR	635
-#566	FN	--	D	627
-#567	FN	--	E	612
-#568	FN	--	E	626
-#569	FN	--	E	626
-#570	FN	--	C	626
-#571	FN	--	R	613
-#572	FN	--	E	613
-#573	FN	--	C	613
-#574	FN	--	C	612
-#575	FN	--	L	639	LR	628
-#576	FN	--	E	614
-#577	FN	--	C	614
-#578	FN	--	R	614
-#579	FN	--	C	615
-#580	FN	--	P	616
-#581	FN	--	L	639	LR	640
-#582	FN	--	E	617
-#583	FN	--	E	617
-#584	FN	--	C	617
-#585	FN	--	D	630
-#586	FN	--	P	630
-#587	FN	--	A	588
-#588	FN	--	H	639
-#589	FN	--	A	618
-#590	FN	--	D	618
-#591	FN	--	L	639	LR	641
-#592	FN	--	A	636
-#593	FN	--	P	636
-#594	FN	--	A	636
-#595	FN	--	E	596
-#596	FN	--	A	637
-#597	FN	--	P	637
-#598	FN	--	P	638
-#599	FN	--	A	638
-#600	FN	--	C	623
-#601	FN	--	E	602
-#602	FN	--	A	619
-#603	FN	--	P	619
-#604	FN	--	D	619
-#605	FN	--	S	620
-#606	FN	--	A	620
-#607	FN	--	A	608
-#608	FN	--	H	639	LA	625
-#609	FN	--	A	621
-#610	FN	--	A	621
-#611	FN	--	A	621
-#612	FN	--	P	627
-#613	FN	--	E	626
+did	Word	--	Terminal	566
+n’t	Word	--	Terminal	567
+leave	Word	--	Terminal	568
+a	Word	--	Terminal	569
+single	Word	--	Terminal	570
+point	Word	--	Terminal	571
+of	Word	--	Terminal	572
+the	Word	--	Terminal	573
+sea	Word	--	Terminal	574
+unexplored.	Word	--	Terminal	575
+But	Word	--	Terminal	576
+the	Word	--	Terminal	577
+evening	Word	--	Terminal	578
+of	Word	--	Terminal	579
+November	Word	--	Terminal	580
+4	Word	--	Terminal	580
+arrived	Word	--	Terminal	581
+with	Word	--	Terminal	582
+this	Word	--	Terminal	583
+underwater	Word	--	Terminal	584
+mystery	Word	--	Terminal	585
+still	Word	--	Terminal	586
+unsolved.	Word	--	Terminal	587
+#500	FN	--	E	588
+#501	FN	--	C	588
+#502	FN	--	P	589
+#503	FN	--	E	590
+#504	FN	--	C	590
+#505	FN	--	P	616
+#506	FN	--	R	591
+#507	FN	--	E	591
+#508	FN	--	C	591
+#509	FN	--	R	592
+#510	FN	--	E	592
+#511	FN	--	C	592
+#512	FN	--	R	592
+#513	FN	--	E	593
+#514	FN	--	C	593	A*	627	A*	594
+#515	FN	--	D	618
+#516	FN	--	F	618
+#517	FN	--	P	618
+#518	FN	--	R	595
+#519	FN	--	E	595
+#520	FN	--	C	595
+#521	FN	--	E	596
+#522	FN	--	C	596
+#523	FN	--	C	597
+#524	FN	--	F	620
+#525	FN	--	P	620
+#526	FN	--	L	638
+#527	FN	--	P	625
+#528	FN	--	E	598
+#529	FN	--	S	594
+#530	FN	--	L	638
+#531	FN	--	P	637
+#532	FN	--	A	637
+#533	FN	--	R	635
+#534	FN	--	E	599
+#535	FN	--	C	599
+#536	FN	--	E	600
+#537	FN	--	C	600
+#538	FN	--	R	600
+#539	FN	--	C	601
+#540	FN	--	F	621
+#541	FN	--	P	621
+#542	FN	--	R	602
+#543	FN	--	E	602
+#544	FN	--	C	602
+#545	FN	--	L	638
+#546	FN	--	E	603
+#547	FN	--	D	622
+#548	FN	--	C	603
+#549	FN	--	G	622
+#550	FN	--	R	604
+#551	FN	--	E	604
+#552	FN	--	C	604
+#553	FN	--	L	638	LR	628
+#554	FN	--	E	605
+#555	FN	--	C	605
+#556	FN	--	P	606
+#557	FN	--	E	607
+#558	FN	--	C	607	A*	630
+#559	FN	--	P	623
+#560	FN	--	R	608
+#561	FN	--	E	608
+#562	FN	--	C	608
+#563	FN	--	R	609
+#564	FN	--	C	609
+#565	FN	--	L	638	LR	636
+#566	FN	--	F	630
+#567	FN	--	D	630
+#568	FN	--	D	630
+#569	FN	--	E	629
+#570	FN	--	E	629
+#571	FN	--	C	629
+#572	FN	--	R	610
+#573	FN	--	E	610
+#574	FN	--	C	610
+#575	FN	--	P	630
+#576	FN	--	L	638	LR	631
+#577	FN	--	E	611
+#578	FN	--	C	611
+#579	FN	--	R	611
+#580	FN	--	C	612
+#581	FN	--	P	613
+#582	FN	--	L	638	LR	639
+#583	FN	--	E	615
+#584	FN	--	S	614
+#585	FN	--	C	615	A*	614
+#586	FN	--	D	633
+#587	FN	--	P	633
+#588	FN	--	T	589
+#589	FN	--	H	638
+#590	FN	--	A	616
+#591	FN	--	D	616
+#592	FN	--	L	638	LR	634
+#593	FN	--	A	618
+#594	FN	--	C	598
+#595	FN	--	A	618
+#596	FN	--	E	597
+#597	FN	--	A	620
+#598	FN	--	A	625
+#599	FN	--	S	627
+#600	FN	--	E	601
+#601	FN	--	A	621
+#602	FN	--	A	621
+#603	FN	--	S	622
+#604	FN	--	A	622
+#605	FN	--	A	606
+#606	FN	--	H	638	LA	628
+#607	FN	--	A	623
+#608	FN	--	A	623
+#609	FN	--	A	623
+#610	FN	--	E	629
+#611	FN	--	E	612
+#612	FN	--	T	613
+#613	FN	--	H	638	LA	639	LA	631
 #614	FN	--	E	615
-#615	FN	--	A	616
-#616	FN	--	H	639	LA	640	LA	628
-#617	FN	--	A	630
-#618	FN	--	H	639
-#619	FN	--	H	639	LA	634
-#620	FN	--	H	639	LA	634
-#621	FN	--	H	639	LA	635	LA	625
-#622	FN	--	A	624
-#623	FN	--	A	624
-#624	FN	--	H	639	LA	642
-#625	LKG	--	--	0
-#626	FN	--	A	627
-#627	FN	--	H	639	LA	628	LA	635
+#615	FN	--	A	633
+#616	FN	--	H	638
+#617	FN	--	A	618
+#618	FN	--	H	638	LA	634
+#619	FN	--	A	620
+#620	FN	--	H	638	LA	634
+#621	FN	--	H	638
+#622	FN	--	H	638
+#623	FN	--	H	638	LA	636	LA	628
+#624	FN	--	A	625
+#625	FN	--	H	638
+#626	FN	--	A	637
+#627	FN	--	C	635
 #628	LKG	--	--	0
 #629	FN	--	A	630
-#630	FN	--	H	639	LA	640
-#631	FN	--	A	636
-#632	FN	--	A	637
-#633	FN	--	A	638
+#630	FN	--	H	638	LA	631	LA	636
+#631	LKG	--	--	0
+#632	FN	--	A	633
+#633	FN	--	H	638	LA	639
 #634	LKG	--	--	0
-#635	LKG	--	--	0
-#636	FN	--	H	639	LA	641
-#637	FN	--	H	639	LA	641
-#638	FN	--	H	639	LA	642
-#639	FN	--	--	0
-#640	LKG	--	--	0
-#641	LKG	--	--	0
-#642	LKG	--	--	0
+#635	FN	--	A	637
+#636	LKG	--	--	0
+#637	FN	--	H	638
+#638	FN	--	--	0
+#639	LKG	--	--	0
 #EOS 990000

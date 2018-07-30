@@ -1,25 +1,26 @@
 #BOS 316007
 But	Word	--	Terminal	500
 Commander	Word	--	Terminal	501
-Farragut	Word	--	Terminal	501
-wanted	Word	--	Terminal	502
-nothing	Word	--	Terminal	503
-more	Word	--	Terminal	503
-than	Word	--	Terminal	503
-to	Word	--	Terminal	504
-go	Word	--	Terminal	505
-forth	Word	--	Terminal	505
-.	Punctuation	--	Terminal	506
-#500	FN	--	L	510	LR	511
-#501	FN	--	A	509	A*	508
-#502	FN	--	P	509
-#503	FN	--	D	508
-#504	FN	--	F	507
-#505	FN	--	C	507
-#506	PNCT	--	U	507
-#507	FN	--	P	508
-#508	FN	--	A	509
-#509	FN	--	H	510	LA	511
-#510	FN	--	--	0
-#511	LKG	--	--	0
+Farragut	Word	--	Terminal	502
+wanted	Word	--	Terminal	503
+nothing	Word	--	Terminal	504
+more	Word	--	Terminal	504
+than	Word	--	Terminal	504
+to	Word	--	Terminal	505
+go	Word	--	Terminal	506
+forth	Word	--	Terminal	506
+.	Punctuation	--	Terminal	507
+#500	FN	--	L	511	LR	512
+#501	FN	--	E	508
+#502	FN	--	C	508	A*	509
+#503	FN	--	P	510
+#504	FN	--	D	509
+#505	FN	--	F	509
+#506	FN	--	P	509
+#507	PNCT	--	U	509
+#508	FN	--	A	510
+#509	FN	--	A	510
+#510	FN	--	H	511	LA	512
+#511	FN	--	--	0
+#512	LKG	--	--	0
 #EOS 316007

@@ -28,65 +28,62 @@ creature	Word	--	Terminal	525
 that	Word	--	Terminal	526
 had	Word	--	Terminal	527
 nothing	Word	--	Terminal	528
-in	Word	--	Terminal	529
-common	Word	--	Terminal	530
-with	Word	--	Terminal	531
-the	Word	--	Terminal	532
-fabled	Word	--	Terminal	533
-sea	Word	--	Terminal	534
-serpent	Word	--	Terminal	535
-.	Punctuation	--	Terminal	536
-#500	FN	--	A	537
-#501	FN	--	P	537
-#502	PNCT	--	U	551
-#503	FN	--	A	546
-#504	FN	--	F	538
-#505	FN	--	C	538
-#506	FN	--	R	545
-#507	FN	--	R	545
-#508	FN	--	E	545
-#509	FN	--	C	545
-#510	FN	--	R	539
-#511	FN	--	E	539
-#512	FN	--	C	539
-#513	PNCT	--	U	551
-#514	FN	--	L	551	LR	552
-#515	FN	--	E	540
-#516	FN	--	C	540	A*	541
-#517	FN	--	P	550
-#518	FN	--	L	551	LR	542
-#519	FN	--	P	541
-#520	FN	--	E	549
-#521	FN	--	C	549
-#522	FN	--	R	548
-#523	FN	--	E	548
-#524	FN	--	E	548
-#525	FN	--	C	548	A*	547
-#526	FN	--	R	547
-#527	FN	--	E	543
-#528	FN	--	A	547
-#529	FN	--	R	543
-#530	FN	--	C	543
-#531	FN	--	R	544
-#532	FN	--	E	544
-#533	FN	--	E	544
-#534	FN	--	E	544
-#535	FN	--	C	544
-#536	PNCT	--	U	544
-#537	FN	--	H	551
-#538	FN	--	P	546
-#539	FN	--	E	545
-#540	FN	--	A	550
-#541	FN	--	H	551	LA	542
-#542	LKG	--	--	0
-#543	FN	--	S	547
-#544	FN	--	A	547
+in	Word	--	Terminal	527
+common	Word	--	Terminal	527
+with	Word	--	Terminal	529
+the	Word	--	Terminal	530
+fabled	Word	--	Terminal	531
+sea	Word	--	Terminal	532
+serpent	Word	--	Terminal	533
+.	Punctuation	--	Terminal	534
+#500	FN	--	A	544
+#501	FN	--	P	544
+#502	PNCT	--	U	544
+#503	FN	--	A	543
+#504	FN	--	F	543
+#505	FN	--	P	543
+#506	FN	--	R	541
+#507	FN	--	R	541
+#508	FN	--	E	541
+#509	FN	--	C	541
+#510	FN	--	R	535
+#511	FN	--	E	535
+#512	FN	--	C	535
+#513	PNCT	--	U	548
+#514	FN	--	L	548
+#515	FN	--	E	536
+#516	FN	--	C	536	A*	537
+#517	FN	--	P	547
+#518	FN	--	L	548	LR	549
+#519	FN	--	P	537
+#520	FN	--	E	538
+#521	FN	--	C	538
+#522	FN	--	R	545
+#523	FN	--	E	545
+#524	FN	--	E	545
+#525	FN	--	C	545	A*	542
+#526	FN	--	R	542
+#527	FN	--	S	542
+#528	FN	--	A	542
+#529	FN	--	R	540
+#530	FN	--	E	540
+#531	FN	--	P	539
+#532	FN	--	E	540
+#533	FN	--	C	540	A*	539
+#534	PNCT	--	U	540
+#535	FN	--	E	541
+#536	FN	--	A	547
+#537	FN	--	H	548	LA	549
+#538	FN	--	S	546
+#539	FN	--	E	540
+#540	FN	--	A	542
+#541	FN	--	A	543
+#542	FN	--	E	545
+#543	FN	--	A	544
+#544	FN	--	H	548
 #545	FN	--	A	546
-#546	FN	--	H	551	LA	552
-#547	FN	--	E	548
-#548	FN	--	E	549
-#549	FN	--	A	550
-#550	FN	--	H	551	LA	552
-#551	FN	--	--	0
-#552	LKG	--	--	0
+#546	FN	--	A	547
+#547	FN	--	H	548	LA	549
+#548	FN	--	--	0
+#549	LKG	--	--	0
 #EOS 311002

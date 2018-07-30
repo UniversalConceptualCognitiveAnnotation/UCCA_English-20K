@@ -8,16 +8,15 @@ go	Word	--	Terminal	505
 about	Word	--	Terminal	505
 it	Word	--	Terminal	506
 ?	Punctuation	--	Terminal	507
-#500	FN	--	L	511
+#500	FN	--	L	510
 #501	FN	--	C	508
 #502	FN	--	E	508
-#503	FN	--	E	509
-#504	FN	--	A	510
-#505	FN	--	C	509
-#506	FN	--	A	510
-#507	PNCT	--	U	510
-#508	FN	--	D	510
-#509	FN	--	P	510
-#510	FN	--	H	511
-#511	FN	--	--	0
+#503	FN	--	D	509
+#504	FN	--	A	509
+#505	FN	--	P	509
+#506	FN	--	A	509
+#507	PNCT	--	U	509
+#508	FN	--	D	509
+#509	FN	--	H	510
+#510	FN	--	--	0
 #EOS 981002

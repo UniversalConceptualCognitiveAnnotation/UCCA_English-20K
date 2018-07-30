@@ -33,7 +33,7 @@ documents	Word	--	Terminal	528
 .	Punctuation	--	Terminal	529
 #500	FN	--	L	542	LR	540
 #501	PNCT	--	U	542
-#502	FN	--	L	542	LR	538
+#502	FN	--	L	542	LR	539
 #503	FN	--	D	534
 #504	FN	--	P	534
 #505	FN	--	R	530
@@ -50,27 +50,27 @@ documents	Word	--	Terminal	528
 #516	FN	--	C	531
 #517	PNCT	--	U	542
 #518	FN	--	L	542	LR	543
-#519	FN	--	E	532
-#520	FN	--	F	532
-#521	FN	--	C	532
-#522	FN	--	R	537
-#523	FN	--	E	537
-#524	FN	--	E	537
-#525	FN	--	C	537
+#519	FN	--	D	541
+#520	FN	--	F	541
+#521	FN	--	P	541
+#522	FN	--	R	538
+#523	FN	--	E	532
+#524	FN	--	T	538
+#525	FN	--	C	532
 #526	FN	--	R	533
 #527	FN	--	E	533
 #528	FN	--	C	533
 #529	PNCT	--	U	533
 #530	FN	--	A	534
 #531	FN	--	E	535
-#532	FN	--	P	541
-#533	FN	--	E	537
-#534	FN	--	H	542	LA	538
+#532	FN	--	P	538
+#533	FN	--	A	538
+#534	FN	--	H	542	LA	539
 #535	FN	--	A	536
 #536	FN	--	H	542	LA	540	A*	541
 #537	FN	--	A	541
-#538	LKG	--	--	0
-#539	FN	--	A	541
+#538	FN	--	A	541
+#539	LKG	--	--	0
 #540	LKG	--	--	0
 #541	FN	--	H	542	LA	543
 #542	FN	--	--	0

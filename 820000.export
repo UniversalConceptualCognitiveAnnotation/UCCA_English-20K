@@ -17,47 +17,43 @@ the	Word	--	Terminal	513
 boy	Word	--	Terminal	514
 had	Word	--	Terminal	515
 come	Word	--	Terminal	516
-to	Word	--	Terminal	517
-know	Word	--	Terminal	518
-a	Word	--	Terminal	519
-thing	Word	--	Terminal	520
-or	Word	--	Terminal	521
-two	Word	--	Terminal	522
-.	Punctuation	--	Terminal	523
-#500	FN	--	L	534	LR	535
-#501	FN	--	P	533
-#502	FN	--	R	532
-#503	FN	--	C	532
-#504	FN	--	R	531
-#505	FN	--	E	531
-#506	FN	--	E	531
-#507	FN	--	C	531
-#508	FN	--	R	524
-#509	FN	--	E	524
-#510	FN	--	E	524
-#511	FN	--	C	524
-#512	PNCT	--	U	534
-#513	FN	--	E	525
-#514	FN	--	C	525	A*	533
-#515	FN	--	F	526
-#516	FN	--	E	526
-#517	FN	--	F	526
-#518	FN	--	C	526
-#519	FN	--	E	527
-#520	FN	--	C	527	C*	528
-#521	FN	--	N	529
-#522	FN	--	E	528
-#523	PNCT	--	U	528
-#524	FN	--	E	531
-#525	FN	--	A	530
-#526	FN	--	P	530
-#527	FN	--	C	529
-#528	FN	--	C	529
-#529	FN	--	A	530
-#530	FN	--	H	534
-#531	FN	--	E	532
-#532	FN	--	A	533
-#533	FN	--	H	534	LA	535
-#534	FN	--	--	0
-#535	LKG	--	--	0
+to	Word	--	Terminal	516
+know	Word	--	Terminal	516
+a	Word	--	Terminal	517
+thing	Word	--	Terminal	518
+or	Word	--	Terminal	519
+two	Word	--	Terminal	520
+.	Punctuation	--	Terminal	521
+#500	FN	--	L	530	LR	531
+#501	FN	--	P	528
+#502	FN	--	R	526
+#503	FN	--	C	526
+#504	FN	--	R	525
+#505	FN	--	E	525
+#506	FN	--	E	525
+#507	FN	--	C	525
+#508	FN	--	R	522
+#509	FN	--	E	522
+#510	FN	--	E	522
+#511	FN	--	C	522
+#512	PNCT	--	U	530
+#513	FN	--	E	523
+#514	FN	--	C	523	A*	528
+#515	FN	--	F	529
+#516	FN	--	P	529
+#517	FN	--	E	527
+#518	FN	--	C	524
+#519	FN	--	N	524
+#520	FN	--	C	524
+#521	PNCT	--	U	524
+#522	FN	--	E	525
+#523	FN	--	A	529
+#524	FN	--	C	527
+#525	FN	--	E	526
+#526	FN	--	A	528
+#527	FN	--	A	529
+#528	FN	--	H	530	LA	531
+#529	FN	--	H	530
+#530	FN	--	--	0
+#531	LKG	--	--	0
 #EOS 820000

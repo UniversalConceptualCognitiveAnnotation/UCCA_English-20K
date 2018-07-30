@@ -3,16 +3,15 @@ and	Word	--	Terminal	500
 halted	Word	--	Terminal	501
 at	Word	--	Terminal	502
 Pier	Word	--	Terminal	503
-34	Word	--	Terminal	504
-.	Punctuation	--	Terminal	505
-#500	FN	--	L	509
-#501	FN	--	P	508
-#502	FN	--	R	506
-#503	FN	--	E	506
-#504	FN	--	C	506
-#505	PNCT	--	U	506
-#506	FN	--	A	508
-#507	FN	--	A	508
-#508	FN	--	H	509
-#509	FN	--	--	0
+34	Word	--	Terminal	503
+.	Punctuation	--	Terminal	504
+#500	FN	--	L	508
+#501	FN	--	P	507
+#502	FN	--	R	505
+#503	FN	--	C	505
+#504	PNCT	--	U	505
+#505	FN	--	A	507
+#506	FN	--	A	507
+#507	FN	--	H	508
+#508	FN	--	--	0
 #EOS 831002

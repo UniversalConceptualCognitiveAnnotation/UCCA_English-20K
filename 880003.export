@@ -12,8 +12,8 @@ mind	Word	--	Terminal	509
 ,	Punctuation	--	Terminal	510
 and	Word	--	Terminal	511
 he	Word	--	Terminal	512
-didn	Word	--	Terminal	513
-’t	Word	--	Terminal	514
+did	Word	--	Terminal	513
+n’t	Word	--	Terminal	514
 allow	Word	--	Terminal	515
 the	Word	--	Terminal	516
 animal	Word	--	Terminal	517
@@ -32,39 +32,37 @@ vessel	Word	--	Terminal	525
 #503	FN	--	C	527
 #504	FN	--	E	528
 #505	FN	--	C	528
-#506	FN	--	P	535
+#506	FN	--	P	533
 #507	FN	--	R	529
 #508	FN	--	E	529
 #509	FN	--	C	529
-#510	PNCT	--	U	539
-#511	FN	--	L	539	LR	540
-#512	FN	--	A	538
-#513	FN	--	F	530
-#514	FN	--	D	538
-#515	FN	--	C	530
-#516	FN	--	E	531
-#517	FN	--	C	531
-#518	FN	--	R	531
-#519	FN	--	C	532
-#520	FN	--	F	533
-#521	FN	--	F	533
-#522	FN	--	C	533
-#523	FN	--	R	534
-#524	FN	--	E	534
-#525	FN	--	C	534
-#526	PNCT	--	U	534
-#527	FN	--	A	535
-#528	FN	--	A	535
-#529	FN	--	A	535
-#530	FN	--	P	538
-#531	FN	--	E	532
-#532	FN	--	A	537
-#533	FN	--	P	537
-#534	FN	--	A	537
-#535	FN	--	H	539	LA	540
-#536	FN	--	A	537
-#537	FN	--	A	538
-#538	FN	--	H	539	LA	540
-#539	FN	--	--	0
-#540	LKG	--	--	0
+#510	PNCT	--	U	537
+#511	FN	--	L	537	LR	538
+#512	FN	--	A	536
+#513	FN	--	F	536
+#514	FN	--	D	536
+#515	FN	--	P	536
+#516	FN	--	E	530
+#517	FN	--	C	530
+#518	FN	--	R	530
+#519	FN	--	C	531
+#520	FN	--	F	535
+#521	FN	--	F	535
+#522	FN	--	P	535
+#523	FN	--	R	532
+#524	FN	--	E	532
+#525	FN	--	C	532
+#526	PNCT	--	U	532
+#527	FN	--	A	533
+#528	FN	--	A	533
+#529	FN	--	A	533
+#530	FN	--	E	531
+#531	FN	--	A	535
+#532	FN	--	A	535
+#533	FN	--	H	537	LA	538
+#534	FN	--	A	535
+#535	FN	--	A	536
+#536	FN	--	H	537	LA	538
+#537	FN	--	--	0
+#538	LKG	--	--	0
 #EOS 880003

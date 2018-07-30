@@ -49,10 +49,10 @@ Cetacea	Word	--	Terminal	534
 #510	PNCT	--	U	552
 #511	FN	--	A	552
 #512	FN	--	P	552
-#513	FN	--	F	552
+#513	FN	--	R	551
 #514	FN	--	E	537
 #515	FN	--	C	537
-#516	FN	--	F	538
+#516	FN	--	F	551
 #517	FN	--	E	538
 #518	FN	--	C	538
 #519	FN	--	R	543	R*	544	R*	545	R*	546
@@ -72,7 +72,7 @@ Cetacea	Word	--	Terminal	534
 #533	FN	--	C	540
 #534	FN	--	C	546
 #535	PNCT	--	U	546
-#536	FN	--	D	548
+#536	FN	--	T	548
 #537	FN	--	A	551
 #538	FN	--	S	551
 #539	FN	--	E	543
