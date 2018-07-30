@@ -1,11 +1,29 @@
 # ::id 970000
 # ::tok Assuredly , if the monster ever had to deal with Ned Land ’s harpoon , I wouldn ’t bet on the monster .
-(label :G label
-       :L label
-       :H label
-       :A label
-       :D label
-       :P label
-       :E label
-       :C label
-       :R label)
+(v1 / label
+    :G (v2 / label)
+    :L (v3 / label)
+    :H (v4 / label
+           :A (v6 / label
+                  :E (v14 / label)
+                  :C (v15 / label))
+           :D (v7 / label)
+           :P (v8 / label
+                  :E (v16 / label)
+                  :C (v17 / label))
+           :A (v9 / label
+                  :R (v18 / label)
+                  :E (v19 / label
+                          :C (v26 / label)
+                          :R (v27 / label))
+                  :C (v20 / label)))
+    :H (v5 / label
+           :A (v10 / label)
+           :P (v11 / label
+                   :E (v21 / label)
+                   :C (v22 / label))
+           :D (v12 / label)
+           :A (v13 / label
+                   :R (v23 / label)
+                   :E (v24 / label)
+                   :C (v25 / label))))

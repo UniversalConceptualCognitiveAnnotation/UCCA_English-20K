@@ -1,11 +1,56 @@
 # ::id 845000
 # ::tok The escort of boats and tenders still followed the frigate and only left us when we came abreast of the lightship , whose two signal lights mark the entrance of the narrows to Upper New York Bay .
-(label :H label
-       :L label
-       :A label
-       :D label
-       :P label
-       :E label
-       :C label
-       :N label
-       :R label)
+(v1 / label
+    :H (v2 / label
+           :A (v7 / label
+                  :E (v18 / label)
+                  :C (v14 / label)
+                  :E (v19 / label
+                          :C (v26 / label
+                                  :R (v35 / label)
+                                  :C (v36 / label))
+                          :N (v27 / label)
+                          :C (v28 / label
+                                  :C (v37 / label)
+                                  :R v35)))
+           :D (v8 / label)
+           :P (v9 / label)
+           :A (v10 / label
+                   :E (v20 / label)
+                   :C (v21 / label)))
+    :L (v3 / label)
+    :H (v4 / label
+           :D (v11 / label)
+           :P (v12 / label)
+           :A (v13 / label)
+           :A v14)
+    :L (v5 / label)
+    :H (v6 / label
+           :A (v15 / label)
+           :P (v16 / label)
+           :A (v17 / label
+                   :E (v22 / label
+                           :C (v29 / label)
+                           :R (v30 / label))
+                   :E (v23 / label
+                           :R (v31 / label)
+                           :A (v32 / label
+                                   :E (v38 / label)
+                                   :E (v39 / label)
+                                   :C (v40 / label)
+                                   :E (v25 / label))
+                           :P (v33 / label)
+                           :A (v34 / label
+                                   :E (v41 / label)
+                                   :E (v42 / label
+                                           :R (v45 / label)
+                                           :E (v46 / label)
+                                           :E (v47 / label)
+                                           :C (v48 / label))
+                                   :C (v43 / label)
+                                   :E (v44 / label
+                                           :R (v49 / label)
+                                           :E (v50 / label)
+                                           :C (v51 / label))))
+                   :E (v24 / label)
+                   :C v25)))

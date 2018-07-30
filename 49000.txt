@@ -1,10 +1,51 @@
 # ::id 49000
 # ::tok On March 5 , 1867 , the Moravian from the Montreal Ocean Co . , lying during the night in latitude 27° 30\u2032 and longitude 72° 15\u2032 , ran its starboard quarter afoul of a rock marked on no charts of these waterways .
-(label :H label
-       :D label
-       :A label
-       :P label
-       :R label
-       :C label
-       :E label
-       :N label)
+(v1 / label
+    :H (v2 / label
+           :D (v4 / label
+                  :R (v13 / label)
+                  :C (v14 / label))
+           :A (v5 / label
+                  :E (v15 / label)
+                  :C (v12 / label)
+                  :E (v16 / label
+                          :R (v30 / label)
+                          :E (v31 / label)
+                          :C (v32 / label)))
+           :P (v6 / label)
+           :A (v7 / label
+                  :E (v17 / label)
+                  :E (v18 / label)
+                  :C (v19 / label))
+           :A (v8 / label
+                  :R (v20 / label)
+                  :E (v21 / label)
+                  :C (v22 / label)
+                  :E (v23 / label
+                          :A v22
+                          :P (v33 / label)
+                          :A (v34 / label
+                                  :R (v40 / label)
+                                  :E (v41 / label)
+                                  :C (v42 / label)
+                                  :E (v43 / label
+                                          :R (v44 / label)
+                                          :E (v45 / label)
+                                          :C (v46 / label))))))
+    :H (v3 / label
+           :P (v9 / label)
+           :D (v10 / label
+                   :R (v24 / label)
+                   :E (v25 / label)
+                   :C (v26 / label))
+           :A (v11 / label
+                   :C (v27 / label
+                           :R (v35 / label)
+                           :E (v36 / label)
+                           :C (v37 / label))
+                   :N (v28 / label)
+                   :C (v29 / label
+                           :E (v38 / label)
+                           :C (v39 / label)
+                           :R v35))
+           :A v12))

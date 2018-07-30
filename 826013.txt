@@ -1,10 +1,21 @@
 # ::id 826013
 # ::tok ” “ What about master ’s live babirusa ? ” “ They ’ll feed it during our absence .
-(label :H label
-       :S label
-       :A label
-       :P label
-       :D label
-       :E label
-       :C label
-       :R label)
+(v1 / label
+    :H (v2 / label
+           :S (v4 / label)
+           :A (v5 / label
+                  :E (v10 / label
+                          :C (v18 / label)
+                          :R (v19 / label))
+                  :E (v11 / label)
+                  :C (v12 / label)))
+    :H (v3 / label
+           :A (v6 / label)
+           :P (v7 / label
+                  :E (v13 / label)
+                  :C (v14 / label))
+           :A (v8 / label)
+           :D (v9 / label
+                  :R (v15 / label)
+                  :E (v16 / label)
+                  :C (v17 / label))))

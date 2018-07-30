@@ -1,11 +1,49 @@
 # ::id 979000
 # ::tok Ned Land still kept up the most tenacious skepticism ; beyond his spells on watch , he pretended that he never even looked at the surface of the waves , at least while no whales were in sight .
-(label :H label
-       :L label
-       :A label
-       :D label
-       :S label
-       :P label
-       :E label
-       :C label
-       :R label)
+(v1 / label
+    :H (v2 / label
+           :A (v6 / label)
+           :D (v7 / label)
+           :S (v8 / label
+                  :E (v17 / label)
+                  :E (v18 / label)
+                  :E (v19 / label)
+                  :E (v20 / label)
+                  :C (v21 / label)))
+    :H (v3 / label
+           :A (v9 / label
+                  :D (v22 / label
+                          :R (v34 / label)
+                          :E (v35 / label
+                                  :E (v41 / label)
+                                  :C (v42 / label)
+                                  :R (v43 / label))
+                          :C (v36 / label
+                                  :P (v44 / label)))
+                  :A (v23 / label)
+                  :D (v24 / label)
+                  :D (v25 / label)
+                  :P (v26 / label)
+                  :A (v27 / label
+                          :R (v37 / label)
+                          :E (v38 / label)
+                          :C (v39 / label)
+                          :E (v40 / label
+                                  :R (v45 / label)
+                                  :E (v46 / label)
+                                  :C (v47 / label))))
+           :A (v10 / label)
+           :P (v11 / label))
+    :L (v4 / label
+           :E (v12 / label
+                   :R (v28 / label)
+                   :C (v29 / label))
+           :C (v13 / label))
+    :H (v5 / label
+           :A (v14 / label)
+           :A (v15 / label
+                   :E (v30 / label)
+                   :C (v31 / label))
+           :P (v16 / label
+                   :R (v32 / label)
+                   :C (v33 / label))))

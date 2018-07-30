@@ -1,11 +1,42 @@
 # ::id 905001
 # ::tok ” “ As many as that ? ” “ Yes , and since the atmosphere ’s pressure actually weighs slightly more than one kilogram per square centimeter , your 17,000 square centimeters are tolerating 17,568 kilograms at this very moment .
-(label :H label
-       :L label
-       :A label
-       :D label
-       :S label
-       :P label
-       :E label
-       :C label
-       :R label)
+(v1 / label
+    :H (v2 / label)
+    :H (v3 / label)
+    :L (v4 / label)
+    :L (v5 / label)
+    :H (v6 / label
+           :A (v8 / label
+                  :E (v16 / label
+                          :E (v33 / label)
+                          :C (v34 / label)
+                          :R (v35 / label))
+                  :C (v17 / label))
+           :D (v9 / label)
+           :S (v10 / label)
+           :A (v11 / label
+                   :E (v18 / label
+                           :E (v36 / label)
+                           :C (v37 / label))
+                   :E (v19 / label)
+                   :C (v20 / label)
+                   :E (v21 / label
+                           :R (v38 / label)
+                           :E (v39 / label)
+                           :C (v40 / label))))
+    :H (v7 / label
+           :A (v12 / label
+                   :E (v22 / label)
+                   :E (v23 / label)
+                   :E (v24 / label)
+                   :C (v25 / label))
+           :P (v13 / label
+                   :C (v26 / label))
+           :A (v14 / label
+                   :E (v27 / label)
+                   :C (v28 / label))
+           :A (v15 / label
+                   :R (v29 / label)
+                   :E (v30 / label)
+                   :E (v31 / label)
+                   :C (v32 / label))))

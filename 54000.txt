@@ -1,10 +1,33 @@
 # ::id 54000
 # ::tok On April 13 , 1867 , with a smooth sea and a moderate breeze , the Scotia lay in longitude 15° 12\u2032 and latitude 45° 37\u2032 .
-(label :H label
-       :D label
-       :A label
-       :P label
-       :R label
-       :C label
-       :N label
-       :E label)
+(v1 / label
+    :H (v2 / label
+           :D (v3 / label
+                  :R (v8 / label)
+                  :C (v9 / label))
+           :A (v4 / label
+                  :C (v10 / label
+                          :R (v18 / label)
+                          :E (v19 / label)
+                          :E (v20 / label)
+                          :C (v21 / label))
+                  :N (v11 / label)
+                  :C (v12 / label
+                          :E (v22 / label)
+                          :E (v23 / label)
+                          :C (v24 / label)
+                          :R v18))
+           :A (v5 / label
+                  :E (v13 / label)
+                  :C (v14 / label))
+           :P (v6 / label)
+           :A (v7 / label
+                  :C (v15 / label
+                          :R (v25 / label)
+                          :E (v26 / label)
+                          :C (v27 / label))
+                  :N (v16 / label)
+                  :C (v17 / label
+                          :E (v28 / label)
+                          :C (v29 / label)
+                          :R v25))))

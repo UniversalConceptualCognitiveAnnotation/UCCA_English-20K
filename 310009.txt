@@ -1,11 +1,44 @@
 # ::id 310009
 # ::tok Couldn ’t the heart of the ocean hide the last - remaining varieties of these titanic species , for whom years are centuries and centuries millennia ?
-(label :H label
-       :P label
-       :D label
-       :A label
-       :E label
-       :C label
-       :R label
-       :L label
-       :S label)
+(v1 / label
+    :H (v2 / label
+           :P (v4 / label
+                  :E (v10 / label)
+                  :C (v11 / label))
+           :D (v5 / label)
+           :A (v6 / label
+                  :E (v12 / label)
+                  :C (v13 / label)
+                  :E (v14 / label
+                          :R (v19 / label)
+                          :E (v20 / label)
+                          :C (v21 / label)))
+           :A (v7 / label
+                  :E (v15 / label)
+                  :C (v16 / label)))
+    :H (v3 / label
+           :P (v8 / label)
+           :A (v9 / label
+                  :C (v17 / label)
+                  :E (v18 / label
+                          :R (v22 / label)
+                          :E (v23 / label)
+                          :E (v24 / label)
+                          :C (v25 / label)
+                          :E (v26 / label
+                                  :H (v27 / label
+                                          :A (v30 / label
+                                                  :C v25
+                                                  :R (v37 / label))
+                                          :R (v31 / label)
+                                          :A (v32 / label)
+                                          :S (v33 / label)
+                                          :A (v34 / label))
+                                  :L (v28 / label)
+                                  :H (v29 / label
+                                          :A v25
+                                          :A (v35 / label)
+                                          :A (v36 / label)
+                                          :R v31
+                                          :S v33))))
+           :A v6))

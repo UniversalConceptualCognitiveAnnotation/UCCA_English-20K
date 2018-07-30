@@ -1,10 +1,16 @@
 # ::id 983001
 # ::tok And in all honesty , shipboard conditions became life - threatening .
-(label :L label
-       :G label
-       :H label
-       :R label
-       :E label
-       :C label
-       :A label
-       :P label)
+(v1 / label
+    :L (v2 / label)
+    :G (v3 / label
+           :R (v5 / label)
+           :E (v6 / label)
+           :C (v7 / label))
+    :H (v4 / label
+           :A (v8 / label
+                  :E (v10 / label)
+                  :C (v11 / label))
+           :P (v9 / label
+                  :E (v12 / label)
+                  :E (v13 / label)
+                  :C (v14 / label))))

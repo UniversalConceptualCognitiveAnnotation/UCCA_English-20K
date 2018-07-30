@@ -1,9 +1,16 @@
 # ::id 297001
 # ::tok Since I could no longer hold my tongue , I let it wag .
-(label :L label
-       :H label
-       :A label
-       :P label
-       :D label
-       :E label
-       :C label)
+(v1 / label
+    :L (v2 / label)
+    :H (v3 / label
+           :A (v5 / label)
+           :P (v6 / label
+                  :E (v11 / label)
+                  :C (v12 / label))
+           :D (v7 / label)
+           :D (v8 / label))
+    :H (v4 / label
+           :A (v9 / label)
+           :P (v10 / label
+                   :E (v13 / label)
+                   :C (v14 / label))))

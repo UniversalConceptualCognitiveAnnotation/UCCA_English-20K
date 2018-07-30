@@ -1,9 +1,30 @@
 # ::id 313002
 # ::tok A high - speed frigate , the Abraham Lincoln , was fitted out for putting to sea as soon as possible .
-(label :H label
-       :A label
-       :P label
-       :R label
-       :D label
-       :E label
-       :C label)
+(v1 / label
+    :H (v2 / label
+           :A (v4 / label)
+           :A (v5 / label
+                  :E (v13 / label
+                          :E (v21 / label)
+                          :E (v22 / label
+                                  :E (v26 / label)
+                                  :C (v27 / label))
+                          :C (v12 / label))
+                  :E (v14 / label)
+                  :C (v15 / label))
+           :P (v6 / label
+                  :C (v16 / label)))
+    :H (v3 / label
+           :A (v7 / label)
+           :R (v8 / label)
+           :P (v9 / label)
+           :A (v10 / label
+                   :R (v17 / label)
+                   :C (v18 / label))
+           :D (v11 / label
+                   :E (v19 / label
+                           :R (v23 / label)
+                           :C (v24 / label)
+                           :R (v25 / label))
+                   :C (v20 / label))
+           :A v12))

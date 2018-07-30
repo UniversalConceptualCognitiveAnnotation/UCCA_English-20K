@@ -1,8 +1,22 @@
 # ::id 891002
 # ::tok Ah , my gallant Ned ! I ask only to live 100 years more , the longer to remember you !
-(label :H label
-       :A label
-       :P label
-       :D label
-       :E label
-       :C label)
+(v1 / label
+    :H (v2 / label)
+    :H (v3 / label
+           :A (v5 / label)
+           :P (v6 / label
+                  :E (v12 / label)
+                  :C (v13 / label))
+           :D (v7 / label)
+           :A (v8 / label
+                  :E (v14 / label)
+                  :E (v15 / label)
+                  :C (v16 / label)))
+    :H (v4 / label
+           :D (v9 / label
+                  :E (v17 / label)
+                  :C (v18 / label))
+           :P (v10 / label
+                   :C (v19 / label))
+           :A (v11 / label)
+           :A v5))

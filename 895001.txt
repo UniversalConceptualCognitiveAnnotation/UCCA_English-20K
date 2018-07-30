@@ -1,8 +1,14 @@
 # ::id 895001
 # ::tok Do you have any particular reasons for being so skeptical ? ”
-(label :H label
-       :A label
-       :P label
-       :E label
-       :C label
-       :S label)
+(v1 / label
+    :H (v2 / label
+           :A (v3 / label)
+           :P (v4 / label
+                  :E (v6 / label)
+                  :E (v7 / label)
+                  :C (v8 / label))
+           :A (v5 / label
+                  :A v3
+                  :S (v9 / label
+                         :E (v10 / label)
+                         :C (v11 / label)))))

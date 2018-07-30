@@ -1,10 +1,47 @@
 # ::id 976002
 # ::tok Sometimes bending over the forecastle railings , sometimes leaning against the sternrail , I eagerly scoured that cotton - colored wake that whitened the ocean as far as the eye could see !
-(label :H label
-       :L label
-       :D label
-       :P label
-       :A label
-       :R label
-       :C label
-       :E label)
+(v1 / label
+    :H (v2 / label
+           :D (v7 / label)
+           :P (v8 / label)
+           :A (v9 / label
+                  :R (v22 / label)
+                  :E (v23 / label)
+                  :E (v24 / label)
+                  :C (v25 / label)))
+    :H (v3 / label
+           :A (v10 / label)
+           :D (v11 / label)
+           :P (v12 / label)
+           :A (v13 / label
+                   :R (v26 / label)
+                   :E (v27 / label)
+                   :C (v28 / label)))
+    :H (v4 / label
+           :A v10
+           :D (v14 / label)
+           :P (v15 / label)
+           :A (v16 / label
+                   :E (v29 / label)
+                   :E (v30 / label
+                           :C (v37 / label)
+                           :E (v38 / label))
+                   :C (v31 / label)
+                   :E (v32 / label
+                           :A v31
+                           :R (v39 / label)
+                           :P (v40 / label)
+                           :A (v41 / label
+                                   :E (v42 / label)
+                                   :C (v43 / label)))))
+    :L (v5 / label
+           :R (v17 / label)
+           :C (v18 / label)
+           :R (v19 / label))
+    :H (v6 / label
+           :A (v20 / label
+                   :E (v33 / label)
+                   :C (v34 / label))
+           :P (v21 / label
+                   :E (v35 / label)
+                   :C (v36 / label))))

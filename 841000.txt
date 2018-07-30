@@ -1,9 +1,15 @@
 # ::id 841000
 # ::tok “ Are we up to pressure ? ” he asked the man .
-(label :H label
-       :S label
-       :A label
-       :P label
-       :R label
-       :C label
-       :E label)
+(v1 / label
+    :H (v2 / label
+           :S (v4 / label
+                  :R (v9 / label)
+                  :C (v10 / label))
+           :A (v5 / label))
+    :H (v3 / label
+           :A v2
+           :A (v6 / label)
+           :P (v7 / label)
+           :A (v8 / label
+                  :E (v11 / label)
+                  :C (v12 / label))))

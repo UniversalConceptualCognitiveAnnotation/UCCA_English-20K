@@ -1,9 +1,34 @@
 # ::id 834000
 # ::tok I bowed , and letting the commander attend to getting under way , I was taken to the cabin that had been set aside for me .
-(label :H label
-       :L label
-       :A label
-       :P label
-       :E label
-       :C label
-       :R label)
+(v1 / label
+    :H (v2 / label
+           :A (v6 / label)
+           :A (v7 / label)
+           :P (v8 / label))
+    :L (v3 / label)
+    :H (v4 / label
+           :P (v9 / label)
+           :A (v10 / label
+                   :E (v15 / label)
+                   :C v6)
+           :A (v11 / label
+                   :P (v16 / label
+                           :E (v22 / label)
+                           :C (v23 / label))
+                   :A v6))
+    :H (v5 / label
+           :A (v12 / label)
+           :P (v13 / label
+                   :C (v17 / label))
+           :A (v14 / label
+                   :R (v18 / label)
+                   :E (v19 / label)
+                   :C (v20 / label)
+                   :E (v21 / label
+                           :A (v24 / label)
+                           :R (v25 / label)
+                           :P (v26 / label
+                                   :C (v28 / label))
+                           :A (v27 / label
+                                   :R (v29 / label)
+                                   :C (v30 / label))))))

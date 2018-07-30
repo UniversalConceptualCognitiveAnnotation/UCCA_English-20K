@@ -1,10 +1,31 @@
 # ::id 50003
 # ::tok They saw nothing except a strong eddy breaking three cable lengths out , as if those sheets of water had been violently churned .
-(label :H label
-       :L label
-       :A label
-       :P label
-       :D label
-       :C label
-       :E label
-       :R label)
+(v1 / label
+    :H (v2 / label
+           :A (v5 / label)
+           :P (v6 / label)
+           :A (v7 / label
+                  :C (v11 / label)
+                  :E (v12 / label
+                          :R (v17 / label)
+                          :E (v18 / label
+                                  :P (v24 / label)
+                                  :A (v25 / label
+                                          :E (v26 / label)
+                                          :E (v27 / label)
+                                          :C (v28 / label))
+                                  :A (v21 / label))
+                          :E (v19 / label)
+                          :E (v20 / label)
+                          :C v21)))
+    :L (v3 / label)
+    :H (v4 / label
+           :A (v8 / label
+                  :E (v13 / label)
+                  :C (v14 / label)
+                  :E (v15 / label
+                          :R (v22 / label)
+                          :C (v23 / label)))
+           :P (v9 / label
+                  :C (v16 / label))
+           :D (v10 / label)))

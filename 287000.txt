@@ -1,11 +1,30 @@
 # ::id 287000
 # ::tok I was perfectly abreast of this question , which was the big news of the day , and how could I not have been ?
-(label :H label
-       :L label
-       :A label
-       :S label
-       :D label
-       :P label
-       :C label
-       :R label
-       :E label)
+(v1 / label
+    :H (v2 / label
+           :A (v5 / label)
+           :S (v6 / label
+                  :C (v12 / label))
+           :D (v7 / label)
+           :A (v8 / label
+                  :R (v13 / label)
+                  :E (v14 / label)
+                  :C (v15 / label)
+                  :E (v16 / label
+                          :A v15
+                          :R (v18 / label)
+                          :S (v19 / label)
+                          :A (v20 / label
+                                  :E (v21 / label)
+                                  :E (v22 / label)
+                                  :C (v23 / label)
+                                  :E (v24 / label
+                                          :R (v25 / label)
+                                          :E (v26 / label)
+                                          :C (v27 / label))))))
+    :L (v3 / label)
+    :H (v4 / label
+           :P (v9 / label
+                  :E (v17 / label))
+           :A (v10 / label)
+           :D (v11 / label)))

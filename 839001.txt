@@ -1,11 +1,65 @@
 # ::id 839001
 # ::tok And so if I ’d been delayed by a quarter of an hour or even less , the frigate would have gone without me , and I would have missed out on this unearthly , extraordinary , and inconceivable expedition , whose true story might well meet with some skepticism .
-(label :L label
-       :H label
-       :A label
-       :P label
-       :D label
-       :C label
-       :R label
-       :E label
-       :N label)
+(v1 / label
+    :L (v2 / label)
+    :L (v3 / label)
+    :H (v4 / label
+           :A (v8 / label)
+           :P (v9 / label
+                  :C (v17 / label))
+           :D (v10 / label
+                   :R (v18 / label)
+                   :C (v19 / label
+                           :C (v33 / label
+                                   :E (v46 / label
+                                           :E (v57 / label)
+                                           :C (v58 / label)
+                                           :R (v59 / label))
+                                   :E (v47 / label)
+                                   :C (v48 / label))
+                           :N (v34 / label)
+                           :C (v35 / label
+                                   :C v33
+                                   :E (v49 / label
+                                           :E (v60 / label)
+                                           :C (v61 / label))))))
+    :H (v5 / label
+           :A (v11 / label
+                   :E (v20 / label)
+                   :C (v21 / label))
+           :P (v12 / label
+                   :E (v22 / label)
+                   :C (v23 / label))
+           :A (v13 / label
+                   :R (v24 / label)
+                   :C (v25 / label)))
+    :L (v6 / label)
+    :H (v7 / label
+           :A (v14 / label)
+           :P (v15 / label
+                   :E (v26 / label)
+                   :C (v27 / label))
+           :A (v16 / label
+                   :R (v28 / label)
+                   :E (v29 / label)
+                   :E (v30 / label
+                           :C (v36 / label)
+                           :C (v37 / label)
+                           :N (v38 / label)
+                           :C (v39 / label))
+                   :C (v31 / label)
+                   :E (v32 / label
+                           :A (v40 / label)
+                           :R (v41 / label)
+                           :A (v42 / label
+                                   :E v31
+                                   :E (v50 / label)
+                                   :C (v51 / label))
+                           :P (v43 / label
+                                   :E (v52 / label)
+                                   :C (v53 / label))
+                           :D (v44 / label)
+                           :D (v45 / label
+                                   :R (v54 / label)
+                                   :E (v55 / label)
+                                   :C (v56 / label))))))

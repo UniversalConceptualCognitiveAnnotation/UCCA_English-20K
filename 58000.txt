@@ -1,9 +1,13 @@
 # ::id 58000
 # ::tok Captain Anderson immediately made his way into the hold .
-(label :H label
-       :A label
-       :D label
-       :P label
-       :E label
-       :C label
-       :R label)
+(v1 / label
+    :H (v2 / label
+           :A (v3 / label)
+           :D (v4 / label)
+           :P (v5 / label
+                  :E (v7 / label)
+                  :C (v8 / label))
+           :A (v6 / label
+                  :R (v9 / label)
+                  :E (v10 / label)
+                  :C (v11 / label))))

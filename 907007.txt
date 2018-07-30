@@ -1,10 +1,14 @@
 # ::id 907007
 # ::tok “ Go on ! ” “ Because . . . it just couldn ’t be true !
-(label :H label
-       :L label
-       :A label
-       :P label
-       :D label
-       :S label
-       :E label
-       :C label)
+(v1 / label
+    :H (v2 / label
+           :A (v5 / label)
+           :P (v6 / label))
+    :L (v3 / label)
+    :H (v4 / label
+           :A (v7 / label)
+           :D (v8 / label)
+           :S (v9 / label
+                  :E (v11 / label)
+                  :C (v12 / label))
+           :D (v10 / label)))

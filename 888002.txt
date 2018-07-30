@@ -1,10 +1,35 @@
 # ::id 888002
 # ::tok I can do no better than to compare him with a powerful telescope that could double as a cannon always ready to fire .
-(label :H label
-       :A label
-       :P label
-       :E label
-       :C label
-       :R label
-       :D label
-       :S label)
+(v1 / label
+    :H (v2 / label
+           :A (v3 / label)
+           :P (v4 / label
+                  :E (v7 / label
+                         :E (v14 / label
+                                 :E (v20 / label)
+                                 :C (v21 / label))
+                         :E (v15 / label)
+                         :C (v16 / label))
+                  :C (v8 / label))
+           :A (v5 / label)
+           :A (v6 / label
+                  :R (v9 / label)
+                  :E (v10 / label)
+                  :E (v11 / label)
+                  :C (v12 / label)
+                  :E (v13 / label
+                          :A v12
+                          :R (v17 / label)
+                          :P (v18 / label
+                                  :E (v22 / label)
+                                  :C (v23 / label))
+                          :A (v19 / label
+                                  :R (v24 / label)
+                                  :E (v25 / label)
+                                  :C (v26 / label)
+                                  :E (v27 / label
+                                          :A v26
+                                          :D (v28 / label)
+                                          :S (v29 / label
+                                                  :E (v30 / label)
+                                                  :C (v31 / label))))))))

@@ -1,11 +1,59 @@
 # ::id 904007
 # ::tok So it follows that at 320 feet down , this pressure is equal to ten atmospheres , to 100 atmospheres at 3,200 feet , and to 1,000 atmospheres at 32,000 feet , that is , at about two and a half vertical leagues down .
-(label :L label
-       :H label
-       :A label
-       :P label
-       :S label
-       :R label
-       :E label
-       :C label
-       :N label)
+(v1 / label
+    :L (v2 / label)
+    :H (v3 / label
+           :A (v4 / label)
+           :P (v5 / label)
+           :A (v6 / label
+                  :H (v7 / label
+                         :A (v11 / label
+                                 :R (v21 / label)
+                                 :E (v22 / label)
+                                 :E (v23 / label)
+                                 :C (v24 / label))
+                         :A (v12 / label
+                                 :E (v25 / label)
+                                 :C (v18 / label))
+                         :S (v13 / label
+                                 :C (v17 / label))
+                         :A (v14 / label
+                                 :R (v26 / label)
+                                 :E (v27 / label)
+                                 :C (v28 / label)))
+                  :H (v8 / label
+                         :A (v15 / label
+                                 :R (v29 / label)
+                                 :E (v30 / label)
+                                 :C (v31 / label))
+                         :A (v16 / label
+                                 :R (v32 / label)
+                                 :E (v33 / label)
+                                 :C (v34 / label))
+                         :S v17
+                         :A v18)
+                  :L (v9 / label)
+                  :H (v10 / label
+                          :A (v19 / label
+                                  :R (v35 / label)
+                                  :E (v36 / label)
+                                  :C (v37 / label))
+                          :A (v20 / label
+                                  :E (v38 / label
+                                          :E (v42 / label)
+                                          :R (v43 / label)
+                                          :E (v44 / label)
+                                          :E (v45 / label)
+                                          :E (v46 / label
+                                                  :C (v49 / label)
+                                                  :N (v50 / label)
+                                                  :C (v51 / label
+                                                          :E (v52 / label)
+                                                          :C (v53 / label)))
+                                          :E (v47 / label)
+                                          :C (v48 / label))
+                                  :R (v39 / label)
+                                  :E (v40 / label)
+                                  :C (v41 / label))
+                          :S v17
+                          :A v18))))

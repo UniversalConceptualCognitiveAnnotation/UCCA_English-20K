@@ -1,10 +1,37 @@
 # ::id 838000
 # ::tok I left Conseil to the proper stowing of our luggage and climbed on deck to watch the preparations for getting under way .
-(label :H label
-       :L label
-       :A label
-       :P label
-       :R label
-       :E label
-       :C label
-       :D label)
+(v1 / label
+    :H (v2 / label
+           :A (v6 / label)
+           :P (v7 / label)
+           :A (v8 / label)
+           :A (v9 / label
+                  :R (v14 / label)
+                  :E (v15 / label)
+                  :C (v16 / label
+                          :A v8
+                          :D (v23 / label)
+                          :P (v24 / label)
+                          :A (v25 / label
+                                  :R (v28 / label)
+                                  :E (v29 / label)
+                                  :C (v30 / label)))))
+    :L (v3 / label)
+    :H (v4 / label
+           :P (v10 / label)
+           :A (v11 / label
+                   :R (v17 / label)
+                   :C (v18 / label))
+           :A v6)
+    :H (v5 / label
+           :P (v12 / label
+                   :C (v19 / label))
+           :A (v13 / label
+                   :E (v20 / label)
+                   :C (v21 / label)
+                   :E (v22 / label
+                           :R (v26 / label)
+                           :C (v27 / label
+                                   :A (v31 / label)
+                                   :P (v32 / label))))
+           :A v6))

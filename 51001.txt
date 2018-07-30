@@ -1,10 +1,47 @@
 # ::id 51001
 # ::tok Only , thanks to the nationality of the ship victimized by this new ramming , and thanks to the reputation of the company to which this ship belonged , the event caused an immense uproar .
-(label :L label
-       :H label
-       :A label
-       :P label
-       :C label
-       :N label
-       :E label
-       :R label)
+(v1 / label
+    :L (v2 / label)
+    :H (v3 / label
+           :A (v4 / label
+                  :C (v8 / label
+                         :R (v16 / label)
+                         :E (v17 / label)
+                         :C (v18 / label)
+                         :E (v19 / label
+                                 :R (v24 / label)
+                                 :E (v25 / label)
+                                 :C (v26 / label)
+                                 :E (v27 / label
+                                         :A v26
+                                         :P (v32 / label)
+                                         :A (v33 / label
+                                                 :R (v37 / label)
+                                                 :E (v38 / label)
+                                                 :E (v39 / label)
+                                                 :C (v40 / label)))))
+                  :N (v9 / label)
+                  :C (v10 / label
+                          :R (v20 / label)
+                          :E (v21 / label)
+                          :C (v22 / label)
+                          :E (v23 / label
+                                  :R (v28 / label)
+                                  :E (v29 / label)
+                                  :C (v30 / label)
+                                  :E (v31 / label
+                                          :A (v34 / label
+                                                  :C v30
+                                                  :R (v41 / label))
+                                          :A (v35 / label
+                                                  :E (v42 / label)
+                                                  :C (v43 / label))
+                                          :P (v36 / label)))))
+           :A (v5 / label
+                  :E (v11 / label)
+                  :C (v12 / label))
+           :P (v6 / label)
+           :A (v7 / label
+                  :E (v13 / label)
+                  :E (v14 / label)
+                  :C (v15 / label))))

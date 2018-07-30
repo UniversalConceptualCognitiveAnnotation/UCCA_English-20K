@@ -1,6 +1,8 @@
 # ::id 984002
 # ::tok And we found nothing !
-(label :L label
-       :H label
-       :A label
-       :P label)
+(v1 / label
+    :L (v2 / label)
+    :H (v3 / label
+           :A (v4 / label)
+           :P (v5 / label)
+           :A (v6 / label)))

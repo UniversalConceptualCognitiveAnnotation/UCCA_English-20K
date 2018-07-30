@@ -1,7 +1,12 @@
 # ::id 314002
 # ::tok Not a single ship encountered it .
-(label :H label
-       :A label
-       :P label
-       :E label
-       :C label)
+(v1 / label
+    :H (v2 / label
+           :A (v3 / label
+                  :E (v6 / label
+                         :E (v8 / label)
+                         :E (v9 / label)
+                         :C (v10 / label))
+                  :C (v7 / label))
+           :P (v4 / label)
+           :A (v5 / label)))

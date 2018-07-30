@@ -1,9 +1,34 @@
 # ::id 42000
 # ::tok Similar events were likewise observed in Pacific seas , on July 23 of the same year , by the Christopher Columbus from the West India & Pacific Steam Navigation Co .
-(label :H label
-       :A label
-       :P label
-       :D label
-       :E label
-       :C label
-       :R label)
+(v1 / label
+    :H (v2 / label
+           :A (v3 / label
+                  :E (v9 / label)
+                  :C (v10 / label))
+           :P (v4 / label
+                  :C (v11 / label))
+           :D (v5 / label)
+           :A (v6 / label
+                  :R (v12 / label)
+                  :E (v13 / label)
+                  :C (v14 / label))
+           :D (v7 / label
+                  :R (v15 / label)
+                  :C (v16 / label)
+                  :E (v17 / label
+                          :R (v22 / label)
+                          :E (v23 / label)
+                          :E (v24 / label)
+                          :C (v25 / label)))
+           :A (v8 / label
+                  :R (v18 / label)
+                  :E (v19 / label)
+                  :C (v20 / label)
+                  :E (v21 / label
+                          :R (v26 / label)
+                          :E (v27 / label)
+                          :E (v28 / label)
+                          :E (v29 / label
+                                  :E (v31 / label)
+                                  :C (v32 / label))
+                          :C (v30 / label)))))

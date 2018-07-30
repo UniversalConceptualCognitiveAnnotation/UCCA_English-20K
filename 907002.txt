@@ -1,10 +1,26 @@
 # ::id 907002
 # ::tok ” “ Yes . . . indeed . . . maybe , ” the Canadian replied , staggered by these figures but still not willing to give in .
-(label :H label
-       :L label
-       :A label
-       :P label
-       :D label
-       :E label
-       :C label
-       :R label)
+(v1 / label
+    :H (v2 / label)
+    :H (v3 / label
+           :A v2
+           :A (v7 / label)
+           :A (v8 / label
+                  :E (v16 / label)
+                  :C (v12 / label))
+           :P (v9 / label))
+    :H (v4 / label
+           :P (v10 / label)
+           :A (v11 / label
+                   :R (v17 / label)
+                   :E (v18 / label)
+                   :C (v19 / label))
+           :A v12)
+    :L (v5 / label)
+    :H (v6 / label
+           :D (v13 / label)
+           :D (v14 / label)
+           :P (v15 / label
+                   :E (v20 / label)
+                   :C (v21 / label))
+           :A v12))

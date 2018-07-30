@@ -1,6 +1,16 @@
 # ::id 828000
 # ::tok “ What master does , I ’ll do , ” Conseil replied .
-(label :H label
-       :A label
-       :P label
-       :C label)
+(v1 / label
+    :H (v2 / label
+           :A (v4 / label
+                  :A (v10 / label)
+                  :A (v11 / label)
+                  :P (v12 / label))
+           :A (v5 / label)
+           :P (v6 / label
+                  :C (v13 / label)))
+    :H (v3 / label
+           :A v2
+           :A (v7 / label)
+           :A (v8 / label)
+           :P (v9 / label)))

@@ -1,9 +1,24 @@
 # ::id 50005
 # ::tok Had it run afoul of an underwater rock or the wreckage of some enormous derelict ship ?
-(label :H label
-       :P label
-       :A label
-       :C label
-       :N label
-       :R label
-       :E label)
+(v1 / label
+    :H (v2 / label
+           :P (v3 / label
+                  :C (v6 / label))
+           :A (v4 / label)
+           :A (v5 / label
+                  :C (v7 / label
+                         :R (v10 / label)
+                         :E (v11 / label)
+                         :E (v12 / label)
+                         :C (v13 / label))
+                  :N (v8 / label)
+                  :C (v9 / label
+                         :E (v14 / label)
+                         :C (v15 / label)
+                         :E (v16 / label
+                                 :R (v17 / label)
+                                 :E (v18 / label)
+                                 :E (v19 / label)
+                                 :E (v20 / label)
+                                 :C (v21 / label))
+                         :R v10))))

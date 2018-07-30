@@ -1,8 +1,23 @@
 # ::id 311001
 # ::tok Enough of these fairy tales that time has changed for me into harsh realities .
-(label :H label
-       :P label
-       :A label
-       :R label
-       :E label
-       :C label)
+(v1 / label
+    :H (v2 / label
+           :P (v3 / label)
+           :A (v4 / label
+                  :R (v5 / label)
+                  :E (v6 / label)
+                  :E (v7 / label)
+                  :C (v8 / label)
+                  :E (v9 / label
+                         :A v8
+                         :R (v10 / label)
+                         :A (v11 / label)
+                         :P (v12 / label
+                                 :C (v15 / label))
+                         :A (v13 / label
+                                 :R (v16 / label)
+                                 :C (v17 / label))
+                         :A (v14 / label
+                                 :R (v18 / label)
+                                 :E (v19 / label)
+                                 :C (v20 / label))))))

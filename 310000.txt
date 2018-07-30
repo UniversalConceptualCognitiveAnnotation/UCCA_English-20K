@@ -1,8 +1,18 @@
 # ::id 310000
 # ::tok My article was hotly debated , causing a fine old uproar .
-(label :H label
-       :A label
-       :P label
-       :D label
-       :E label
-       :C label)
+(v1 / label
+    :H (v2 / label
+           :A (v4 / label)
+           :A (v5 / label
+                  :E (v11 / label)
+                  :C (v10 / label))
+           :P (v6 / label
+                  :C (v12 / label))
+           :D (v7 / label))
+    :H (v3 / label
+           :P (v8 / label)
+           :A (v9 / label
+                  :E (v13 / label)
+                  :E (v14 / label)
+                  :C (v15 / label))
+           :A v10))

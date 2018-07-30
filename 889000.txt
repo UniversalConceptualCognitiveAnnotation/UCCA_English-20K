@@ -1,10 +1,36 @@
 # ::id 889000
 # ::tok To say Canadian is to say French , and as unsociable as Ned Land was , I must admit he took a definite liking to me .
-(label :H label
-       :L label
-       :A label
-       :S label
-       :P label
-       :R label
-       :C label
-       :E label)
+(v1 / label
+    :H (v2 / label
+           :A (v6 / label
+                  :A (v14 / label)
+                  :P (v15 / label
+                          :C (v28 / label))
+                  :A (v16 / label))
+           :S (v7 / label)
+           :A (v8 / label
+                  :A (v17 / label)
+                  :P (v18 / label
+                          :C (v29 / label))
+                  :A (v19 / label)))
+    :L (v3 / label)
+    :H (v4 / label
+           :S (v9 / label
+                  :R (v20 / label)
+                  :C (v21 / label)
+                  :R (v22 / label))
+           :A (v10 / label))
+    :H (v5 / label
+           :A (v11 / label)
+           :P (v12 / label
+                   :E (v23 / label)
+                   :C (v24 / label))
+           :A (v13 / label
+                   :A (v25 / label)
+                   :P (v26 / label
+                           :E (v30 / label)
+                           :E (v31 / label)
+                           :C (v32 / label))
+                   :A (v27 / label
+                           :R (v33 / label)
+                           :C (v34 / label)))))

@@ -1,10 +1,38 @@
 # ::id 814000
 # ::tok ﻿Three seconds before the arrival of J . B . Hobson ’s letter , I no more dreamed of chasing the unicorn than of trying for the Northwest Passage .
-(label :L label
-       :H label
-       :E label
-       :C label
-       :R label
-       :P label
-       :A label
-       :D label)
+(v1 / label
+    :L (v2 / label
+           :E (v7 / label)
+           :C (v8 / label)
+           :R (v9 / label))
+    :H (v3 / label
+           :P (v10 / label
+                   :E (v18 / label)
+                   :C (v19 / label))
+           :A (v11 / label
+                   :R (v20 / label)
+                   :E (v21 / label
+                           :C (v30 / label)
+                           :R (v31 / label))
+                   :C (v22 / label)))
+    :H (v4 / label
+           :A (v12 / label)
+           :D (v13 / label)
+           :P (v14 / label)
+           :A (v15 / label
+                   :A v12
+                   :P (v23 / label
+                           :C (v32 / label))
+                   :A (v24 / label
+                           :E (v33 / label)
+                           :C (v34 / label))))
+    :L (v5 / label)
+    :H (v6 / label
+           :P (v16 / label
+                   :C (v25 / label))
+           :A (v17 / label
+                   :R (v26 / label)
+                   :E (v27 / label)
+                   :E (v28 / label)
+                   :C (v29 / label))
+           :A v12))

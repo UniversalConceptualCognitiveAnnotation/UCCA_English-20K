@@ -1,8 +1,28 @@
 # ::id 969002
 # ::tok Anxious to see Ned Land at work , Commander Farragut authorized him to make his way aboard the Monroe .
-(label :H label
-       :A label
-       :P label
-       :E label
-       :C label
-       :R label)
+(v1 / label
+    :H (v2 / label
+           :A (v4 / label)
+           :P (v5 / label
+                  :E (v11 / label)
+                  :C (v12 / label))
+           :A (v6 / label
+                  :A (v13 / label)
+                  :P (v14 / label
+                          :R (v18 / label)
+                          :C (v19 / label))))
+    :H (v3 / label
+           :A (v7 / label
+                  :E (v15 / label)
+                  :C v4)
+           :P (v8 / label)
+           :A (v9 / label)
+           :A (v10 / label
+                   :A v9
+                   :P (v16 / label
+                           :E (v20 / label)
+                           :C (v21 / label))
+                   :A (v17 / label
+                           :R (v22 / label)
+                           :E (v23 / label)
+                           :C (v24 / label)))))

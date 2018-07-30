@@ -1,10 +1,60 @@
 # ::id 290000
 # ::tok So only two possible solutions to the question were left , creating two very distinct groups of supporters : on one side , those favoring a monster of colossal strength ; on the other , those favoring an “ underwater boat ” of tremendous motor power .
-(label :L label
-       :H label
-       :A label
-       :S label
-       :P label
-       :R label
-       :E label
-       :C label)
+(v1 / label
+    :L (v2 / label)
+    :H (v3 / label
+           :A (v5 / label
+                  :R (v10 / label)
+                  :E (v11 / label)
+                  :E (v12 / label)
+                  :C (v9 / label)
+                  :E (v13 / label
+                          :R (v21 / label)
+                          :E (v22 / label)
+                          :C (v23 / label)))
+           :S (v6 / label
+                  :C (v14 / label)))
+    :H (v4 / label
+           :P (v7 / label)
+           :A (v8 / label
+                  :E (v15 / label
+                          :C (v24 / label
+                                  :E (v28 / label
+                                          :R (v32 / label)
+                                          :E (v33 / label)
+                                          :C (v34 / label))
+                                  :C (v29 / label
+                                          :P (v35 / label)
+                                          :A (v36 / label
+                                                  :E (v42 / label)
+                                                  :C (v43 / label)
+                                                  :E (v44 / label
+                                                          :R (v49 / label)
+                                                          :E (v50 / label)
+                                                          :C (v51 / label)))
+                                          :A (v27 / label)))
+                          :C (v25 / label
+                                  :E (v30 / label
+                                          :R (v37 / label)
+                                          :E (v38 / label)
+                                          :C (v39 / label))
+                                  :C (v31 / label
+                                          :P (v40 / label)
+                                          :A (v41 / label
+                                                  :E (v45 / label)
+                                                  :E (v46 / label
+                                                          :R (v52 / label)
+                                                          :E (v53 / label)
+                                                          :E (v54 / label)
+                                                          :C (v55 / label))
+                                                  :E (v47 / label)
+                                                  :C (v48 / label))
+                                          :A v27)))
+                  :E (v16 / label)
+                  :E (v17 / label)
+                  :E (v18 / label)
+                  :C (v19 / label)
+                  :E (v20 / label
+                          :R (v26 / label)
+                          :C v27))
+           :A v9))

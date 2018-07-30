@@ -1,10 +1,60 @@
 # ::id 303000
 # ::tok “ If , on the other hand , we do know every living species , we must look for the animal in question among those marine creatures already cataloged , and in this event I would be inclined to accept the existence of a giant narwhale .
-(label :L label
-       :H label
-       :R label
-       :E label
-       :C label
-       :A label
-       :P label
-       :D label)
+(v1 / label
+    :L (v2 / label)
+    :L (v3 / label
+           :R (v8 / label)
+           :E (v9 / label)
+           :E (v10 / label)
+           :C (v11 / label))
+    :H (v4 / label
+           :A (v12 / label)
+           :P (v13 / label
+                   :C (v23 / label))
+           :A (v14 / label
+                   :E (v24 / label)
+                   :E (v25 / label
+                           :A (v26 / label)
+                           :P (v45 / label))
+                   :C v26))
+    :H (v5 / label
+           :A (v15 / label)
+           :P (v16 / label
+                   :E (v27 / label)
+                   :C (v28 / label))
+           :A (v17 / label
+                   :E (v29 / label)
+                   :C (v30 / label)
+                   :E (v31 / label
+                           :R (v46 / label)
+                           :C (v47 / label)))
+           :A (v18 / label
+                   :R (v32 / label)
+                   :E (v33 / label)
+                   :E (v34 / label)
+                   :C (v35 / label)
+                   :E (v36 / label
+                           :A v35
+                           :A (v48 / label)
+                           :D (v49 / label)
+                           :P (v50 / label))))
+    :L (v6 / label)
+    :H (v7 / label
+           :A (v19 / label
+                   :R (v37 / label)
+                   :E (v38 / label)
+                   :C (v39 / label))
+           :A (v20 / label)
+           :P (v21 / label
+                   :E (v40 / label
+                           :E (v51 / label)
+                           :C (v52 / label))
+                   :C (v41 / label))
+           :A (v22 / label
+                   :E (v42 / label)
+                   :C (v43 / label)
+                   :E (v44 / label
+                           :R (v53 / label)
+                           :E (v54 / label)
+                           :E (v55 / label)
+                           :C (v56 / label)))))

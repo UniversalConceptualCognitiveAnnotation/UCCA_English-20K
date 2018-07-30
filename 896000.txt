@@ -1,10 +1,51 @@
 # ::id 896000
 # ::tok The harpooner stared at me awhile before replying , slapped his broad forehead in one of his standard gestures , closed his eyes as if to collect himself , and finally said : “ Just maybe , Professor Aronnax . ”
-(label :H label
-       :L label
-       :A label
-       :P label
-       :D label
-       :E label
-       :C label
-       :R label)
+(v1 / label
+    :H (v2 / label
+           :A (v13 / label
+                   :E (v28 / label)
+                   :C (v19 / label))
+           :P (v14 / label)
+           :A (v15 / label
+                   :R (v29 / label)
+                   :C (v30 / label))
+           :D (v16 / label))
+    :L (v3 / label)
+    :H (v4 / label
+           :A (v17 / label)
+           :P (v18 / label)
+           :A v19)
+    :H (v5 / label
+           :P (v20 / label)
+           :A (v21 / label
+                   :E (v31 / label)
+                   :C (v32 / label))
+           :A (v22 / label)
+           :D (v23 / label
+                   :E (v33 / label
+                           :R (v41 / label)
+                           :C (v42 / label)
+                           :R (v43 / label))
+                   :E (v34 / label)
+                   :E (v35 / label)
+                   :C (v36 / label))
+           :A v19)
+    :H (v6 / label
+           :P (v24 / label)
+           :A (v25 / label
+                   :E (v37 / label)
+                   :C (v38 / label))
+           :A v19)
+    :L (v7 / label)
+    :H (v8 / label
+           :P (v26 / label
+                   :C (v39 / label)
+                   :E (v40 / label))
+           :A v19)
+    :L (v9 / label)
+    :L (v10 / label)
+    :H (v11 / label
+            :A (v12 / label)
+            :P (v27 / label)
+            :A v19)
+    :H v12)

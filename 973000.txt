@@ -1,9 +1,61 @@
 # ::id 973000
 # ::tok Near three o’clock in the afternoon on July 6 , fifteen miles south of shore , the Abraham Lincoln doubled that solitary islet at the tip of the South American continent , that stray rock Dutch seamen had named Cape Horn after their hometown of Hoorn .
-(label :H label
-       :D label
-       :A label
-       :P label
-       :E label
-       :C label
-       :R label)
+(v1 / label
+    :H (v2 / label
+           :D (v3 / label
+                  :E (v9 / label)
+                  :E (v10 / label
+                          :R (v22 / label)
+                          :E (v23 / label)
+                          :C (v24 / label))
+                  :E (v11 / label)
+                  :C (v12 / label))
+           :D (v4 / label
+                  :R (v13 / label)
+                  :C (v14 / label))
+           :A (v5 / label
+                  :E (v15 / label
+                          :E (v25 / label
+                                  :C (v35 / label)
+                                  :R (v36 / label))
+                          :C (v26 / label))
+                  :E (v16 / label)
+                  :C (v17 / label))
+           :A (v6 / label
+                  :E (v18 / label)
+                  :C (v19 / label))
+           :P (v7 / label)
+           :A (v8 / label
+                  :C (v20 / label
+                          :E (v27 / label)
+                          :E (v28 / label)
+                          :C (v29 / label)
+                          :E (v30 / label
+                                  :E (v37 / label
+                                          :R (v45 / label)
+                                          :E (v46 / label)
+                                          :C (v47 / label)
+                                          :R (v48 / label))
+                                  :E (v38 / label)
+                                  :E (v39 / label
+                                          :E (v49 / label)
+                                          :C (v50 / label))
+                                  :C (v40 / label)))
+                  :C (v21 / label
+                          :E (v31 / label)
+                          :E (v32 / label)
+                          :C (v33 / label)
+                          :E (v34 / label
+                                  :A (v41 / label
+                                          :E (v51 / label)
+                                          :C (v52 / label))
+                                  :P (v42 / label
+                                          :C (v53 / label))
+                                  :A (v43 / label)
+                                  :A (v44 / label
+                                          :R (v54 / label)
+                                          :E (v55 / label)
+                                          :C (v56 / label)
+                                          :E (v57 / label
+                                                  :R (v58 / label)
+                                                  :C (v59 / label))))))))

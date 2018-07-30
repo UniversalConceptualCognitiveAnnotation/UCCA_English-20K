@@ -1,7 +1,9 @@
 # ::id 832001
 # ::tok I rushed aboard .
-(label :H label
-       :A label
-       :P label
-       :C label
-       :R label)
+(v1 / label
+    :H (v2 / label
+           :A (v3 / label)
+           :P (v4 / label)
+           :A (v5 / label
+                  :C (v6 / label)
+                  :R (v7 / label))))

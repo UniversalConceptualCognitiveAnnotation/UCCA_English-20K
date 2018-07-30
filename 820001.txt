@@ -1,10 +1,71 @@
 # ::id 820001
 # ::tok In Conseil I had a seasoned specialist in biological classification , an enthusiast who could run with acrobatic agility up and down the whole ladder of branches , groups , classes , subclasses , orders , families , genera , subgenera , species , and varieties .
-(label :H label
-       :A label
-       :P label
-       :R label
-       :C label
-       :E label
-       :D label
-       :N label)
+(v1 / label
+    :H (v2 / label
+           :A (v3 / label
+                  :R (v7 / label)
+                  :C (v8 / label))
+           :A (v4 / label)
+           :P (v5 / label)
+           :A (v6 / label
+                  :C (v9 / label
+                         :E (v11 / label)
+                         :E (v12 / label)
+                         :C (v13 / label)
+                         :E (v14 / label
+                                 :R (v18 / label)
+                                 :E (v19 / label)
+                                 :C (v20 / label)))
+                  :C (v10 / label
+                          :E (v15 / label)
+                          :C (v16 / label)
+                          :E (v17 / label
+                                  :A v16
+                                  :R (v21 / label)
+                                  :P (v22 / label
+                                          :E (v26 / label)
+                                          :C (v27 / label))
+                                  :D (v23 / label
+                                          :R (v28 / label)
+                                          :E (v29 / label)
+                                          :C (v30 / label))
+                                  :D (v24 / label
+                                          :C (v31 / label)
+                                          :N (v32 / label)
+                                          :C (v33 / label))
+                                  :A (v25 / label
+                                          :E (v34 / label)
+                                          :E (v35 / label)
+                                          :C (v36 / label)
+                                          :E (v37 / label
+                                                  :C (v38 / label
+                                                          :R (v49 / label)
+                                                          :C (v50 / label))
+                                                  :C (v39 / label
+                                                          :C (v51 / label)
+                                                          :R v49)
+                                                  :C (v40 / label
+                                                          :C (v52 / label)
+                                                          :R v49)
+                                                  :C (v41 / label
+                                                          :C (v53 / label)
+                                                          :R v49)
+                                                  :C (v42 / label
+                                                          :C (v54 / label)
+                                                          :R v49)
+                                                  :C (v43 / label
+                                                          :C (v55 / label)
+                                                          :R v49)
+                                                  :C (v44 / label
+                                                          :C (v56 / label)
+                                                          :R v49)
+                                                  :C (v45 / label
+                                                          :C (v57 / label)
+                                                          :R v49)
+                                                  :C (v46 / label
+                                                          :C (v58 / label)
+                                                          :R v49)
+                                                  :N (v47 / label)
+                                                  :C (v48 / label
+                                                          :C (v59 / label)
+                                                          :R v49))))))))

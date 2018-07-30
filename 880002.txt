@@ -1,7 +1,10 @@
 # ::id 880002
 # ::tok He was its very soul .
-(label :H label
-       :A label
-       :S label
-       :E label
-       :C label)
+(v1 / label
+    :H (v2 / label
+           :A (v3 / label)
+           :S (v4 / label)
+           :A (v5 / label
+                  :E (v6 / label)
+                  :E (v7 / label)
+                  :C (v8 / label))))

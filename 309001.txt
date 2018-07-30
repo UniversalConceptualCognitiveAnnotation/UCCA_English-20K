@@ -1,7 +1,11 @@
 # ::id 309001
 # ::tok I had left myself a loophole .
-(label :H label
-       :A label
-       :P label
-       :C label
-       :E label)
+(v1 / label
+    :H (v2 / label
+           :A (v3 / label)
+           :P (v4 / label
+                  :C (v7 / label))
+           :A (v5 / label)
+           :A (v6 / label
+                  :E (v8 / label)
+                  :C (v9 / label))))

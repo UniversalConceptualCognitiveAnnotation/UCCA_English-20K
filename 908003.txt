@@ -1,11 +1,36 @@
 # ::id 908003
 # ::tok Its hole was real enough that it had to be plugged up , and I don ’t think a hole ’s existence can be more emphatically proven .
-(label :H label
-       :L label
-       :A label
-       :S label
-       :P label
-       :D label
-       :E label
-       :C label
-       :R label)
+(v1 / label
+    :H (v2 / label
+           :A (v7 / label
+                  :E (v16 / label)
+                  :C (v17 / label))
+           :S (v8 / label
+                  :C (v18 / label)
+                  :E (v19 / label)))
+    :L (v3 / label)
+    :H (v4 / label
+           :A (v9 / label)
+           :A (v10 / label)
+           :P (v11 / label
+                   :E (v20 / label)
+                   :C (v21 / label)))
+    :L (v5 / label)
+    :H (v6 / label
+           :A (v12 / label)
+           :P (v13 / label
+                   :C (v22 / label))
+           :D (v14 / label)
+           :A (v15 / label
+                   :A (v23 / label
+                           :E (v26 / label
+                                   :E (v32 / label)
+                                   :C (v33 / label)
+                                   :R (v34 / label))
+                           :C (v27 / label))
+                   :P (v24 / label
+                           :E (v28 / label)
+                           :C (v29 / label))
+                   :D (v25 / label
+                           :E (v30 / label)
+                           :C (v31 / label)))))

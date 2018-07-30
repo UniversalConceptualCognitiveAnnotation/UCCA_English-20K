@@ -1,10 +1,35 @@
 # ::id 899003
 # ::tok So till I have proof to the contrary , I ’ll deny that baleen whales , sperm whales , or unicorns can do any such thing .
-(label :L label
-       :H label
-       :A label
-       :P label
-       :C label
-       :R label
-       :E label
-       :N label)
+(v1 / label
+    :L (v2 / label)
+    :L (v3 / label)
+    :H (v4 / label
+           :A (v6 / label)
+           :P (v7 / label
+                  :C (v12 / label))
+           :A (v8 / label
+                  :R (v13 / label)
+                  :E (v14 / label)
+                  :C (v15 / label)))
+    :H (v5 / label
+           :A (v9 / label)
+           :P (v10 / label
+                   :E (v16 / label)
+                   :C (v17 / label))
+           :A (v11 / label
+                   :A (v18 / label
+                           :C (v21 / label
+                                   :E (v30 / label)
+                                   :C (v31 / label))
+                           :C (v22 / label
+                                   :E (v32 / label)
+                                   :C (v33 / label))
+                           :N (v23 / label)
+                           :C (v24 / label))
+                   :P (v19 / label
+                           :E (v25 / label)
+                           :C (v26 / label))
+                   :A (v20 / label
+                           :E (v27 / label)
+                           :E (v28 / label)
+                           :C (v29 / label)))))

@@ -1,10 +1,43 @@
 # ::id 48000
 # ::tok During the first months of the year 1867 , the question seemed to be buried , and it didn\u2019t seem due for resurrection , when new facts were brought to the public \u2019s attention .
-(label :H label
-       :L label
-       :A label
-       :D label
-       :P label
-       :R label
-       :E label
-       :C label)
+(v1 / label
+    :H (v2 / label
+           :A (v7 / label)
+           :D (v8 / label
+                  :R (v17 / label)
+                  :E (v18 / label)
+                  :E (v19 / label)
+                  :C (v20 / label)
+                  :E (v21 / label
+                          :R (v37 / label)
+                          :E (v38 / label
+                                  :E (v40 / label)
+                                  :C (v41 / label))
+                          :C (v39 / label)))
+           :A (v9 / label
+                  :E (v22 / label)
+                  :C (v23 / label))
+           :P (v10 / label
+                   :E (v24 / label)
+                   :C (v25 / label)))
+    :L (v3 / label)
+    :H (v4 / label
+           :A (v11 / label)
+           :P (v12 / label
+                   :E (v26 / label)
+                   :C (v27 / label))
+           :A (v13 / label
+                   :R (v28 / label)
+                   :C (v29 / label)))
+    :L (v5 / label)
+    :H (v6 / label
+           :A (v14 / label
+                   :E (v30 / label)
+                   :C (v31 / label))
+           :P (v15 / label
+                   :C (v32 / label))
+           :A (v16 / label
+                   :R (v33 / label)
+                   :E (v34 / label)
+                   :E (v35 / label)
+                   :C (v36 / label))))

@@ -1,10 +1,50 @@
 # ::id 994000
 # ::tok Observing Conseil, I discovered that, just barely, the gallant lad had fallen under the general influence. At least so I thought. Perhaps his nerves were twitching with curiosity for the first time in history.
-(label :H label
-       :L label
-       :A label
-       :P label
-       :R label
-       :C label
-       :D label
-       :E label)
+(v1 / label
+    :H (v2 / label
+           :A (v7 / label)
+           :P (v8 / label)
+           :A (v9 / label))
+    :H (v3 / label
+           :A v7
+           :P (v10 / label)
+           :A (v11 / label
+                   :D (v22 / label
+                           :E (v36 / label)
+                           :C (v37 / label))
+                   :A (v23 / label
+                           :E (v38 / label)
+                           :E (v39 / label)
+                           :C (v40 / label))
+                   :P (v24 / label
+                           :C (v41 / label))
+                   :A (v25 / label
+                           :R (v42 / label)
+                           :E (v43 / label)
+                           :E (v44 / label)
+                           :C (v45 / label))))
+    :L (v4 / label
+           :R (v12 / label)
+           :C (v13 / label))
+    :H (v5 / label
+           :A (v14 / label)
+           :A (v15 / label)
+           :P (v16 / label))
+    :H (v6 / label
+           :D (v17 / label)
+           :A (v18 / label
+                   :E (v26 / label)
+                   :C (v27 / label))
+           :P (v19 / label
+                   :C (v28 / label))
+           :A (v20 / label
+                   :R (v29 / label)
+                   :C (v30 / label))
+           :D (v21 / label
+                   :R (v31 / label)
+                   :E (v32 / label)
+                   :E (v33 / label)
+                   :C (v34 / label)
+                   :E (v35 / label
+                           :R (v46 / label)
+                           :C (v47 / label)))))

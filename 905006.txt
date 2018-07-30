@@ -1,9 +1,12 @@
 # ::id 905006
 # ::tok But in the water it ’s another story .
-(label :L label
-       :H label
-       :A label
-       :S label
-       :R label
-       :E label
-       :C label)
+(v1 / label
+    :L (v2 / label)
+    :H (v3 / label
+           :A (v4 / label
+                  :R (v6 / label)
+                  :E (v7 / label)
+                  :C (v8 / label))
+           :S (v5 / label
+                  :E (v9 / label)
+                  :C (v10 / label))))

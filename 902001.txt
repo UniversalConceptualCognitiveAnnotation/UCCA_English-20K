@@ -1,8 +1,12 @@
 # ::id 902001
 # ::tok ” “ And why this powerful constitution ?
-(label :L label
-       :H label
-       :A label
-       :P label
-       :E label
-       :C label)
+(v1 / label
+    :L (v2 / label)
+    :H (v3 / label)
+    :H (v4 / label
+           :A (v5 / label)
+           :P (v6 / label)
+           :A (v7 / label
+                  :E (v8 / label)
+                  :E (v9 / label)
+                  :C (v10 / label))))

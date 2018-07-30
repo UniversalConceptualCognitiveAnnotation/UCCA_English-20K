@@ -1,10 +1,36 @@
 # ::id 890000
 # ::tok Little by little Ned developed a taste for chatting , and I loved hearing the tales of his adventures in the polar seas .
-(label :H label
-       :L label
-       :D label
-       :A label
-       :P label
-       :C label
-       :R label
-       :E label)
+(v1 / label
+    :H (v2 / label
+           :D (v5 / label
+                  :C (v12 / label)
+                  :R (v13 / label)
+                  :C (v14 / label))
+           :A (v6 / label)
+           :P (v7 / label
+                  :E (v15 / label)
+                  :E (v16 / label)
+                  :C (v17 / label))
+           :A (v8 / label
+                  :A v6
+                  :A (v18 / label)
+                  :P (v19 / label
+                          :C (v25 / label))))
+    :L (v3 / label)
+    :H (v4 / label
+           :A (v9 / label)
+           :P (v10 / label
+                   :E (v20 / label)
+                   :C (v21 / label))
+           :A (v11 / label
+                   :E (v22 / label)
+                   :C (v23 / label)
+                   :E (v24 / label
+                           :R (v26 / label)
+                           :E (v27 / label)
+                           :C (v28 / label)
+                           :E (v29 / label
+                                   :R (v30 / label)
+                                   :E (v31 / label)
+                                   :E (v32 / label)
+                                   :C (v33 / label))))))

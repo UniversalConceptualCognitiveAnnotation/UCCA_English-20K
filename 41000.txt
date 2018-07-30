@@ -1,10 +1,43 @@
 # ::id 41000
 # ::tok In essence , on July 20 , 1866 , the steamer Governor Higginson , from the Calcutta & Burnach Steam Navigation Co . , encountered this moving mass five miles off the eastern shores of Australia .
-(label :L label
-       :H label
-       :R label
-       :C label
-       :D label
-       :A label
-       :P label
-       :E label)
+(v1 / label
+    :L (v2 / label
+           :R (v4 / label)
+           :C (v5 / label))
+    :H (v3 / label
+           :D (v6 / label
+                  :R (v11 / label)
+                  :C (v12 / label))
+           :A (v7 / label
+                  :E (v13 / label
+                          :E (v25 / label
+                                  :E (v35 / label)
+                                  :C (v36 / label))
+                          :C (v26 / label))
+                  :C (v14 / label)
+                  :E (v15 / label
+                          :R (v27 / label)
+                          :E (v28 / label)
+                          :C (v29 / label)
+                          :E (v30 / label
+                                  :E (v37 / label
+                                          :E (v39 / label)
+                                          :C (v40 / label))
+                                  :C (v38 / label))))
+           :P (v8 / label)
+           :A (v9 / label
+                  :E (v16 / label)
+                  :E (v17 / label
+                          :A (v18 / label)
+                          :P (v31 / label))
+                  :C v18)
+           :A (v10 / label
+                   :E (v19 / label
+                           :E (v32 / label)
+                           :C (v33 / label)
+                           :R (v34 / label))
+                   :E (v20 / label)
+                   :E (v21 / label)
+                   :C (v22 / label)
+                   :R (v23 / label)
+                   :E (v24 / label))))

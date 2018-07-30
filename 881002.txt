@@ -1,9 +1,39 @@
 # ::id 881002
 # ::tok Voluntary watches from the crosstrees of the topgallant sail were self-imposed by more than one who would have cursed such toil under any other circumstances .
-(label :H label
-       :L label
-       :A label
-       :P label
-       :E label
-       :C label
-       :R label)
+(v1 / label
+    :H (v2 / label
+           :A (v5 / label
+                  :E (v12 / label)
+                  :C (v13 / label
+                          :A (v26 / label)
+                          :P (v27 / label))
+                  :E (v14 / label
+                          :R (v28 / label)
+                          :E (v29 / label)
+                          :C (v30 / label)
+                          :E (v31 / label
+                                  :R (v33 / label)
+                                  :E (v34 / label)
+                                  :E (v35 / label)
+                                  :C (v36 / label))))
+           :P (v6 / label
+                  :C (v15 / label))
+           :A (v7 / label
+                  :R (v16 / label)
+                  :E (v17 / label
+                          :C (v32 / label))
+                  :C (v11 / label)))
+    :L (v3 / label)
+    :H (v4 / label
+           :P (v8 / label
+                  :E (v18 / label)
+                  :C (v19 / label))
+           :A (v9 / label
+                  :E (v20 / label)
+                  :C (v21 / label))
+           :A (v10 / label
+                   :R (v22 / label)
+                   :E (v23 / label)
+                   :E (v24 / label)
+                   :C (v25 / label))
+           :A v11))

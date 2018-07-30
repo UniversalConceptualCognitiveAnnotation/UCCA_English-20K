@@ -1,10 +1,28 @@
 # ::id 976006
 # ::tok With panting chests and anxious eyes , we each would observe the cetacean ’s movements .
-(label :L label
-       :H label
-       :S label
-       :A label
-       :P label
-       :E label
-       :C label
-       :R label)
+(v1 / label
+    :L (v2 / label)
+    :H (v3 / label
+           :S (v7 / label)
+           :A (v8 / label
+                  :E (v14 / label)
+                  :C (v15 / label)))
+    :L (v4 / label)
+    :H (v5 / label
+           :S (v9 / label)
+           :A (v10 / label
+                   :E v14
+                   :C (v16 / label)))
+    :H (v6 / label
+           :A (v11 / label
+                   :C v14
+                   :E (v17 / label))
+           :P (v12 / label
+                   :E (v18 / label)
+                   :C (v19 / label))
+           :A (v13 / label
+                   :E (v20 / label
+                           :E (v22 / label)
+                           :C (v23 / label)
+                           :R (v24 / label))
+                   :C (v21 / label))))

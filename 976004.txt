@@ -1,9 +1,21 @@
 # ::id 976004
 # ::tok In an instant the frigate ’s deck would become densely populated .
-(label :H label
-       :A label
-       :D label
-       :P label
-       :R label
-       :E label
-       :C label)
+(v1 / label
+    :H (v2 / label
+           :A (v3 / label)
+           :D (v4 / label
+                  :R (v7 / label)
+                  :E (v8 / label)
+                  :C (v9 / label))
+           :A (v5 / label
+                  :E (v10 / label
+                          :E (v15 / label)
+                          :C (v16 / label)
+                          :R (v17 / label))
+                  :C (v11 / label))
+           :P (v6 / label
+                  :E (v12 / label
+                          :E (v18 / label)
+                          :C (v19 / label))
+                  :E (v13 / label)
+                  :C (v14 / label))))

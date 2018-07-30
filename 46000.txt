@@ -1,10 +1,28 @@
 # ::id 46000
 # ::tok An interminable debate then broke out between believers and skeptics in the scholarly societies and scientific journals .
-(label :H label
-       :L label
-       :A label
-       :P label
-       :E label
-       :C label
-       :R label
-       :N label)
+(v1 / label
+    :H (v2 / label
+           :A (v4 / label
+                  :E (v8 / label)
+                  :E (v9 / label)
+                  :C (v10 / label))
+           :P (v5 / label)
+           :A (v6 / label
+                  :R (v11 / label)
+                  :C (v12 / label
+                          :C (v16 / label)
+                          :N (v17 / label)
+                          :C (v18 / label)))
+           :A (v7 / label
+                  :C (v13 / label
+                          :R (v19 / label)
+                          :E (v20 / label)
+                          :E (v21 / label)
+                          :C (v22 / label))
+                  :N (v14 / label)
+                  :C (v15 / label
+                          :E (v23 / label)
+                          :C (v24 / label)
+                          :R v19
+                          :E v20)))
+    :L (v3 / label))

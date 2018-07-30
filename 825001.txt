@@ -1,12 +1,78 @@
 # ::id 825001
 # ::tok Ordinarily , I never asked whether or not it suited him to go with me on my journeys ; but this time an expedition was at issue that could drag on indefinitely , a hazardous undertaking whose purpose was to hunt an animal that could sink a frigate as easily as a walnut shell !
-(label :H label
-       :L label
-       :D label
-       :A label
-       :P label
-       :S label
-       :R label
-       :E label
-       :C label
-       :N label)
+(v1 / label
+    :H (v2 / label
+           :D (v5 / label)
+           :A (v6 / label)
+           :D (v7 / label)
+           :P (v8 / label)
+           :A (v9 / label
+                  :R (v14 / label
+                          :C (v24 / label)
+                          :N (v25 / label)
+                          :C (v26 / label))
+                  :P (v15 / label)
+                  :A (v16 / label)
+                  :A (v17 / label
+                          :A v16
+                          :P (v27 / label
+                                  :C (v37 / label))
+                          :A (v28 / label
+                                  :R (v38 / label)
+                                  :C (v39 / label))
+                          :A (v29 / label
+                                  :R (v40 / label)
+                                  :E (v41 / label)
+                                  :C (v42 / label)))))
+    :L (v3 / label)
+    :H (v4 / label
+           :D (v10 / label
+                   :E (v18 / label)
+                   :C (v19 / label))
+           :A (v11 / label
+                   :E (v20 / label)
+                   :C (v21 / label))
+           :S (v12 / label)
+           :A (v13 / label
+                   :C (v22 / label
+                           :R (v30 / label)
+                           :C (v31 / label)
+                           :E (v32 / label
+                                   :A v31
+                                   :R (v43 / label)
+                                   :P (v44 / label
+                                           :E (v50 / label)
+                                           :C (v51 / label))
+                                   :D (v45 / label)))
+                   :C (v23 / label
+                           :E (v33 / label)
+                           :E (v34 / label)
+                           :C (v35 / label)
+                           :E (v36 / label
+                                   :R (v46 / label)
+                                   :A (v47 / label
+                                           :E v35
+                                           :C (v52 / label))
+                                   :S (v48 / label)
+                                   :A (v49 / label
+                                           :P (v53 / label
+                                                   :C (v55 / label))
+                                           :A (v54 / label
+                                                   :E (v56 / label)
+                                                   :C (v57 / label)
+                                                   :E (v58 / label
+                                                           :R (v59 / label)
+                                                           :P (v60 / label
+                                                                   :E (v63 / label)
+                                                                   :C (v64 / label))
+                                                           :A (v61 / label
+                                                                   :E (v65 / label)
+                                                                   :C (v66 / label))
+                                                           :D (v62 / label
+                                                                   :E (v67 / label
+                                                                           :R (v71 / label)
+                                                                           :C (v72 / label)
+                                                                           :R (v73 / label))
+                                                                   :E (v68 / label)
+                                                                   :E (v69 / label)
+                                                                   :C (v70 / label))))))))))

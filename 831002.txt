@@ -1,9 +1,11 @@
 # ::id 831002
 # ::tok and halted at Pier 34 .
-(label :L label
-       :H label
-       :A label
-       :P label
-       :R label
-       :E label
-       :C label)
+(v1 / label
+    :L (v2 / label)
+    :H (v3 / label
+           :A (v4 / label)
+           :P (v5 / label)
+           :A (v6 / label
+                  :R (v7 / label)
+                  :E (v8 / label)
+                  :C (v9 / label))))

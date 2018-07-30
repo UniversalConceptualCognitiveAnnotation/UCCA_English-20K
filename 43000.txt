@@ -1,10 +1,80 @@
 # ::id 43000
 # ::tok Fifteen days later and 2,000 leagues farther , the Helvetia from the Compagnie Nationale and the Shannon from the Royal Mail line , running on opposite tacks in that part of the Atlantic lying between the United States and Europe , respectively signaled each other that the monster had been sighted in latitude 42° 15\u2032 north and longitude 60° 35\u2032 west of the meridian of Greenwich .
-(label :H label
-       :D label
-       :A label
-       :P label
-       :C label
-       :N label
-       :R label
-       :E label)
+(v1 / label
+    :H (v2 / label
+           :D (v4 / label
+                  :C (v13 / label
+                          :E (v31 / label)
+                          :E (v32 / label)
+                          :C (v33 / label))
+                  :N (v14 / label)
+                  :C (v15 / label
+                          :E (v34 / label)
+                          :E (v35 / label)
+                          :C (v36 / label)))
+           :A (v5 / label
+                  :C (v16 / label
+                          :E (v37 / label)
+                          :C (v38 / label)
+                          :E (v39 / label
+                                  :R (v53 / label)
+                                  :E (v54 / label)
+                                  :C (v55 / label)))
+                  :N (v17 / label)
+                  :C (v18 / label
+                          :E (v40 / label)
+                          :C (v41 / label)
+                          :E (v42 / label
+                                  :R (v56 / label)
+                                  :E (v57 / label)
+                                  :E (v58 / label)
+                                  :C (v59 / label))))
+           :D (v6 / label)
+           :P (v7 / label)
+           :A (v8 / label)
+           :A (v9 / label
+                  :A (v19 / label
+                          :E (v43 / label)
+                          :C (v44 / label))
+                  :P (v20 / label
+                          :C (v45 / label))
+                  :A (v21 / label
+                          :C (v46 / label
+                                  :R (v60 / label)
+                                  :E (v61 / label)
+                                  :C (v62 / label))
+                          :N (v47 / label)
+                          :C (v48 / label
+                                  :E (v63 / label)
+                                  :C (v64 / label)
+                                  :E (v65 / label
+                                          :R (v68 / label)
+                                          :E (v69 / label)
+                                          :C (v70 / label)
+                                          :R (v71 / label)
+                                          :E (v72 / label))
+                                  :R v60))))
+    :H (v3 / label
+           :P (v10 / label)
+           :D (v11 / label
+                   :R (v22 / label)
+                   :E (v23 / label)
+                   :C (v24 / label))
+           :A (v12 / label
+                   :R (v25 / label)
+                   :E (v26 / label)
+                   :E (v27 / label
+                           :P (v49 / label)
+                           :A (v50 / label
+                                   :R (v66 / label)
+                                   :C (v67 / label
+                                           :C (v73 / label)
+                                           :N (v74 / label)
+                                           :C (v75 / label)))
+                           :A (v28 / label))
+                   :C v28
+                   :R (v29 / label)
+                   :E (v30 / label
+                           :E (v51 / label)
+                           :C (v52 / label)))
+           :A v5))

@@ -1,9 +1,31 @@
 # ::id 60003
 # ::tok This breach in the sheet iron was so perfectly formed , no punch could have done a cleaner job of it .
-(label :H label
-       :A label
-       :P label
-       :D label
-       :E label
-       :C label
-       :R label)
+(v1 / label
+    :H (v2 / label
+           :A (v4 / label
+                  :E (v11 / label)
+                  :C (v12 / label)
+                  :E (v13 / label
+                          :R (v26 / label)
+                          :E (v27 / label)
+                          :E (v28 / label)
+                          :C (v29 / label)))
+           :P (v5 / label
+                  :C (v14 / label))
+           :D (v6 / label
+                  :E (v15 / label)
+                  :C (v16 / label)))
+    :H (v3 / label
+           :A (v7 / label
+                  :E (v17 / label)
+                  :C (v18 / label))
+           :P (v8 / label
+                  :E (v19 / label)
+                  :C (v20 / label))
+           :A (v9 / label
+                  :E (v21 / label)
+                  :E (v22 / label)
+                  :C (v23 / label))
+           :A (v10 / label
+                   :R (v24 / label)
+                   :C (v25 / label))))

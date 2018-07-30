@@ -1,10 +1,83 @@
 # ::id 47001
 # ::tok With inexhaustible zest , the popular press took potshots at feature articles from the Geographic Institute of Brazil , the Royal Academy of Science in Berlin , the British Association , the Smithsonian Institution in Washington , D.C . , at discussions in The Indian Archipelago , in Cosmos published by Father Moigno , in Petermann \u2019s Mittheilungen,2 and at scientific chronicles in the great French and foreign newspapers .
-(label :H label
-       :D label
-       :A label
-       :P label
-       :R label
-       :E label
-       :C label
-       :N label)
+(v1 / label
+    :H (v2 / label
+           :D (v3 / label
+                  :R (v8 / label)
+                  :E (v9 / label)
+                  :C (v10 / label))
+           :A (v4 / label
+                  :E (v11 / label)
+                  :E (v12 / label)
+                  :C (v13 / label))
+           :P (v5 / label)
+           :A (v6 / label)
+           :A (v7 / label
+                  :C (v14 / label
+                          :R (v18 / label)
+                          :E (v19 / label)
+                          :C (v20 / label)
+                          :E (v21 / label
+                                  :R (v34 / label)
+                                  :E (v35 / label)
+                                  :E (v36 / label)
+                                  :C (v37 / label)
+                                  :R (v38 / label)
+                                  :E (v39 / label))
+                          :E (v22 / label
+                                  :R (v40 / label)
+                                  :E (v41 / label)
+                                  :E (v42 / label)
+                                  :E (v43 / label)
+                                  :C (v44 / label)
+                                  :R (v45 / label)
+                                  :E (v46 / label)
+                                  :R v34)
+                          :E (v23 / label
+                                  :E (v47 / label)
+                                  :E (v48 / label)
+                                  :C (v49 / label)
+                                  :R v34)
+                          :E (v24 / label
+                                  :R (v50 / label)
+                                  :E (v51 / label)
+                                  :E (v52 / label)
+                                  :E (v53 / label)
+                                  :C (v54 / label)
+                                  :R v34))
+                  :C (v15 / label
+                          :R (v25 / label)
+                          :C (v26 / label)
+                          :E (v27 / label
+                                  :R (v55 / label)
+                                  :E (v56 / label)
+                                  :E (v57 / label)
+                                  :C (v58 / label))
+                          :E (v28 / label
+                                  :R (v59 / label)
+                                  :C (v60 / label)
+                                  :E (v61 / label
+                                          :A v60
+                                          :P (v71 / label)
+                                          :A (v72 / label
+                                                  :R (v76 / label)
+                                                  :C (v77 / label))))
+                          :E (v29 / label
+                                  :R (v62 / label)
+                                  :E (v63 / label)
+                                  :R (v64 / label)
+                                  :C (v65 / label)))
+                  :N (v16 / label)
+                  :C (v17 / label
+                          :R (v30 / label)
+                          :E (v31 / label)
+                          :C (v32 / label)
+                          :E (v33 / label
+                                  :R (v66 / label)
+                                  :E (v67 / label)
+                                  :E (v68 / label)
+                                  :E (v69 / label
+                                          :C (v73 / label)
+                                          :N (v74 / label)
+                                          :C (v75 / label))
+                                  :C (v70 / label))))))

@@ -1,9 +1,46 @@
 # ::id 893000
 # ::tok During the magnificent evening of June 25 — in other words , three weeks after our departure — the frigate lay abreast of Cabo Blanco , thirty miles to leeward of the coast of Patagonia .
-(label :H label
-       :D label
-       :A label
-       :P label
-       :E label
-       :R label
-       :C label)
+(v1 / label
+    :H (v2 / label
+           :D (v3 / label
+                  :E (v7 / label
+                         :E (v19 / label
+                                 :R (v30 / label)
+                                 :E (v31 / label)
+                                 :C (v32 / label))
+                         :E (v20 / label)
+                         :C (v21 / label)
+                         :E (v22 / label
+                                 :R (v33 / label)
+                                 :A (v34 / label)
+                                 :P (v35 / label)))
+                  :R (v8 / label)
+                  :E (v9 / label)
+                  :E (v10 / label)
+                  :C (v11 / label)
+                  :E (v12 / label
+                          :R (v23 / label)
+                          :C (v24 / label)))
+           :A (v4 / label
+                  :E (v13 / label)
+                  :C (v14 / label))
+           :P (v5 / label)
+           :A (v6 / label
+                  :E (v15 / label
+                          :C (v25 / label)
+                          :R (v26 / label))
+                  :E (v16 / label
+                          :E (v27 / label
+                                  :E (v36 / label
+                                          :R (v40 / label)
+                                          :C (v41 / label)
+                                          :R (v42 / label))
+                                  :E (v37 / label)
+                                  :C (v38 / label)
+                                  :E (v39 / label
+                                          :R (v43 / label)
+                                          :C (v44 / label)))
+                          :E (v28 / label)
+                          :C (v29 / label))
+                  :E (v17 / label)
+                  :C (v18 / label))))

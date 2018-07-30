@@ -1,8 +1,12 @@
 # ::id 880001
 # ::tok His ship and he were one .
-(label :H label
-       :A label
-       :S label
-       :C label
-       :N label
-       :E label)
+(v1 / label
+    :H (v2 / label
+           :A (v3 / label
+                  :C (v6 / label
+                         :E (v9 / label)
+                         :C (v10 / label))
+                  :N (v7 / label)
+                  :C (v8 / label))
+           :S (v4 / label)
+           :A (v5 / label)))

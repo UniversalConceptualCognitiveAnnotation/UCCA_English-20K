@@ -1,11 +1,86 @@
 # ::id 47002
 # ::tok When the monster \u2019s detractors cited a saying by the botanist Linnaeus that \u201Cnature doesn\u2019t make leaps,\u201D witty writers in the popular periodicals parodied it , maintaining in essence that \u201Cnature doesn\u2019t make lunatics,\u201D and ordering their contemporaries never to give the lie to nature by believing in krakens , sea serpents , \u201CMoby Dicks,\u201D and other all-out efforts from drunken seamen .
-(label :L label
-       :H label
-       :A label
-       :P label
-       :D label
-       :E label
-       :C label
-       :R label
-       :N label)
+(v1 / label
+    :L (v2 / label)
+    :H (v3 / label
+           :A (v9 / label
+                  :E (v26 / label)
+                  :E (v27 / label)
+                  :C (v28 / label))
+           :P (v10 / label)
+           :A (v11 / label
+                   :E (v29 / label)
+                   :C (v30 / label
+                           :P (v49 / label)
+                           :A (v50 / label
+                                   :R (v70 / label)
+                                   :E (v71 / label
+                                           :E (v79 / label)
+                                           :C (v80 / label))
+                                   :C (v72 / label))
+                           :A (v51 / label
+                                   :A (v73 / label)
+                                   :P (v74 / label
+                                           :C (v81 / label))
+                                   :A (v75 / label)))))
+    :H (v4 / label
+           :A (v12 / label
+                   :E (v31 / label)
+                   :C (v18 / label)
+                   :E (v32 / label
+                           :R (v52 / label)
+                           :E (v53 / label)
+                           :E (v54 / label)
+                           :C (v55 / label)))
+           :P (v13 / label)
+           :A (v14 / label))
+    :H (v5 / label
+           :P (v15 / label)
+           :D (v16 / label
+                   :R (v33 / label)
+                   :C (v34 / label))
+           :A (v17 / label
+                   :A (v35 / label)
+                   :P (v36 / label
+                           :C (v56 / label))
+                   :A (v37 / label))
+           :A v18)
+    :L (v6 / label)
+    :H (v7 / label
+           :P (v19 / label)
+           :A (v20 / label
+                   :E (v38 / label)
+                   :C (v25 / label))
+           :D (v21 / label)
+           :A (v22 / label
+                   :P (v39 / label
+                           :C (v57 / label))
+                   :A (v40 / label
+                           :E (v58 / label)
+                           :C (v59 / label))
+                   :A (v41 / label
+                           :R (v60 / label)
+                           :C (v61 / label))))
+    :H (v8 / label
+           :P (v23 / label
+                   :R (v42 / label)
+                   :C (v43 / label))
+           :A (v24 / label
+                   :C (v44 / label
+                           :R (v62 / label)
+                           :C (v63 / label))
+                   :C (v45 / label
+                           :E (v64 / label)
+                           :C (v65 / label)
+                           :R v62)
+                   :C (v46 / label)
+                   :N (v47 / label)
+                   :C (v48 / label
+                           :E (v66 / label)
+                           :E (v67 / label)
+                           :C (v68 / label)
+                           :E (v69 / label
+                                   :R (v76 / label)
+                                   :E (v77 / label)
+                                   :C (v78 / label))))
+           :A v25))

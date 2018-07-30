@@ -1,9 +1,23 @@
 # ::id 827000
 # ::tok “ You see , my friend , it ’s an issue of the monster , the notorious narwhale .
-(label :H label
-       :A label
-       :P label
-       :S label
-       :C label
-       :E label
-       :R label)
+(v1 / label
+    :H (v2 / label
+           :A (v3 / label
+                  :S (v6 / label
+                         :E (v10 / label)
+                         :C (v11 / label))
+                  :A (v7 / label
+                         :R (v12 / label)
+                         :E (v13 / label)
+                         :C (v14 / label)
+                         :E (v15 / label
+                                 :E (v18 / label)
+                                 :E (v19 / label)
+                                 :C (v20 / label))))
+           :A (v4 / label
+                  :C (v8 / label)
+                  :E (v9 / label
+                         :E (v16 / label)
+                         :C (v17 / label)))
+           :P (v5 / label))
+    :H v3)

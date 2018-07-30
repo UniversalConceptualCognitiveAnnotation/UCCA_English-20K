@@ -1,12 +1,70 @@
 # ::id 46002
 # ::tok During this memorable campaign , journalists making a profession of science battled with those making a profession of wit , spilling waves of ink and some of them even two or three drops of blood , since they went from sea serpents to the most offensive personal remarks .
-(label :H label
-       :L label
-       :D label
-       :A label
-       :P label
-       :G label
-       :R label
-       :E label
-       :C label
-       :N label)
+(v1 / label
+    :H (v2 / label
+           :D (v8 / label
+                  :R (v22 / label)
+                  :E (v23 / label)
+                  :E (v24 / label)
+                  :C (v25 / label))
+           :A (v9 / label
+                  :C (v14 / label)
+                  :E (v26 / label
+                          :A v14
+                          :P (v49 / label)
+                          :A (v50 / label
+                                  :E (v56 / label)
+                                  :C (v57 / label)
+                                  :R (v58 / label)
+                                  :E (v59 / label))))
+           :P (v10 / label)
+           :A (v11 / label
+                   :R (v27 / label)
+                   :E (v28 / label
+                           :P (v51 / label)
+                           :A (v52 / label
+                                   :E (v60 / label)
+                                   :C (v61 / label)
+                                   :R (v62 / label)
+                                   :E (v63 / label))
+                           :A v14)
+                   :E (v29 / label)
+                   :C v14))
+    :H (v3 / label
+           :P (v12 / label)
+           :A (v13 / label
+                   :C (v30 / label)
+                   :R (v31 / label)
+                   :E (v32 / label))
+           :A v14)
+    :L (v4 / label)
+    :H (v5 / label
+           :A (v15 / label
+                   :E (v33 / label)
+                   :R (v34 / label)
+                   :C (v35 / label))
+           :G (v16 / label)
+           :A (v17 / label
+                   :E (v36 / label
+                           :C (v53 / label)
+                           :N (v54 / label)
+                           :C (v55 / label))
+                   :C (v37 / label)
+                   :R (v38 / label)
+                   :E (v39 / label))
+           :P v12)
+    :L (v6 / label)
+    :H (v7 / label
+           :A (v18 / label)
+           :P (v19 / label)
+           :A (v20 / label
+                   :R (v40 / label)
+                   :E (v41 / label)
+                   :C (v42 / label))
+           :A (v21 / label
+                   :R (v43 / label)
+                   :E (v44 / label)
+                   :E (v45 / label)
+                   :E (v46 / label)
+                   :E (v47 / label)
+                   :C (v48 / label))))

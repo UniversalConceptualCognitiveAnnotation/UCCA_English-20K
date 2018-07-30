@@ -1,8 +1,13 @@
 # ::id 908001
 # ::tok That day I pressed him no further .
-(label :H label
-       :D label
-       :A label
-       :P label
-       :E label
-       :C label)
+(v1 / label
+    :H (v2 / label
+           :D (v3 / label
+                  :E (v8 / label)
+                  :C (v9 / label))
+           :A (v4 / label)
+           :P (v5 / label)
+           :A (v6 / label)
+           :D (v7 / label
+                  :E (v10 / label)
+                  :C (v11 / label))))

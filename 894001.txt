@@ -1,11 +1,38 @@
 # ::id 894001
 # ::tok Quite naturally , I led our conversation around to the giant unicorn , and I weighed our expedition ’s various chances for success or failure .
-(label :H label
-       :L label
-       :D label
-       :A label
-       :P label
-       :E label
-       :C label
-       :R label
-       :N label)
+(v1 / label
+    :H (v2 / label
+           :D (v5 / label
+                  :E (v13 / label)
+                  :C (v14 / label))
+           :A (v6 / label)
+           :P (v7 / label)
+           :A (v8 / label
+                  :E (v15 / label)
+                  :C (v16 / label))
+           :A (v9 / label
+                  :E (v17 / label
+                          :C (v25 / label)
+                          :R (v26 / label))
+                  :E (v18 / label)
+                  :E (v19 / label)
+                  :C (v20 / label)))
+    :L (v3 / label)
+    :H (v4 / label
+           :A (v10 / label)
+           :P (v11 / label)
+           :A (v12 / label
+                   :E (v21 / label
+                           :E (v27 / label)
+                           :C (v28 / label)
+                           :R (v29 / label))
+                   :E (v22 / label)
+                   :C (v23 / label)
+                   :E (v24 / label
+                           :C (v30 / label
+                                   :R (v33 / label)
+                                   :C (v34 / label))
+                           :N (v31 / label)
+                           :C (v32 / label
+                                   :C (v35 / label)
+                                   :R v33)))))

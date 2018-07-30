@@ -1,7 +1,15 @@
 # ::id 826022
 # ::tok ” “ As master thinks best , ” Conseil replied placidly .
-(label :H label
-       :A label
-       :P label
-       :D label
-       :S label)
+(v1 / label
+    :H (v2 / label
+           :A (v4 / label)
+           :P (v5 / label)
+           :A (v6 / label
+                  :A (v11 / label)
+                  :S (v12 / label)))
+    :H (v3 / label
+           :A v2
+           :A (v7 / label)
+           :A (v8 / label)
+           :P (v9 / label)
+           :D (v10 / label)))

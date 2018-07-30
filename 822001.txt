@@ -1,9 +1,20 @@
 # ::id 822001
 # ::tok Please forgive me for this underhanded way of admitting I had turned forty .
-(label :H label
-       :A label
-       :P label
-       :R label
-       :E label
-       :C label
-       :S label)
+(v1 / label
+    :H (v2 / label
+           :A (v3 / label)
+           :P (v4 / label)
+           :A (v5 / label)
+           :A (v6 / label
+                  :R (v7 / label)
+                  :E (v8 / label)
+                  :E (v9 / label)
+                  :C (v10 / label)
+                  :E (v11 / label
+                          :A v5
+                          :R (v12 / label)
+                          :P (v13 / label)
+                          :A (v14 / label
+                                  :A (v15 / label)
+                                  :S (v16 / label
+                                          :C (v17 / label)))))))

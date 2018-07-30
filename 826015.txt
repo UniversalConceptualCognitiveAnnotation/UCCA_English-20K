@@ -1,9 +1,12 @@
 # ::id 826015
 # ::tok ” “ Then we aren ’t returning to Paris ?
-(label :L label
-       :H label
-       :A label
-       :P label
-       :D label
-       :C label
-       :R label)
+(v1 / label
+    :L (v2 / label)
+    :H (v3 / label
+           :A (v4 / label)
+           :P (v5 / label
+                  :C (v8 / label))
+           :D (v6 / label)
+           :A (v7 / label
+                  :R (v9 / label)
+                  :C (v10 / label))))

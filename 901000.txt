@@ -1,9 +1,32 @@
 # ::id 901000
 # ::tok “ Humph ! ” the harpooner put in , shaking his head with the attitude of a man who doesn ’t want to be convinced .
-(label :H label
-       :A label
-       :P label
-       :D label
-       :E label
-       :C label
-       :R label)
+(v1 / label
+    :H (v2 / label)
+    :H (v3 / label
+           :A v2
+           :A (v5 / label
+                  :E (v11 / label)
+                  :C (v10 / label))
+           :P (v6 / label))
+    :H (v4 / label
+           :P (v7 / label)
+           :A (v8 / label
+                  :E (v12 / label)
+                  :C (v13 / label))
+           :D (v9 / label
+                  :R (v14 / label)
+                  :E (v15 / label)
+                  :C (v16 / label)
+                  :E (v17 / label
+                          :R (v18 / label)
+                          :E (v19 / label)
+                          :C (v20 / label)
+                          :E (v21 / label
+                                  :A v20
+                                  :A (v22 / label)
+                                  :R (v23 / label)
+                                  :P (v24 / label
+                                          :E (v26 / label)
+                                          :C (v27 / label))
+                                  :D (v25 / label))))
+           :A v10))

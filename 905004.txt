@@ -1,10 +1,33 @@
 # ::id 905004
 # ::tok And if you aren ’t crushed by so much pressure , it ’s because the air penetrates the interior of your body with equal pressure .
-(label :L label
-       :H label
-       :A label
-       :P label
-       :D label
-       :C label
-       :R label
-       :E label)
+(v1 / label
+    :L (v2 / label)
+    :L (v3 / label)
+    :H (v4 / label
+           :A (v7 / label)
+           :P (v8 / label
+                  :C (v15 / label))
+           :D (v9 / label)
+           :A (v10 / label
+                   :R (v16 / label)
+                   :E (v17 / label
+                           :E (v27 / label)
+                           :C (v28 / label))
+                   :C (v18 / label)))
+    :L (v5 / label)
+    :H (v6 / label
+           :A (v11 / label
+                   :E (v19 / label)
+                   :C (v20 / label))
+           :P (v12 / label)
+           :A (v13 / label
+                   :E (v21 / label
+                           :E (v29 / label)
+                           :C (v30 / label)
+                           :R (v31 / label))
+                   :E (v22 / label)
+                   :C (v23 / label))
+           :D (v14 / label
+                   :R (v24 / label)
+                   :E (v25 / label)
+                   :C (v26 / label))))

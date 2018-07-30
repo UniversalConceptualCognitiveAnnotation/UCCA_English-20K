@@ -1,11 +1,28 @@
 # ::id 979002
 # ::tok But this stubborn Canadian spent eight hours out of every twelve reading or sleeping in his cabin .
-(label :L label
-       :H label
-       :A label
-       :P label
-       :D label
-       :E label
-       :C label
-       :R label
-       :N label)
+(v1 / label
+    :L (v2 / label)
+    :H (v3 / label
+           :A (v4 / label
+                  :E (v8 / label)
+                  :E (v9 / label)
+                  :C (v10 / label))
+           :P (v5 / label
+                  :E (v11 / label)
+                  :C (v12 / label
+                          :C (v19 / label)
+                          :N (v20 / label)
+                          :C (v21 / label)))
+           :D (v6 / label
+                  :C (v13 / label
+                          :E (v22 / label)
+                          :C (v23 / label))
+                  :R (v14 / label)
+                  :C (v15 / label
+                          :E (v24 / label)
+                          :E (v25 / label)
+                          :C v23))
+           :A (v7 / label
+                  :R (v16 / label)
+                  :E (v17 / label)
+                  :C (v18 / label))))

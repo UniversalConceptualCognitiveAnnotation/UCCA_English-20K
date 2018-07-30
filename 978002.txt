@@ -1,11 +1,51 @@
 # ::id 978002
 # ::tok By then it was the bad season in these southernmost regions , because July in this zone corresponds to our January in Europe ; but the sea remained smooth and easily visible over a vast perimeter .
-(label :L label
-       :H label
-       :R label
-       :C label
-       :S label
-       :A label
-       :P label
-       :E label
-       :N label)
+(v1 / label
+    :L (v2 / label
+           :R (v8 / label)
+           :C (v9 / label))
+    :H (v3 / label
+           :S (v10 / label)
+           :A (v11 / label
+                   :E (v19 / label)
+                   :E (v20 / label)
+                   :C (v21 / label))
+           :A (v12 / label
+                   :R (v22 / label)
+                   :E (v23 / label)
+                   :E (v24 / label)
+                   :C (v25 / label)))
+    :L (v4 / label)
+    :H (v5 / label
+           :A (v13 / label
+                   :C (v26 / label)
+                   :E (v27 / label
+                           :R (v40 / label)
+                           :E (v41 / label)
+                           :C (v42 / label)))
+           :P (v14 / label)
+           :A (v15 / label
+                   :R (v28 / label)
+                   :E (v29 / label)
+                   :C (v30 / label)
+                   :E (v31 / label
+                           :R (v43 / label)
+                           :C (v44 / label))))
+    :L (v6 / label)
+    :H (v7 / label
+           :A (v16 / label
+                   :E (v32 / label)
+                   :C (v33 / label))
+           :S (v17 / label
+                   :E (v34 / label)
+                   :C (v35 / label
+                           :C (v45 / label)
+                           :N (v46 / label)
+                           :C (v47 / label
+                                   :E (v48 / label)
+                                   :C (v49 / label))))
+           :A (v18 / label
+                   :R (v36 / label)
+                   :E (v37 / label)
+                   :E (v38 / label)
+                   :C (v39 / label))))

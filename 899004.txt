@@ -1,8 +1,23 @@
 # ::id 899004
 # ::tok ” “ Listen to me , Ned — ” “ No , no , professor . I ’ll go along with anything you want except that .
-(label :H label
-       :P label
-       :A label
-       :R label
-       :C label
-       :E label)
+(v1 / label
+    :H (v2 / label
+           :P (v5 / label)
+           :A (v6 / label
+                  :R (v11 / label)
+                  :C (v12 / label))
+           :A (v7 / label))
+    :H (v3 / label)
+    :H (v4 / label
+           :A (v8 / label)
+           :P (v9 / label
+                  :C (v13 / label))
+           :A (v10 / label
+                   :R (v14 / label)
+                   :C (v15 / label
+                           :A (v17 / label)
+                           :A (v18 / label)
+                           :P (v19 / label))
+                   :E (v16 / label
+                           :R (v20 / label)
+                           :C (v21 / label)))))

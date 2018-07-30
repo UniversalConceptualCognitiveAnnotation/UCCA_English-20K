@@ -1,11 +1,50 @@
 # ::id 826007
 # ::tok Pack as much into my trunk as you can , my traveling kit , my suits , shirts , and socks , don ’t bother counting , just squeeze it all in — and hurry !
-(label :H label
-       :L label
-       :P label
-       :D label
-       :A label
-       :R label
-       :E label
-       :C label
-       :N label)
+(v1 / label
+    :H (v2 / label
+           :P (v9 / label)
+           :D (v10 / label)
+           :A (v11 / label
+                   :R (v22 / label)
+                   :E (v23 / label)
+                   :C (v24 / label))
+           :A (v12 / label
+                   :C (v25 / label
+                           :E (v35 / label)
+                           :E (v36 / label)
+                           :C (v37 / label))
+                   :C (v26 / label
+                           :E (v38 / label)
+                           :C (v39 / label))
+                   :C (v27 / label
+                           :C (v40 / label)
+                           :E v35)
+                   :N (v28 / label)
+                   :C (v29 / label
+                           :C (v41 / label)
+                           :E v35)))
+    :L (v3 / label)
+    :H (v4 / label
+           :A (v13 / label)
+           :A (v14 / label)
+           :P (v15 / label
+                   :E (v30 / label)
+                   :C v9))
+    :H (v5 / label
+           :P (v16 / label
+                   :E (v31 / label)
+                   :C (v32 / label))
+           :D (v17 / label)
+           :A v14
+           :A v12)
+    :H (v6 / label
+           :D (v18 / label)
+           :P (v19 / label)
+           :A (v20 / label
+                   :C (v33 / label)
+                   :E (v34 / label))
+           :A v14)
+    :L (v7 / label)
+    :H (v8 / label
+           :P (v21 / label)
+           :A v14))

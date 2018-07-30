@@ -1,9 +1,20 @@
 # ::id 821000
 # ::tok For the past ten years , Conseil had gone with me wherever science beckoned .
-(label :H label
-       :D label
-       :A label
-       :P label
-       :R label
-       :E label
-       :C label)
+(v1 / label
+    :H (v2 / label
+           :D (v3 / label
+                  :R (v8 / label)
+                  :E (v9 / label)
+                  :E (v10 / label)
+                  :E (v11 / label)
+                  :C (v12 / label))
+           :A (v4 / label)
+           :P (v5 / label
+                  :C (v13 / label))
+           :A (v6 / label
+                  :R (v14 / label)
+                  :C (v15 / label))
+           :A (v7 / label
+                  :R (v16 / label)
+                  :A (v17 / label)
+                  :P (v18 / label))))

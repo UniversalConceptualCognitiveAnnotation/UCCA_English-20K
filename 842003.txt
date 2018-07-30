@@ -1,11 +1,43 @@
 # ::id 842003
 # ::tok The blades of the propeller churned the waves with increasing speed , and the Abraham Lincoln moved out majestically amid a spectator - laden escort of some 100 ferries and tenders
-(label :H label
-       :L label
-       :A label
-       :P label
-       :D label
-       :E label
-       :C label
-       :R label
-       :N label)
+(v1 / label
+    :H (v2 / label
+           :A (v5 / label
+                  :E (v13 / label)
+                  :C (v14 / label)
+                  :E (v15 / label
+                          :R (v28 / label)
+                          :E (v29 / label)
+                          :C (v30 / label)))
+           :P (v6 / label)
+           :A (v7 / label
+                  :E (v16 / label)
+                  :C (v17 / label))
+           :D (v8 / label
+                  :R (v18 / label)
+                  :E (v19 / label
+                          :A (v20 / label)
+                          :P (v31 / label))
+                  :C v20))
+    :L (v3 / label)
+    :H (v4 / label
+           :A (v9 / label
+                  :E (v21 / label)
+                  :C (v22 / label))
+           :P (v10 / label)
+           :D (v11 / label)
+           :A (v12 / label
+                   :R (v23 / label)
+                   :E (v24 / label)
+                   :E (v25 / label
+                           :E (v32 / label)
+                           :C (v33 / label))
+                   :C (v26 / label)
+                   :E (v27 / label
+                           :R (v34 / label)
+                           :E (v35 / label)
+                           :E (v36 / label)
+                           :C (v37 / label
+                                   :C (v38 / label)
+                                   :N (v39 / label)
+                                   :C (v40 / label))))))

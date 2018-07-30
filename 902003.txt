@@ -1,10 +1,28 @@
 # ::id 902003
 # ::tok “ Because it takes incalculable strength just to live in those deep strata and withstand their pressure . ”
-(label :L label
-       :H label
-       :P label
-       :A label
-       :E label
-       :C label
-       :D label
-       :R label)
+(v1 / label
+    :L (v2 / label)
+    :H (v3 / label
+           :P (v4 / label)
+           :A (v5 / label
+                  :E (v7 / label)
+                  :C (v8 / label))
+           :A (v6 / label
+                  :H (v9 / label
+                         :A (v12 / label)
+                         :D (v13 / label)
+                         :P (v14 / label
+                                 :C (v19 / label))
+                         :A (v15 / label
+                                 :R (v20 / label)
+                                 :E (v21 / label)
+                                 :E (v22 / label)
+                                 :C (v23 / label)))
+                  :L (v10 / label)
+                  :H (v11 / label
+                          :A (v16 / label)
+                          :P (v17 / label)
+                          :A (v18 / label
+                                  :E (v24 / label)
+                                  :C (v25 / label))
+                          :D v13))))

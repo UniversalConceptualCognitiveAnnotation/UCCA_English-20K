@@ -1,8 +1,24 @@
 # ::id 291001
 # ::tok That a private individual had such a mechanism at his disposal was less than probable .
-(label :H label
-       :A label
-       :S label
-       :R label
-       :E label
-       :C label)
+(v1 / label
+    :H (v2 / label
+           :A (v3 / label
+                  :R (v5 / label)
+                  :A (v6 / label
+                         :E (v12 / label)
+                         :E (v13 / label)
+                         :C (v14 / label))
+                  :S (v7 / label)
+                  :A (v8 / label
+                         :E (v15 / label)
+                         :E (v16 / label)
+                         :C (v17 / label))
+                  :A (v9 / label
+                         :R (v18 / label)
+                         :E (v19 / label)
+                         :C (v20 / label)))
+           :S (v4 / label
+                  :E (v10 / label
+                          :C (v21 / label)
+                          :R (v22 / label))
+                  :C (v11 / label))))

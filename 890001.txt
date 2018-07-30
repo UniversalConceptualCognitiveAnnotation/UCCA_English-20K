@@ -1,10 +1,20 @@
 # ::id 890001
 # ::tok He described his fishing trips and his battles with great natural lyricism .
-(label :H label
-       :A label
-       :P label
-       :D label
-       :C label
-       :N label
-       :R label
-       :E label)
+(v1 / label
+    :H (v2 / label
+           :A (v3 / label)
+           :P (v4 / label)
+           :A (v5 / label
+                  :C (v7 / label
+                         :E (v14 / label)
+                         :E (v15 / label)
+                         :C (v16 / label))
+                  :N (v8 / label)
+                  :C (v9 / label
+                         :E (v17 / label)
+                         :C (v18 / label)))
+           :D (v6 / label
+                  :R (v10 / label)
+                  :E (v11 / label)
+                  :E (v12 / label)
+                  :C (v13 / label))))

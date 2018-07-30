@@ -1,8 +1,10 @@
 # ::id 831001
 # ::tok , turned into Katrin St .
-(label :H label
-       :A label
-       :P label
-       :R label
-       :E label
-       :C label)
+(v1 / label
+    :H (v2 / label
+           :A (v3 / label)
+           :P (v4 / label)
+           :A (v5 / label
+                  :R (v6 / label)
+                  :E (v7 / label)
+                  :C (v8 / label))))

@@ -1,11 +1,28 @@
 # ::id 975001
 # ::tok Eyes and spyglasses ( a bit dazzled , it is true , by the vista of $ 2,000.00 ) didn ’t remain at rest for an instant .
-(label :H label
-       :G label
-       :A label
-       :P label
-       :D label
-       :C label
-       :N label
-       :E label
-       :R label)
+(v1 / label
+    :H (v2 / label
+           :A (v5 / label
+                  :C (v12 / label)
+                  :N (v13 / label)
+                  :C (v14 / label))
+           :P (v6 / label
+                  :E (v15 / label)
+                  :R (v16 / label)
+                  :C (v17 / label))
+           :D (v7 / label)
+           :D (v8 / label
+                  :R (v18 / label)
+                  :E (v19 / label)
+                  :C (v20 / label)))
+    :H (v3 / label
+           :D (v9 / label)
+           :P (v10 / label)
+           :A (v11 / label
+                   :E (v21 / label
+                           :R (v23 / label)
+                           :E (v24 / label)
+                           :C (v25 / label)
+                           :R (v26 / label))
+                   :C (v22 / label)))
+    :G (v4 / label))

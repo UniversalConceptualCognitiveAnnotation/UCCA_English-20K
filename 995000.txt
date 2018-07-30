@@ -1,8 +1,25 @@
 # ::id 995000
 # ::tok “Come on, Conseil!” I told him. “Here’s your last chance to pocket that $2,000.00!”
-(label :H label
-       :P label
-       :A label
-       :S label
-       :E label
-       :C label)
+(v1 / label
+    :H (v2 / label
+           :P (v6 / label)
+           :A (v7 / label))
+    :H (v3 / label
+           :A v2
+           :A (v8 / label)
+           :P (v9 / label)
+           :A (v10 / label))
+    :H (v4 / label
+           :S (v11 / label)
+           :A (v12 / label)
+           :A (v13 / label
+                   :E (v16 / label)
+                   :E (v17 / label)
+                   :C (v18 / label)))
+    :H (v5 / label
+           :P (v14 / label
+                   :C (v19 / label))
+           :A (v15 / label
+                   :E (v20 / label)
+                   :C (v21 / label))
+           :A v16))

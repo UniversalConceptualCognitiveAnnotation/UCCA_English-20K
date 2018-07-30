@@ -1,10 +1,35 @@
 # ::id 830004
 # ::tok I opened a line of credit sufficient to cover the babirusa and , Conseil at my heels , I jumped into a carriage .
-(label :H label
-       :L label
-       :A label
-       :P label
-       :S label
-       :E label
-       :C label
-       :R label)
+(v1 / label
+    :H (v2 / label
+           :A (v6 / label)
+           :P (v7 / label)
+           :A (v8 / label
+                  :E (v15 / label)
+                  :E (v16 / label
+                          :P (v25 / label
+                                  :E (v29 / label)
+                                  :C (v30 / label))
+                          :A (v26 / label
+                                  :E (v31 / label)
+                                  :C (v32 / label))
+                          :A (v17 / label))
+                  :C v17
+                  :E (v18 / label
+                          :R (v27 / label)
+                          :C (v28 / label))))
+    :L (v3 / label)
+    :H (v4 / label
+           :S (v9 / label)
+           :A (v10 / label)
+           :A (v11 / label
+                   :R (v19 / label)
+                   :E (v20 / label)
+                   :C (v21 / label)))
+    :H (v5 / label
+           :A (v12 / label)
+           :P (v13 / label)
+           :A (v14 / label
+                   :R (v22 / label)
+                   :E (v23 / label)
+                   :C (v24 / label))))

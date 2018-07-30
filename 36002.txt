@@ -1,10 +1,54 @@
 # ::id 36002
 # ::tok Traders , shipowners , captains of vessels , skippers , and master mariners from Europe and America , naval officers from every country , and at their heels the various national governments on these two continents , were all extremely disturbed by the business .
-(label :H label
-       :A label
-       :P label
-       :D label
-       :C label
-       :N label
-       :R label
-       :E label)
+(v1 / label
+    :H (v2 / label
+           :A (v3 / label
+                  :C (v8 / label
+                         :C (v16 / label
+                                 :C (v27 / label)
+                                 :C (v28 / label)
+                                 :C (v29 / label
+                                         :C (v45 / label)
+                                         :R (v46 / label)
+                                         :E (v47 / label))
+                                 :C (v30 / label)
+                                 :N (v31 / label)
+                                 :C (v32 / label
+                                         :E (v48 / label)
+                                         :C (v49 / label)))
+                         :E (v17 / label
+                                 :R (v33 / label)
+                                 :C (v34 / label
+                                         :C (v50 / label)
+                                         :N (v51 / label)
+                                         :C (v52 / label))))
+                  :C (v9 / label
+                         :E (v18 / label)
+                         :C (v19 / label)
+                         :E (v20 / label
+                                 :R (v35 / label)
+                                 :E (v36 / label)
+                                 :C (v37 / label)))
+                  :N (v10 / label)
+                  :C (v11 / label
+                          :E (v21 / label
+                                  :R (v38 / label)
+                                  :E (v39 / label)
+                                  :C (v40 / label))
+                          :E (v22 / label)
+                          :E (v23 / label)
+                          :E (v24 / label)
+                          :C (v25 / label)
+                          :E (v26 / label
+                                  :R (v41 / label)
+                                  :E (v42 / label)
+                                  :E (v43 / label)
+                                  :C (v44 / label))))
+           :P (v4 / label
+                  :C (v12 / label))
+           :D (v5 / label)
+           :D (v6 / label)
+           :A (v7 / label
+                  :R (v13 / label)
+                  :E (v14 / label)
+                  :C (v15 / label))))

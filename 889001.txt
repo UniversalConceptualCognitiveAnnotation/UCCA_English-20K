@@ -1,8 +1,12 @@
 # ::id 889001
 # ::tok No doubt it was my nationality that attracted him .
-(label :G label
-       :H label
-       :E label
-       :C label
-       :A label
-       :P label)
+(v1 / label
+    :G (v2 / label
+           :E (v4 / label)
+           :C (v5 / label))
+    :H (v3 / label
+           :A (v6 / label
+                  :E (v9 / label)
+                  :C (v10 / label))
+           :P (v7 / label)
+           :A (v8 / label)))

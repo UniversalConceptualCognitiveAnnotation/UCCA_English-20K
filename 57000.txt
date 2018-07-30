@@ -1,9 +1,20 @@
 # ::id 57000
 # ::tok At first the passengers were quite frightened , but Captain Anderson hastened to reassure them .
-(label :L label
-       :H label
-       :R label
-       :C label
-       :A label
-       :P label
-       :E label)
+(v1 / label
+    :L (v2 / label
+           :R (v6 / label)
+           :C (v7 / label))
+    :H (v3 / label
+           :A (v8 / label
+                  :E (v13 / label)
+                  :C (v14 / label))
+           :P (v9 / label
+                  :E (v15 / label)
+                  :C (v16 / label)))
+    :L (v4 / label)
+    :H (v5 / label
+           :A (v10 / label)
+           :P (v11 / label
+                   :E (v17 / label)
+                   :C (v18 / label))
+           :A (v12 / label)))

@@ -1,10 +1,107 @@
 # ::id 989000
 # ::tok This promise was given on November 2. It had the immediate effect of reviving the crew’s failing spirits. The ocean was observed with renewed care. Each man wanted one last look with which to sum up his experience. Spyglasses functioned with feverish energy. A supreme challenge had been issued to the giant narwhale, and the latter had no acceptable excuse for ignoring this Summons to Appear!
-(label :H label
-       :L label
-       :A label
-       :P label
-       :D label
-       :E label
-       :C label
-       :R label)
+(v1 / label
+    :H (v2 / label
+           :A (v10 / label)
+           :A (v11 / label
+                   :E (v36 / label)
+                   :C (v37 / label))
+           :P (v12 / label
+                   :C (v38 / label))
+           :D (v13 / label
+                   :R (v39 / label)
+                   :C (v40 / label)))
+    :H (v3 / label
+           :A (v14 / label)
+           :P (v15 / label
+                   :E (v41 / label
+                           :E (v77 / label)
+                           :E (v78 / label)
+                           :C (v79 / label))
+                   :R (v42 / label)
+                   :C (v43 / label))
+           :A (v16 / label
+                   :E (v44 / label
+                           :E (v80 / label)
+                           :C (v81 / label))
+                   :E (v45 / label
+                           :A (v46 / label)
+                           :P (v82 / label))
+                   :C v46))
+    :H (v4 / label
+           :A (v17 / label)
+           :A (v18 / label
+                   :E (v47 / label)
+                   :C (v48 / label))
+           :P (v19 / label
+                   :C (v49 / label))
+           :D (v20 / label
+                   :R (v50 / label)
+                   :E (v51 / label
+                           :A (v52 / label)
+                           :A (v83 / label)
+                           :P (v84 / label))
+                   :C v52))
+    :H (v5 / label
+           :A (v21 / label
+                   :E (v53 / label)
+                   :C (v54 / label))
+           :P (v22 / label)
+           :A (v23 / label
+                   :E (v55 / label)
+                   :E (v56 / label)
+                   :C (v57 / label)
+                   :E (v58 / label
+                           :A (v85 / label
+                                   :C v57
+                                   :R (v94 / label))
+                           :R (v86 / label)
+                           :P (v87 / label
+                                   :C (v95 / label))
+                           :A (v88 / label
+                                   :E (v96 / label)
+                                   :C (v97 / label)))))
+    :H (v6 / label
+           :A (v24 / label)
+           :A (v25 / label)
+           :P (v26 / label)
+           :D (v27 / label
+                   :R (v59 / label)
+                   :E (v60 / label)
+                   :C (v61 / label)))
+    :H (v7 / label
+           :A (v28 / label)
+           :A (v29 / label
+                   :E (v62 / label)
+                   :E (v63 / label)
+                   :C (v64 / label))
+           :P (v30 / label
+                   :C (v65 / label))
+           :A (v31 / label
+                   :R (v66 / label)
+                   :E (v67 / label)
+                   :E (v68 / label)
+                   :C (v69 / label)))
+    :L (v8 / label)
+    :H (v9 / label
+           :A (v32 / label
+                   :E (v70 / label)
+                   :C (v71 / label))
+           :P (v33 / label
+                   :E (v72 / label
+                           :E (v89 / label)
+                           :C (v90 / label))
+                   :R (v73 / label)
+                   :C (v74 / label))
+           :D (v34 / label)
+           :A (v35 / label
+                   :E (v75 / label)
+                   :C (v76 / label
+                           :A (v91 / label)
+                           :P (v92 / label)
+                           :A (v93 / label
+                                   :A (v98 / label)
+                                   :P (v99 / label
+                                           :C (v100 / label))
+                                   :A v71)
+                           :A v71))))

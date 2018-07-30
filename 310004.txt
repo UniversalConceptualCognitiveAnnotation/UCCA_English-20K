@@ -1,12 +1,59 @@
 # ::id 310004
 # ::tok Now then , the sea is precisely their best medium , the only setting suitable for the breeding and growing of such giants — next to which such land animals as elephants or rhinoceroses are mere dwarves .
-(label :L label
-       :H label
-       :A label
-       :S label
-       :D label
-       :E label
-       :C label
-       :R label
-       :P label
-       :N label)
+(v1 / label
+    :L (v2 / label)
+    :H (v3 / label
+           :A (v5 / label
+                  :E (v11 / label)
+                  :C (v10 / label))
+           :S (v6 / label)
+           :D (v7 / label)
+           :A (v8 / label
+                  :E (v12 / label)
+                  :E (v13 / label)
+                  :C (v14 / label)))
+    :H (v4 / label
+           :A (v9 / label
+                  :E (v15 / label)
+                  :E (v16 / label)
+                  :C (v17 / label)
+                  :E (v18 / label
+                          :A v17
+                          :S (v19 / label)
+                          :A (v20 / label
+                                  :R (v21 / label)
+                                  :P (v22 / label
+                                          :C (v24 / label
+                                                  :E (v31 / label)
+                                                  :C (v32 / label))
+                                          :N (v25 / label)
+                                          :C (v26 / label
+                                                  :C (v33 / label)
+                                                  :E v31))
+                                  :A (v23 / label
+                                          :R (v27 / label)
+                                          :E (v28 / label)
+                                          :C (v29 / label)
+                                          :E (v30 / label
+                                                  :A (v34 / label
+                                                          :E v28
+                                                          :C v29
+                                                          :R (v38 / label))
+                                                  :R (v35 / label)
+                                                  :A (v36 / label
+                                                          :E (v39 / label)
+                                                          :E (v40 / label)
+                                                          :C (v41 / label)
+                                                          :E (v42 / label
+                                                                  :C (v45 / label
+                                                                          :R (v48 / label)
+                                                                          :C (v49 / label))
+                                                                  :N (v46 / label)
+                                                                  :C (v47 / label
+                                                                          :C (v50 / label)
+                                                                          :R v48)))
+                                                  :S (v37 / label
+                                                          :E (v43 / label)
+                                                          :C (v44 / label)))))))
+           :S v6
+           :A v10))

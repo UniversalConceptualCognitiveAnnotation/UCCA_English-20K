@@ -1,12 +1,61 @@
 # ::id 906000
 # ::tok “ All right then , my fine harpooner , if vertebrates several hundred meters long and proportionate in bulk live at such depths , their surface areas make up millions of square centimeters , and the pressure they undergo must be assessed in billions of kilograms .
-(label :L label
-       :H label
-       :A label
-       :P label
-       :C label
-       :E label
-       :R label
-       :N label
-       :S label
-       :D label)
+(v1 / label
+    :L (v2 / label)
+    :H (v3 / label)
+    :L (v4 / label)
+    :H (v5 / label
+           :A (v9 / label
+                  :C (v19 / label)
+                  :E (v20 / label
+                          :C (v37 / label
+                                  :A v19
+                                  :A (v47 / label
+                                          :E (v51 / label
+                                                  :E (v55 / label)
+                                                  :C (v56 / label))
+                                          :C (v52 / label))
+                                  :S (v48 / label))
+                          :N (v38 / label)
+                          :C (v39 / label
+                                  :A v19
+                                  :D (v49 / label)
+                                  :S (v50 / label
+                                          :R (v53 / label)
+                                          :C (v54 / label)))))
+           :P (v10 / label)
+           :A (v11 / label
+                   :R (v21 / label)
+                   :E (v22 / label)
+                   :C (v23 / label)))
+    :H (v6 / label
+           :A (v12 / label
+                   :E (v24 / label)
+                   :E (v25 / label)
+                   :C (v26 / label))
+           :P (v13 / label)
+           :A (v14 / label
+                   :E (v27 / label
+                           :C (v40 / label)
+                           :R (v41 / label))
+                   :E (v28 / label)
+                   :C (v29 / label)))
+    :L (v7 / label)
+    :H (v8 / label
+           :A (v15 / label)
+           :A (v16 / label
+                   :E (v30 / label)
+                   :C (v31 / label)
+                   :E (v32 / label
+                           :A v31
+                           :A (v42 / label)
+                           :P (v43 / label)))
+           :P (v17 / label
+                   :E (v33 / label)
+                   :C (v34 / label))
+           :A (v18 / label
+                   :E (v35 / label
+                           :R (v44 / label)
+                           :C (v45 / label)
+                           :R (v46 / label))
+                   :C (v36 / label))))

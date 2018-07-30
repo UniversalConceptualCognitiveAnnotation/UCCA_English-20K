@@ -1,10 +1,19 @@
 # ::id 824000
 # ::tok “ Conseil ! ” I repeated , while feverishly beginning my preparations for departure .
-(label :H label
-       :L label
-       :A label
-       :P label
-       :D label
-       :E label
-       :C label
-       :R label)
+(v1 / label
+    :H (v2 / label)
+    :H (v3 / label
+           :A v2
+           :A (v6 / label)
+           :P (v7 / label))
+    :L (v4 / label)
+    :H (v5 / label
+           :D (v8 / label)
+           :P (v9 / label)
+           :A (v10 / label
+                   :E (v11 / label)
+                   :C (v12 / label)
+                   :E (v13 / label
+                           :R (v14 / label)
+                           :C (v15 / label)))
+           :A v6))

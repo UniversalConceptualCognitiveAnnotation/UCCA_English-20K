@@ -1,9 +1,12 @@
 # ::id 826010
 # ::tok “ We ’ll deal with them later .
-(label :H label
-       :A label
-       :P label
-       :D label
-       :E label
-       :C label
-       :R label)
+(v1 / label
+    :H (v2 / label
+           :A (v3 / label)
+           :P (v4 / label
+                  :E (v7 / label)
+                  :C (v8 / label))
+           :A (v5 / label
+                  :R (v9 / label)
+                  :C (v10 / label))
+           :D (v6 / label)))

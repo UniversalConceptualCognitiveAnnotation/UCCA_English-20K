@@ -1,9 +1,17 @@
 # ::id 54002
 # ::tok Its paddle wheels were churning the sea with perfect steadiness .
-(label :H label
-       :A label
-       :P label
-       :D label
-       :E label
-       :C label
-       :R label)
+(v1 / label
+    :H (v2 / label
+           :A (v3 / label
+                  :E (v7 / label)
+                  :E (v8 / label)
+                  :C (v9 / label))
+           :P (v4 / label
+                  :C (v10 / label))
+           :A (v5 / label
+                  :E (v11 / label)
+                  :C (v12 / label))
+           :D (v6 / label
+                  :R (v13 / label)
+                  :E (v14 / label)
+                  :C (v15 / label))))

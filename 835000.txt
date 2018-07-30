@@ -1,10 +1,17 @@
 # ::id 835000
 # ::tok The Abraham Lincoln had been perfectly chosen and fitted out for its new assignment .
-(label :H label
-       :A label
-       :P label
-       :D label
-       :E label
-       :C label
-       :N label
-       :R label)
+(v1 / label
+    :H (v2 / label
+           :A (v3 / label
+                  :E (v7 / label)
+                  :C (v8 / label))
+           :P (v4 / label
+                  :C (v9 / label)
+                  :N (v10 / label)
+                  :C (v11 / label))
+           :D (v5 / label)
+           :A (v6 / label
+                  :R (v12 / label)
+                  :E (v13 / label)
+                  :E (v14 / label)
+                  :C (v15 / label))))

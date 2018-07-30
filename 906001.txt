@@ -1,10 +1,33 @@
 # ::id 906001
 # ::tok Calculate , then , how much resistance of bone structure and strength of constitution they ’d need in order to withstand such pressures ! ”
-(label :H label
-       :L label
-       :P label
-       :A label
-       :E label
-       :C label
-       :N label
-       :R label)
+(v1 / label
+    :H (v2 / label
+           :P (v6 / label)
+           :A (v7 / label
+                  :A (v11 / label
+                          :E (v15 / label)
+                          :C (v16 / label
+                                  :C (v19 / label
+                                          :C (v22 / label)
+                                          :E (v23 / label
+                                                  :R (v26 / label)
+                                                  :E (v27 / label)
+                                                  :C (v28 / label)))
+                                  :N (v20 / label)
+                                  :C (v21 / label
+                                          :C (v24 / label)
+                                          :E (v25 / label
+                                                  :R (v29 / label)
+                                                  :C (v30 / label)))))
+                  :A (v10 / label)
+                  :P (v12 / label
+                          :E (v17 / label)
+                          :C (v18 / label))))
+    :L (v3 / label)
+    :L (v4 / label)
+    :H (v5 / label
+           :P (v8 / label)
+           :A (v9 / label
+                  :E (v13 / label)
+                  :C (v14 / label))
+           :A v10))

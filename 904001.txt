@@ -1,7 +1,17 @@
 # ::id 904001
 # ::tok “ You can make figures do anything you want !
-(label :H label
-       :A label
-       :P label
-       :E label
-       :C label)
+(v1 / label
+    :H (v2 / label
+           :A (v3 / label)
+           :P (v4 / label
+                  :E (v7 / label)
+                  :C (v8 / label))
+           :A (v5 / label)
+           :A (v6 / label
+                  :P (v9 / label)
+                  :A (v10 / label
+                          :A v3
+                          :A (v12 / label)
+                          :A (v13 / label)
+                          :P (v14 / label))
+                  :A (v11 / label))))

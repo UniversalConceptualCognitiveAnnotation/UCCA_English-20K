@@ -1,12 +1,82 @@
 # ::id 61002
 # ::tok This outrageous animal had to shoulder responsibility for all derelict vessels , whose numbers are unfortunately considerable , since out of those 3,000 ships whose losses are recorded annually at the marine insurance bureau , the figure for steam or sailing ships supposedly lost with all hands , in the absence of any news , amounts to at least 200 !
-(label :H label
-       :L label
-       :A label
-       :P label
-       :E label
-       :C label
-       :R label
-       :D label
-       :S label
-       :N label)
+(v1 / label
+    :H (v2 / label
+           :A (v5 / label
+                  :E (v13 / label)
+                  :E (v14 / label)
+                  :C (v15 / label))
+           :P (v6 / label
+                  :E (v16 / label)
+                  :C (v17 / label))
+           :A (v7 / label
+                  :C (v18 / label)
+                  :E (v19 / label
+                          :R (v35 / label)
+                          :E (v36 / label)
+                          :E (v37 / label
+                                  :R (v51 / label)
+                                  :A (v52 / label
+                                          :C (v67 / label)
+                                          :E (v39 / label))
+                                  :S (v53 / label
+                                          :C (v68 / label))
+                                  :R (v54 / label))
+                          :E (v38 / label)
+                          :C v39)))
+    :L (v3 / label)
+    :H (v4 / label
+           :A (v8 / label
+                  :R (v20 / label)
+                  :E (v21 / label)
+                  :E (v22 / label)
+                  :C (v23 / label)
+                  :E (v24 / label
+                          :R (v40 / label)
+                          :A (v41 / label
+                                  :E v23
+                                  :C (v55 / label))
+                          :P (v42 / label
+                                  :C (v56 / label))
+                          :D (v43 / label)
+                          :A (v44 / label
+                                  :R (v57 / label)
+                                  :E (v58 / label)
+                                  :E (v59 / label
+                                          :E (v69 / label)
+                                          :C (v70 / label))
+                                  :C (v60 / label))))
+           :A (v9 / label
+                  :E (v25 / label)
+                  :C (v26 / label)
+                  :E (v27 / label
+                          :R (v45 / label)
+                          :C (v46 / label
+                                  :C (v61 / label
+                                          :C (v71 / label)
+                                          :E (v72 / label))
+                                  :N (v62 / label)
+                                  :C (v63 / label
+                                          :E (v73 / label)
+                                          :C v71))
+                          :E (v47 / label
+                                  :A v46
+                                  :D (v64 / label)
+                                  :P (v65 / label)
+                                  :A (v66 / label
+                                          :R (v74 / label)
+                                          :E (v75 / label)
+                                          :C (v76 / label)))))
+           :A (v10 / label
+                   :R (v28 / label)
+                   :E (v29 / label)
+                   :C (v30 / label)
+                   :E (v31 / label
+                           :R (v48 / label)
+                           :E (v49 / label)
+                           :C (v50 / label)))
+           :P (v11 / label)
+           :A (v12 / label
+                   :R (v32 / label)
+                   :E (v33 / label)
+                   :C (v34 / label))))

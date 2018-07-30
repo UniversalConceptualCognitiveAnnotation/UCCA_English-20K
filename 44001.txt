@@ -1,11 +1,31 @@
 # ::id 44001
 # ::tok In lighthearted countries , people joked about this phenomenon , but such serious , practical countries as England , America , and Germany were deeply concerned .
-(label :H label
-       :L label
-       :A label
-       :P label
-       :D label
-       :R label
-       :E label
-       :C label
-       :N label)
+(v1 / label
+    :H (v2 / label
+           :A (v5 / label
+                  :R (v13 / label)
+                  :E (v14 / label)
+                  :C (v15 / label))
+           :A (v6 / label)
+           :P (v7 / label)
+           :A (v8 / label
+                  :R (v16 / label)
+                  :E (v17 / label)
+                  :C (v18 / label)))
+    :L (v3 / label)
+    :H (v4 / label
+           :A (v9 / label)
+           :A (v10 / label
+                   :E (v19 / label)
+                   :E (v20 / label)
+                   :E (v21 / label)
+                   :C (v22 / label)
+                   :R (v23 / label)
+                   :E (v24 / label
+                           :C (v26 / label)
+                           :C (v27 / label)
+                           :N (v28 / label)
+                           :C (v29 / label)))
+           :P (v11 / label
+                   :C (v25 / label))
+           :D (v12 / label)))

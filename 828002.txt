@@ -1,10 +1,22 @@
 # ::id 828002
 # ::tok This is one of those voyages from which people don ’t always come back !
-(label :H label
-       :A label
-       :S label
-       :E label
-       :C label
-       :R label
-       :P label
-       :D label)
+(v1 / label
+    :H (v2 / label
+           :A (v3 / label)
+           :S (v4 / label)
+           :A (v5 / label
+                  :E (v6 / label
+                         :C (v10 / label)
+                         :R (v11 / label))
+                  :E (v7 / label
+                         :A (v12 / label
+                                 :R (v18 / label)
+                                 :C (v9 / label))
+                         :R (v13 / label)
+                         :A (v14 / label)
+                         :P (v15 / label
+                                 :C (v19 / label))
+                         :D (v16 / label)
+                         :D (v17 / label))
+                  :E (v8 / label)
+                  :C v9)))

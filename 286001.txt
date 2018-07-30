@@ -1,8 +1,33 @@
 # ::id 286001
 # ::tok In my capacity as Assistant Professor at the Paris Museum of Natural History , I had been attached to this expedition by the French government .
-(label :H label
-       :A label
-       :P label
-       :E label
-       :C label
-       :R label)
+(v1 / label
+    :H (v2 / label
+           :A (v3 / label
+                  :E (v8 / label
+                         :R (v20 / label)
+                         :E (v21 / label)
+                         :C (v22 / label)
+                         :R (v23 / label))
+                  :E (v9 / label
+                         :R (v24 / label)
+                         :E (v25 / label)
+                         :E (v26 / label)
+                         :C (v27 / label)
+                         :E (v28 / label
+                                 :R (v29 / label)
+                                 :E (v30 / label)
+                                 :C (v31 / label)))
+                  :E (v10 / label)
+                  :C (v11 / label))
+           :A (v4 / label)
+           :P (v5 / label
+                  :C (v12 / label))
+           :A (v6 / label
+                  :R (v13 / label)
+                  :E (v14 / label)
+                  :C (v15 / label))
+           :A (v7 / label
+                  :R (v16 / label)
+                  :E (v17 / label)
+                  :E (v18 / label)
+                  :C (v19 / label))))

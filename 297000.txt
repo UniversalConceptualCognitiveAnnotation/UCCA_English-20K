@@ -1,5 +1,6 @@
 # ::id 297000
 # ::tok I complied .
-(label :H label
-       :A label
-       :P label)
+(v1 / label
+    :H (v2 / label
+           :A (v3 / label)
+           :P (v4 / label)))

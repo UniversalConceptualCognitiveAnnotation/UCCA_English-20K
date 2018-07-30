@@ -1,9 +1,34 @@
 # ::id 314000
 # ::tok But , as it always happens , just when a decision had been made to chase the monster , the monster put in no further appearances .
-(label :L label
-       :H label
-       :D label
-       :P label
-       :E label
-       :C label
-       :A label)
+(v1 / label
+    :L (v2 / label)
+    :L (v3 / label)
+    :H (v4 / label
+           :D (v8 / label)
+           :P (v9 / label))
+    :L (v5 / label
+           :E (v10 / label)
+           :C (v11 / label))
+    :H (v6 / label
+           :A (v12 / label)
+           :A (v13 / label
+                   :E (v19 / label)
+                   :C (v20 / label))
+           :P (v14 / label
+                   :C (v21 / label))
+           :A (v15 / label
+                   :A (v22 / label)
+                   :P (v23 / label
+                           :C (v30 / label))
+                   :A (v24 / label
+                           :E (v31 / label)
+                           :C (v32 / label))))
+    :H (v7 / label
+           :A (v16 / label
+                   :E (v25 / label)
+                   :C (v26 / label))
+           :P (v17 / label)
+           :A (v18 / label
+                   :E (v27 / label)
+                   :E (v28 / label)
+                   :C (v29 / label))))

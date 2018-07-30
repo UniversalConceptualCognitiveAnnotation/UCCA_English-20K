@@ -1,8 +1,13 @@
 # ::id 841002
 # ::tok “ Go ahead , then ! ” Commander Farragut called .
-(label :H label
-       :L label
-       :A label
-       :P label
-       :E label
-       :C label)
+(v1 / label
+    :H (v2 / label
+           :A (v5 / label)
+           :P (v6 / label))
+    :L (v3 / label)
+    :H (v4 / label
+           :A v2
+           :A (v7 / label
+                  :E (v9 / label)
+                  :C (v10 / label))
+           :P (v8 / label)))

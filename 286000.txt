@@ -1,9 +1,41 @@
 # ::id 286000
 # ::tok ufeffDuring the period in which these developments were occurring , I had returned from a scientific undertaking organized to explore the Nebraska badlands in the United States .
-(label :H label
-       :D label
-       :A label
-       :P label
-       :R label
-       :E label
-       :C label)
+(v1 / label
+    :H (v2 / label
+           :D (v3 / label
+                  :R (v7 / label)
+                  :E (v8 / label)
+                  :C (v9 / label)
+                  :E (v10 / label
+                          :D v9
+                          :R (v17 / label)
+                          :R (v18 / label)
+                          :A (v19 / label
+                                  :E (v24 / label)
+                                  :C (v25 / label))
+                          :P (v20 / label
+                                  :C (v26 / label))))
+           :A (v4 / label)
+           :P (v5 / label
+                  :C (v11 / label))
+           :A (v6 / label
+                  :R (v12 / label)
+                  :E (v13 / label)
+                  :E (v14 / label)
+                  :C (v15 / label)
+                  :E (v16 / label
+                          :A v15
+                          :A (v21 / label)
+                          :P (v22 / label)
+                          :A (v23 / label
+                                  :A (v27 / label)
+                                  :P (v28 / label
+                                          :C (v30 / label))
+                                  :A (v29 / label
+                                          :E (v31 / label
+                                                  :R (v35 / label)
+                                                  :E (v36 / label)
+                                                  :C (v37 / label))
+                                          :E (v32 / label)
+                                          :E (v33 / label)
+                                          :C (v34 / label)))))))

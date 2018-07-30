@@ -1,11 +1,63 @@
 # ::id 976007
 # ::tok I stared ; I stared until I nearly went blind from a worn-out retina , while Conseil , as stoic as ever , kept repeating to me in a calm tone : “ If master ’s eyes would kindly stop bulging , master will see farther ! ”
-(label :H label
-       :L label
-       :A label
-       :P label
-       :D label
-       :E label
-       :C label
-       :R label
-       :S label)
+(v1 / label
+    :H (v2 / label
+           :A (v11 / label)
+           :P (v12 / label))
+    :H (v3 / label
+           :A (v13 / label)
+           :P (v14 / label))
+    :L (v4 / label)
+    :H (v5 / label
+           :A (v15 / label)
+           :D (v16 / label)
+           :P (v17 / label
+                   :E (v29 / label)
+                   :C (v30 / label))
+           :A (v18 / label
+                   :R (v31 / label)
+                   :E (v32 / label)
+                   :E (v33 / label
+                           :A (v34 / label)
+                           :S (v52 / label))
+                   :C v34))
+    :L (v6 / label)
+    :H (v7 / label
+           :A (v9 / label
+                  :A (v23 / label
+                          :E (v45 / label
+                                  :C (v55 / label)
+                                  :R (v56 / label))
+                          :C (v46 / label))
+                  :P (v24 / label
+                          :E (v47 / label)
+                          :E (v48 / label)
+                          :C (v49 / label))
+                  :D (v25 / label))
+           :A (v19 / label
+                   :C (v35 / label)
+                   :E (v36 / label
+                           :A v35
+                           :S (v53 / label)
+                           :D (v54 / label
+                                   :R (v57 / label)
+                                   :C (v58 / label))))
+           :P (v20 / label
+                   :E (v37 / label)
+                   :C (v38 / label))
+           :A (v21 / label
+                   :R (v39 / label)
+                   :C (v40 / label))
+           :D (v22 / label
+                   :R (v41 / label)
+                   :E (v42 / label)
+                   :E (v43 / label)
+                   :C (v44 / label)))
+    :L (v8 / label)
+    :H v9
+    :H (v10 / label
+            :A (v26 / label)
+            :P (v27 / label
+                    :E (v50 / label)
+                    :C (v51 / label))
+            :D (v28 / label)))

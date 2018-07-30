@@ -1,9 +1,34 @@
 # ::id 296002
 # ::tok Well received in scholarly circles , this book had established me as a specialist in this pretty obscure field of natural history .
-(label :H label
-       :A label
-       :D label
-       :P label
-       :E label
-       :C label
-       :R label)
+(v1 / label
+    :H (v2 / label
+           :A (v4 / label
+                  :E (v12 / label)
+                  :C (v13 / label))
+           :A (v5 / label)
+           :D (v6 / label)
+           :P (v7 / label)
+           :A (v8 / label
+                  :R (v14 / label)
+                  :E (v15 / label)
+                  :C (v16 / label)))
+    :H (v3 / label
+           :A v4
+           :P (v9 / label
+                  :C (v17 / label))
+           :A (v10 / label)
+           :A (v11 / label
+                   :R (v18 / label)
+                   :E (v19 / label)
+                   :C (v20 / label)
+                   :E (v21 / label
+                           :R (v22 / label)
+                           :E (v23 / label)
+                           :E (v24 / label
+                                   :E (v27 / label)
+                                   :C (v28 / label))
+                           :C (v25 / label)
+                           :E (v26 / label
+                                   :R (v29 / label)
+                                   :E (v30 / label)
+                                   :C (v31 / label))))))

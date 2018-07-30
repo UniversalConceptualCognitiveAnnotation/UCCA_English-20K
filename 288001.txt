@@ -1,11 +1,38 @@
 # ::id 288001
 # ::tok The hypothesis of a drifting islet or an elusive reef , put forward by people not quite in their right minds , was completely eliminated .
-(label :H label
-       :A label
-       :P label
-       :D label
-       :E label
-       :C label
-       :N label
-       :R label
-       :S label)
+(v1 / label
+    :H (v2 / label
+           :A (v3 / label
+                  :E (v6 / label)
+                  :C (v7 / label)
+                  :E (v8 / label
+                         :C (v11 / label
+                                 :R (v16 / label)
+                                 :E (v17 / label)
+                                 :E (v18 / label)
+                                 :C (v19 / label))
+                         :N (v12 / label)
+                         :C (v13 / label
+                                 :E (v20 / label)
+                                 :E (v21 / label)
+                                 :C (v22 / label)
+                                 :R v16))
+                  :E (v9 / label
+                         :A v7
+                         :P (v14 / label)
+                         :A (v15 / label
+                                 :R (v23 / label)
+                                 :C (v24 / label)
+                                 :E (v25 / label
+                                         :A v24
+                                         :D (v26 / label
+                                                 :E (v28 / label)
+                                                 :C (v29 / label))
+                                         :S (v27 / label
+                                                 :R (v30 / label)
+                                                 :E (v31 / label)
+                                                 :E (v32 / label)
+                                                 :C (v33 / label))))))
+           :P (v4 / label
+                  :C (v10 / label))
+           :D (v5 / label)))

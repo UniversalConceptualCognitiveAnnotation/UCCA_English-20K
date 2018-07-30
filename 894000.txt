@@ -1,10 +1,49 @@
 # ::id 894000
 # ::tok Seated on the afterdeck , Ned Land and I chatted about one thing and another , staring at that mysterious sea whose depths to this day are beyond the reach of human eyes .
-(label :H label
-       :A label
-       :P label
-       :C label
-       :N label
-       :R label
-       :E label
-       :D label)
+(v1 / label
+    :H (v2 / label
+           :A (v5 / label
+                  :C (v12 / label)
+                  :N (v13 / label)
+                  :C (v14 / label))
+           :P (v6 / label)
+           :A (v7 / label
+                  :R (v15 / label)
+                  :E (v16 / label)
+                  :C (v17 / label)))
+    :H (v3 / label
+           :A v5
+           :P (v8 / label)
+           :A (v9 / label
+                  :R (v18 / label)
+                  :C (v19 / label
+                          :C (v25 / label
+                                  :E (v33 / label)
+                                  :C (v34 / label))
+                          :N (v26 / label)
+                          :C (v27 / label
+                                  :E (v35 / label)
+                                  :C v34))))
+    :H (v4 / label
+           :P (v10 / label)
+           :A (v11 / label
+                   :R (v20 / label)
+                   :E (v21 / label)
+                   :E (v22 / label)
+                   :C (v23 / label)
+                   :E (v24 / label
+                           :R (v28 / label)
+                           :A (v29 / label)
+                           :D (v30 / label
+                                   :R (v36 / label)
+                                   :E (v37 / label)
+                                   :C (v38 / label))
+                           :P (v31 / label
+                                   :R (v39 / label)
+                                   :E (v40 / label)
+                                   :C (v41 / label))
+                           :A (v32 / label
+                                   :R (v42 / label)
+                                   :E (v43 / label)
+                                   :C (v44 / label))))
+           :A v5))

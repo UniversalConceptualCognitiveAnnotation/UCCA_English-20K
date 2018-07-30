@@ -1,9 +1,17 @@
 # ::id 286003
 # ::tok My departure for France was set for early May .
-(label :H label
-       :A label
-       :P label
-       :D label
-       :C label
-       :R label
-       :E label)
+(v1 / label
+    :H (v2 / label
+           :A (v3 / label)
+           :A (v4 / label
+                  :A (v7 / label)
+                  :P (v8 / label)
+                  :A (v9 / label
+                         :R (v14 / label)
+                         :C (v15 / label)))
+           :P (v5 / label
+                  :C (v10 / label))
+           :D (v6 / label
+                  :R (v11 / label)
+                  :E (v12 / label)
+                  :C (v13 / label))))

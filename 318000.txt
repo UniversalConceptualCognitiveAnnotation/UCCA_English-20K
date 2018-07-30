@@ -1,3 +1,5 @@
 # ::id 318000
 # ::tok Pierre Aronnax Professor at the Paris Museum Fifth Avenue Hotel New York
-(label :H label)
+(v1 / label
+    :H (v2 / label)
+    :H (v3 / label))

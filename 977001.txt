@@ -1,11 +1,55 @@
 # ::id 977001
 # ::tok The Abraham Lincoln would change course and race after the animal sighted , only to find an ordinary baleen whale or a common sperm whale that soon disappeared amid a chorus of curses !
-(label :H label
-       :L label
-       :A label
-       :P label
-       :D label
-       :E label
-       :C label
-       :R label
-       :N label)
+(v1 / label
+    :H (v2 / label
+           :A (v6 / label
+                  :E (v14 / label)
+                  :C (v10 / label))
+           :P (v7 / label
+                  :E (v15 / label)
+                  :E (v16 / label)
+                  :C (v17 / label)))
+    :L (v3 / label)
+    :H (v4 / label
+           :P (v8 / label)
+           :A (v9 / label
+                  :R (v18 / label)
+                  :E (v19 / label)
+                  :C (v20 / label)
+                  :E (v21 / label
+                          :A v20
+                          :A (v25 / label)
+                          :P (v26 / label)))
+           :A v10)
+    :H (v5 / label
+           :D (v11 / label)
+           :P (v12 / label
+                   :C (v22 / label))
+           :A (v13 / label
+                   :C (v23 / label
+                           :C (v27 / label
+                                   :E (v34 / label)
+                                   :E (v35 / label)
+                                   :E (v36 / label)
+                                   :C (v37 / label))
+                           :N (v28 / label)
+                           :C (v29 / label
+                                   :E (v38 / label)
+                                   :E (v39 / label)
+                                   :E (v40 / label)
+                                   :C (v41 / label)))
+                   :E (v24 / label
+                           :A v23
+                           :R (v30 / label)
+                           :D (v31 / label)
+                           :P (v32 / label)
+                           :A (v33 / label
+                                   :R (v42 / label)
+                                   :C (v43 / label
+                                           :A (v44 / label)
+                                           :A (v45 / label)
+                                           :D (v46 / label
+                                                   :E (v48 / label)
+                                                   :C (v49 / label)
+                                                   :R (v50 / label))
+                                           :P (v47 / label)))))))

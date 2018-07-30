@@ -1,8 +1,10 @@
 # ::id 898002
 # ::tok It ’s the same with whalers .
-(label :H label
-       :S label
-       :A label
-       :E label
-       :C label
-       :R label)
+(v1 / label
+    :H (v2 / label
+           :S (v3 / label
+                  :E (v5 / label)
+                  :C (v6 / label))
+           :A (v4 / label
+                  :R (v7 / label)
+                  :C (v8 / label))))

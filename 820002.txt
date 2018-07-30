@@ -1,9 +1,13 @@
 # ::id 820002
 # ::tok But there his science came to a halt .
-(label :L label
-       :H label
-       :A label
-       :P label
-       :E label
-       :C label
-       :R label)
+(v1 / label
+    :L (v2 / label)
+    :H (v3 / label
+           :A (v4 / label)
+           :A (v5 / label
+                  :E (v7 / label)
+                  :C (v8 / label))
+           :P (v6 / label
+                  :R (v9 / label)
+                  :E (v10 / label)
+                  :C (v11 / label))))

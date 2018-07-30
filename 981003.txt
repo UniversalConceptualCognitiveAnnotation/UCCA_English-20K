@@ -1,9 +1,12 @@
 # ::id 981003
 # ::tok All the same , our chances were automatically pretty limited .
-(label :L label
-       :H label
-       :A label
-       :S label
-       :D label
-       :E label
-       :C label)
+(v1 / label
+    :L (v2 / label)
+    :H (v3 / label
+           :A (v4 / label
+                  :E (v7 / label)
+                  :C (v8 / label))
+           :S (v5 / label
+                  :E (v9 / label)
+                  :C (v10 / label))
+           :D (v6 / label)))

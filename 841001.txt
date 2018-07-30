@@ -1,7 +1,11 @@
 # ::id 841001
 # ::tok “ Aye , sir , ” the engineer replied .
-(label :H label
-       :A label
-       :P label
-       :E label
-       :C label)
+(v1 / label
+    :H (v2 / label)
+    :H (v3 / label
+           :A v2
+           :A (v4 / label)
+           :A (v5 / label
+                  :E (v7 / label)
+                  :C (v8 / label))
+           :P (v6 / label)))

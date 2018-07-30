@@ -1,11 +1,33 @@
 # ::id 972002
 # ::tok Many of our sailors swore that the monster couldn ’t negotiate this passageway simply because “ he ’s too big for it ! ”
-(label :H label
-       :L label
-       :A label
-       :P label
-       :E label
-       :C label
-       :S label
-       :D label
-       :R label)
+(v1 / label
+    :H (v2 / label
+           :A (v5 / label
+                  :E (v13 / label
+                          :C (v24 / label)
+                          :R (v25 / label))
+                  :E (v14 / label)
+                  :C (v15 / label))
+           :P (v6 / label)
+           :A (v7 / label
+                  :A (v16 / label
+                          :E (v26 / label)
+                          :C (v27 / label))
+                  :P (v17 / label
+                          :E (v28 / label)
+                          :C (v29 / label))
+                  :D (v18 / label)
+                  :A (v19 / label
+                          :E (v30 / label)
+                          :C (v31 / label))))
+    :L (v3 / label
+           :E (v8 / label)
+           :C (v9 / label))
+    :H (v4 / label
+           :A (v10 / label)
+           :S (v11 / label
+                   :E (v20 / label)
+                   :C (v21 / label))
+           :A (v12 / label
+                   :R (v22 / label)
+                   :C (v23 / label))))

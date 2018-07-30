@@ -1,12 +1,69 @@
 # ::id 41002
 # ::tok So , unless this reef was subject to the intermittent eruptions of a geyser , the Governor Higginson had fair and honest dealings with some aquatic mammal , until then unknown , that could spurt from its blowholes waterspouts mixed with air and steam .
-(label :L label
-       :H label
-       :A label
-       :S label
-       :P label
-       :E label
-       :C label
-       :R label
-       :N label
-       :D label)
+(v1 / label
+    :L (v2 / label)
+    :L (v3 / label)
+    :H (v4 / label
+           :A (v6 / label
+                  :E (v12 / label)
+                  :C (v13 / label))
+           :S (v7 / label
+                  :C (v14 / label))
+           :A (v8 / label
+                  :R (v15 / label)
+                  :E (v16 / label)
+                  :E (v17 / label)
+                  :C (v18 / label)
+                  :E (v19 / label
+                          :R (v30 / label)
+                          :E (v31 / label)
+                          :C (v32 / label))))
+    :H (v5 / label
+           :A (v9 / label
+                  :E (v20 / label
+                          :E (v33 / label)
+                          :C (v34 / label))
+                  :C (v21 / label))
+           :P (v10 / label
+                   :E (v22 / label)
+                   :C (v23 / label
+                           :C (v35 / label
+                                   :C (v44 / label)
+                                   :E (v45 / label))
+                           :N (v36 / label)
+                           :C (v37 / label
+                                   :E (v46 / label)
+                                   :C v44)))
+           :A (v11 / label
+                   :R (v24 / label)
+                   :E (v25 / label)
+                   :E (v26 / label)
+                   :C (v27 / label)
+                   :E (v28 / label
+                           :A v27
+                           :A (v38 / label)
+                           :D (v39 / label
+                                   :E (v47 / label)
+                                   :C (v48 / label))
+                           :P (v40 / label))
+                   :E (v29 / label
+                           :A v27
+                           :P (v41 / label
+                                   :E (v49 / label)
+                                   :C (v50 / label))
+                           :A (v42 / label
+                                   :R (v51 / label)
+                                   :E (v52 / label)
+                                   :C (v53 / label))
+                           :A (v43 / label
+                                   :C (v54 / label)
+                                   :E (v55 / label
+                                           :A v54
+                                           :A (v56 / label)
+                                           :P (v57 / label)
+                                           :A (v58 / label
+                                                   :R (v59 / label)
+                                                   :C (v60 / label
+                                                           :C (v61 / label)
+                                                           :N (v62 / label)
+                                                           :C (v63 / label)))))))))

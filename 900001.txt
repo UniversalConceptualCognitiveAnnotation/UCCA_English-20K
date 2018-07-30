@@ -1,9 +1,20 @@
 # ::id 900001
 # ::tok ” “ Yes , Ned , I repeat it with a conviction backed by factual logic .
-(label :H label
-       :A label
-       :P label
-       :D label
-       :R label
-       :E label
-       :C label)
+(v1 / label
+    :H (v2 / label)
+    :H (v3 / label
+           :A (v4 / label)
+           :A (v5 / label)
+           :P (v6 / label)
+           :A (v7 / label)
+           :D (v8 / label
+                  :R (v9 / label)
+                  :E (v10 / label)
+                  :C (v11 / label)
+                  :E (v12 / label
+                          :A v11
+                          :P (v13 / label)
+                          :A (v14 / label
+                                  :R (v15 / label)
+                                  :E (v16 / label)
+                                  :C (v17 / label))))))

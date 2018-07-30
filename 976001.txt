@@ -1,11 +1,51 @@
 # ::id 976001
 # ::tok Snatching only a few minutes for meals and a few hours for sleep , come rain or come shine , I no longer left the ship ’s deck .
-(label :H label
-       :L label
-       :A label
-       :P label
-       :D label
-       :S label
-       :E label
-       :C label
-       :R label)
+(v1 / label
+    :H (v2 / label
+           :A (v9 / label)
+           :P (v10 / label)
+           :D (v11 / label)
+           :A (v12 / label
+                   :E (v23 / label)
+                   :E (v24 / label)
+                   :C (v25 / label))
+           :A (v13 / label
+                   :R (v26 / label)
+                   :C (v27 / label
+                           :A (v41 / label)
+                           :P (v42 / label))))
+    :L (v3 / label)
+    :H (v4 / label
+           :A (v14 / label)
+           :A (v15 / label
+                   :E (v28 / label)
+                   :E (v29 / label)
+                   :C (v30 / label))
+           :A (v16 / label
+                   :R (v31 / label)
+                   :C (v32 / label
+                           :A (v43 / label)
+                           :P (v44 / label)))
+           :P v10
+           :D v11)
+    :H (v5 / label
+           :S (v17 / label
+                   :E (v33 / label)
+                   :C (v34 / label)))
+    :L (v6 / label)
+    :H (v7 / label
+           :S (v18 / label
+                   :E (v35 / label)
+                   :C (v36 / label)))
+    :H (v8 / label
+           :A (v19 / label)
+           :D (v20 / label
+                   :E (v37 / label)
+                   :C (v38 / label))
+           :P (v21 / label)
+           :A (v22 / label
+                   :E (v39 / label
+                           :E (v45 / label)
+                           :C (v46 / label)
+                           :R (v47 / label))
+                   :C (v40 / label))))

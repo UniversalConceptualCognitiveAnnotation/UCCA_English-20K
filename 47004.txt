@@ -1,6 +1,8 @@
 # ::id 47004
 # ::tok Wit had defeated science .
-(label :H label
-       :A label
-       :P label
-       :C label)
+(v1 / label
+    :H (v2 / label
+           :A (v3 / label)
+           :P (v4 / label
+                  :C (v6 / label))
+           :A (v5 / label)))

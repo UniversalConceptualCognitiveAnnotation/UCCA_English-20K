@@ -1,8 +1,35 @@
 # ::id 831000
 # ::tok For a fare of twenty francs , the vehicle went down Broadway to Union Square , took Fourth Ave . to its junction with Bowery St .
-(label :H label
-       :A label
-       :P label
-       :R label
-       :E label
-       :C label)
+(v1 / label
+    :H (v2 / label
+           :A (v4 / label
+                  :R (v12 / label)
+                  :E (v13 / label)
+                  :C (v14 / label)
+                  :E (v15 / label
+                          :R (v23 / label)
+                          :E (v24 / label)
+                          :C (v25 / label)))
+           :A (v5 / label
+                  :E (v16 / label)
+                  :C (v11 / label))
+           :P (v6 / label)
+           :A (v7 / label)
+           :A (v8 / label
+                  :R (v17 / label)
+                  :E (v18 / label)
+                  :C (v19 / label)))
+    :H (v3 / label
+           :P (v9 / label)
+           :A (v10 / label
+                   :E (v20 / label
+                           :R (v26 / label)
+                           :E (v27 / label)
+                           :C (v28 / label)
+                           :E (v29 / label
+                                   :R (v30 / label)
+                                   :E (v31 / label)
+                                   :C (v32 / label)))
+                   :E (v21 / label)
+                   :C (v22 / label))
+           :A v11))

@@ -1,9 +1,70 @@
 # ::id 47003
 # ::tok Finally , in a much - feared satirical journal , an article by its most popular columnist finished off the monster for good , spurning it in the style of Hippolytus repulsing the amorous advances of his stepmother Phaedra , and giving the creature its quietus amid a universal burst of laughter .
-(label :L label
-       :H label
-       :A label
-       :P label
-       :R label
-       :E label
-       :C label)
+(v1 / label
+    :L (v2 / label)
+    :H (v3 / label
+           :A (v7 / label
+                  :R (v20 / label)
+                  :E (v21 / label)
+                  :E (v22 / label
+                          :E (v42 / label)
+                          :C (v43 / label))
+                  :E (v23 / label)
+                  :C (v24 / label))
+           :A (v8 / label
+                  :E (v25 / label)
+                  :C (v15 / label)
+                  :E (v26 / label
+                          :R (v44 / label)
+                          :E (v45 / label)
+                          :E (v46 / label)
+                          :E (v47 / label)
+                          :C (v48 / label)))
+           :P (v9 / label)
+           :A (v10 / label
+                   :E (v27 / label)
+                   :C (v28 / label))
+           :A (v11 / label
+                   :C (v29 / label)))
+    :H (v4 / label
+           :P (v12 / label)
+           :A (v13 / label)
+           :A (v14 / label
+                   :E (v30 / label
+                           :R (v49 / label)
+                           :E (v50 / label)
+                           :C (v51 / label)
+                           :R (v52 / label))
+                   :C (v31 / label)
+                   :E (v32 / label
+                           :A v31
+                           :P (v53 / label)
+                           :A (v54 / label
+                                   :E (v57 / label)
+                                   :E (v58 / label)
+                                   :C (v59 / label)
+                                   :E (v60 / label
+                                           :R (v61 / label)
+                                           :E (v62 / label
+                                                   :E (v64 / label)
+                                                   :C (v65 / label))
+                                           :C (v63 / label)))))
+           :A v15)
+    :L (v5 / label)
+    :H (v6 / label
+           :P (v16 / label)
+           :A (v17 / label
+                   :E (v33 / label)
+                   :C (v34 / label))
+           :A (v18 / label
+                   :E (v35 / label)
+                   :C (v36 / label))
+           :A (v19 / label
+                   :R (v37 / label)
+                   :E (v38 / label)
+                   :E (v39 / label)
+                   :C (v40 / label)
+                   :E (v41 / label
+                           :R (v55 / label)
+                           :C (v56 / label)))
+           :A v15))

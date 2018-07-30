@@ -1,10 +1,50 @@
 # ::id 969001
 # ::tok But one of them , the captain of the Monroe , knew that Ned Land had shipped aboard the Abraham Lincoln and asked his help in hunting a baleen whale that was in sight .
-(label :L label
-       :H label
-       :A label
-       :S label
-       :P label
-       :E label
-       :C label
-       :R label)
+(v1 / label
+    :L (v2 / label)
+    :H (v3 / label
+           :A (v6 / label
+                  :E (v13 / label
+                          :E (v21 / label)
+                          :C (v22 / label)
+                          :E (v23 / label
+                                  :R (v32 / label)
+                                  :E (v33 / label)
+                                  :C (v34 / label)))
+                  :C (v12 / label)
+                  :E (v14 / label
+                          :R (v24 / label)
+                          :C (v25 / label)))
+           :S (v7 / label)
+           :A (v8 / label
+                  :A (v15 / label)
+                  :P (v16 / label
+                          :C (v26 / label))
+                  :A (v17 / label
+                          :R (v27 / label)
+                          :E (v28 / label)
+                          :C (v29 / label))))
+    :L (v4 / label)
+    :H (v5 / label
+           :A (v9 / label)
+           :P (v10 / label)
+           :A (v11 / label
+                   :A (v18 / label)
+                   :P (v19 / label)
+                   :A (v20 / label
+                           :P (v30 / label
+                                   :R (v35 / label)
+                                   :C (v36 / label))
+                           :A (v31 / label
+                                   :E (v37 / label)
+                                   :E (v38 / label
+                                           :A (v41 / label)
+                                           :R (v42 / label)
+                                           :P (v43 / label
+                                                   :R (v44 / label)
+                                                   :C (v45 / label))
+                                           :A (v40 / label))
+                                   :E (v39 / label)
+                                   :C v40)
+                           :A v12))
+           :A v12))

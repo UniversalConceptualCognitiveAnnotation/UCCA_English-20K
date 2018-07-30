@@ -1,9 +1,22 @@
 # ::id 58002
 # ::tok Fortunately this compartment didn\u2019t contain the boilers , because their furnaces would have been abruptly extinguished .
-(label :H label
-       :L label
-       :D label
-       :A label
-       :P label
-       :E label
-       :C label)
+(v1 / label
+    :H (v2 / label
+           :D (v5 / label)
+           :A (v6 / label
+                  :E (v12 / label)
+                  :C (v13 / label))
+           :P (v7 / label
+                  :C (v14 / label))
+           :A (v8 / label
+                  :E (v15 / label)
+                  :C (v16 / label)))
+    :L (v3 / label)
+    :H (v4 / label
+           :A (v9 / label
+                  :E (v17 / label)
+                  :C (v18 / label))
+           :P (v10 / label
+                   :E (v19 / label)
+                   :C (v20 / label))
+           :D (v11 / label)))

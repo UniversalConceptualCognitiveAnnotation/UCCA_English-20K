@@ -1,10 +1,47 @@
 # ::id 881003
 # ::tok As often as the sun swept over its daily arc , the masts were populated with sailors whose feet itched and couldn ’t hold still on the planking of the deck below !
-(label :L label
-       :H label
-       :R label
-       :C label
-       :A label
-       :P label
-       :E label
-       :D label)
+(v1 / label
+    :L (v2 / label
+           :R (v5 / label)
+           :C (v6 / label)
+           :R (v7 / label))
+    :H (v3 / label
+           :A (v8 / label
+                  :E (v14 / label)
+                  :C (v15 / label))
+           :P (v9 / label)
+           :A (v10 / label
+                   :R (v16 / label)
+                   :E (v17 / label)
+                   :E (v18 / label)
+                   :C (v19 / label)))
+    :H (v4 / label
+           :A (v11 / label
+                   :E (v20 / label)
+                   :C (v21 / label))
+           :P (v12 / label
+                   :C (v22 / label))
+           :A (v13 / label
+                   :R (v23 / label)
+                   :C (v24 / label)
+                   :E (v25 / label
+                           :H (v26 / label
+                                   :R (v29 / label)
+                                   :A (v30 / label
+                                           :E v24
+                                           :C (v35 / label))
+                                   :P (v31 / label))
+                           :L (v27 / label)
+                           :H (v28 / label
+                                   :P (v32 / label
+                                           :C (v36 / label))
+                                   :D (v33 / label)
+                                   :A (v34 / label
+                                           :R (v37 / label)
+                                           :E (v38 / label)
+                                           :C (v39 / label)
+                                           :E (v40 / label
+                                                   :R (v41 / label)
+                                                   :E (v42 / label)
+                                                   :C (v43 / label)
+                                                   :E (v44 / label))))))))

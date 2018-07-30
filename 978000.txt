@@ -1,8 +1,10 @@
 # ::id 978000
 # ::tok However , the weather held good .
-(label :L label
-       :H label
-       :A label
-       :S label
-       :E label
-       :C label)
+(v1 / label
+    :L (v2 / label)
+    :H (v3 / label
+           :A (v4 / label
+                  :E (v6 / label)
+                  :C (v7 / label))
+           :S (v5 / label
+                  :C (v8 / label))))

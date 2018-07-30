@@ -1,11 +1,56 @@
 # ::id 309000
 # ::tok These last words were cowardly of me ; but as far as I could , I wanted to protect my professorial dignity and not lay myself open to laughter from the Americans , who when they do laugh , laugh raucously .
-(label :H label
-       :L label
-       :A label
-       :S label
-       :R label
-       :C label
-       :P label
-       :D label
-       :E label)
+(v1 / label
+    :H (v2 / label
+           :A (v9 / label
+                  :E (v23 / label)
+                  :E (v24 / label)
+                  :C (v25 / label))
+           :S (v10 / label
+                   :C (v26 / label))
+           :A (v11 / label
+                   :R (v27 / label)
+                   :C (v28 / label)))
+    :L (v3 / label)
+    :L (v4 / label
+           :R (v12 / label)
+           :C (v13 / label)
+           :R (v14 / label))
+    :H (v5 / label
+           :A (v15 / label
+                   :E (v29 / label)
+                   :E (v30 / label)
+                   :C (v31 / label))
+           :A (v16 / label)
+           :P (v17 / label
+                   :C (v32 / label)
+                   :E (v33 / label)))
+    :H (v6 / label
+           :A (v18 / label)
+           :P (v19 / label
+                   :E (v34 / label)
+                   :C v32)
+           :A v15)
+    :L (v7 / label)
+    :H (v8 / label
+           :D (v20 / label)
+           :P (v21 / label
+                   :E (v35 / label)
+                   :C (v36 / label)
+                   :E v34)
+           :A (v22 / label
+                   :R (v37 / label)
+                   :E (v38 / label)
+                   :C (v39 / label)
+                   :E (v40 / label
+                           :R (v41 / label)
+                           :L (v42 / label)
+                           :H (v43 / label
+                                   :A (v45 / label)
+                                   :P (v46 / label
+                                           :C (v49 / label)))
+                           :H (v44 / label
+                                   :P (v47 / label)
+                                   :D (v48 / label)
+                                   :A v45)))
+           :A v18))

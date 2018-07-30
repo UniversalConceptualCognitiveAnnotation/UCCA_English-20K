@@ -1,9 +1,17 @@
 # ::id 829000
 # ::tok A quarter of an hour later , our trunks were ready .
-(label :H label
-       :D label
-       :A label
-       :S label
-       :E label
-       :R label
-       :C label)
+(v1 / label
+    :H (v2 / label
+           :D (v3 / label
+                  :E (v6 / label
+                         :E (v13 / label)
+                         :C (v14 / label)
+                         :R (v15 / label))
+                  :R (v7 / label)
+                  :E (v8 / label)
+                  :C (v9 / label))
+           :A (v4 / label
+                  :E (v10 / label)
+                  :C (v11 / label))
+           :S (v5 / label
+                  :C (v12 / label))))

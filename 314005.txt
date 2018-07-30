@@ -1,9 +1,33 @@
 # ::id 314005
 # ::tok Accordingly , the wags claimed that this slippery rascal had waylaid some passing telegram and was making the most of it .
-(label :L label
-       :H label
-       :A label
-       :P label
-       :E label
-       :C label
-       :R label)
+(v1 / label
+    :L (v2 / label)
+    :H (v3 / label
+           :A (v4 / label
+                  :E (v7 / label)
+                  :C (v8 / label))
+           :P (v5 / label)
+           :A (v6 / label
+                  :H (v9 / label
+                         :A (v12 / label
+                                 :E (v18 / label)
+                                 :E (v19 / label)
+                                 :C (v17 / label))
+                         :P (v13 / label
+                                 :C (v20 / label))
+                         :A (v14 / label
+                                 :E (v21 / label)
+                                 :E (v22 / label
+                                         :A (v23 / label)
+                                         :P (v29 / label))
+                                 :C v23))
+                  :L (v10 / label)
+                  :H (v11 / label
+                          :P (v15 / label
+                                  :E (v24 / label)
+                                  :E (v25 / label)
+                                  :C (v26 / label))
+                          :A (v16 / label
+                                  :R (v27 / label)
+                                  :C (v28 / label))
+                          :A v17))))

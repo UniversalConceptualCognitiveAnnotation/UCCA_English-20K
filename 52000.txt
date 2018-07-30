@@ -1,8 +1,21 @@
 # ::id 52000
 # ::tok No one is unaware of the name of that famous English shipowner , Cunard .
-(label :H label
-       :A label
-       :S label
-       :E label
-       :C label
-       :R label)
+(v1 / label
+    :H (v2 / label
+           :A (v3 / label
+                  :E (v6 / label)
+                  :C (v7 / label))
+           :S (v4 / label
+                  :C (v8 / label))
+           :A (v5 / label
+                  :R (v9 / label)
+                  :E (v10 / label)
+                  :C (v11 / label)
+                  :E (v12 / label
+                          :R (v13 / label)
+                          :E (v14 / label
+                                  :E (v16 / label)
+                                  :E (v17 / label)
+                                  :E (v18 / label)
+                                  :C (v19 / label))
+                          :C (v15 / label)))))

@@ -1,8 +1,10 @@
 # ::id 826008
 # ::tok ” “ What about master ’s collections ?
-(label :H label
-       :S label
-       :A label
-       :E label
-       :C label
-       :R label)
+(v1 / label
+    :H (v2 / label
+           :S (v3 / label)
+           :A (v4 / label
+                  :E (v5 / label
+                         :C (v7 / label)
+                         :R (v8 / label))
+                  :C (v6 / label))))

@@ -1,8 +1,12 @@
 # ::id 316007
 # ::tok But Commander Farragut wanted nothing more than to go forth .
-(label :L label
-       :H label
-       :A label
-       :P label
-       :D label
-       :C label)
+(v1 / label
+    :L (v2 / label)
+    :H (v3 / label
+           :A (v4 / label)
+           :P (v5 / label)
+           :A (v6 / label
+                  :A v4
+                  :D (v7 / label)
+                  :P (v8 / label
+                         :C (v9 / label)))))

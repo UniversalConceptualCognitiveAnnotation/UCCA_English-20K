@@ -1,12 +1,61 @@
 # ::id 969003
 # ::tok And the Canadian had such good luck that with a right - and - left shot , he harpooned not one whale but two , striking the first straight to the heart and catching the other after a few minutes’ chase !
-(label :L label
-       :H label
-       :A label
-       :S label
-       :P label
-       :D label
-       :E label
-       :C label
-       :R label
-       :N label)
+(v1 / label
+    :L (v2 / label)
+    :H (v3 / label
+           :A (v11 / label
+                   :E (v25 / label)
+                   :C (v26 / label))
+           :S (v12 / label
+                   :E (v27 / label)
+                   :E (v28 / label)
+                   :C (v29 / label)))
+    :L (v4 / label)
+    :H (v5 / label
+           :A (v13 / label
+                   :R (v30 / label)
+                   :E (v31 / label)
+                   :E (v32 / label
+                           :C (v47 / label)
+                           :N (v48 / label)
+                           :C (v49 / label))
+                   :C (v33 / label))
+           :A (v14 / label)
+           :P (v15 / label)
+           :A (v16 / label
+                   :C (v34 / label
+                           :E (v50 / label)
+                           :E (v51 / label)
+                           :C (v24 / label))
+                   :N (v35 / label)
+                   :C (v36 / label
+                           :E (v52 / label)
+                           :C v24)))
+    :H (v6 / label
+           :P (v17 / label)
+           :A (v18 / label
+                   :E (v37 / label)
+                   :E (v38 / label)
+                   :C v24)
+           :A (v19 / label
+                   :R (v39 / label)
+                   :R (v40 / label)
+                   :E (v41 / label)
+                   :C (v42 / label))
+           :A v14)
+    :L (v7 / label)
+    :H (v8 / label
+           :P (v20 / label)
+           :A (v21 / label
+                   :E (v43 / label)
+                   :E (v44 / label)
+                   :C v24)
+           :A v14)
+    :L (v9 / label)
+    :H (v10 / label
+            :D (v22 / label
+                    :E (v45 / label)
+                    :C (v46 / label))
+            :P (v23 / label)
+            :A v14
+            :A v24))

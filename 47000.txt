@@ -1,9 +1,12 @@
 # ::id 47000
 # ::tok For six months the war seesawed .
-(label :H label
-       :D label
-       :A label
-       :P label
-       :R label
-       :E label
-       :C label)
+(v1 / label
+    :H (v2 / label
+           :D (v3 / label
+                  :R (v6 / label)
+                  :E (v7 / label)
+                  :C (v8 / label))
+           :A (v4 / label
+                  :E (v9 / label)
+                  :C (v10 / label))
+           :P (v5 / label)))

@@ -1,12 +1,33 @@
 # ::id 905005
 # ::tok When the inside and outside pressures are in perfect balance , they neutralize each other and allow you to tolerate them without discomfort .
-(label :L label
-       :H label
-       :A label
-       :S label
-       :P label
-       :D label
-       :C label
-       :N label
-       :R label
-       :E label)
+(v1 / label
+    :L (v2 / label)
+    :H (v3 / label
+           :A (v7 / label
+                  :C (v16 / label
+                          :C (v26 / label)
+                          :E (v27 / label)
+                          :E (v28 / label))
+                  :N (v17 / label)
+                  :C (v18 / label
+                          :E (v29 / label)
+                          :C v26
+                          :E v27))
+           :S (v8 / label
+                  :R (v19 / label)
+                  :E (v20 / label)
+                  :C (v21 / label)))
+    :H (v4 / label
+           :A (v9 / label)
+           :P (v10 / label)
+           :D (v11 / label))
+    :L (v5 / label)
+    :H (v6 / label
+           :P (v12 / label
+                   :E (v22 / label)
+                   :C (v23 / label))
+           :A (v13 / label)
+           :A (v14 / label)
+           :D (v15 / label
+                   :R (v24 / label)
+                   :C (v25 / label))))

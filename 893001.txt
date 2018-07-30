@@ -1,9 +1,31 @@
 # ::id 893001
 # ::tok We had crossed the Tropic of Capricorn , and the Strait of Magellan opened less than 700 miles to the south .
-(label :H label
-       :L label
-       :A label
-       :P label
-       :C label
-       :E label
-       :R label)
+(v1 / label
+    :H (v2 / label
+           :A (v5 / label)
+           :P (v6 / label
+                  :C (v11 / label))
+           :A (v7 / label
+                  :E (v12 / label)
+                  :C (v13 / label)
+                  :E (v14 / label
+                          :R (v22 / label)
+                          :C (v23 / label))))
+    :L (v3 / label)
+    :H (v4 / label
+           :A (v8 / label
+                  :E (v15 / label)
+                  :C (v16 / label)
+                  :E (v17 / label
+                          :R (v24 / label)
+                          :C (v25 / label)))
+           :P (v9 / label)
+           :A (v10 / label
+                   :E (v18 / label
+                           :R (v26 / label)
+                           :E (v27 / label)
+                           :C (v28 / label))
+                   :E (v19 / label
+                           :C (v29 / label))
+                   :E (v20 / label)
+                   :C (v21 / label))))

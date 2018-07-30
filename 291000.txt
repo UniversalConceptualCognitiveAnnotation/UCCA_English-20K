@@ -1,11 +1,40 @@
 # ::id 291000
 # ::tok Now then , although the latter hypothesis was completely admissible , it couldn ’t stand up to inquiries conducted in both the New World and the Old .
-(label :L label
-       :H label
-       :A label
-       :P label
-       :D label
-       :E label
-       :C label
-       :R label
-       :N label)
+(v1 / label
+    :L (v2 / label)
+    :L (v3 / label)
+    :H (v4 / label
+           :A (v6 / label)
+           :A (v7 / label
+                  :E (v14 / label)
+                  :E (v15 / label)
+                  :C (v16 / label))
+           :P (v8 / label
+                  :C (v17 / label))
+           :D (v9 / label))
+    :H (v5 / label
+           :A (v10 / label)
+           :P (v11 / label
+                   :E (v18 / label)
+                   :C (v19 / label))
+           :D (v12 / label)
+           :A (v13 / label
+                   :R (v20 / label)
+                   :C (v21 / label)
+                   :E (v22 / label
+                           :A v21
+                           :A (v23 / label)
+                           :P (v24 / label)
+                           :A (v25 / label
+                                   :R (v26 / label)
+                                   :E (v27 / label)
+                                   :C (v28 / label
+                                           :C (v29 / label
+                                                   :E (v32 / label)
+                                                   :E (v33 / label)
+                                                   :C (v34 / label))
+                                           :N (v30 / label)
+                                           :C (v31 / label
+                                                   :E (v35 / label)
+                                                   :E (v36 / label)
+                                                   :C v34)))))))

@@ -1,10 +1,55 @@
 # ::id 315001
 # ::tok And impatience grew until , on June 2 , word came that the Tampico , a steamer on the San Francisco line sailing from California to Shanghai , had sighted the animal again , three weeks before in the northerly seas of the Pacific .
-(label :L label
-       :H label
-       :A label
-       :P label
-       :D label
-       :R label
-       :C label
-       :E label)
+(v1 / label
+    :L (v2 / label)
+    :H (v3 / label
+           :A (v8 / label)
+           :P (v9 / label))
+    :L (v4 / label)
+    :H (v5 / label
+           :A (v7 / label
+                  :A (v12 / label
+                          :E (v20 / label
+                                  :E (v34 / label)
+                                  :C (v35 / label)
+                                  :E (v36 / label
+                                          :R (v41 / label)
+                                          :E (v42 / label)
+                                          :E (v43 / label)
+                                          :C (v44 / label))
+                                  :E (v37 / label
+                                          :A v35
+                                          :P (v45 / label)
+                                          :A (v46 / label
+                                                  :R (v48 / label)
+                                                  :C (v49 / label))
+                                          :A (v47 / label
+                                                  :R (v50 / label)
+                                                  :C (v51 / label))))
+                          :E (v21 / label)
+                          :C (v22 / label))
+                  :P (v13 / label
+                          :C (v23 / label))
+                  :A (v14 / label
+                          :E (v24 / label)
+                          :C (v25 / label))
+                  :D (v15 / label)
+                  :D (v16 / label
+                          :R (v26 / label)
+                          :E (v27 / label)
+                          :C (v28 / label))
+                  :A (v17 / label
+                          :R (v29 / label)
+                          :E (v30 / label)
+                          :E (v31 / label)
+                          :C (v32 / label)
+                          :E (v33 / label
+                                  :R (v38 / label)
+                                  :E (v39 / label)
+                                  :C (v40 / label))))
+           :D (v10 / label
+                   :R (v18 / label)
+                   :C (v19 / label))
+           :P (v11 / label))
+    :L (v6 / label)
+    :H v7)

@@ -1,8 +1,14 @@
 # ::id 833001
 # ::tok “ The same , ” I replied .
-(label :H label
-       :A label
-       :S label
-       :P label
-       :E label
-       :C label)
+(v1 / label
+    :H (v2 / label
+           :A (v4 / label)
+           :S (v5 / label)
+           :A (v6 / label
+                  :E (v10 / label)
+                  :C (v11 / label)))
+    :H (v3 / label
+           :A v2
+           :A (v7 / label)
+           :A (v8 / label)
+           :P (v9 / label)))

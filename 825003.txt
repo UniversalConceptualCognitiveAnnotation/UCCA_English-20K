@@ -1,7 +1,9 @@
 # ::id 825003
 # ::tok What would Conseil say ?
-(label :H label
-       :A label
-       :P label
-       :E label
-       :C label)
+(v1 / label
+    :H (v2 / label
+           :A (v3 / label)
+           :P (v4 / label
+                  :E (v6 / label)
+                  :C (v7 / label))
+           :A (v5 / label)))

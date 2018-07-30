@@ -1,11 +1,76 @@
 # ::id 983005
 # ::tok Twenty times a day some error in perception , or the optical illusions of some sailor perched in the crosstrees , would cause intolerable anguish , and this emotion , repeated twenty times over , kept us in a state of irritability so intense that a reaction was bound to follow .
-(label :H label
-       :L label
-       :D label
-       :A label
-       :P label
-       :E label
-       :C label
-       :N label
-       :R label)
+(v1 / label
+    :H (v2 / label
+           :D (v8 / label
+                  :E (v21 / label
+                          :E (v42 / label)
+                          :C (v43 / label))
+                  :E (v22 / label)
+                  :C (v23 / label))
+           :A (v9 / label
+                  :C (v24 / label
+                          :E (v44 / label)
+                          :C (v45 / label)
+                          :E (v46 / label
+                                  :R (v59 / label)
+                                  :C (v60 / label
+                                          :A (v65 / label)
+                                          :P (v66 / label))))
+                  :N (v25 / label)
+                  :C (v26 / label
+                          :E (v47 / label)
+                          :E (v48 / label)
+                          :C (v49 / label)
+                          :E (v50 / label
+                                  :R (v61 / label)
+                                  :E (v62 / label)
+                                  :C (v63 / label)
+                                  :E (v64 / label
+                                          :A v63
+                                          :P (v67 / label)
+                                          :A (v68 / label
+                                                  :R (v69 / label)
+                                                  :E (v70 / label)
+                                                  :C (v71 / label))))))
+           :P (v10 / label
+                   :E (v27 / label)
+                   :C (v28 / label))
+           :A (v11 / label
+                   :E (v29 / label
+                           :A (v30 / label)
+                           :A (v51 / label)
+                           :P (v52 / label))
+                   :C v30))
+    :L (v3 / label)
+    :H (v4 / label
+           :A (v12 / label
+                   :E (v31 / label)
+                   :C (v18 / label))
+           :P (v13 / label)
+           :A (v14 / label)
+           :A (v15 / label
+                   :E (v32 / label
+                           :R (v53 / label)
+                           :E (v54 / label)
+                           :C (v55 / label)
+                           :R (v56 / label))
+                   :C (v33 / label)
+                   :E (v34 / label
+                           :E (v57 / label)
+                           :C (v58 / label))))
+    :H (v5 / label
+           :P (v16 / label)
+           :D (v17 / label
+                   :R (v35 / label)
+                   :E (v36 / label)
+                   :C (v37 / label))
+           :A v18)
+    :L (v6 / label)
+    :H (v7 / label
+           :A (v19 / label
+                   :E (v38 / label)
+                   :C (v39 / label))
+           :P (v20 / label
+                   :E (v40 / label)
+                   :C (v41 / label))))

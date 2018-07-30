@@ -1,7 +1,10 @@
 # ::id 316003
 # ::tok His coal bunkers were overflowing .
-(label :H label
-       :A label
-       :S label
-       :E label
-       :C label)
+(v1 / label
+    :H (v2 / label
+           :A (v3 / label
+                  :E (v5 / label)
+                  :E (v6 / label)
+                  :C (v7 / label))
+           :S (v4 / label
+                  :C (v8 / label))))

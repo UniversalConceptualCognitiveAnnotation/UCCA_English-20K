@@ -1,11 +1,51 @@
 # ::id 884003
 # ::tok On the forecastle was mounted the latest model breech - loading cannon , very heavy of barrel and narrow of bore , a weapon that would figure in the Universal Exhibition of 1867 .
-(label :H label
-       :A label
-       :P label
-       :R label
-       :E label
-       :C label
-       :D label
-       :N label
-       :S label)
+(v1 / label
+    :H (v2 / label
+           :A (v3 / label)
+           :A (v4 / label
+                  :R (v7 / label)
+                  :E (v8 / label)
+                  :C (v9 / label))
+           :P (v5 / label
+                  :C (v10 / label))
+           :A (v6 / label
+                  :E (v11 / label)
+                  :E (v12 / label)
+                  :E (v13 / label)
+                  :E (v14 / label
+                          :A (v15 / label)
+                          :A (v18 / label)
+                          :D (v19 / label)
+                          :P (v20 / label))
+                  :C v15
+                  :E (v16 / label
+                          :C (v21 / label
+                                  :D (v27 / label)
+                                  :S (v28 / label)
+                                  :A (v29 / label
+                                          :R (v35 / label)
+                                          :C (v36 / label)))
+                          :N (v22 / label)
+                          :C (v23 / label
+                                  :S (v30 / label)
+                                  :A (v31 / label
+                                          :R (v37 / label)
+                                          :C (v38 / label))
+                                  :D v27))
+                  :E (v17 / label
+                          :E (v24 / label)
+                          :C (v25 / label)
+                          :E (v26 / label
+                                  :R (v32 / label)
+                                  :P (v33 / label
+                                          :E (v39 / label)
+                                          :C (v40 / label))
+                                  :A (v34 / label
+                                          :R (v41 / label)
+                                          :E (v42 / label)
+                                          :E (v43 / label
+                                                  :R (v46 / label)
+                                                  :C (v47 / label))
+                                          :E (v44 / label)
+                                          :C (v45 / label)))))))

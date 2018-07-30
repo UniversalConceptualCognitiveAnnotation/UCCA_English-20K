@@ -1,10 +1,16 @@
 # ::id 979003
 # ::tok A hundred times I chided him for his unconcern .
-(label :H label
-       :L label
-       :D label
-       :A label
-       :P label
-       :S label
-       :E label
-       :C label)
+(v1 / label
+    :H (v2 / label
+           :D (v5 / label
+                  :E (v11 / label
+                          :E (v13 / label)
+                          :C (v14 / label))
+                  :C (v12 / label))
+           :A (v6 / label)
+           :P (v7 / label)
+           :A (v8 / label))
+    :L (v3 / label)
+    :H (v4 / label
+           :A (v9 / label)
+           :S (v10 / label)))

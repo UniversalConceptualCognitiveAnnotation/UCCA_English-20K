@@ -1,8 +1,18 @@
 # ::id 830001
 # ::tok I went down a short stair leading to the ground floor .
-(label :H label
-       :A label
-       :P label
-       :E label
-       :C label
-       :R label)
+(v1 / label
+    :H (v2 / label
+           :A (v3 / label)
+           :P (v4 / label)
+           :A (v5 / label
+                  :E (v6 / label)
+                  :E (v7 / label)
+                  :C (v8 / label)
+                  :E (v9 / label
+                         :A v8
+                         :P (v10 / label)
+                         :A (v11 / label
+                                 :R (v12 / label)
+                                 :E (v13 / label)
+                                 :E (v14 / label)
+                                 :C (v15 / label))))))

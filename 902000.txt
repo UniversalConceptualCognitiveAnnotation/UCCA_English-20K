@@ -1,9 +1,62 @@
 # ::id 902000
 # ::tok “ Note well , my fine Canadian , ” I went on , “ if such an animal exists , if it lives deep in the ocean , if it frequents the liquid strata located miles beneath the surface of the water , it needs to have a constitution so solid , it defies all comparison .
-(label :H label
-       :L label
-       :A label
-       :P label
-       :E label
-       :C label
-       :R label)
+(v1 / label
+    :H (v2 / label)
+    :H (v3 / label
+           :A (v12 / label)
+           :P (v13 / label))
+    :L (v4 / label)
+    :H (v5 / label
+           :A (v14 / label
+                   :E (v28 / label)
+                   :E (v29 / label)
+                   :C (v30 / label))
+           :P (v15 / label))
+    :L (v6 / label)
+    :H (v7 / label
+           :A (v16 / label)
+           :P (v17 / label)
+           :A (v18 / label
+                   :C (v31 / label)
+                   :E (v32 / label
+                           :R (v44 / label)
+                           :E (v45 / label)
+                           :C (v46 / label))))
+    :L (v8 / label)
+    :H (v9 / label
+           :A (v19 / label)
+           :P (v20 / label)
+           :A (v21 / label
+                   :E (v33 / label)
+                   :E (v34 / label)
+                   :C (v35 / label)
+                   :E (v36 / label
+                           :A v35
+                           :P (v47 / label)
+                           :A (v48 / label
+                                   :C (v51 / label)
+                                   :E (v52 / label
+                                           :R (v53 / label)
+                                           :E (v54 / label)
+                                           :C (v55 / label)
+                                           :E (v56 / label
+                                                   :R (v57 / label)
+                                                   :E (v58 / label)
+                                                   :C (v59 / label)))))))
+    :H (v10 / label
+            :A (v22 / label)
+            :P (v23 / label
+                    :E (v37 / label)
+                    :C (v38 / label))
+            :A (v24 / label
+                    :E (v39 / label)
+                    :C (v40 / label)
+                    :E (v41 / label
+                            :E (v49 / label)
+                            :C (v50 / label))))
+    :H (v11 / label
+            :A (v25 / label)
+            :P (v26 / label)
+            :A (v27 / label
+                    :E (v42 / label)
+                    :C (v43 / label))))

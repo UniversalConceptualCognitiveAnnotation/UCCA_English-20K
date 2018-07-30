@@ -1,9 +1,35 @@
 # ::id 904004
 # ::tok Let ’s accept that the pressure of one atmosphere is represented by the pressure of a column of water thirty-two feet high .
-(label :H label
-       :A label
-       :P label
-       :E label
-       :C label
-       :R label
-       :S label)
+(v1 / label
+    :H (v2 / label
+           :A (v3 / label)
+           :P (v4 / label
+                  :E (v6 / label)
+                  :C (v7 / label))
+           :A (v5 / label
+                  :A (v8 / label
+                         :E (v11 / label)
+                         :C (v12 / label)
+                         :E (v13 / label
+                                 :R (v19 / label)
+                                 :E (v20 / label)
+                                 :C (v21 / label)))
+                  :P (v9 / label
+                         :C (v14 / label))
+                  :A (v10 / label
+                          :R (v15 / label)
+                          :E (v16 / label)
+                          :C (v17 / label)
+                          :E (v18 / label
+                                  :R (v22 / label)
+                                  :E (v23 / label)
+                                  :E (v24 / label
+                                          :A (v27 / label
+                                                  :E (v31 / label)
+                                                  :C (v32 / label))
+                                          :S (v28 / label)
+                                          :A (v25 / label))
+                                  :C v25
+                                  :E (v26 / label
+                                          :R (v29 / label)
+                                          :C (v30 / label)))))))

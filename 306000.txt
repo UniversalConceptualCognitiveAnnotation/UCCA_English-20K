@@ -1,12 +1,78 @@
 # ::id 306000
 # ::tok “ All right then ! Imagine this weapon to be ten times stronger and the animal ten times more powerful , launch it at a speed of twenty miles per hour , multiply its mass times its velocity , and you get just the collision we need to cause the specified catastrophe .
-(label :H label
-       :L label
-       :A label
-       :P label
-       :D label
-       :S label
-       :R label
-       :E label
-       :C label
-       :N label)
+(v1 / label
+    :H (v2 / label)
+    :L (v3 / label)
+    :H (v4 / label
+           :A (v11 / label)
+           :P (v12 / label)
+           :A (v13 / label
+                   :A (v27 / label
+                           :E (v42 / label)
+                           :C (v43 / label))
+                   :S (v28 / label
+                           :E (v44 / label
+                                   :E (v62 / label)
+                                   :C (v63 / label))
+                           :C (v45 / label))))
+    :L (v5 / label)
+    :H (v6 / label
+           :A (v14 / label)
+           :A (v15 / label
+                   :A (v29 / label
+                           :E (v46 / label)
+                           :C (v47 / label))
+                   :S (v30 / label
+                           :E (v48 / label
+                                   :E (v64 / label
+                                           :E (v68 / label)
+                                           :C (v69 / label))
+                                   :C (v65 / label))
+                           :C (v49 / label)))
+           :P v12)
+    :H (v7 / label
+           :A (v16 / label)
+           :P (v17 / label)
+           :A (v18 / label)
+           :A (v19 / label
+                   :R (v31 / label)
+                   :E (v32 / label
+                           :E (v50 / label)
+                           :C (v51 / label)
+                           :R (v52 / label))
+                   :E (v33 / label
+                           :R (v53 / label)
+                           :C (v54 / label))
+                   :E (v34 / label)
+                   :C (v35 / label)))
+    :H (v8 / label
+           :A (v20 / label)
+           :P (v21 / label)
+           :A (v22 / label
+                   :C (v36 / label
+                           :E (v55 / label)
+                           :C (v56 / label))
+                   :N (v37 / label)
+                   :C (v38 / label
+                           :E (v57 / label)
+                           :C (v58 / label))))
+    :L (v9 / label)
+    :H (v10 / label
+            :A (v23 / label)
+            :P (v24 / label)
+            :D (v25 / label)
+            :A (v26 / label
+                    :E (v39 / label)
+                    :C (v40 / label)
+                    :E (v41 / label
+                            :A v40
+                            :A (v59 / label)
+                            :P (v60 / label)
+                            :A (v61 / label
+                                    :A v40
+                                    :P (v66 / label
+                                            :C (v70 / label))
+                                    :A (v67 / label
+                                            :E (v71 / label)
+                                            :E (v72 / label)
+                                            :C (v73 / label)))))))

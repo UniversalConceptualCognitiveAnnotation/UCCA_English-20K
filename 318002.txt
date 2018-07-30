@@ -1,9 +1,42 @@
 # ::id 318002
 # ::tok If you would like to join the expedition on the Abraham Lincoln , the government of the Union will be pleased to regard you as France ’s representative in this undertaking .
-(label :L label
-       :H label
-       :A label
-       :P label
-       :E label
-       :C label
-       :R label)
+(v1 / label
+    :L (v2 / label)
+    :H (v3 / label
+           :A (v5 / label)
+           :P (v6 / label
+                  :E (v14 / label
+                          :E (v32 / label)
+                          :C (v33 / label))
+                  :C (v15 / label))
+           :A (v7 / label
+                  :E (v16 / label)
+                  :C (v17 / label))
+           :A (v8 / label
+                  :R (v18 / label)
+                  :E (v19 / label)
+                  :C (v20 / label)))
+    :H (v4 / label
+           :A (v9 / label
+                  :E (v21 / label)
+                  :C (v22 / label)
+                  :E (v23 / label
+                          :R (v34 / label)
+                          :E (v35 / label)
+                          :C (v36 / label)))
+           :P (v10 / label
+                   :E (v24 / label
+                           :E (v37 / label)
+                           :C (v38 / label))
+                   :C (v25 / label))
+           :A (v11 / label)
+           :A (v12 / label
+                   :R (v26 / label)
+                   :E (v27 / label
+                           :C (v39 / label)
+                           :R (v40 / label))
+                   :C (v28 / label))
+           :A (v13 / label
+                   :R (v29 / label)
+                   :E (v30 / label)
+                   :C (v31 / label))))

@@ -1,10 +1,31 @@
 # ::id 822000
 # ::tok The lad was thirty years old , and his age to that of his employer was as fifteen is to twenty .
-(label :H label
-       :L label
-       :A label
-       :S label
-       :E label
-       :C label
-       :R label
-       :P label)
+(v1 / label
+    :H (v2 / label
+           :A (v5 / label
+                  :E (v11 / label)
+                  :C (v12 / label))
+           :S (v6 / label
+                  :E (v13 / label)
+                  :C (v14 / label)
+                  :E (v15 / label)))
+    :L (v3 / label)
+    :H (v4 / label
+           :A (v7 / label
+                  :E (v16 / label)
+                  :C (v17 / label))
+           :S (v8 / label
+                  :C (v18 / label))
+           :A (v9 / label
+                  :R (v19 / label)
+                  :E (v20 / label
+                          :R (v25 / label)
+                          :E (v26 / label)
+                          :C (v27 / label))
+                  :C v17)
+           :A (v10 / label
+                   :R (v21 / label)
+                   :A (v22 / label)
+                   :P (v23 / label
+                           :C (v28 / label))
+                   :A (v24 / label))))

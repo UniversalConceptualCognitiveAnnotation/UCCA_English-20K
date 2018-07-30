@@ -1,9 +1,25 @@
 # ::id 59001
 # ::tok Within moments they had located a hole two meters in width on the steamer \u2019s underside .
-(label :H label
-       :D label
-       :A label
-       :P label
-       :R label
-       :C label
-       :E label)
+(v1 / label
+    :H (v2 / label
+           :D (v3 / label
+                  :R (v7 / label)
+                  :C (v8 / label))
+           :A (v4 / label)
+           :P (v5 / label
+                  :C (v9 / label))
+           :A (v6 / label
+                  :E (v10 / label)
+                  :C (v11 / label)
+                  :E (v12 / label
+                          :E (v14 / label
+                                  :C (v20 / label))
+                          :E (v15 / label)
+                          :C (v16 / label))
+                  :E (v13 / label
+                          :R (v17 / label)
+                          :E (v18 / label
+                                  :E (v21 / label)
+                                  :C (v22 / label)
+                                  :R (v23 / label))
+                          :C (v19 / label)))))

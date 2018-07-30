@@ -1,8 +1,35 @@
 # ::id 842000
 # ::tok At this order , which was relayed to the engine by means of a compressed - air device , the mechanics activated the start - up wheel .
-(label :H label
-       :A label
-       :P label
-       :R label
-       :E label
-       :C label)
+(v1 / label
+    :H (v2 / label
+           :A (v3 / label
+                  :R (v7 / label)
+                  :E (v8 / label)
+                  :C (v9 / label)
+                  :E (v10 / label
+                          :A v9
+                          :R (v16 / label)
+                          :P (v17 / label
+                                  :C (v20 / label))
+                          :A (v18 / label
+                                  :R (v21 / label)
+                                  :E (v22 / label)
+                                  :C (v23 / label))
+                          :A (v19 / label
+                                  :E (v24 / label
+                                          :R (v28 / label)
+                                          :C (v29 / label)
+                                          :R (v30 / label))
+                                  :E (v25 / label)
+                                  :E (v26 / label
+                                          :E (v31 / label)
+                                          :C (v32 / label))
+                                  :C (v27 / label))))
+           :A (v4 / label
+                  :E (v11 / label)
+                  :C (v12 / label))
+           :P (v5 / label)
+           :A (v6 / label
+                  :E (v13 / label)
+                  :E (v14 / label)
+                  :C (v15 / label))))

@@ -1,10 +1,39 @@
 # ::id 59003
 # ::tok By then it lay 300 miles from Cape Clear , and after three days of delay that filled Liverpool with acute anxiety , it entered the company docks .
-(label :L label
-       :H label
-       :R label
-       :C label
-       :A label
-       :P label
-       :D label
-       :E label)
+(v1 / label
+    :L (v2 / label
+           :R (v6 / label)
+           :C (v7 / label))
+    :H (v3 / label
+           :A (v8 / label)
+           :P (v9 / label)
+           :A (v10 / label
+                   :E (v15 / label
+                           :R (v26 / label)
+                           :C (v27 / label))
+                   :E (v16 / label)
+                   :C (v17 / label)))
+    :L (v4 / label)
+    :H (v5 / label
+           :D (v11 / label
+                   :R (v18 / label)
+                   :E (v19 / label
+                           :R (v28 / label)
+                           :P (v29 / label)
+                           :A (v30 / label)
+                           :A (v31 / label
+                                   :R (v34 / label)
+                                   :E (v35 / label)
+                                   :C (v36 / label))
+                           :A (v21 / label))
+                   :E (v20 / label)
+                   :C v21
+                   :E (v22 / label
+                           :R (v32 / label)
+                           :C (v33 / label)))
+           :A (v12 / label)
+           :P (v13 / label)
+           :A (v14 / label
+                   :E (v23 / label)
+                   :E (v24 / label)
+                   :C (v25 / label))))

@@ -1,8 +1,21 @@
 # ::id 983003
 # ::tok The entire crew suffered from a nervous excitement that it ’s beyond me to describe .
-(label :H label
-       :A label
-       :P label
-       :E label
-       :C label
-       :R label)
+(v1 / label
+    :H (v2 / label
+           :A (v3 / label
+                  :E (v6 / label)
+                  :E (v7 / label)
+                  :C (v8 / label))
+           :P (v4 / label)
+           :A (v5 / label
+                  :R (v9 / label)
+                  :E (v10 / label)
+                  :E (v11 / label)
+                  :C (v12 / label)
+                  :E (v13 / label
+                          :A v12
+                          :R (v14 / label)
+                          :P (v15 / label
+                                  :E (v17 / label)
+                                  :C (v18 / label))
+                          :A (v16 / label)))))

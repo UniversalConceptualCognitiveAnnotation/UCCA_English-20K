@@ -1,9 +1,16 @@
 # ::id 880008
 # ::tok No middle of the road for these two .
-(label :H label
-       :S label
-       :D label
-       :A label
-       :C label
-       :E label
-       :R label)
+(v1 / label
+    :H (v2 / label
+           :S (v3 / label)
+           :D (v4 / label)
+           :A (v5 / label
+                  :C (v7 / label)
+                  :E (v8 / label
+                         :R (v12 / label)
+                         :E (v13 / label)
+                         :C (v14 / label)))
+           :A (v6 / label
+                  :R (v9 / label)
+                  :E (v10 / label)
+                  :C (v11 / label))))

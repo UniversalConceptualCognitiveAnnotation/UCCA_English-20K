@@ -1,9 +1,13 @@
 # ::id 977000
 # ::tok But what a waste of energy !
-(label :L label
-       :H label
-       :A label
-       :S label
-       :E label
-       :C label
-       :R label)
+(v1 / label
+    :L (v2 / label)
+    :H (v3 / label
+           :A (v4 / label)
+           :S (v5 / label)
+           :A (v6 / label
+                  :E (v7 / label)
+                  :C (v8 / label)
+                  :E (v9 / label
+                         :R (v10 / label)
+                         :C (v11 / label)))))

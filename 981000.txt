@@ -1,8 +1,11 @@
 # ::id 981000
 # ::tok I had no reply to this .
-(label :H label
-       :A label
-       :P label
-       :D label
-       :C label
-       :R label)
+(v1 / label
+    :H (v2 / label
+           :A (v3 / label)
+           :P (v4 / label
+                  :C (v7 / label))
+           :D (v5 / label)
+           :A (v6 / label
+                  :R (v8 / label)
+                  :C (v9 / label))))

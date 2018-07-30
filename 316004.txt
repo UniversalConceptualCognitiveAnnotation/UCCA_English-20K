@@ -1,8 +1,14 @@
 # ::id 316004
 # ::tok Not a crewman was missing from his post .
-(label :H label
-       :A label
-       :S label
-       :E label
-       :C label
-       :R label)
+(v1 / label
+    :H (v2 / label
+           :A (v3 / label
+                  :E (v6 / label)
+                  :E (v7 / label)
+                  :C (v8 / label))
+           :S (v4 / label
+                  :C (v9 / label))
+           :A (v5 / label
+                  :R (v10 / label)
+                  :E (v11 / label)
+                  :C (v12 / label))))

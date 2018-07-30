@@ -1,11 +1,42 @@
 # ::id 36001
 # ::tok Without getting into those rumors that upset civilians in the seaports and deranged the public mind even far inland , it must be said that professional seamen were especially alarmed .
-(label :L label
-       :H label
-       :P label
-       :A label
-       :R label
-       :E label
-       :C label
-       :D label
-       :G label)
+(v1 / label
+    :L (v2 / label)
+    :H (v3 / label
+           :P (v5 / label)
+           :A (v6 / label
+                  :R (v9 / label)
+                  :E (v10 / label)
+                  :C (v11 / label)
+                  :E (v12 / label
+                          :H (v18 / label
+                                  :A v11
+                                  :P (v24 / label)
+                                  :A (v25 / label)
+                                  :A (v26 / label
+                                          :R (v31 / label)
+                                          :E (v32 / label)
+                                          :C (v33 / label)))
+                          :L (v19 / label)
+                          :H (v20 / label
+                                  :A v11
+                                  :P (v27 / label)
+                                  :A (v28 / label
+                                          :E (v34 / label)
+                                          :E (v35 / label)
+                                          :C (v36 / label))
+                                  :G (v29 / label)
+                                  :A (v30 / label
+                                          :E (v37 / label)
+                                          :C (v38 / label))))))
+    :H (v4 / label
+           :P (v7 / label
+                  :E (v13 / label)
+                  :C (v14 / label))
+           :A (v8 / label
+                  :A (v15 / label
+                          :E (v21 / label)
+                          :C (v22 / label))
+                  :P (v16 / label
+                          :C (v23 / label))
+                  :D (v17 / label))))

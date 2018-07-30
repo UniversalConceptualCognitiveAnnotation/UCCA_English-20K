@@ -1,8 +1,12 @@
 # ::id 826000
 # ::tok “ Conseil ! ” I called a third time .
-(label :H label
-       :A label
-       :P label
-       :D label
-       :E label
-       :C label)
+(v1 / label
+    :H (v2 / label)
+    :H (v3 / label
+           :A v2
+           :A (v4 / label)
+           :P (v5 / label)
+           :D (v6 / label
+                  :E (v7 / label)
+                  :E (v8 / label)
+                  :C (v9 / label))))

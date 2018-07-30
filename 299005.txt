@@ -1,8 +1,9 @@
 # ::id 299005
 # ::tok It ’s almost beyond conjecture .
-(label :H label
-       :A label
-       :S label
-       :D label
-       :R label
-       :C label)
+(v1 / label
+    :H (v2 / label
+           :A (v3 / label)
+           :S (v4 / label
+                  :R (v6 / label)
+                  :C (v7 / label))
+           :D (v5 / label)))

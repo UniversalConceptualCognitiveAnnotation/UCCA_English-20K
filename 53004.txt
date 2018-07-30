@@ -1,9 +1,34 @@
 # ::id 53004
 # ::tok Given this , no one will be astonished at the uproar provoked by this accident involving one of its finest steamers .
-(label :L label
-       :H label
-       :E label
-       :C label
-       :A label
-       :P label
-       :R label)
+(v1 / label
+    :L (v2 / label
+           :E (v4 / label)
+           :C (v5 / label))
+    :H (v3 / label
+           :A (v6 / label
+                  :E (v9 / label)
+                  :C (v10 / label))
+           :P (v7 / label
+                  :E (v11 / label)
+                  :C (v12 / label))
+           :A (v8 / label
+                  :R (v13 / label)
+                  :E (v14 / label)
+                  :C (v15 / label)
+                  :E (v16 / label
+                          :A v15
+                          :P (v17 / label)
+                          :A (v18 / label
+                                  :R (v19 / label)
+                                  :E (v20 / label)
+                                  :C (v21 / label)
+                                  :E (v22 / label
+                                          :A v21
+                                          :P (v23 / label)
+                                          :A (v24 / label
+                                                  :E (v25 / label
+                                                          :C (v29 / label)
+                                                          :R (v30 / label))
+                                                  :E (v26 / label)
+                                                  :E (v27 / label)
+                                                  :C (v28 / label))))))))

@@ -1,9 +1,19 @@
 # ::id 903001
 # ::tok “ Oh really , and I can prove it to you with a few simple figures . ”
-(label :H label
-       :L label
-       :A label
-       :P label
-       :E label
-       :C label
-       :R label)
+(v1 / label
+    :H (v2 / label)
+    :L (v3 / label)
+    :H (v4 / label
+           :A (v5 / label)
+           :P (v6 / label
+                  :E (v10 / label)
+                  :C (v11 / label))
+           :A (v7 / label)
+           :A (v8 / label
+                  :R (v12 / label)
+                  :C (v13 / label))
+           :A (v9 / label
+                  :R (v14 / label)
+                  :E (v15 / label)
+                  :E (v16 / label)
+                  :C (v17 / label))))

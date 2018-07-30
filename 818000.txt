@@ -1,9 +1,13 @@
 # ::id 818000
 # ::tok “ Conseil ! ” I called in an impatient voice .
-(label :H label
-       :A label
-       :P label
-       :D label
-       :R label
-       :E label
-       :C label)
+(v1 / label
+    :H (v2 / label)
+    :H (v3 / label
+           :A v2
+           :A (v4 / label)
+           :P (v5 / label)
+           :D (v6 / label
+                  :R (v7 / label)
+                  :E (v8 / label)
+                  :E (v9 / label)
+                  :C (v10 / label))))

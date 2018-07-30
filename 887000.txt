@@ -1,7 +1,10 @@
 # ::id 887000
 # ::tok Ned Land was about forty years old .
-(label :H label
-       :A label
-       :S label
-       :E label
-       :C label)
+(v1 / label
+    :H (v2 / label
+           :A (v3 / label)
+           :S (v4 / label
+                  :E (v5 / label)
+                  :E (v6 / label)
+                  :C (v7 / label)
+                  :E (v8 / label))))

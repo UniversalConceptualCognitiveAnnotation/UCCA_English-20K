@@ -1,12 +1,127 @@
 # ::id 985000
 # ::tok So the reaction set in. At first, discouragement took hold of people’s minds, opening the door to disbelief. A new feeling appeared on board, made up of three-tenths shame and seven-tenths fury. The crew called themselves “out-and-out fools” for being hoodwinked by a fairy tale, then grew steadily more furious! The mountains of arguments amassed over a year collapsed all at once, and each man now wanted only to catch up on his eating and sleeping, to make up for the time he had so stupidly sacrificed.
-(label :L label
-       :H label
-       :A label
-       :P label
-       :R label
-       :C label
-       :S label
-       :D label
-       :E label
-       :N label)
+(v1 / label
+    :L (v2 / label)
+    :H (v3 / label
+           :A (v18 / label
+                   :E (v53 / label)
+                   :C (v54 / label))
+           :P (v19 / label))
+    :L (v4 / label
+           :R (v20 / label)
+           :C (v21 / label))
+    :H (v5 / label
+           :A (v22 / label)
+           :P (v23 / label)
+           :A (v24 / label
+                   :R (v55 / label)
+                   :E (v56 / label)
+                   :C (v57 / label)))
+    :H (v6 / label
+           :P (v25 / label)
+           :A (v26 / label
+                   :R (v58 / label)
+                   :C (v59 / label))
+           :A v22)
+    :H (v7 / label
+           :A (v27 / label
+                   :E (v60 / label)
+                   :E (v61 / label)
+                   :C (v32 / label))
+           :P (v28 / label)
+           :A (v29 / label
+                   :R (v62 / label)
+                   :C (v63 / label)))
+    :H (v8 / label
+           :S (v30 / label)
+           :A (v31 / label
+                   :C (v64 / label
+                           :R (v94 / label)
+                           :E (v95 / label)
+                           :C (v96 / label))
+                   :N (v65 / label)
+                   :C (v66 / label
+                           :E (v97 / label)
+                           :C (v98 / label)
+                           :R v94))
+           :A v32)
+    :H (v9 / label
+           :A (v33 / label
+                   :E (v67 / label)
+                   :C (v39 / label))
+           :P (v34 / label)
+           :A (v35 / label)
+           :A (v36 / label
+                   :E (v68 / label)
+                   :C (v69 / label)))
+    :L (v10 / label)
+    :H (v11 / label
+            :P (v37 / label
+                    :C (v70 / label))
+            :A (v38 / label
+                    :R (v71 / label)
+                    :E (v72 / label)
+                    :E (v73 / label)
+                    :C (v74 / label))
+            :A v39)
+    :L (v12 / label)
+    :H (v13 / label
+            :S (v40 / label
+                    :E (v75 / label)
+                    :E (v76 / label)
+                    :C (v77 / label))
+            :D (v41 / label)
+            :A v39)
+    :H (v14 / label
+            :A (v42 / label
+                    :E (v78 / label
+                            :A (v99 / label)
+                            :P (v100 / label)
+                            :D (v101 / label
+                                     :R (v110 / label)
+                                     :E (v111 / label)
+                                     :C (v112 / label))
+                            :A (v102 / label))
+                    :E (v79 / label
+                            :E (v103 / label)
+                            :C v102
+                            :R (v104 / label))
+                    :C (v80 / label))
+            :P (v43 / label)
+            :D (v44 / label
+                    :E (v81 / label)
+                    :R (v82 / label)
+                    :C (v83 / label)))
+    :L (v15 / label)
+    :H (v16 / label
+            :A (v45 / label
+                    :E (v84 / label)
+                    :C (v52 / label))
+            :D (v46 / label)
+            :P (v47 / label
+                    :E (v85 / label)
+                    :C (v86 / label))
+            :D (v48 / label)
+            :A (v49 / label
+                    :R (v87 / label)
+                    :C (v88 / label
+                            :A (v105 / label)
+                            :P (v106 / label
+                                     :C (v113 / label)
+                                     :N (v114 / label)
+                                     :C (v115 / label)))))
+    :H (v17 / label
+            :P (v50 / label
+                    :C (v89 / label))
+            :A (v51 / label
+                    :R (v90 / label)
+                    :E (v91 / label)
+                    :C (v92 / label)
+                    :E (v93 / label
+                            :A (v107 / label)
+                            :P (v108 / label
+                                     :C (v116 / label))
+                            :D (v109 / label
+                                     :E (v117 / label)
+                                     :C (v118 / label))))
+            :A v52))

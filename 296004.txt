@@ -1,10 +1,42 @@
 # ::id 296004
 # ::tok As long as I could deny the reality of the business , I confined myself to a flat “ no comment . ” But soon , pinned to the wall , I had to explain myself straight out .
-(label :L label
-       :H label
-       :R label
-       :C label
-       :A label
-       :P label
-       :D label
-       :E label)
+(v1 / label
+    :L (v2 / label
+           :R (v8 / label)
+           :C (v9 / label)
+           :R (v10 / label))
+    :H (v3 / label
+           :A (v11 / label)
+           :P (v12 / label
+                   :E (v24 / label)
+                   :C (v25 / label))
+           :A (v13 / label
+                   :E (v26 / label)
+                   :C (v27 / label)
+                   :E (v28 / label
+                           :R (v37 / label)
+                           :E (v38 / label)
+                           :C (v39 / label))))
+    :H (v4 / label
+           :A (v14 / label)
+           :P (v15 / label)
+           :A (v16 / label)
+           :A (v17 / label
+                   :R (v29 / label)
+                   :E (v30 / label)
+                   :E (v31 / label)
+                   :E (v32 / label)
+                   :C (v33 / label)))
+    :L (v5 / label)
+    :H (v6 / label
+           :D (v18 / label)
+           :A (v19 / label)
+           :P (v20 / label
+                   :E (v34 / label)
+                   :C (v35 / label)
+                   :E (v36 / label))
+           :D (v21 / label))
+    :H (v7 / label
+           :A (v22 / label)
+           :P (v23 / label)
+           :A v19))

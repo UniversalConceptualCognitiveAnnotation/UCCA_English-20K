@@ -1,10 +1,44 @@
 # ::id 984004
 # ::tok Nothing remotely resembling a gigantic narwhale , or an underwater islet , or a derelict shipwreck , or a runaway reef , or anything the least bit unearthly !
-(label :H label
-       :A label
-       :P label
-       :D label
-       :C label
-       :E label
-       :S label
-       :N label)
+(v1 / label
+    :H (v2 / label
+           :A (v3 / label)
+           :P (v4 / label)
+           :D (v5 / label)
+           :A (v6 / label
+                  :C (v7 / label)
+                  :E (v8 / label
+                         :A (v9 / label)
+                         :D (v10 / label)
+                         :S (v11 / label)
+                         :A (v12 / label
+                                 :C (v13 / label
+                                         :E (v22 / label)
+                                         :E (v23 / label)
+                                         :C (v24 / label))
+                                 :N (v14 / label)
+                                 :C (v15 / label
+                                         :E (v25 / label)
+                                         :E (v26 / label)
+                                         :C (v27 / label))
+                                 :N (v16 / label)
+                                 :C (v17 / label
+                                         :E (v28 / label)
+                                         :E (v29 / label)
+                                         :C (v30 / label))
+                                 :N (v18 / label)
+                                 :C (v19 / label
+                                         :E (v31 / label)
+                                         :E (v32 / label
+                                                 :A (v33 / label)
+                                                 :P (v36 / label))
+                                         :C v33)
+                                 :N (v20 / label)
+                                 :C (v21 / label
+                                         :C (v34 / label)
+                                         :E (v35 / label
+                                                 :E (v37 / label
+                                                         :E (v39 / label)
+                                                         :E (v40 / label)
+                                                         :C (v41 / label))
+                                                 :C (v38 / label))))))))
