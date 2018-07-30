@@ -1,8 +1,8 @@
 1	But	_	Word	-	-	_	_	L	_	_	_	_
 2	Commander	_	Word	-	-	_	E	_	_	_	_	_
-3	Farragut	_	Word	-	+	_	_	_	_	A	A	_
+3	Farragut	_	Word	-	+	_	_	_	_	_	_	_
 4	was	_	Word	-	-	_	_	F	_	_	_	_
-5	unwilling	_	Word	-	-	_	_	E	_	_	_	_
+5	unwilling	_	Word	-	-	_	_	D	_	_	_	_
 6	to	_	Word	-	-	_	_	F	_	_	_	_
 7	attempt	_	Word	-	+	_	_	_	_	_	_	_
 8	this	_	Word	-	-	_	_	_	E	_	_	_
@@ -13,7 +13,7 @@
 13	instead	_	Word	-	-	_	_	_	_	D	_	_
 14	to	_	Word	-	-	_	_	_	_	_	F	_
 15	double	_	Word	-	+	_	_	_	_	_	_	_
-16	Cape	_	Word	-	-	_	_	_	_	_	_	E
-17	Horn	_	Word	-	+	_	_	_	_	_	_	_
-18	.	_	Punctuation	-	-	_	_	_	_	_	_	U
+16	Cape	_	Word	-	+	_	_	_	_	_	A	_
+17	Horn	_	Word	-	-	_	_	_	_	_	_	Terminal
+18	.	_	Punctuation	-	-	_	_	_	_	_	U	_
 

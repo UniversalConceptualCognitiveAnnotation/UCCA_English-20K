@@ -10,7 +10,7 @@
 10	was	_	Word	-	-	_	_	_	_	F
 11	at	_	Word	-	-	_	_	_	_	R
 12	the	_	Word	-	-	_	_	_	_	E
-13	boiling	_	Word	-	-	_	_	_	_	E
-14	point	_	Word	-	+	_	_	_	_	_
+13	boiling	_	Word	-	+	_	_	_	_	_
+14	point	_	Word	-	-	_	_	_	_	Terminal
 15	.	_	Punctuation	-	-	_	_	_	_	U
 

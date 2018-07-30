@@ -1,9 +1,9 @@
 1	The	_	Word	-	-	_	E	_	_	_	_	_	_	_	_	_	_
 2	Abraham	_	Word	-	+	_	_	_	A	_	_	_	_	_	_	_	_
 3	Lincoln	_	Word	-	-	_	Terminal	_	_	_	_	_	_	_	_	_	_
-4	would	_	Word	-	-	_	_	E	_	_	_	_	_	_	_	_	_
-5	change	_	Word	-	-	_	_	E	_	_	_	_	_	_	_	_	_
-6	course	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_
+4	would	_	Word	-	-	_	_	F	_	_	_	_	_	_	_	_	_
+5	change	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_
+6	course	_	Word	-	-	_	_	A	_	_	_	_	_	_	_	_	_
 7	and	_	Word	-	-	_	_	L	_	_	_	_	_	_	_	_	_
 8	race	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_
 9	after	_	Word	-	-	_	_	_	_	R	_	_	_	_	_	_	_
@@ -24,7 +24,7 @@
 24	sperm	_	Word	-	-	_	_	_	_	_	_	_	_	E	_	_	_
 25	whale	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_
 26	that	_	Word	-	-	_	_	_	_	_	_	_	_	_	R	_	_
-27	soon	_	Word	-	-	_	_	_	_	_	_	_	_	_	D	_	_
+27	soon	_	Word	-	-	_	_	_	_	_	_	_	_	_	T	_	_
 28	disappeared	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_
 29	amid	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	R
 30	a	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	E	_

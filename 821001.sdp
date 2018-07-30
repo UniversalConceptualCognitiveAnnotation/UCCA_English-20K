@@ -3,7 +3,7 @@
 3	did	_	Word	-	-	_	_	F	_	_	_
 4	he	_	Word	-	-	_	_	A	_	_	_
 5	comment	_	Word	-	+	_	_	_	_	_	_
-6	on	_	Word	-	-	_	_	_	R	R	_
+6	on	_	Word	-	-	_	_	_	R	_	_
 7	the	_	Word	-	-	_	_	_	E	_	_
 8	length	_	Word	-	+	_	_	_	_	_	_
 9	or	_	Word	-	-	_	_	_	N	_	_

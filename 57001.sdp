@@ -1,11 +1,11 @@
-1	In	_	Word	-	-	_	R	_	_
-2	fact	_	Word	-	+	_	_	_	_
-3	,	_	Punctuation	-	-	_	_	U	_
-4	there	_	Word	-	+	_	_	_	_
-5	could	_	Word	-	-	_	_	E	_
-6	be	_	Word	-	-	_	_	Terminal	_
-7	no	_	Word	-	-	_	_	D	_
-8	immediate	_	Word	-	-	_	_	_	E
-9	danger	_	Word	-	+	_	_	_	_
-10	.	_	Punctuation	-	-	_	_	_	U
+1	In	_	Word	-	+	_	_	G
+2	fact	_	Word	-	-	_	Terminal	_
+3	,	_	Punctuation	-	-	_	_	U
+4	there	_	Word	-	-	_	_	A
+5	could	_	Word	-	-	_	_	D
+6	be	_	Word	-	-	_	_	F
+7	no	_	Word	-	-	_	_	D
+8	immediate	_	Word	-	-	_	_	D
+9	danger	_	Word	-	+	_	_	_
+10	.	_	Punctuation	-	-	_	_	U
 

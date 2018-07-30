@@ -1,9 +1,34 @@
-1	“	_	Punctuation	-	-	_	U	_
-2	We	_	Word	-	-	_	A	_
-3	’ll	_	Word	-	-	_	E	_
-4	deal	_	Word	-	+	_	_	_
-5	with	_	Word	-	-	_	_	R
-6	them	_	Word	-	+	_	_	_
-7	later	_	Word	-	-	_	D	_
-8	.	_	Punctuation	-	-	_	U	_
+1	”	_	Punctuation	-	-	_	U	_	_	_	_	_	_	_	_	_
+2	“	_	Punctuation	-	-	_	U	_	_	_	_	_	_	_	_	_
+3	What	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_
+4	about	_	Word	-	-	_	Terminal	_	_	_	_	_	_	_	_	_
+5	master	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_
+6	’s	_	Word	-	-	_	_	R	_	_	_	_	_	_	_	_
+7	live	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_
+8	babirusa	_	Word	-	-	_	_	_	A	_	_	_	_	_	_	_
+9	?	_	Punctuation	-	-	_	U	_	_	_	_	_	_	_	_	_
+10	”	_	Punctuation	-	-	_	U	_	_	_	_	_	_	_	_	_
+11	“	_	Punctuation	-	-	_	U	_	_	_	_	_	_	_	_	_
+12	They	_	Word	-	-	_	_	_	_	A	_	_	_	_	_	_
+13	’ll	_	Word	-	-	_	_	_	_	D	_	_	_	_	_	_
+14	feed	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_
+15	it	_	Word	-	-	_	_	_	_	A	_	_	_	_	_	_
+16	during	_	Word	-	-	_	_	_	_	L	_	_	_	_	_	_
+17	our	_	Word	-	-	_	_	_	_	_	E	_	_	_	_	_
+18	absence	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_
+19	.	_	Punctuation	-	-	_	_	_	_	U	_	_	_	_	_	_
+20	Anyhow	_	Word	-	-	_	_	_	_	L	_	_	_	_	_	_
+21	,	_	Punctuation	-	-	_	_	_	_	U	_	_	_	_	_	_
+22	we	_	Word	-	-	_	_	_	_	_	_	A	A	_	_	_
+23	’ll	_	Word	-	-	_	_	_	_	_	_	D	_	_	_	_
+24	leave	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_
+25	instructions	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_
+26	to	_	Word	-	-	_	_	_	_	_	_	_	_	F	_	_
+27	ship	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_
+28	the	_	Word	-	-	_	_	_	_	_	_	_	_	_	E	_
+29	whole	_	Word	-	-	_	_	_	_	_	_	_	_	_	E	_
+30	menagerie	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_
+31	to	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	R
+32	France	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_
+33	.	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	_	U
 

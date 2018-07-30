@@ -1,30 +1,30 @@
-1	“If	_	Word	-	-	_	L	_	_	_	_	_	_	_	_
-2	master	_	Word	-	-	_	A	_	_	_	_	_	_	_	_
-3	will	_	Word	-	-	_	E	_	_	_	_	_	_	_	_
-4	permit	_	Word	-	+	_	_	_	_	_	_	_	_	_	_
-5	my	_	Word	-	-	_	A	A	_	_	_	_	_	_	_
-6	saying	_	Word	-	+	_	_	_	_	_	_	_	_	_	_
-7	so,”	_	Word	-	-	_	_	A	_	_	_	_	_	_	_
-8	Conseil	_	Word	-	-	_	_	_	A	_	_	_	_	_	_
-9	replied,	_	Word	-	+	_	_	_	_	_	_	_	_	_	_
-10	“I	_	Word	-	-	_	_	_	_	A	_	_	_	_	_
-11	never	_	Word	-	-	_	_	_	_	D	_	_	_	_	_
-12	expected	_	Word	-	-	_	_	_	_	E	_	_	_	_	_
-13	to	_	Word	-	-	_	_	_	_	F	_	_	_	_	_
-14	win	_	Word	-	+	_	_	_	_	_	_	_	_	_	_
-15	that	_	Word	-	-	_	_	_	_	_	E	_	_	_	_
-16	prize,	_	Word	-	+	_	_	_	_	_	_	_	_	_	_
-17	and	_	Word	-	-	_	L	_	_	_	_	_	_	_	_
-18	the	_	Word	-	-	_	_	_	_	_	_	E	_	_	_
-19	Union	_	Word	-	-	_	_	_	_	_	_	E	_	_	_
-20	government	_	Word	-	+	_	_	_	_	_	_	_	_	A	_
-21	could	_	Word	-	-	_	_	_	_	_	_	_	E	_	_
-22	have	_	Word	-	-	_	_	_	_	_	_	_	F	_	_
-23	promised	_	Word	-	+	_	_	_	_	_	_	_	_	_	_
-24	$100,000.00	_	Word	-	-	_	_	_	_	_	_	_	A	_	_
-25	and	_	Word	-	-	_	L	_	_	_	_	_	_	_	_
-26	been	_	Word	-	+	_	_	_	_	_	_	_	_	_	_
-27	none	_	Word	-	-	_	_	_	_	_	_	_	_	D	_
-28	the	_	Word	-	-	_	_	_	_	_	_	_	_	_	E
-29	poorer.”	_	Word	-	+	_	_	_	_	_	_	_	_	_	_
+1	“If	_	Word	-	-	_	L	_	_	_	_	_	_	_
+2	master	_	Word	-	-	_	G	_	_	_	_	_	_	_
+3	will	_	Word	-	-	_	D	_	_	_	_	_	_	_
+4	permit	_	Word	-	+	_	_	_	_	_	_	_	_	_
+5	my	_	Word	-	+	_	_	_	_	_	_	_	_	_
+6	saying	_	Word	-	-	_	_	Terminal	_	_	_	_	_	_
+7	so,”	_	Word	-	-	_	_	Terminal	_	_	_	_	_	_
+8	Conseil	_	Word	-	-	_	_	_	A	_	_	_	_	_
+9	replied,	_	Word	-	+	_	_	_	_	_	_	_	_	_
+10	“I	_	Word	-	-	_	_	_	_	A	_	_	_	A
+11	never	_	Word	-	-	_	_	_	_	T	_	_	_	_
+12	expected	_	Word	-	-	_	_	_	_	D	_	_	_	_
+13	to	_	Word	-	-	_	_	_	_	F	_	_	_	_
+14	win	_	Word	-	+	_	_	_	_	_	_	_	_	_
+15	that	_	Word	-	-	_	_	_	_	_	E	_	_	_
+16	prize,	_	Word	-	+	_	_	_	_	_	_	_	_	_
+17	and	_	Word	-	-	_	L	_	_	_	_	_	_	_
+18	the	_	Word	-	-	_	_	_	_	_	_	E	_	_
+19	Union	_	Word	-	-	_	_	_	_	_	_	E	_	_
+20	government	_	Word	-	+	_	_	_	_	_	_	_	_	_
+21	could	_	Word	-	-	_	_	_	_	_	_	_	D	_
+22	have	_	Word	-	-	_	_	_	_	_	_	_	F	_
+23	promised	_	Word	-	+	_	_	_	_	_	_	_	_	_
+24	$100,000.00	_	Word	-	-	_	_	_	_	_	_	_	A	_
+25	and	_	Word	-	-	_	L	_	_	_	_	_	_	_
+26	been	_	Word	-	-	_	_	_	_	_	_	_	_	F
+27	none	_	Word	-	-	_	_	_	_	_	_	_	_	D
+28	the	_	Word	-	-	_	_	_	_	_	_	_	_	E
+29	poorer.”	_	Word	-	+	_	_	_	_	_	_	_	_	_
 

@@ -14,9 +14,9 @@
 14	,	_	Punctuation	-	-	_	_	_	_	U	_	_	_
 15	abreast	_	Word	-	+	_	_	_	_	_	_	_	_
 16	of	_	Word	-	-	_	_	_	_	_	_	R	_
-17	Cabo	_	Word	-	-	_	_	_	_	_	_	_	_
-18	de	_	Word	-	-	_	_	_	_	_	_	_	R
-19	las	_	Word	-	-	_	_	_	_	_	_	_	E
-20	Virgenes	_	Word	-	+	_	_	_	_	_	_	_	_
+17	Cabo	_	Word	-	+	_	_	_	_	_	_	_	_
+18	de	_	Word	-	-	_	_	_	_	_	_	_	Terminal
+19	las	_	Word	-	-	_	_	_	_	_	_	_	Terminal
+20	Virgenes	_	Word	-	-	_	_	_	_	_	_	_	Terminal
 21	.	_	Punctuation	-	-	_	_	_	_	_	_	_	U
 

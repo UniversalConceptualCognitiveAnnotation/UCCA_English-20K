@@ -2,11 +2,11 @@
 2	1840	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_
 3	this	_	Word	-	-	_	_	E	_	_	_	_	_	_	_	_	_
 4	shrewd	_	Word	-	-	_	_	E	_	_	_	_	_	_	_	_	_
-5	industrialist	_	Word	-	+	_	_	_	_	_	_	A	_	_	_	_	_
+5	industrialist	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_
 6	founded	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_
 7	a	_	Word	-	-	_	_	_	_	E	_	_	_	_	_	_	_
 8	postal	_	Word	-	-	_	_	_	_	E	_	_	_	_	_	_	_
-9	service	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_
+9	service	_	Word	-	+	_	_	_	_	_	_	A	_	_	_	_	_
 10	between	_	Word	-	-	_	_	_	_	_	R	_	_	_	_	_	_
 11	Liverpool	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_
 12	and	_	Word	-	-	_	_	_	_	_	N	_	_	_	_	_	_

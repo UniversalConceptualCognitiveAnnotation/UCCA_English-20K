@@ -1,11 +1,13 @@
-1	“	_	Punctuation	-	-	_	_	U
-2	You	_	Word	-	-	_	A	A
-3	can	_	Word	-	-	_	E	_
-4	make	_	Word	-	+	_	_	_
-5	figures	_	Word	-	-	_	A	_
-6	do	_	Word	-	-	_	_	_
-7	anything	_	Word	-	-	_	_	A
-8	you	_	Word	-	-	_	_	A
-9	want	_	Word	-	+	_	_	_
-10	!	_	Punctuation	-	-	_	_	U
+1	”	_	Punctuation	-	-	_	U	_
+2	“	_	Punctuation	-	-	_	U	_
+3	In	_	Word	-	-	_	R	_
+4	business	_	Word	-	+	_	_	_
+5	,	_	Punctuation	-	-	_	U	_
+6	Ned	_	Word	-	-	_	G	_
+7	,	_	Punctuation	-	-	_	U	_
+8	but	_	Word	-	-	_	L	_
+9	not	_	Word	-	-	_	_	D
+10	in	_	Word	-	-	_	_	R
+11	mathematics	_	Word	-	+	_	_	_
+12	.	_	Punctuation	-	-	_	_	U
 

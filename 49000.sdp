@@ -11,8 +11,8 @@
 11	Montreal	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_
 12	Ocean	_	Word	-	-	_	_	_	Terminal	_	_	_	_	_	_	_	_	_	_
 13	Co	_	Word	-	-	_	_	_	Terminal	_	_	_	_	_	_	_	_	_	_
-14	.	_	Punctuation	-	-	_	_	_	_	_	_	_	_	U	_	_	_	_	_
-15	,	_	Punctuation	-	-	_	_	_	_	_	_	_	_	U	_	_	_	_	_
+14	.	_	Punctuation	-	-	_	_	U	_	_	_	_	_	_	_	_	_	_	_
+15	,	_	Punctuation	-	-	_	_	U	_	_	_	_	_	_	_	_	_	_	_
 16	lying	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_
 17	during	_	Word	-	-	_	_	_	_	_	R	_	_	_	_	_	_	_	_
 18	the	_	Word	-	-	_	_	_	_	_	E	_	_	_	_	_	_	_	_
@@ -20,11 +20,11 @@
 20	in	_	Word	-	-	_	_	_	_	_	_	R	R	_	_	_	_	_	_
 21	latitude	_	Word	-	-	_	_	_	_	_	_	E	_	_	_	_	_	_	_
 22	27°	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_
-23	30\u2032	_	Word	-	-	_	_	_	_	_	_	Terminal	_	_	_	_	_	_	_
+23	30'	_	Word	-	-	_	_	_	_	_	_	Terminal	_	_	_	_	_	_	_
 24	and	_	Word	-	-	_	_	_	_	_	_	N	_	_	_	_	_	_	_
 25	longitude	_	Word	-	-	_	_	_	_	_	_	_	E	_	_	_	_	_	_
 26	72°	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_
-27	15\u2032	_	Word	-	-	_	_	_	_	_	_	_	Terminal	_	_	_	_	_	_
+27	15'	_	Word	-	-	_	_	_	_	_	_	_	Terminal	_	_	_	_	_	_
 28	,	_	Punctuation	-	-	_	_	_	_	_	_	_	_	U	_	_	_	_	_
 29	ran	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_
 30	its	_	Word	-	-	_	_	_	_	_	_	_	_	_	E	_	_	_	_

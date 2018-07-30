@@ -1,46 +1,34 @@
-1	So	_	Word	-	-	_	L	_	_	_	_	_	_	_	_	_	_	_	_
-2	it	_	Word	-	-	_	F	_	_	_	_	_	_	_	_	_	_	_	_
-3	follows	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_
-4	that	_	Word	-	-	_	F	_	_	_	_	_	_	_	_	_	_	_	_
-5	at	_	Word	-	-	_	_	R	_	_	_	_	_	_	_	_	_	_	_
-6	320	_	Word	-	-	_	_	E	_	_	_	_	_	_	_	_	_	_	_
-7	feet	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_
-8	down	_	Word	-	-	_	_	E	_	_	_	_	_	_	_	_	_	_	_
-9	,	_	Punctuation	-	-	_	_	_	_	U	_	_	_	_	_	_	_	_	_
-10	this	_	Word	-	-	_	_	_	E	_	_	_	_	_	_	_	_	_	_
-11	pressure	_	Word	-	+	_	_	_	_	_	_	A	_	A	_	_	_	_	_
-12	is	_	Word	-	-	_	_	_	_	F	_	_	_	_	_	_	_	_	_
-13	equal	_	Word	-	+	_	_	_	_	_	_	S	_	S	_	_	_	_	_
-14	to	_	Word	-	-	_	_	_	_	_	R	_	_	_	_	_	_	_	_
-15	ten	_	Word	-	-	_	_	_	_	_	E	_	_	_	_	_	_	_	_
-16	atmospheres	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_
-17	,	_	Punctuation	-	-	_	_	_	_	U	_	_	_	_	_	_	_	_	_
-18	to	_	Word	-	-	_	_	_	_	_	_	R	_	_	_	_	_	_	_
-19	100	_	Word	-	-	_	_	_	_	_	_	E	_	_	_	_	_	_	_
-20	atmospheres	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_
-21	at	_	Word	-	-	_	_	_	_	_	_	_	R	_	_	_	_	_	_
-22	3,200	_	Word	-	-	_	_	_	_	_	_	_	E	_	_	_	_	_	_
-23	feet	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_
-24	,	_	Punctuation	-	-	_	_	_	_	U	_	_	_	_	_	_	_	_	_
-25	and	_	Word	-	-	_	_	_	_	L	_	_	_	_	_	_	_	_	_
-26	to	_	Word	-	-	_	_	_	_	_	_	_	_	R	_	_	_	_	_
-27	1,000	_	Word	-	-	_	_	_	_	_	_	_	_	E	_	_	_	_	_
-28	atmospheres	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_
-29	at	_	Word	-	-	_	_	_	_	_	_	_	_	_	R	_	_	_	_
-30	32,000	_	Word	-	-	_	_	_	_	_	_	_	_	_	E	_	_	_	_
-31	feet	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_
-32	,	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	U	_	_	_	_
-33	that	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	E
-34	is	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	Terminal	_	_	_
-35	,	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	U
-36	at	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	R
-37	about	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	E
-38	two	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_
-39	and	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	N	_	_
-40	a	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	E	_
-41	half	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_
-42	vertical	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	E
-43	leagues	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_
-44	down	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	E
-45	.	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	U
+1	Which	_	Word	-	-	_	L	_	_	_	_	_	_	_	_	_
+2	is	_	Word	-	-	_	F	_	_	_	_	_	_	_	_	_
+3	tantamount	_	Word	-	-	_	D	_	_	_	_	_	_	_	_	_
+4	to	_	Word	-	-	_	F	_	_	_	_	_	_	_	_	_
+5	saying	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_
+6	that	_	Word	-	-	_	L	_	_	_	_	_	_	_	_	_
+7	if	_	Word	-	-	_	L	_	_	_	_	_	_	_	_	_
+8	you	_	Word	-	-	_	_	A	_	_	_	_	_	_	_	_
+9	could	_	Word	-	-	_	_	D	_	_	_	_	_	_	_	_
+10	reach	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_
+11	such	_	Word	-	-	_	_	_	E	_	_	_	_	_	_	_
+12	a	_	Word	-	-	_	_	_	E	_	_	_	_	_	_	_
+13	depth	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_
+14	in	_	Word	-	-	_	_	_	_	R	_	_	_	_	_	_
+15	the	_	Word	-	-	_	_	_	_	E	_	_	_	_	_	_
+16	ocean	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_
+17	,	_	Punctuation	-	-	_	U	_	_	_	_	_	_	_	_	_
+18	each	_	Word	-	-	_	_	_	_	_	E	_	_	_	_	_
+19	square	_	Word	-	-	_	_	_	_	_	E	_	_	_	_	_
+20	centimeter	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_
+21	on	_	Word	-	-	_	_	_	_	_	_	_	R	_	_	_
+22	your	_	Word	-	-	_	_	_	_	_	_	E	_	_	_	_
+23	body	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_
+24	’s	_	Word	-	-	_	_	_	_	_	_	R	_	_	_	_
+25	surface	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_
+26	would	_	Word	-	-	_	_	_	_	_	_	_	_	D	_	_
+27	be	_	Word	-	-	_	_	_	_	_	_	_	_	F	_	_
+28	experiencing	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_
+29	1,000	_	Word	-	-	_	_	_	_	_	_	_	_	_	E	_
+30	kilograms	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_
+31	of	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	R
+32	pressure	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_
+33	.	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	_	U
 

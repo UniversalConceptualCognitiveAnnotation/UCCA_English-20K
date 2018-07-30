@@ -1,12 +1,12 @@
 1	“	_	Punctuation	-	-	_	_	U
 2	We	_	Word	-	-	_	A	_
-3	’ll	_	Word	-	-	_	E	_
+3	’ll	_	Word	-	-	_	F	_
 4	be	_	Word	-	-	_	F	_
 5	quite	_	Word	-	-	_	D	_
 6	comfortable	_	Word	-	+	_	_	_
 7	here	_	Word	-	-	_	A	_
-8	,	_	Punctuation	-	-	_	U	_
-9	”	_	Punctuation	-	-	_	U	_
+8	,	_	Punctuation	-	-	_	_	U
+9	”	_	Punctuation	-	-	_	_	U
 10	I	_	Word	-	-	_	_	A
 11	told	_	Word	-	+	_	_	_
 12	Conseil	_	Word	-	-	_	_	A

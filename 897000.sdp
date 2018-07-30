@@ -1,49 +1,49 @@
-1	“	_	Punctuation	-	-	_	U	_	_	_	_	_	_	_	_	_	_	_
-2	But	_	Word	-	-	_	L	_	_	_	_	_	_	_	_	_	_	_
-3	Ned	_	Word	-	-	_	A	_	_	_	_	_	_	_	_	_	_	_
-4	,	_	Punctuation	-	-	_	U	_	_	_	_	_	_	_	_	_	_	_
-5	you	_	Word	-	-	_	F	_	_	_	_	_	_	_	_	_	_	_
-6	’re	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_
-7	a	_	Word	-	-	_	_	E	_	_	_	_	_	_	_	_	_	_
-8	professional	_	Word	-	-	_	_	E	_	_	_	_	_	_	_	_	_	_
-9	whaler	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_
-10	,	_	Punctuation	-	-	_	_	U	_	_	_	_	_	_	_	_	_	_
-11	a	_	Word	-	-	_	_	_	E	_	_	_	_	_	_	_	_	_
-12	man	_	Word	-	+	_	_	_	_	A	_	_	_	_	_	_	_	_
-13	familiar	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_
-14	with	_	Word	-	-	_	_	_	_	_	R	_	_	_	_	_	_	_
-15	all	_	Word	-	-	_	_	_	_	_	E	_	_	_	_	_	_	_
-16	the	_	Word	-	-	_	_	_	_	_	E	_	_	_	_	_	_	_
-17	great	_	Word	-	-	_	_	_	_	_	E	_	_	_	_	_	_	_
-18	marine	_	Word	-	-	_	_	_	_	_	E	_	_	_	_	_	_	_
-19	mammals	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_
-20	—	_	Punctuation	-	-	_	U	_	_	_	_	_	_	_	_	_	_	_
-21	your	_	Word	-	-	_	_	_	_	_	_	E	_	_	_	_	_	_
-22	mind	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_
-23	should	_	Word	-	-	_	_	_	_	_	_	_	E	_	_	_	_	_
-24	easily	_	Word	-	-	_	_	_	_	_	_	_	D	_	_	_	_	_
-25	accept	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_
-26	this	_	Word	-	-	_	_	_	_	_	_	_	_	E	_	_	_	_
-27	hypothesis	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_
-28	of	_	Word	-	-	_	_	_	_	_	_	_	_	_	R	_	_	_
-29	an	_	Word	-	-	_	_	_	_	_	_	_	_	_	E	_	_	_
-30	enormous	_	Word	-	-	_	_	_	_	_	_	_	_	_	E	_	_	_
-31	cetacean	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_
-32	,	_	Punctuation	-	-	_	U	_	_	_	_	_	_	_	_	_	_	_
-33	and	_	Word	-	-	_	L	_	_	_	_	_	_	_	_	_	_	_
-34	you	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	A	_
-35	ought	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	E	_	_
-36	to	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	F	_	_
-37	be	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	F	_	_
-38	the	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	E	_	_
-39	last	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	E	_	_
-40	one	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_
-41	to	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	F	_
-42	doubt	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_
-43	it	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	A	_
-44	under	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	R
-45	these	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	E
-46	circumstances	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_
-47	!	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	_	_	_	U
-48	”	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	_	_	_	U
+1	“	_	Punctuation	-	-	_	U	_	_	_	_	_	_	_	_	_	_	_	_
+2	But	_	Word	-	-	_	L	_	_	_	_	_	_	_	_	_	_	_	_
+3	Ned	_	Word	-	-	_	G	_	_	_	_	_	_	_	_	_	_	_	_
+4	,	_	Punctuation	-	-	_	U	_	_	_	_	_	_	_	_	_	_	_	_
+5	you	_	Word	-	-	_	A	_	_	_	_	_	_	_	_	_	_	_	_
+6	’re	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+7	a	_	Word	-	-	_	_	E	_	_	_	_	_	_	_	_	_	_	_
+8	professional	_	Word	-	-	_	_	E	_	_	_	_	_	_	_	_	_	_	_
+9	whaler	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+10	,	_	Punctuation	-	-	_	_	U	_	_	_	_	_	_	_	_	_	_	_
+11	a	_	Word	-	-	_	_	_	E	_	_	_	_	_	_	_	_	_	_
+12	man	_	Word	-	+	_	_	_	_	A	_	_	_	_	_	_	_	_	_
+13	familiar	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+14	with	_	Word	-	-	_	_	_	_	_	R	_	_	_	_	_	_	_	_
+15	all	_	Word	-	-	_	_	_	_	_	E	_	_	_	_	_	_	_	_
+16	the	_	Word	-	-	_	_	_	_	_	E	_	_	_	_	_	_	_	_
+17	great	_	Word	-	-	_	_	_	_	_	E	_	_	_	_	_	_	_	_
+18	marine	_	Word	-	-	_	_	_	_	_	E	_	_	_	_	_	_	_	_
+19	mammals	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+20	—	_	Punctuation	-	-	_	U	_	_	_	_	_	_	_	_	_	_	_	_
+21	your	_	Word	-	-	_	_	_	_	_	_	E	_	_	_	_	_	_	_
+22	mind	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+23	should	_	Word	-	-	_	_	_	_	_	_	_	D	_	_	_	_	_	_
+24	easily	_	Word	-	-	_	_	_	_	_	_	_	D	_	_	_	_	_	_
+25	accept	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+26	this	_	Word	-	-	_	_	_	_	_	_	_	_	E	_	_	_	_	_
+27	hypothesis	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+28	of	_	Word	-	-	_	_	_	_	_	_	_	_	_	R	_	_	_	_
+29	an	_	Word	-	-	_	_	_	_	_	_	_	_	_	E	_	_	_	_
+30	enormous	_	Word	-	-	_	_	_	_	_	_	_	_	_	E	_	_	_	_
+31	cetacean	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+32	,	_	Punctuation	-	-	_	U	_	_	_	_	_	_	_	_	_	_	_	_
+33	and	_	Word	-	-	_	L	_	_	_	_	_	_	_	_	_	_	_	_
+34	you	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	A	_
+35	ought	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	D	_
+36	to	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	Terminal	_	_	_
+37	be	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	Terminal	_	_	_
+38	the	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	E	_	_
+39	last	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	E	_	_
+40	one	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+41	to	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	F	_
+42	doubt	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+43	it	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	A	_
+44	under	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	R
+45	these	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	E
+46	circumstances	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+47	!	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	U
+48	”	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	U
 

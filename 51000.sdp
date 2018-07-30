@@ -6,7 +6,7 @@
 6	in	_	Word	-	-	_	_	_	R	_	_	_	_	_	_
 7	itself	_	Word	-	+	_	_	_	_	_	_	_	_	_	_
 8	,	_	Punctuation	-	-	_	_	_	_	U	_	_	_	_	_
-9	might	_	Word	-	-	_	_	_	_	E	_	_	_	_	_
+9	might	_	Word	-	-	_	_	_	_	D	_	_	_	_	_
 10	perhaps	_	Word	-	-	_	_	_	_	G	_	_	_	_	_
 11	have	_	Word	-	-	_	_	_	_	F	_	_	_	_	_
 12	been	_	Word	-	-	_	_	_	_	F	_	_	_	_	_
@@ -21,11 +21,12 @@
 21	weeks	_	Word	-	+	_	_	_	_	_	_	_	_	_	_
 22	later	_	Word	-	-	_	_	_	_	_	_	_	R	_	_
 23	it	_	Word	-	-	_	_	_	_	_	_	_	_	A	_
-24	hadn\u2019t	_	Word	-	-	_	_	_	_	_	_	_	_	F	_
-25	been	_	Word	-	-	_	_	_	_	_	_	_	_	F	_
-26	reenacted	_	Word	-	+	_	_	_	_	_	_	_	_	_	_
-27	under	_	Word	-	-	_	_	_	_	_	_	_	_	_	R
-28	identical	_	Word	-	-	_	_	_	_	_	_	_	_	_	E
-29	conditions	_	Word	-	+	_	_	_	_	_	_	_	_	_	_
-30	.	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	U
+24	had	_	Word	-	-	_	_	_	_	_	_	_	_	F	_
+25	n't	_	Word	-	-	_	_	_	_	_	_	_	_	D	_
+26	been	_	Word	-	-	_	_	_	_	_	_	_	_	F	_
+27	reenacted	_	Word	-	+	_	_	_	_	_	_	_	_	_	_
+28	under	_	Word	-	-	_	_	_	_	_	_	_	_	_	R
+29	identical	_	Word	-	-	_	_	_	_	_	_	_	_	_	E
+30	conditions	_	Word	-	+	_	_	_	_	_	_	_	_	_	_
+31	.	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	U
 

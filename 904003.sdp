@@ -1,5 +1,24 @@
-1	Listen	_	Word	-	-	_	_
-2	to	_	Word	-	-	_	R
-3	me	_	Word	-	+	_	_
-4	.	_	Punctuation	-	-	_	U
+1	Let	_	Word	-	-	_	D	_	_	_	_	_	_	_	_
+2	’s	_	Word	-	-	_	A	_	_	_	_	_	_	_	_
+3	accept	_	Word	-	+	_	_	_	_	_	_	_	_	_	_
+4	that	_	Word	-	-	_	_	_	_	R	_	_	_	_	_
+5	the	_	Word	-	-	_	_	E	_	_	_	_	_	_	_
+6	pressure	_	Word	-	+	_	_	_	_	_	_	_	_	_	_
+7	of	_	Word	-	-	_	_	_	R	_	_	_	_	_	_
+8	one	_	Word	-	-	_	_	_	E	_	_	_	_	_	_
+9	atmosphere	_	Word	-	+	_	_	_	_	_	_	_	_	_	_
+10	is	_	Word	-	-	_	_	_	_	F	_	_	_	_	_
+11	represented	_	Word	-	+	_	_	_	_	_	_	_	_	_	_
+12	by	_	Word	-	-	_	_	_	_	_	R	_	_	_	_
+13	the	_	Word	-	-	_	_	_	_	_	E	_	_	_	_
+14	pressure	_	Word	-	+	_	_	_	_	_	_	_	_	_	_
+15	of	_	Word	-	-	_	_	_	_	_	_	R	_	_	_
+16	a	_	Word	-	-	_	_	_	_	_	_	E	_	_	_
+17	column	_	Word	-	+	_	_	_	_	_	_	_	_	_	A
+18	of	_	Word	-	-	_	_	_	_	_	_	_	R	_	_
+19	water	_	Word	-	+	_	_	_	_	_	_	_	_	_	_
+20	thirty-two	_	Word	-	-	_	_	_	_	_	_	_	_	E	_
+21	feet	_	Word	-	+	_	_	_	_	_	_	_	_	_	_
+22	high	_	Word	-	+	_	_	_	_	_	_	_	_	_	_
+23	.	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	U
 

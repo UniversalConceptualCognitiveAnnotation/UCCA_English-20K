@@ -1,7 +1,7 @@
 1	So	_	Word	-	-	_	_	_	L	_	_	_	_	_	_	_	_	_	_	_
-2	only	_	Word	-	-	_	R	_	_	_	_	_	_	_	_	_	_	_	_	_
-3	two	_	Word	-	-	_	E	_	_	_	_	_	_	_	_	_	_	_	_	_
-4	possible	_	Word	-	-	_	E	_	_	_	_	_	_	_	_	_	_	_	_	_
+2	only	_	Word	-	-	_	D	_	_	_	_	_	_	_	_	_	_	_	_	_
+3	two	_	Word	-	-	_	D	_	_	_	_	_	_	_	_	_	_	_	_	_
+4	possible	_	Word	-	-	_	D	_	_	_	_	_	_	_	_	_	_	_	_	_
 5	solutions	_	Word	-	+	_	_	_	_	A	_	_	_	_	_	_	_	_	_	_
 6	to	_	Word	-	-	_	_	R	_	_	_	_	_	_	_	_	_	_	_	_
 7	the	_	Word	-	-	_	_	E	_	_	_	_	_	_	_	_	_	_	_	_
@@ -26,7 +26,7 @@
 26	a	_	Word	-	-	_	_	_	_	_	_	_	_	_	E	_	_	_	_	_
 27	monster	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
 28	of	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	R	_	_	_	_
-29	colossal	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	E	_	_	_	_
+29	colossal	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	D	_	_	_	_
 30	strength	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
 31	;	_	Punctuation	-	-	_	_	_	_	_	_	_	_	U	_	_	_	_	_	_
 32	on	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	R	_	_	_
@@ -39,10 +39,10 @@
 39	“	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	U	_
 40	underwater	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	E	_
 41	boat	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
-42	”	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	U	_
+42	”	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	U
 43	of	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	R
-44	tremendous	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	E
-45	motor	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	E
+44	tremendous	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	D
+45	motor	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	D
 46	power	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
 47	.	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	U
 

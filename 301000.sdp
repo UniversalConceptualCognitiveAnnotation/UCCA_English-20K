@@ -1,7 +1,7 @@
 1	“	_	Punctuation	-	-	_	U	_	_	_	_	_
 2	Either	_	Word	-	-	_	L	_	_	_	_	_
 3	we	_	Word	-	-	_	A	_	_	_	_	_
-4	know	_	Word	-	+	_	_	_	_	_	_	C
+4	know	_	Word	-	+	_	_	_	_	_	_	P
 5	every	_	Word	-	-	_	_	E	_	_	_	_
 6	variety	_	Word	-	+	_	_	_	_	_	_	_
 7	of	_	Word	-	-	_	_	_	R	_	_	_
@@ -11,8 +11,8 @@
 11	planet	_	Word	-	+	_	_	_	_	_	_	_
 12	,	_	Punctuation	-	-	_	U	_	_	_	_	_
 13	or	_	Word	-	-	_	L	_	_	_	_	_
-14	we	_	Word	-	-	_	_	_	_	_	_	A
-15	do	_	Word	-	+	_	_	_	_	_	_	_
+14	we	_	Word	-	+	_	_	_	_	_	_	_
+15	do	_	Word	-	-	_	_	_	_	_	_	F
 16	not	_	Word	-	-	_	_	_	_	_	_	D
 17	.	_	Punctuation	-	-	_	_	_	_	_	_	U
 

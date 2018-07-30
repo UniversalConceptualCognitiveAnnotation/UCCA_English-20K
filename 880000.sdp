@@ -1,9 +1,9 @@
 1	﻿	_	Punctuation	-	-	_	_	U	_	_	_	_
 2	Commander	_	Word	-	-	_	E	_	_	_	_	_
 3	Farragut	_	Word	-	+	_	_	_	_	A	_	_
-4	was	_	Word	-	+	_	_	_	_	_	_	_
+4	was	_	Word	-	-	_	_	F	_	_	_	_
 5	a	_	Word	-	-	_	_	_	E	_	_	_
-6	good	_	Word	-	-	_	_	_	E	_	_	_
+6	good	_	Word	-	+	_	_	_	_	_	_	_
 7	seaman	_	Word	-	+	_	_	_	_	_	_	_
 8	,	_	Punctuation	-	-	_	_	U	_	_	_	_
 9	worthy	_	Word	-	+	_	_	_	_	_	_	_

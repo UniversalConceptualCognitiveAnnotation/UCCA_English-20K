@@ -1,18 +1,33 @@
-1	“	_	Punctuation	-	-	_	U	_	_
-2	But	_	Word	-	-	_	L	_	_
-3	think	_	Word	-	+	_	_	_	_
-4	it	_	Word	-	-	_	A	_	_
-5	over	_	Word	-	-	_	D	_	_
-6	,	_	Punctuation	-	-	_	U	_	_
-7	because	_	Word	-	-	_	L	_	_
-8	I	_	Word	-	-	_	_	A	_
-9	don	_	Word	-	-	_	_	F	_
-10	’t	_	Word	-	-	_	_	D	_
-11	want	_	Word	-	-	_	_	E	_
-12	to	_	Word	-	-	_	_	F	_
-13	hide	_	Word	-	+	_	_	_	_
-14	anything	_	Word	-	-	_	_	A	_
-15	from	_	Word	-	-	_	_	_	R
-16	you	_	Word	-	+	_	_	_	_
-17	.	_	Punctuation	-	-	_	_	_	U
+1	“	_	Punctuation	-	-	_	U	_	_	_	_	_	_	_
+2	But	_	Word	-	-	_	L	_	_	_	_	_	_	_
+3	think	_	Word	-	+	_	_	_	_	_	_	_	_	_
+4	it	_	Word	-	-	_	A	_	_	_	_	_	_	_
+5	over	_	Word	-	-	_	D	_	_	_	_	_	_	_
+6	,	_	Punctuation	-	-	_	U	_	_	_	_	_	_	_
+7	because	_	Word	-	-	_	L	_	_	_	_	_	_	_
+8	I	_	Word	-	-	_	_	A	_	_	_	_	_	_
+9	do	_	Word	-	-	_	_	F	_	_	_	_	_	_
+10	n’t	_	Word	-	-	_	_	D	_	_	_	_	_	_
+11	want	_	Word	-	-	_	_	D	_	_	_	_	_	_
+12	to	_	Word	-	-	_	_	F	_	_	_	_	_	_
+13	hide	_	Word	-	+	_	_	_	_	_	_	_	_	_
+14	anything	_	Word	-	-	_	_	A	_	_	_	_	_	_
+15	from	_	Word	-	-	_	_	_	R	_	_	_	_	_
+16	you	_	Word	-	+	_	_	_	_	_	_	_	_	_
+17	.	_	Punctuation	-	-	_	U	_	_	_	_	_	_	_
+18	This	_	Word	-	-	_	_	_	_	A	_	_	_	_
+19	is	_	Word	-	+	_	_	_	_	_	_	_	_	_
+20	one	_	Word	-	+	_	_	_	_	_	_	_	_	_
+21	of	_	Word	-	-	_	_	_	_	_	R	_	_	_
+22	those	_	Word	-	-	_	_	_	_	_	_	E	_	_
+23	voyages	_	Word	-	+	_	_	_	_	_	_	_	_	_
+24	from	_	Word	-	+	_	_	_	_	_	_	_	_	R
+25	which	_	Word	-	-	_	_	_	_	_	_	_	Terminal	_
+26	people	_	Word	-	-	_	_	_	_	_	_	_	_	A
+27	do	_	Word	-	-	_	_	_	_	_	_	_	_	F
+28	n’t	_	Word	-	-	_	_	_	_	_	_	_	_	D
+29	always	_	Word	-	-	_	_	_	_	_	_	_	_	T
+30	come	_	Word	-	+	_	_	_	_	_	_	_	_	_
+31	back	_	Word	-	-	_	_	_	_	_	_	_	_	Terminal
+32	!	_	Punctuation	-	-	_	_	_	_	_	_	_	_	U
 

@@ -1,4 +1,4 @@
-1	Never	_	Word	-	-	_	D	_	_	_	_	_	_	_
+1	Never	_	Word	-	-	_	T	_	_	_	_	_	_	_
 2	did	_	Word	-	-	_	F	_	_	_	_	_	_	_
 3	he	_	Word	-	-	_	A	A	_	_	_	_	_	_
 4	object	_	Word	-	+	_	_	_	_	_	_	_	_	_
@@ -17,9 +17,9 @@
 17	the	_	Word	-	-	_	_	_	_	_	_	E	_	_
 18	Congo	_	Word	-	+	_	_	_	_	_	_	_	_	_
 19	,	_	Punctuation	-	-	_	_	_	_	U	_	_	_	_
-20	no	_	Word	-	+	_	_	_	_	_	_	_	_	F
+20	no	_	Word	-	+	_	_	_	_	_	_	_	_	D
 21	matter	_	Word	-	-	_	_	_	_	_	_	_	Terminal	_
-22	how	_	Word	-	-	_	_	_	_	_	_	_	Terminal	_
+22	how	_	Word	-	-	_	_	_	_	_	_	_	_	D
 23	far	_	Word	-	+	_	_	_	_	_	_	_	_	_
 24	off	_	Word	-	-	_	_	_	_	_	_	_	_	Terminal
 25	it	_	Word	-	-	_	_	_	_	_	_	_	_	A

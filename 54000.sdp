@@ -19,10 +19,10 @@
 19	in	_	Word	-	-	_	_	_	_	_	_	R	R
 20	longitude	_	Word	-	-	_	_	_	_	_	_	E	_
 21	15°	_	Word	-	+	_	_	_	_	_	_	_	_
-22	12\u2032	_	Word	-	-	_	_	_	_	_	_	Terminal	_
+22	12'	_	Word	-	-	_	_	_	_	_	_	Terminal	_
 23	and	_	Word	-	-	_	_	_	_	_	_	N	_
 24	latitude	_	Word	-	-	_	_	_	_	_	_	_	E
 25	45°	_	Word	-	+	_	_	_	_	_	_	_	_
-26	37\u2032	_	Word	-	-	_	_	_	_	_	_	_	Terminal
+26	37'	_	Word	-	-	_	_	_	_	_	_	_	Terminal
 27	.	_	Punctuation	-	-	_	_	_	_	_	_	_	U
 

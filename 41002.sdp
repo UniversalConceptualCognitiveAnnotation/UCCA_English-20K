@@ -7,7 +7,7 @@
 7	subject	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
 8	to	_	Word	-	-	_	_	_	R	_	_	_	_	_	_	_	_	_	_	_
 9	the	_	Word	-	-	_	_	_	E	_	_	_	_	_	_	_	_	_	_	_
-10	intermittent	_	Word	-	-	_	_	_	E	_	_	_	_	_	_	_	_	_	_	_
+10	intermittent	_	Word	-	-	_	_	_	D	_	_	_	_	_	_	_	_	_	_	_
 11	eruptions	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
 12	of	_	Word	-	-	_	_	_	_	R	_	_	_	_	_	_	_	_	_	_
 13	a	_	Word	-	-	_	_	_	_	E	_	_	_	_	_	_	_	_	_	_
@@ -16,10 +16,10 @@
 16	the	_	Word	-	-	_	_	_	_	_	E	_	_	_	_	_	_	_	_	_
 17	Governor	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
 18	Higginson	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
-19	had	_	Word	-	-	_	_	_	_	_	_	E	_	_	_	_	_	_	_	_
+19	had	_	Word	-	-	_	_	_	_	_	_	_	F	_	_	_	_	_	_	_
 20	fair	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
 21	and	_	Word	-	-	_	_	_	_	_	_	N	_	_	_	_	_	_	_	_
-22	honest	_	Word	-	-	_	_	_	_	_	_	_	E	_	_	_	_	_	_	_
+22	honest	_	Word	-	-	_	_	_	_	_	_	C	_	_	_	_	_	_	_	_
 23	dealings	_	Word	-	+	_	_	_	_	_	_	C	_	_	_	_	_	_	_	_
 24	with	_	Word	-	-	_	_	_	_	_	_	_	_	R	_	_	_	_	_	_
 25	some	_	Word	-	-	_	_	_	_	_	_	_	_	E	_	_	_	_	_	_
@@ -30,8 +30,8 @@
 30	then	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
 31	unknown	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
 32	,	_	Punctuation	-	-	_	_	_	_	_	_	_	_	U	_	_	_	_	_	_
-33	that	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	F	_	_	_
-34	could	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	E	_	_	_
+33	that	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	R	_	_	_
+34	could	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	D	_	_	_
 35	spurt	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
 36	from	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	R	_	_
 37	its	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	E	_	_

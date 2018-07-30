@@ -1,19 +1,19 @@
-1	But	_	Word	-	-	_	_	_	_	_	L	_
-2	this	_	Word	-	-	_	E	_	_	_	_	_
-3	stubborn	_	Word	-	-	_	E	_	_	_	_	_
-4	Canadian	_	Word	-	+	_	_	_	_	_	_	_
-5	spent	_	Word	-	-	_	_	_	_	_	E	_
-6	eight	_	Word	-	-	_	_	E	_	_	_	_
-7	hours	_	Word	-	+	_	_	_	_	C	_	_
-8	out	_	Word	-	+	_	_	R	_	_	_	_
-9	of	_	Word	-	-	_	_	_	Terminal	_	_	_
-10	every	_	Word	-	+	_	_	_	_	_	_	_
-11	twelve	_	Word	-	-	_	_	_	_	E	_	_
-12	reading	_	Word	-	+	_	_	_	_	_	_	_
-13	or	_	Word	-	-	_	_	_	_	_	N	_
-14	sleeping	_	Word	-	-	_	_	_	_	_	C	_
-15	in	_	Word	-	-	_	_	_	_	_	_	R
-16	his	_	Word	-	-	_	_	_	_	_	_	E
-17	cabin	_	Word	-	+	_	_	_	_	_	_	_
-18	.	_	Punctuation	-	-	_	_	_	_	_	_	U
+1	But	_	Word	-	-	_	_	_	_	_	_	L	_
+2	this	_	Word	-	-	_	_	E	_	_	_	_	_
+3	stubborn	_	Word	-	+	_	_	_	_	_	_	_	_
+4	Canadian	_	Word	-	+	_	A	_	_	_	_	_	_
+5	spent	_	Word	-	-	_	_	_	_	_	_	D	_
+6	eight	_	Word	-	-	_	_	_	E	_	_	_	_
+7	hours	_	Word	-	+	_	_	_	_	_	C	_	_
+8	out	_	Word	-	+	_	_	_	R	_	_	_	_
+9	of	_	Word	-	-	_	_	_	_	Terminal	_	_	_
+10	every	_	Word	-	+	_	_	_	_	_	_	_	_
+11	twelve	_	Word	-	-	_	_	_	_	_	E	_	_
+12	reading	_	Word	-	+	_	_	_	_	_	_	_	_
+13	or	_	Word	-	-	_	_	_	_	_	_	N	_
+14	sleeping	_	Word	-	-	_	_	_	_	_	_	C	_
+15	in	_	Word	-	-	_	_	_	_	_	_	_	R
+16	his	_	Word	-	-	_	_	_	_	_	_	_	E
+17	cabin	_	Word	-	+	_	_	_	_	_	_	_	_
+18	.	_	Punctuation	-	-	_	_	_	_	_	_	_	U
 

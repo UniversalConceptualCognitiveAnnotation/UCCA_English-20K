@@ -1,10 +1,10 @@
 1	But	_	Word	-	-	_	_	L	_	_	_	_	_	_	_	_
 2	one	_	Word	-	-	_	E	_	_	_	_	_	_	_	_	_
-3	circumstance	_	Word	-	+	_	_	_	A	_	_	A	_	_	_	_
+3	circumstance	_	Word	-	+	_	_	_	_	_	_	A	_	_	_	_
 4	arose	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_
-5	that	_	Word	-	-	_	_	L	_	_	_	_	_	_	_	_
+5	that	_	Word	-	-	_	_	_	R	_	_	_	_	_	_	_
 6	displayed	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_
-7	Ned	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_
+7	Ned	_	Word	-	+	_	_	_	_	_	A	_	_	_	_	_
 8	Land	_	Word	-	-	_	_	_	_	Terminal	_	_	_	_	_	_
 9	’s	_	Word	-	-	_	_	_	_	R	_	_	_	_	_	_
 10	marvelous	_	Word	-	-	_	_	_	_	_	E	_	_	_	_	_
@@ -16,7 +16,7 @@
 16	much	_	Word	-	-	_	_	_	_	_	_	_	Terminal	_	_	_
 17	confidence	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_
 18	we	_	Word	-	-	_	_	_	_	_	_	_	_	_	A	_
-19	could	_	Word	-	-	_	_	_	_	_	_	_	_	_	E	_
+19	could	_	Word	-	-	_	_	_	_	_	_	_	_	_	D	_
 20	place	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_
 21	in	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	R
 22	him	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_

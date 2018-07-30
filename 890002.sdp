@@ -1,6 +1,6 @@
 1	His	_	Word	-	-	_	E	_	_	_	_	_	_	_	_	_	_
 2	tales	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_
-3	took	_	Word	-	+	_	_	_	E	_	_	_	_	_	_	_	_
+3	took	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_
 4	on	_	Word	-	-	_	_	Terminal	_	_	_	_	_	_	_	_	_
 5	the	_	Word	-	-	_	_	_	E	_	_	_	_	_	_	_	_
 6	form	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_
@@ -8,8 +8,8 @@
 8	an	_	Word	-	-	_	_	_	_	E	_	_	_	_	_	_	_
 9	epic	_	Word	-	-	_	_	_	_	E	_	_	_	_	_	_	_
 10	poem	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_
-11	,	_	Punctuation	-	-	_	_	_	U	_	_	_	_	_	_	_	_
-12	and	_	Word	-	-	_	_	_	L	_	_	_	_	_	_	_	_
+11	,	_	Punctuation	-	-	_	_	U	_	_	_	_	_	_	_	_	_
+12	and	_	Word	-	-	_	_	L	_	_	_	_	_	_	_	_	_
 13	I	_	Word	-	-	_	_	_	_	_	A	_	_	_	_	_	_
 14	felt	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_
 15	I	_	Word	-	-	_	_	_	_	_	_	A	_	_	_	_	_

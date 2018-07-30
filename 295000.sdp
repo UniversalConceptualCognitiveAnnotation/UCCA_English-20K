@@ -21,8 +21,8 @@
 21	the	_	Word	-	-	_	_	_	_	_	_	_	E	_	_
 22	human	_	Word	-	-	_	_	_	_	_	_	_	E	_	_
 23	imagination	_	Word	-	+	_	_	_	_	_	_	_	_	_	_
-24	soon	_	Word	-	-	_	_	_	_	_	_	_	_	D	_
-25	got	_	Word	-	-	_	_	_	_	_	_	_	_	E	_
+24	soon	_	Word	-	-	_	_	_	_	_	_	_	_	T	_
+25	got	_	Word	-	-	_	_	_	_	_	_	_	_	D	_
 26	caught	_	Word	-	+	_	_	_	_	_	_	_	_	_	_
 27	up	_	Word	-	-	_	_	_	_	_	_	_	_	Terminal	_
 28	in	_	Word	-	-	_	_	_	_	_	_	_	_	_	R

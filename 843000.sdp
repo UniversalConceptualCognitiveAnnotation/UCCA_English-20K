@@ -11,13 +11,13 @@
 11	York	_	Word	-	-	_	_	_	_	Terminal	_	_	_
 12	bordering	_	Word	-	-	_	_	_	_	_	_	_	_
 13	the	_	Word	-	-	_	_	_	_	_	E	_	_
-14	East	_	Word	-	-	_	_	_	_	_	E	_	_
-15	River	_	Word	-	+	_	_	_	_	_	_	_	_
+14	East	_	Word	-	+	_	_	_	_	_	_	_	_
+15	River	_	Word	-	-	_	_	_	_	_	Terminal	_	_
 16	,	_	Punctuation	-	-	_	_	_	_	_	_	U	_
 17	were	_	Word	-	-	_	_	_	_	_	_	F	_
 18	crowded	_	Word	-	+	_	_	_	_	_	_	_	_
 19	with	_	Word	-	-	_	_	_	_	_	_	_	R
-20	curiosity	_	Word	-	-	_	_	_	_	_	_	_	E
+20	curiosity	_	Word	-	-	_	_	_	_	_	_	_	A
 21	seekers	_	Word	-	+	_	_	_	_	_	_	_	_
 22	.	_	Punctuation	-	-	_	_	_	_	_	_	_	U
 

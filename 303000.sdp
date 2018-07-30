@@ -14,7 +14,7 @@
 14	species	_	Word	-	+	_	_	_	A	_	_	_	_	_	_	_	_	_	_	_
 15	,	_	Punctuation	-	-	_	_	U	_	_	_	_	_	_	_	_	_	_	_	_
 16	we	_	Word	-	-	_	_	_	_	_	A	_	_	_	_	_	_	_	_	_
-17	must	_	Word	-	-	_	_	_	_	_	E	_	_	_	_	_	_	_	_	_
+17	must	_	Word	-	-	_	_	_	_	_	D	_	_	_	_	_	_	_	_	_
 18	look	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
 19	for	_	Word	-	-	_	_	_	_	_	Terminal	_	_	_	_	_	_	_	_	_
 20	the	_	Word	-	-	_	_	_	_	_	_	E	_	_	_	_	_	_	_	_

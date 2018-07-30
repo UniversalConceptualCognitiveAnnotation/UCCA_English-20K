@@ -1,9 +1,9 @@
 1	The	_	Word	-	-	_	E	_	_
 2	question	_	Word	-	+	_	_	_	_
-3	took	_	Word	-	-	_	_	_	F
-4	an	_	Word	-	-	_	_	_	E
-5	entirely	_	Word	-	-	_	_	E	_
+3	took	_	Word	-	+	_	_	_	_
+4	an	_	Word	-	-	_	_	Terminal	_
+5	entirely	_	Word	-	-	_	_	_	E
 6	new	_	Word	-	+	_	_	_	_
-7	turn	_	Word	-	+	_	_	_	_
-8	.	_	Punctuation	-	-	_	_	_	U
+7	turn	_	Word	-	-	_	_	Terminal	_
+8	.	_	Punctuation	-	-	_	_	U	_
 

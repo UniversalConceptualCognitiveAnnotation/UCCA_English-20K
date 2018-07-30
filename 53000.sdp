@@ -10,7 +10,7 @@
 10	is	_	Word	-	-	_	_	_	F	_	_	_	_	_	_
 11	so	_	Word	-	+	_	_	_	_	_	_	_	_	_	_
 12	everyone	_	Word	-	-	_	_	_	_	A	_	_	_	_	_
-13	can	_	Word	-	-	_	_	_	_	E	_	_	_	_	_
+13	can	_	Word	-	-	_	_	_	_	D	_	_	_	_	_
 14	fully	_	Word	-	-	_	_	_	_	D	_	_	_	_	_
 15	understand	_	Word	-	+	_	_	_	_	_	_	_	_	_	_
 16	the	_	Word	-	-	_	_	_	_	_	E	_	_	_	_
@@ -19,7 +19,7 @@
 19	this	_	Word	-	-	_	_	_	_	_	_	E	_	_	_
 20	maritime	_	Word	-	-	_	_	_	_	_	_	E	_	_	_
 21	transportation	_	Word	-	-	_	_	_	_	_	_	E	_	_	_
-22	company	_	Word	-	+	_	_	_	_	_	_	_	A	_	_
+22	company	_	Word	-	+	_	_	_	_	_	_	_	A	_	A
 23	,	_	Punctuation	-	-	_	_	_	_	_	_	U	_	_	_
 24	known	_	Word	-	+	_	_	_	_	_	_	_	_	_	_
 25	the	_	Word	-	-	_	_	_	_	_	_	_	_	E	_
@@ -27,7 +27,7 @@
 27	over	_	Word	-	-	_	_	_	_	_	_	_	_	R	_
 28	for	_	Word	-	-	_	_	_	_	_	_	_	_	_	R
 29	its	_	Word	-	-	_	_	_	_	_	_	_	_	_	E
-30	shrewd	_	Word	-	-	_	_	_	_	_	_	_	_	_	E
+30	shrewd	_	Word	-	-	_	_	_	_	_	_	_	_	_	D
 31	management	_	Word	-	+	_	_	_	_	_	_	_	_	_	_
 32	.	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	U
 

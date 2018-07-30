@@ -13,7 +13,7 @@
 13	but	_	Word	-	-	_	_	_	R	_	_	_	_
 14	a	_	Word	-	-	_	_	_	_	_	_	E	_
 15	runaway	_	Word	-	-	_	_	_	_	_	_	E	_
-16	reef	_	Word	-	+	_	_	_	_	_	_	_	_
+16	reef	_	Word	-	+	_	_	_	_	_	_	_	A
 17	,	_	Punctuation	-	-	_	_	_	_	_	_	U	_
 18	unfixed	_	Word	-	+	_	_	_	_	_	_	_	_
 19	and	_	Word	-	-	_	_	_	_	_	_	_	N

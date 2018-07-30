@@ -17,7 +17,7 @@
 17	to	_	Word	-	-	_	_	_	_	_	_	R
 18	the	_	Word	-	-	_	_	_	_	_	E	_
 19	monster	_	Word	-	+	_	_	_	_	_	_	_
-20	\u2019s	_	Word	-	-	_	_	_	_	_	R	_
+20	's	_	Word	-	-	_	_	_	_	_	R	_
 21	account	_	Word	-	+	_	_	_	_	_	_	_
 22	.	_	Punctuation	-	-	_	_	_	_	_	_	U
 

@@ -4,10 +4,10 @@
 4	,	_	Punctuation	-	-	_	_	_	U	_	_	_	_	_	_	_
 5	the	_	Word	-	-	_	_	E	_	_	_	_	_	_	_	_
 6	company	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_
-7	\u2019s	_	Word	-	-	_	_	F	_	_	_	_	_	_	_	_
+7	's	_	Word	-	-	_	_	R	_	_	_	_	_	_	_	_
 8	assets	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_
 9	were	_	Word	-	-	_	_	_	F	_	_	_	_	_	_	_
-10	increased	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_
+10	increased	_	Word	-	+	_	_	_	_	_	_	_	_	P	_	_
 11	by	_	Word	-	-	_	_	_	_	_	R	_	_	_	_	_
 12	four	_	Word	-	-	_	_	_	_	_	E	_	_	_	_	_
 13	650	_	Word	-	-	_	_	_	_	E	_	_	_	_	_	_

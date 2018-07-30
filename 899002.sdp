@@ -1,10 +1,36 @@
-1	“	_	Punctuation	-	-	_	U	_
-2	But	_	Word	-	-	_	L	_
-3	I	_	Word	-	-	_	A	_
-4	’ve	_	Word	-	-	_	F	_
-5	never	_	Word	-	-	_	D	_
-6	seen	_	Word	-	+	_	_	_
-7	the	_	Word	-	-	_	_	E
-8	like	_	Word	-	+	_	_	_
-9	.	_	Punctuation	-	-	_	_	U
+1	”	_	Punctuation	-	-	_	_	_	U	_	_	_	_
+2	“	_	Punctuation	-	-	_	_	_	U	_	_	_	_
+3	Listen	_	Word	-	+	_	_	_	P	_	_	_	_
+4	to	_	Word	-	-	_	_	R	_	_	_	_	_
+5	me	_	Word	-	+	_	_	_	_	_	_	_	_
+6	,	_	Punctuation	-	-	_	U	_	_	_	_	_	_
+7	Ned	_	Word	-	-	_	G	_	_	_	_	_	_
+8	—	_	Punctuation	-	-	_	U	_	_	_	_	_	_
+9	”	_	Punctuation	-	-	_	U	_	_	_	_	_	_
+10	“	_	Punctuation	-	-	_	U	_	_	_	_	_	_
+11	No	_	Word	-	+	_	_	_	_	_	_	_	_
+12	,	_	Punctuation	-	-	_	_	_	U	_	_	_	_
+13	no	_	Word	-	-	_	_	_	D	_	_	_	_
+14	,	_	Punctuation	-	-	_	_	_	U	_	_	_	_
+15	professor	_	Word	-	-	_	_	_	G	_	_	_	_
+16	.	_	Punctuation	-	-	_	_	_	U	_	_	_	_
+17	I	_	Word	-	-	_	_	_	_	A	_	_	_
+18	’ll	_	Word	-	-	_	_	_	_	F	_	_	_
+19	go	_	Word	-	+	_	_	_	_	_	_	_	_
+20	along	_	Word	-	-	_	_	_	_	Terminal	_	_	_
+21	with	_	Word	-	-	_	_	_	_	_	R	_	_
+22	anything	_	Word	-	-	_	_	_	_	_	A	_	_
+23	you	_	Word	-	-	_	_	_	_	_	A	_	_
+24	want	_	Word	-	+	_	_	_	_	_	_	_	_
+25	except	_	Word	-	-	_	_	_	_	_	_	R	_
+26	that	_	Word	-	+	_	_	_	_	_	_	_	_
+27	.	_	Punctuation	-	-	_	_	_	U	_	_	_	_
+28	Some	_	Word	-	-	_	_	_	_	_	_	_	E
+29	gigantic	_	Word	-	-	_	_	_	_	_	_	_	E
+30	devilfish	_	Word	-	+	_	_	_	_	_	_	_	_
+31	maybe	_	Word	-	-	_	_	_	_	_	_	_	D
+32	.	_	Punctuation	-	-	_	_	_	_	_	_	_	U
+33	.	_	Punctuation	-	-	_	_	_	_	_	_	_	U
+34	.	_	Punctuation	-	-	_	_	_	_	_	_	_	U
+35	?	_	Punctuation	-	-	_	_	_	_	_	_	_	U
 

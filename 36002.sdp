@@ -23,9 +23,9 @@
 23	country	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_
 24	,	_	Punctuation	-	-	_	U	_	_	_	_	_	_	_	_	_	_
 25	and	_	Word	-	-	_	N	_	_	_	_	_	_	_	_	_	_
-26	at	_	Word	-	-	_	_	_	_	_	_	_	R	_	_	_	_
-27	their	_	Word	-	-	_	_	_	_	_	_	_	E	_	_	_	_
-28	heels	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_
+26	at	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_
+27	their	_	Word	-	-	_	_	_	_	_	_	_	Terminal	_	_	_	_
+28	heels	_	Word	-	-	_	_	_	_	_	_	_	Terminal	_	_	_	_
 29	the	_	Word	-	-	_	_	_	_	_	_	_	_	E	_	_	_
 30	various	_	Word	-	-	_	_	_	_	_	_	_	_	E	_	_	_
 31	national	_	Word	-	-	_	_	_	_	_	_	_	_	E	_	_	_
@@ -36,7 +36,7 @@
 36	continents	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_
 37	,	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	_	U	_
 38	were	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	F	_
-39	all	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	D	_
+39	all	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	F	_
 40	extremely	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	D	_
 41	disturbed	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_
 42	by	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	R

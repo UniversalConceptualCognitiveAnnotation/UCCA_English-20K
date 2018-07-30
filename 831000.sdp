@@ -11,18 +11,18 @@
 11	down	_	Word	-	-	_	_	_	_	Terminal	_	_	_	_	_
 12	Broadway	_	Word	-	-	_	_	_	_	A	_	_	_	_	_
 13	to	_	Word	-	-	_	_	_	_	_	R	_	_	_	_
-14	Union	_	Word	-	-	_	_	_	_	_	E	_	_	_	_
-15	Square	_	Word	-	+	_	_	_	_	_	_	_	_	_	_
+14	Union	_	Word	-	+	_	_	_	_	_	_	_	_	_	_
+15	Square	_	Word	-	-	_	_	_	_	_	Terminal	_	_	_	_
 16	,	_	Punctuation	-	-	_	_	_	_	U	_	_	_	_	_
 17	took	_	Word	-	+	_	_	_	_	_	_	_	_	_	_
-18	Fourth	_	Word	-	-	_	_	_	_	_	_	_	E	_	_
-19	Ave	_	Word	-	+	_	_	_	_	_	_	_	_	_	_
+18	Fourth	_	Word	-	+	_	_	_	_	_	_	_	_	_	_
+19	Ave	_	Word	-	-	_	_	_	_	_	_	_	Terminal	_	_
 20	.	_	Punctuation	-	-	_	_	_	_	_	_	_	U	_	_
 21	to	_	Word	-	-	_	_	_	_	_	_	_	_	R	_
 22	its	_	Word	-	-	_	_	_	_	_	_	_	_	E	_
 23	junction	_	Word	-	+	_	_	_	_	_	_	_	_	_	_
 24	with	_	Word	-	-	_	_	_	_	_	_	_	_	_	R
-25	Bowery	_	Word	-	-	_	_	_	_	_	_	_	_	_	E
-26	St	_	Word	-	+	_	_	_	_	_	_	_	_	_	_
+25	Bowery	_	Word	-	+	_	_	_	_	_	_	_	_	_	_
+26	St	_	Word	-	-	_	_	_	_	_	_	_	_	_	Terminal
 27	.	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	U
 

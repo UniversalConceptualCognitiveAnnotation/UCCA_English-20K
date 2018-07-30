@@ -6,11 +6,11 @@
 6	,	_	Punctuation	-	-	_	U	_	_	_	_	_	_
 7	it	_	Word	-	-	_	_	_	A	_	_	_	_
 8	exceeded	_	Word	-	+	_	_	_	_	_	_	_	_
-9	in	_	Word	-	-	_	_	_	_	R	_	_	_
-10	bulk	_	Word	-	+	_	_	_	_	_	_	_	_
+9	in	_	Word	-	+	_	_	_	D	_	_	_	_
+10	bulk	_	Word	-	-	_	_	_	_	Terminal	_	_	_
 11	any	_	Word	-	-	_	_	_	_	_	E	_	_
 12	whale	_	Word	-	+	_	_	_	_	_	_	A	_
-13	previously	_	Word	-	-	_	_	_	_	_	_	D	_
+13	previously	_	Word	-	-	_	_	_	_	_	_	T	_
 14	classified	_	Word	-	+	_	_	_	_	_	_	_	_
 15	by	_	Word	-	-	_	_	_	_	_	_	_	R
 16	science	_	Word	-	+	_	_	_	_	_	_	_	_

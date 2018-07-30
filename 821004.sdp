@@ -14,11 +14,11 @@
 14	muscles	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_
 15	,	_	Punctuation	-	-	_	U	_	_	_	_	_	_	_	_	_	_	_	_
 16	but	_	Word	-	-	_	L	_	_	_	_	_	_	_	_	_	_	_	_
-17	hadn	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_
-18	’t	_	Word	-	-	_	_	_	_	_	_	_	D	_	_	_	_	_	_
+17	had	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+18	n’t	_	Word	-	-	_	_	_	_	_	_	_	D	_	_	_	_	_	_
 19	a	_	Word	-	-	_	_	_	_	_	_	_	_	E	_	_	_	_	_
 20	nerve	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_
-21	in	_	Word	-	+	_	_	_	_	_	_	_	F	_	_	_	_	_	_
+21	in	_	Word	-	+	_	_	_	_	_	_	_	D	_	_	_	_	_	_
 22	him	_	Word	-	-	_	_	_	_	_	_	_	_	_	Terminal	_	_	_	_
 23	,	_	Punctuation	-	-	_	_	_	_	_	_	_	U	_	_	_	_	_	_
 24	not	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	E	_	_

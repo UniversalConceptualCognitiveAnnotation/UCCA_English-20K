@@ -9,7 +9,7 @@
 9	breech	_	Word	-	-	_	_	_	D	_	_	_	_	_	_	_	_	_
 10	-	_	Punctuation	-	-	_	_	_	U	_	_	_	_	_	_	_	_	_
 11	loading	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_
-12	cannon	_	Word	-	+	_	_	_	A	_	_	_	_	_	_	_	_	_
+12	cannon	_	Word	-	+	_	_	_	A	_	A	_	A	_	_	_	_	_
 13	,	_	Punctuation	-	-	_	_	_	_	U	_	_	_	_	_	_	_	_
 14	very	_	Word	-	-	_	_	_	_	_	D	_	D	_	_	_	_	_
 15	heavy	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_
@@ -23,7 +23,7 @@
 23	a	_	Word	-	-	_	_	_	_	_	_	_	_	_	E	_	_	_
 24	weapon	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_
 25	that	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	R	_	_
-26	would	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	E	_	_
+26	would	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	F	_	_
 27	figure	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_
 28	in	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	R	_
 29	the	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	E	_

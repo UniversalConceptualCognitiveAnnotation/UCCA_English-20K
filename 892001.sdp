@@ -1,11 +1,11 @@
 1	I	_	Word	-	-	_	A	_	_	_	_	_
-2	must	_	Word	-	-	_	E	_	_	_	_	_
+2	must	_	Word	-	-	_	D	_	_	_	_	_
 3	admit	_	Word	-	+	_	_	_	_	_	_	_
-4	that	_	Word	-	-	_	F	_	_	_	_	_
+4	that	_	Word	-	-	_	_	R	_	_	_	_
 5	he	_	Word	-	-	_	_	A	_	_	_	_
 6	flatly	_	Word	-	-	_	_	D	_	_	_	_
-7	didn	_	Word	-	-	_	_	F	_	_	_	_
-8	’t	_	Word	-	-	_	_	D	_	_	_	_
+7	did	_	Word	-	-	_	_	F	_	_	_	_
+8	n’t	_	Word	-	-	_	_	D	_	_	_	_
 9	believe	_	Word	-	+	_	_	_	_	_	_	_
 10	in	_	Word	-	-	_	_	_	R	_	_	_
 11	the	_	Word	-	-	_	_	_	E	_	_	_
@@ -17,8 +17,8 @@
 17	board	_	Word	-	+	_	_	_	_	_	_	_
 18	,	_	Punctuation	-	-	_	_	_	_	_	U	_
 19	he	_	Word	-	-	_	_	_	_	_	A	_
-20	didn	_	Word	-	-	_	_	_	_	_	F	_
-21	’t	_	Word	-	-	_	_	_	_	_	D	_
+20	did	_	Word	-	-	_	_	_	_	_	F	_
+21	n’t	_	Word	-	-	_	_	_	_	_	D	_
 22	share	_	Word	-	+	_	_	_	_	_	_	_
 23	the	_	Word	-	-	_	_	_	_	_	_	E
 24	general	_	Word	-	-	_	_	_	_	_	_	E

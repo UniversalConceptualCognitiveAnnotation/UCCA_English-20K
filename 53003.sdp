@@ -19,12 +19,12 @@
 19	others	_	Word	-	+	_	_	_	_	_	_	_	_	_	_
 20	,	_	Punctuation	-	-	_	U	_	_	_	_	_	_	_	_
 21	as	_	Word	-	-	_	L	_	_	_	_	_	_	_	_
-22	can	_	Word	-	-	_	_	_	_	_	_	_	E	_	_
+22	can	_	Word	-	-	_	_	_	_	_	_	_	D	_	_
 23	be	_	Word	-	-	_	_	_	_	_	_	_	F	_	_
 24	seen	_	Word	-	+	_	_	_	_	_	_	_	_	_	_
 25	in	_	Word	-	-	_	_	_	_	_	_	_	_	R	_
 26	a	_	Word	-	-	_	_	_	_	_	_	_	_	E	_
-27	recent	_	Word	-	-	_	_	_	_	_	_	_	_	E	_
+27	recent	_	Word	-	-	_	_	_	_	_	_	_	_	T	_
 28	survey	_	Word	-	+	_	_	_	_	_	_	_	_	_	_
 29	of	_	Word	-	-	_	_	_	_	_	_	_	_	_	R
 30	official	_	Word	-	-	_	_	_	_	_	_	_	_	_	E

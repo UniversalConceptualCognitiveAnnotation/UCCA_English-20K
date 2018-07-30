@@ -1,23 +1,46 @@
-1	“	_	Punctuation	-	-	_	U	_	_	_
-2	Well	_	Word	-	-	_	F	_	_	_
-3	,	_	Punctuation	-	-	_	U	_	_	_
-4	have	_	Word	-	-	_	F	_	_	_
-5	I	_	Word	-	-	_	A	_	_	_
-6	convinced	_	Word	-	+	_	_	_	_	_
-7	you	_	Word	-	-	_	A	_	_	_
-8	?	_	Punctuation	-	-	_	U	_	_	_
-9	”	_	Punctuation	-	-	_	U	_	_	_
-10	“	_	Punctuation	-	-	_	U	_	_	_
-11	You	_	Word	-	-	_	_	_	_	_
-12	’ve	_	Word	-	-	_	_	F	_	_
-13	convinced	_	Word	-	+	_	_	_	_	_
-14	me	_	Word	-	-	_	_	A	_	_
-15	of	_	Word	-	-	_	_	_	R	_
-16	one	_	Word	-	-	_	_	_	E	_
-17	thing	_	Word	-	+	_	_	_	_	_
-18	,	_	Punctuation	-	-	_	_	U	_	_
-19	Mr	_	Word	-	-	_	_	_	_	E
-20	.	_	Punctuation	-	-	_	_	_	_	U
-21	Naturalist	_	Word	-	+	_	_	_	_	_
-22	.	_	Punctuation	-	-	_	_	_	_	U
+1	“	_	Punctuation	-	-	_	U	_	_	_	_	_	_	_	_
+2	Well	_	Word	-	-	_	F	_	_	_	_	_	_	_	_
+3	,	_	Punctuation	-	-	_	U	_	_	_	_	_	_	_	_
+4	have	_	Word	-	-	_	F	_	_	_	_	_	_	_	_
+5	I	_	Word	-	-	_	A	_	_	_	_	_	_	_	_
+6	convinced	_	Word	-	+	_	_	_	_	_	_	_	_	_	_
+7	you	_	Word	-	-	_	A	_	_	_	_	_	_	_	_
+8	?	_	Punctuation	-	-	_	U	_	_	_	_	_	_	_	_
+9	”	_	Punctuation	-	-	_	U	_	_	_	_	_	_	_	_
+10	“	_	Punctuation	-	-	_	U	_	_	_	_	_	_	_	_
+11	You	_	Word	-	-	_	_	A	_	_	_	_	_	_	_
+12	’ve	_	Word	-	-	_	_	F	_	_	_	_	_	_	_
+13	convinced	_	Word	-	+	_	_	_	_	_	_	_	_	_	_
+14	me	_	Word	-	-	_	_	A	_	_	_	_	_	_	_
+15	of	_	Word	-	-	_	_	_	R	_	_	_	_	_	_
+16	one	_	Word	-	-	_	_	_	E	_	_	_	_	_	_
+17	thing	_	Word	-	+	_	_	_	_	_	_	_	_	_	_
+18	,	_	Punctuation	-	-	_	_	U	_	_	_	_	_	_	_
+19	Mr	_	Word	-	+	_	_	G	_	_	_	_	_	_	_
+20	.	_	Punctuation	-	-	_	_	U	_	_	_	_	_	_	_
+21	Naturalist	_	Word	-	-	_	_	_	_	Terminal	_	_	_	_	_
+22	.	_	Punctuation	-	-	_	_	U	_	_	_	_	_	_	_
+23	That	_	Word	-	-	_	_	L	_	_	_	_	_	_	_
+24	deep	_	Word	-	-	_	_	_	_	_	_	_	_	_	_
+25	in	_	Word	-	-	_	_	_	_	_	R	_	_	_	_
+26	the	_	Word	-	-	_	_	_	_	_	E	_	_	_	_
+27	sea	_	Word	-	+	_	_	_	_	_	_	_	_	_	_
+28	,	_	Punctuation	-	-	_	_	_	_	_	_	_	U	_	_
+29	such	_	Word	-	-	_	_	_	_	_	_	E	_	_	_
+30	animals	_	Word	-	+	_	_	_	_	_	_	_	_	_	_
+31	would	_	Word	-	-	_	_	_	_	_	_	_	D	_	_
+32	need	_	Word	-	-	_	_	_	_	_	_	_	D	_	_
+33	to	_	Word	-	-	_	_	_	_	_	_	_	F	_	_
+34	be	_	Word	-	-	_	_	_	_	_	_	_	F	_	_
+35	just	_	Word	-	-	_	_	_	_	_	_	_	D	_	_
+36	as	_	Word	-	-	_	_	_	_	_	_	_	D	_	_
+37	strong	_	Word	-	+	_	_	_	_	_	_	_	_	_	_
+38	as	_	Word	-	-	_	_	L	_	_	_	_	_	_	_
+39	you	_	Word	-	-	_	_	_	_	_	_	_	_	A	_
+40	say	_	Word	-	+	_	_	_	_	_	_	_	_	_	_
+41	—	_	Punctuation	-	-	_	_	U	_	_	_	_	_	_	_
+42	if	_	Word	-	-	_	_	L	_	_	_	_	_	_	_
+43	they	_	Word	-	-	_	_	_	_	_	_	_	_	_	A
+44	exist	_	Word	-	+	_	_	_	_	_	_	_	_	_	_
+45	.	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	U
 

@@ -1,9 +1,9 @@
-1	Also	_	Word	-	-	_	D	_	_	_	_	_	_
-2	discredited	_	Word	-	+	_	_	_	_	_	_	_	_
+1	Also	_	Word	-	-	_	L	_	_	_	_	_	_
+2	discredited	_	Word	-	+	_	_	_	_	_	_	_	P
 3	was	_	Word	-	-	_	F	_	_	_	_	_	_
 4	the	_	Word	-	-	_	_	E	_	_	_	_	_
 5	idea	_	Word	-	+	_	_	_	_	_	_	_	_
-6	of	_	Word	-	-	_	_	_	R	R	_	_	_
+6	of	_	Word	-	-	_	_	_	R	_	_	_	_
 7	a	_	Word	-	-	_	_	_	E	_	_	_	_
 8	floating	_	Word	-	-	_	_	_	E	_	_	_	_
 9	hull	_	Word	-	+	_	_	_	_	_	_	_	_
@@ -13,13 +13,13 @@
 13	enormous	_	Word	-	-	_	_	_	_	E	_	_	_
 14	wreckage	_	Word	-	+	_	_	_	_	_	_	_	_
 15	,	_	Punctuation	-	-	_	U	_	_	_	_	_	_
-16	and	_	Word	-	-	_	F	_	_	_	_	_	_
-17	again	_	Word	-	-	_	_	_	_	_	E	_	_
-18	because	_	Word	-	+	_	_	_	_	_	_	_	_
-19	of	_	Word	-	-	_	_	_	_	_	Terminal	_	_
-20	this	_	Word	-	-	_	_	_	_	_	_	E	_
+16	and	_	Word	-	+	_	_	_	_	_	_	_	_
+17	again	_	Word	-	-	_	_	_	_	_	C	_	_
+18	because	_	Word	-	+	_	_	_	_	_	_	_	R
+19	of	_	Word	-	-	_	_	_	_	_	_	Terminal	_
+20	this	_	Word	-	-	_	_	_	_	_	_	_	E
 21	speed	_	Word	-	+	_	_	_	_	_	_	_	_
-22	of	_	Word	-	-	_	_	_	_	_	_	_	R
-23	movement	_	Word	-	+	_	_	_	_	_	_	_	_
+22	of	_	Word	-	-	_	_	_	_	_	_	_	Terminal
+23	movement	_	Word	-	-	_	_	_	_	_	_	_	Terminal
 24	.	_	Punctuation	-	-	_	_	_	_	_	_	_	U
 

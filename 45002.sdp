@@ -1,52 +1,52 @@
-1	In	_	Word	-	-	_	R	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
-2	those	_	Word	-	-	_	E	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
-3	newspapers	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
-4	short	_	Word	-	-	_	_	E	_	_	_	_	_	_	_	_	_	_	_	_	_	_
-5	of	_	Word	-	-	_	_	R	_	_	_	_	_	_	_	_	_	_	_	_	_	_
-6	copy	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
-7	,	_	Punctuation	-	-	_	_	_	U	_	_	_	_	_	_	_	_	_	_	_	_	_
-8	you	_	Word	-	-	_	_	_	A	_	_	_	_	_	_	_	_	_	_	_	_	_
-9	saw	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
-10	the	_	Word	-	-	_	_	_	_	E	_	_	_	_	_	_	_	_	_	_	_	_
-11	reappearance	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
-12	of	_	Word	-	-	_	_	_	_	R	_	_	_	_	_	_	_	_	_	_	_	_
-13	every	_	Word	-	-	_	_	_	_	_	E	_	_	_	_	_	_	_	_	_	_	_
-14	gigantic	_	Word	-	-	_	_	_	_	_	E	_	_	_	_	_	_	_	_	_	_	_
-15	imaginary	_	Word	-	-	_	_	_	_	_	E	_	_	_	_	_	_	_	_	_	_	_
-16	creature	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
-17	,	_	Punctuation	-	-	_	_	_	_	_	U	_	_	_	_	_	_	_	_	_	_	_
-18	from	_	Word	-	-	_	_	_	_	_	R	_	_	_	_	_	_	_	_	_	_	_
-19	\u201CMoby	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
-20	Dick,\u201D	_	Word	-	-	_	_	_	_	_	_	Terminal	_	_	_	_	_	_	_	_	_	_
-21	that	_	Word	-	-	_	_	_	_	_	_	_	E	_	_	_	_	_	_	_	_	_
-22	dreadful	_	Word	-	-	_	_	_	_	_	_	_	E	_	_	_	_	_	_	_	_	_
-23	white	_	Word	-	-	_	_	_	_	_	_	_	E	_	_	_	_	_	_	_	_	_
-24	whale	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
-25	from	_	Word	-	-	_	_	_	_	_	_	_	R	_	_	_	_	_	_	_	_	_
-26	the	_	Word	-	-	_	_	_	_	_	_	_	_	_	E	_	_	_	_	_	_	_
-27	High	_	Word	-	-	_	_	_	_	_	_	_	_	E	_	_	_	_	_	_	_	_
-28	Arctic	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
-29	regions	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
-30	,	_	Punctuation	-	-	_	_	_	_	_	U	_	_	_	_	_	_	_	_	_	_	_
-31	to	_	Word	-	-	_	_	_	_	_	R	_	_	_	_	_	_	_	_	_	_	_
-32	the	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	E	_	_	_	_	_	_
-33	stupendous	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	E	_	_	_	_	_	_
-34	kraken	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	E	_	_	_	_	_
-35	whose	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	F	_	_	_	_
-36	tentacles	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	A	_
-37	could	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	E	_	_	_	_
-38	entwine	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
-39	a	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	E	_	_
-40	500	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	E	_	_	_
-41	-	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	U	_	_	_
-42	ton	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
-43	craft	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
-44	and	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	L	_	_	_	_
-45	drag	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
-46	it	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	A	_
-47	into	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	R
-48	the	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	E
-49	ocean	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	E
-50	depths	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
-51	.	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	U
+1	In	_	Word	-	-	_	R	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+2	those	_	Word	-	-	_	E	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+3	newspapers	_	Word	-	+	_	_	A	_	_	_	_	_	_	_	_	_	_	_	_	_
+4	short	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+5	of	_	Word	-	-	_	_	Terminal	_	_	_	_	_	_	_	_	_	_	_	_	_
+6	copy	_	Word	-	-	_	_	Terminal	_	_	_	_	_	_	_	_	_	_	_	_	_
+7	,	_	Punctuation	-	-	_	_	_	U	_	_	_	_	_	_	_	_	_	_	_	_
+8	you	_	Word	-	-	_	_	_	A	_	_	_	_	_	_	_	_	_	_	_	_
+9	saw	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+10	the	_	Word	-	-	_	_	_	_	E	_	_	_	_	_	_	_	_	_	_	_
+11	reappearance	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+12	of	_	Word	-	-	_	_	_	_	_	R	_	_	_	_	_	_	_	_	_	_
+13	every	_	Word	-	-	_	_	_	_	_	E	_	_	_	_	_	_	_	_	_	_
+14	gigantic	_	Word	-	-	_	_	_	_	_	E	_	_	_	_	_	_	_	_	_	_
+15	imaginary	_	Word	-	-	_	_	_	_	_	E	_	_	_	_	_	_	_	_	_	_
+16	creature	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+17	,	_	Punctuation	-	-	_	_	_	_	_	U	_	_	_	_	_	_	_	_	_	_
+18	from	_	Word	-	-	_	_	_	_	_	_	N	_	_	_	_	_	_	_	_	_
+19	"Moby	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+20	Dick,"	_	Word	-	-	_	_	_	_	_	_	Terminal	_	_	_	_	_	_	_	_	_
+21	that	_	Word	-	-	_	_	_	_	_	_	_	E	_	_	_	_	_	_	_	_
+22	dreadful	_	Word	-	-	_	_	_	_	_	_	_	E	_	_	_	_	_	_	_	_
+23	white	_	Word	-	-	_	_	_	_	_	_	_	E	_	_	_	_	_	_	_	_
+24	whale	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+25	from	_	Word	-	-	_	_	_	_	_	_	_	R	_	_	_	_	_	_	_	_
+26	the	_	Word	-	-	_	_	_	_	_	_	_	_	_	E	_	_	_	_	_	_
+27	High	_	Word	-	-	_	_	_	_	_	_	_	_	E	_	_	_	_	_	_	_
+28	Arctic	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+29	regions	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+30	,	_	Punctuation	-	-	_	_	_	_	_	_	U	_	_	_	_	_	_	_	_	_
+31	to	_	Word	-	-	_	_	_	_	_	_	N	_	_	_	_	_	_	_	_	_
+32	the	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	E	_	_	_	_	_
+33	stupendous	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	E	_	_	_	_	_
+34	kraken	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	A	_	_	A	_
+35	whose	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	R	_	_	_	_
+36	tentacles	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	A	_	_	_	_
+37	could	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	D	_	_	_	_
+38	entwine	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+39	a	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	E	_	_
+40	500	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	E	_	_	_
+41	-	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	_	_	_	U	_	_	_
+42	ton	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+43	craft	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+44	and	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	L	_	_	_	_
+45	drag	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+46	it	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	A	_
+47	into	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	R
+48	the	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	E
+49	ocean	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	E
+50	depths	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+51	.	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	U
 

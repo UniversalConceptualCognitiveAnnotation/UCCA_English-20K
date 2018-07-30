@@ -11,7 +11,7 @@
 11	,	_	Punctuation	-	-	_	_	_	_	U	_	_	_	_
 12	no	_	Word	-	-	_	_	_	_	_	E	_	_	_
 13	punch	_	Word	-	+	_	_	_	_	_	_	_	_	_
-14	could	_	Word	-	-	_	_	_	_	_	_	E	_	_
+14	could	_	Word	-	-	_	_	_	_	_	_	D	_	_
 15	have	_	Word	-	-	_	_	_	_	_	_	F	_	_
 16	done	_	Word	-	+	_	_	_	_	_	_	_	_	_
 17	a	_	Word	-	-	_	_	_	_	_	_	_	E	_
