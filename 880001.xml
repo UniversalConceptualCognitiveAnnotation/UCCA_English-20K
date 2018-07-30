@@ -48,10 +48,10 @@
       <edge toID="1.4" type="A">
         <attributes />
       </edge>
-      <edge toID="1.5" type="S">
+      <edge toID="1.5" type="F">
         <attributes />
       </edge>
-      <edge toID="1.6" type="A">
+      <edge toID="1.6" type="S">
         <attributes />
       </edge>
     </node>

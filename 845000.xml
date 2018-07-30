@@ -562,59 +562,50 @@
     </node>
     <node ID="1.50" type="FN">
       <attributes />
-      <edge toID="1.51" type="C">
+      <edge toID="1.51" type="R">
         <attributes />
       </edge>
-      <edge toID="1.52" type="N">
-        <attributes />
-      </edge>
-      <edge toID="1.53" type="C">
+      <edge toID="1.52" type="C">
         <attributes />
       </edge>
     </node>
     <node ID="1.51" type="FN">
       <attributes />
-      <edge toID="1.55" type="R">
-        <attributes />
-      </edge>
-      <edge toID="1.56" type="C">
+      <edge toID="0.3" type="Terminal">
         <attributes />
       </edge>
     </node>
     <node ID="1.52" type="FN">
       <attributes />
-      <edge toID="0.5" type="Terminal">
+      <edge toID="1.53" type="C">
+        <attributes />
+      </edge>
+      <edge toID="1.54" type="N">
+        <attributes />
+      </edge>
+      <edge toID="1.55" type="C">
         <attributes />
       </edge>
     </node>
     <node ID="1.53" type="FN">
       <attributes />
-      <edge toID="1.54" type="C">
+      <edge toID="0.4" type="Terminal">
         <attributes />
-      </edge>
-      <edge toID="1.55" type="R">
-        <attributes remote="True" />
       </edge>
     </node>
     <node ID="1.54" type="FN">
       <attributes />
-      <edge toID="0.6" type="Terminal">
+      <edge toID="0.5" type="Terminal">
         <attributes />
       </edge>
     </node>
     <node ID="1.55" type="FN">
       <attributes />
-      <edge toID="0.3" type="Terminal">
+      <edge toID="0.6" type="Terminal">
         <attributes />
       </edge>
     </node>
-    <node ID="1.56" type="FN">
-      <attributes />
-      <edge toID="0.4" type="Terminal">
-        <attributes />
-      </edge>
-    </node>
-    <node ID="1.57" type="LKG">
+    <node ID="1.56" type="LKG">
       <attributes />
       <edge toID="1.4" type="LA">
         <attributes />
@@ -626,7 +617,7 @@
         <attributes />
       </edge>
     </node>
-    <node ID="1.58" type="LKG">
+    <node ID="1.57" type="LKG">
       <attributes />
       <edge toID="1.2" type="LA">
         <attributes />

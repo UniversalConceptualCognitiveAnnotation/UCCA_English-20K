@@ -45,7 +45,7 @@
     </node>
     <node ID="1.2" type="FN">
       <attributes />
-      <edge toID="1.4" type="D">
+      <edge toID="1.4" type="T">
         <attributes />
       </edge>
       <edge toID="1.5" type="A">

@@ -93,13 +93,13 @@
     </node>
     <node ID="1.6" type="FN">
       <attributes />
-      <edge toID="1.7" type="E">
+      <edge toID="1.7" type="D">
         <attributes />
       </edge>
-      <edge toID="1.8" type="C">
+      <edge toID="1.8" type="P">
         <attributes />
       </edge>
-      <edge toID="1.9" type="E">
+      <edge toID="1.9" type="A">
         <attributes />
       </edge>
     </node>

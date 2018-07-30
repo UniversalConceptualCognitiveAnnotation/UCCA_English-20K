@@ -8,11 +8,11 @@
       <extra orig_paragraph="1" />
     </node>
     <node ID="0.2" type="Word">
-      <attributes paragraph="1" paragraph_position="2" text="\u201Cmonster" />
+      <attributes paragraph="1" paragraph_position="2" text="&quot;monster" />
       <extra orig_paragraph="1" />
     </node>
     <node ID="0.3" type="Word">
-      <attributes paragraph="1" paragraph_position="3" text="question\u201D" />
+      <attributes paragraph="1" paragraph_position="3" text="question&quot;" />
       <extra orig_paragraph="1" />
     </node>
     <node ID="0.4" type="Word">
@@ -105,21 +105,9 @@
     </node>
     <node ID="1.10" type="FN">
       <attributes />
-      <edge toID="1.11" type="E">
-        <attributes />
-      </edge>
-      <edge toID="1.12" type="C">
-        <attributes />
-      </edge>
-    </node>
-    <node ID="1.11" type="FN">
-      <attributes />
       <edge toID="0.2" type="Terminal">
         <attributes />
       </edge>
-    </node>
-    <node ID="1.12" type="FN">
-      <attributes />
       <edge toID="0.3" type="Terminal">
         <attributes />
       </edge>
