@@ -23,8 +23,8 @@
 22	after	_	Word	Word	_	21	Terminal	_	_
 23	?	_	Punctuation	Punctuation	_	14	U	_	_
 24	Do	_	Word	Word	_	29	F	_	_
-25	you	_	Word	Word	_	29	A	_	_
 25	you	_	Word	Word	_	33	A	_	_
+25	you	_	Word	Word	_	29	A	_	_
 26	have	_	Word	Word	_	29	D	_	_
 27	any	_	Word	Word	_	29	E	_	_
 28	particular	_	Word	Word	_	29	D	_	_

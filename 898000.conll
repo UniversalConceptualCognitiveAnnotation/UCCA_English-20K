@@ -61,10 +61,10 @@
 60	’ve	_	Word	Word	_	61	F	_	_
 61	chased	_	Word	Word	_	0	ROOT	_	_
 62	plenty	_	Word	Word	_	0	ROOT	_	_
-63	of	_	Word	Word	_	71	R	_	_
 63	of	_	Word	Word	_	62	R	_	_
-64	cetaceans	_	Word	Word	_	76	C	_	_
+63	of	_	Word	Word	_	71	R	_	_
 64	cetaceans	_	Word	Word	_	71	C	_	_
+64	cetaceans	_	Word	Word	_	76	C	_	_
 65	,	_	Punctuation	Punctuation	_	68	U	_	_
 66	I	_	Word	Word	_	68	A	_	_
 67	’ve	_	Word	Word	_	68	F	_	_

@@ -50,15 +50,15 @@
 49	Sandy	_	Word	Word	_	0	ROOT	_	_
 50	Hook	_	Word	Word	_	49	Terminal	_	_
 51	,	_	Punctuation	Punctuation	_	4	U	_	_
-52	it	_	Word	Word	_	29	A	_	_
 52	it	_	Word	Word	_	53	A	_	_
+52	it	_	Word	Word	_	29	A	_	_
 53	hugged	_	Word	Word	_	0	ROOT	_	_
 54	this	_	Word	Word	_	58	E	_	_
 55	sand	_	Word	Word	_	57	A	_	_
 56	-	_	Punctuation	Punctuation	_	57	U	_	_
 57	covered	_	Word	Word	_	0	ROOT	_	_
-58	strip	_	Word	Word	_	65	A	_	_
 58	strip	_	Word	Word	_	57	A	_	_
+58	strip	_	Word	Word	_	65	A	_	_
 59	of	_	Word	Word	_	60	R	_	_
 60	land	_	Word	Word	_	0	ROOT	_	_
 61	where	_	Word	Word	_	65	R	_	_

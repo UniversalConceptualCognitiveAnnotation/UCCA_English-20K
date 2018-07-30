@@ -43,8 +43,8 @@
 42	get	_	Word	Word	_	0	ROOT	_	_
 43	just	_	Word	Word	_	42	D	_	_
 44	the	_	Word	Word	_	45	E	_	_
-45	collision	_	Word	Word	_	49	A	_	_
 45	collision	_	Word	Word	_	47	A	_	_
+45	collision	_	Word	Word	_	49	A	_	_
 46	we	_	Word	Word	_	47	A	_	_
 47	need	_	Word	Word	_	0	ROOT	_	_
 48	to	_	Word	Word	_	49	F	_	_

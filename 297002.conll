@@ -21,8 +21,8 @@
 20	from	_	Word	Word	_	23	R	_	_
 21	the	_	Word	Word	_	23	E	_	_
 22	well-padded	_	Word	Word	_	0	ROOT	_	_
-23	article	_	Word	Word	_	25	A	_	_
 23	article	_	Word	Word	_	22	A	_	_
+23	article	_	Word	Word	_	25	A	_	_
 24	I	_	Word	Word	_	25	A	_	_
 25	published	_	Word	Word	_	0	ROOT	_	_
 26	in	_	Word	Word	_	28	R	_	_

@@ -37,8 +37,8 @@
 36	up	_	Word	Word	_	35	Terminal	_	_
 37	his	_	Word	Word	_	38	E	_	_
 38	experience.	_	Word	Word	_	0	ROOT	_	_
-39	Spyglasses	_	Word	Word	_	42	A	_	_
 39	Spyglasses	_	Word	Word	_	40	A	_	_
+39	Spyglasses	_	Word	Word	_	42	A	_	_
 40	functioned	_	Word	Word	_	0	ROOT	_	_
 41	with	_	Word	Word	_	42	R	_	_
 42	feverish	_	Word	Word	_	0	ROOT	_	_
@@ -55,8 +55,8 @@
 53	narwhale,	_	Word	Word	_	0	ROOT	_	_
 54	and	_	Word	Word	_	2	L	_	_
 55	the	_	Word	Word	_	56	E	_	_
-56	latter	_	Word	Word	_	66	A	_	_
 56	latter	_	Word	Word	_	62	A	_	_
+56	latter	_	Word	Word	_	66	A	_	_
 57	had	_	Word	Word	_	60	F	_	_
 58	no	_	Word	Word	_	60	D	_	_
 59	acceptable	_	Word	Word	_	60	D	_	_

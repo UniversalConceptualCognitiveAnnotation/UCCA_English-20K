@@ -41,10 +41,10 @@
 40	Russia	_	Word	Word	_	0	ROOT	_	_
 41	,	_	Punctuation	Punctuation	_	24	U	_	_
 42	all	_	Word	Word	_	0	ROOT	_	_
+43	ships	_	Word	Word	_	54	A	_	_
+43	ships	_	Word	Word	_	54	C	_	_
 43	ships	_	Word	Word	_	46	A	_	_
 43	ships	_	Word	Word	_	58	A	_	_
-43	ships	_	Word	Word	_	54	C	_	_
-43	ships	_	Word	Word	_	54	A	_	_
 44	of	_	Word	Word	_	46	R	_	_
 45	top	_	Word	Word	_	46	E	_	_
 46	speed	_	Word	Word	_	0	ROOT	_	_

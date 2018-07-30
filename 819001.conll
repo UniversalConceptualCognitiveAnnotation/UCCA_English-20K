@@ -14,11 +14,11 @@
 13	a	_	Word	Word	_	16	E	_	_
 14	gallant	_	Word	Word	_	16	E	_	_
 15	Flemish	_	Word	Word	_	16	E	_	_
-16	boy	_	Word	Word	_	20	A	_	_
 16	boy	_	Word	Word	_	23	A	_	_
+16	boy	_	Word	Word	_	20	A	_	_
 17	whom	_	Word	Word	_	20	R	_	_
-18	I	_	Word	Word	_	20	A	_	_
 18	I	_	Word	Word	_	23	A	_	_
+18	I	_	Word	Word	_	20	A	_	_
 19	genuinely	_	Word	Word	_	20	D	_	_
 20	liked	_	Word	Word	_	0	ROOT	_	_
 21	and	_	Word	Word	_	20	L	_	_
@@ -71,8 +71,8 @@
 68	”	_	Punctuation	Punctuation	_	3	U	_	_
 69	never	_	Word	Word	_	70	T	_	_
 70	giving	_	Word	Word	_	0	ROOT	_	_
-71	advice	_	Word	Word	_	76	A	_	_
 71	advice	_	Word	Word	_	73	C	_	_
+71	advice	_	Word	Word	_	76	A	_	_
 72	—	_	Punctuation	Punctuation	_	71	U	_	_
 73	not	_	Word	Word	_	0	ROOT	_	_
 74	even	_	Word	Word	_	73	Terminal	_	_

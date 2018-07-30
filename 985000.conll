@@ -33,8 +33,8 @@
 31	seven-tenths	_	Word	Word	_	32	E	_	_
 32	fury.	_	Word	Word	_	0	ROOT	_	_
 33	The	_	Word	Word	_	34	E	_	_
-34	crew	_	Word	Word	_	50	A	_	_
 34	crew	_	Word	Word	_	41	A	_	_
+34	crew	_	Word	Word	_	50	A	_	_
 35	called	_	Word	Word	_	0	ROOT	_	_
 36	themselves	_	Word	Word	_	35	A	_	_
 37	“out-and-out	_	Word	Word	_	38	E	_	_
@@ -65,8 +65,8 @@
 62	once,	_	Word	Word	_	0	ROOT	_	_
 63	and	_	Word	Word	_	4	L	_	_
 64	each	_	Word	Word	_	65	E	_	_
-65	man	_	Word	Word	_	74	A	_	_
 65	man	_	Word	Word	_	78	A	_	_
+65	man	_	Word	Word	_	74	A	_	_
 66	now	_	Word	Word	_	70	T	_	_
 67	wanted	_	Word	Word	_	70	D	_	_
 68	only	_	Word	Word	_	70	D	_	_

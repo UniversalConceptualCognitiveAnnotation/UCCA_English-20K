@@ -41,9 +41,9 @@
 39	new	_	Word	Word	_	40	E	_	_
 40	genera	_	Word	Word	_	0	ROOT	_	_
 41	,	_	Punctuation	Punctuation	_	31	U	_	_
-42	animals	_	Word	Word	_	75	A	_	_
-42	animals	_	Word	Word	_	49	A	_	_
 42	animals	_	Word	Word	_	47	A	_	_
+42	animals	_	Word	Word	_	49	A	_	_
+42	animals	_	Word	Word	_	75	A	_	_
 43	with	_	Word	Word	_	47	R	_	_
 44	a	_	Word	Word	_	47	E	_	_
 45	basically	_	Word	Word	_	47	D	_	_

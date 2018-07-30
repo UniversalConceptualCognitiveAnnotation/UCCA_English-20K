@@ -20,8 +20,8 @@
 19	smart	_	Word	Word	_	0	ROOT	_	_
 20	-	_	Punctuation	Punctuation	_	19	U	_	_
 21	looking	_	Word	Word	_	19	Terminal	_	_
-22	officer	_	Word	Word	_	19	A	_	_
 22	officer	_	Word	Word	_	24	A	_	_
+22	officer	_	Word	Word	_	19	A	_	_
 23	who	_	Word	Word	_	24	R	_	_
 24	extended	_	Word	Word	_	0	ROOT	_	_
 25	his	_	Word	Word	_	26	E	_	_
