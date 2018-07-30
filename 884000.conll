@@ -10,11 +10,11 @@
 9	equipped	_	Word	Word	_	0	ROOT	_	_
 10	his	_	Word	Word	_	11	E	_	_
 11	ship	_	Word	Word	_	0	ROOT	_	_
-12	with	_	Word	Word	_	15	R	_	_
+12	with	_	Word	Word	_	18	R	_	_
 13	all	_	Word	Word	_	15	E	_	_
 14	the	_	Word	Word	_	15	E	_	_
-15	gear	_	Word	Word	_	18	A	_	_
-16	needed	_	Word	Word	_	18	E	_	_
+15	gear	_	Word	Word	_	16	A	_	_
+16	needed	_	Word	Word	_	0	ROOT	_	_
 17	to	_	Word	Word	_	18	F	_	_
 18	fish	_	Word	Word	_	0	ROOT	_	_
 19	for	_	Word	Word	_	22	R	_	_

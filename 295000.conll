@@ -22,8 +22,8 @@
 21	the	_	Word	Word	_	23	E	_	_
 22	human	_	Word	Word	_	23	E	_	_
 23	imagination	_	Word	Word	_	0	ROOT	_	_
-24	soon	_	Word	Word	_	26	D	_	_
-25	got	_	Word	Word	_	26	E	_	_
+24	soon	_	Word	Word	_	26	T	_	_
+25	got	_	Word	Word	_	26	D	_	_
 26	caught	_	Word	Word	_	0	ROOT	_	_
 27	up	_	Word	Word	_	26	Terminal	_	_
 28	in	_	Word	Word	_	33	R	_	_

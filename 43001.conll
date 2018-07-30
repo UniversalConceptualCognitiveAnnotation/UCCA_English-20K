@@ -6,12 +6,12 @@
 5	,	_	Punctuation	Punctuation	_	10	U	_	_
 6	they	_	Word	Word	_	10	A	_	_
 7	were	_	Word	Word	_	10	F	_	_
-8	able	_	Word	Word	_	10	E	_	_
+8	able	_	Word	Word	_	10	D	_	_
 9	to	_	Word	Word	_	10	F	_	_
 10	estimate	_	Word	Word	_	0	ROOT	_	_
 11	the	_	Word	Word	_	15	E	_	_
 12	mammal	_	Word	Word	_	15	E	_	_
-13	\u2019s	_	Word	Word	_	15	F	_	_
+13	's	_	Word	Word	_	15	F	_	_
 14	minimum	_	Word	Word	_	15	E	_	_
 15	length	_	Word	Word	_	0	ROOT	_	_
 16	at	_	Word	Word	_	21	R	_	_
@@ -36,7 +36,7 @@
 35	dimensions	_	Word	Word	_	0	ROOT	_	_
 36	,	_	Punctuation	Punctuation	_	10	U	_	_
 37	although	_	Word	Word	_	10	L	_	_
-38	each	_	Word	Word	_	0	ROOT	_	_
+38	each	_	Word	Word	_	39	A	_	_
 39	measured	_	Word	Word	_	0	ROOT	_	_
 40	100	_	Word	Word	_	41	E	_	_
 41	meters	_	Word	Word	_	0	ROOT	_	_

@@ -20,14 +20,14 @@
 19	the	_	Word	Word	_	20	E	_	_
 20	Christopher	_	Word	Word	_	0	ROOT	_	_
 21	Columbus	_	Word	Word	_	20	Terminal	_	_
-22	from	_	Word	Word	_	30	R	_	_
-23	the	_	Word	Word	_	30	E	_	_
-24	West	_	Word	Word	_	30	E	_	_
+22	from	_	Word	Word	_	24	R	_	_
+23	the	_	Word	Word	_	24	E	_	_
+24	West	_	Word	Word	_	0	ROOT	_	_
 25	India	_	Word	Word	_	24	Terminal	_	_
-26	&	_	Punctuation	Punctuation	_	30	U	_	_
+26	&	_	Punctuation	Punctuation	_	24	U	_	_
 27	Pacific	_	Word	Word	_	24	Terminal	_	_
-28	Steam	_	Word	Word	_	29	E	_	_
-29	Navigation	_	Word	Word	_	0	ROOT	_	_
-30	Co	_	Word	Word	_	0	ROOT	_	_
-31	.	_	Punctuation	Punctuation	_	30	U	_	_
+28	Steam	_	Word	Word	_	24	Terminal	_	_
+29	Navigation	_	Word	Word	_	24	Terminal	_	_
+30	Co	_	Word	Word	_	24	Terminal	_	_
+31	.	_	Punctuation	Punctuation	_	24	U	_	_
 

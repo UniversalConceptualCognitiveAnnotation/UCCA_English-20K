@@ -5,8 +5,8 @@
 4	,	_	Punctuation	Punctuation	_	6	U	_	_
 5	reports	_	Word	Word	_	10	A	_	_
 6	arrived	_	Word	Word	_	0	ROOT	_	_
-7	that	_	Word	Word	_	10	F	_	_
-8	would	_	Word	Word	_	10	E	_	_
+7	that	_	Word	Word	_	10	R	_	_
+8	would	_	Word	Word	_	10	F	_	_
 9	profoundly	_	Word	Word	_	10	D	_	_
 10	affect	_	Word	Word	_	0	ROOT	_	_
 11	public	_	Word	Word	_	12	E	_	_
@@ -21,10 +21,10 @@
 20	liner	_	Word	Word	_	0	ROOT	_	_
 21	Pereire	_	Word	Word	_	0	ROOT	_	_
 22	,	_	Punctuation	Punctuation	_	16	U	_	_
-23	the	_	Word	Word	_	28	E	_	_
+23	the	_	Word	Word	_	27	E	_	_
 24	Inman	_	Word	Word	_	25	E	_	_
 25	line	_	Word	Word	_	0	ROOT	_	_
-26	\u2019s	_	Word	Word	_	27	F	_	_
+26	's	_	Word	Word	_	27	R	_	_
 27	Etna	_	Word	Word	_	0	ROOT	_	_
 28	running	_	Word	Word	_	0	ROOT	_	_
 29	afoul	_	Word	Word	_	28	Terminal	_	_
@@ -45,7 +45,7 @@
 44	frigate	_	Word	Word	_	0	ROOT	_	_
 45	Normandy	_	Word	Word	_	0	ROOT	_	_
 46	,	_	Punctuation	Punctuation	_	16	U	_	_
-47	dead	_	Word	Word	_	50	E	_	_
+47	dead	_	Word	Word	_	50	D	_	_
 48	-	_	Punctuation	Punctuation	_	50	U	_	_
 49	earnest	_	Word	Word	_	47	Terminal	_	_
 50	reckonings	_	Word	Word	_	0	ROOT	_	_
@@ -53,7 +53,7 @@
 52	by	_	Word	Word	_	55	R	_	_
 53	the	_	Word	Word	_	55	E	_	_
 54	general	_	Word	Word	_	55	E	_	_
-55	staff	_	Word	Word	_	0	ROOT	_	_
+55	staff	_	Word	Word	_	50	A	_	_
 56	of	_	Word	Word	_	55	R	_	_
 57	Commodore	_	Word	Word	_	55	E	_	_
 58	Fitz-James	_	Word	Word	_	57	Terminal	_	_

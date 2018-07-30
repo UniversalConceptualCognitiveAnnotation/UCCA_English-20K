@@ -21,14 +21,14 @@
 20	which	_	Word	Word	_	24	R	_	_
 21	in	_	Word	Word	_	22	R	_	_
 22	turn	_	Word	Word	_	0	ROOT	_	_
-23	will	_	Word	Word	_	24	E	_	_
+23	will	_	Word	Word	_	24	D	_	_
 24	lead	_	Word	Word	_	0	ROOT	_	_
 25	to	_	Word	Word	_	28	R	_	_
 26	the	_	Word	Word	_	27	E	_	_
 27	world	_	Word	Word	_	0	ROOT	_	_
 28	putting	_	Word	Word	_	0	ROOT	_	_
-29	its	_	Word	Word	_	30	E	_	_
-30	foot	_	Word	Word	_	0	ROOT	_	_
-31	down	_	Word	Word	_	28	A	_	_
+29	its	_	Word	Word	_	28	Terminal	_	_
+30	foot	_	Word	Word	_	28	Terminal	_	_
+31	down	_	Word	Word	_	28	Terminal	_	_
 32	.	_	Punctuation	Punctuation	_	28	U	_	_
 

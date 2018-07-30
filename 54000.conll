@@ -22,10 +22,10 @@
 19	in	_	Word	Word	_	21	R	_	_
 20	longitude	_	Word	Word	_	21	E	_	_
 21	15°	_	Word	Word	_	0	ROOT	_	_
-22	12\u2032	_	Word	Word	_	21	Terminal	_	_
+22	12'	_	Word	Word	_	21	Terminal	_	_
 23	and	_	Word	Word	_	21	N	_	_
 24	latitude	_	Word	Word	_	25	E	_	_
 25	45°	_	Word	Word	_	0	ROOT	_	_
-26	37\u2032	_	Word	Word	_	25	Terminal	_	_
+26	37'	_	Word	Word	_	25	Terminal	_	_
 27	.	_	Punctuation	Punctuation	_	25	U	_	_
 

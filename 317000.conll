@@ -5,7 +5,7 @@
 4	letter	_	Word	Word	_	0	ROOT	_	_
 5	three	_	Word	Word	_	6	E	_	_
 6	hours	_	Word	Word	_	0	ROOT	_	_
-7	before	_	Word	Word	_	0	ROOT	_	_
+7	before	_	Word	Word	_	6	R	_	_
 8	the	_	Word	Word	_	9	E	_	_
 9	Abraham	_	Word	Word	_	0	ROOT	_	_
 10	Lincoln	_	Word	Word	_	9	Terminal	_	_
@@ -14,7 +14,7 @@
 13	Brooklyn	_	Word	Word	_	14	E	_	_
 14	pier	_	Word	Word	_	0	ROOT	_	_
 15	;	_	Punctuation	Punctuation	_	2	U	_	_
-16	1	_	Word	Word	_	2	F	_	_
+16	1	_	Word	Word	_	19	F	_	_
 17	the	_	Word	Word	_	18	E	_	_
 18	letter	_	Word	Word	_	0	ROOT	_	_
 19	read	_	Word	Word	_	0	ROOT	_	_

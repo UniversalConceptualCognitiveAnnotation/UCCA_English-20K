@@ -20,9 +20,9 @@
 19	,	_	Punctuation	Punctuation	_	21	U	_	_
 20	yellow	_	Word	Word	_	21	E	_	_
 21	coast	_	Word	Word	_	0	ROOT	_	_
-22	of	_	Word	Word	_	24	R	_	_
-23	Long	_	Word	Word	_	24	E	_	_
-24	Island	_	Word	Word	_	0	ROOT	_	_
+22	of	_	Word	Word	_	23	R	_	_
+23	Long	_	Word	Word	_	0	ROOT	_	_
+24	Island	_	Word	Word	_	23	Terminal	_	_
 25	;	_	Punctuation	Punctuation	_	4	U	_	_
 26	and	_	Word	Word	_	4	L	_	_
 27	at	_	Word	Word	_	29	R	_	_

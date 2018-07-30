@@ -13,7 +13,6 @@
 11	starboard	_	Word	Word	_	12	E	_	_
 12	rail.	_	Word	Word	_	0	ROOT	_	_
 13	Conseil,	_	Word	Word	_	14	A	_	_
-13	Conseil,	_	Word	Word	_	17	A	_	_
 14	stationed	_	Word	Word	_	0	ROOT	_	_
 15	beside	_	Word	Word	_	16	R	_	_
 16	me,	_	Word	Word	_	0	ROOT	_	_
@@ -46,13 +45,13 @@
 43	their	_	Word	Word	_	45	E	_	_
 44	night	_	Word	Word	_	45	E	_	_
 45	glasses.	_	Word	Word	_	0	ROOT	_	_
-46	Sometimes	_	Word	Word	_	50	D	_	_
+46	Sometimes	_	Word	Word	_	50	T	_	_
 47	the	_	Word	Word	_	49	E	_	_
 48	murky	_	Word	Word	_	49	E	_	_
 49	ocean	_	Word	Word	_	0	ROOT	_	_
 50	sparkled	_	Word	Word	_	0	ROOT	_	_
 51	beneath	_	Word	Word	_	52	R	_	_
-52	moonbeams	_	Word	Word	_	0	ROOT	_	_
+52	moonbeams	_	Word	Word	_	54	A	_	_
 53	that	_	Word	Word	_	54	R	_	_
 54	darted	_	Word	Word	_	0	ROOT	_	_
 55	between	_	Word	Word	_	57	R	_	_

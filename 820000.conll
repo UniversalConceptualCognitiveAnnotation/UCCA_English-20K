@@ -15,13 +15,13 @@
 14	,	_	Punctuation	Punctuation	_	2	U	_	_
 15	the	_	Word	Word	_	16	E	_	_
 16	boy	_	Word	Word	_	2	A	_	_
-17	had	_	Word	Word	_	20	F	_	_
-18	come	_	Word	Word	_	20	E	_	_
-19	to	_	Word	Word	_	20	F	_	_
-20	know	_	Word	Word	_	0	ROOT	_	_
+17	had	_	Word	Word	_	18	F	_	_
+18	come	_	Word	Word	_	0	ROOT	_	_
+19	to	_	Word	Word	_	18	Terminal	_	_
+20	know	_	Word	Word	_	18	Terminal	_	_
 21	a	_	Word	Word	_	22	E	_	_
-22	thing	_	Word	Word	_	24	C	_	_
+22	thing	_	Word	Word	_	0	ROOT	_	_
 23	or	_	Word	Word	_	22	N	_	_
-24	two	_	Word	Word	_	0	ROOT	_	_
-25	.	_	Punctuation	Punctuation	_	24	U	_	_
+24	two	_	Word	Word	_	22	C	_	_
+25	.	_	Punctuation	Punctuation	_	22	U	_	_
 

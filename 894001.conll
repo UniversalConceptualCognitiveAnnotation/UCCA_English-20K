@@ -18,12 +18,11 @@
 17	our	_	Word	Word	_	18	E	_	_
 18	expedition	_	Word	Word	_	0	ROOT	_	_
 19	’s	_	Word	Word	_	18	R	_	_
-20	various	_	Word	Word	_	21	E	_	_
+20	various	_	Word	Word	_	21	D	_	_
 21	chances	_	Word	Word	_	0	ROOT	_	_
-22	for	_	Word	Word	_	25	R	_	_
 22	for	_	Word	Word	_	23	R	_	_
 23	success	_	Word	Word	_	0	ROOT	_	_
 24	or	_	Word	Word	_	23	N	_	_
-25	failure	_	Word	Word	_	0	ROOT	_	_
-26	.	_	Punctuation	Punctuation	_	25	U	_	_
+25	failure	_	Word	Word	_	23	C	_	_
+26	.	_	Punctuation	Punctuation	_	23	U	_	_
 

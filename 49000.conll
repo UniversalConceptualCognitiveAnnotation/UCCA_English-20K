@@ -12,8 +12,8 @@
 11	Montreal	_	Word	Word	_	0	ROOT	_	_
 12	Ocean	_	Word	Word	_	11	Terminal	_	_
 13	Co	_	Word	Word	_	11	Terminal	_	_
-14	.	_	Punctuation	Punctuation	_	29	U	_	_
-15	,	_	Punctuation	Punctuation	_	29	U	_	_
+14	.	_	Punctuation	Punctuation	_	8	U	_	_
+15	,	_	Punctuation	Punctuation	_	8	U	_	_
 16	lying	_	Word	Word	_	0	ROOT	_	_
 17	during	_	Word	Word	_	19	R	_	_
 18	the	_	Word	Word	_	19	E	_	_
@@ -22,11 +22,11 @@
 20	in	_	Word	Word	_	26	R	_	_
 21	latitude	_	Word	Word	_	22	E	_	_
 22	27°	_	Word	Word	_	0	ROOT	_	_
-23	30\u2032	_	Word	Word	_	22	Terminal	_	_
+23	30'	_	Word	Word	_	22	Terminal	_	_
 24	and	_	Word	Word	_	22	N	_	_
 25	longitude	_	Word	Word	_	26	E	_	_
 26	72°	_	Word	Word	_	0	ROOT	_	_
-27	15\u2032	_	Word	Word	_	26	Terminal	_	_
+27	15'	_	Word	Word	_	26	Terminal	_	_
 28	,	_	Punctuation	Punctuation	_	29	U	_	_
 29	ran	_	Word	Word	_	0	ROOT	_	_
 30	its	_	Word	Word	_	32	E	_	_

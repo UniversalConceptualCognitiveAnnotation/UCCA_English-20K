@@ -7,11 +7,11 @@
 6	,	_	Punctuation	Punctuation	_	3	U	_	_
 7	it	_	Word	Word	_	8	A	_	_
 8	exceeded	_	Word	Word	_	0	ROOT	_	_
-9	in	_	Word	Word	_	10	R	_	_
-10	bulk	_	Word	Word	_	0	ROOT	_	_
+9	in	_	Word	Word	_	8	D	_	_
+10	bulk	_	Word	Word	_	9	Terminal	_	_
 11	any	_	Word	Word	_	12	E	_	_
 12	whale	_	Word	Word	_	14	A	_	_
-13	previously	_	Word	Word	_	14	D	_	_
+13	previously	_	Word	Word	_	14	T	_	_
 14	classified	_	Word	Word	_	0	ROOT	_	_
 15	by	_	Word	Word	_	16	R	_	_
 16	science	_	Word	Word	_	0	ROOT	_	_

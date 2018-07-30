@@ -5,7 +5,7 @@
 4	Farragut	_	Word	Word	_	0	ROOT	_	_
 5	had	_	Word	Word	_	6	F	_	_
 6	mentioned	_	Word	Word	_	0	ROOT	_	_
-7	that	_	Word	Word	_	6	F	_	_
+7	that	_	Word	Word	_	15	R	_	_
 8	a	_	Word	Word	_	10	E	_	_
 9	certain	_	Word	Word	_	10	E	_	_
 10	sum	_	Word	Word	_	0	ROOT	_	_
@@ -30,8 +30,8 @@
 29	or	_	Word	Word	_	28	N	_	_
 30	sailor	_	Word	Word	_	28	C	_	_
 31	,	_	Punctuation	Punctuation	_	28	U	_	_
-32	mate	_	Word	Word	_	0	ROOT	_	_
-33	or	_	Word	Word	_	32	N	_	_
-34	officer	_	Word	Word	_	32	C	_	_
-35	.	_	Punctuation	Punctuation	_	32	U	_	_
+32	mate	_	Word	Word	_	28	C	_	_
+33	or	_	Word	Word	_	28	N	_	_
+34	officer	_	Word	Word	_	28	C	_	_
+35	.	_	Punctuation	Punctuation	_	28	U	_	_
 

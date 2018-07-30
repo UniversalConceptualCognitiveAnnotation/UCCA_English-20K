@@ -7,7 +7,7 @@
 6	in	_	Word	Word	_	7	R	_	_
 7	itself	_	Word	Word	_	0	ROOT	_	_
 8	,	_	Punctuation	Punctuation	_	13	U	_	_
-9	might	_	Word	Word	_	13	E	_	_
+9	might	_	Word	Word	_	13	D	_	_
 10	perhaps	_	Word	Word	_	13	G	_	_
 11	have	_	Word	Word	_	13	F	_	_
 12	been	_	Word	Word	_	13	F	_	_
@@ -21,12 +21,13 @@
 20	three	_	Word	Word	_	21	E	_	_
 21	weeks	_	Word	Word	_	0	ROOT	_	_
 22	later	_	Word	Word	_	21	R	_	_
-23	it	_	Word	Word	_	26	A	_	_
-24	hadn\u2019t	_	Word	Word	_	26	F	_	_
-25	been	_	Word	Word	_	26	F	_	_
-26	reenacted	_	Word	Word	_	0	ROOT	_	_
-27	under	_	Word	Word	_	29	R	_	_
-28	identical	_	Word	Word	_	29	E	_	_
-29	conditions	_	Word	Word	_	0	ROOT	_	_
-30	.	_	Punctuation	Punctuation	_	29	U	_	_
+23	it	_	Word	Word	_	27	A	_	_
+24	had	_	Word	Word	_	27	F	_	_
+25	n't	_	Word	Word	_	27	D	_	_
+26	been	_	Word	Word	_	27	F	_	_
+27	reenacted	_	Word	Word	_	0	ROOT	_	_
+28	under	_	Word	Word	_	30	R	_	_
+29	identical	_	Word	Word	_	30	E	_	_
+30	conditions	_	Word	Word	_	0	ROOT	_	_
+31	.	_	Punctuation	Punctuation	_	30	U	_	_
 

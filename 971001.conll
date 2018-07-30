@@ -16,8 +16,8 @@
 15	abreast	_	Word	Word	_	0	ROOT	_	_
 16	of	_	Word	Word	_	15	R	_	_
 17	Cabo	_	Word	Word	_	0	ROOT	_	_
-18	de	_	Word	Word	_	20	R	_	_
-19	las	_	Word	Word	_	20	E	_	_
-20	Virgenes	_	Word	Word	_	0	ROOT	_	_
-21	.	_	Punctuation	Punctuation	_	20	U	_	_
+18	de	_	Word	Word	_	17	Terminal	_	_
+19	las	_	Word	Word	_	17	Terminal	_	_
+20	Virgenes	_	Word	Word	_	17	Terminal	_	_
+21	.	_	Punctuation	Punctuation	_	17	U	_	_
 

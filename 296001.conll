@@ -12,12 +12,12 @@
 11	quarto	_	Word	Word	_	0	ROOT	_	_
 12	,	_	Punctuation	Punctuation	_	8	U	_	_
 13	entitled	_	Word	Word	_	0	ROOT	_	_
-14	The	_	Word	Word	_	15	E	_	_
-15	Mysteries	_	Word	Word	_	0	ROOT	_	_
-16	of	_	Word	Word	_	20	R	_	_
-17	the	_	Word	Word	_	20	E	_	_
-18	Great	_	Word	Word	_	20	E	_	_
-19	Ocean	_	Word	Word	_	20	E	_	_
-20	Depths	_	Word	Word	_	0	ROOT	_	_
-21	.	_	Punctuation	Punctuation	_	20	U	_	_
+14	The	_	Word	Word	_	13	A	_	_
+15	Mysteries	_	Word	Word	_	14	Terminal	_	_
+16	of	_	Word	Word	_	14	Terminal	_	_
+17	the	_	Word	Word	_	14	Terminal	_	_
+18	Great	_	Word	Word	_	14	Terminal	_	_
+19	Ocean	_	Word	Word	_	14	Terminal	_	_
+20	Depths	_	Word	Word	_	14	Terminal	_	_
+21	.	_	Punctuation	Punctuation	_	13	U	_	_
 

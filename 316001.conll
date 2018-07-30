@@ -8,8 +8,8 @@
 7	breather	_	Word	Word	_	0	ROOT	_	_
 8	was	_	Word	Word	_	9	F	_	_
 9	granted	_	Word	Word	_	0	ROOT	_	_
-10	to	_	Word	Word	_	11	R	_	_
-11	Commander	_	Word	Word	_	0	ROOT	_	_
-12	Farragut	_	Word	Word	_	11	Terminal	_	_
-13	.	_	Punctuation	Punctuation	_	11	U	_	_
+10	to	_	Word	Word	_	12	R	_	_
+11	Commander	_	Word	Word	_	12	E	_	_
+12	Farragut	_	Word	Word	_	0	ROOT	_	_
+13	.	_	Punctuation	Punctuation	_	12	U	_	_
 

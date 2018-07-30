@@ -2,7 +2,7 @@
 1	Fifteen	_	Word	Word	_	2	E	_	_
 2	days	_	Word	Word	_	0	ROOT	_	_
 3	later	_	Word	Word	_	2	E	_	_
-4	and	_	Word	Word	_	2	N	_	_
+4	and	_	Word	Word	_	6	R	_	_
 5	2,000	_	Word	Word	_	6	E	_	_
 6	leagues	_	Word	Word	_	0	ROOT	_	_
 7	farther	_	Word	Word	_	6	E	_	_
@@ -44,7 +44,7 @@
 43	signaled	_	Word	Word	_	0	ROOT	_	_
 44	each	_	Word	Word	_	43	A	_	_
 45	other	_	Word	Word	_	44	Terminal	_	_
-46	that	_	Word	Word	_	51	F	_	_
+46	that	_	Word	Word	_	51	R	_	_
 47	the	_	Word	Word	_	48	E	_	_
 48	monster	_	Word	Word	_	0	ROOT	_	_
 49	had	_	Word	Word	_	51	F	_	_
@@ -54,12 +54,12 @@
 52	in	_	Word	Word	_	59	R	_	_
 53	latitude	_	Word	Word	_	54	E	_	_
 54	42°	_	Word	Word	_	0	ROOT	_	_
-55	15\u2032	_	Word	Word	_	54	Terminal	_	_
+55	15'	_	Word	Word	_	54	Terminal	_	_
 56	north	_	Word	Word	_	54	Terminal	_	_
 57	and	_	Word	Word	_	54	N	_	_
 58	longitude	_	Word	Word	_	59	E	_	_
 59	60°	_	Word	Word	_	0	ROOT	_	_
-60	35\u2032	_	Word	Word	_	59	Terminal	_	_
+60	35'	_	Word	Word	_	59	Terminal	_	_
 61	west	_	Word	Word	_	59	Terminal	_	_
 62	of	_	Word	Word	_	64	R	_	_
 63	the	_	Word	Word	_	64	E	_	_

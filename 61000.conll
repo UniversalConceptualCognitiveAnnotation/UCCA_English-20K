@@ -6,14 +6,14 @@
 5	straw	_	Word	Word	_	0	ROOT	_	_
 6	,	_	Punctuation	Punctuation	_	2	U	_	_
 7	and	_	Word	Word	_	2	L	_	_
-8	it	_	Word	Word	_	11	A	_	_
-9	resulted	_	Word	Word	_	11	E	_	_
-10	in	_	Word	Word	_	11	F	_	_
+8	it	_	Word	Word	_	9	A	_	_
+9	resulted	_	Word	Word	_	0	ROOT	_	_
+10	in	_	Word	Word	_	11	R	_	_
 11	arousing	_	Word	Word	_	0	ROOT	_	_
 12	public	_	Word	Word	_	13	E	_	_
 13	passions	_	Word	Word	_	0	ROOT	_	_
-14	all	_	Word	Word	_	16	E	_	_
+14	all	_	Word	Word	_	11	D	_	_
 15	over	_	Word	Word	_	14	Terminal	_	_
-16	again	_	Word	Word	_	0	ROOT	_	_
-17	.	_	Punctuation	Punctuation	_	16	U	_	_
+16	again	_	Word	Word	_	11	T	_	_
+17	.	_	Punctuation	Punctuation	_	11	U	_	_
 

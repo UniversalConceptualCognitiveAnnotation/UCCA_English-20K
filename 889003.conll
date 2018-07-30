@@ -14,8 +14,8 @@
 13	a	_	Word	Word	_	14	E	_	_
 14	line	_	Word	Word	_	0	ROOT	_	_
 15	of	_	Word	Word	_	17	R	_	_
-16	bold	_	Word	Word	_	17	E	_	_
-17	fishermen	_	Word	Word	_	0	ROOT	_	_
+16	bold	_	Word	Word	_	0	ROOT	_	_
+17	fishermen	_	Word	Word	_	16	A	_	_
 18	back	_	Word	Word	_	21	R	_	_
 19	in	_	Word	Word	_	21	R	_	_
 20	the	_	Word	Word	_	21	E	_	_
@@ -23,7 +23,7 @@
 22	when	_	Word	Word	_	26	R	_	_
 23	this	_	Word	Word	_	24	E	_	_
 24	town	_	Word	Word	_	0	ROOT	_	_
-25	still	_	Word	Word	_	26	D	_	_
+25	still	_	Word	Word	_	26	T	_	_
 26	belonged	_	Word	Word	_	0	ROOT	_	_
 27	to	_	Word	Word	_	28	R	_	_
 28	France	_	Word	Word	_	0	ROOT	_	_

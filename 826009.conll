@@ -1,8 +1,12 @@
 # sent_id = 826009
-1	”	_	Punctuation	Punctuation	_	5	U	_	_
-2	Conseil	_	Word	Word	_	5	A	_	_
-3	ventured	_	Word	Word	_	5	E	_	_
-4	to	_	Word	Word	_	5	F	_	_
-5	observe	_	Word	Word	_	0	ROOT	_	_
-6	.	_	Punctuation	Punctuation	_	5	U	_	_
+1	”	_	Punctuation	Punctuation	_	6	U	_	_
+2	“	_	Punctuation	Punctuation	_	6	U	_	_
+3	The	_	Word	Word	_	4	E	_	_
+4	hotel	_	Word	Word	_	0	ROOT	_	_
+5	will	_	Word	Word	_	6	D	_	_
+6	keep	_	Word	Word	_	0	ROOT	_	_
+7	them	_	Word	Word	_	6	A	_	_
+8	for	_	Word	Word	_	9	R	_	_
+9	us	_	Word	Word	_	0	ROOT	_	_
+10	.	_	Punctuation	Punctuation	_	9	U	_	_
 

@@ -21,8 +21,8 @@
 19	off	_	Word	Word	_	18	Terminal	_	_
 20	the	_	Word	Word	_	21	E	_	_
 21	monster	_	Word	Word	_	0	ROOT	_	_
-22	for	_	Word	Word	_	23	F	_	_
-23	good	_	Word	Word	_	0	ROOT	_	_
+22	for	_	Word	Word	_	18	D	_	_
+23	good	_	Word	Word	_	22	Terminal	_	_
 24	,	_	Punctuation	Punctuation	_	18	U	_	_
 25	spurning	_	Word	Word	_	0	ROOT	_	_
 26	it	_	Word	Word	_	25	A	_	_
@@ -48,9 +48,9 @@
 46	quietus	_	Word	Word	_	0	ROOT	_	_
 47	amid	_	Word	Word	_	50	R	_	_
 48	a	_	Word	Word	_	50	E	_	_
-49	universal	_	Word	Word	_	50	E	_	_
+49	universal	_	Word	Word	_	50	D	_	_
 50	burst	_	Word	Word	_	0	ROOT	_	_
-51	of	_	Word	Word	_	52	R	_	_
-52	laughter	_	Word	Word	_	0	ROOT	_	_
-53	.	_	Punctuation	Punctuation	_	52	U	_	_
+51	of	_	Word	Word	_	50	Terminal	_	_
+52	laughter	_	Word	Word	_	50	Terminal	_	_
+53	.	_	Punctuation	Punctuation	_	50	U	_	_
 

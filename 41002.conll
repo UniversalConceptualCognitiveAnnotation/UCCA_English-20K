@@ -8,7 +8,7 @@
 7	subject	_	Word	Word	_	0	ROOT	_	_
 8	to	_	Word	Word	_	11	R	_	_
 9	the	_	Word	Word	_	11	E	_	_
-10	intermittent	_	Word	Word	_	11	E	_	_
+10	intermittent	_	Word	Word	_	11	D	_	_
 11	eruptions	_	Word	Word	_	0	ROOT	_	_
 12	of	_	Word	Word	_	14	R	_	_
 13	a	_	Word	Word	_	14	E	_	_
@@ -17,10 +17,10 @@
 16	the	_	Word	Word	_	17	E	_	_
 17	Governor	_	Word	Word	_	0	ROOT	_	_
 18	Higginson	_	Word	Word	_	0	ROOT	_	_
-19	had	_	Word	Word	_	20	E	_	_
+19	had	_	Word	Word	_	23	F	_	_
 20	fair	_	Word	Word	_	0	ROOT	_	_
 21	and	_	Word	Word	_	20	N	_	_
-22	honest	_	Word	Word	_	23	E	_	_
+22	honest	_	Word	Word	_	20	C	_	_
 23	dealings	_	Word	Word	_	20	C	_	_
 24	with	_	Word	Word	_	27	R	_	_
 25	some	_	Word	Word	_	27	E	_	_
@@ -32,8 +32,8 @@
 30	then	_	Word	Word	_	0	ROOT	_	_
 31	unknown	_	Word	Word	_	0	ROOT	_	_
 32	,	_	Punctuation	Punctuation	_	27	U	_	_
-33	that	_	Word	Word	_	35	F	_	_
-34	could	_	Word	Word	_	35	E	_	_
+33	that	_	Word	Word	_	35	R	_	_
+34	could	_	Word	Word	_	35	D	_	_
 35	spurt	_	Word	Word	_	0	ROOT	_	_
 36	from	_	Word	Word	_	38	R	_	_
 37	its	_	Word	Word	_	38	E	_	_

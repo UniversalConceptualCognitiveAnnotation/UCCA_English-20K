@@ -2,7 +2,7 @@
 1	Something	_	Word	Word	_	3	A	_	_
 2	was	_	Word	Word	_	3	F	_	_
 3	out	_	Word	Word	_	0	ROOT	_	_
-4	there	_	Word	Word	_	3	A	_	_
+4	there	_	Word	Word	_	3	Terminal	_	_
 5	,	_	Punctuation	Punctuation	_	3	U	_	_
 6	that	_	Word	Word	_	3	G	_	_
 7	much	_	Word	Word	_	6	Terminal	_	_

@@ -1,6 +1,6 @@
 # sent_id = 52000
-1	No	_	Word	Word	_	2	E	_	_
-2	one	_	Word	Word	_	0	ROOT	_	_
+1	No	_	Word	Word	_	4	A	_	_
+2	one	_	Word	Word	_	1	Terminal	_	_
 3	is	_	Word	Word	_	4	F	_	_
 4	unaware	_	Word	Word	_	0	ROOT	_	_
 5	of	_	Word	Word	_	7	R	_	_
@@ -8,10 +8,10 @@
 7	name	_	Word	Word	_	0	ROOT	_	_
 8	of	_	Word	Word	_	14	R	_	_
 9	that	_	Word	Word	_	12	E	_	_
-10	famous	_	Word	Word	_	12	E	_	_
-11	English	_	Word	Word	_	12	E	_	_
+10	famous	_	Word	Word	_	0	ROOT	_	_
+11	English	_	Word	Word	_	10	D	_	_
 12	shipowner	_	Word	Word	_	0	ROOT	_	_
-13	,	_	Punctuation	Punctuation	_	14	U	_	_
-14	Cunard	_	Word	Word	_	0	ROOT	_	_
+13	,	_	Punctuation	Punctuation	_	10	U	_	_
+14	Cunard	_	Word	Word	_	10	A	_	_
 15	.	_	Punctuation	Punctuation	_	14	U	_	_
 

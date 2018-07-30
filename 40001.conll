@@ -11,7 +11,7 @@
 10	,	_	Punctuation	Punctuation	_	3	U	_	_
 11	that	_	Word	Word	_	12	E	_	_
 12	charge	_	Word	Word	_	0	ROOT	_	_
-13	had	_	Word	Word	_	16	E	_	_
+13	had	_	Word	Word	_	16	D	_	_
 14	to	_	Word	Word	_	13	Terminal	_	_
 15	be	_	Word	Word	_	16	F	_	_
 16	dropped	_	Word	Word	_	0	ROOT	_	_

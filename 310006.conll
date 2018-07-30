@@ -1,29 +1,5 @@
 # sent_id = 310006
 1	Why	_	Word	Word	_	0	ROOT	_	_
-2	not	_	Word	Word	_	1	Terminal	_	_
+2	not	_	Word	Word	_	1	D	_	_
 3	?	_	Punctuation	Punctuation	_	1	U	_	_
-4	Formerly	_	Word	Word	_	22	D	_	_
-5	,	_	Punctuation	Punctuation	_	22	U	_	_
-6	in	_	Word	Word	_	8	R	_	_
-7	prehistoric	_	Word	Word	_	8	E	_	_
-8	days	_	Word	Word	_	0	ROOT	_	_
-9	,	_	Punctuation	Punctuation	_	22	U	_	_
-10	land	_	Word	Word	_	11	E	_	_
-11	animals	_	Word	Word	_	0	ROOT	_	_
-12	(	_	Punctuation	Punctuation	_	11	U	_	_
-13	quadrupeds	_	Word	Word	_	0	ROOT	_	_
-14	,	_	Punctuation	Punctuation	_	13	U	_	_
-15	apes	_	Word	Word	_	13	C	_	_
-16	,	_	Punctuation	Punctuation	_	13	U	_	_
-17	reptiles	_	Word	Word	_	13	C	_	_
-18	,	_	Punctuation	Punctuation	_	13	U	_	_
-19	birds	_	Word	Word	_	13	C	_	_
-20	)	_	Punctuation	Punctuation	_	22	U	_	_
-21	were	_	Word	Word	_	22	F	_	_
-22	built	_	Word	Word	_	0	ROOT	_	_
-23	on	_	Word	Word	_	26	R	_	_
-24	a	_	Word	Word	_	26	E	_	_
-25	gigantic	_	Word	Word	_	26	E	_	_
-26	scale	_	Word	Word	_	0	ROOT	_	_
-27	.	_	Punctuation	Punctuation	_	26	U	_	_
 

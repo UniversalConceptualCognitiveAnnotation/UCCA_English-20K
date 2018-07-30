@@ -1,11 +1,11 @@
 # sent_id = 970000
-1	Assuredly	_	Word	Word	_	9	G	_	_
-2	,	_	Punctuation	Punctuation	_	9	U	_	_
-3	if	_	Word	Word	_	9	L	_	_
+1	Assuredly	_	Word	Word	_	19	G	_	_
+2	,	_	Punctuation	Punctuation	_	19	U	_	_
+3	if	_	Word	Word	_	19	L	_	_
 4	the	_	Word	Word	_	5	E	_	_
 5	monster	_	Word	Word	_	0	ROOT	_	_
-6	ever	_	Word	Word	_	9	D	_	_
-7	had	_	Word	Word	_	9	E	_	_
+6	ever	_	Word	Word	_	9	T	_	_
+7	had	_	Word	Word	_	9	D	_	_
 8	to	_	Word	Word	_	7	Terminal	_	_
 9	deal	_	Word	Word	_	0	ROOT	_	_
 10	with	_	Word	Word	_	14	R	_	_
@@ -13,10 +13,10 @@
 12	Land	_	Word	Word	_	11	Terminal	_	_
 13	’s	_	Word	Word	_	11	R	_	_
 14	harpoon	_	Word	Word	_	0	ROOT	_	_
-15	,	_	Punctuation	Punctuation	_	9	U	_	_
+15	,	_	Punctuation	Punctuation	_	19	U	_	_
 16	I	_	Word	Word	_	19	A	_	_
-17	wouldn	_	Word	Word	_	19	E	_	_
-18	’t	_	Word	Word	_	19	D	_	_
+17	would	_	Word	Word	_	19	D	_	_
+18	n’t	_	Word	Word	_	19	D	_	_
 19	bet	_	Word	Word	_	0	ROOT	_	_
 20	on	_	Word	Word	_	22	R	_	_
 21	the	_	Word	Word	_	22	E	_	_
