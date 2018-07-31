@@ -1,7 +1,8 @@
 # ::id 318001
 # ::tok Sir :
+# ::alignments 0-1.1.3
 (v1 / label
     :H (v2 / label
            :A (v3 / label)
            :P (v4 / label)
-           :G (v5 / label)))
+           :G (v5 / label~e.0)))

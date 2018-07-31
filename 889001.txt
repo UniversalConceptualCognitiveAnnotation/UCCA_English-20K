@@ -1,12 +1,13 @@
 # ::id 889001
 # ::tok No doubt it was my nationality that attracted him .
+# ::alignments 0-1.1.1.1 1-1.1.1.2 4-1.1.4.1 5-1.1.4.2 7-1.1.6 8-1.1.7
 (v1 / label
     :H (v2 / label
            :G (v3 / label
-                  :E (v7 / label)
-                  :C (v8 / label))
+                  :E (v7 / label~e.0)
+                  :C (v8 / label~e.1))
            :A (v4 / label
-                  :E (v9 / label)
-                  :C (v10 / label))
-           :P (v5 / label)
-           :A (v6 / label)))
+                  :E (v9 / label~e.4)
+                  :C (v10 / label~e.5))
+           :P (v5 / label~e.7)
+           :A (v6 / label~e.8)))

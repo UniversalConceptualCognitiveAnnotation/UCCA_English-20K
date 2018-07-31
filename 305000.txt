@@ -1,164 +1,165 @@
 # ::id 305000
 # ::tok “ In essence , the narwhale is armed with a sort of ivory sword , or lance , as certain naturalists have expressed it . It ’s a king-sized tooth as hard as steel . Some of these teeth have been found buried in the bodies of baleen whales , which the narwhale attacks with invariable success . Others have been wrenched , not without difficulty , from the undersides of vessels that narwhales have pierced clean through , as a gimlet pierces a wine barrel . The museum at the Faculty of Medicine in Paris owns one of these tusks with a length of 2.25 meters and a width at its base of forty-eight centimeters !
+# ::alignments 1-1.1.3.1.1 2-1.1.3.1.2 4-1.1.3.2.1.1 5-1.1.3.2.1.2 7-1.1.3.2.3 8-1.1.3.2.4.1 9-1.1.3.2.4.2.1.1.1 10-1.1.3.2.4.2.1.1.2 11-1.1.3.2.4.2.1.1.3 12-1.1.3.2.4.2.1.2 13-1.1.3.2.4.2.1.3 15-1.1.3.2.4.2.2 16-1.1.3.2.4.2.3.1 18-1.1.3.2.4.2.3.2.2 19-1.1.3.2.4.2.3.2.3.1 20-1.1.3.2.4.2.3.2.3.2 22-1.1.3.2.4.2.3.2.5 23-1.1.3.2.4.2.3.2.6 25-1.1.3.3.1 26-1.1.3.3.2 27-1.1.3.3.3.1 28-1.1.3.3.3.2 29-1.1.3.3.3.3 30-1.1.3.3.3.4.2.1 31-1.1.3.3.3.4.2.2 32-1.1.3.3.3.4.2.3 33-1.1.3.3.3.4.3 35-1.1.3.4.2.1.1 36-1.1.3.4.2.1.2 37-1.1.3.4.2.2 38-1.1.3.4.2.3 41-1.1.3.4.5 42-1.1.3.4.6.2 43-1.1.3.4.6.3.1 44-1.1.3.4.6.3.2 45-1.1.3.4.6.3.3 46-1.1.3.4.6.3.4.1 47-1.1.3.4.6.3.4.2 48-1.1.3.4.6.3.4.3 50-1.1.3.4.6.3.4.4.2 51-1.1.3.4.6.3.4.4.3.1 52-1.1.3.4.6.3.4.4.3.2 53-1.1.3.4.6.3.4.4.4 54-1.1.3.4.6.3.4.4.5.1 55-1.1.3.4.6.3.4.4.5.2 56-1.1.3.4.6.3.4.4.5.3 58-1.1.3.5.1.1 61-1.1.3.5.4 63-1.1.3.6.1 64-1.1.3.6.2 65-1.1.3.7.2 67-1.1.3.5.5.1 68-1.1.3.5.5.2 69-1.1.3.5.5.3 70-1.1.3.5.5.4.1 71-1.1.3.5.5.4.2 72-1.1.3.5.5.4.3.2 73-1.1.3.5.5.4.3.3 75-1.1.3.5.5.4.3.5 76-1.1.3.5.5.4.3.6.1 77-1.1.3.5.5.4.3.6.2.2 79-1.1.3.8 80-1.1.3.9.1.1 81-1.1.3.9.1.2 82-1.1.3.9.2 83-1.1.3.9.3.1 84-1.1.3.9.3.2 85-1.1.3.9.3.3 87-1.1.3.10.1.1 88-1.1.3.10.1.2 89-1.1.3.10.1.3.1 90-1.1.3.10.1.3.2 91-1.1.3.10.1.3.4 92-1.1.3.10.1.3.5.1 93-1.1.3.10.1.3.5.2 94-1.1.3.10.1.3.3.1 95-1.1.3.10.1.3.3.2 96-1.1.3.10.2 97-1.1.3.10.3.2.1 98-1.1.3.10.3.2.2 99-1.1.3.10.3.3 100-1.1.3.10.3.4 101-1.1.3.10.3.1.1.1 102-1.1.3.10.3.1.1.2.1 103-1.1.3.10.3.1.1.2.2 104-1.1.3.10.3.1.1.2.3 105-1.1.3.10.3.1.1.3 106-1.1.3.10.3.1.1.4 107-1.1.3.10.3.1.2 108-1.1.3.10.3.1.3.1.1 109-1.1.3.10.3.1.3.1.2 110-1.1.3.10.3.1.3.1.3.1 111-1.1.3.10.3.1.3.1.3.2 112-1.1.3.10.3.1.3.1.3.3 113-1.1.3.10.3.1.3.1.4 114-1.1.3.10.3.1.3.2 115-1.1.3.10.3.1.3.3
 (v1 / label
     :H (v2 / label
            :A (v3 / label)
            :P (v4 / label)
            :A (v5 / label
                   :L (v6 / label
-                         :R (v16 / label)
-                         :C (v17 / label))
+                         :R (v16 / label~e.1)
+                         :C (v17 / label~e.2))
                   :H (v7 / label
                          :A (v18 / label
-                                 :E (v41 / label)
-                                 :C (v42 / label))
-                         :S (v19 / label)
+                                 :E (v41 / label~e.4)
+                                 :C (v42 / label~e.5))
+                         :S (v19 / label~e.7)
                          :A (v20 / label
-                                 :R (v43 / label)
+                                 :R (v43 / label~e.8)
                                  :C (v44 / label
                                          :C (v72 / label
                                                  :E (v96 / label
-                                                         :E (v123 / label)
-                                                         :C (v124 / label)
-                                                         :R (v125 / label))
-                                                 :E (v97 / label)
-                                                 :C (v98 / label))
-                                         :N (v73 / label)
+                                                         :E (v123 / label~e.9)
+                                                         :C (v124 / label~e.10)
+                                                         :R (v125 / label~e.11))
+                                                 :E (v97 / label~e.12)
+                                                 :C (v98 / label~e.13))
+                                         :N (v73 / label~e.15)
                                          :C (v74 / label
-                                                 :C (v99 / label)
+                                                 :C (v99 / label~e.16)
                                                  :E (v100 / label
                                                           :A v99
-                                                          :R (v126 / label)
+                                                          :R (v126 / label~e.18)
                                                           :A (v127 / label
-                                                                   :E (v143 / label)
-                                                                   :C (v144 / label))
-                                                          :P (v128 / label)
-                                                          :A (v129 / label))))))
+                                                                   :E (v143 / label~e.19)
+                                                                   :C (v144 / label~e.20))
+                                                          :P (v128 / label~e.22)
+                                                          :A (v129 / label~e.23))))))
                   :H (v8 / label
-                         :A (v21 / label)
-                         :S (v22 / label)
+                         :A (v21 / label~e.25)
+                         :S (v22 / label~e.26)
                          :A (v23 / label
-                                 :E (v45 / label)
-                                 :E (v46 / label)
-                                 :C (v47 / label)
+                                 :E (v45 / label~e.27)
+                                 :E (v46 / label~e.28)
+                                 :C (v47 / label~e.29)
                                  :E (v48 / label
                                          :A v47
                                          :S (v75 / label
-                                                 :R (v101 / label)
-                                                 :C (v102 / label)
-                                                 :R (v103 / label))
-                                         :A (v76 / label))))
+                                                 :R (v101 / label~e.30)
+                                                 :C (v102 / label~e.31)
+                                                 :R (v103 / label~e.32))
+                                         :A (v76 / label~e.33))))
                   :H (v9 / label
                          :A (v24 / label)
                          :A (v25 / label
                                  :E (v49 / label
-                                         :C (v77 / label)
-                                         :R (v78 / label))
-                                 :E (v50 / label)
-                                 :C (v51 / label))
-                         :P (v26 / label)
+                                         :C (v77 / label~e.35)
+                                         :R (v78 / label~e.36))
+                                 :E (v50 / label~e.37)
+                                 :C (v51 / label~e.38))
+                         :P (v26 / label~e.41)
                          :A (v27 / label
                                  :A (v52 / label)
-                                 :P (v53 / label)
+                                 :P (v53 / label~e.42)
                                  :A (v54 / label
-                                         :R (v79 / label)
-                                         :E (v80 / label)
-                                         :C (v81 / label)
+                                         :R (v79 / label~e.43)
+                                         :E (v80 / label~e.44)
+                                         :C (v81 / label~e.45)
                                          :E (v82 / label
-                                                 :R (v104 / label)
-                                                 :E (v105 / label)
-                                                 :C (v106 / label)
+                                                 :R (v104 / label~e.46)
+                                                 :E (v105 / label~e.47)
+                                                 :C (v106 / label~e.48)
                                                  :E (v107 / label
                                                           :A v106
-                                                          :R (v130 / label)
+                                                          :R (v130 / label~e.50)
                                                           :A (v131 / label
-                                                                   :E (v145 / label)
-                                                                   :C (v146 / label))
-                                                          :P (v132 / label)
+                                                                   :E (v145 / label~e.51)
+                                                                   :C (v146 / label~e.52))
+                                                          :P (v132 / label~e.53)
                                                           :D (v133 / label
-                                                                   :R (v147 / label)
-                                                                   :E (v148 / label)
-                                                                   :C (v149 / label)))))
+                                                                   :R (v147 / label~e.54)
+                                                                   :E (v148 / label~e.55)
+                                                                   :C (v149 / label~e.56)))))
                                  :A v51))
                   :H (v10 / label
                           :A (v28 / label
-                                  :E (v55 / label)
+                                  :E (v55 / label~e.58)
                                   :C v51)
-                          :P (v29 / label)
+                          :P (v29 / label~e.61)
                           :A (v30 / label
-                                  :R (v56 / label)
-                                  :E (v57 / label)
-                                  :C (v58 / label)
+                                  :R (v56 / label~e.67)
+                                  :E (v57 / label~e.68)
+                                  :C (v58 / label~e.69)
                                   :E (v59 / label
-                                          :R (v83 / label)
-                                          :C (v84 / label)
+                                          :R (v83 / label~e.70)
+                                          :C (v84 / label~e.71)
                                           :E (v85 / label
                                                   :A v84
-                                                  :R (v108 / label)
-                                                  :A (v109 / label)
-                                                  :P (v110 / label)
+                                                  :R (v108 / label~e.72)
+                                                  :A (v109 / label~e.73)
+                                                  :P (v110 / label~e.75)
                                                   :D (v111 / label
-                                                           :C (v134 / label)
+                                                           :C (v134 / label~e.76)
                                                            :E (v135 / label
                                                                     :C v84
-                                                                    :R (v150 / label)))))))
+                                                                    :R (v150 / label~e.77)))))))
                   :L (v11 / label
-                          :C (v31 / label)
-                          :C (v32 / label))
+                          :C (v31 / label~e.63)
+                          :C (v32 / label~e.64))
                   :H (v12 / label
                           :A (v33 / label)
-                          :D (v34 / label)
+                          :D (v34 / label~e.65)
                           :P v29)
-                  :L (v13 / label)
+                  :L (v13 / label~e.79)
                   :H (v14 / label
                           :A (v35 / label
-                                  :E (v60 / label)
-                                  :C (v61 / label))
-                          :P (v36 / label)
+                                  :E (v60 / label~e.80)
+                                  :C (v61 / label~e.81))
+                          :P (v36 / label~e.82)
                           :A (v37 / label
-                                  :E (v62 / label)
-                                  :E (v63 / label)
-                                  :C (v64 / label)))
+                                  :E (v62 / label~e.83)
+                                  :E (v63 / label~e.84)
+                                  :C (v64 / label~e.85)))
                   :H (v15 / label
                           :A (v38 / label
-                                  :E (v65 / label)
-                                  :C (v66 / label)
+                                  :E (v65 / label~e.87)
+                                  :C (v66 / label~e.88)
                                   :E (v67 / label
-                                          :R (v86 / label)
-                                          :E (v87 / label)
+                                          :R (v86 / label~e.89)
+                                          :E (v87 / label~e.90)
                                           :E (v88 / label
-                                                  :R (v112 / label)
-                                                  :C (v113 / label))
-                                          :C (v89 / label)
+                                                  :R (v112 / label~e.94)
+                                                  :C (v113 / label~e.95))
+                                          :C (v89 / label~e.91)
                                           :E (v90 / label
-                                                  :R (v114 / label)
-                                                  :C (v115 / label))))
-                          :S (v39 / label)
+                                                  :R (v114 / label~e.92)
+                                                  :C (v115 / label~e.93))))
+                          :S (v39 / label~e.96)
                           :A (v40 / label
                                   :E (v68 / label
                                           :C (v91 / label
-                                                  :R (v116 / label)
+                                                  :R (v116 / label~e.101)
                                                   :E (v117 / label
-                                                           :E (v136 / label)
-                                                           :C (v137 / label)
-                                                           :R (v138 / label))
-                                                  :E (v118 / label)
-                                                  :C (v119 / label))
-                                          :N (v92 / label)
+                                                           :E (v136 / label~e.102)
+                                                           :C (v137 / label~e.103)
+                                                           :R (v138 / label~e.104))
+                                                  :E (v118 / label~e.105)
+                                                  :C (v119 / label~e.106))
+                                          :N (v92 / label~e.107)
                                           :C (v93 / label
                                                   :E (v120 / label
-                                                           :E (v139 / label)
-                                                           :C (v140 / label)
+                                                           :E (v139 / label~e.108)
+                                                           :C (v140 / label~e.109)
                                                            :E (v141 / label
-                                                                    :R (v151 / label)
-                                                                    :E (v152 / label)
-                                                                    :C (v153 / label))
-                                                           :R (v142 / label))
-                                                  :E (v121 / label)
-                                                  :C (v122 / label)
+                                                                    :R (v151 / label~e.110)
+                                                                    :E (v152 / label~e.111)
+                                                                    :C (v153 / label~e.112))
+                                                           :R (v142 / label~e.113))
+                                                  :E (v121 / label~e.114)
+                                                  :C (v122 / label~e.115)
                                                   :R v116))
                                   :E (v69 / label
-                                          :C (v94 / label)
-                                          :R (v95 / label))
-                                  :E (v70 / label)
-                                  :C (v71 / label))))))
+                                          :C (v94 / label~e.97)
+                                          :R (v95 / label~e.98))
+                                  :E (v70 / label~e.99)
+                                  :C (v71 / label~e.100))))))

@@ -1,45 +1,46 @@
 # ::id 984004
 # ::tok Nothing remotely resembling a gigantic narwhale , or an underwater islet , or a derelict shipwreck , or a runaway reef , or anything the least bit unearthly !
+# ::alignments 0-1.1.3.1 1-1.1.3.2.3 2-1.1.3.2.4 3-1.1.3.2.5.1.1 4-1.1.3.2.5.1.2 5-1.1.3.2.5.1.3 7-1.1.3.2.5.2 8-1.1.3.2.5.3.1 9-1.1.3.2.5.3.2 10-1.1.3.2.5.3.3 12-1.1.3.2.5.4 13-1.1.3.2.5.5.1 14-1.1.3.2.5.5.2 15-1.1.3.2.5.5.3 17-1.1.3.2.5.6 18-1.1.3.2.5.7.1 19-1.1.3.2.5.7.2.2 20-1.1.3.2.5.7.3 22-1.1.3.2.5.8 23-1.1.3.2.5.9.1 24-1.1.3.2.5.9.2.2.1 25-1.1.3.2.5.9.2.2.2 26-1.1.3.2.5.9.2.2.3 27-1.1.3.2.5.9.2.3
 (v1 / label
     :H (v2 / label
            :A (v3 / label)
            :P (v4 / label)
            :A (v5 / label
-                  :C (v6 / label)
+                  :C (v6 / label~e.0)
                   :E (v7 / label
                          :A v6
                          :D (v8 / label)
-                         :D (v9 / label)
-                         :S (v10 / label)
+                         :D (v9 / label~e.1)
+                         :S (v10 / label~e.2)
                          :A (v11 / label
                                  :C (v12 / label
-                                         :E (v21 / label)
-                                         :E (v22 / label)
-                                         :C (v23 / label))
-                                 :N (v13 / label)
+                                         :E (v21 / label~e.3)
+                                         :E (v22 / label~e.4)
+                                         :C (v23 / label~e.5))
+                                 :N (v13 / label~e.7)
                                  :C (v14 / label
-                                         :E (v24 / label)
-                                         :E (v25 / label)
-                                         :C (v26 / label))
-                                 :N (v15 / label)
+                                         :E (v24 / label~e.8)
+                                         :E (v25 / label~e.9)
+                                         :C (v26 / label~e.10))
+                                 :N (v15 / label~e.12)
                                  :C (v16 / label
-                                         :E (v27 / label)
-                                         :E (v28 / label)
-                                         :C (v29 / label))
-                                 :N (v17 / label)
+                                         :E (v27 / label~e.13)
+                                         :E (v28 / label~e.14)
+                                         :C (v29 / label~e.15))
+                                 :N (v17 / label~e.17)
                                  :C (v18 / label
-                                         :E (v30 / label)
+                                         :E (v30 / label~e.18)
                                          :E (v31 / label
-                                                 :A (v32 / label)
-                                                 :S (v35 / label))
+                                                 :A (v32 / label~e.20)
+                                                 :S (v35 / label~e.19))
                                          :C v32)
-                                 :N (v19 / label)
+                                 :N (v19 / label~e.22)
                                  :C (v20 / label
-                                         :C (v33 / label)
+                                         :C (v33 / label~e.23)
                                          :E (v34 / label
                                                  :A v33
                                                  :D (v36 / label
-                                                         :E (v38 / label)
-                                                         :E (v39 / label)
-                                                         :C (v40 / label))
-                                                 :S (v37 / label))))))))
+                                                         :E (v38 / label~e.24)
+                                                         :E (v39 / label~e.25)
+                                                         :C (v40 / label~e.26))
+                                                 :S (v37 / label~e.27))))))))

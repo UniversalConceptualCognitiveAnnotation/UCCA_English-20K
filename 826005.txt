@@ -1,61 +1,62 @@
 # ::id 826005
 # ::tok “ We have n’t a moment to lose . Pack as much into my trunk as you can , my traveling kit , my suits , shirts , and socks , do n’t bother counting , just squeeze it all in — and hurry !
+# ::alignments 1-1.1.3.1.1 2-1.1.3.1.2 3-1.1.3.1.3 4-1.1.3.1.4.1 5-1.1.3.1.4.2 7-1.1.3.1.6 9-1.1.3.2.1 10-1.1.3.3 11-1.1.3.3 12-1.1.3.2.3.1 13-1.1.3.2.3.2 14-1.1.3.2.3.3 15-1.1.3.3 16-1.1.3.4.1 17-1.1.3.4.2.1 19-1.1.3.2.4.1.1 20-1.1.3.2.4.1.2 21-1.1.3.2.4.1.3 23-1.1.3.2.4.2.1 24-1.1.3.2.4.2.2 26-1.1.3.2.4.3.1 28-1.1.3.2.4.4 29-1.1.3.2.4.5.1 32-1.1.3.5.2 33-1.1.3.5.3 34-1.1.3.5.4 36-1.1.3.6.1 37-1.1.3.6.2 38-1.1.3.6.3.1 39-1.1.3.6.3.2 40-1.1.3.6.2 42-1.1.3.7 43-1.1.3.8.1
 (v1 / label
     :H (v2 / label
            :A (v3 / label)
            :P (v4 / label)
            :A (v5 / label
                   :H (v6 / label
-                         :A (v14 / label)
-                         :D (v15 / label)
-                         :D (v16 / label)
+                         :A (v14 / label~e.1)
+                         :D (v15 / label~e.2)
+                         :D (v16 / label~e.3)
                          :T (v17 / label
-                                 :E (v32 / label)
-                                 :C (v33 / label))
-                         :P (v18 / label))
+                                 :E (v32 / label~e.4)
+                                 :C (v33 / label~e.5))
+                         :P (v18 / label~e.7))
                   :H (v7 / label
-                         :P (v19 / label)
+                         :P (v19 / label~e.9)
                          :A (v20 / label)
                          :A (v21 / label
-                                 :R (v34 / label)
-                                 :E (v35 / label)
-                                 :C (v36 / label))
+                                 :R (v34 / label~e.12)
+                                 :E (v35 / label~e.13)
+                                 :C (v36 / label~e.14))
                          :A (v22 / label
                                  :C (v37 / label
-                                         :E (v45 / label)
-                                         :E (v46 / label)
-                                         :C (v47 / label))
+                                         :E (v45 / label~e.19)
+                                         :E (v46 / label~e.20)
+                                         :C (v47 / label~e.21))
                                  :C (v38 / label
-                                         :E (v48 / label)
-                                         :C (v49 / label))
+                                         :E (v48 / label~e.23)
+                                         :C (v49 / label~e.24))
                                  :C (v39 / label
-                                         :C (v50 / label)
+                                         :C (v50 / label~e.26)
                                          :E v45)
-                                 :N (v40 / label)
+                                 :N (v40 / label~e.28)
                                  :C (v41 / label
-                                         :C (v51 / label)
+                                         :C (v51 / label~e.29)
                                          :E v45)))
-                  :L (v8 / label)
+                  :L (v8 / label~e.10,11,15)
                   :H (v9 / label
-                         :A (v23 / label)
+                         :A (v23 / label~e.16)
                          :D (v24 / label
-                                 :E (v42 / label)
+                                 :E (v42 / label~e.17)
                                  :C v19)
                          :P v19)
                   :H (v10 / label
-                          :D (v25 / label)
-                          :D (v26 / label)
-                          :P (v27 / label)
+                          :D (v25 / label~e.32)
+                          :D (v26 / label~e.33)
+                          :P (v27 / label~e.34)
                           :A v23
                           :A v22)
                   :H (v11 / label
-                          :D (v28 / label)
-                          :P (v29 / label)
+                          :D (v28 / label~e.36)
+                          :P (v29 / label~e.37,40)
                           :A (v30 / label
-                                  :C (v43 / label)
-                                  :E (v44 / label))
+                                  :C (v43 / label~e.38)
+                                  :E (v44 / label~e.39))
                           :A v23)
-                  :L (v12 / label)
+                  :L (v12 / label~e.42)
                   :H (v13 / label
-                          :P (v31 / label)
+                          :P (v31 / label~e.43)
                           :A v23))))

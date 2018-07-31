@@ -1,50 +1,51 @@
 # ::id 978002
 # ::tok By then it was the bad season in these southernmost regions , because July in this zone corresponds to our January in Europe ; but the sea remained smooth and easily visible over a vast perimeter .
+# ::alignments 0-1.1.1 1-1.1.2 3-1.2.2 4-1.2.3.1 5-1.2.3.2 6-1.2.3.3 7-1.2.4.1 8-1.2.4.2 9-1.2.4.3 10-1.2.4.4 12-1.3 13-1.4.1.1 14-1.4.1.2.1 15-1.4.1.2.2 16-1.4.1.2.3 17-1.4.2 18-1.4.3.1 19-1.4.3.2 20-1.4.3.3 21-1.4.3.4.1 22-1.4.3.4.2 24-1.5 25-1.6.1.1 26-1.6.1.2 27-1.6.2 28-1.6.3.1 29-1.6.3.2 30-1.6.3.3.1 31-1.6.3.3.2 32-1.6.4.1 33-1.6.4.2 34-1.6.4.3 35-1.6.4.4
 (v1 / label
     :L (v2 / label
-           :R (v8 / label)
-           :C (v9 / label))
+           :R (v8 / label~e.0)
+           :C (v9 / label~e.1))
     :H (v3 / label
-           :S (v10 / label)
+           :S (v10 / label~e.3)
            :A (v11 / label
-                   :E (v20 / label)
-                   :E (v21 / label)
-                   :C (v22 / label))
+                   :E (v20 / label~e.4)
+                   :E (v21 / label~e.5)
+                   :C (v22 / label~e.6))
            :A (v12 / label
-                   :R (v23 / label)
-                   :E (v24 / label)
-                   :E (v25 / label)
-                   :C (v26 / label)))
-    :L (v4 / label)
+                   :R (v23 / label~e.7)
+                   :E (v24 / label~e.8)
+                   :E (v25 / label~e.9)
+                   :C (v26 / label~e.10)))
+    :L (v4 / label~e.12)
     :H (v5 / label
            :A (v13 / label
-                   :C (v27 / label)
+                   :C (v27 / label~e.13)
                    :E (v28 / label
-                           :R (v42 / label)
-                           :E (v43 / label)
-                           :C (v44 / label)))
-           :P (v14 / label)
+                           :R (v42 / label~e.14)
+                           :E (v43 / label~e.15)
+                           :C (v44 / label~e.16)))
+           :P (v14 / label~e.17)
            :A (v15 / label
-                   :R (v29 / label)
-                   :E (v30 / label)
-                   :C (v31 / label)
+                   :R (v29 / label~e.18)
+                   :E (v30 / label~e.19)
+                   :C (v31 / label~e.20)
                    :E (v32 / label
-                           :R (v45 / label)
-                           :C (v46 / label))))
-    :L (v6 / label)
+                           :R (v45 / label~e.21)
+                           :C (v46 / label~e.22))))
+    :L (v6 / label~e.24)
     :H (v7 / label
            :A (v16 / label
-                   :E (v33 / label)
-                   :C (v34 / label))
-           :D (v17 / label)
+                   :E (v33 / label~e.25)
+                   :C (v34 / label~e.26))
+           :D (v17 / label~e.27)
            :S (v18 / label
-                   :C (v35 / label)
-                   :N (v36 / label)
+                   :C (v35 / label~e.28)
+                   :N (v36 / label~e.29)
                    :C (v37 / label
-                           :E (v47 / label)
-                           :C (v48 / label)))
+                           :E (v47 / label~e.30)
+                           :C (v48 / label~e.31)))
            :A (v19 / label
-                   :R (v38 / label)
-                   :E (v39 / label)
-                   :E (v40 / label)
-                   :C (v41 / label))))
+                   :R (v38 / label~e.32)
+                   :E (v39 / label~e.33)
+                   :E (v40 / label~e.34)
+                   :C (v41 / label~e.35))))

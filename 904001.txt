@@ -1,20 +1,21 @@
 # ::id 904001
 # ::tok ” “ In business , Ned , but not in mathematics .
+# ::alignments 2-1.1.1.3.1 3-1.1.1.3.2 5-1.1.1.4 7-1.1.2 8-1.1.3.4 9-1.1.3.5.1 10-1.1.3.5.2
 (v1 / label
     :H (v2 / label
            :H (v3 / label
                   :P (v6 / label)
                   :A (v7 / label)
                   :A (v8 / label
-                         :R (v15 / label)
-                         :C (v16 / label))
-                  :G (v9 / label))
-           :L (v4 / label)
+                         :R (v15 / label~e.2)
+                         :C (v16 / label~e.3))
+                  :G (v9 / label~e.5))
+           :L (v4 / label~e.7)
            :H (v5 / label
                   :A (v10 / label)
                   :P (v11 / label)
                   :A (v12 / label)
-                  :D (v13 / label)
+                  :D (v13 / label~e.8)
                   :A (v14 / label
-                          :R (v17 / label)
-                          :C (v18 / label)))))
+                          :R (v17 / label~e.9)
+                          :C (v18 / label~e.10)))))
