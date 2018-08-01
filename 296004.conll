@@ -20,22 +20,5 @@
 19	“	_	Punctuation	Punctuation	_	21	U	_	_
 20	no	_	Word	Word	_	21	D	_	_
 21	comment	_	Word	Word	_	0	ROOT	_	_
-22	.	_	Punctuation	Punctuation	_	6	U	_	_
-23	”	_	Punctuation	Punctuation	_	6	U	_	_
-24	But	_	Word	Word	_	6	L	_	_
-25	soon	_	Word	Word	_	35	T	_	_
-26	,	_	Punctuation	Punctuation	_	35	U	_	_
-27	pinned	_	Word	Word	_	0	ROOT	_	_
-28	to	_	Word	Word	_	27	Terminal	_	_
-29	the	_	Word	Word	_	27	Terminal	_	_
-30	wall	_	Word	Word	_	27	Terminal	_	_
-31	,	_	Punctuation	Punctuation	_	27	U	_	_
-32	I	_	Word	Word	_	27	A	_	_
-33	had	_	Word	Word	_	35	D	_	_
-34	to	_	Word	Word	_	33	Terminal	_	_
-35	explain	_	Word	Word	_	0	ROOT	_	_
-36	myself	_	Word	Word	_	35	Terminal	_	_
-37	straight	_	Word	Word	_	35	D	_	_
-38	out	_	Word	Word	_	37	Terminal	_	_
-39	.	_	Punctuation	Punctuation	_	35	U	_	_
+22	.	_	Punctuation	Punctuation	_	21	U	_	_
 

@@ -8,15 +8,15 @@
 7	of	_	Word	Word	_	8	R	_	_
 8	something	_	Word	Word	_	0	ROOT	_	_
 9	,	_	Punctuation	Punctuation	_	5	U	_	_
-10	it	_	Word	Word	_	13	A	_	_
 10	it	_	Word	Word	_	21	A	_	_
+10	it	_	Word	Word	_	13	A	_	_
 11	had	_	Word	Word	_	13	F	_	_
 12	been	_	Word	Word	_	13	F	_	_
 13	fouled	_	Word	Word	_	21	P	_	_
 14	,	_	Punctuation	Punctuation	_	5	U	_	_
 15	and	_	Word	Word	_	5	L	_	_
-16	by	_	Word	Word	_	21	R	_	_
 16	by	_	Word	Word	_	26	R	_	_
+16	by	_	Word	Word	_	21	R	_	_
 17	a	_	Word	Word	_	18	E	_	_
 18	cutting	_	Word	Word	_	0	ROOT	_	_
 19	or	_	Word	Word	_	18	N	_	_

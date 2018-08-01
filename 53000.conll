@@ -20,8 +20,8 @@
 19	this	_	Word	Word	_	22	E	_	_
 20	maritime	_	Word	Word	_	22	E	_	_
 21	transportation	_	Word	Word	_	22	E	_	_
-22	company	_	Word	Word	_	31	A	_	_
 22	company	_	Word	Word	_	24	A	_	_
+22	company	_	Word	Word	_	31	A	_	_
 23	,	_	Punctuation	Punctuation	_	22	U	_	_
 24	known	_	Word	Word	_	0	ROOT	_	_
 25	the	_	Word	Word	_	26	E	_	_

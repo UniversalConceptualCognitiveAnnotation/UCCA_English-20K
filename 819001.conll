@@ -71,8 +71,8 @@
 68	”	_	Punctuation	Punctuation	_	3	U	_	_
 69	never	_	Word	Word	_	70	T	_	_
 70	giving	_	Word	Word	_	0	ROOT	_	_
-71	advice	_	Word	Word	_	73	C	_	_
 71	advice	_	Word	Word	_	76	A	_	_
+71	advice	_	Word	Word	_	73	C	_	_
 72	—	_	Punctuation	Punctuation	_	71	U	_	_
 73	not	_	Word	Word	_	0	ROOT	_	_
 74	even	_	Word	Word	_	73	Terminal	_	_

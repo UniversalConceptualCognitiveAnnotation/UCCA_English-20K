@@ -8,8 +8,8 @@
 7	to	_	Word	Word	_	8	F	_	_
 8	lose	_	Word	Word	_	0	ROOT	_	_
 9	.	_	Punctuation	Punctuation	_	8	U	_	_
-10	Pack	_	Word	Word	_	17	P	_	_
 10	Pack	_	Word	Word	_	18	C	_	_
+10	Pack	_	Word	Word	_	17	P	_	_
 11	as	_	Word	Word	_	8	L	_	_
 12	much	_	Word	Word	_	11	Terminal	_	_
 13	into	_	Word	Word	_	15	R	_	_
@@ -17,8 +17,8 @@
 15	trunk	_	Word	Word	_	0	ROOT	_	_
 16	as	_	Word	Word	_	11	Terminal	_	_
 17	you	_	Word	Word	_	38	A	_	_
-17	you	_	Word	Word	_	35	A	_	_
 17	you	_	Word	Word	_	44	A	_	_
+17	you	_	Word	Word	_	35	A	_	_
 18	can	_	Word	Word	_	0	ROOT	_	_
 19	,	_	Punctuation	Punctuation	_	8	U	_	_
 20	my	_	Word	Word	_	30	E	_	_
