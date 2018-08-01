@@ -156,16 +156,16 @@
       <edge toID="1.8" type="A">
         <attributes />
       </edge>
-      <edge toID="1.9" type="U">
+      <edge toID="1.9" type="T">
         <attributes />
       </edge>
-      <edge toID="1.10" type="T">
+      <edge toID="1.10" type="A">
         <attributes />
       </edge>
       <edge toID="1.11" type="U">
         <attributes />
       </edge>
-      <edge toID="1.12" type="A">
+      <edge toID="1.12" type="U">
         <attributes />
       </edge>
     </node>
@@ -214,13 +214,7 @@
         <attributes />
       </edge>
     </node>
-    <node ID="1.9" type="PNCT">
-      <attributes />
-      <edge toID="0.9" type="Terminal">
-        <attributes />
-      </edge>
-    </node>
-    <node ID="1.10" type="FN">
+    <node ID="1.9" type="FN">
       <attributes />
       <edge toID="1.21" type="R">
         <attributes />
@@ -232,13 +226,7 @@
         <attributes />
       </edge>
     </node>
-    <node ID="1.11" type="PNCT">
-      <attributes />
-      <edge toID="0.17" type="Terminal">
-        <attributes />
-      </edge>
-    </node>
-    <node ID="1.12" type="FN">
+    <node ID="1.10" type="FN">
       <attributes />
       <edge toID="1.13" type="R">
         <attributes />
@@ -250,6 +238,18 @@
         <attributes />
       </edge>
       <edge toID="1.16" type="E">
+        <attributes />
+      </edge>
+    </node>
+    <node ID="1.11" type="PNCT">
+      <attributes />
+      <edge toID="0.9" type="Terminal">
+        <attributes />
+      </edge>
+    </node>
+    <node ID="1.12" type="PNCT">
+      <attributes />
+      <edge toID="0.17" type="Terminal">
         <attributes />
       </edge>
     </node>
@@ -285,6 +285,9 @@
       <edge toID="1.19" type="C">
         <attributes />
       </edge>
+      <edge toID="1.20" type="U">
+        <attributes />
+      </edge>
     </node>
     <node ID="1.17" type="FN">
       <attributes />
@@ -316,9 +319,6 @@
         <attributes />
       </edge>
       <edge toID="0.30" type="Terminal">
-        <attributes />
-      </edge>
-      <edge toID="1.20" type="U">
         <attributes />
       </edge>
     </node>
