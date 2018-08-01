@@ -38,8 +38,8 @@
 35	mile	_	Word	Word	_	1	orphan	1:orphan	_
 36	wide	_	Word	Word	_	35	E	35:E	_
 37	and	_	Word	Word	_	35	N	35:N	_
-38	three	_	Word	Word	_	39	E	39:E	_
-39	long	_	Word	Word	_	1	orphan	1:orphan	_
+38	three	_	Word	Word	_	1	orphan	1:orphan	_
+39	long	_	Word	Word	_	38	E	38:E	_
 40	-	_	Word	Word	_	41	F	41:F	_
 41	you	_	Word	Word	_	1	orphan	1:orphan	_
 42	could	_	Word	Word	_	44	D	44:D	_

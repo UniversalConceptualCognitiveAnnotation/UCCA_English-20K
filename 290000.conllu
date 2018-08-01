@@ -19,7 +19,7 @@
 16	groups	_	Word	Word	_	5	orphan	5:orphan	_
 17	of	_	Word	Word	_	18	R	18:R	_
 18	supporters	_	Word	Word	_	5	orphan	5:orphan	_
-19	:	_	Punctuation	Punctuation	_	25	punct	25:punct	_
+19	:	_	Punctuation	Punctuation	_	16	punct	16:punct	_
 20	on	_	Word	Word	_	22	R	22:R	_
 21	one	_	Word	Word	_	22	E	22:E	_
 22	side	_	Word	Word	_	5	orphan	5:orphan	_

@@ -1,5 +1,5 @@
 # sent_id = 296004
-# text = As long as I could deny the reality of the business , I confined myself to a flat “ no comment . ” But soon , pinned to the wall , I had to explain myself straight out .
+# text = As long as I could deny the reality of the business , I confined myself to a flat “ no comment .
 # doc_id = 
 1	As	_	Word	Word	_	2	R	2:R	_
 2	long	_	Word	Word	_	0	root	0:root	_
@@ -22,22 +22,5 @@
 19	“	_	Punctuation	Punctuation	_	21	punct	21:punct	_
 20	no	_	Word	Word	_	21	D	21:D	_
 21	comment	_	Word	Word	_	2	orphan	2:orphan	_
-22	.	_	Punctuation	Punctuation	_	6	punct	6:punct	_
-23	”	_	Punctuation	Punctuation	_	6	punct	6:punct	_
-24	But	_	Word	Word	_	6	L	6:L	_
-25	soon	_	Word	Word	_	35	T	35:T	_
-26	,	_	Punctuation	Punctuation	_	35	punct	35:punct	_
-27	pinned	_	Word	Word	_	2	orphan	2:orphan	_
-28	to	_	Word	Word	_	27	flat	27:flat	_
-29	the	_	Word	Word	_	27	flat	27:flat	_
-30	wall	_	Word	Word	_	27	flat	27:flat	_
-31	,	_	Punctuation	Punctuation	_	27	punct	27:punct	_
-32	I	_	Word	Word	_	2	orphan	2:orphan	_
-33	had	_	Word	Word	_	35	D	35:D	_
-34	to	_	Word	Word	_	33	flat	33:flat	_
-35	explain	_	Word	Word	_	2	orphan	2:orphan	_
-36	myself	_	Word	Word	_	35	flat	35:flat	_
-37	straight	_	Word	Word	_	35	D	35:D	_
-38	out	_	Word	Word	_	37	flat	37:flat	_
-39	.	_	Punctuation	Punctuation	_	35	punct	35:punct	_
+22	.	_	Punctuation	Punctuation	_	21	punct	21:punct	_
 

@@ -1,5 +1,5 @@
 # sent_id = 982002
-# text = Commander Farragut felt , and with good reason , that it was best to stay in deep waters and keep his distance from continents or islands , whose neighborhoods the animal always seemed to avoid — “ No doubt , ” our bosun said , “ because there is n’t enough water for him ! ” So the frigate kept well out when passing the Tuamotu , Marquesas , and Hawaiian Islands , then cut the Tropic of Cancer at longitude 132 ° and headed for the seas of China .
+# text = Commander Farragut felt , and with good reason , that it was best to stay in deep waters and keep his distance from continents or islands , whose neighborhoods the animal always seemed to avoid — “ No doubt , ” our bosun said , “ because there is n’t enough water for him !
 # doc_id = 
 1	Commander	_	Word	Word	_	2	E	2:E	_
 2	Farragut	_	Word	Word	_	0	root	0:root	_
@@ -55,41 +55,5 @@
 52	water	_	Word	Word	_	51	A	51:A	_
 53	for	_	Word	Word	_	54	R	54:R	_
 54	him	_	Word	Word	_	2	orphan	2:orphan	_
-55	!	_	Punctuation	Punctuation	_	3	punct	3:punct	_
-56	”	_	Punctuation	Punctuation	_	3	punct	3:punct	_
-57	So	_	Word	Word	_	3	L	3:L	_
-58	the	_	Word	Word	_	59	E	59:E	_
-59	frigate	_	Word	Word	_	2	orphan	2:orphan	_
-60	kept	_	Word	Word	_	2	orphan	2:orphan	_
-61	well	_	Word	Word	_	60	D	60:D	_
-62	out	_	Word	Word	_	60	flat	60:flat	_
-63	when	_	Word	Word	_	3	L	3:L	_
-64	passing	_	Word	Word	_	2	orphan	2:orphan	_
-65	the	_	Word	Word	_	2	orphan	2:orphan	_
-66	Tuamotu	_	Word	Word	_	65	E	65:E	_
-67	,	_	Punctuation	Punctuation	_	65	punct	65:punct	_
-68	Marquesas	_	Word	Word	_	2	orphan	2:orphan	_
-69	,	_	Punctuation	Punctuation	_	65	punct	65:punct	_
-70	and	_	Word	Word	_	65	N	65:N	_
-71	Hawaiian	_	Word	Word	_	72	E	72:E	_
-72	Islands	_	Word	Word	_	2	orphan	2:orphan	_
-73	,	_	Punctuation	Punctuation	_	3	punct	3:punct	_
-74	then	_	Word	Word	_	3	L	3:L	_
-75	cut	_	Word	Word	_	2	orphan	2:orphan	_
-76	the	_	Word	Word	_	77	E	77:E	_
-77	Tropic	_	Word	Word	_	2	orphan	2:orphan	_
-78	of	_	Word	Word	_	79	R	79:R	_
-79	Cancer	_	Word	Word	_	2	orphan	2:orphan	_
-80	at	_	Word	Word	_	82	R	82:R	_
-81	longitude	_	Word	Word	_	82	E	82:E	_
-82	132	_	Word	Word	_	2	orphan	2:orphan	_
-83	°	_	Punctuation	Punctuation	_	3	punct	3:punct	_
-84	and	_	Word	Word	_	3	L	3:L	_
-85	headed	_	Word	Word	_	2	orphan	2:orphan	_
-86	for	_	Word	Word	_	88	R	88:R	_
-87	the	_	Word	Word	_	88	E	88:E	_
-88	seas	_	Word	Word	_	2	orphan	2:orphan	_
-89	of	_	Word	Word	_	90	R	90:R	_
-90	China	_	Word	Word	_	2	orphan	2:orphan	_
-91	.	_	Punctuation	Punctuation	_	90	punct	90:punct	_
+55	!	_	Punctuation	Punctuation	_	54	punct	54:punct	_
 

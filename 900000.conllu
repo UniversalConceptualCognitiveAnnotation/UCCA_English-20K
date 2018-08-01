@@ -1,5 +1,5 @@
 # sent_id = 900000
-# text = “ So , Mr . Naturalist , ” Ned Land continued in a bantering tone , “ you ’ll just keep on believing in the existence of some enormous cetacean . . . ?
+# text = “ So , Mr . Naturalist , ” Ned Land continued in a bantering tone , “ you ’ll just keep on believing in the existence of some enormous cetacean .
 # doc_id = 
 1	“	_	Punctuation	Punctuation	_	23	punct	23:punct	_
 2	So	_	Word	Word	_	23	D	23:D	_
@@ -32,7 +32,4 @@
 29	enormous	_	Word	Word	_	11	orphan	11:orphan	_
 30	cetacean	_	Word	Word	_	11	orphan	11:orphan	_
 31	.	_	Punctuation	Punctuation	_	30	punct	30:punct	_
-32	.	_	Punctuation	Punctuation	_	30	punct	30:punct	_
-33	.	_	Punctuation	Punctuation	_	30	punct	30:punct	_
-34	?	_	Punctuation	Punctuation	_	30	punct	30:punct	_
 

@@ -1,5 +1,5 @@
 # sent_id = 826007
-# text = “ We ’ll deal with them later .
+# text = “ We ’ll deal with them later . ” “ What ! The archaeotherium , hyracotherium , oreodonts , cheiropotamus , and master ’s other fossil skeletons ?
 # doc_id = 
 1	“	_	Punctuation	Punctuation	_	4	punct	4:punct	_
 2	We	_	Word	Word	_	4	A	4:A	_
@@ -8,5 +8,25 @@
 5	with	_	Word	Word	_	6	R	6:R	_
 6	them	_	Word	Word	_	4	orphan	4:orphan	_
 7	later	_	Word	Word	_	4	T	4:T	_
-8	.	_	Punctuation	Punctuation	_	4	punct	4:punct	_
+8	.	_	Punctuation	Punctuation	_	11	punct	11:punct	_
+9	”	_	Punctuation	Punctuation	_	11	punct	11:punct	_
+10	“	_	Punctuation	Punctuation	_	11	punct	11:punct	_
+11	What	_	Word	Word	_	4	orphan	4:orphan	_
+12	!	_	Punctuation	Punctuation	_	11	punct	11:punct	_
+13	The	_	Word	Word	_	14	E	14:E	_
+14	archaeotherium	_	Word	Word	_	4	orphan	4:orphan	_
+15	,	_	Punctuation	Punctuation	_	14	punct	14:punct	_
+16	hyracotherium	_	Word	Word	_	14	C	14:C	_
+17	,	_	Punctuation	Punctuation	_	14	punct	14:punct	_
+18	oreodonts	_	Word	Word	_	14	C	14:C	_
+19	,	_	Punctuation	Punctuation	_	14	punct	14:punct	_
+20	cheiropotamus	_	Word	Word	_	14	C	14:C	_
+21	,	_	Punctuation	Punctuation	_	14	punct	14:punct	_
+22	and	_	Word	Word	_	14	N	14:N	_
+23	master	_	Word	Word	_	4	orphan	4:orphan	_
+24	’s	_	Word	Word	_	23	R	23:R	_
+25	other	_	Word	Word	_	27	E	27:E	_
+26	fossil	_	Word	Word	_	27	E	27:E	_
+27	skeletons	_	Word	Word	_	4	orphan	4:orphan	_
+28	?	_	Punctuation	Punctuation	_	27	punct	27:punct	_
 

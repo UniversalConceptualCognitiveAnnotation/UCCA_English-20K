@@ -1,14 +1,13 @@
 # sent_id = 826009
-# text = ” “ The hotel will keep them for us .
+# text = ” “ What about master ’s live babirusa ?
 # doc_id = 
-1	”	_	Punctuation	Punctuation	_	6	punct	6:punct	_
-2	“	_	Punctuation	Punctuation	_	6	punct	6:punct	_
-3	The	_	Word	Word	_	4	E	4:E	_
-4	hotel	_	Word	Word	_	0	root	0:root	_
-5	will	_	Word	Word	_	6	D	6:D	_
-6	keep	_	Word	Word	_	4	orphan	4:orphan	_
-7	them	_	Word	Word	_	6	A	6:A	_
-8	for	_	Word	Word	_	9	R	9:R	_
-9	us	_	Word	Word	_	4	orphan	4:orphan	_
-10	.	_	Punctuation	Punctuation	_	9	punct	9:punct	_
+1	”	_	Punctuation	Punctuation	_	3	punct	3:punct	_
+2	“	_	Punctuation	Punctuation	_	3	punct	3:punct	_
+3	What	_	Word	Word	_	0	root	0:root	_
+4	about	_	Word	Word	_	3	flat	3:flat	_
+5	master	_	Word	Word	_	3	orphan	3:orphan	_
+6	’s	_	Word	Word	_	5	R	5:R	_
+7	live	_	Word	Word	_	3	orphan	3:orphan	_
+8	babirusa	_	Word	Word	_	3	orphan	3:orphan	_
+9	?	_	Punctuation	Punctuation	_	8	punct	8:punct	_
 
