@@ -34,5 +34,16 @@ jobs:
       env: FORMAT=export
     - script: curl $SCRIPTS/convert.sh | bash -s $FORMAT
       env: FORMAT=txt
+    - stage: evaluate
+      script: curl $SCRIPTS/evaluate.sh | bash -s $FORMAT
+      env: FORMAT=sdp
+    - script: curl $SCRIPTS/evaluate.sh | bash -s $FORMAT
+      env: FORMAT=conll
+    - script: curl $SCRIPTS/evaluate.sh | bash -s $FORMAT
+      env: FORMAT=conllu
+    - script: curl $SCRIPTS/evaluate.sh | bash -s $FORMAT
+      env: FORMAT=amr
+    - script: curl $SCRIPTS/evaluate.sh | bash -s $FORMAT
+      env: FORMAT=export
 after_success: curl $SCRIPTS/push.sh | bash
 
