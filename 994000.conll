@@ -8,14 +8,14 @@
 7	barely,	_	Word	Word	_	0	ROOT	_	_
 8	the	_	Word	Word	_	10	E	_	_
 9	gallant	_	Word	Word	_	0	ROOT	_	_
-10	lad	_	Word	Word	_	9	A	_	_
 10	lad	_	Word	Word	_	16	A	_	_
+10	lad	_	Word	Word	_	9	A	_	_
 11	had	_	Word	Word	_	12	F	_	_
 12	fallen	_	Word	Word	_	0	ROOT	_	_
 13	under	_	Word	Word	_	16	R	_	_
 14	the	_	Word	Word	_	16	E	_	_
-15	general	_	Word	Word	_	16	E	_	_
 15	general	_	Word	Word	_	16	D	_	_
+15	general	_	Word	Word	_	16	E	_	_
 16	influence.	_	Word	Word	_	0	ROOT	_	_
 17	At	_	Word	Word	_	18	R	_	_
 18	least	_	Word	Word	_	0	ROOT	_	_

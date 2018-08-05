@@ -1,8 +1,8 @@
 # sent_id = 984001
 1	For	_	Word	Word	_	3	R	_	_
 2	three	_	Word	Word	_	3	E	_	_
-3	months	_	Word	Word	_	8	E	_	_
 3	months	_	Word	Word	_	10	T	_	_
+3	months	_	Word	Word	_	8	E	_	_
 4	,	_	Punctuation	Punctuation	_	3	U	_	_
 5	during	_	Word	Word	_	10	R	_	_
 6	which	_	Word	Word	_	10	R	_	_
@@ -16,9 +16,9 @@
 14	the	_	Word	Word	_	15	E	_	_
 15	Abraham	_	Word	Word	_	36	A	_	_
 15	Abraham	_	Word	Word	_	51	A	_	_
+15	Abraham	_	Word	Word	_	47	A	_	_
 15	Abraham	_	Word	Word	_	61	A	_	_
 15	Abraham	_	Word	Word	_	32	A	_	_
-15	Abraham	_	Word	Word	_	47	A	_	_
 15	Abraham	_	Word	Word	_	44	A	_	_
 15	Abraham	_	Word	Word	_	26	A	_	_
 16	Lincoln	_	Word	Word	_	15	Terminal	_	_

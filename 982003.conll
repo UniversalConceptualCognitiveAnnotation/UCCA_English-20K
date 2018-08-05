@@ -10,8 +10,8 @@
 7	out	_	Word	Word	_	5	Terminal	_	_
 8	when	_	Word	Word	_	5	L	_	_
 9	passing	_	Word	Word	_	0	ROOT	_	_
-10	the	_	Word	Word	_	17	E	_	_
 10	the	_	Word	Word	_	13	E	_	_
+10	the	_	Word	Word	_	17	E	_	_
 11	Tuamotu	_	Word	Word	_	10	E	_	_
 12	,	_	Punctuation	Punctuation	_	10	U	_	_
 13	Marquesas	_	Word	Word	_	0	ROOT	_	_
