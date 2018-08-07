@@ -1,0 +1,49 @@
+# sent_id = 826005
+# text = “ We have n’t a moment to lose . Pack as much into my trunk as you can , my traveling kit , my suits , shirts , and socks , do n’t bother counting , just squeeze it all in — and hurry !
+# doc_id = 
+1	“	_	Punctuation	Punctuation	_	8	punct	8:punct	_
+2	We	_	Word	Word	_	8	A	8:A	_
+3	have	_	Word	Word	_	8	D	8:D	_
+4	n’t	_	Word	Word	_	8	D	8:D	_
+5	a	_	Word	Word	_	6	E	6:E	_
+6	moment	_	Word	Word	_	0	root	0:root	_
+7	to	_	Word	Word	_	8	F	8:F	_
+8	lose	_	Word	Word	_	6	orphan	6:orphan	_
+9	.	_	Punctuation	Punctuation	_	8	punct	8:punct	_
+10	Pack	_	Word	Word	_	6	orphan	6:orphan	_
+11	as	_	Word	Word	_	8	L	8:L	_
+12	much	_	Word	Word	_	11	flat	11:flat	_
+13	into	_	Word	Word	_	15	R	15:R	_
+14	my	_	Word	Word	_	15	E	15:E	_
+15	trunk	_	Word	Word	_	6	orphan	6:orphan	_
+16	as	_	Word	Word	_	11	flat	11:flat	_
+17	you	_	Word	Word	_	6	orphan	6:orphan	_
+18	can	_	Word	Word	_	6	orphan	6:orphan	_
+19	,	_	Punctuation	Punctuation	_	8	punct	8:punct	_
+20	my	_	Word	Word	_	22	E	22:E	_
+21	traveling	_	Word	Word	_	22	E	22:E	_
+22	kit	_	Word	Word	_	6	orphan	6:orphan	_
+23	,	_	Punctuation	Punctuation	_	22	punct	22:punct	_
+24	my	_	Word	Word	_	25	E	25:E	_
+25	suits	_	Word	Word	_	6	orphan	6:orphan	_
+26	,	_	Punctuation	Punctuation	_	22	punct	22:punct	_
+27	shirts	_	Word	Word	_	6	orphan	6:orphan	_
+28	,	_	Punctuation	Punctuation	_	22	punct	22:punct	_
+29	and	_	Word	Word	_	22	N	22:N	_
+30	socks	_	Word	Word	_	6	orphan	6:orphan	_
+31	,	_	Punctuation	Punctuation	_	35	punct	35:punct	_
+32	do	_	Word	Word	_	35	F	35:F	_
+33	n’t	_	Word	Word	_	35	D	35:D	_
+34	bother	_	Word	Word	_	35	D	35:D	_
+35	counting	_	Word	Word	_	6	orphan	6:orphan	_
+36	,	_	Punctuation	Punctuation	_	8	punct	8:punct	_
+37	just	_	Word	Word	_	38	D	38:D	_
+38	squeeze	_	Word	Word	_	6	orphan	6:orphan	_
+39	it	_	Word	Word	_	6	orphan	6:orphan	_
+40	all	_	Word	Word	_	39	E	39:E	_
+41	in	_	Word	Word	_	38	flat	38:flat	_
+42	—	_	Punctuation	Punctuation	_	8	punct	8:punct	_
+43	and	_	Word	Word	_	8	L	8:L	_
+44	hurry	_	Word	Word	_	6	orphan	6:orphan	_
+45	!	_	Punctuation	Punctuation	_	44	punct	44:punct	_
+

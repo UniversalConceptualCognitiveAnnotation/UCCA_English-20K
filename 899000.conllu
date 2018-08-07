@@ -1,0 +1,21 @@
+# sent_id = 899000
+# text = “ Even so , Ned , people mention vessels that narwhale tusks have run clean through .
+# doc_id = 
+1	“	_	Punctuation	Punctuation	_	8	punct	8:punct	_
+2	Even	_	Word	Word	_	8	L	8:L	_
+3	so	_	Word	Word	_	2	flat	2:flat	_
+4	,	_	Punctuation	Punctuation	_	8	punct	8:punct	_
+5	Ned	_	Word	Word	_	8	G	8:G	_
+6	,	_	Punctuation	Punctuation	_	8	punct	8:punct	_
+7	people	_	Word	Word	_	8	A	8:A	_
+8	mention	_	Word	Word	_	0	root	0:root	_
+9	vessels	_	Word	Word	_	8	orphan	8:orphan	_
+10	that	_	Word	Word	_	14	R	14:R	_
+11	narwhale	_	Word	Word	_	12	E	12:E	_
+12	tusks	_	Word	Word	_	8	orphan	8:orphan	_
+13	have	_	Word	Word	_	14	F	14:F	_
+14	run	_	Word	Word	_	8	orphan	8:orphan	_
+15	clean	_	Word	Word	_	14	D	14:D	_
+16	through	_	Word	Word	_	14	flat	14:flat	_
+17	.	_	Punctuation	Punctuation	_	14	punct	14:punct	_
+

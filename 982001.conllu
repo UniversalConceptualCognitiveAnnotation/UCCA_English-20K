@@ -1,0 +1,25 @@
+# sent_id = 982001
+# text = These bearings determined , the frigate took a more decisive westward heading and tackled the seas of the central Pacific .
+# doc_id = 
+1	These	_	Word	Word	_	2	E	2:E	_
+2	bearings	_	Word	Word	_	0	root	0:root	_
+3	determined	_	Word	Word	_	2	orphan	2:orphan	_
+4	,	_	Punctuation	Punctuation	_	3	punct	3:punct	_
+5	the	_	Word	Word	_	6	E	6:E	_
+6	frigate	_	Word	Word	_	2	orphan	2:orphan	_
+7	took	_	Word	Word	_	12	D	12:D	_
+8	a	_	Word	Word	_	12	E	12:E	_
+9	more	_	Word	Word	_	10	E	10:E	_
+10	decisive	_	Word	Word	_	2	orphan	2:orphan	_
+11	westward	_	Word	Word	_	12	D	12:D	_
+12	heading	_	Word	Word	_	2	orphan	2:orphan	_
+13	and	_	Word	Word	_	3	L	3:L	_
+14	tackled	_	Word	Word	_	2	orphan	2:orphan	_
+15	the	_	Word	Word	_	16	E	16:E	_
+16	seas	_	Word	Word	_	2	orphan	2:orphan	_
+17	of	_	Word	Word	_	20	R	20:R	_
+18	the	_	Word	Word	_	20	E	20:E	_
+19	central	_	Word	Word	_	20	E	20:E	_
+20	Pacific	_	Word	Word	_	2	orphan	2:orphan	_
+21	.	_	Punctuation	Punctuation	_	20	punct	20:punct	_
+

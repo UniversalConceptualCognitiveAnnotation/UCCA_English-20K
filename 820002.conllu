@@ -1,0 +1,13 @@
+# sent_id = 820002
+# text = But there his science came to a halt .
+# doc_id = 
+1	But	_	Word	Word	_	8	L	8:L	_
+2	there	_	Word	Word	_	8	A	8:A	_
+3	his	_	Word	Word	_	4	E	4:E	_
+4	science	_	Word	Word	_	0	root	0:root	_
+5	came	_	Word	Word	_	8	D	8:D	_
+6	to	_	Word	Word	_	8	R	8:R	_
+7	a	_	Word	Word	_	8	E	8:E	_
+8	halt	_	Word	Word	_	4	orphan	4:orphan	_
+9	.	_	Punctuation	Punctuation	_	8	punct	8:punct	_
+

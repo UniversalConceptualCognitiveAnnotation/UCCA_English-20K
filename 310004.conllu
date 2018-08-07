@@ -1,0 +1,42 @@
+# sent_id = 310004
+# text = Now then , the sea is precisely their best medium , the only setting suitable for the breeding and growing of such giants — next to which such land animals as elephants or rhinoceroses are mere dwarves .
+# doc_id = 
+1	Now	_	Word	Word	_	6	L	6:L	_
+2	then	_	Word	Word	_	1	flat	1:flat	_
+3	,	_	Punctuation	Punctuation	_	6	punct	6:punct	_
+4	the	_	Word	Word	_	5	E	5:E	_
+5	sea	_	Word	Word	_	0	root	0:root	_
+6	is	_	Word	Word	_	5	orphan	5:orphan	_
+7	precisely	_	Word	Word	_	6	D	6:D	_
+8	their	_	Word	Word	_	10	E	10:E	_
+9	best	_	Word	Word	_	10	E	10:E	_
+10	medium	_	Word	Word	_	5	orphan	5:orphan	_
+11	,	_	Punctuation	Punctuation	_	6	punct	6:punct	_
+12	the	_	Word	Word	_	14	E	14:E	_
+13	only	_	Word	Word	_	14	E	14:E	_
+14	setting	_	Word	Word	_	5	orphan	5:orphan	_
+15	suitable	_	Word	Word	_	5	orphan	5:orphan	_
+16	for	_	Word	Word	_	18	R	18:R	_
+17	the	_	Word	Word	_	18	E	18:E	_
+18	breeding	_	Word	Word	_	5	orphan	5:orphan	_
+19	and	_	Word	Word	_	18	N	18:N	_
+20	growing	_	Word	Word	_	5	orphan	5:orphan	_
+21	of	_	Word	Word	_	23	R	23:R	_
+22	such	_	Word	Word	_	23	E	23:E	_
+23	giants	_	Word	Word	_	5	orphan	5:orphan	_
+24	—	_	Punctuation	Punctuation	_	23	punct	23:punct	_
+25	next	_	Word	Word	_	35	R	35:R	_
+26	to	_	Word	Word	_	25	flat	25:flat	_
+27	which	_	Word	Word	_	25	flat	25:flat	_
+28	such	_	Word	Word	_	30	E	30:E	_
+29	land	_	Word	Word	_	30	E	30:E	_
+30	animals	_	Word	Word	_	5	orphan	5:orphan	_
+31	as	_	Word	Word	_	28	flat	28:flat	_
+32	elephants	_	Word	Word	_	5	orphan	5:orphan	_
+33	or	_	Word	Word	_	32	N	32:N	_
+34	rhinoceroses	_	Word	Word	_	32	C	32:C	_
+35	are	_	Word	Word	_	5	orphan	5:orphan	_
+36	mere	_	Word	Word	_	37	E	37:E	_
+37	dwarves	_	Word	Word	_	5	orphan	5:orphan	_
+38	.	_	Punctuation	Punctuation	_	37	punct	37:punct	_
+

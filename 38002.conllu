@@ -1,0 +1,41 @@
+# sent_id = 38002
+# text = No naturalist , neither Cuvier nor Lacépède , neither Professor Dumeril nor Professor de Quatrefages , would have accepted the existence of such a monster sight unseen - specifically , unseen by their own scientific eyes .
+# doc_id = 
+1	No	_	Word	Word	_	2	E	2:E	_
+2	naturalist	_	Word	Word	_	0	root	0:root	_
+3	,	_	Punctuation	Punctuation	_	2	punct	2:punct	_
+4	neither	_	Word	Word	_	5	N	5:N	_
+5	Cuvier	_	Word	Word	_	2	orphan	2:orphan	_
+6	nor	_	Word	Word	_	5	N	5:N	_
+7	Lacépède	_	Word	Word	_	5	C	5:C	_
+8	,	_	Punctuation	Punctuation	_	5	punct	5:punct	_
+9	neither	_	Word	Word	_	10	N	10:N	_
+10	Professor	_	Word	Word	_	2	orphan	2:orphan	_
+11	Dumeril	_	Word	Word	_	10	flat	10:flat	_
+12	nor	_	Word	Word	_	10	N	10:N	_
+13	Professor	_	Word	Word	_	10	C	10:C	_
+14	de	_	Word	Word	_	13	flat	13:flat	_
+15	Quatrefages	_	Word	Word	_	13	flat	13:flat	_
+16	,	_	Punctuation	Punctuation	_	19	punct	19:punct	_
+17	would	_	Word	Word	_	19	D	19:D	_
+18	have	_	Word	Word	_	19	F	19:F	_
+19	accepted	_	Word	Word	_	2	orphan	2:orphan	_
+20	the	_	Word	Word	_	21	E	21:E	_
+21	existence	_	Word	Word	_	2	orphan	2:orphan	_
+22	of	_	Word	Word	_	27	R	27:R	_
+23	such	_	Word	Word	_	25	E	25:E	_
+24	a	_	Word	Word	_	25	E	25:E	_
+25	monster	_	Word	Word	_	2	orphan	2:orphan	_
+26	sight	_	Word	Word	_	2	orphan	2:orphan	_
+27	unseen	_	Word	Word	_	2	orphan	2:orphan	_
+28	-	_	Word	Word	_	27	F	27:F	_
+29	specifically	_	Word	Word	_	31	G	31:G	_
+30	,	_	Punctuation	Punctuation	_	31	punct	31:punct	_
+31	unseen	_	Word	Word	_	2	orphan	2:orphan	_
+32	by	_	Word	Word	_	36	R	36:R	_
+33	their	_	Word	Word	_	36	E	36:E	_
+34	own	_	Word	Word	_	36	E	36:E	_
+35	scientific	_	Word	Word	_	36	E	36:E	_
+36	eyes	_	Word	Word	_	2	orphan	2:orphan	_
+37	.	_	Punctuation	Punctuation	_	36	punct	36:punct	_
+

@@ -1,0 +1,10 @@
+# sent_id = 316003
+# text = His coal bunkers were overflowing .
+# doc_id = 
+1	His	_	Word	Word	_	3	E	3:E	_
+2	coal	_	Word	Word	_	3	E	3:E	_
+3	bunkers	_	Word	Word	_	0	root	0:root	_
+4	were	_	Word	Word	_	5	F	5:F	_
+5	overflowing	_	Word	Word	_	3	orphan	3:orphan	_
+6	.	_	Punctuation	Punctuation	_	5	punct	5:punct	_
+

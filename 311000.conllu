@@ -1,0 +1,16 @@
+# sent_id = 311000
+# text = But I must n’t let these fantasies run away with me !
+# doc_id = 
+1	But	_	Word	Word	_	5	L	5:L	_
+2	I	_	Word	Word	_	5	A	5:A	_
+3	must	_	Word	Word	_	5	D	5:D	_
+4	n’t	_	Word	Word	_	5	D	5:D	_
+5	let	_	Word	Word	_	0	root	0:root	_
+6	these	_	Word	Word	_	7	E	7:E	_
+7	fantasies	_	Word	Word	_	5	orphan	5:orphan	_
+8	run	_	Word	Word	_	5	orphan	5:orphan	_
+9	away	_	Word	Word	_	8	flat	8:flat	_
+10	with	_	Word	Word	_	11	R	11:R	_
+11	me	_	Word	Word	_	5	orphan	5:orphan	_
+12	!	_	Punctuation	Punctuation	_	11	punct	11:punct	_
+

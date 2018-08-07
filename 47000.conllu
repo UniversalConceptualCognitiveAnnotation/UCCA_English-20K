@@ -1,0 +1,11 @@
+# sent_id = 47000
+# text = For six months the war seesawed .
+# doc_id = 
+1	For	_	Word	Word	_	3	R	3:R	_
+2	six	_	Word	Word	_	3	E	3:E	_
+3	months	_	Word	Word	_	0	root	0:root	_
+4	the	_	Word	Word	_	5	E	5:E	_
+5	war	_	Word	Word	_	3	orphan	3:orphan	_
+6	seesawed	_	Word	Word	_	3	orphan	3:orphan	_
+7	.	_	Punctuation	Punctuation	_	6	punct	6:punct	_
+

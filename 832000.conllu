@@ -1,0 +1,20 @@
+# sent_id = 832000
+# text = Our baggage was immediately carried to the deck of the frigate . I rushed aboard .
+# doc_id = 
+1	Our	_	Word	Word	_	2	E	2:E	_
+2	baggage	_	Word	Word	_	0	root	0:root	_
+3	was	_	Word	Word	_	5	F	5:F	_
+4	immediately	_	Word	Word	_	5	T	5:T	_
+5	carried	_	Word	Word	_	2	orphan	2:orphan	_
+6	to	_	Word	Word	_	8	R	8:R	_
+7	the	_	Word	Word	_	8	E	8:E	_
+8	deck	_	Word	Word	_	2	orphan	2:orphan	_
+9	of	_	Word	Word	_	8	R	8:R	_
+10	the	_	Word	Word	_	11	E	11:E	_
+11	frigate	_	Word	Word	_	2	orphan	2:orphan	_
+12	.	_	Punctuation	Punctuation	_	14	punct	14:punct	_
+13	I	_	Word	Word	_	14	A	14:A	_
+14	rushed	_	Word	Word	_	2	orphan	2:orphan	_
+15	aboard	_	Word	Word	_	2	orphan	2:orphan	_
+16	.	_	Punctuation	Punctuation	_	15	punct	15:punct	_
+

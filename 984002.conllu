@@ -1,0 +1,9 @@
+# sent_id = 984002
+# text = And we found nothing !
+# doc_id = 
+1	And	_	Word	Word	_	3	L	3:L	_
+2	we	_	Word	Word	_	3	A	3:A	_
+3	found	_	Word	Word	_	0	root	0:root	_
+4	nothing	_	Word	Word	_	3	A	3:A	_
+5	!	_	Punctuation	Punctuation	_	3	punct	3:punct	_
+

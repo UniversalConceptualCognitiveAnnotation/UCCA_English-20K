@@ -1,0 +1,21 @@
+# sent_id = 893002
+# text = Before eight days were out , the Abraham Lincoln would plow the waves of the Pacific .
+# doc_id = 
+1	Before	_	Word	Word	_	5	L	5:L	_
+2	eight	_	Word	Word	_	3	E	3:E	_
+3	days	_	Word	Word	_	0	root	0:root	_
+4	were	_	Word	Word	_	5	F	5:F	_
+5	out	_	Word	Word	_	3	orphan	3:orphan	_
+6	,	_	Punctuation	Punctuation	_	5	punct	5:punct	_
+7	the	_	Word	Word	_	8	E	8:E	_
+8	Abraham	_	Word	Word	_	3	orphan	3:orphan	_
+9	Lincoln	_	Word	Word	_	8	flat	8:flat	_
+10	would	_	Word	Word	_	11	F	11:F	_
+11	plow	_	Word	Word	_	3	orphan	3:orphan	_
+12	the	_	Word	Word	_	13	E	13:E	_
+13	waves	_	Word	Word	_	3	orphan	3:orphan	_
+14	of	_	Word	Word	_	16	R	16:R	_
+15	the	_	Word	Word	_	16	E	16:E	_
+16	Pacific	_	Word	Word	_	3	orphan	3:orphan	_
+17	.	_	Punctuation	Punctuation	_	16	punct	16:punct	_
+

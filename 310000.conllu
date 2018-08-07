@@ -1,0 +1,16 @@
+# sent_id = 310000
+# text = My article was hotly debated , causing a fine old uproar .
+# doc_id = 
+1	My	_	Word	Word	_	2	E	2:E	_
+2	article	_	Word	Word	_	0	root	0:root	_
+3	was	_	Word	Word	_	5	F	5:F	_
+4	hotly	_	Word	Word	_	5	D	5:D	_
+5	debated	_	Word	Word	_	2	orphan	2:orphan	_
+6	,	_	Punctuation	Punctuation	_	5	punct	5:punct	_
+7	causing	_	Word	Word	_	2	orphan	2:orphan	_
+8	a	_	Word	Word	_	11	E	11:E	_
+9	fine	_	Word	Word	_	11	D	11:D	_
+10	old	_	Word	Word	_	9	flat	9:flat	_
+11	uproar	_	Word	Word	_	2	orphan	2:orphan	_
+12	.	_	Punctuation	Punctuation	_	11	punct	11:punct	_
+

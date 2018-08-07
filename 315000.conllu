@@ -1,0 +1,30 @@
+# sent_id = 315000
+# text = So the frigate was equipped for a far - off voyage and armed with fearsome fishing gear , but nobody knew where to steer it .
+# doc_id = 
+1	So	_	Word	Word	_	5	L	5:L	_
+2	the	_	Word	Word	_	3	E	3:E	_
+3	frigate	_	Word	Word	_	0	root	0:root	_
+4	was	_	Word	Word	_	5	F	5:F	_
+5	equipped	_	Word	Word	_	3	orphan	3:orphan	_
+6	for	_	Word	Word	_	11	R	11:R	_
+7	a	_	Word	Word	_	11	E	11:E	_
+8	far	_	Word	Word	_	11	E	11:E	_
+9	-	_	Punctuation	Punctuation	_	11	punct	11:punct	_
+10	off	_	Word	Word	_	8	flat	8:flat	_
+11	voyage	_	Word	Word	_	3	orphan	3:orphan	_
+12	and	_	Word	Word	_	5	L	5:L	_
+13	armed	_	Word	Word	_	3	orphan	3:orphan	_
+14	with	_	Word	Word	_	17	R	17:R	_
+15	fearsome	_	Word	Word	_	17	E	17:E	_
+16	fishing	_	Word	Word	_	17	E	17:E	_
+17	gear	_	Word	Word	_	3	orphan	3:orphan	_
+18	,	_	Punctuation	Punctuation	_	5	punct	5:punct	_
+19	but	_	Word	Word	_	5	L	5:L	_
+20	nobody	_	Word	Word	_	21	A	21:A	_
+21	knew	_	Word	Word	_	3	orphan	3:orphan	_
+22	where	_	Word	Word	_	24	A	24:A	_
+23	to	_	Word	Word	_	24	F	24:F	_
+24	steer	_	Word	Word	_	3	orphan	3:orphan	_
+25	it	_	Word	Word	_	24	A	24:A	_
+26	.	_	Punctuation	Punctuation	_	24	punct	24:punct	_
+

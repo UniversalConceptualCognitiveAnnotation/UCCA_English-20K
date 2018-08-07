@@ -1,0 +1,12 @@
+# sent_id = 48002
+# text = The question took an entirely new turn .
+# doc_id = 
+1	The	_	Word	Word	_	2	E	2:E	_
+2	question	_	Word	Word	_	0	root	0:root	_
+3	took	_	Word	Word	_	2	orphan	2:orphan	_
+4	an	_	Word	Word	_	3	flat	3:flat	_
+5	entirely	_	Word	Word	_	6	E	6:E	_
+6	new	_	Word	Word	_	2	orphan	2:orphan	_
+7	turn	_	Word	Word	_	3	flat	3:flat	_
+8	.	_	Punctuation	Punctuation	_	3	punct	3:punct	_
+

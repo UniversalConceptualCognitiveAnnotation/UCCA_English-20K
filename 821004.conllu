@@ -1,0 +1,40 @@
+# sent_id = 821004
+# text = Moreover , he enjoyed excellent health that defied all ailments , owned solid muscles , but had n’t a nerve in him , not a sign of nerves — the mental type , I mean .
+# doc_id = 
+1	Moreover	_	Word	Word	_	4	L	4:L	_
+2	,	_	Punctuation	Punctuation	_	4	punct	4:punct	_
+3	he	_	Word	Word	_	4	A	4:A	_
+4	enjoyed	_	Word	Word	_	0	root	0:root	_
+5	excellent	_	Word	Word	_	6	E	6:E	_
+6	health	_	Word	Word	_	4	orphan	4:orphan	_
+7	that	_	Word	Word	_	8	R	8:R	_
+8	defied	_	Word	Word	_	4	orphan	4:orphan	_
+9	all	_	Word	Word	_	10	E	10:E	_
+10	ailments	_	Word	Word	_	4	orphan	4:orphan	_
+11	,	_	Punctuation	Punctuation	_	4	punct	4:punct	_
+12	owned	_	Word	Word	_	4	orphan	4:orphan	_
+13	solid	_	Word	Word	_	14	E	14:E	_
+14	muscles	_	Word	Word	_	4	orphan	4:orphan	_
+15	,	_	Punctuation	Punctuation	_	4	punct	4:punct	_
+16	but	_	Word	Word	_	4	L	4:L	_
+17	had	_	Word	Word	_	4	orphan	4:orphan	_
+18	n’t	_	Word	Word	_	17	D	17:D	_
+19	a	_	Word	Word	_	20	E	20:E	_
+20	nerve	_	Word	Word	_	4	orphan	4:orphan	_
+21	in	_	Word	Word	_	17	D	17:D	_
+22	him	_	Word	Word	_	21	flat	21:flat	_
+23	,	_	Punctuation	Punctuation	_	17	punct	17:punct	_
+24	not	_	Word	Word	_	28	E	28:E	_
+25	a	_	Word	Word	_	26	E	26:E	_
+26	sign	_	Word	Word	_	4	orphan	4:orphan	_
+27	of	_	Word	Word	_	26	R	26:R	_
+28	nerves	_	Word	Word	_	4	orphan	4:orphan	_
+29	—	_	Punctuation	Punctuation	_	20	punct	20:punct	_
+30	the	_	Word	Word	_	32	E	32:E	_
+31	mental	_	Word	Word	_	32	E	32:E	_
+32	type	_	Word	Word	_	4	orphan	4:orphan	_
+33	,	_	Punctuation	Punctuation	_	17	punct	17:punct	_
+34	I	_	Word	Word	_	17	G	17:G	_
+35	mean	_	Word	Word	_	34	flat	34:flat	_
+36	.	_	Punctuation	Punctuation	_	17	punct	17:punct	_
+

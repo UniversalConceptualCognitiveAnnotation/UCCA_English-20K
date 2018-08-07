@@ -1,0 +1,33 @@
+# sent_id = 889003
+# text = The harpooner ’s family originated in Quebec , and they were already a line of bold fishermen back in the days when this town still belonged to France .
+# doc_id = 
+1	The	_	Word	Word	_	2	E	2:E	_
+2	harpooner	_	Word	Word	_	0	root	0:root	_
+3	’s	_	Word	Word	_	2	R	2:R	_
+4	family	_	Word	Word	_	2	orphan	2:orphan	_
+5	originated	_	Word	Word	_	2	orphan	2:orphan	_
+6	in	_	Word	Word	_	7	R	7:R	_
+7	Quebec	_	Word	Word	_	2	orphan	2:orphan	_
+8	,	_	Punctuation	Punctuation	_	5	punct	5:punct	_
+9	and	_	Word	Word	_	5	L	5:L	_
+10	they	_	Word	Word	_	11	A	11:A	_
+11	were	_	Word	Word	_	2	orphan	2:orphan	_
+12	already	_	Word	Word	_	11	D	11:D	_
+13	a	_	Word	Word	_	14	E	14:E	_
+14	line	_	Word	Word	_	2	orphan	2:orphan	_
+15	of	_	Word	Word	_	17	R	17:R	_
+16	bold	_	Word	Word	_	2	orphan	2:orphan	_
+17	fishermen	_	Word	Word	_	2	orphan	2:orphan	_
+18	back	_	Word	Word	_	21	R	21:R	_
+19	in	_	Word	Word	_	21	R	21:R	_
+20	the	_	Word	Word	_	21	E	21:E	_
+21	days	_	Word	Word	_	2	orphan	2:orphan	_
+22	when	_	Word	Word	_	26	R	26:R	_
+23	this	_	Word	Word	_	24	E	24:E	_
+24	town	_	Word	Word	_	2	orphan	2:orphan	_
+25	still	_	Word	Word	_	26	T	26:T	_
+26	belonged	_	Word	Word	_	2	orphan	2:orphan	_
+27	to	_	Word	Word	_	28	R	28:R	_
+28	France	_	Word	Word	_	2	orphan	2:orphan	_
+29	.	_	Punctuation	Punctuation	_	28	punct	28:punct	_
+

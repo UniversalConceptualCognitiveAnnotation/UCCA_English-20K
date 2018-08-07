@@ -1,0 +1,38 @@
+# sent_id = 884003
+# text = On the forecastle was mounted the latest model breech - loading cannon , very heavy of barrel and narrow of bore , a weapon that would figure in the Universal Exhibition of 1867 .
+# doc_id = 
+1	On	_	Word	Word	_	3	R	3:R	_
+2	the	_	Word	Word	_	3	E	3:E	_
+3	forecastle	_	Word	Word	_	0	root	0:root	_
+4	was	_	Word	Word	_	5	F	5:F	_
+5	mounted	_	Word	Word	_	3	orphan	3:orphan	_
+6	the	_	Word	Word	_	12	E	12:E	_
+7	latest	_	Word	Word	_	12	E	12:E	_
+8	model	_	Word	Word	_	12	E	12:E	_
+9	breech	_	Word	Word	_	11	D	11:D	_
+10	-	_	Punctuation	Punctuation	_	11	punct	11:punct	_
+11	loading	_	Word	Word	_	3	orphan	3:orphan	_
+12	cannon	_	Word	Word	_	3	orphan	3:orphan	_
+13	,	_	Punctuation	Punctuation	_	12	punct	12:punct	_
+14	very	_	Word	Word	_	15	D	15:D	_
+15	heavy	_	Word	Word	_	3	orphan	3:orphan	_
+16	of	_	Word	Word	_	17	R	17:R	_
+17	barrel	_	Word	Word	_	3	orphan	3:orphan	_
+18	and	_	Word	Word	_	15	N	15:N	_
+19	narrow	_	Word	Word	_	3	orphan	3:orphan	_
+20	of	_	Word	Word	_	21	R	21:R	_
+21	bore	_	Word	Word	_	3	orphan	3:orphan	_
+22	,	_	Punctuation	Punctuation	_	12	punct	12:punct	_
+23	a	_	Word	Word	_	24	E	24:E	_
+24	weapon	_	Word	Word	_	3	orphan	3:orphan	_
+25	that	_	Word	Word	_	27	R	27:R	_
+26	would	_	Word	Word	_	27	F	27:F	_
+27	figure	_	Word	Word	_	3	orphan	3:orphan	_
+28	in	_	Word	Word	_	31	R	31:R	_
+29	the	_	Word	Word	_	31	E	31:E	_
+30	Universal	_	Word	Word	_	31	E	31:E	_
+31	Exhibition	_	Word	Word	_	3	orphan	3:orphan	_
+32	of	_	Word	Word	_	33	R	33:R	_
+33	1867	_	Word	Word	_	3	orphan	3:orphan	_
+34	.	_	Punctuation	Punctuation	_	33	punct	33:punct	_
+

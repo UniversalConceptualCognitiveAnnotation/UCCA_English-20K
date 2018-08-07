@@ -1,0 +1,15 @@
+# sent_id = 826004
+# text = ” “ As master wishes , ” Conseil replied serenely .
+# doc_id = 
+1	”	_	Punctuation	Punctuation	_	9	punct	9:punct	_
+2	“	_	Punctuation	Punctuation	_	9	punct	9:punct	_
+3	As	_	Word	Word	_	5	D	5:D	_
+4	master	_	Word	Word	_	5	G	5:G	_
+5	wishes	_	Word	Word	_	0	root	0:root	_
+6	,	_	Punctuation	Punctuation	_	9	punct	9:punct	_
+7	”	_	Punctuation	Punctuation	_	9	punct	9:punct	_
+8	Conseil	_	Word	Word	_	9	A	9:A	_
+9	replied	_	Word	Word	_	5	orphan	5:orphan	_
+10	serenely	_	Word	Word	_	9	D	9:D	_
+11	.	_	Punctuation	Punctuation	_	9	punct	9:punct	_
+

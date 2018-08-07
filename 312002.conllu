@@ -1,0 +1,46 @@
+# sent_id = 312002
+# text = The Shipping & Mercantile Gazette , the Lloyd ’s List , France ’s Packetboat and Maritime & Colonial Review , all the rags devoted to insurance companies — who threatened to raise their premium rates — were unanimous on this point .
+# doc_id = 
+1	The	_	Word	Word	_	0	root	0:root	_
+2	Shipping	_	Word	Word	_	1	flat	1:flat	_
+3	&	_	Punctuation	Punctuation	_	1	punct	1:punct	_
+4	Mercantile	_	Word	Word	_	1	flat	1:flat	_
+5	Gazette	_	Word	Word	_	1	flat	1:flat	_
+6	,	_	Punctuation	Punctuation	_	1	punct	1:punct	_
+7	the	_	Word	Word	_	8	E	8:E	_
+8	Lloyd	_	Word	Word	_	1	orphan	1:orphan	_
+9	’s	_	Word	Word	_	8	flat	8:flat	_
+10	List	_	Word	Word	_	8	flat	8:flat	_
+11	,	_	Punctuation	Punctuation	_	1	punct	1:punct	_
+12	France	_	Word	Word	_	1	C	1:C	_
+13	’s	_	Word	Word	_	12	flat	12:flat	_
+14	Packetboat	_	Word	Word	_	12	flat	12:flat	_
+15	and	_	Word	Word	_	1	N	1:N	_
+16	Maritime	_	Word	Word	_	1	C	1:C	_
+17	&	_	Punctuation	Punctuation	_	1	punct	1:punct	_
+18	Colonial	_	Word	Word	_	16	flat	16:flat	_
+19	Review	_	Word	Word	_	16	flat	16:flat	_
+20	,	_	Punctuation	Punctuation	_	1	punct	1:punct	_
+21	all	_	Word	Word	_	23	E	23:E	_
+22	the	_	Word	Word	_	23	E	23:E	_
+23	rags	_	Word	Word	_	1	orphan	1:orphan	_
+24	devoted	_	Word	Word	_	1	orphan	1:orphan	_
+25	to	_	Word	Word	_	27	R	27:R	_
+26	insurance	_	Word	Word	_	27	E	27:E	_
+27	companies	_	Word	Word	_	1	orphan	1:orphan	_
+28	—	_	Punctuation	Punctuation	_	32	punct	32:punct	_
+29	who	_	Word	Word	_	32	R	32:R	_
+30	threatened	_	Word	Word	_	32	D	32:D	_
+31	to	_	Word	Word	_	32	F	32:F	_
+32	raise	_	Word	Word	_	1	orphan	1:orphan	_
+33	their	_	Word	Word	_	35	E	35:E	_
+34	premium	_	Word	Word	_	35	E	35:E	_
+35	rates	_	Word	Word	_	1	orphan	1:orphan	_
+36	—	_	Punctuation	Punctuation	_	38	punct	38:punct	_
+37	were	_	Word	Word	_	38	F	38:F	_
+38	unanimous	_	Word	Word	_	1	orphan	1:orphan	_
+39	on	_	Word	Word	_	41	R	41:R	_
+40	this	_	Word	Word	_	41	E	41:E	_
+41	point	_	Word	Word	_	1	orphan	1:orphan	_
+42	.	_	Punctuation	Punctuation	_	41	punct	41:punct	_
+

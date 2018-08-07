@@ -1,0 +1,20 @@
+# sent_id = 995000
+# text = “Come on, Conseil!” I told him. “ Here ’s your last chance to pocket that $2,000.00!”
+# doc_id = 
+1	“Come	_	Word	Word	_	0	root	0:root	_
+2	on,	_	Word	Word	_	1	flat	1:flat	_
+3	Conseil!”	_	Word	Word	_	1	A	1:A	_
+4	I	_	Word	Word	_	5	A	5:A	_
+5	told	_	Word	Word	_	1	orphan	1:orphan	_
+6	him.	_	Word	Word	_	5	A	5:A	_
+7	“	_	Punctuation	Punctuation	_	5	punct	5:punct	_
+8	Here	_	Word	Word	_	1	orphan	1:orphan	_
+9	’s	_	Word	Word	_	8	F	8:F	_
+10	your	_	Word	Word	_	12	E	12:E	_
+11	last	_	Word	Word	_	12	E	12:E	_
+12	chance	_	Word	Word	_	1	orphan	1:orphan	_
+13	to	_	Word	Word	_	14	F	14:F	_
+14	pocket	_	Word	Word	_	1	orphan	1:orphan	_
+15	that	_	Word	Word	_	16	E	16:E	_
+16	$2,000.00!”	_	Word	Word	_	1	orphan	1:orphan	_
+

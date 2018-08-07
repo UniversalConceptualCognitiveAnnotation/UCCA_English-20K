@@ -1,0 +1,20 @@
+# sent_id = 983003
+# text = The entire crew suffered from a nervous excitement that it ’s beyond me to describe .
+# doc_id = 
+1	The	_	Word	Word	_	3	E	3:E	_
+2	entire	_	Word	Word	_	3	E	3:E	_
+3	crew	_	Word	Word	_	0	root	0:root	_
+4	suffered	_	Word	Word	_	3	orphan	3:orphan	_
+5	from	_	Word	Word	_	8	R	8:R	_
+6	a	_	Word	Word	_	8	E	8:E	_
+7	nervous	_	Word	Word	_	8	E	8:E	_
+8	excitement	_	Word	Word	_	3	orphan	3:orphan	_
+9	that	_	Word	Word	_	12	R	12:R	_
+10	it	_	Word	Word	_	12	F	12:F	_
+11	’s	_	Word	Word	_	12	F	12:F	_
+12	beyond	_	Word	Word	_	3	orphan	3:orphan	_
+13	me	_	Word	Word	_	12	A	12:A	_
+14	to	_	Word	Word	_	15	F	15:F	_
+15	describe	_	Word	Word	_	3	orphan	3:orphan	_
+16	.	_	Punctuation	Punctuation	_	15	punct	15:punct	_
+
