@@ -1,0 +1,18 @@
+# sent_id = 880005
+1	The	_	Word	Word	_	2	E	_	_
+2	monster	_	Word	Word	_	0	ROOT	_	_
+3	existed	_	Word	Word	_	0	ROOT	_	_
+4	,	_	Punctuation	Punctuation	_	3	U	_	_
+5	and	_	Word	Word	_	3	L	_	_
+6	he	_	Word	Word	_	8	A	_	_
+6	he	_	Word	Word	_	10	A	_	_
+7	had	_	Word	Word	_	8	F	_	_
+8	vowed	_	Word	Word	_	0	ROOT	_	_
+9	to	_	Word	Word	_	10	F	_	_
+10	rid	_	Word	Word	_	0	ROOT	_	_
+11	the	_	Word	Word	_	12	E	_	_
+12	seas	_	Word	Word	_	0	ROOT	_	_
+13	of	_	Word	Word	_	14	R	_	_
+14	it	_	Word	Word	_	0	ROOT	_	_
+15	.	_	Punctuation	Punctuation	_	14	U	_	_
+

@@ -1,0 +1,27 @@
+# sent_id = 820000
+1	From	_	Word	Word	_	2	L	_	_
+2	rubbing	_	Word	Word	_	0	ROOT	_	_
+3	shoulders	_	Word	Word	_	2	Terminal	_	_
+4	with	_	Word	Word	_	5	R	_	_
+5	scientists	_	Word	Word	_	0	ROOT	_	_
+6	in	_	Word	Word	_	9	R	_	_
+7	our	_	Word	Word	_	9	E	_	_
+8	little	_	Word	Word	_	9	E	_	_
+9	universe	_	Word	Word	_	0	ROOT	_	_
+10	by	_	Word	Word	_	13	R	_	_
+11	the	_	Word	Word	_	13	E	_	_
+12	Botanical	_	Word	Word	_	13	E	_	_
+13	Gardens	_	Word	Word	_	0	ROOT	_	_
+14	,	_	Punctuation	Punctuation	_	2	U	_	_
+15	the	_	Word	Word	_	16	E	_	_
+16	boy	_	Word	Word	_	2	A	_	_
+17	had	_	Word	Word	_	18	F	_	_
+18	come	_	Word	Word	_	0	ROOT	_	_
+19	to	_	Word	Word	_	18	Terminal	_	_
+20	know	_	Word	Word	_	18	Terminal	_	_
+21	a	_	Word	Word	_	22	E	_	_
+22	thing	_	Word	Word	_	0	ROOT	_	_
+23	or	_	Word	Word	_	22	N	_	_
+24	two	_	Word	Word	_	22	C	_	_
+25	.	_	Punctuation	Punctuation	_	22	U	_	_
+

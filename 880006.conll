@@ -1,0 +1,35 @@
+# sent_id = 880006
+1	The	_	Word	Word	_	2	E	_	_
+2	man	_	Word	Word	_	24	A	_	_
+3	was	_	Word	Word	_	0	ROOT	_	_
+4	a	_	Word	Word	_	5	E	_	_
+5	sort	_	Word	Word	_	0	ROOT	_	_
+6	of	_	Word	Word	_	5	R	_	_
+7	Knight	_	Word	Word	_	0	ROOT	_	_
+8	of	_	Word	Word	_	7	Terminal	_	_
+9	Rhodes	_	Word	Word	_	7	Terminal	_	_
+10	,	_	Punctuation	Punctuation	_	7	U	_	_
+11	a	_	Word	Word	_	15	E	_	_
+12	latter	_	Word	Word	_	15	E	_	_
+13	-	_	Punctuation	Punctuation	_	15	U	_	_
+14	day	_	Word	Word	_	12	Terminal	_	_
+15	Sir	_	Word	Word	_	0	ROOT	_	_
+16	Dieudonné	_	Word	Word	_	15	Terminal	_	_
+17	of	_	Word	Word	_	15	Terminal	_	_
+18	Gozo	_	Word	Word	_	15	Terminal	_	_
+19	,	_	Punctuation	Punctuation	_	3	U	_	_
+20	on	_	Word	Word	_	22	R	_	_
+21	his	_	Word	Word	_	22	E	_	_
+22	way	_	Word	Word	_	0	ROOT	_	_
+23	to	_	Word	Word	_	24	F	_	_
+24	fight	_	Word	Word	_	0	ROOT	_	_
+25	an	_	Word	Word	_	26	E	_	_
+26	encounter	_	Word	Word	_	0	ROOT	_	_
+27	with	_	Word	Word	_	29	R	_	_
+28	the	_	Word	Word	_	29	E	_	_
+29	dragon	_	Word	Word	_	30	A	_	_
+30	devastating	_	Word	Word	_	0	ROOT	_	_
+31	the	_	Word	Word	_	32	E	_	_
+32	island	_	Word	Word	_	0	ROOT	_	_
+33	.	_	Punctuation	Punctuation	_	32	U	_	_
+

@@ -1,0 +1,35 @@
+# sent_id = 904007
+1	Which	_	Word	Word	_	5	L	_	_
+2	is	_	Word	Word	_	5	F	_	_
+3	tantamount	_	Word	Word	_	5	D	_	_
+4	to	_	Word	Word	_	5	F	_	_
+5	saying	_	Word	Word	_	0	ROOT	_	_
+6	that	_	Word	Word	_	5	L	_	_
+7	if	_	Word	Word	_	5	L	_	_
+8	you	_	Word	Word	_	10	A	_	_
+9	could	_	Word	Word	_	10	D	_	_
+10	reach	_	Word	Word	_	0	ROOT	_	_
+11	such	_	Word	Word	_	13	E	_	_
+12	a	_	Word	Word	_	13	E	_	_
+13	depth	_	Word	Word	_	0	ROOT	_	_
+14	in	_	Word	Word	_	16	R	_	_
+15	the	_	Word	Word	_	16	E	_	_
+16	ocean	_	Word	Word	_	0	ROOT	_	_
+17	,	_	Punctuation	Punctuation	_	5	U	_	_
+18	each	_	Word	Word	_	20	E	_	_
+19	square	_	Word	Word	_	20	E	_	_
+20	centimeter	_	Word	Word	_	0	ROOT	_	_
+21	on	_	Word	Word	_	25	R	_	_
+22	your	_	Word	Word	_	23	E	_	_
+23	body	_	Word	Word	_	0	ROOT	_	_
+24	’s	_	Word	Word	_	23	R	_	_
+25	surface	_	Word	Word	_	0	ROOT	_	_
+26	would	_	Word	Word	_	28	D	_	_
+27	be	_	Word	Word	_	28	F	_	_
+28	experiencing	_	Word	Word	_	0	ROOT	_	_
+29	1,000	_	Word	Word	_	30	E	_	_
+30	kilograms	_	Word	Word	_	0	ROOT	_	_
+31	of	_	Word	Word	_	32	R	_	_
+32	pressure	_	Word	Word	_	0	ROOT	_	_
+33	.	_	Punctuation	Punctuation	_	32	U	_	_
+

@@ -1,0 +1,25 @@
+# sent_id = 293001
+1	Since	_	Word	Word	_	6	L	_	_
+2	the	_	Word	Word	_	4	E	_	_
+3	public	_	Word	Word	_	4	D	_	_
+4	interest	_	Word	Word	_	0	ROOT	_	_
+5	was	_	Word	Word	_	6	F	_	_
+6	at	_	Word	Word	_	0	ROOT	_	_
+7	stake	_	Word	Word	_	6	Terminal	_	_
+8	and	_	Word	Word	_	6	L	_	_
+9	transoceanic	_	Word	Word	_	10	D	_	_
+10	travel	_	Word	Word	_	0	ROOT	_	_
+11	was	_	Word	Word	_	12	F	_	_
+12	suffering	_	Word	Word	_	0	ROOT	_	_
+13	,	_	Punctuation	Punctuation	_	6	U	_	_
+14	the	_	Word	Word	_	15	E	_	_
+15	sincerity	_	Word	Word	_	0	ROOT	_	_
+16	of	_	Word	Word	_	18	R	_	_
+17	these	_	Word	Word	_	18	E	_	_
+18	governments	_	Word	Word	_	0	ROOT	_	_
+19	could	_	Word	Word	_	22	D	_	_
+20	not	_	Word	Word	_	22	D	_	_
+21	be	_	Word	Word	_	22	F	_	_
+22	doubted	_	Word	Word	_	0	ROOT	_	_
+23	.	_	Punctuation	Punctuation	_	22	U	_	_
+

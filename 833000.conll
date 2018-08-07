@@ -1,0 +1,13 @@
+# sent_id = 833000
+1	“	_	Punctuation	Punctuation	_	8	U	_	_
+2	Professor	_	Word	Word	_	3	E	_	_
+3	Pierre	_	Word	Word	_	0	ROOT	_	_
+4	Aronnax	_	Word	Word	_	3	Terminal	_	_
+5	?	_	Punctuation	Punctuation	_	8	U	_	_
+6	”	_	Punctuation	Punctuation	_	8	U	_	_
+7	he	_	Word	Word	_	8	A	_	_
+8	said	_	Word	Word	_	0	ROOT	_	_
+9	to	_	Word	Word	_	10	R	_	_
+10	me	_	Word	Word	_	0	ROOT	_	_
+11	.	_	Punctuation	Punctuation	_	10	U	_	_
+
