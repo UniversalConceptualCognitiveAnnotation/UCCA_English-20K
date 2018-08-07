@@ -1,0 +1,70 @@
+#BOS 48001
+But	Word	--	Terminal	500
+now	Word	--	Terminal	501
+it	Word	--	Terminal	502
+was	Word	--	Terminal	503
+no	Word	--	Terminal	504
+longer	Word	--	Terminal	505
+an	Word	--	Terminal	506
+issue	Word	--	Terminal	507
+of	Word	--	Terminal	508
+a	Word	--	Terminal	509
+scientific	Word	--	Terminal	510
+problem	Word	--	Terminal	511
+to	Word	--	Terminal	512
+be	Word	--	Terminal	513
+solved	Word	--	Terminal	514
+,	Punctuation	--	Terminal	515
+but	Word	--	Terminal	516
+a	Word	--	Terminal	517
+quite	Word	--	Terminal	518
+real	Word	--	Terminal	519
+and	Word	--	Terminal	520
+serious	Word	--	Terminal	521
+danger	Word	--	Terminal	522
+to	Word	--	Terminal	523
+be	Word	--	Terminal	524
+avoided	Word	--	Terminal	525
+.	Punctuation	--	Terminal	526
+#500	FN	--	L	539
+#501	FN	--	T	535
+#502	FN	--	A	535	A*	538
+#503	FN	--	F	535	S*	538
+#504	FN	--	E	527
+#505	FN	--	C	527
+#506	FN	--	E	528
+#507	FN	--	C	528
+#508	FN	--	R	530
+#509	FN	--	E	529
+#510	FN	--	E	529
+#511	FN	--	C	529
+#512	FN	--	F	530
+#513	FN	--	F	530
+#514	FN	--	P	530
+#515	PNCT	--	U	539
+#516	FN	--	L	539	LR	540
+#517	FN	--	E	534
+#518	FN	--	E	531	E*	532
+#519	FN	--	C	531
+#520	FN	--	N	533
+#521	FN	--	C	532
+#522	FN	--	C	534
+#523	FN	--	F	537
+#524	FN	--	F	537
+#525	FN	--	P	537
+#526	PNCT	--	U	537
+#527	FN	--	D	535
+#528	FN	--	S	535
+#529	FN	--	A	530
+#530	FN	--	A	535
+#531	FN	--	C	533
+#532	FN	--	C	533
+#533	FN	--	E	534
+#534	FN	--	A	537
+#535	FN	--	H	539
+#536	FN	--	A	537
+#537	FN	--	A	538
+#538	FN	--	H	539	LA	540
+#539	FN	--	--	0
+#540	LKG	--	--	0
+#EOS 48001

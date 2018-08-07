@@ -1,0 +1,45 @@
+#BOS 46000
+An	Word	--	Terminal	500
+interminable	Word	--	Terminal	501
+debate	Word	--	Terminal	502
+then	Word	--	Terminal	503
+broke	Word	--	Terminal	504
+out	Word	--	Terminal	504
+between	Word	--	Terminal	505
+believers	Word	--	Terminal	506
+and	Word	--	Terminal	507
+skeptics	Word	--	Terminal	508
+in	Word	--	Terminal	509
+the	Word	--	Terminal	510
+scholarly	Word	--	Terminal	511
+societies	Word	--	Terminal	512
+and	Word	--	Terminal	513
+scientific	Word	--	Terminal	514
+journals	Word	--	Terminal	515
+.	Punctuation	--	Terminal	516
+#500	FN	--	E	517
+#501	FN	--	E	517
+#502	FN	--	C	517
+#503	FN	--	L	524
+#504	FN	--	P	523
+#505	FN	--	R	522
+#506	FN	--	C	518
+#507	FN	--	N	518
+#508	FN	--	C	518
+#509	FN	--	R	519	R*	520
+#510	FN	--	E	519	E*	520
+#511	FN	--	E	519
+#512	FN	--	C	519
+#513	FN	--	N	521
+#514	FN	--	E	520
+#515	FN	--	C	520
+#516	PNCT	--	U	520
+#517	FN	--	A	523
+#518	FN	--	C	522
+#519	FN	--	C	521
+#520	FN	--	C	521
+#521	FN	--	A	523
+#522	FN	--	A	523
+#523	FN	--	H	524
+#524	FN	--	--	0
+#EOS 46000

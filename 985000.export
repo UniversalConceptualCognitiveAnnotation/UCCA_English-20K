@@ -1,0 +1,217 @@
+#BOS 985000
+So	Word	--	Terminal	500
+the	Word	--	Terminal	501
+reaction	Word	--	Terminal	502
+set	Word	--	Terminal	503
+in.	Word	--	Terminal	503
+At	Word	--	Terminal	504
+first,	Word	--	Terminal	505
+discouragement	Word	--	Terminal	506
+took	Word	--	Terminal	507
+hold	Word	--	Terminal	507
+of	Word	--	Terminal	508
+people’s	Word	--	Terminal	509
+minds,	Word	--	Terminal	510
+opening	Word	--	Terminal	511
+the	Word	--	Terminal	511
+door	Word	--	Terminal	511
+to	Word	--	Terminal	512
+disbelief.	Word	--	Terminal	513
+A	Word	--	Terminal	514
+new	Word	--	Terminal	515
+feeling	Word	--	Terminal	516
+appeared	Word	--	Terminal	517
+on	Word	--	Terminal	518
+board,	Word	--	Terminal	519
+made	Word	--	Terminal	520
+up	Word	--	Terminal	520
+of	Word	--	Terminal	521
+three-tenths	Word	--	Terminal	522
+shame	Word	--	Terminal	523
+and	Word	--	Terminal	524
+seven-tenths	Word	--	Terminal	525
+fury.	Word	--	Terminal	526
+The	Word	--	Terminal	527
+crew	Word	--	Terminal	528
+called	Word	--	Terminal	529
+themselves	Word	--	Terminal	530
+“out-and-out	Word	--	Terminal	531
+fools”	Word	--	Terminal	532
+for	Word	--	Terminal	533
+being	Word	--	Terminal	534
+hoodwinked	Word	--	Terminal	535
+by	Word	--	Terminal	536
+a	Word	--	Terminal	537
+fairy	Word	--	Terminal	538
+tale,	Word	--	Terminal	538
+then	Word	--	Terminal	539
+grew	Word	--	Terminal	540
+steadily	Word	--	Terminal	541
+more	Word	--	Terminal	542
+furious!	Word	--	Terminal	543
+The	Word	--	Terminal	544
+mountains	Word	--	Terminal	545
+of	Word	--	Terminal	546
+arguments	Word	--	Terminal	547
+amassed	Word	--	Terminal	548
+over	Word	--	Terminal	549
+a	Word	--	Terminal	550
+year	Word	--	Terminal	551
+collapsed	Word	--	Terminal	552
+all	Word	--	Terminal	553
+at	Word	--	Terminal	554
+once,	Word	--	Terminal	555
+and	Word	--	Terminal	556
+each	Word	--	Terminal	557
+man	Word	--	Terminal	558
+now	Word	--	Terminal	559
+wanted	Word	--	Terminal	560
+only	Word	--	Terminal	561
+to	Word	--	Terminal	562
+catch	Word	--	Terminal	563
+up	Word	--	Terminal	563
+on	Word	--	Terminal	564
+his	Word	--	Terminal	565
+eating	Word	--	Terminal	566
+and	Word	--	Terminal	567
+sleeping,	Word	--	Terminal	568
+to	Word	--	Terminal	569
+make	Word	--	Terminal	570
+up	Word	--	Terminal	570
+for	Word	--	Terminal	571
+the	Word	--	Terminal	572
+time	Word	--	Terminal	573
+he	Word	--	Terminal	574
+had	Word	--	Terminal	575
+so	Word	--	Terminal	576
+stupidly	Word	--	Terminal	577
+sacrificed.	Word	--	Terminal	578
+#500	FN	--	L	626	LR	627
+#501	FN	--	E	621
+#502	FN	--	P	616
+#503	FN	--	P	624
+#504	FN	--	R	579
+#505	FN	--	C	579
+#506	FN	--	P	603
+#507	FN	--	P	604
+#508	FN	--	R	580
+#509	FN	--	E	580
+#510	FN	--	C	580
+#511	FN	--	P	625
+#512	FN	--	R	622
+#513	FN	--	P	620
+#514	FN	--	E	581
+#515	FN	--	E	581
+#516	FN	--	C	581	A*	598
+#517	FN	--	P	597
+#518	FN	--	R	582
+#519	FN	--	C	582
+#520	FN	--	S	598
+#521	FN	--	R	583	R*	584
+#522	FN	--	E	583
+#523	FN	--	C	583
+#524	FN	--	N	585
+#525	FN	--	E	584
+#526	FN	--	C	584
+#527	FN	--	E	586
+#528	FN	--	C	586	A*	600	A*	587
+#529	FN	--	P	599
+#530	FN	--	A	599
+#531	FN	--	E	588
+#532	FN	--	C	588
+#533	FN	--	L	626	LR	614
+#534	FN	--	F	600
+#535	FN	--	P	600
+#536	FN	--	R	589
+#537	FN	--	E	589
+#538	FN	--	C	589
+#539	FN	--	L	626	LR	606
+#540	FN	--	D	587
+#541	FN	--	D	587
+#542	FN	--	D	587
+#543	FN	--	P	587
+#544	FN	--	E	590
+#545	FN	--	C	590	A*	608
+#546	FN	--	R	590
+#547	FN	--	C	609
+#548	FN	--	P	608
+#549	FN	--	R	591
+#550	FN	--	E	591
+#551	FN	--	C	591
+#552	FN	--	P	610
+#553	FN	--	E	592
+#554	FN	--	R	592
+#555	FN	--	C	592
+#556	FN	--	L	626	LR	623
+#557	FN	--	E	593
+#558	FN	--	C	593	A*	618	A*	613
+#559	FN	--	T	617
+#560	FN	--	D	617
+#561	FN	--	D	617
+#562	FN	--	F	617
+#563	FN	--	P	617
+#564	FN	--	R	615
+#565	FN	--	E	612
+#566	FN	--	C	594
+#567	FN	--	N	594
+#568	FN	--	C	594
+#569	FN	--	F	618
+#570	FN	--	P	618
+#571	FN	--	R	611
+#572	FN	--	E	611
+#573	FN	--	C	611
+#574	FN	--	A	596
+#575	FN	--	F	596
+#576	FN	--	E	595
+#577	FN	--	C	595
+#578	FN	--	P	596
+#579	FN	--	L	626	LR	619
+#580	FN	--	A	604
+#581	FN	--	A	597
+#582	FN	--	A	597
+#583	FN	--	C	585
+#584	FN	--	C	585
+#585	FN	--	A	598
+#586	FN	--	A	599
+#587	FN	--	H	626	LA	606
+#588	FN	--	A	599
+#589	FN	--	A	600
+#590	FN	--	E	609
+#591	FN	--	D	608
+#592	FN	--	D	610
+#593	FN	--	A	617
+#594	FN	--	C	612
+#595	FN	--	D	596
+#596	FN	--	E	611
+#597	FN	--	H	626
+#598	FN	--	H	626
+#599	FN	--	H	626	LA	614
+#600	FN	--	H	626	LA	606	LA	614
+#601	FN	--	A	616
+#602	FN	--	A	603
+#603	FN	--	A	604	A*	625
+#604	FN	--	H	626	LA	619
+#605	FN	--	A	620
+#606	LKG	--	--	0
+#607	FN	--	A	608
+#608	FN	--	E	609
+#609	FN	--	A	610
+#610	FN	--	H	626	LA	623
+#611	FN	--	A	618
+#612	FN	--	P	613
+#613	FN	--	C	615
+#614	LKG	--	--	0
+#615	FN	--	A	617
+#616	FN	--	C	621
+#617	FN	--	H	626	LA	623
+#618	FN	--	H	626
+#619	LKG	--	--	0
+#620	FN	--	C	622
+#621	FN	--	A	624
+#622	FN	--	A	625
+#623	LKG	--	--	0
+#624	FN	--	H	626	LA	627
+#625	FN	--	H	626
+#626	FN	--	--	0
+#627	LKG	--	--	0
+#EOS 985000

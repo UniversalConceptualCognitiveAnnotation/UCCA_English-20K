@@ -1,0 +1,64 @@
+#BOS 887002
+His	Word	--	Terminal	500
+looks	Word	--	Terminal	501
+caught	Word	--	Terminal	502
+the	Word	--	Terminal	503
+attention	Word	--	Terminal	504
+,	Punctuation	--	Terminal	505
+and	Word	--	Terminal	506
+above	Word	--	Terminal	507
+all	Word	--	Terminal	508
+the	Word	--	Terminal	509
+strength	Word	--	Terminal	510
+of	Word	--	Terminal	511
+his	Word	--	Terminal	512
+gaze	Word	--	Terminal	513
+,	Punctuation	--	Terminal	514
+which	Word	--	Terminal	515
+gave	Word	--	Terminal	516
+a	Word	--	Terminal	517
+unique	Word	--	Terminal	518
+emphasis	Word	--	Terminal	519
+to	Word	--	Terminal	520
+his	Word	--	Terminal	521
+facial	Word	--	Terminal	522
+appearance	Word	--	Terminal	523
+.	Punctuation	--	Terminal	524
+#500	FN	--	E	525
+#501	FN	--	C	525
+#502	FN	--	P	531	P*	534
+#503	FN	--	E	526
+#504	FN	--	C	526
+#505	PNCT	--	U	535
+#506	FN	--	L	535	LR	536
+#507	FN	--	R	527
+#508	FN	--	C	527
+#509	FN	--	E	533
+#510	FN	--	C	533	A*	532
+#511	FN	--	R	528
+#512	FN	--	E	528
+#513	FN	--	C	528
+#514	PNCT	--	U	533
+#515	FN	--	R	532
+#516	FN	--	P	532
+#517	FN	--	E	529
+#518	FN	--	E	529
+#519	FN	--	C	529
+#520	FN	--	R	530
+#521	FN	--	E	530
+#522	FN	--	E	530
+#523	FN	--	C	530
+#524	PNCT	--	U	530
+#525	FN	--	A	531
+#526	FN	--	A	531	A*	534
+#527	FN	--	D	534
+#528	FN	--	E	533
+#529	FN	--	A	532
+#530	FN	--	A	532
+#531	FN	--	H	535	LA	536
+#532	FN	--	E	533
+#533	FN	--	A	534
+#534	FN	--	H	535	LA	536
+#535	FN	--	--	0
+#536	LKG	--	--	0
+#EOS 887002

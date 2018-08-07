@@ -1,0 +1,29 @@
+#BOS 841002
+“	Punctuation	--	Terminal	500
+Go	Word	--	Terminal	501
+ahead	Word	--	Terminal	501
+,	Punctuation	--	Terminal	502
+then	Word	--	Terminal	503
+!	Punctuation	--	Terminal	504
+”	Punctuation	--	Terminal	505
+Commander	Word	--	Terminal	506
+Farragut	Word	--	Terminal	507
+called	Word	--	Terminal	508
+.	Punctuation	--	Terminal	509
+#500	PNCT	--	U	514
+#501	FN	--	P	512
+#502	PNCT	--	U	513
+#503	FN	--	L	513
+#504	PNCT	--	U	514
+#505	PNCT	--	U	514
+#506	FN	--	E	510
+#507	FN	--	C	510
+#508	FN	--	P	514
+#509	PNCT	--	U	514
+#510	FN	--	A	514
+#511	FN	--	A	512
+#512	FN	--	H	513
+#513	FN	--	A	514
+#514	FN	--	H	515
+#515	FN	--	--	0
+#EOS 841002
