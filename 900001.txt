@@ -1,0 +1,81 @@
+# ::id 900001
+# ::tok . . ? ” “ Yes , Ned , I repeat it with a conviction backed by factual logic . I believe in the existence of a mammal with a powerful constitution , belonging to the vertebrate branch like baleen whales , sperm whales , or dolphins , and armed with a tusk made of horn that has tremendous penetrating power . ”
+# ::alignments 5-1.1.1.1 7-1.1.1.2 9-1.1.2 10-1.1.3 11-1.1.4 12-1.1.5.1 13-1.1.5.2 14-1.1.5.3 15-1.1.5.4.2 16-1.1.5.4.3.1 17-1.1.5.4.3.2 18-1.1.5.4.3.3 20-1.1.1.3 21-1.1.1.4 22-1.1.1.5.1 23-1.1.1.5.2.1 24-1.1.1.5.2.2 25-1.1.1.5.3.1 26-1.1.1.5.3.2 27-1.1.1.5.3.3 28-1.1.1.5.3.4.1.2 29-1.1.1.5.3.4.1.3.1 30-1.1.1.5.3.4.1.4 31-1.1.1.5.3.4.1.3.2 33-1.1.1.5.3.4.2.2 34-1.1.1.5.3.4.2.3.1 35-1.1.1.5.3.4.2.3.2.1 36-1.1.1.5.3.4.2.3.3 37-1.1.1.5.3.4.2.3.2.2 38-1.1.1.5.3.4.2.4.1 39-1.1.1.5.3.4.2.4.2.1.1 40-1.1.1.5.3.4.2.4.2.1.2 42-1.1.1.5.3.4.2.4.2.2.1 43-1.1.1.5.3.4.2.4.2.2.2 45-1.1.1.5.3.4.2.4.2.3 46-1.1.1.5.3.4.2.4.2.4 48-1.1.1.5.3.4.3 49-1.1.1.5.3.4.4.2 50-1.1.1.5.3.4.4.3.1 51-1.1.1.5.3.4.4.3.2 52-1.1.1.5.3.4.4.3.3 53-1.1.1.5.3.4.4.3.4.2 54-1.1.1.5.3.4.4.3.4.3.1 55-1.1.1.5.3.4.4.3.4.3.2 56-1.1.1.5.3.4.4.3.5.2 58-1.1.1.5.3.4.4.3.5.4 59-1.1.1.5.3.4.4.3.5.5 60-1.1.1.5.3.4.4.3.5.6
+(v1 / label
+    :H (v2 / label
+           :A (v3 / label
+                  :D (v8 / label~e.5)
+                  :G (v9 / label~e.7)
+                  :A (v10 / label~e.20)
+                  :P (v11 / label~e.21)
+                  :A (v12 / label
+                          :R (v17 / label~e.22)
+                          :S (v18 / label
+                                  :E (v22 / label~e.23)
+                                  :C (v23 / label~e.24))
+                          :A (v19 / label
+                                  :R (v24 / label~e.25)
+                                  :E (v25 / label~e.26)
+                                  :C (v26 / label~e.27)
+                                  :E (v27 / label
+                                          :C (v31 / label
+                                                  :A v26
+                                                  :R (v35 / label~e.28)
+                                                  :S (v36 / label
+                                                          :E (v43 / label~e.29)
+                                                          :C (v44 / label~e.31))
+                                                  :D (v37 / label~e.30))
+                                          :C (v32 / label
+                                                  :A v26
+                                                  :P (v38 / label~e.33)
+                                                  :A (v39 / label
+                                                          :R (v45 / label~e.34)
+                                                          :E (v46 / label
+                                                                  :E (v55 / label~e.35)
+                                                                  :C (v56 / label~e.37))
+                                                          :C (v47 / label~e.36))
+                                                  :A (v40 / label
+                                                          :R (v48 / label~e.38)
+                                                          :C (v49 / label
+                                                                  :C (v57 / label
+                                                                          :E (v67 / label~e.39)
+                                                                          :C (v68 / label~e.40))
+                                                                  :C (v58 / label
+                                                                          :E (v69 / label~e.42)
+                                                                          :C (v70 / label~e.43))
+                                                                  :N (v59 / label~e.45)
+                                                                  :C (v60 / label~e.46))))
+                                          :N (v33 / label~e.48)
+                                          :C (v34 / label
+                                                  :A v26
+                                                  :P (v41 / label~e.49)
+                                                  :A (v42 / label
+                                                          :R (v50 / label~e.50)
+                                                          :E (v51 / label~e.51)
+                                                          :C (v52 / label~e.52)
+                                                          :E (v53 / label
+                                                                  :A v52
+                                                                  :P (v61 / label~e.53)
+                                                                  :A (v62 / label
+                                                                          :R (v71 / label~e.54)
+                                                                          :C (v72 / label~e.55)))
+                                                          :E (v54 / label
+                                                                  :A v52
+                                                                  :R (v63 / label~e.56)
+                                                                  :D (v64 / label~e.58)
+                                                                  :D (v65 / label~e.59)
+                                                                  :S (v66 / label~e.60))))))))
+           :A (v4 / label~e.9)
+           :P (v5 / label~e.10)
+           :A (v6 / label~e.11)
+           :D (v7 / label
+                  :R (v13 / label~e.12)
+                  :E (v14 / label~e.13)
+                  :C (v15 / label~e.14)
+                  :E (v16 / label
+                          :A v15
+                          :P (v20 / label~e.15)
+                          :A (v21 / label
+                                  :R (v28 / label~e.16)
+                                  :E (v29 / label~e.17)
+                                  :C (v30 / label~e.18))))))
