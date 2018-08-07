@@ -1,0 +1,19 @@
+1	“	_	Punctuation	-	-	_	U	_	_	_	_
+2	Oh	_	Word	-	-	_	F	_	_	_	_
+3	really	_	Word	-	+	_	_	_	_	_	_
+4	,	_	Punctuation	-	-	_	U	_	_	_	_
+5	and	_	Word	-	-	_	L	_	_	_	_
+6	I	_	Word	-	-	_	_	A	_	_	_
+7	can	_	Word	-	-	_	_	D	_	_	_
+8	prove	_	Word	-	+	_	_	_	_	_	_
+9	it	_	Word	-	-	_	_	A	_	_	_
+10	to	_	Word	-	-	_	_	_	R	_	_
+11	you	_	Word	-	+	_	_	_	_	_	_
+12	with	_	Word	-	-	_	_	_	_	_	R
+13	a	_	Word	-	+	_	_	_	_	_	E
+14	few	_	Word	-	-	_	_	_	_	Terminal	_
+15	simple	_	Word	-	-	_	_	_	_	_	E
+16	figures	_	Word	-	+	_	_	_	_	_	_
+17	.	_	Punctuation	-	-	_	_	_	_	_	U
+18	”	_	Punctuation	-	-	_	_	_	_	_	U
+

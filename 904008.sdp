@@ -1,0 +1,22 @@
+1	Now	_	Word	-	-	_	_	L	_	_	_	_
+2	,	_	Punctuation	-	-	_	_	U	_	_	_	_
+3	my	_	Word	-	+	_	_	G	_	_	_	_
+4	gallant	_	Word	-	-	_	Terminal	_	_	_	_	_
+5	Ned	_	Word	-	-	_	Terminal	_	_	_	_	_
+6	,	_	Punctuation	-	-	_	_	U	_	_	_	_
+7	do	_	Word	-	-	_	_	F	_	_	_	_
+8	you	_	Word	-	-	_	_	A	_	_	_	_
+9	know	_	Word	-	+	_	_	_	_	_	_	_
+10	how	_	Word	-	+	_	_	_	_	E	_	_
+11	many	_	Word	-	-	_	_	_	Terminal	_	_	_
+12	square	_	Word	-	-	_	_	_	_	E	_	_
+13	centimeters	_	Word	-	+	_	_	_	_	_	_	_
+14	you	_	Word	-	-	_	_	_	_	_	A	_
+15	have	_	Word	-	+	_	_	_	_	_	_	_
+16	on	_	Word	-	-	_	_	_	_	_	_	R
+17	your	_	Word	-	-	_	_	_	_	_	_	E
+18	bodily	_	Word	-	-	_	_	_	_	_	_	E
+19	surface	_	Word	-	+	_	_	_	_	_	_	_
+20	?	_	Punctuation	-	-	_	_	_	_	_	_	U
+21	”	_	Punctuation	-	-	_	_	_	_	_	_	U
+

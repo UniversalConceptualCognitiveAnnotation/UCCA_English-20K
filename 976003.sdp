@@ -1,0 +1,26 @@
+1	And	_	Word	-	-	_	_	_	L	_	_	_	_	_
+2	how	_	Word	-	+	_	_	E	_	_	_	_	_	_
+3	many	_	Word	-	-	_	Terminal	_	_	_	_	_	_	_
+4	times	_	Word	-	+	_	_	_	_	_	_	_	_	_
+5	I	_	Word	-	-	_	_	_	A	_	_	_	_	_
+6	shared	_	Word	-	-	_	_	_	D	_	_	_	_	_
+7	the	_	Word	-	-	_	_	_	E	_	_	_	_	_
+8	excitement	_	Word	-	+	_	_	_	_	_	_	_	_	_
+9	of	_	Word	-	-	_	_	_	_	R	_	_	_	_
+10	general	_	Word	-	-	_	_	_	_	E	_	_	_	_
+11	staff	_	Word	-	+	_	_	_	_	_	_	_	_	_
+12	and	_	Word	-	-	_	_	_	_	N	_	_	_	_
+13	crew	_	Word	-	-	_	_	_	_	C	_	_	_	_
+14	when	_	Word	-	-	_	_	_	L	_	_	_	_	_
+15	some	_	Word	-	-	_	_	_	_	_	_	E	_	_
+16	unpredictable	_	Word	-	+	_	_	_	_	_	_	_	_	_
+17	whale	_	Word	-	+	_	_	_	_	_	A	_	_	_
+18	lifted	_	Word	-	-	_	_	_	_	_	_	_	_	_
+19	its	_	Word	-	-	_	_	_	_	_	_	_	E	_
+20	blackish	_	Word	-	-	_	_	_	_	_	_	_	E	_
+21	back	_	Word	-	+	_	_	_	_	_	_	_	_	_
+22	above	_	Word	-	-	_	_	_	_	_	_	_	_	R
+23	the	_	Word	-	-	_	_	_	_	_	_	_	_	E
+24	waves	_	Word	-	+	_	_	_	_	_	_	_	_	_
+25	.	_	Punctuation	-	-	_	_	_	_	_	_	_	_	U
+
