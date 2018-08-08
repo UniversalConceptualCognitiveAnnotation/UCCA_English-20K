@@ -1,0 +1,24 @@
+# format = ucca
+# sent_id = 59000
+# text = Captain Anderson called an immediate halt , and one of his sailors dived down to assess the damage .
+# doc_id = 
+1	Captain	_	Word	Word	_	2	E	2:E	_
+2	Anderson	_	Word	Word	_	0	root	0:root	_
+3	called	_	Word	Word	_	2	orphan	2:orphan	_
+4	an	_	Word	Word	_	6	E	6:E	_
+5	immediate	_	Word	Word	_	6	E	6:E	_
+6	halt	_	Word	Word	_	2	orphan	2:orphan	_
+7	,	_	Punctuation	Punctuation	_	3	punct	3:punct	_
+8	and	_	Word	Word	_	3	L	3:L	_
+9	one	_	Word	Word	_	2	orphan	2:orphan	_
+10	of	_	Word	Word	_	9	R	9:R	_
+11	his	_	Word	Word	_	12	E	12:E	_
+12	sailors	_	Word	Word	_	2	orphan	2:orphan	_
+13	dived	_	Word	Word	_	2	orphan	2:orphan	_
+14	down	_	Word	Word	_	13	A	13:A	_
+15	to	_	Word	Word	_	16	R	16:R	_
+16	assess	_	Word	Word	_	2	orphan	2:orphan	_
+17	the	_	Word	Word	_	18	E	18:E	_
+18	damage	_	Word	Word	_	2	orphan	2:orphan	_
+19	.	_	Punctuation	Punctuation	_	18	punct	18:punct	_
+

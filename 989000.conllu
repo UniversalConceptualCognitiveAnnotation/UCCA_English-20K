@@ -1,0 +1,13 @@
+# format = ucca
+# sent_id = 989000
+# text = This promise was given on November 2 .
+# doc_id = 
+1	This	_	Word	Word	_	2	E	2:E	_
+2	promise	_	Word	Word	_	0	root	0:root	_
+3	was	_	Word	Word	_	2	F	2:F	_
+4	given	_	Word	Word	_	2	D	2:D	_
+5	on	_	Word	Word	_	6	R	6:R	_
+6	November	_	Word	Word	_	2	orphan	2:orphan	_
+7	2	_	Word	Word	_	6	flat	6:flat	_
+8	.	_	Punctuation	Punctuation	_	6	punct	6:punct	_
+

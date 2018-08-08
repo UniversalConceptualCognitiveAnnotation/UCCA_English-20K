@@ -1,0 +1,16 @@
+# format = ucca
+# sent_id = 316007
+# text = But Commander Farragut wanted nothing more than to go forth .
+# doc_id = 
+1	But	_	Word	Word	_	4	L	4:L	_
+2	Commander	_	Word	Word	_	3	E	3:E	_
+3	Farragut	_	Word	Word	_	0	root	0:root	_
+4	wanted	_	Word	Word	_	3	orphan	3:orphan	_
+5	nothing	_	Word	Word	_	9	D	9:D	_
+6	more	_	Word	Word	_	5	flat	5:flat	_
+7	than	_	Word	Word	_	5	flat	5:flat	_
+8	to	_	Word	Word	_	9	F	9:F	_
+9	go	_	Word	Word	_	3	orphan	3:orphan	_
+10	forth	_	Word	Word	_	9	flat	9:flat	_
+11	.	_	Punctuation	Punctuation	_	9	punct	9:punct	_
+

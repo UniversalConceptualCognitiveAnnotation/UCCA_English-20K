@@ -1,0 +1,23 @@
+# format = ucca
+# sent_id = 974000
+# text = “ Open your eyes ! Open your eyes ! ” repeated the sailors of the Abraham Lincoln .
+# doc_id = 
+1	“	_	Punctuation	Punctuation	_	11	punct	11:punct	_
+2	Open	_	Word	Word	_	0	root	0:root	_
+3	your	_	Word	Word	_	4	E	4:E	_
+4	eyes	_	Word	Word	_	2	orphan	2:orphan	_
+5	!	_	Punctuation	Punctuation	_	2	punct	2:punct	_
+6	Open	_	Word	Word	_	2	orphan	2:orphan	_
+7	your	_	Word	Word	_	8	E	8:E	_
+8	eyes	_	Word	Word	_	2	orphan	2:orphan	_
+9	!	_	Punctuation	Punctuation	_	11	punct	11:punct	_
+10	”	_	Punctuation	Punctuation	_	11	punct	11:punct	_
+11	repeated	_	Word	Word	_	2	orphan	2:orphan	_
+12	the	_	Word	Word	_	13	E	13:E	_
+13	sailors	_	Word	Word	_	2	orphan	2:orphan	_
+14	of	_	Word	Word	_	16	R	16:R	_
+15	the	_	Word	Word	_	16	E	16:E	_
+16	Abraham	_	Word	Word	_	2	orphan	2:orphan	_
+17	Lincoln	_	Word	Word	_	16	flat	16:flat	_
+18	.	_	Punctuation	Punctuation	_	16	punct	16:punct	_
+

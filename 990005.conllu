@@ -1,0 +1,19 @@
+# format = ucca
+# sent_id = 990005
+# text = But the evening of November 4 arrived with this underwater mystery still unsolved .
+# doc_id = 
+1	But	_	Word	Word	_	7	L	7:L	_
+2	the	_	Word	Word	_	3	E	3:E	_
+3	evening	_	Word	Word	_	0	root	0:root	_
+4	of	_	Word	Word	_	3	R	3:R	_
+5	November	_	Word	Word	_	3	orphan	3:orphan	_
+6	4	_	Word	Word	_	5	flat	5:flat	_
+7	arrived	_	Word	Word	_	3	orphan	3:orphan	_
+8	with	_	Word	Word	_	7	L	7:L	_
+9	this	_	Word	Word	_	11	E	11:E	_
+10	underwater	_	Word	Word	_	3	orphan	3:orphan	_
+11	mystery	_	Word	Word	_	3	orphan	3:orphan	_
+12	still	_	Word	Word	_	13	D	13:D	_
+13	unsolved	_	Word	Word	_	3	orphan	3:orphan	_
+14	.	_	Punctuation	Punctuation	_	13	punct	13:punct	_
+

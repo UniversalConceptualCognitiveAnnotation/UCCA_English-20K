@@ -1,0 +1,19 @@
+# format = ucca
+# sent_id = 314004
+# text = People were constantly babbling about the creature , even via the Atlantic Cable !
+# doc_id = 
+1	People	_	Word	Word	_	4	A	4:A	_
+2	were	_	Word	Word	_	4	F	4:F	_
+3	constantly	_	Word	Word	_	4	D	4:D	_
+4	babbling	_	Word	Word	_	0	root	0:root	_
+5	about	_	Word	Word	_	7	R	7:R	_
+6	the	_	Word	Word	_	7	E	7:E	_
+7	creature	_	Word	Word	_	4	orphan	4:orphan	_
+8	,	_	Punctuation	Punctuation	_	4	punct	4:punct	_
+9	even	_	Word	Word	_	4	G	4:G	_
+10	via	_	Word	Word	_	13	R	13:R	_
+11	the	_	Word	Word	_	13	E	13:E	_
+12	Atlantic	_	Word	Word	_	13	E	13:E	_
+13	Cable	_	Word	Word	_	4	orphan	4:orphan	_
+14	!	_	Punctuation	Punctuation	_	13	punct	13:punct	_
+

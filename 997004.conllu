@@ -1,0 +1,10 @@
+# format = ucca
+# sent_id = 997004
+# text = " " How true !
+# doc_id = 
+1	"	_	Punctuation	Punctuation	_	4	punct	4:punct	_
+2	"	_	Punctuation	Punctuation	_	4	punct	4:punct	_
+3	How	_	Word	Word	_	4	D	4:D	_
+4	true	_	Word	Word	_	0	root	0:root	_
+5	!	_	Punctuation	Punctuation	_	4	punct	4:punct	_
+

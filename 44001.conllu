@@ -1,0 +1,32 @@
+# format = ucca
+# sent_id = 44001
+# text = In lighthearted countries , people joked about this phenomenon , but such serious , practical countries as England , America , and Germany were deeply concerned .
+# doc_id = 
+1	In	_	Word	Word	_	3	R	3:R	_
+2	lighthearted	_	Word	Word	_	3	E	3:E	_
+3	countries	_	Word	Word	_	0	root	0:root	_
+4	,	_	Punctuation	Punctuation	_	6	punct	6:punct	_
+5	people	_	Word	Word	_	6	A	6:A	_
+6	joked	_	Word	Word	_	3	orphan	3:orphan	_
+7	about	_	Word	Word	_	9	R	9:R	_
+8	this	_	Word	Word	_	9	E	9:E	_
+9	phenomenon	_	Word	Word	_	3	orphan	3:orphan	_
+10	,	_	Punctuation	Punctuation	_	6	punct	6:punct	_
+11	but	_	Word	Word	_	6	L	6:L	_
+12	such	_	Word	Word	_	16	E	16:E	_
+13	serious	_	Word	Word	_	16	E	16:E	_
+14	,	_	Punctuation	Punctuation	_	16	punct	16:punct	_
+15	practical	_	Word	Word	_	16	E	16:E	_
+16	countries	_	Word	Word	_	3	orphan	3:orphan	_
+17	as	_	Word	Word	_	16	R	16:R	_
+18	England	_	Word	Word	_	3	orphan	3:orphan	_
+19	,	_	Punctuation	Punctuation	_	18	punct	18:punct	_
+20	America	_	Word	Word	_	18	C	18:C	_
+21	,	_	Punctuation	Punctuation	_	18	punct	18:punct	_
+22	and	_	Word	Word	_	18	N	18:N	_
+23	Germany	_	Word	Word	_	18	C	18:C	_
+24	were	_	Word	Word	_	26	F	26:F	_
+25	deeply	_	Word	Word	_	26	D	26:D	_
+26	concerned	_	Word	Word	_	3	orphan	3:orphan	_
+27	.	_	Punctuation	Punctuation	_	26	punct	26:punct	_
+

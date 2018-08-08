@@ -1,0 +1,12 @@
+# format = ucca
+# sent_id = 981000
+# text = I had no reply to this .
+# doc_id = 
+1	I	_	Word	Word	_	4	A	4:A	_
+2	had	_	Word	Word	_	4	F	4:F	_
+3	no	_	Word	Word	_	4	D	4:D	_
+4	reply	_	Word	Word	_	0	root	0:root	_
+5	to	_	Word	Word	_	6	R	6:R	_
+6	this	_	Word	Word	_	4	orphan	4:orphan	_
+7	.	_	Punctuation	Punctuation	_	6	punct	6:punct	_
+
