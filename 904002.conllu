@@ -1,0 +1,9 @@
+# format = ucca
+# sent_id = 904002
+# text = Listen to me .
+# doc_id = 
+1	Listen	_	Word	Word	_	0	root	0:root	_
+2	to	_	Word	Word	_	3	R	3:R	_
+3	me	_	Word	Word	_	1	orphan	1:orphan	_
+4	.	_	Punctuation	Punctuation	_	3	punct	3:punct	_
+

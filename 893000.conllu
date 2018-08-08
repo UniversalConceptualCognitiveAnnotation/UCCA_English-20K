@@ -1,0 +1,41 @@
+# format = ucca
+# sent_id = 893000
+# text = During the magnificent evening of June 25 — in other words , three weeks after our departure — the frigate lay abreast of Cabo Blanco , thirty miles to leeward of the coast of Patagonia .
+# doc_id = 
+1	During	_	Word	Word	_	3	L	3:L	_
+2	the	_	Word	Word	_	4	E	4:E	_
+3	magnificent	_	Word	Word	_	0	root	0:root	_
+4	evening	_	Word	Word	_	3	orphan	3:orphan	_
+5	of	_	Word	Word	_	6	R	6:R	_
+6	June	_	Word	Word	_	3	orphan	3:orphan	_
+7	25	_	Word	Word	_	6	flat	6:flat	_
+8	—	_	Punctuation	Punctuation	_	3	punct	3:punct	_
+9	in	_	Word	Word	_	11	R	11:R	_
+10	other	_	Word	Word	_	11	E	11:E	_
+11	words	_	Word	Word	_	3	orphan	3:orphan	_
+12	,	_	Punctuation	Punctuation	_	3	punct	3:punct	_
+13	three	_	Word	Word	_	14	E	14:E	_
+14	weeks	_	Word	Word	_	3	orphan	3:orphan	_
+15	after	_	Word	Word	_	14	E	14:E	_
+16	our	_	Word	Word	_	17	E	17:E	_
+17	departure	_	Word	Word	_	3	orphan	3:orphan	_
+18	—	_	Punctuation	Punctuation	_	3	punct	3:punct	_
+19	the	_	Word	Word	_	20	E	20:E	_
+20	frigate	_	Word	Word	_	3	orphan	3:orphan	_
+21	lay	_	Word	Word	_	3	orphan	3:orphan	_
+22	abreast	_	Word	Word	_	3	orphan	3:orphan	_
+23	of	_	Word	Word	_	22	R	22:R	_
+24	Cabo	_	Word	Word	_	25	E	25:E	_
+25	Blanco	_	Word	Word	_	3	orphan	3:orphan	_
+26	,	_	Punctuation	Punctuation	_	25	punct	25:punct	_
+27	thirty	_	Word	Word	_	28	E	28:E	_
+28	miles	_	Word	Word	_	3	orphan	3:orphan	_
+29	to	_	Word	Word	_	30	R	30:R	_
+30	leeward	_	Word	Word	_	3	orphan	3:orphan	_
+31	of	_	Word	Word	_	30	R	30:R	_
+32	the	_	Word	Word	_	33	E	33:E	_
+33	coast	_	Word	Word	_	3	orphan	3:orphan	_
+34	of	_	Word	Word	_	35	R	35:R	_
+35	Patagonia	_	Word	Word	_	3	orphan	3:orphan	_
+36	.	_	Punctuation	Punctuation	_	35	punct	35:punct	_
+

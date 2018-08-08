@@ -1,0 +1,35 @@
+# format = ucca
+# sent_id = 814000
+# text = ﻿Three seconds before the arrival of J . B . Hobson ’s letter , I no more dreamed of chasing the unicorn than of trying for the Northwest Passage .
+# doc_id = 
+1	﻿Three	_	Word	Word	_	2	E	2:E	_
+2	seconds	_	Word	Word	_	0	root	0:root	_
+3	before	_	Word	Word	_	2	R	2:R	_
+4	the	_	Word	Word	_	5	E	5:E	_
+5	arrival	_	Word	Word	_	2	orphan	2:orphan	_
+6	of	_	Word	Word	_	13	R	13:R	_
+7	J	_	Word	Word	_	2	orphan	2:orphan	_
+8	.	_	Punctuation	Punctuation	_	7	punct	7:punct	_
+9	B	_	Word	Word	_	7	flat	7:flat	_
+10	.	_	Punctuation	Punctuation	_	7	punct	7:punct	_
+11	Hobson	_	Word	Word	_	7	flat	7:flat	_
+12	’s	_	Word	Word	_	7	R	7:R	_
+13	letter	_	Word	Word	_	2	orphan	2:orphan	_
+14	,	_	Punctuation	Punctuation	_	5	punct	5:punct	_
+15	I	_	Word	Word	_	18	A	18:A	_
+16	no	_	Word	Word	_	18	D	18:D	_
+17	more	_	Word	Word	_	16	flat	16:flat	_
+18	dreamed	_	Word	Word	_	2	orphan	2:orphan	_
+19	of	_	Word	Word	_	20	R	20:R	_
+20	chasing	_	Word	Word	_	2	orphan	2:orphan	_
+21	the	_	Word	Word	_	22	E	22:E	_
+22	unicorn	_	Word	Word	_	2	orphan	2:orphan	_
+23	than	_	Word	Word	_	20	N	20:N	_
+24	of	_	Word	Word	_	25	R	25:R	_
+25	trying	_	Word	Word	_	2	orphan	2:orphan	_
+26	for	_	Word	Word	_	29	R	29:R	_
+27	the	_	Word	Word	_	29	E	29:E	_
+28	Northwest	_	Word	Word	_	29	E	29:E	_
+29	Passage	_	Word	Word	_	2	orphan	2:orphan	_
+30	.	_	Punctuation	Punctuation	_	29	punct	29:punct	_
+

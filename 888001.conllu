@@ -1,0 +1,23 @@
+# format = ucca
+# sent_id = 888001
+# text = With his eye and his throwing arm , he was worth the whole crew all by himself .
+# doc_id = 
+1	With	_	Word	Word	_	3	R	3:R	_
+2	his	_	Word	Word	_	3	E	3:E	_
+3	eye	_	Word	Word	_	0	root	0:root	_
+4	and	_	Word	Word	_	3	N	3:N	_
+5	his	_	Word	Word	_	7	E	7:E	_
+6	throwing	_	Word	Word	_	3	orphan	3:orphan	_
+7	arm	_	Word	Word	_	3	orphan	3:orphan	_
+8	,	_	Punctuation	Punctuation	_	7	punct	7:punct	_
+9	he	_	Word	Word	_	11	A	11:A	_
+10	was	_	Word	Word	_	11	F	11:F	_
+11	worth	_	Word	Word	_	3	orphan	3:orphan	_
+12	the	_	Word	Word	_	14	E	14:E	_
+13	whole	_	Word	Word	_	14	E	14:E	_
+14	crew	_	Word	Word	_	3	orphan	3:orphan	_
+15	all	_	Word	Word	_	17	E	17:E	_
+16	by	_	Word	Word	_	17	R	17:R	_
+17	himself	_	Word	Word	_	3	orphan	3:orphan	_
+18	.	_	Punctuation	Punctuation	_	17	punct	17:punct	_
+

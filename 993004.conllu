@@ -1,0 +1,21 @@
+# format = ucca
+# sent_id = 993004
+# text = Sometimes the murky ocean sparkled beneath moonbeams that darted between the fringes of two clouds .
+# doc_id = 
+1	Sometimes	_	Word	Word	_	5	T	5:T	_
+2	the	_	Word	Word	_	4	E	4:E	_
+3	murky	_	Word	Word	_	4	E	4:E	_
+4	ocean	_	Word	Word	_	0	root	0:root	_
+5	sparkled	_	Word	Word	_	4	orphan	4:orphan	_
+6	beneath	_	Word	Word	_	7	R	7:R	_
+7	moonbeams	_	Word	Word	_	4	orphan	4:orphan	_
+8	that	_	Word	Word	_	9	R	9:R	_
+9	darted	_	Word	Word	_	4	orphan	4:orphan	_
+10	between	_	Word	Word	_	12	R	12:R	_
+11	the	_	Word	Word	_	12	E	12:E	_
+12	fringes	_	Word	Word	_	4	orphan	4:orphan	_
+13	of	_	Word	Word	_	12	R	12:R	_
+14	two	_	Word	Word	_	15	E	15:E	_
+15	clouds	_	Word	Word	_	4	orphan	4:orphan	_
+16	.	_	Punctuation	Punctuation	_	15	punct	15:punct	_
+

@@ -1,0 +1,19 @@
+# format = ucca
+# sent_id = 312001
+# text = The industrial and commercial newspapers dealt with the question chiefly from this viewpoint .
+# doc_id = 
+1	The	_	Word	Word	_	5	E	5:E	_
+2	industrial	_	Word	Word	_	0	root	0:root	_
+3	and	_	Word	Word	_	2	N	2:N	_
+4	commercial	_	Word	Word	_	2	C	2:C	_
+5	newspapers	_	Word	Word	_	2	orphan	2:orphan	_
+6	dealt	_	Word	Word	_	2	orphan	2:orphan	_
+7	with	_	Word	Word	_	9	R	9:R	_
+8	the	_	Word	Word	_	9	E	9:E	_
+9	question	_	Word	Word	_	2	orphan	2:orphan	_
+10	chiefly	_	Word	Word	_	6	D	6:D	_
+11	from	_	Word	Word	_	13	R	13:R	_
+12	this	_	Word	Word	_	13	E	13:E	_
+13	viewpoint	_	Word	Word	_	2	orphan	2:orphan	_
+14	.	_	Punctuation	Punctuation	_	13	punct	13:punct	_
+

@@ -1,0 +1,18 @@
+# format = ucca
+# sent_id = 998001
+# text = In the midst of the general silence , a voice became audible .
+# doc_id = 
+1	In	_	Word	Word	_	3	R	3:R	_
+2	the	_	Word	Word	_	3	E	3:E	_
+3	midst	_	Word	Word	_	0	root	0:root	_
+4	of	_	Word	Word	_	3	R	3:R	_
+5	the	_	Word	Word	_	7	E	7:E	_
+6	general	_	Word	Word	_	7	E	7:E	_
+7	silence	_	Word	Word	_	3	orphan	3:orphan	_
+8	,	_	Punctuation	Punctuation	_	12	punct	12:punct	_
+9	a	_	Word	Word	_	10	E	10:E	_
+10	voice	_	Word	Word	_	3	orphan	3:orphan	_
+11	became	_	Word	Word	_	12	D	12:D	_
+12	audible	_	Word	Word	_	3	orphan	3:orphan	_
+13	.	_	Punctuation	Punctuation	_	12	punct	12:punct	_
+

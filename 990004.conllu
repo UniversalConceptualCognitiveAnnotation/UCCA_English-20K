@@ -1,0 +1,32 @@
+# format = ucca
+# sent_id = 990004
+# text = While the Abraham Lincoln heaved to , its longboats radiated in every direction around it and did n’t leave a single point of the sea unexplored .
+# doc_id = 
+1	While	_	Word	Word	_	5	L	5:L	_
+2	the	_	Word	Word	_	3	E	3:E	_
+3	Abraham	_	Word	Word	_	0	root	0:root	_
+4	Lincoln	_	Word	Word	_	3	flat	3:flat	_
+5	heaved	_	Word	Word	_	3	orphan	3:orphan	_
+6	to	_	Word	Word	_	5	flat	5:flat	_
+7	,	_	Punctuation	Punctuation	_	5	punct	5:punct	_
+8	its	_	Word	Word	_	9	E	9:E	_
+9	longboats	_	Word	Word	_	3	orphan	3:orphan	_
+10	radiated	_	Word	Word	_	3	orphan	3:orphan	_
+11	in	_	Word	Word	_	13	R	13:R	_
+12	every	_	Word	Word	_	13	E	13:E	_
+13	direction	_	Word	Word	_	3	orphan	3:orphan	_
+14	around	_	Word	Word	_	15	R	15:R	_
+15	it	_	Word	Word	_	3	orphan	3:orphan	_
+16	and	_	Word	Word	_	5	L	5:L	_
+17	did	_	Word	Word	_	26	F	26:F	_
+18	n’t	_	Word	Word	_	26	D	26:D	_
+19	leave	_	Word	Word	_	26	D	26:D	_
+20	a	_	Word	Word	_	22	E	22:E	_
+21	single	_	Word	Word	_	22	E	22:E	_
+22	point	_	Word	Word	_	3	orphan	3:orphan	_
+23	of	_	Word	Word	_	25	R	25:R	_
+24	the	_	Word	Word	_	25	E	25:E	_
+25	sea	_	Word	Word	_	3	orphan	3:orphan	_
+26	unexplored	_	Word	Word	_	3	orphan	3:orphan	_
+27	.	_	Punctuation	Punctuation	_	26	punct	26:punct	_
+

@@ -1,0 +1,8 @@
+# format = ucca
+# sent_id = 297000
+# text = I complied .
+# doc_id = 
+1	I	_	Word	Word	_	2	A	2:A	_
+2	complied	_	Word	Word	_	0	root	0:root	_
+3	.	_	Punctuation	Punctuation	_	2	punct	2:punct	_
+

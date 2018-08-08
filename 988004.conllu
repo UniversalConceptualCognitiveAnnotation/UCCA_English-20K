@@ -1,0 +1,39 @@
+# format = ucca
+# sent_id = 988004
+# text = After this three-day delay , if the monster had n’t appeared , our helmsman would give three turns of the wheel , and the Abraham Lincoln would chart a course toward European seas .
+# doc_id = 
+1	After	_	Word	Word	_	4	R	4:R	_
+2	this	_	Word	Word	_	4	E	4:E	_
+3	three-day	_	Word	Word	_	4	T	4:T	_
+4	delay	_	Word	Word	_	0	root	0:root	_
+5	,	_	Punctuation	Punctuation	_	18	punct	18:punct	_
+6	if	_	Word	Word	_	18	L	18:L	_
+7	the	_	Word	Word	_	8	E	8:E	_
+8	monster	_	Word	Word	_	4	orphan	4:orphan	_
+9	had	_	Word	Word	_	11	F	11:F	_
+10	n’t	_	Word	Word	_	11	D	11:D	_
+11	appeared	_	Word	Word	_	4	orphan	4:orphan	_
+12	,	_	Punctuation	Punctuation	_	18	punct	18:punct	_
+13	our	_	Word	Word	_	14	E	14:E	_
+14	helmsman	_	Word	Word	_	4	orphan	4:orphan	_
+15	would	_	Word	Word	_	18	D	18:D	_
+16	give	_	Word	Word	_	18	D	18:D	_
+17	three	_	Word	Word	_	18	D	18:D	_
+18	turns	_	Word	Word	_	4	orphan	4:orphan	_
+19	of	_	Word	Word	_	21	R	21:R	_
+20	the	_	Word	Word	_	21	E	21:E	_
+21	wheel	_	Word	Word	_	4	orphan	4:orphan	_
+22	,	_	Punctuation	Punctuation	_	18	punct	18:punct	_
+23	and	_	Word	Word	_	18	L	18:L	_
+24	the	_	Word	Word	_	25	E	25:E	_
+25	Abraham	_	Word	Word	_	4	orphan	4:orphan	_
+26	Lincoln	_	Word	Word	_	25	flat	25:flat	_
+27	would	_	Word	Word	_	28	D	28:D	_
+28	chart	_	Word	Word	_	4	orphan	4:orphan	_
+29	a	_	Word	Word	_	30	E	30:E	_
+30	course	_	Word	Word	_	4	orphan	4:orphan	_
+31	toward	_	Word	Word	_	33	R	33:R	_
+32	European	_	Word	Word	_	33	E	33:E	_
+33	seas	_	Word	Word	_	4	orphan	4:orphan	_
+34	.	_	Punctuation	Punctuation	_	33	punct	33:punct	_
+

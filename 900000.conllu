@@ -1,0 +1,36 @@
+# format = ucca
+# sent_id = 900000
+# text = “ So , Mr . Naturalist , ” Ned Land continued in a bantering tone , “ you ’ll just keep on believing in the existence of some enormous cetacean .
+# doc_id = 
+1	“	_	Punctuation	Punctuation	_	23	punct	23:punct	_
+2	So	_	Word	Word	_	23	D	23:D	_
+3	,	_	Punctuation	Punctuation	_	23	punct	23:punct	_
+4	Mr	_	Word	Word	_	23	G	23:G	_
+5	.	_	Punctuation	Punctuation	_	23	punct	23:punct	_
+6	Naturalist	_	Word	Word	_	4	flat	4:flat	_
+7	,	_	Punctuation	Punctuation	_	11	punct	11:punct	_
+8	”	_	Punctuation	Punctuation	_	11	punct	11:punct	_
+9	Ned	_	Word	Word	_	11	A	11:A	_
+10	Land	_	Word	Word	_	9	flat	9:flat	_
+11	continued	_	Word	Word	_	0	root	0:root	_
+12	in	_	Word	Word	_	15	R	15:R	_
+13	a	_	Word	Word	_	15	E	15:E	_
+14	bantering	_	Word	Word	_	15	E	15:E	_
+15	tone	_	Word	Word	_	11	orphan	11:orphan	_
+16	,	_	Punctuation	Punctuation	_	11	punct	11:punct	_
+17	“	_	Punctuation	Punctuation	_	11	punct	11:punct	_
+18	you	_	Word	Word	_	23	A	23:A	_
+19	’ll	_	Word	Word	_	23	F	23:F	_
+20	just	_	Word	Word	_	23	D	23:D	_
+21	keep	_	Word	Word	_	23	D	23:D	_
+22	on	_	Word	Word	_	21	flat	21:flat	_
+23	believing	_	Word	Word	_	11	orphan	11:orphan	_
+24	in	_	Word	Word	_	26	R	26:R	_
+25	the	_	Word	Word	_	26	E	26:E	_
+26	existence	_	Word	Word	_	11	orphan	11:orphan	_
+27	of	_	Word	Word	_	30	R	30:R	_
+28	some	_	Word	Word	_	30	E	30:E	_
+29	enormous	_	Word	Word	_	11	orphan	11:orphan	_
+30	cetacean	_	Word	Word	_	11	orphan	11:orphan	_
+31	.	_	Punctuation	Punctuation	_	30	punct	30:punct	_
+
