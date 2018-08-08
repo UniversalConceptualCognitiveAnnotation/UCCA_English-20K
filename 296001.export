@@ -1,0 +1,45 @@
+#BOS 296001
+In	Word	--	Terminal	500
+France	Word	--	Terminal	501
+I	Word	--	Terminal	502
+had	Word	--	Terminal	503
+published	Word	--	Terminal	504
+a	Word	--	Terminal	505
+two-volume	Word	--	Terminal	506
+work	Word	--	Terminal	507
+,	Punctuation	--	Terminal	508
+in	Word	--	Terminal	509
+quarto	Word	--	Terminal	510
+,	Punctuation	--	Terminal	511
+entitled	Word	--	Terminal	512
+The	Word	--	Terminal	513
+Mysteries	Word	--	Terminal	513
+of	Word	--	Terminal	513
+the	Word	--	Terminal	513
+Great	Word	--	Terminal	513
+Ocean	Word	--	Terminal	513
+Depths	Word	--	Terminal	513
+.	Punctuation	--	Terminal	514
+#500	FN	--	R	515
+#501	FN	--	C	515
+#502	FN	--	A	520
+#503	FN	--	F	520
+#504	FN	--	P	520
+#505	FN	--	E	519
+#506	FN	--	E	519
+#507	FN	--	C	519	A*	518
+#508	PNCT	--	U	519
+#509	FN	--	R	516
+#510	FN	--	C	516
+#511	PNCT	--	U	519
+#512	FN	--	P	518
+#513	FN	--	A	518
+#514	PNCT	--	U	518
+#515	FN	--	A	520
+#516	FN	--	E	519
+#517	FN	--	A	518
+#518	FN	--	E	519
+#519	FN	--	A	520
+#520	FN	--	H	521
+#521	FN	--	--	0
+#EOS 296001

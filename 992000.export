@@ -1,0 +1,44 @@
+#BOS 992000
+By	Word	--	Terminal	500
+then	Word	--	Terminal	500
+the	Word	--	Terminal	501
+frigate	Word	--	Terminal	502
+lay	Word	--	Terminal	503
+in	Word	--	Terminal	504
+latitude	Word	--	Terminal	505
+31	Word	--	Terminal	506
+°	Punctuation	--	Terminal	507
+15′	Word	--	Terminal	506
+north	Word	--	Terminal	508
+and	Word	--	Terminal	509
+longitude	Word	--	Terminal	510
+136	Word	--	Terminal	511
+°	Punctuation	--	Terminal	512
+42′	Word	--	Terminal	511
+east	Word	--	Terminal	513
+.	Punctuation	--	Terminal	514
+#500	FN	--	L	522	LR	523
+#501	FN	--	E	515
+#502	FN	--	C	515
+#503	FN	--	S	521
+#504	FN	--	R	517	R*	519
+#505	FN	--	C	516
+#506	FN	--	C	517
+#507	PNCT	--	U	517
+#508	FN	--	E	516
+#509	FN	--	N	520
+#510	FN	--	C	518
+#511	FN	--	C	519
+#512	PNCT	--	U	519
+#513	FN	--	E	518
+#514	PNCT	--	U	518
+#515	FN	--	A	521
+#516	FN	--	E	517
+#517	FN	--	C	520
+#518	FN	--	E	519
+#519	FN	--	C	520
+#520	FN	--	A	521
+#521	FN	--	H	522	LA	523
+#522	FN	--	--	0
+#523	LKG	--	--	0
+#EOS 992000

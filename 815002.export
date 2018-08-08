@@ -1,0 +1,19 @@
+#BOS 815002
+But	Word	--	Terminal	500
+now	Word	--	Terminal	501
+nothing	Word	--	Terminal	502
+could	Word	--	Terminal	503
+hold	Word	--	Terminal	504
+me	Word	--	Terminal	505
+back	Word	--	Terminal	504
+.	Punctuation	--	Terminal	506
+#500	FN	--	L	508
+#501	FN	--	T	507
+#502	FN	--	A	507
+#503	FN	--	D	507
+#504	FN	--	P	507
+#505	FN	--	A	507
+#506	PNCT	--	U	507
+#507	FN	--	H	508
+#508	FN	--	--	0
+#EOS 815002

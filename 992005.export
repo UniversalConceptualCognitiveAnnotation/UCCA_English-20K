@@ -1,0 +1,25 @@
+#BOS 992005
+The	Word	--	Terminal	500
+sea	Word	--	Terminal	501
+undulated	Word	--	Terminal	502
+placidly	Word	--	Terminal	503
+beneath	Word	--	Terminal	504
+the	Word	--	Terminal	505
+frigate’s	Word	--	Terminal	506
+stempost	Word	--	Terminal	507
+.	Punctuation	--	Terminal	508
+#500	FN	--	E	509
+#501	FN	--	C	509
+#502	FN	--	P	512
+#503	FN	--	D	512
+#504	FN	--	R	511
+#505	FN	--	E	510
+#506	FN	--	C	510
+#507	FN	--	C	511
+#508	PNCT	--	U	511
+#509	FN	--	A	512
+#510	FN	--	E	511
+#511	FN	--	A	512
+#512	FN	--	H	513
+#513	FN	--	--	0
+#EOS 992005

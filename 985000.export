@@ -1,0 +1,19 @@
+#BOS 985000
+So	Word	--	Terminal	500
+the	Word	--	Terminal	501
+reaction	Word	--	Terminal	502
+set	Word	--	Terminal	503
+in	Word	--	Terminal	503
+.	Punctuation	--	Terminal	504
+#500	FN	--	L	509	LR	510
+#501	FN	--	E	507
+#502	FN	--	P	506
+#503	FN	--	P	508
+#504	PNCT	--	U	508
+#505	FN	--	A	506
+#506	FN	--	C	507
+#507	FN	--	A	508
+#508	FN	--	H	509	LA	510
+#509	FN	--	--	0
+#510	LKG	--	--	0
+#EOS 985000

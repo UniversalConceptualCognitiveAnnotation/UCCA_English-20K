@@ -1,0 +1,42 @@
+#BOS 287001
+I	Word	--	Terminal	500
+had	Word	--	Terminal	501
+read	Word	--	Terminal	502
+and	Word	--	Terminal	503
+reread	Word	--	Terminal	504
+every	Word	--	Terminal	505
+American	Word	--	Terminal	506
+and	Word	--	Terminal	507
+European	Word	--	Terminal	508
+newspaper	Word	--	Terminal	509
+without	Word	--	Terminal	510
+being	Word	--	Terminal	511
+any	Word	--	Terminal	512
+farther	Word	--	Terminal	513
+along	Word	--	Terminal	514
+.	Punctuation	--	Terminal	515
+#500	FN	--	A	520	A*	521
+#501	FN	--	F	520
+#502	FN	--	C	516
+#503	FN	--	N	516
+#504	FN	--	C	516
+#505	FN	--	E	518
+#506	FN	--	C	517
+#507	FN	--	N	517
+#508	FN	--	C	517
+#509	FN	--	C	518
+#510	FN	--	L	522	LR	523
+#511	FN	--	F	521
+#512	FN	--	E	519
+#513	FN	--	E	519
+#514	FN	--	C	519
+#515	PNCT	--	U	519
+#516	FN	--	P	520
+#517	FN	--	E	518
+#518	FN	--	A	520
+#519	FN	--	S	521
+#520	FN	--	H	522	LA	523
+#521	FN	--	H	522	LA	523
+#522	FN	--	--	0
+#523	LKG	--	--	0
+#EOS 287001

@@ -1,0 +1,42 @@
+#BOS 904000
+“	Punctuation	--	Terminal	500
+Bosh	Word	--	Terminal	501
+!	Punctuation	--	Terminal	502
+”	Punctuation	--	Terminal	503
+Ned	Word	--	Terminal	504
+replied	Word	--	Terminal	505
+.	Punctuation	--	Terminal	506
+“	Punctuation	--	Terminal	507
+You	Word	--	Terminal	508
+can	Word	--	Terminal	509
+make	Word	--	Terminal	510
+figures	Word	--	Terminal	511
+do	Word	--	Terminal	512
+anything	Word	--	Terminal	513
+you	Word	--	Terminal	514
+want	Word	--	Terminal	515
+!	Punctuation	--	Terminal	516
+#500	PNCT	--	U	520
+#501	FN	--	F	520
+#502	PNCT	--	U	521
+#503	PNCT	--	U	521
+#504	FN	--	A	521
+#505	FN	--	P	521
+#506	PNCT	--	U	521
+#507	PNCT	--	U	521
+#508	FN	--	A	520
+#509	FN	--	D	520
+#510	FN	--	P	520
+#511	FN	--	A	519
+#512	FN	--	P	519
+#513	FN	--	C	518	A*	517
+#514	FN	--	A	517
+#515	FN	--	P	517
+#516	PNCT	--	U	517
+#517	FN	--	E	518
+#518	FN	--	A	519
+#519	FN	--	A	520
+#520	FN	--	A	521
+#521	FN	--	H	522
+#522	FN	--	--	0
+#EOS 904000

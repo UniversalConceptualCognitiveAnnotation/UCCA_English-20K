@@ -1,0 +1,30 @@
+#BOS 286003
+My	Word	--	Terminal	500
+departure	Word	--	Terminal	501
+for	Word	--	Terminal	502
+France	Word	--	Terminal	503
+was	Word	--	Terminal	504
+set	Word	--	Terminal	505
+for	Word	--	Terminal	506
+early	Word	--	Terminal	507
+May	Word	--	Terminal	508
+.	Punctuation	--	Terminal	509
+#500	FN	--	E	510
+#501	FN	--	C	510
+#502	FN	--	R	511
+#503	FN	--	C	511
+#504	FN	--	F	516
+#505	FN	--	P	516
+#506	FN	--	R	512
+#507	FN	--	E	512
+#508	FN	--	C	512
+#509	PNCT	--	U	512
+#510	FN	--	P	515
+#511	FN	--	A	515
+#512	FN	--	T	516
+#513	FN	--	A	516
+#514	FN	--	A	515
+#515	FN	--	A	516
+#516	FN	--	H	517
+#517	FN	--	--	0
+#EOS 286003

@@ -1,0 +1,33 @@
+#BOS 903000
+“	Punctuation	--	Terminal	500
+Oh	Word	--	Terminal	501
+really	Word	--	Terminal	502
+?	Punctuation	--	Terminal	503
+”	Punctuation	--	Terminal	504
+Ned	Word	--	Terminal	505
+said	Word	--	Terminal	506
+,	Punctuation	--	Terminal	507
+tipping	Word	--	Terminal	508
+me	Word	--	Terminal	509
+a	Word	--	Terminal	508
+wink	Word	--	Terminal	508
+.	Punctuation	--	Terminal	510
+#500	PNCT	--	U	516
+#501	FN	--	F	515
+#502	FN	--	D	515
+#503	PNCT	--	U	516
+#504	PNCT	--	U	516
+#505	FN	--	C	512	A*	511
+#506	FN	--	P	516
+#507	PNCT	--	U	516
+#508	FN	--	P	511
+#509	FN	--	A	511
+#510	PNCT	--	U	511
+#511	FN	--	E	512
+#512	FN	--	A	516
+#513	FN	--	A	515
+#514	FN	--	S	515
+#515	FN	--	A	516
+#516	FN	--	H	517
+#517	FN	--	--	0
+#EOS 903000

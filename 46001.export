@@ -1,0 +1,23 @@
+#BOS 46001
+The	Word	--	Terminal	500
+"	Punctuation	--	Terminal	501
+monster	Word	--	Terminal	502
+question	Word	--	Terminal	502
+"	Punctuation	--	Terminal	503
+inflamed	Word	--	Terminal	504
+all	Word	--	Terminal	505
+minds	Word	--	Terminal	506
+.	Punctuation	--	Terminal	507
+#500	FN	--	E	508
+#501	PNCT	--	U	508
+#502	FN	--	C	508
+#503	PNCT	--	U	510
+#504	FN	--	P	510
+#505	FN	--	E	509
+#506	FN	--	C	509
+#507	PNCT	--	U	509
+#508	FN	--	A	510
+#509	FN	--	A	510
+#510	FN	--	H	511
+#511	FN	--	--	0
+#EOS 46001
