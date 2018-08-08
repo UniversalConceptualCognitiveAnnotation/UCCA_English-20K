@@ -1,0 +1,11 @@
+# format = ucca
+1	”	_	Punctuation	-	-	_	U	_	_
+2	“	_	Punctuation	-	-	_	U	_	_
+3	What	_	Word	-	+	_	_	_	_
+4	about	_	Word	-	-	_	Terminal	_	_
+5	master	_	Word	-	+	_	_	_	E
+6	’s	_	Word	-	-	_	_	R	_
+7	live	_	Word	-	-	_	_	_	E
+8	babirusa	_	Word	-	+	_	A	_	_
+9	?	_	Punctuation	-	-	_	_	_	U
+

@@ -1,0 +1,26 @@
+# format = ucca
+1	It	_	Word	-	-	_	A	_	_	_	_	_	_	_	_	_
+2	was	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_
+3	a	_	Word	-	-	_	_	_	E	_	_	_	_	_	_	_
+4	high	_	Word	-	-	_	_	E	_	_	_	_	_	_	_	_
+5	-	_	Punctuation	-	-	_	_	U	_	_	_	_	_	_	_	_
+6	speed	_	Word	-	+	_	_	_	E	_	_	_	_	_	_	_
+7	frigate	_	Word	-	+	_	A	_	_	_	_	_	_	_	_	_
+8	furnished	_	Word	-	+	_	_	_	E	_	_	_	_	_	_	_
+9	with	_	Word	-	-	_	_	_	_	_	R	_	_	_	_	_
+10	superheating	_	Word	-	-	_	_	_	_	_	E	_	_	_	_	_
+11	equipment	_	Word	-	+	_	_	_	_	A	_	_	_	_	_	_
+12	that	_	Word	-	-	_	_	_	_	_	_	R	_	_	_	_
+13	allowed	_	Word	-	+	_	_	_	_	_	E	_	_	_	_	_
+14	the	_	Word	-	-	_	_	_	_	_	_	_	E	_	_	_
+15	tension	_	Word	-	+	_	_	_	_	_	_	_	_	_	A	_
+16	of	_	Word	-	-	_	_	_	_	_	_	_	_	R	_	_
+17	its	_	Word	-	-	_	_	_	_	_	_	_	_	E	_	_
+18	steam	_	Word	-	+	_	_	_	_	_	_	_	A	_	_	_
+19	to	_	Word	-	-	_	_	_	_	_	_	_	_	_	F	_
+20	build	_	Word	-	+	_	_	_	_	_	_	A	_	_	_	_
+21	to	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	R
+22	seven	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	E
+23	atmospheres	_	Word	-	+	_	_	_	_	_	_	_	_	_	A	_
+24	.	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	_	U
+

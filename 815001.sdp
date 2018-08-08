@@ -1,0 +1,29 @@
+# format = ucca
+1	I	_	Word	-	-	_	A	_	A	_	_	_	_	_
+2	wanted	_	Word	-	+	_	_	_	_	_	_	_	_	_
+3	nothing	_	Word	-	+	_	D	_	_	_	_	_	_	_
+4	more	_	Word	-	-	_	_	Terminal	_	_	_	_	_	_
+5	than	_	Word	-	-	_	F	_	_	_	_	_	_	_
+6	to	_	Word	-	-	_	_	_	F	_	_	_	_	_
+7	see	_	Word	-	+	_	A	_	_	_	_	_	_	_
+8	my	_	Word	-	-	_	_	_	_	E	_	_	_	_
+9	country	_	Word	-	+	_	_	_	A	_	_	_	_	_
+10	again	_	Word	-	-	_	_	_	D	_	_	_	_	_
+11	,	_	Punctuation	-	-	_	_	_	U	_	_	_	_	_
+12	my	_	Word	-	-	_	_	_	_	_	E	_	_	_
+13	friends	_	Word	-	+	_	_	_	_	C	_	_	_	_
+14	,	_	Punctuation	-	-	_	_	_	_	U	_	_	_	_
+15	my	_	Word	-	-	_	_	_	_	_	_	E	_	_
+16	modest	_	Word	-	-	_	_	_	_	_	_	E	_	_
+17	quarters	_	Word	-	+	_	_	_	_	C	_	_	_	_
+18	by	_	Word	-	-	_	_	_	_	_	_	_	R	_
+19	the	_	Word	-	-	_	_	_	_	_	_	_	E	_
+20	Botanical	_	Word	-	-	_	_	_	_	_	_	_	E	_
+21	Gardens	_	Word	-	+	_	_	_	_	_	_	E	_	_
+22	,	_	Punctuation	-	-	_	_	_	_	U	_	_	_	_
+23	my	_	Word	-	-	_	_	_	_	_	_	_	_	E
+24	dearly	_	Word	-	-	_	_	_	_	_	_	_	_	E
+25	beloved	_	Word	-	-	_	_	_	_	_	_	_	_	E
+26	collections	_	Word	-	+	_	_	_	_	C	_	_	_	_
+27	!	_	Punctuation	-	-	_	_	_	_	_	_	_	_	U
+

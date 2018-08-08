@@ -1,0 +1,16 @@
+# format = ucca
+1	Perhaps	_	Word	-	-	_	_	D	_	_	_
+2	his	_	Word	-	-	_	E	_	_	_	_
+3	nerves	_	Word	-	+	_	_	A	_	_	_
+4	were	_	Word	-	-	_	_	F	_	_	_
+5	twitching	_	Word	-	+	_	_	_	_	_	_
+6	with	_	Word	-	-	_	_	_	R	_	_
+7	curiosity	_	Word	-	+	_	_	A	_	_	_
+8	for	_	Word	-	-	_	_	_	_	R	_
+9	the	_	Word	-	-	_	_	_	_	E	_
+10	first	_	Word	-	-	_	_	_	_	E	_
+11	time	_	Word	-	+	_	_	T	_	_	_
+12	in	_	Word	-	-	_	_	_	_	_	R
+13	history	_	Word	-	+	_	_	_	_	E	_
+14	.	_	Punctuation	-	-	_	_	_	_	_	U
+
