@@ -558,7 +558,6 @@
     </node>
     <node ID="1.42" type="FN">
       <attributes />
-      <extra remarks="T" />
       <edge toID="1.64" type="R">
         <attributes />
       </edge>
