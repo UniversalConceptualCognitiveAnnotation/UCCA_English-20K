@@ -1,0 +1,30 @@
+# format = ucca
+# sent_id = 889002
+1	It	_	Word	Word	_	8	F	_	_
+2	was	_	Word	Word	_	8	F	_	_
+3	an	_	Word	Word	_	4	E	_	_
+4	opportunity	_	Word	Word	_	8	D	_	_
+5	for	_	Word	Word	_	6	R	_	_
+6	him	_	Word	Word	_	8	A	_	_
+7	to	_	Word	Word	_	8	F	_	_
+8	speak	_	Word	Word	_	0	ROOT	_	_
+9	,	_	Punctuation	Punctuation	_	8	U	_	_
+10	and	_	Word	Word	_	8	L	_	_
+11	for	_	Word	Word	_	12	R	_	_
+12	me	_	Word	Word	_	14	A	_	_
+13	to	_	Word	Word	_	14	F	_	_
+14	hear	_	Word	Word	_	8	H	_	_
+15	,	_	Punctuation	Punctuation	_	8	U	_	_
+16	that	_	Word	Word	_	19	E	_	_
+17	old	_	Word	Word	_	19	E	_	_
+18	Rabelaisian	_	Word	Word	_	19	E	_	_
+19	dialect	_	Word	Word	_	21	A	_	_
+19	dialect	_	Word	Word	_	14	A	_	_
+20	still	_	Word	Word	_	21	T	_	_
+21	used	_	Word	Word	_	19	E	_	_
+22	in	_	Word	Word	_	25	R	_	_
+23	some	_	Word	Word	_	25	E	_	_
+24	Canadian	_	Word	Word	_	25	E	_	_
+25	provinces	_	Word	Word	_	21	A	_	_
+26	.	_	Punctuation	Punctuation	_	25	U	_	_
+

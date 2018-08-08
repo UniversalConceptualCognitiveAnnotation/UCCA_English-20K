@@ -1,0 +1,32 @@
+# format = ucca
+# sent_id = 826007
+1	“	_	Punctuation	Punctuation	_	4	U	_	_
+2	We	_	Word	Word	_	4	A	_	_
+3	’ll	_	Word	Word	_	4	D	_	_
+4	deal	_	Word	Word	_	0	ROOT	_	_
+5	with	_	Word	Word	_	6	R	_	_
+6	them	_	Word	Word	_	4	A	_	_
+7	later	_	Word	Word	_	11	T	_	_
+7	later	_	Word	Word	_	4	T	_	_
+8	.	_	Punctuation	Punctuation	_	11	U	_	_
+9	”	_	Punctuation	Punctuation	_	11	U	_	_
+10	“	_	Punctuation	Punctuation	_	11	U	_	_
+11	What	_	Word	Word	_	4	H	_	_
+12	!	_	Punctuation	Punctuation	_	11	U	_	_
+13	The	_	Word	Word	_	14	E	_	_
+14	archaeotherium	_	Word	Word	_	11	A	_	_
+15	,	_	Punctuation	Punctuation	_	14	U	_	_
+16	hyracotherium	_	Word	Word	_	14	C	_	_
+17	,	_	Punctuation	Punctuation	_	14	U	_	_
+18	oreodonts	_	Word	Word	_	14	C	_	_
+19	,	_	Punctuation	Punctuation	_	14	U	_	_
+20	cheiropotamus	_	Word	Word	_	14	C	_	_
+21	,	_	Punctuation	Punctuation	_	14	U	_	_
+22	and	_	Word	Word	_	14	N	_	_
+23	master	_	Word	Word	_	27	E	_	_
+24	’s	_	Word	Word	_	23	R	_	_
+25	other	_	Word	Word	_	27	E	_	_
+26	fossil	_	Word	Word	_	27	E	_	_
+27	skeletons	_	Word	Word	_	14	C	_	_
+28	?	_	Punctuation	Punctuation	_	27	U	_	_
+

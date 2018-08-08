@@ -1,0 +1,18 @@
+# format = ucca
+# sent_id = 986001
+1	Inevitably	_	Word	Word	_	10	G	_	_
+2	,	_	Punctuation	Punctuation	_	10	U	_	_
+3	the	_	Word	Word	_	6	E	_	_
+4	most	_	Word	Word	_	6	E	_	_
+5	enthusiastic	_	Word	Word	_	6	E	_	_
+6	supporters	_	Word	Word	_	10	A	_	_
+7	of	_	Word	Word	_	9	R	_	_
+8	the	_	Word	Word	_	9	E	_	_
+9	undertaking	_	Word	Word	_	6	E	_	_
+10	became	_	Word	Word	_	0	ROOT	_	_
+11	its	_	Word	Word	_	14	E	_	_
+12	most	_	Word	Word	_	13	D	_	_
+13	energetic	_	Word	Word	_	14	E	_	_
+14	opponents	_	Word	Word	_	10	A	_	_
+15	.	_	Punctuation	Punctuation	_	14	U	_	_
+

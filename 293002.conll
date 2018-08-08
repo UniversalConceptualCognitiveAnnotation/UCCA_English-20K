@@ -1,0 +1,18 @@
+# format = ucca
+# sent_id = 293002
+1	Besides	_	Word	Word	_	12	L	_	_
+2	,	_	Punctuation	Punctuation	_	12	U	_	_
+3	how	_	Word	Word	_	12	D	_	_
+4	could	_	Word	Word	_	12	D	_	_
+5	the	_	Word	Word	_	6	E	_	_
+6	assembly	_	Word	Word	_	12	A	_	_
+7	of	_	Word	Word	_	10	R	_	_
+8	this	_	Word	Word	_	10	E	_	_
+9	underwater	_	Word	Word	_	10	E	_	_
+10	boat	_	Word	Word	_	6	A	_	_
+11	have	_	Word	Word	_	12	F	_	_
+12	escaped	_	Word	Word	_	0	ROOT	_	_
+13	public	_	Word	Word	_	14	D	_	_
+14	notice	_	Word	Word	_	12	A	_	_
+15	?	_	Punctuation	Punctuation	_	14	U	_	_
+

@@ -1,0 +1,12 @@
+# format = ucca
+# sent_id = 316004
+1	Not	_	Word	Word	_	5	D	_	_
+2	a	_	Word	Word	_	3	E	_	_
+3	crewman	_	Word	Word	_	5	A	_	_
+4	was	_	Word	Word	_	5	F	_	_
+5	missing	_	Word	Word	_	0	ROOT	_	_
+6	from	_	Word	Word	_	8	R	_	_
+7	his	_	Word	Word	_	8	E	_	_
+8	post	_	Word	Word	_	5	A	_	_
+9	.	_	Punctuation	Punctuation	_	8	U	_	_
+

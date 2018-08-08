@@ -1,0 +1,19 @@
+# format = ucca
+# sent_id = 291001
+1	That	_	Word	Word	_	9	R	_	_
+2	a	_	Word	Word	_	4	E	_	_
+3	private	_	Word	Word	_	4	E	_	_
+4	individual	_	Word	Word	_	9	A	_	_
+5	had	_	Word	Word	_	9	F	_	_
+6	such	_	Word	Word	_	8	E	_	_
+7	a	_	Word	Word	_	8	E	_	_
+8	mechanism	_	Word	Word	_	9	A	_	_
+9	at	_	Word	Word	_	15	A	_	_
+10	his	_	Word	Word	_	9	Terminal	_	_
+11	disposal	_	Word	Word	_	9	Terminal	_	_
+12	was	_	Word	Word	_	15	F	_	_
+13	less	_	Word	Word	_	15	D	_	_
+14	than	_	Word	Word	_	13	R	_	_
+15	probable	_	Word	Word	_	0	ROOT	_	_
+16	.	_	Punctuation	Punctuation	_	15	U	_	_
+
