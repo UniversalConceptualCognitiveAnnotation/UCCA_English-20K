@@ -32,12 +32,12 @@
 29	two	_	Word	Word	_	31	E	_	_
 30	other	_	Word	Word	_	31	E	_	_
 31	vessels	_	Word	Word	_	10	H	_	_
-32	of	_	Word	Word	_	37	R	_	_
 32	of	_	Word	Word	_	35	R	_	_
-33	still	_	Word	Word	_	37	E	_	_
+32	of	_	Word	Word	_	37	R	_	_
 33	still	_	Word	Word	_	35	E	_	_
-34	greater	_	Word	Word	_	37	E	_	_
+33	still	_	Word	Word	_	37	E	_	_
 34	greater	_	Word	Word	_	35	E	_	_
+34	greater	_	Word	Word	_	37	E	_	_
 35	power	_	Word	Word	_	31	E	_	_
 36	and	_	Word	Word	_	35	N	_	_
 37	tonnage	_	Word	Word	_	35	C	_	_

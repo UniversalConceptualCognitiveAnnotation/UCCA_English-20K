@@ -17,8 +17,8 @@
 15	buried	_	Word	Word	_	0	ROOT	_	_
 16	,	_	Punctuation	Punctuation	_	15	U	_	_
 17	and	_	Word	Word	_	15	L	_	_
-18	it	_	Word	Word	_	24	A	_	_
 18	it	_	Word	Word	_	22	A	_	_
+18	it	_	Word	Word	_	24	A	_	_
 19	did	_	Word	Word	_	22	F	_	_
 20	n't	_	Word	Word	_	22	D	_	_
 21	seem	_	Word	Word	_	22	G	_	_
