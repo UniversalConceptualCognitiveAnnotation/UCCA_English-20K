@@ -151,7 +151,7 @@
       <edge toID="1.6" type="H">
         <attributes />
       </edge>
-      <edge toID="1.7" type="U">
+      <edge toID="1.40" type="U">
         <attributes />
       </edge>
     </node>
@@ -208,13 +208,7 @@
       <edge toID="1.10" type="D">
         <attributes />
       </edge>
-      <edge toID="1.11" type="U">
-        <attributes />
-      </edge>
-    </node>
-    <node ID="1.7" type="PNCT">
-      <attributes />
-      <edge toID="0.5" type="Terminal">
+      <edge toID="1.42" type="U">
         <attributes />
       </edge>
     </node>
@@ -245,12 +239,6 @@
     <node ID="1.10" type="FN">
       <attributes />
       <edge toID="0.30" type="Terminal">
-        <attributes />
-      </edge>
-    </node>
-    <node ID="1.11" type="PNCT">
-      <attributes />
-      <edge toID="0.32" type="Terminal">
         <attributes />
       </edge>
     </node>
@@ -313,7 +301,7 @@
       <edge toID="1.29" type="A">
         <attributes />
       </edge>
-      <edge toID="1.30" type="U">
+      <edge toID="1.41" type="U">
         <attributes />
       </edge>
     </node>
@@ -401,12 +389,6 @@
         <attributes />
       </edge>
     </node>
-    <node ID="1.30" type="PNCT">
-      <attributes />
-      <edge toID="0.10" type="Terminal">
-        <attributes />
-      </edge>
-    </node>
     <node ID="1.31" type="FN">
       <attributes />
       <edge toID="0.11" type="Terminal">
@@ -461,6 +443,24 @@
     <node ID="1.39" type="FN">
       <attributes />
       <edge toID="0.3" type="Terminal">
+        <attributes />
+      </edge>
+    </node>
+    <node ID="1.40" type="PNCT">
+      <attributes />
+      <edge toID="0.5" type="Terminal">
+        <attributes />
+      </edge>
+    </node>
+    <node ID="1.41" type="PNCT">
+      <attributes />
+      <edge toID="0.10" type="Terminal">
+        <attributes />
+      </edge>
+    </node>
+    <node ID="1.42" type="PNCT">
+      <attributes />
+      <edge toID="0.32" type="Terminal">
         <attributes />
       </edge>
     </node>

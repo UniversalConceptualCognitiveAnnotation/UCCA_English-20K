@@ -145,10 +145,7 @@
       <edge toID="1.4" type="H">
         <attributes />
       </edge>
-      <edge toID="1.5" type="U">
-        <attributes />
-      </edge>
-      <edge toID="1.6" type="U">
+      <edge toID="1.43" type="U">
         <attributes />
       </edge>
     </node>
@@ -182,18 +179,6 @@
         <attributes />
       </edge>
       <edge toID="1.10" type="A">
-        <attributes />
-      </edge>
-    </node>
-    <node ID="1.5" type="PNCT">
-      <attributes />
-      <edge toID="0.8" type="Terminal">
-        <attributes />
-      </edge>
-    </node>
-    <node ID="1.6" type="PNCT">
-      <attributes />
-      <edge toID="0.32" type="Terminal">
         <attributes />
       </edge>
     </node>
@@ -238,7 +223,7 @@
       <edge toID="1.16" type="E">
         <attributes />
       </edge>
-      <edge toID="1.17" type="U">
+      <edge toID="1.44" type="U">
         <attributes />
       </edge>
     </node>
@@ -293,12 +278,6 @@
         <attributes />
       </edge>
     </node>
-    <node ID="1.17" type="PNCT">
-      <attributes />
-      <edge toID="0.19" type="Terminal">
-        <attributes />
-      </edge>
-    </node>
     <node ID="1.18" type="FN">
       <attributes />
       <edge toID="0.20" type="Terminal">
@@ -335,6 +314,9 @@
         <attributes />
       </edge>
       <edge toID="1.25" type="P">
+        <attributes />
+      </edge>
+      <edge toID="1.45" type="U">
         <attributes />
       </edge>
     </node>
@@ -485,6 +467,24 @@
         <attributes />
       </edge>
       <edge toID="1.4" type="LA">
+        <attributes />
+      </edge>
+    </node>
+    <node ID="1.43" type="PNCT">
+      <attributes />
+      <edge toID="0.8" type="Terminal">
+        <attributes />
+      </edge>
+    </node>
+    <node ID="1.44" type="PNCT">
+      <attributes />
+      <edge toID="0.19" type="Terminal">
+        <attributes />
+      </edge>
+    </node>
+    <node ID="1.45" type="PNCT">
+      <attributes />
+      <edge toID="0.32" type="Terminal">
         <attributes />
       </edge>
     </node>
