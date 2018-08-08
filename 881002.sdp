@@ -1,0 +1,28 @@
+# format = ucca
+1	Voluntary	_	Word	-	-	_	E	_	_	_	_	_	_	_	_
+2	watches	_	Word	-	+	_	_	_	_	A	_	_	_	_	_
+3	from	_	Word	-	-	_	_	R	_	_	_	_	_	_	_
+4	the	_	Word	-	-	_	_	E	_	_	_	_	_	_	_
+5	crosstrees	_	Word	-	+	_	E	_	_	_	_	_	_	_	_
+6	of	_	Word	-	-	_	_	_	R	_	_	_	_	_	_
+7	the	_	Word	-	-	_	_	_	E	_	_	_	_	_	_
+8	topgallant	_	Word	-	-	_	_	_	E	_	_	_	_	_	_
+9	sail	_	Word	-	+	_	_	E	_	_	_	_	_	_	_
+10	were	_	Word	-	-	_	_	_	_	F	_	_	_	_	_
+11	self-imposed	_	Word	-	+	_	_	_	_	_	_	_	_	_	_
+12	by	_	Word	-	-	_	_	_	_	_	_	R	_	_	_
+13	more	_	Word	-	+	_	_	_	_	_	_	E	_	_	_
+14	than	_	Word	-	-	_	_	_	_	_	F	_	_	_	_
+15	one	_	Word	-	+	_	_	_	_	A	_	_	_	_	_
+16	who	_	Word	-	-	_	_	_	_	_	_	_	R	_	_
+17	would	_	Word	-	-	_	_	_	_	_	_	_	D	_	_
+18	have	_	Word	-	-	_	_	_	_	_	_	_	F	_	_
+19	cursed	_	Word	-	+	_	_	_	_	_	_	E	_	_	_
+20	such	_	Word	-	-	_	_	_	_	_	_	_	_	E	_
+21	toil	_	Word	-	+	_	_	_	_	_	_	_	A	_	_
+22	under	_	Word	-	-	_	_	_	_	_	_	_	_	_	R
+23	any	_	Word	-	-	_	_	_	_	_	_	_	_	_	E
+24	other	_	Word	-	-	_	_	_	_	_	_	_	_	_	E
+25	circumstances	_	Word	-	+	_	_	_	_	_	_	_	A	_	_
+26	.	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	U
+

@@ -1,0 +1,17 @@
+# format = ucca
+1	Indeed	_	Word	-	-	_	L	_	_
+2	,	_	Punctuation	-	-	_	U	_	_
+3	were	_	Word	-	-	_	F	_	_
+4	we	_	Word	-	-	_	A	_	_
+5	likely	_	Word	-	-	_	D	_	_
+6	to	_	Word	-	-	_	F	_	_
+7	encounter	_	Word	-	+	_	_	_	_
+8	the	_	Word	-	-	_	_	E	_
+9	narwhale	_	Word	-	+	_	A	_	_
+10	in	_	Word	-	-	_	_	_	R
+11	such	_	Word	-	-	_	_	_	E
+12	a	_	Word	-	-	_	_	_	E
+13	cramped	_	Word	-	-	_	_	_	E
+14	strait	_	Word	-	+	_	A	_	_
+15	?	_	Punctuation	-	-	_	_	_	U
+

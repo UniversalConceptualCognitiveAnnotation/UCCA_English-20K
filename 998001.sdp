@@ -1,0 +1,15 @@
+# format = ucca
+1	In	_	Word	-	-	_	R	_	_	_
+2	the	_	Word	-	-	_	E	_	_	_
+3	midst	_	Word	-	+	_	_	E	_	_
+4	of	_	Word	-	-	_	R	_	_	_
+5	the	_	Word	-	-	_	_	E	_	_
+6	general	_	Word	-	-	_	_	E	_	_
+7	silence	_	Word	-	+	_	_	_	_	A
+8	,	_	Punctuation	-	-	_	_	_	_	U
+9	a	_	Word	-	-	_	_	_	E	_
+10	voice	_	Word	-	+	_	_	_	_	A
+11	became	_	Word	-	-	_	_	_	_	D
+12	audible	_	Word	-	+	_	_	_	_	_
+13	.	_	Punctuation	-	-	_	_	_	_	U
+

@@ -1,0 +1,24 @@
+# format = ucca
+1	Given	_	Word	-	-	_	E	_	_	_	_	_	_	_	_
+2	this	_	Word	-	+	_	_	_	L	_	_	_	_	_	_
+3	,	_	Punctuation	-	-	_	_	_	U	_	_	_	_	_	_
+4	no	_	Word	-	+	_	_	_	A	_	_	_	_	_	_
+5	one	_	Word	-	-	_	_	Terminal	_	_	_	_	_	_	_
+6	will	_	Word	-	-	_	_	_	F	_	_	_	_	_	_
+7	be	_	Word	-	-	_	_	_	F	_	_	_	_	_	_
+8	astonished	_	Word	-	+	_	_	_	_	_	_	_	_	_	_
+9	at	_	Word	-	-	_	_	_	_	R	_	_	_	_	_
+10	the	_	Word	-	-	_	_	_	_	E	_	_	_	_	_
+11	uproar	_	Word	-	+	_	_	_	A	_	_	_	_	_	_
+12	provoked	_	Word	-	+	_	_	_	_	E	_	_	_	_	_
+13	by	_	Word	-	-	_	_	_	_	_	_	R	_	_	_
+14	this	_	Word	-	-	_	_	_	_	_	_	E	_	_	_
+15	accident	_	Word	-	+	_	_	_	_	_	A	_	_	_	_
+16	involving	_	Word	-	+	_	_	_	_	_	_	E	_	_	_
+17	one	_	Word	-	+	_	_	_	_	_	_	_	_	_	E
+18	of	_	Word	-	-	_	_	_	_	_	_	_	_	R	_
+19	its	_	Word	-	-	_	_	_	_	_	_	_	_	_	R
+20	finest	_	Word	-	-	_	_	_	_	_	_	_	_	_	E
+21	steamers	_	Word	-	+	_	_	_	_	_	_	_	A	_	_
+22	.	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	U
+
