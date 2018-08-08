@@ -1,8 +1,0 @@
-# format = ucca
-# sent_id = 310006
-# text = Why not ?
-# doc_id = 
-1	Why	_	Word	Word	_	0	root	0:root	_
-2	not	_	Word	Word	_	1	D	1:D	_
-3	?	_	Punctuation	Punctuation	_	1	punct	1:punct	_
-

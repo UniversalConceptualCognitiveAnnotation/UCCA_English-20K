@@ -1,8 +1,0 @@
-# format = ucca
-# sent_id = 826001
-# text = Conseil appeared .
-# doc_id = 
-1	Conseil	_	Word	Word	_	2	A	2:A	_
-2	appeared	_	Word	Word	_	0	root	0:root	_
-3	.	_	Punctuation	Punctuation	_	2	punct	2:punct	_
-
