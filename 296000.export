@@ -1,0 +1,51 @@
+#BOS 296000
+After	Word	--	Terminal	500
+I	Word	--	Terminal	501
+arrived	Word	--	Terminal	502
+in	Word	--	Terminal	503
+New	Word	--	Terminal	504
+York	Word	--	Terminal	504
+,	Punctuation	--	Terminal	505
+several	Word	--	Terminal	506
+people	Word	--	Terminal	507
+did	Word	--	Terminal	508
+me	Word	--	Terminal	508
+the	Word	--	Terminal	508
+honor	Word	--	Terminal	508
+of	Word	--	Terminal	509
+consulting	Word	--	Terminal	510
+me	Word	--	Terminal	511
+on	Word	--	Terminal	512
+the	Word	--	Terminal	513
+phenomenon	Word	--	Terminal	514
+in	Word	--	Terminal	515
+question	Word	--	Terminal	516
+.	Punctuation	--	Terminal	517
+#500	FN	--	L	526	LR	524
+#501	FN	--	A	522
+#502	FN	--	P	522
+#503	FN	--	R	518
+#504	FN	--	C	518
+#505	PNCT	--	U	526
+#506	FN	--	E	519
+#507	FN	--	C	519
+#508	FN	--	C	520
+#509	FN	--	R	520
+#510	FN	--	P	525
+#511	FN	--	A	525
+#512	FN	--	R	523
+#513	FN	--	E	523
+#514	FN	--	C	523
+#515	FN	--	R	521
+#516	FN	--	C	521
+#517	PNCT	--	U	521
+#518	FN	--	A	522
+#519	FN	--	A	525
+#520	FN	--	D	525
+#521	FN	--	E	523
+#522	FN	--	H	526	LA	524
+#523	FN	--	A	525
+#524	LKG	--	--	0
+#525	FN	--	H	526
+#526	FN	--	--	0
+#EOS 296000

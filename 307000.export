@@ -1,0 +1,129 @@
+#BOS 307000
+“	Punctuation	--	Terminal	500
+So	Word	--	Terminal	501
+,	Punctuation	--	Terminal	502
+until	Word	--	Terminal	503
+information	Word	--	Terminal	504
+becomes	Word	--	Terminal	505
+more	Word	--	Terminal	506
+abundant	Word	--	Terminal	507
+,	Punctuation	--	Terminal	508
+I	Word	--	Terminal	509
+plump	Word	--	Terminal	510
+for	Word	--	Terminal	511
+a	Word	--	Terminal	512
+sea	Word	--	Terminal	513
+unicorn	Word	--	Terminal	514
+of	Word	--	Terminal	515
+colossal	Word	--	Terminal	516
+dimensions	Word	--	Terminal	517
+,	Punctuation	--	Terminal	518
+no	Word	--	Terminal	519
+longer	Word	--	Terminal	519
+armed	Word	--	Terminal	520
+with	Word	--	Terminal	521
+a	Word	--	Terminal	522
+mere	Word	--	Terminal	523
+lance	Word	--	Terminal	524
+but	Word	--	Terminal	525
+with	Word	--	Terminal	526
+an	Word	--	Terminal	527
+actual	Word	--	Terminal	528
+spur	Word	--	Terminal	529
+,	Punctuation	--	Terminal	530
+like	Word	--	Terminal	531
+ironclad	Word	--	Terminal	532
+frigates	Word	--	Terminal	533
+or	Word	--	Terminal	534
+those	Word	--	Terminal	535
+warships	Word	--	Terminal	536
+called	Word	--	Terminal	537
+'	Punctuation	--	Terminal	538
+rams,’	Word	--	Terminal	539
+whose	Word	--	Terminal	540
+mass	Word	--	Terminal	541
+and	Word	--	Terminal	542
+motor	Word	--	Terminal	543
+power	Word	--	Terminal	544
+it	Word	--	Terminal	545
+would	Word	--	Terminal	546
+possess	Word	--	Terminal	547
+simultaneously	Word	--	Terminal	548
+.	Punctuation	--	Terminal	549
+#500	PNCT	--	U	570
+#501	FN	--	L	570	LR	563
+#502	PNCT	--	U	570
+#503	FN	--	L	570	LR	559
+#504	FN	--	A	550
+#505	FN	--	D	550
+#506	FN	--	D	550
+#507	FN	--	S	550
+#508	PNCT	--	U	570
+#509	FN	--	A	561
+#510	FN	--	P	561
+#511	FN	--	R	560
+#512	FN	--	E	560
+#513	FN	--	E	560
+#514	FN	--	C	560	A*	558	A*	569	A*	551
+#515	FN	--	R	551
+#516	FN	--	D	551
+#517	FN	--	S	551
+#518	PNCT	--	U	570
+#519	FN	--	D	558
+#520	FN	--	S	558	S*	569
+#521	FN	--	R	552
+#522	FN	--	E	552
+#523	FN	--	E	552
+#524	FN	--	C	552
+#525	FN	--	L	570	LR	571
+#526	FN	--	R	568
+#527	FN	--	E	568
+#528	FN	--	E	568
+#529	FN	--	C	568
+#530	PNCT	--	U	568
+#531	FN	--	R	567
+#532	FN	--	E	553
+#533	FN	--	C	553
+#534	FN	--	N	566
+#535	FN	--	E	565
+#536	FN	--	C	565	A*	564	A*	557	E*	554	E*	555
+#537	FN	--	P	564
+#538	PNCT	--	U	564
+#539	FN	--	A	564
+#540	FN	--	R	557
+#541	FN	--	C	554
+#542	FN	--	N	556
+#543	FN	--	E	555
+#544	FN	--	C	555
+#545	FN	--	A	557
+#546	FN	--	D	557
+#547	FN	--	P	557
+#548	FN	--	D	557
+#549	PNCT	--	U	557
+#550	FN	--	H	570	LA	559
+#551	FN	--	E	560
+#552	FN	--	A	558
+#553	FN	--	C	566
+#554	FN	--	C	556
+#555	FN	--	C	556
+#556	FN	--	A	557
+#557	FN	--	E	565
+#558	FN	--	H	570	LA	571
+#559	LKG	--	--	0
+#560	FN	--	A	561
+#561	FN	--	H	570	LA	563
+#562	FN	--	A	564
+#563	LKG	--	--	0
+#564	FN	--	E	565
+#565	FN	--	C	566
+#566	FN	--	C	567
+#567	FN	--	E	568
+#568	FN	--	A	569
+#569	FN	--	H	570	LA	571
+#570	FN	--	A	574
+#571	LKG	--	--	0
+#572	FN	--	P	574
+#573	FN	--	A	574
+#574	FN	--	H	575
+#575	FN	--	--	0
+#EOS 307000

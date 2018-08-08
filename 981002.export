@@ -1,0 +1,22 @@
+#BOS 981002
+But	Word	--	Terminal	500
+how	Word	--	Terminal	501
+else	Word	--	Terminal	502
+could	Word	--	Terminal	503
+we	Word	--	Terminal	504
+go	Word	--	Terminal	505
+about	Word	--	Terminal	505
+it	Word	--	Terminal	506
+?	Punctuation	--	Terminal	507
+#500	FN	--	L	510
+#501	FN	--	C	508
+#502	FN	--	E	508
+#503	FN	--	D	509
+#504	FN	--	A	509
+#505	FN	--	P	509
+#506	FN	--	A	509
+#507	PNCT	--	U	509
+#508	FN	--	D	509
+#509	FN	--	H	510
+#510	FN	--	--	0
+#EOS 981002

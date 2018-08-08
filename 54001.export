@@ -1,0 +1,29 @@
+#BOS 54001
+Its	Word	--	Terminal	500
+paddle	Word	--	Terminal	501
+wheels	Word	--	Terminal	502
+were	Word	--	Terminal	503
+churning	Word	--	Terminal	504
+the	Word	--	Terminal	505
+sea	Word	--	Terminal	506
+with	Word	--	Terminal	507
+perfect	Word	--	Terminal	508
+steadiness	Word	--	Terminal	509
+.	Punctuation	--	Terminal	510
+#500	FN	--	E	511
+#501	FN	--	E	511
+#502	FN	--	C	511
+#503	FN	--	F	514
+#504	FN	--	P	514
+#505	FN	--	E	512
+#506	FN	--	C	512
+#507	FN	--	R	513
+#508	FN	--	E	513
+#509	FN	--	C	513
+#510	PNCT	--	U	513
+#511	FN	--	A	514
+#512	FN	--	A	514
+#513	FN	--	D	514
+#514	FN	--	H	515
+#515	FN	--	--	0
+#EOS 54001

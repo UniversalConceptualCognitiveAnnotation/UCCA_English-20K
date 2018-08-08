@@ -1,0 +1,13 @@
+#BOS 990000
+Two	Word	--	Terminal	500
+days	Word	--	Terminal	501
+passed	Word	--	Terminal	502
+.	Punctuation	--	Terminal	503
+#500	FN	--	E	504
+#501	FN	--	C	504
+#502	FN	--	P	505
+#503	PNCT	--	U	505
+#504	FN	--	T	505
+#505	FN	--	H	506
+#506	FN	--	--	0
+#EOS 990000

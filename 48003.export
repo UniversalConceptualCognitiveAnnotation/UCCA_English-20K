@@ -1,0 +1,55 @@
+#BOS 48003
+The	Word	--	Terminal	500
+monster	Word	--	Terminal	501
+again	Word	--	Terminal	502
+became	Word	--	Terminal	503
+an	Word	--	Terminal	504
+islet	Word	--	Terminal	505
+,	Punctuation	--	Terminal	506
+rock	Word	--	Terminal	507
+,	Punctuation	--	Terminal	508
+or	Word	--	Terminal	509
+reef	Word	--	Terminal	510
+,	Punctuation	--	Terminal	511
+but	Word	--	Terminal	512
+a	Word	--	Terminal	513
+runaway	Word	--	Terminal	514
+reef	Word	--	Terminal	515
+,	Punctuation	--	Terminal	516
+unfixed	Word	--	Terminal	517
+and	Word	--	Terminal	518
+elusive	Word	--	Terminal	519
+.	Punctuation	--	Terminal	520
+#500	FN	--	E	521
+#501	FN	--	C	521
+#502	FN	--	D	530
+#503	FN	--	P	530
+#504	FN	--	E	522	E*	523	E*	524
+#505	FN	--	C	522
+#506	PNCT	--	U	525
+#507	FN	--	C	523
+#508	PNCT	--	U	525
+#509	FN	--	N	525
+#510	FN	--	C	524
+#511	PNCT	--	U	529
+#512	FN	--	R	529
+#513	FN	--	E	528
+#514	FN	--	E	528
+#515	FN	--	C	528	A*	527
+#516	PNCT	--	U	528
+#517	FN	--	C	526
+#518	FN	--	N	526
+#519	FN	--	C	526
+#520	PNCT	--	U	526
+#521	FN	--	A	530
+#522	FN	--	C	525
+#523	FN	--	C	525
+#524	FN	--	C	525
+#525	FN	--	C	529
+#526	FN	--	S	527
+#527	FN	--	E	528
+#528	FN	--	E	529
+#529	FN	--	A	530
+#530	FN	--	H	531
+#531	FN	--	--	0
+#EOS 48003

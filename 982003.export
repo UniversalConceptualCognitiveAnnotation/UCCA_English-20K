@@ -1,0 +1,92 @@
+#BOS 982003
+”	Punctuation	--	Terminal	500
+So	Word	--	Terminal	501
+the	Word	--	Terminal	502
+frigate	Word	--	Terminal	503
+kept	Word	--	Terminal	504
+well	Word	--	Terminal	505
+out	Word	--	Terminal	504
+when	Word	--	Terminal	506
+passing	Word	--	Terminal	507
+the	Word	--	Terminal	508
+Tuamotu	Word	--	Terminal	509
+,	Punctuation	--	Terminal	510
+Marquesas	Word	--	Terminal	511
+,	Punctuation	--	Terminal	512
+and	Word	--	Terminal	513
+Hawaiian	Word	--	Terminal	514
+Islands	Word	--	Terminal	515
+,	Punctuation	--	Terminal	516
+then	Word	--	Terminal	517
+cut	Word	--	Terminal	518
+the	Word	--	Terminal	519
+Tropic	Word	--	Terminal	520
+of	Word	--	Terminal	521
+Cancer	Word	--	Terminal	522
+at	Word	--	Terminal	523
+longitude	Word	--	Terminal	524
+132	Word	--	Terminal	525
+°	Punctuation	--	Terminal	526
+and	Word	--	Terminal	527
+headed	Word	--	Terminal	528
+for	Word	--	Terminal	529
+the	Word	--	Terminal	530
+seas	Word	--	Terminal	531
+of	Word	--	Terminal	532
+China	Word	--	Terminal	533
+.	Punctuation	--	Terminal	534
+#500	PNCT	--	U	551
+#501	FN	--	L	551	LR	548
+#502	FN	--	E	535
+#503	FN	--	C	535	A*	544	A*	549	A*	550
+#504	FN	--	P	536
+#505	FN	--	D	536
+#506	FN	--	L	551	LR	547
+#507	FN	--	P	544
+#508	FN	--	E	537	E*	538	E*	539
+#509	FN	--	E	537
+#510	PNCT	--	U	540
+#511	FN	--	C	538
+#512	PNCT	--	U	540
+#513	FN	--	N	540
+#514	FN	--	E	539
+#515	FN	--	C	539	C*	537
+#516	PNCT	--	U	551
+#517	FN	--	L	551	LR	553
+#518	FN	--	P	549
+#519	FN	--	E	545
+#520	FN	--	C	545
+#521	FN	--	R	541
+#522	FN	--	C	541
+#523	FN	--	R	542
+#524	FN	--	E	542
+#525	FN	--	C	542
+#526	PNCT	--	U	551
+#527	FN	--	L	551	LR	552
+#528	FN	--	P	550
+#529	FN	--	R	546
+#530	FN	--	E	546
+#531	FN	--	C	546
+#532	FN	--	R	543
+#533	FN	--	C	543
+#534	PNCT	--	U	543
+#535	FN	--	A	536
+#536	FN	--	H	551	LA	553	LA	547	LA	548
+#537	FN	--	C	540
+#538	FN	--	C	540
+#539	FN	--	C	540
+#540	FN	--	A	544
+#541	FN	--	E	545
+#542	FN	--	A	549
+#543	FN	--	E	546
+#544	FN	--	H	551	LA	547
+#545	FN	--	A	549
+#546	FN	--	A	550
+#547	LKG	--	--	0
+#548	LKG	--	--	0
+#549	FN	--	H	551	LA	552	LA	553
+#550	FN	--	H	551	LA	552
+#551	FN	--	--	0
+#552	LKG	--	--	0
+#553	LKG	--	--	0
+#EOS 982003

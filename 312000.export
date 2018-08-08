@@ -1,0 +1,110 @@
+#BOS 312000
+Yet	Word	--	Terminal	500
+if	Word	--	Terminal	501
+some	Word	--	Terminal	502
+saw	Word	--	Terminal	503
+it	Word	--	Terminal	504
+purely	Word	--	Terminal	505
+as	Word	--	Terminal	506
+a	Word	--	Terminal	507
+scientific	Word	--	Terminal	508
+problem	Word	--	Terminal	509
+to	Word	--	Terminal	510
+be	Word	--	Terminal	511
+solved	Word	--	Terminal	512
+,	Punctuation	--	Terminal	513
+more	Word	--	Terminal	514
+practical	Word	--	Terminal	515
+people	Word	--	Terminal	516
+,	Punctuation	--	Terminal	517
+especially	Word	--	Terminal	518
+in	Word	--	Terminal	519
+America	Word	--	Terminal	520
+and	Word	--	Terminal	521
+England	Word	--	Terminal	522
+,	Punctuation	--	Terminal	523
+were	Word	--	Terminal	524
+determined	Word	--	Terminal	525
+to	Word	--	Terminal	526
+purge	Word	--	Terminal	527
+the	Word	--	Terminal	528
+ocean	Word	--	Terminal	529
+of	Word	--	Terminal	530
+this	Word	--	Terminal	531
+daunting	Word	--	Terminal	532
+monster	Word	--	Terminal	533
+,	Punctuation	--	Terminal	534
+to	Word	--	Terminal	535
+insure	Word	--	Terminal	536
+the	Word	--	Terminal	537
+safety	Word	--	Terminal	538
+of	Word	--	Terminal	539
+transoceanic	Word	--	Terminal	540
+travel	Word	--	Terminal	541
+.	Punctuation	--	Terminal	542
+#500	FN	--	L	562	LR	558
+#501	FN	--	L	562	LR	563
+#502	FN	--	E	543
+#503	FN	--	P	560
+#504	FN	--	A	560
+#505	FN	--	D	560
+#506	FN	--	R	556
+#507	FN	--	E	556
+#508	FN	--	E	556
+#509	FN	--	C	556	A*	555
+#510	FN	--	F	555
+#511	FN	--	F	555
+#512	FN	--	P	555
+#513	PNCT	--	U	562
+#514	FN	--	E	544
+#515	FN	--	C	544
+#516	FN	--	C	551	A*	561	C*	543
+#517	PNCT	--	U	551
+#518	FN	--	E	550
+#519	FN	--	R	550
+#520	FN	--	C	545
+#521	FN	--	N	545
+#522	FN	--	C	545
+#523	PNCT	--	U	553
+#524	FN	--	F	553
+#525	FN	--	P	553
+#526	FN	--	R	552
+#527	FN	--	P	552
+#528	FN	--	E	546
+#529	FN	--	C	546
+#530	FN	--	R	548
+#531	FN	--	E	548
+#532	FN	--	P	547
+#533	FN	--	C	548	A*	547
+#534	PNCT	--	U	562
+#535	FN	--	L	562	LR	564
+#536	FN	--	P	561
+#537	FN	--	E	559
+#538	FN	--	C	559
+#539	FN	--	R	557
+#540	FN	--	D	557
+#541	FN	--	P	557
+#542	PNCT	--	U	557
+#543	FN	--	A	560
+#544	FN	--	E	551
+#545	FN	--	C	550
+#546	FN	--	A	552
+#547	FN	--	E	548
+#548	FN	--	A	552
+#549	FN	--	A	555
+#550	FN	--	E	551
+#551	FN	--	A	553
+#552	FN	--	A	553
+#553	FN	--	H	562	LA	558
+#554	FN	--	A	557
+#555	FN	--	E	556
+#556	FN	--	A	560
+#557	FN	--	E	559
+#558	LKG	--	--	0
+#559	FN	--	A	561
+#560	FN	--	H	562	LA	563
+#561	FN	--	H	562	LA	564
+#562	FN	--	--	0
+#563	LKG	--	--	0
+#564	LKG	--	--	0
+#EOS 312000
