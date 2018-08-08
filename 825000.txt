@@ -1,0 +1,15 @@
+# ::id 825000
+# ::tok To be sure , I had confidence in this devoted lad .
+# ::alignments 0-1.1.1 1-1.1.1 2-1.1.1 4-1.1.2 6-1.1.4 7-1.1.5.1 8-1.1.5.2 9-1.1.5.3.2 10-1.1.5.4
+(v1 / label
+    :H (v2 / label
+           :G (v3 / label~e.0,1,2)
+           :A (v4 / label~e.4)
+           :P (v5 / label~e.6)
+           :A (v6 / label
+                  :R (v7 / label~e.7)
+                  :E (v8 / label~e.8)
+                  :E (v9 / label
+                         :A (v10 / label~e.10)
+                         :S (v11 / label~e.9))
+                  :C v10)))
