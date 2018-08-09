@@ -1,0 +1,10 @@
+# format = ucca
+# sent_id = 287002
+# text = This mystery puzzled me .
+# doc_id = 
+1	This	_	Word	Word	_	2	E	2:E	_
+2	mystery	_	Word	Word	_	0	root	0:root	_
+3	puzzled	_	Word	Word	_	2	orphan	2:orphan	_
+4	me	_	Word	Word	_	3	A	3:A	_
+5	.	_	Punctuation	Punctuation	_	3	punct	3:punct	_
+

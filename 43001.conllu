@@ -1,0 +1,50 @@
+# format = ucca
+# sent_id = 43001
+# text = From their simultaneous observations , they were able to estimate the mammal 's minimum length at more than 350 English feet ; this was because both the Shannon and the Helvetia were of smaller dimensions , although each measured 100 meters stem to stern .
+# doc_id = 
+1	From	_	Word	Word	_	4	R	4:R	_
+2	their	_	Word	Word	_	4	E	4:E	_
+3	simultaneous	_	Word	Word	_	4	E	4:E	_
+4	observations	_	Word	Word	_	0	root	0:root	_
+5	,	_	Punctuation	Punctuation	_	10	punct	10:punct	_
+6	they	_	Word	Word	_	10	A	10:A	_
+7	were	_	Word	Word	_	10	F	10:F	_
+8	able	_	Word	Word	_	10	D	10:D	_
+9	to	_	Word	Word	_	10	F	10:F	_
+10	estimate	_	Word	Word	_	4	orphan	4:orphan	_
+11	the	_	Word	Word	_	15	E	15:E	_
+12	mammal	_	Word	Word	_	15	E	15:E	_
+13	's	_	Word	Word	_	15	F	15:F	_
+14	minimum	_	Word	Word	_	15	E	15:E	_
+15	length	_	Word	Word	_	4	orphan	4:orphan	_
+16	at	_	Word	Word	_	21	R	21:R	_
+17	more	_	Word	Word	_	4	orphan	4:orphan	_
+18	than	_	Word	Word	_	17	R	17:R	_
+19	350	_	Word	Word	_	21	E	21:E	_
+20	English	_	Word	Word	_	21	E	21:E	_
+21	feet	_	Word	Word	_	4	orphan	4:orphan	_
+22	;	_	Punctuation	Punctuation	_	10	punct	10:punct	_
+23	this	_	Word	Word	_	25	A	25:A	_
+24	was	_	Word	Word	_	25	F	25:F	_
+25	because	_	Word	Word	_	4	orphan	4:orphan	_
+26	both	_	Word	Word	_	28	E	28:E	_
+27	the	_	Word	Word	_	28	E	28:E	_
+28	Shannon	_	Word	Word	_	4	orphan	4:orphan	_
+29	and	_	Word	Word	_	28	N	28:N	_
+30	the	_	Word	Word	_	31	E	31:E	_
+31	Helvetia	_	Word	Word	_	4	orphan	4:orphan	_
+32	were	_	Word	Word	_	35	F	35:F	_
+33	of	_	Word	Word	_	35	R	35:R	_
+34	smaller	_	Word	Word	_	35	E	35:E	_
+35	dimensions	_	Word	Word	_	4	orphan	4:orphan	_
+36	,	_	Punctuation	Punctuation	_	10	punct	10:punct	_
+37	although	_	Word	Word	_	10	L	10:L	_
+38	each	_	Word	Word	_	39	A	39:A	_
+39	measured	_	Word	Word	_	4	orphan	4:orphan	_
+40	100	_	Word	Word	_	41	E	41:E	_
+41	meters	_	Word	Word	_	4	orphan	4:orphan	_
+42	stem	_	Word	Word	_	4	orphan	4:orphan	_
+43	to	_	Word	Word	_	42	R	42:R	_
+44	stern	_	Word	Word	_	42	C	42:C	_
+45	.	_	Punctuation	Punctuation	_	42	punct	42:punct	_
+

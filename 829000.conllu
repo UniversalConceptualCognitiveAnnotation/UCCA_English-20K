@@ -1,0 +1,17 @@
+# format = ucca
+# sent_id = 829000
+# text = A quarter of an hour later , our trunks were ready .
+# doc_id = 
+1	A	_	Word	Word	_	2	E	2:E	_
+2	quarter	_	Word	Word	_	0	root	0:root	_
+3	of	_	Word	Word	_	2	R	2:R	_
+4	an	_	Word	Word	_	5	E	5:E	_
+5	hour	_	Word	Word	_	2	orphan	2:orphan	_
+6	later	_	Word	Word	_	5	E	5:E	_
+7	,	_	Punctuation	Punctuation	_	11	punct	11:punct	_
+8	our	_	Word	Word	_	9	E	9:E	_
+9	trunks	_	Word	Word	_	2	orphan	2:orphan	_
+10	were	_	Word	Word	_	11	F	11:F	_
+11	ready	_	Word	Word	_	2	orphan	2:orphan	_
+12	.	_	Punctuation	Punctuation	_	11	punct	11:punct	_
+

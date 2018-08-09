@@ -1,0 +1,38 @@
+# format = ucca
+# sent_id = 296006
+# text = And in this vein , “ the honorable Pierre Aronnax , Professor at the Paris Museum , ” was summoned by The New York Herald to formulate his views no matter what .
+# doc_id = 
+1	And	_	Word	Word	_	20	L	20:L	_
+2	in	_	Word	Word	_	4	R	4:R	_
+3	this	_	Word	Word	_	4	E	4:E	_
+4	vein	_	Word	Word	_	0	root	0:root	_
+5	,	_	Punctuation	Punctuation	_	20	punct	20:punct	_
+6	“	_	Punctuation	Punctuation	_	20	punct	20:punct	_
+7	the	_	Word	Word	_	9	E	9:E	_
+8	honorable	_	Word	Word	_	9	E	9:E	_
+9	Pierre	_	Word	Word	_	4	orphan	4:orphan	_
+10	Aronnax	_	Word	Word	_	9	flat	9:flat	_
+11	,	_	Punctuation	Punctuation	_	9	punct	9:punct	_
+12	Professor	_	Word	Word	_	4	orphan	4:orphan	_
+13	at	_	Word	Word	_	16	R	16:R	_
+14	the	_	Word	Word	_	16	E	16:E	_
+15	Paris	_	Word	Word	_	16	E	16:E	_
+16	Museum	_	Word	Word	_	4	orphan	4:orphan	_
+17	,	_	Punctuation	Punctuation	_	20	punct	20:punct	_
+18	”	_	Punctuation	Punctuation	_	20	punct	20:punct	_
+19	was	_	Word	Word	_	20	F	20:F	_
+20	summoned	_	Word	Word	_	4	orphan	4:orphan	_
+21	by	_	Word	Word	_	22	R	22:R	_
+22	The	_	Word	Word	_	4	orphan	4:orphan	_
+23	New	_	Word	Word	_	22	flat	22:flat	_
+24	York	_	Word	Word	_	22	flat	22:flat	_
+25	Herald	_	Word	Word	_	22	flat	22:flat	_
+26	to	_	Word	Word	_	27	F	27:F	_
+27	formulate	_	Word	Word	_	4	orphan	4:orphan	_
+28	his	_	Word	Word	_	29	E	29:E	_
+29	views	_	Word	Word	_	4	orphan	4:orphan	_
+30	no	_	Word	Word	_	27	D	27:D	_
+31	matter	_	Word	Word	_	30	flat	30:flat	_
+32	what	_	Word	Word	_	30	flat	30:flat	_
+33	.	_	Punctuation	Punctuation	_	27	punct	27:punct	_
+

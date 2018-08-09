@@ -1,0 +1,25 @@
+# format = ucca
+# sent_id = 969002
+# text = Anxious to see Ned Land at work , Commander Farragut authorized him to make his way aboard the Monroe .
+# doc_id = 
+1	Anxious	_	Word	Word	_	3	D	3:D	_
+2	to	_	Word	Word	_	3	F	3:F	_
+3	see	_	Word	Word	_	0	root	0:root	_
+4	Ned	_	Word	Word	_	7	A	7:A	_
+5	Land	_	Word	Word	_	4	flat	4:flat	_
+6	at	_	Word	Word	_	7	R	7:R	_
+7	work	_	Word	Word	_	3	orphan	3:orphan	_
+8	,	_	Punctuation	Punctuation	_	10	punct	10:punct	_
+9	Commander	_	Word	Word	_	10	E	10:E	_
+10	Farragut	_	Word	Word	_	3	orphan	3:orphan	_
+11	authorized	_	Word	Word	_	3	orphan	3:orphan	_
+12	him	_	Word	Word	_	11	A	11:A	_
+13	to	_	Word	Word	_	14	F	14:F	_
+14	make	_	Word	Word	_	3	orphan	3:orphan	_
+15	his	_	Word	Word	_	14	flat	14:flat	_
+16	way	_	Word	Word	_	14	flat	14:flat	_
+17	aboard	_	Word	Word	_	19	R	19:R	_
+18	the	_	Word	Word	_	19	E	19:E	_
+19	Monroe	_	Word	Word	_	3	orphan	3:orphan	_
+20	.	_	Punctuation	Punctuation	_	19	punct	19:punct	_
+

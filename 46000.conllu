@@ -1,0 +1,23 @@
+# format = ucca
+# sent_id = 46000
+# text = An interminable debate then broke out between believers and skeptics in the scholarly societies and scientific journals .
+# doc_id = 
+1	An	_	Word	Word	_	3	E	3:E	_
+2	interminable	_	Word	Word	_	3	E	3:E	_
+3	debate	_	Word	Word	_	0	root	0:root	_
+4	then	_	Word	Word	_	5	L	5:L	_
+5	broke	_	Word	Word	_	3	orphan	3:orphan	_
+6	out	_	Word	Word	_	5	flat	5:flat	_
+7	between	_	Word	Word	_	8	R	8:R	_
+8	believers	_	Word	Word	_	3	orphan	3:orphan	_
+9	and	_	Word	Word	_	8	N	8:N	_
+10	skeptics	_	Word	Word	_	8	C	8:C	_
+11	in	_	Word	Word	_	14	R	14:R	_
+12	the	_	Word	Word	_	14	E	14:E	_
+13	scholarly	_	Word	Word	_	14	E	14:E	_
+14	societies	_	Word	Word	_	3	orphan	3:orphan	_
+15	and	_	Word	Word	_	14	N	14:N	_
+16	scientific	_	Word	Word	_	17	E	17:E	_
+17	journals	_	Word	Word	_	3	orphan	3:orphan	_
+18	.	_	Punctuation	Punctuation	_	17	punct	17:punct	_
+

@@ -1,0 +1,23 @@
+# format = ucca
+# sent_id = 992000
+# text = By then the frigate lay in latitude 31 ° 15′ north and longitude 136 ° 42′ east .
+# doc_id = 
+1	By	_	Word	Word	_	5	L	5:L	_
+2	then	_	Word	Word	_	1	flat	1:flat	_
+3	the	_	Word	Word	_	4	E	4:E	_
+4	frigate	_	Word	Word	_	0	root	0:root	_
+5	lay	_	Word	Word	_	4	orphan	4:orphan	_
+6	in	_	Word	Word	_	8	R	8:R	_
+7	latitude	_	Word	Word	_	4	orphan	4:orphan	_
+8	31	_	Word	Word	_	4	orphan	4:orphan	_
+9	°	_	Punctuation	Punctuation	_	8	punct	8:punct	_
+10	15′	_	Word	Word	_	8	flat	8:flat	_
+11	north	_	Word	Word	_	7	E	7:E	_
+12	and	_	Word	Word	_	8	N	8:N	_
+13	longitude	_	Word	Word	_	4	orphan	4:orphan	_
+14	136	_	Word	Word	_	4	orphan	4:orphan	_
+15	°	_	Punctuation	Punctuation	_	14	punct	14:punct	_
+16	42′	_	Word	Word	_	14	flat	14:flat	_
+17	east	_	Word	Word	_	13	E	13:E	_
+18	.	_	Punctuation	Punctuation	_	13	punct	13:punct	_
+

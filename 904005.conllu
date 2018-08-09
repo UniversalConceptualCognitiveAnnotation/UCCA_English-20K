@@ -1,0 +1,54 @@
+# format = ucca
+# sent_id = 904005
+# text = Well then , when you dive under the waves , Ned , for every thirty-two feet of water above you , your body is tolerating the pressure of one more atmosphere , in other words , one more kilogram per each square centimeter on your body ’s surface .
+# doc_id = 
+1	Well	_	Word	Word	_	6	L	6:L	_
+2	then	_	Word	Word	_	1	flat	1:flat	_
+3	,	_	Punctuation	Punctuation	_	6	punct	6:punct	_
+4	when	_	Word	Word	_	6	L	6:L	_
+5	you	_	Word	Word	_	6	A	6:A	_
+6	dive	_	Word	Word	_	0	root	0:root	_
+7	under	_	Word	Word	_	9	R	9:R	_
+8	the	_	Word	Word	_	9	E	9:E	_
+9	waves	_	Word	Word	_	6	orphan	6:orphan	_
+10	,	_	Punctuation	Punctuation	_	6	punct	6:punct	_
+11	Ned	_	Word	Word	_	6	G	6:G	_
+12	,	_	Punctuation	Punctuation	_	6	punct	6:punct	_
+13	for	_	Word	Word	_	16	R	16:R	_
+14	every	_	Word	Word	_	16	E	16:E	_
+15	thirty-two	_	Word	Word	_	16	E	16:E	_
+16	feet	_	Word	Word	_	6	orphan	6:orphan	_
+17	of	_	Word	Word	_	18	R	18:R	_
+18	water	_	Word	Word	_	6	orphan	6:orphan	_
+19	above	_	Word	Word	_	20	R	20:R	_
+20	you	_	Word	Word	_	6	orphan	6:orphan	_
+21	,	_	Punctuation	Punctuation	_	25	punct	25:punct	_
+22	your	_	Word	Word	_	23	E	23:E	_
+23	body	_	Word	Word	_	6	orphan	6:orphan	_
+24	is	_	Word	Word	_	25	F	25:F	_
+25	tolerating	_	Word	Word	_	6	orphan	6:orphan	_
+26	the	_	Word	Word	_	27	E	27:E	_
+27	pressure	_	Word	Word	_	6	orphan	6:orphan	_
+28	of	_	Word	Word	_	27	R	27:R	_
+29	one	_	Word	Word	_	31	E	31:E	_
+30	more	_	Word	Word	_	31	E	31:E	_
+31	atmosphere	_	Word	Word	_	6	orphan	6:orphan	_
+32	,	_	Punctuation	Punctuation	_	31	punct	31:punct	_
+33	in	_	Word	Word	_	35	R	35:R	_
+34	other	_	Word	Word	_	35	E	35:E	_
+35	words	_	Word	Word	_	6	orphan	6:orphan	_
+36	,	_	Punctuation	Punctuation	_	39	punct	39:punct	_
+37	one	_	Word	Word	_	39	E	39:E	_
+38	more	_	Word	Word	_	39	E	39:E	_
+39	kilogram	_	Word	Word	_	6	orphan	6:orphan	_
+40	per	_	Word	Word	_	43	R	43:R	_
+41	each	_	Word	Word	_	43	E	43:E	_
+42	square	_	Word	Word	_	43	E	43:E	_
+43	centimeter	_	Word	Word	_	6	orphan	6:orphan	_
+44	on	_	Word	Word	_	48	R	48:R	_
+45	your	_	Word	Word	_	46	E	46:E	_
+46	body	_	Word	Word	_	6	orphan	6:orphan	_
+47	’s	_	Word	Word	_	46	R	46:R	_
+48	surface	_	Word	Word	_	6	orphan	6:orphan	_
+49	.	_	Punctuation	Punctuation	_	48	punct	48:punct	_
+
