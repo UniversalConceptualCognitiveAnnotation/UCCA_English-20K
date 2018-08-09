@@ -1,0 +1,20 @@
+#BOS 48002
+The	Word	--	Terminal	500
+question	Word	--	Terminal	501
+took	Word	--	Terminal	502
+an	Word	--	Terminal	502
+entirely	Word	--	Terminal	503
+new	Word	--	Terminal	504
+turn	Word	--	Terminal	502
+.	Punctuation	--	Terminal	505
+#500	FN	--	E	506
+#501	FN	--	C	506
+#502	FN	--	P	508
+#503	FN	--	E	507
+#504	FN	--	C	507
+#505	PNCT	--	U	508
+#506	FN	--	A	508
+#507	FN	--	D	508
+#508	FN	--	H	509
+#509	FN	--	--	0
+#EOS 48002

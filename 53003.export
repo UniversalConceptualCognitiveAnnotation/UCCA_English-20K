@@ -1,0 +1,78 @@
+#BOS 53003
+Accordingly	Word	--	Terminal	500
+,	Punctuation	--	Terminal	501
+despite	Word	--	Terminal	502
+strong	Word	--	Terminal	503
+competition	Word	--	Terminal	504
+from	Word	--	Terminal	505
+France	Word	--	Terminal	506
+,	Punctuation	--	Terminal	507
+passengers	Word	--	Terminal	508
+still	Word	--	Terminal	509
+choose	Word	--	Terminal	510
+the	Word	--	Terminal	511
+Cunard	Word	--	Terminal	512
+line	Word	--	Terminal	513
+in	Word	--	Terminal	514
+preference	Word	--	Terminal	514
+to	Word	--	Terminal	514
+all	Word	--	Terminal	515
+others	Word	--	Terminal	516
+,	Punctuation	--	Terminal	517
+as	Word	--	Terminal	518
+can	Word	--	Terminal	519
+be	Word	--	Terminal	520
+seen	Word	--	Terminal	521
+in	Word	--	Terminal	522
+a	Word	--	Terminal	523
+recent	Word	--	Terminal	524
+survey	Word	--	Terminal	525
+of	Word	--	Terminal	526
+official	Word	--	Terminal	527
+documents	Word	--	Terminal	528
+.	Punctuation	--	Terminal	529
+#500	FN	--	L	542	LR	540
+#501	PNCT	--	U	542
+#502	FN	--	L	542	LR	539
+#503	FN	--	D	534
+#504	FN	--	P	534
+#505	FN	--	R	530
+#506	FN	--	C	530
+#507	PNCT	--	U	542
+#508	FN	--	A	536
+#509	FN	--	D	536
+#510	FN	--	P	536
+#511	FN	--	E	535
+#512	FN	--	E	535
+#513	FN	--	C	535
+#514	FN	--	R	531
+#515	FN	--	E	531
+#516	FN	--	C	531
+#517	PNCT	--	U	542
+#518	FN	--	L	542	LR	543
+#519	FN	--	D	541
+#520	FN	--	F	541
+#521	FN	--	P	541
+#522	FN	--	R	538
+#523	FN	--	E	532
+#524	FN	--	T	538
+#525	FN	--	C	532
+#526	FN	--	R	533
+#527	FN	--	E	533
+#528	FN	--	C	533
+#529	PNCT	--	U	533
+#530	FN	--	A	534
+#531	FN	--	E	535
+#532	FN	--	P	538
+#533	FN	--	A	538
+#534	FN	--	H	542	LA	539
+#535	FN	--	A	536
+#536	FN	--	H	542	LA	540	A*	541
+#537	FN	--	A	541
+#538	FN	--	A	541
+#539	LKG	--	--	0
+#540	LKG	--	--	0
+#541	FN	--	H	542	LA	543
+#542	FN	--	--	0
+#543	LKG	--	--	0
+#EOS 53003

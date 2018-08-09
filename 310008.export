@@ -1,0 +1,38 @@
+#BOS 310008
+Our	Word	--	Terminal	500
+Creator	Word	--	Terminal	501
+cast	Word	--	Terminal	502
+them	Word	--	Terminal	503
+using	Word	--	Terminal	504
+a	Word	--	Terminal	505
+colossal	Word	--	Terminal	506
+mold	Word	--	Terminal	507
+that	Word	--	Terminal	508
+time	Word	--	Terminal	509
+has	Word	--	Terminal	510
+gradually	Word	--	Terminal	511
+made	Word	--	Terminal	512
+smaller	Word	--	Terminal	513
+.	Punctuation	--	Terminal	514
+#500	FN	--	E	515
+#501	FN	--	C	515
+#502	FN	--	P	516
+#503	FN	--	A	516
+#504	FN	--	P	519
+#505	FN	--	E	518
+#506	FN	--	E	518
+#507	FN	--	C	518	A*	517
+#508	FN	--	R	517
+#509	FN	--	A	517
+#510	FN	--	F	517
+#511	FN	--	D	517
+#512	FN	--	D	517
+#513	FN	--	S	517
+#514	PNCT	--	U	517
+#515	FN	--	A	516	A*	519
+#516	FN	--	H	520
+#517	FN	--	E	518
+#518	FN	--	A	519
+#519	FN	--	H	520
+#520	FN	--	--	0
+#EOS 310008

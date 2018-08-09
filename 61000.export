@@ -1,0 +1,42 @@
+#BOS 61000
+This	Word	--	Terminal	500
+was	Word	--	Terminal	501
+the	Word	--	Terminal	502
+last	Word	--	Terminal	503
+straw	Word	--	Terminal	504
+,	Punctuation	--	Terminal	505
+and	Word	--	Terminal	506
+it	Word	--	Terminal	507
+resulted	Word	--	Terminal	508
+in	Word	--	Terminal	509
+arousing	Word	--	Terminal	510
+public	Word	--	Terminal	511
+passions	Word	--	Terminal	512
+all	Word	--	Terminal	513
+over	Word	--	Terminal	513
+again	Word	--	Terminal	514
+.	Punctuation	--	Terminal	515
+#500	FN	--	A	519
+#501	FN	--	S	519
+#502	FN	--	E	516
+#503	FN	--	E	516
+#504	FN	--	C	516
+#505	PNCT	--	U	521
+#506	FN	--	L	521	LR	522
+#507	FN	--	A	520
+#508	FN	--	P	520
+#509	FN	--	R	518
+#510	FN	--	P	518
+#511	FN	--	E	517
+#512	FN	--	C	517
+#513	FN	--	D	518
+#514	FN	--	T	518
+#515	PNCT	--	U	518
+#516	FN	--	A	519
+#517	FN	--	A	518
+#518	FN	--	A	520
+#519	FN	--	H	521	LA	522
+#520	FN	--	H	521	LA	522
+#521	FN	--	--	0
+#522	LKG	--	--	0
+#EOS 61000

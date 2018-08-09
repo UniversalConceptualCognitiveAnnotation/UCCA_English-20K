@@ -1,0 +1,31 @@
+#BOS 826015
+”	Punctuation	--	Terminal	500
+“	Punctuation	--	Terminal	501
+As	Word	--	Terminal	502
+master	Word	--	Terminal	503
+thinks	Word	--	Terminal	504
+best	Word	--	Terminal	505
+,	Punctuation	--	Terminal	506
+”	Punctuation	--	Terminal	507
+Conseil	Word	--	Terminal	508
+replied	Word	--	Terminal	509
+placidly	Word	--	Terminal	510
+.	Punctuation	--	Terminal	511
+#500	PNCT	--	U	515
+#501	PNCT	--	U	515
+#502	FN	--	F	514
+#503	FN	--	G	514
+#504	FN	--	P	514
+#505	FN	--	S	513
+#506	PNCT	--	U	515
+#507	PNCT	--	U	515
+#508	FN	--	A	515
+#509	FN	--	P	515
+#510	FN	--	D	515
+#511	PNCT	--	U	515
+#512	FN	--	A	513
+#513	FN	--	A	514
+#514	FN	--	A	515
+#515	FN	--	H	516
+#516	FN	--	--	0
+#EOS 826015

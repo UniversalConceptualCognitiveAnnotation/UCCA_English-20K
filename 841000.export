@@ -1,0 +1,30 @@
+#BOS 841000
+“	Punctuation	--	Terminal	500
+Are	Word	--	Terminal	501
+we	Word	--	Terminal	502
+up	Word	--	Terminal	503
+to	Word	--	Terminal	503
+pressure	Word	--	Terminal	503
+?	Punctuation	--	Terminal	504
+”	Punctuation	--	Terminal	505
+he	Word	--	Terminal	506
+asked	Word	--	Terminal	507
+the	Word	--	Terminal	508
+man	Word	--	Terminal	509
+.	Punctuation	--	Terminal	510
+#500	PNCT	--	U	513
+#501	FN	--	F	511
+#502	FN	--	A	511
+#503	FN	--	S	511
+#504	PNCT	--	U	513
+#505	PNCT	--	U	513
+#506	FN	--	A	513
+#507	FN	--	P	513
+#508	FN	--	E	512
+#509	FN	--	C	512
+#510	PNCT	--	U	512
+#511	FN	--	A	513
+#512	FN	--	A	513
+#513	FN	--	H	514
+#514	FN	--	--	0
+#EOS 841000
