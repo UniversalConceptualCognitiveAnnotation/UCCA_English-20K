@@ -1,0 +1,24 @@
+# format = ucca
+1	We	_	Word	-	-	_	A	_	_	_	_	_	_	_	_
+2	had	_	Word	-	-	_	F	_	_	_	_	_	_	_	_
+3	crossed	_	Word	-	+	_	_	_	_	_	_	_	_	_	_
+4	the	_	Word	-	-	_	_	E	_	_	_	_	_	_	_
+5	Tropic	_	Word	-	+	_	A	_	_	_	_	_	_	_	_
+6	of	_	Word	-	-	_	_	_	R	_	_	_	_	_	_
+7	Capricorn	_	Word	-	+	_	_	E	_	_	_	_	_	_	_
+8	,	_	Punctuation	-	-	_	U	_	_	_	_	_	_	_	_
+9	and	_	Word	-	-	_	L	_	_	_	_	_	_	_	_
+10	the	_	Word	-	-	_	_	_	_	E	_	_	_	_	_
+11	Strait	_	Word	-	+	_	_	_	_	_	_	A	_	_	_
+12	of	_	Word	-	-	_	_	_	_	_	R	_	_	_	_
+13	Magellan	_	Word	-	+	_	_	_	_	E	_	_	_	_	_
+14	opened	_	Word	-	+	_	H	_	_	_	_	_	_	_	_
+15	less	_	Word	-	+	_	_	_	_	_	_	_	_	E	_
+16	than	_	Word	-	-	_	_	_	_	_	_	_	F	_	_
+17	700	_	Word	-	-	_	_	_	_	_	_	_	_	E	_
+18	miles	_	Word	-	+	_	_	_	_	_	_	A	_	_	_
+19	to	_	Word	-	-	_	_	_	_	_	_	_	_	_	R
+20	the	_	Word	-	-	_	_	_	_	_	_	_	_	_	E
+21	south	_	Word	-	+	_	_	_	_	_	_	_	_	E	_
+22	.	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	U
+

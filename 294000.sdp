@@ -1,0 +1,36 @@
+# format = ucca
+1	So	_	Word	-	-	_	L	_	_	_	_	_	_	_	_	_	_	_
+2	,	_	Punctuation	-	-	_	U	_	_	_	_	_	_	_	_	_	_	_
+3	after	_	Word	-	-	_	L	_	_	_	_	_	_	_	_	_	_	_
+4	inquiries	_	Word	-	-	_	A	_	_	_	_	_	_	_	_	_	_	_
+5	conducted	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_
+6	in	_	Word	-	-	_	_	R	R	R	R	R	R	R	R	_	_	_
+7	England	_	Word	-	+	_	A	_	_	_	_	_	_	_	_	_	_	_
+8	,	_	Punctuation	-	-	_	_	U	_	_	_	_	_	_	_	_	_	_
+9	France	_	Word	-	+	_	_	C	_	_	_	_	_	_	_	_	_	_
+10	,	_	Punctuation	-	-	_	_	U	_	_	_	_	_	_	_	_	_	_
+11	Russia	_	Word	-	+	_	_	C	_	_	_	_	_	_	_	_	_	_
+12	,	_	Punctuation	-	-	_	_	U	_	_	_	_	_	_	_	_	_	_
+13	Prussia	_	Word	-	+	_	_	C	_	_	_	_	_	_	_	_	_	_
+14	,	_	Punctuation	-	-	_	_	U	_	_	_	_	_	_	_	_	_	_
+15	Spain	_	Word	-	+	_	_	C	_	_	_	_	_	_	_	_	_	_
+16	,	_	Punctuation	-	-	_	_	U	_	_	_	_	_	_	_	_	_	_
+17	Italy	_	Word	-	+	_	_	C	_	_	_	_	_	_	_	_	_	_
+18	,	_	Punctuation	-	-	_	_	U	_	_	_	_	_	_	_	_	_	_
+19	America	_	Word	-	+	_	_	C	_	_	_	_	_	_	_	_	_	_
+20	,	_	Punctuation	-	-	_	_	U	_	_	_	_	_	_	_	_	_	_
+21	and	_	Word	-	-	_	_	N	_	_	_	_	_	_	_	_	_	_
+22	even	_	Word	-	-	_	_	_	_	_	_	_	_	_	E	_	_	_
+23	Turkey	_	Word	-	+	_	_	C	_	_	_	_	_	_	_	_	_	_
+24	,	_	Punctuation	-	-	_	U	_	_	_	_	_	_	_	_	_	_	_
+25	the	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	E	_	_
+26	hypothesis	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	E	_
+27	of	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	R	_	_
+28	an	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	E	_
+29	underwater	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	E	_
+30	Monitor	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	A
+31	was	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	F
+32	ultimately	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	D
+33	rejected	_	Word	-	+	_	H	_	_	_	_	_	_	_	_	_	_	_
+34	.	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	_	_	_	U
+

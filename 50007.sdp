@@ -1,0 +1,24 @@
+# format = ucca
+1	But	_	Word	-	-	_	L	_	_	_	_	_	_
+2	when	_	Word	-	-	_	L	_	_	_	_	_	_
+3	they	_	Word	-	-	_	A	_	_	_	_	_	_
+4	examined	_	Word	-	+	_	_	_	_	_	_	_	_
+5	its	_	Word	-	-	_	_	R	_	_	_	_	_
+6	undersides	_	Word	-	+	_	A	_	_	_	_	_	_
+7	in	_	Word	-	-	_	_	_	R	_	_	_	_
+8	the	_	Word	-	-	_	_	_	E	_	_	_	_
+9	service	_	Word	-	-	_	_	_	E	_	_	_	_
+10	yard	_	Word	-	+	_	A	_	_	_	_	_	_
+11	,	_	Punctuation	-	-	_	U	_	_	_	_	_	_
+12	they	_	Word	-	-	_	_	_	_	A	_	_	_
+13	discovered	_	Word	-	+	_	H	_	_	_	_	_	_
+14	that	_	Word	-	-	_	_	_	_	_	_	_	R
+15	part	_	Word	-	+	_	_	_	_	_	_	E	_
+16	of	_	Word	-	-	_	_	_	_	_	R	_	_
+17	its	_	Word	-	-	_	_	_	_	_	_	E	_
+18	keel	_	Word	-	+	_	_	_	_	_	_	_	A
+19	had	_	Word	-	-	_	_	_	_	_	_	_	F
+20	been	_	Word	-	-	_	_	_	_	_	_	_	F
+21	smashed	_	Word	-	+	_	_	_	_	A	_	_	_
+22	.	_	Punctuation	-	-	_	_	_	_	_	_	_	U
+

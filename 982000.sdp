@@ -1,0 +1,35 @@
+# format = ucca
+1	On	_	Word	-	-	_	R	_	_	_	_	_	_	_	_	_
+2	July	_	Word	-	+	_	_	T	_	_	_	_	_	_	_	_
+3	20	_	Word	-	-	_	Terminal	_	_	_	_	_	_	_	_	_
+4	we	_	Word	-	-	_	_	A	_	_	_	_	_	_	_	_
+5	cut	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_
+6	the	_	Word	-	-	_	_	_	E	_	_	_	_	_	_	_
+7	Tropic	_	Word	-	+	_	_	A	_	_	_	_	_	_	_	_
+8	of	_	Word	-	-	_	_	_	_	R	_	_	_	_	_	_
+9	Capricorn	_	Word	-	+	_	_	_	E	_	_	_	_	_	_	_
+10	at	_	Word	-	-	_	_	_	_	_	R	_	_	_	_	_
+11	longitude	_	Word	-	-	_	_	_	_	_	E	_	_	_	_	_
+12	105	_	Word	-	+	_	_	A	_	_	_	_	_	_	_	_
+13	°	_	Punctuation	-	-	_	_	U	_	_	_	_	_	_	_	_
+14	,	_	Punctuation	-	-	_	_	U	_	_	_	_	_	_	_	_
+15	and	_	Word	-	-	_	_	L	_	_	_	_	_	_	_	_
+16	by	_	Word	-	-	_	_	_	_	_	_	R	_	_	_	_
+17	the	_	Word	-	-	_	_	_	_	_	_	E	_	_	_	_
+18	27th	_	Word	-	+	_	_	_	_	_	_	_	_	T	_	_
+19	of	_	Word	-	-	_	_	_	_	_	_	_	R	_	_	_
+20	the	_	Word	-	-	_	_	_	_	_	_	_	E	_	_	_
+21	same	_	Word	-	-	_	_	_	_	_	_	_	E	_	_	_
+22	month	_	Word	-	+	_	_	_	_	_	_	E	_	_	_	_
+23	,	_	Punctuation	-	-	_	_	_	_	_	_	_	_	U	_	_
+24	we	_	Word	-	-	_	_	_	_	_	_	_	_	A	_	_
+25	had	_	Word	-	-	_	_	_	_	_	_	_	_	F	_	_
+26	cleared	_	Word	-	+	_	_	H	_	_	_	_	_	_	_	_
+27	the	_	Word	-	-	_	_	_	_	_	_	_	_	_	E	_
+28	equator	_	Word	-	+	_	_	_	_	_	_	_	_	A	_	_
+29	on	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	R
+30	the	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	E
+31	110th	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	E
+32	meridian	_	Word	-	+	_	_	_	_	_	_	_	_	A	_	_
+33	.	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	_	U
+
