@@ -1,0 +1,32 @@
+# format = ucca
+# sent_id = 907002
+1	”	_	Punctuation	Punctuation	_	16	U	_	_
+2	“	_	Punctuation	Punctuation	_	16	U	_	_
+3	Yes	_	Word	Word	_	16	A	_	_
+4	.	_	Punctuation	Punctuation	_	3	U	_	_
+5	.	_	Punctuation	Punctuation	_	3	U	_	_
+6	.	_	Punctuation	Punctuation	_	3	U	_	_
+7	indeed	_	Word	Word	_	3	D	_	_
+8	.	_	Punctuation	Punctuation	_	3	U	_	_
+9	.	_	Punctuation	Punctuation	_	3	U	_	_
+10	.	_	Punctuation	Punctuation	_	3	U	_	_
+11	maybe	_	Word	Word	_	3	D	_	_
+12	,	_	Punctuation	Punctuation	_	16	U	_	_
+13	”	_	Punctuation	Punctuation	_	16	U	_	_
+14	the	_	Word	Word	_	15	E	_	_
+15	Canadian	_	Word	Word	_	16	A	_	_
+16	replied	_	Word	Word	_	0	ROOT	_	_
+17	,	_	Punctuation	Punctuation	_	16	U	_	_
+18	staggered	_	Word	Word	_	15	E	_	_
+19	by	_	Word	Word	_	21	R	_	_
+20	these	_	Word	Word	_	21	E	_	_
+21	figures	_	Word	Word	_	18	A	_	_
+22	but	_	Word	Word	_	18	L	_	_
+23	still	_	Word	Word	_	27	D	_	_
+24	not	_	Word	Word	_	27	D	_	_
+25	willing	_	Word	Word	_	27	D	_	_
+26	to	_	Word	Word	_	27	F	_	_
+27	give	_	Word	Word	_	18	H	_	_
+28	in	_	Word	Word	_	27	Terminal	_	_
+29	.	_	Punctuation	Punctuation	_	27	U	_	_
+

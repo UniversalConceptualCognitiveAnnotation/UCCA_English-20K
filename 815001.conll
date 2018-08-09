@@ -1,0 +1,31 @@
+# format = ucca
+# sent_id = 815001
+1	I	_	Word	Word	_	7	A	_	_
+1	I	_	Word	Word	_	2	A	_	_
+2	wanted	_	Word	Word	_	0	ROOT	_	_
+3	nothing	_	Word	Word	_	2	D	_	_
+4	more	_	Word	Word	_	3	Terminal	_	_
+5	than	_	Word	Word	_	2	F	_	_
+6	to	_	Word	Word	_	7	F	_	_
+7	see	_	Word	Word	_	2	A	_	_
+8	my	_	Word	Word	_	9	E	_	_
+9	country	_	Word	Word	_	7	A	_	_
+10	again	_	Word	Word	_	7	D	_	_
+11	,	_	Punctuation	Punctuation	_	7	U	_	_
+12	my	_	Word	Word	_	13	E	_	_
+13	friends	_	Word	Word	_	9	C	_	_
+14	,	_	Punctuation	Punctuation	_	9	U	_	_
+15	my	_	Word	Word	_	17	E	_	_
+16	modest	_	Word	Word	_	17	E	_	_
+17	quarters	_	Word	Word	_	9	C	_	_
+18	by	_	Word	Word	_	21	R	_	_
+19	the	_	Word	Word	_	21	E	_	_
+20	Botanical	_	Word	Word	_	21	E	_	_
+21	Gardens	_	Word	Word	_	17	E	_	_
+22	,	_	Punctuation	Punctuation	_	9	U	_	_
+23	my	_	Word	Word	_	26	E	_	_
+24	dearly	_	Word	Word	_	26	E	_	_
+25	beloved	_	Word	Word	_	26	E	_	_
+26	collections	_	Word	Word	_	9	C	_	_
+27	!	_	Punctuation	Punctuation	_	26	U	_	_
+

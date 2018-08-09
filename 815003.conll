@@ -1,0 +1,29 @@
+# format = ucca
+# sent_id = 815003
+1	I	_	Word	Word	_	9	A	_	_
+1	I	_	Word	Word	_	2	A	_	_
+2	forgot	_	Word	Word	_	0	ROOT	_	_
+3	everything	_	Word	Word	_	2	A	_	_
+4	else	_	Word	Word	_	3	E	_	_
+5	,	_	Punctuation	Punctuation	_	2	U	_	_
+6	and	_	Word	Word	_	2	L	_	_
+7	without	_	Word	Word	_	2	L	_	_
+8	another	_	Word	Word	_	9	D	_	_
+9	thought	_	Word	Word	_	2	H	_	_
+10	of	_	Word	Word	_	11	R	_	_
+11	exhaustion	_	Word	Word	_	9	A	_	_
+12	,	_	Punctuation	Punctuation	_	11	U	_	_
+13	friends	_	Word	Word	_	11	C	_	_
+14	,	_	Punctuation	Punctuation	_	11	U	_	_
+15	or	_	Word	Word	_	11	N	_	_
+16	collections	_	Word	Word	_	11	C	_	_
+17	,	_	Punctuation	Punctuation	_	2	U	_	_
+18	I	_	Word	Word	_	19	A	_	_
+19	accepted	_	Word	Word	_	2	H	_	_
+20	the	_	Word	Word	_	24	E	_	_
+21	American	_	Word	Word	_	22	E	_	_
+22	government	_	Word	Word	_	24	E	_	_
+23	’s	_	Word	Word	_	22	R	_	_
+24	offer	_	Word	Word	_	19	A	_	_
+25	.	_	Punctuation	Punctuation	_	24	U	_	_
+
