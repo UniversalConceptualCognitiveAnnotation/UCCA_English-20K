@@ -1,6 +1,6 @@
 # format = ucca
 # sent_id = 826003
-1	“	_	Punctuation	Punctuation	_	2	U	_	_
+1	"	_	Punctuation	Punctuation	_	2	U	_	_
 2	Yes	_	Word	Word	_	0	ROOT	_	_
 3	,	_	Punctuation	Punctuation	_	2	U	_	_
 4	my	_	Word	Word	_	2	G	_	_
@@ -16,7 +16,7 @@
 14	ready	_	Word	Word	_	12	Terminal	_	_
 15	.	_	Punctuation	Punctuation	_	2	U	_	_
 16	We	_	Word	Word	_	18	A	_	_
-17	’re	_	Word	Word	_	18	F	_	_
+17	're	_	Word	Word	_	18	F	_	_
 18	departing	_	Word	Word	_	2	H	_	_
 19	in	_	Word	Word	_	21	R	_	_
 20	two	_	Word	Word	_	21	E	_	_

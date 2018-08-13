@@ -1,6 +1,6 @@
 # format = ucca
 # sent_id = 827000
-1	“	_	Punctuation	Punctuation	_	3	U	_	_
+1	"	_	Punctuation	Punctuation	_	3	U	_	_
 2	You	_	Word	Word	_	3	A	_	_
 3	see	_	Word	Word	_	0	ROOT	_	_
 4	,	_	Punctuation	Punctuation	_	3	U	_	_
@@ -8,7 +8,7 @@
 6	friend	_	Word	Word	_	5	Terminal	_	_
 7	,	_	Punctuation	Punctuation	_	3	U	_	_
 8	it	_	Word	Word	_	11	A	_	_
-9	’s	_	Word	Word	_	11	F	_	_
+9	's	_	Word	Word	_	11	F	_	_
 10	an	_	Word	Word	_	11	E	_	_
 11	issue	_	Word	Word	_	3	A	_	_
 12	of	_	Word	Word	_	14	R	_	_
@@ -20,7 +20,7 @@
 18	narwhale	_	Word	Word	_	14	E	_	_
 19	.	_	Punctuation	Punctuation	_	3	U	_	_
 20	We	_	Word	Word	_	24	A	_	_
-21	’re	_	Word	Word	_	24	F	_	_
+21	're	_	Word	Word	_	24	F	_	_
 22	going	_	Word	Word	_	24	F	_	_
 23	to	_	Word	Word	_	22	Terminal	_	_
 24	rid	_	Word	Word	_	3	H	_	_
@@ -61,7 +61,7 @@
 59	Farragut	_	Word	Word	_	55	A	_	_
 60	.	_	Punctuation	Punctuation	_	3	U	_	_
 61	It	_	Word	Word	_	64	A	_	_
-62	’s	_	Word	Word	_	64	F	_	_
+62	's	_	Word	Word	_	64	F	_	_
 63	a	_	Word	Word	_	65	E	_	_
 64	glorious	_	Word	Word	_	3	H	_	_
 65	mission	_	Word	Word	_	69	A	_	_
@@ -73,7 +73,7 @@
 71	!	_	Punctuation	Punctuation	_	3	U	_	_
 72	We	_	Word	Word	_	75	A	_	_
 73	do	_	Word	Word	_	75	F	_	_
-74	n’t	_	Word	Word	_	75	D	_	_
+74	n't	_	Word	Word	_	75	D	_	_
 75	know	_	Word	Word	_	3	H	_	_
 76	where	_	Word	Word	_	79	A	_	_
 77	it	_	Word	Word	_	79	A	_	_
@@ -90,7 +90,7 @@
 88	!	_	Punctuation	Punctuation	_	3	U	_	_
 89	But	_	Word	Word	_	3	L	_	_
 90	we	_	Word	Word	_	92	A	_	_
-91	’re	_	Word	Word	_	92	F	_	_
+91	're	_	Word	Word	_	92	F	_	_
 92	going	_	Word	Word	_	3	H	_	_
 93	just	_	Word	Word	_	92	D	_	_
 94	the	_	Word	Word	_	93	Terminal	_	_
@@ -101,10 +101,10 @@
 99	a	_	Word	Word	_	100	E	_	_
 100	commander	_	Word	Word	_	98	A	_	_
 101	who	_	Word	Word	_	103	R	_	_
-102	’s	_	Word	Word	_	103	F	_	_
+102	's	_	Word	Word	_	103	F	_	_
 103	game	_	Word	Word	_	100	E	_	_
 104	for	_	Word	Word	_	105	R	_	_
 105	anything	_	Word	Word	_	103	A	_	_
 106	!	_	Punctuation	Punctuation	_	105	U	_	_
-107	”	_	Punctuation	Punctuation	_	105	U	_	_
+107	"	_	Punctuation	Punctuation	_	105	U	_	_
 

@@ -12,8 +12,8 @@
 10	at	_	Word	Word	_	12	R	_	_
 11	feature	_	Word	Word	_	12	E	_	_
 12	articles	_	Word	Word	_	9	A	_	_
-13	from	_	Word	Word	_	32	R	_	_
 13	from	_	Word	Word	_	14	R	_	_
+13	from	_	Word	Word	_	32	R	_	_
 13	from	_	Word	Word	_	20	R	_	_
 14	the	_	Word	Word	_	12	E	_	_
 15	Geographic	_	Word	Word	_	14	Terminal	_	_

@@ -15,8 +15,8 @@
 13	I	_	Word	Word	_	5	H	_	_
 14	could	_	Word	Word	_	13	D	_	_
 15	,	_	Punctuation	Punctuation	_	5	U	_	_
-16	I	_	Word	Word	_	19	A	_	_
 16	I	_	Word	Word	_	25	A	_	_
+16	I	_	Word	Word	_	19	A	_	_
 17	wanted	_	Word	Word	_	19	D	_	_
 18	to	_	Word	Word	_	19	F	_	_
 19	protect	_	Word	Word	_	13	P	_	_
@@ -36,8 +36,8 @@
 33	,	_	Punctuation	Punctuation	_	32	U	_	_
 34	who	_	Word	Word	_	38	R	_	_
 35	when	_	Word	Word	_	38	L	_	_
-36	they	_	Word	Word	_	38	A	_	_
 36	they	_	Word	Word	_	40	A	_	_
+36	they	_	Word	Word	_	38	A	_	_
 37	do	_	Word	Word	_	38	D	_	_
 38	laugh	_	Word	Word	_	32	E	_	_
 39	,	_	Punctuation	Punctuation	_	38	U	_	_

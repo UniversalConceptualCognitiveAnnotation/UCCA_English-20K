@@ -1,6 +1,6 @@
 # format = ucca
 # sent_id = 903001
-1	“	_	Punctuation	Punctuation	_	3	U	_	_
+1	"	_	Punctuation	Punctuation	_	3	U	_	_
 2	Oh	_	Word	Word	_	3	F	_	_
 3	really	_	Word	Word	_	0	ROOT	_	_
 4	,	_	Punctuation	Punctuation	_	3	U	_	_
@@ -17,5 +17,5 @@
 15	simple	_	Word	Word	_	16	E	_	_
 16	figures	_	Word	Word	_	8	A	_	_
 17	.	_	Punctuation	Punctuation	_	16	U	_	_
-18	”	_	Punctuation	Punctuation	_	16	U	_	_
+18	"	_	Punctuation	Punctuation	_	16	U	_	_
 

@@ -1,6 +1,6 @@
 # format = ucca
 # sent_id = 307000
-1	“	_	Punctuation	Punctuation	_	8	U	_	_
+1	"	_	Punctuation	Punctuation	_	8	U	_	_
 2	So	_	Word	Word	_	8	L	_	_
 3	,	_	Punctuation	Punctuation	_	8	U	_	_
 4	until	_	Word	Word	_	8	L	_	_
@@ -14,9 +14,9 @@
 12	for	_	Word	Word	_	15	R	_	_
 13	a	_	Word	Word	_	15	E	_	_
 14	sea	_	Word	Word	_	15	E	_	_
-15	unicorn	_	Word	Word	_	18	A	_	_
 15	unicorn	_	Word	Word	_	22	A	_	_
 15	unicorn	_	Word	Word	_	31	A	_	_
+15	unicorn	_	Word	Word	_	18	A	_	_
 16	of	_	Word	Word	_	18	R	_	_
 17	colossal	_	Word	Word	_	18	D	_	_
 18	dimensions	_	Word	Word	_	15	E	_	_
@@ -42,7 +42,7 @@
 38	warships	_	Word	Word	_	35	C	_	_
 39	called	_	Word	Word	_	38	E	_	_
 40	'	_	Punctuation	Punctuation	_	39	U	_	_
-41	rams,’	_	Word	Word	_	39	A	_	_
+41	rams,'	_	Word	Word	_	39	A	_	_
 42	whose	_	Word	Word	_	49	R	_	_
 43	mass	_	Word	Word	_	49	A	_	_
 44	and	_	Word	Word	_	43	N	_	_

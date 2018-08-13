@@ -1,7 +1,7 @@
 # format = ucca
 # sent_id = 846000
 1	Three	_	Word	Word	_	2	E	_	_
-2	o’clock	_	Word	Word	_	4	T	_	_
+2	o'clock	_	Word	Word	_	4	T	_	_
 3	then	_	Word	Word	_	4	L	_	_
 4	sounded	_	Word	Word	_	0	ROOT	_	_
 5	.	_	Punctuation	Punctuation	_	4	U	_	_

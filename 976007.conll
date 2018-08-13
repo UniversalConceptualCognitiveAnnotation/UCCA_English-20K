@@ -32,10 +32,10 @@
 30	calm	_	Word	Word	_	31	E	_	_
 31	tone	_	Word	Word	_	25	D	_	_
 32	:	_	Punctuation	Punctuation	_	25	U	_	_
-33	“	_	Punctuation	Punctuation	_	25	U	_	_
+33	"	_	Punctuation	Punctuation	_	25	U	_	_
 34	If	_	Word	Word	_	41	L	_	_
 35	master	_	Word	Word	_	37	E	_	_
-36	’s	_	Word	Word	_	35	R	_	_
+36	's	_	Word	Word	_	35	R	_	_
 37	eyes	_	Word	Word	_	41	A	_	_
 38	would	_	Word	Word	_	41	F	_	_
 39	kindly	_	Word	Word	_	41	D	_	_
@@ -47,5 +47,5 @@
 45	see	_	Word	Word	_	41	H	_	_
 46	farther	_	Word	Word	_	45	D	_	_
 47	!	_	Punctuation	Punctuation	_	45	U	_	_
-48	”	_	Punctuation	Punctuation	_	45	U	_	_
+48	"	_	Punctuation	Punctuation	_	45	U	_	_
 

@@ -1,6 +1,6 @@
 # format = ucca
 # sent_id = 305000
-1	“	_	Punctuation	Punctuation	_	8	U	_	_
+1	"	_	Punctuation	Punctuation	_	8	U	_	_
 2	In	_	Word	Word	_	3	R	_	_
 3	essence	_	Word	Word	_	8	L	_	_
 4	,	_	Punctuation	Punctuation	_	8	U	_	_
@@ -26,7 +26,7 @@
 24	it	_	Word	Word	_	23	A	_	_
 25	.	_	Punctuation	Punctuation	_	8	U	_	_
 26	It	_	Word	Word	_	27	A	_	_
-27	’s	_	Word	Word	_	8	H	_	_
+27	's	_	Word	Word	_	8	H	_	_
 28	a	_	Word	Word	_	30	E	_	_
 29	king-sized	_	Word	Word	_	30	E	_	_
 30	tooth	_	Word	Word	_	27	A	_	_
@@ -38,8 +38,8 @@
 36	Some	_	Word	Word	_	39	E	_	_
 37	of	_	Word	Word	_	36	R	_	_
 38	these	_	Word	Word	_	39	E	_	_
-39	teeth	_	Word	Word	_	43	A	_	_
 39	teeth	_	Word	Word	_	59	C	_	_
+39	teeth	_	Word	Word	_	43	A	_	_
 40	have	_	Word	Word	_	42	F	_	_
 41	been	_	Word	Word	_	42	F	_	_
 42	found	_	Word	Word	_	8	H	_	_
@@ -102,8 +102,8 @@
 99	of	_	Word	Word	_	98	R	_	_
 100	these	_	Word	Word	_	101	E	_	_
 101	tusks	_	Word	Word	_	97	A	_	_
-102	with	_	Word	Word	_	116	R	_	_
 102	with	_	Word	Word	_	107	R	_	_
+102	with	_	Word	Word	_	116	R	_	_
 103	a	_	Word	Word	_	104	E	_	_
 104	length	_	Word	Word	_	107	E	_	_
 105	of	_	Word	Word	_	104	R	_	_

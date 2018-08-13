@@ -2,9 +2,9 @@
 # sent_id = 821004
 1	Moreover	_	Word	Word	_	4	L	_	_
 2	,	_	Punctuation	Punctuation	_	4	U	_	_
+3	he	_	Word	Word	_	17	A	_	_
 3	he	_	Word	Word	_	12	A	_	_
 3	he	_	Word	Word	_	4	A	_	_
-3	he	_	Word	Word	_	17	A	_	_
 4	enjoyed	_	Word	Word	_	0	ROOT	_	_
 5	excellent	_	Word	Word	_	6	E	_	_
 6	health	_	Word	Word	_	4	A	_	_
@@ -19,7 +19,7 @@
 15	,	_	Punctuation	Punctuation	_	4	U	_	_
 16	but	_	Word	Word	_	4	L	_	_
 17	had	_	Word	Word	_	4	H	_	_
-18	n’t	_	Word	Word	_	17	D	_	_
+18	n't	_	Word	Word	_	17	D	_	_
 19	a	_	Word	Word	_	20	E	_	_
 20	nerve	_	Word	Word	_	17	A	_	_
 21	in	_	Word	Word	_	17	D	_	_
@@ -30,7 +30,7 @@
 26	sign	_	Word	Word	_	28	E	_	_
 27	of	_	Word	Word	_	26	R	_	_
 28	nerves	_	Word	Word	_	20	E	_	_
-29	—	_	Punctuation	Punctuation	_	20	U	_	_
+29	-	_	Punctuation	Punctuation	_	20	U	_	_
 30	the	_	Word	Word	_	32	E	_	_
 31	mental	_	Word	Word	_	32	E	_	_
 32	type	_	Word	Word	_	20	E	_	_

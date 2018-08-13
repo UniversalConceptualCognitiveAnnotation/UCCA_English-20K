@@ -1,7 +1,7 @@
 # format = ucca
 # sent_id = 287001
-1	I	_	Word	Word	_	3	A	_	_
 1	I	_	Word	Word	_	15	A	_	_
+1	I	_	Word	Word	_	3	A	_	_
 2	had	_	Word	Word	_	3	F	_	_
 3	read	_	Word	Word	_	0	ROOT	_	_
 4	and	_	Word	Word	_	3	N	_	_

@@ -1,6 +1,6 @@
 # format = ucca
 # sent_id = 304000
-1	“	_	Punctuation	Punctuation	_	13	U	_	_
+1	"	_	Punctuation	Punctuation	_	13	U	_	_
 2	The	_	Word	Word	_	8	E	_	_
 2	The	_	Word	Word	_	4	E	_	_
 3	common	_	Word	Word	_	4	E	_	_
@@ -49,12 +49,12 @@
 46	the	_	Word	Word	_	47	E	_	_
 47	animal	_	Word	Word	_	45	A	_	_
 48	we	_	Word	Word	_	50	A	_	_
-49	’re	_	Word	Word	_	50	F	_	_
+49	're	_	Word	Word	_	50	F	_	_
 50	looking	_	Word	Word	_	47	E	_	_
 51	for	_	Word	Word	_	50	Terminal	_	_
 52	.	_	Punctuation	Punctuation	_	13	U	_	_
-53	It	_	Word	Word	_	76	A	_	_
 53	It	_	Word	Word	_	55	A	_	_
+53	It	_	Word	Word	_	76	A	_	_
 54	would	_	Word	Word	_	55	D	_	_
 55	have	_	Word	Word	_	13	H	_	_
 56	the	_	Word	Word	_	57	E	_	_
@@ -82,7 +82,7 @@
 78	pierce	_	Word	Word	_	76	A	_	_
 79	a	_	Word	Word	_	82	E	_	_
 80	steamer	_	Word	Word	_	82	E	_	_
-81	’s	_	Word	Word	_	80	R	_	_
+81	's	_	Word	Word	_	80	R	_	_
 82	hull	_	Word	Word	_	78	A	_	_
 83	.	_	Punctuation	Punctuation	_	82	U	_	_
 

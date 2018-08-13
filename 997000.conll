@@ -1,8 +1,8 @@
 # format = ucca
 # sent_id = 997000
-1	“	_	Punctuation	Punctuation	_	4	U	_	_
+1	"	_	Punctuation	Punctuation	_	4	U	_	_
 2	You	_	Word	Word	_	4	A	_	_
-3	’re	_	Word	Word	_	4	F	_	_
+3	're	_	Word	Word	_	4	F	_	_
 4	right	_	Word	Word	_	0	ROOT	_	_
 5	,	_	Punctuation	Punctuation	_	4	U	_	_
 6	Conseil	_	Word	Word	_	4	G	_	_
@@ -48,14 +48,14 @@
 44	could	_	Word	Word	_	47	D	_	_
 45	have	_	Word	Word	_	47	F	_	_
 46	been	_	Word	Word	_	47	F	_	_
-47	back	_	Word	Word	_	55	S	_	_
 47	back	_	Word	Word	_	64	S	_	_
+47	back	_	Word	Word	_	55	S	_	_
 48	in	_	Word	Word	_	49	R	_	_
-49	France—	_	Word	Word	_	47	A	_	_
+49	France-	_	Word	Word	_	47	A	_	_
 50	"	_	Punctuation	Punctuation	_	4	U	_	_
 51	"	_	Punctuation	Punctuation	_	4	U	_	_
 52	In	_	Word	Word	_	55	R	_	_
-53	master’s	_	Word	Word	_	55	E	_	_
+53	master's	_	Word	Word	_	55	E	_	_
 54	little	_	Word	Word	_	55	E	_	_
 55	apartment	_	Word	Word	_	59	A	_	_
 56	,	_	Punctuation	Punctuation	_	59	U	_	_
@@ -65,7 +65,7 @@
 60	.	_	Punctuation	Punctuation	_	59	U	_	_
 61	"	_	Punctuation	Punctuation	_	59	U	_	_
 62	In	_	Word	Word	_	64	R	_	_
-63	master’s	_	Word	Word	_	64	E	_	_
+63	master's	_	Word	Word	_	64	E	_	_
 64	museum	_	Word	Word	_	55	H	_	_
 65	!	_	Punctuation	Punctuation	_	55	U	_	_
 66	And	_	Word	Word	_	55	L	_	_
@@ -75,11 +75,11 @@
 70	would	_	Word	Word	_	72	D	_	_
 71	have	_	Word	Word	_	72	F	_	_
 72	classified	_	Word	Word	_	55	H	_	_
-73	master’s	_	Word	Word	_	74	E	_	_
+73	master's	_	Word	Word	_	74	E	_	_
 74	fossils	_	Word	Word	_	72	A	_	_
 75	.	_	Punctuation	Punctuation	_	55	U	_	_
 76	And	_	Word	Word	_	55	L	_	_
-77	master’s	_	Word	Word	_	78	E	_	_
+77	master's	_	Word	Word	_	78	E	_	_
 78	babirusa	_	Word	Word	_	81	A	_	_
 79	would	_	Word	Word	_	81	D	_	_
 80	be	_	Word	Word	_	81	F	_	_

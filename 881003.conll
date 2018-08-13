@@ -18,12 +18,12 @@
 16	with	_	Word	Word	_	17	R	_	_
 17	sailors	_	Word	Word	_	15	A	_	_
 18	whose	_	Word	Word	_	20	R	_	_
-19	feet	_	Word	Word	_	20	A	_	_
 19	feet	_	Word	Word	_	24	A	_	_
+19	feet	_	Word	Word	_	20	A	_	_
 20	itched	_	Word	Word	_	17	E	_	_
 21	and	_	Word	Word	_	20	L	_	_
 22	could	_	Word	Word	_	24	D	_	_
-23	n’t	_	Word	Word	_	24	D	_	_
+23	n't	_	Word	Word	_	24	D	_	_
 24	hold	_	Word	Word	_	20	H	_	_
 25	still	_	Word	Word	_	24	Terminal	_	_
 26	on	_	Word	Word	_	28	R	_	_

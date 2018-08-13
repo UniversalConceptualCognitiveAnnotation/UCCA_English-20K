@@ -1,10 +1,10 @@
 # format = ucca
 # sent_id = 896000
 1	The	_	Word	Word	_	2	E	_	_
+2	harpooner	_	Word	Word	_	8	A	_	_
+2	harpooner	_	Word	Word	_	21	A	_	_
 2	harpooner	_	Word	Word	_	10	A	_	_
 2	harpooner	_	Word	Word	_	27	A	_	_
-2	harpooner	_	Word	Word	_	21	A	_	_
-2	harpooner	_	Word	Word	_	8	A	_	_
 3	stared	_	Word	Word	_	0	ROOT	_	_
 4	at	_	Word	Word	_	5	R	_	_
 5	me	_	Word	Word	_	3	A	_	_
@@ -36,12 +36,12 @@
 31	finally	_	Word	Word	_	3	L	_	_
 32	said	_	Word	Word	_	3	H	_	_
 33	:	_	Punctuation	Punctuation	_	32	U	_	_
-34	“	_	Punctuation	Punctuation	_	32	U	_	_
+34	"	_	Punctuation	Punctuation	_	32	U	_	_
 35	Just	_	Word	Word	_	32	A	_	_
 36	maybe	_	Word	Word	_	35	D	_	_
 37	,	_	Punctuation	Punctuation	_	35	U	_	_
 38	Professor	_	Word	Word	_	35	G	_	_
 39	Aronnax	_	Word	Word	_	38	Terminal	_	_
 40	.	_	Punctuation	Punctuation	_	35	U	_	_
-41	”	_	Punctuation	Punctuation	_	35	U	_	_
+41	"	_	Punctuation	Punctuation	_	35	U	_	_
 
