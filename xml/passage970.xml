@@ -39,7 +39,7 @@
       <attributes paragraph="1" paragraph_position="12" text="Land" />
     </node>
     <node ID="0.13" type="Word">
-      <attributes paragraph="1" paragraph_position="13" text="&#8217;s" />
+      <attributes paragraph="1" paragraph_position="13" text="&apos;s" />
     </node>
     <node ID="0.14" type="Word">
       <attributes paragraph="1" paragraph_position="14" text="harpoon" />
@@ -54,7 +54,7 @@
       <attributes paragraph="1" paragraph_position="17" text="would" />
     </node>
     <node ID="0.18" type="Word">
-      <attributes paragraph="1" paragraph_position="18" text="n&#8217;t" />
+      <attributes paragraph="1" paragraph_position="18" text="n&apos;t" />
     </node>
     <node ID="0.19" type="Word">
       <attributes paragraph="1" paragraph_position="19" text="bet" />

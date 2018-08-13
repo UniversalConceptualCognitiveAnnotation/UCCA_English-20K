@@ -9,7 +9,7 @@
       <attributes paragraph="1" paragraph_position="2" text="frigate" />
     </node>
     <node ID="0.3" type="Word">
-      <attributes paragraph="1" paragraph_position="3" text="&#8217;s" />
+      <attributes paragraph="1" paragraph_position="3" text="&apos;s" />
     </node>
     <node ID="0.4" type="Word">
       <attributes paragraph="1" paragraph_position="4" text="interior" />
@@ -87,7 +87,7 @@
       <attributes paragraph="1" paragraph_position="28" text="the" />
     </node>
     <node ID="0.29" type="Word">
-      <attributes paragraph="1" paragraph_position="29" text="officers&#8217;" />
+      <attributes paragraph="1" paragraph_position="29" text="officers&apos;" />
     </node>
     <node ID="0.30" type="Word">
       <attributes paragraph="1" paragraph_position="30" text="mess" />

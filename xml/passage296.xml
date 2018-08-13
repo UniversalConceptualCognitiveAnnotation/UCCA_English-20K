@@ -273,7 +273,7 @@
       <attributes paragraph="1" paragraph_position="90" text="flat" />
     </node>
     <node ID="0.91" type="Punctuation">
-      <attributes paragraph="1" paragraph_position="91" text="&#8220;" />
+      <attributes paragraph="1" paragraph_position="91" text="&quot;" />
     </node>
     <node ID="0.92" type="Word">
       <attributes paragraph="1" paragraph_position="92" text="no" />
@@ -285,7 +285,7 @@
       <attributes paragraph="1" paragraph_position="94" text="." />
     </node>
     <node ID="0.95" type="Punctuation">
-      <attributes paragraph="1" paragraph_position="95" text="&#8221;" />
+      <attributes paragraph="1" paragraph_position="95" text="&quot;" />
     </node>
     <node ID="0.96" type="Word">
       <attributes paragraph="1" paragraph_position="96" text="But" />
@@ -351,7 +351,7 @@
       <attributes paragraph="1" paragraph_position="116" text="," />
     </node>
     <node ID="0.117" type="Punctuation">
-      <attributes paragraph="1" paragraph_position="117" text="&#8220;" />
+      <attributes paragraph="1" paragraph_position="117" text="&quot;" />
     </node>
     <node ID="0.118" type="Word">
       <attributes paragraph="1" paragraph_position="118" text="the" />
@@ -387,7 +387,7 @@
       <attributes paragraph="1" paragraph_position="128" text="," />
     </node>
     <node ID="0.129" type="Punctuation">
-      <attributes paragraph="1" paragraph_position="129" text="&#8221;" />
+      <attributes paragraph="1" paragraph_position="129" text="&quot;" />
     </node>
     <node ID="0.130" type="Word">
       <attributes paragraph="1" paragraph_position="130" text="was" />

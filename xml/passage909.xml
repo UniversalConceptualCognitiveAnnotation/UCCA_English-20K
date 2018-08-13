@@ -336,7 +336,7 @@
       <attributes paragraph="1" paragraph_position="111" text="it" />
     </node>
     <node ID="0.112" type="Punctuation">
-      <attributes paragraph="1" paragraph_position="112" text="&#8212;" />
+      <attributes paragraph="1" paragraph_position="112" text="-" />
     </node>
     <node ID="0.113" type="Word">
       <attributes paragraph="1" paragraph_position="113" text="which" />
@@ -351,7 +351,7 @@
       <attributes paragraph="1" paragraph_position="116" text="Land" />
     </node>
     <node ID="0.117" type="Word">
-      <attributes paragraph="1" paragraph_position="117" text="&#8217;s" />
+      <attributes paragraph="1" paragraph_position="117" text="&apos;s" />
     </node>
     <node ID="0.118" type="Word">
       <attributes paragraph="1" paragraph_position="118" text="business" />
@@ -381,7 +381,7 @@
       <attributes paragraph="1" paragraph_position="126" text="it" />
     </node>
     <node ID="0.127" type="Punctuation">
-      <attributes paragraph="1" paragraph_position="127" text="&#8212;" />
+      <attributes paragraph="1" paragraph_position="127" text="-" />
     </node>
     <node ID="0.128" type="Word">
       <attributes paragraph="1" paragraph_position="128" text="which" />
@@ -396,7 +396,7 @@
       <attributes paragraph="1" paragraph_position="131" text="crew" />
     </node>
     <node ID="0.132" type="Word">
-      <attributes paragraph="1" paragraph_position="132" text="&#8217;s" />
+      <attributes paragraph="1" paragraph_position="132" text="&apos;s" />
     </node>
     <node ID="0.133" type="Word">
       <attributes paragraph="1" paragraph_position="133" text="business" />
@@ -429,7 +429,7 @@
       <attributes paragraph="1" paragraph_position="142" text="it" />
     </node>
     <node ID="0.143" type="Punctuation">
-      <attributes paragraph="1" paragraph_position="143" text="&#8212;" />
+      <attributes paragraph="1" paragraph_position="143" text="-" />
     </node>
     <node ID="0.144" type="Word">
       <attributes paragraph="1" paragraph_position="144" text="which" />

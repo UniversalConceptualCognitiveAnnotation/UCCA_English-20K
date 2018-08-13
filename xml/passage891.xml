@@ -3,7 +3,7 @@
   <layer layerID="0">
     <attributes />
     <node ID="0.1" type="Word">
-      <attributes paragraph="1" paragraph_position="1" text="I&#8217;" />
+      <attributes paragraph="1" paragraph_position="1" text="I&apos;" />
     </node>
     <node ID="0.2" type="Word">
       <attributes paragraph="1" paragraph_position="2" text="m" />
@@ -48,7 +48,7 @@
       <attributes paragraph="1" paragraph_position="15" text="we" />
     </node>
     <node ID="0.16" type="Word">
-      <attributes paragraph="1" paragraph_position="16" text="&#8217;ve" />
+      <attributes paragraph="1" paragraph_position="16" text="&apos;ve" />
     </node>
     <node ID="0.17" type="Word">
       <attributes paragraph="1" paragraph_position="17" text="become" />

@@ -36,7 +36,7 @@
       <attributes paragraph="1" paragraph_position="11" text="Hobson" />
     </node>
     <node ID="0.12" type="Word">
-      <attributes paragraph="1" paragraph_position="12" text="&#8217;s" />
+      <attributes paragraph="1" paragraph_position="12" text="&apos;s" />
     </node>
     <node ID="0.13" type="Word">
       <attributes paragraph="1" paragraph_position="13" text="letter" />

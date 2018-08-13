@@ -96,7 +96,7 @@
       <attributes paragraph="1" paragraph_position="31" text="could" />
     </node>
     <node ID="0.32" type="Word">
-      <attributes paragraph="1" paragraph_position="32" text="n&#8217;t" />
+      <attributes paragraph="1" paragraph_position="32" text="n&apos;t" />
     </node>
     <node ID="0.33" type="Word">
       <attributes paragraph="1" paragraph_position="33" text="negotiate" />
@@ -114,13 +114,13 @@
       <attributes paragraph="1" paragraph_position="37" text="because" />
     </node>
     <node ID="0.38" type="Punctuation">
-      <attributes paragraph="1" paragraph_position="38" text="&#8220;" />
+      <attributes paragraph="1" paragraph_position="38" text="&quot;" />
     </node>
     <node ID="0.39" type="Word">
       <attributes paragraph="1" paragraph_position="39" text="he" />
     </node>
     <node ID="0.40" type="Word">
-      <attributes paragraph="1" paragraph_position="40" text="&#8217;s" />
+      <attributes paragraph="1" paragraph_position="40" text="&apos;s" />
     </node>
     <node ID="0.41" type="Word">
       <attributes paragraph="1" paragraph_position="41" text="too" />
@@ -138,7 +138,7 @@
       <attributes paragraph="1" paragraph_position="45" text="!" />
     </node>
     <node ID="0.46" type="Punctuation">
-      <attributes paragraph="1" paragraph_position="46" text="&#8221;" />
+      <attributes paragraph="1" paragraph_position="46" text="&quot;" />
     </node>
   </layer>
   <layer layerID="1">

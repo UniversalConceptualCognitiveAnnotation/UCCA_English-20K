@@ -24,7 +24,7 @@
       <attributes paragraph="1" paragraph_position="7" text="25" />
     </node>
     <node ID="0.8" type="Punctuation">
-      <attributes paragraph="1" paragraph_position="8" text="&#8212;" />
+      <attributes paragraph="1" paragraph_position="8" text="-" />
     </node>
     <node ID="0.9" type="Word">
       <attributes paragraph="1" paragraph_position="9" text="in" />
@@ -54,7 +54,7 @@
       <attributes paragraph="1" paragraph_position="17" text="departure" />
     </node>
     <node ID="0.18" type="Punctuation">
-      <attributes paragraph="1" paragraph_position="18" text="&#8212;" />
+      <attributes paragraph="1" paragraph_position="18" text="-" />
     </node>
     <node ID="0.19" type="Word">
       <attributes paragraph="1" paragraph_position="19" text="the" />

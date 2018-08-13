@@ -3,7 +3,7 @@
   <layer layerID="0">
     <attributes />
     <node ID="0.1" type="Punctuation">
-      <attributes paragraph="1" paragraph_position="1" text="&#8220;" />
+      <attributes paragraph="1" paragraph_position="1" text="&quot;" />
     </node>
     <node ID="0.2" type="Word">
       <attributes paragraph="1" paragraph_position="2" text="The" />
@@ -147,7 +147,7 @@
       <attributes paragraph="1" paragraph_position="48" text="we" />
     </node>
     <node ID="0.49" type="Word">
-      <attributes paragraph="1" paragraph_position="49" text="&#8217;re" />
+      <attributes paragraph="1" paragraph_position="49" text="&apos;re" />
     </node>
     <node ID="0.50" type="Word">
       <attributes paragraph="1" paragraph_position="50" text="looking" />
@@ -243,7 +243,7 @@
       <attributes paragraph="1" paragraph_position="80" text="steamer" />
     </node>
     <node ID="0.81" type="Word">
-      <attributes paragraph="1" paragraph_position="81" text="&#8217;s" />
+      <attributes paragraph="1" paragraph_position="81" text="&apos;s" />
     </node>
     <node ID="0.82" type="Word">
       <attributes paragraph="1" paragraph_position="82" text="hull" />

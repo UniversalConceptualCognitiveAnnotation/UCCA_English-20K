@@ -243,7 +243,7 @@
       <attributes paragraph="1" paragraph_position="80" text="world" />
     </node>
     <node ID="0.81" type="Word">
-      <attributes paragraph="1" paragraph_position="81" text="&#8217;s" />
+      <attributes paragraph="1" paragraph_position="81" text="&apos;s" />
     </node>
     <node ID="0.82" type="Word">
       <attributes paragraph="1" paragraph_position="82" text="most" />

@@ -3,13 +3,13 @@
   <layer layerID="0">
     <attributes />
     <node ID="0.1" type="Punctuation">
-      <attributes paragraph="1" paragraph_position="1" text="&#8220;" />
+      <attributes paragraph="1" paragraph_position="1" text="&quot;" />
     </node>
     <node ID="0.2" type="Word">
       <attributes paragraph="1" paragraph_position="2" text="You" />
     </node>
     <node ID="0.3" type="Word">
-      <attributes paragraph="1" paragraph_position="3" text="&#8217;re" />
+      <attributes paragraph="1" paragraph_position="3" text="&apos;re" />
     </node>
     <node ID="0.4" type="Word">
       <attributes paragraph="1" paragraph_position="4" text="right" />
@@ -147,7 +147,7 @@
       <attributes paragraph="1" paragraph_position="48" text="in" />
     </node>
     <node ID="0.49" type="Word">
-      <attributes paragraph="1" paragraph_position="49" text="France&#8212;" />
+      <attributes paragraph="1" paragraph_position="49" text="France-" />
     </node>
     <node ID="0.50" type="Punctuation">
       <attributes paragraph="1" paragraph_position="50" text="&quot;" />
@@ -159,7 +159,7 @@
       <attributes paragraph="1" paragraph_position="52" text="In" />
     </node>
     <node ID="0.53" type="Word">
-      <attributes paragraph="1" paragraph_position="53" text="master&#8217;s" />
+      <attributes paragraph="1" paragraph_position="53" text="master&apos;s" />
     </node>
     <node ID="0.54" type="Word">
       <attributes paragraph="1" paragraph_position="54" text="little" />
@@ -189,7 +189,7 @@
       <attributes paragraph="1" paragraph_position="62" text="In" />
     </node>
     <node ID="0.63" type="Word">
-      <attributes paragraph="1" paragraph_position="63" text="master&#8217;s" />
+      <attributes paragraph="1" paragraph_position="63" text="master&apos;s" />
     </node>
     <node ID="0.64" type="Word">
       <attributes paragraph="1" paragraph_position="64" text="museum" />
@@ -219,7 +219,7 @@
       <attributes paragraph="1" paragraph_position="72" text="classified" />
     </node>
     <node ID="0.73" type="Word">
-      <attributes paragraph="1" paragraph_position="73" text="master&#8217;s" />
+      <attributes paragraph="1" paragraph_position="73" text="master&apos;s" />
     </node>
     <node ID="0.74" type="Word">
       <attributes paragraph="1" paragraph_position="74" text="fossils" />
@@ -231,7 +231,7 @@
       <attributes paragraph="1" paragraph_position="76" text="And" />
     </node>
     <node ID="0.77" type="Word">
-      <attributes paragraph="1" paragraph_position="77" text="master&#8217;s" />
+      <attributes paragraph="1" paragraph_position="77" text="master&apos;s" />
     </node>
     <node ID="0.78" type="Word">
       <attributes paragraph="1" paragraph_position="78" text="babirusa" />
@@ -336,7 +336,7 @@
       <attributes paragraph="1" paragraph_position="111" text="and" />
     </node>
     <node ID="0.112" type="Word">
-      <attributes paragraph="1" paragraph_position="112" text="what&#8217;s" />
+      <attributes paragraph="1" paragraph_position="112" text="what&apos;s" />
     </node>
     <node ID="0.113" type="Word">
       <attributes paragraph="1" paragraph_position="113" text="more" />
@@ -429,7 +429,7 @@
       <attributes paragraph="1" paragraph_position="142" text="they" />
     </node>
     <node ID="0.143" type="Word">
-      <attributes paragraph="1" paragraph_position="143" text="&#8217;ll" />
+      <attributes paragraph="1" paragraph_position="143" text="&apos;ll" />
     </node>
     <node ID="0.144" type="Word">
       <attributes paragraph="1" paragraph_position="144" text="have" />
@@ -444,7 +444,7 @@
       <attributes paragraph="1" paragraph_position="147" text="master" />
     </node>
     <node ID="0.148" type="Word">
-      <attributes paragraph="1" paragraph_position="148" text="&#8217;s" />
+      <attributes paragraph="1" paragraph_position="148" text="&apos;s" />
     </node>
     <node ID="0.149" type="Word">
       <attributes paragraph="1" paragraph_position="149" text="expense" />
@@ -600,7 +600,7 @@
       <attributes paragraph="1" paragraph_position="199" text="must" />
     </node>
     <node ID="0.200" type="Word">
-      <attributes paragraph="1" paragraph_position="200" text="n&#8217;t" />
+      <attributes paragraph="1" paragraph_position="200" text="n&apos;t" />
     </node>
     <node ID="0.201" type="Word">
       <attributes paragraph="1" paragraph_position="201" text="lay" />
@@ -612,7 +612,7 @@
       <attributes paragraph="1" paragraph_position="203" text="open" />
     </node>
     <node ID="0.204" type="Word">
-      <attributes paragraph="1" paragraph_position="204" text="to&#8212;" />
+      <attributes paragraph="1" paragraph_position="204" text="to-" />
     </node>
     <node ID="0.205" type="Punctuation">
       <attributes paragraph="1" paragraph_position="205" text="&quot;" />

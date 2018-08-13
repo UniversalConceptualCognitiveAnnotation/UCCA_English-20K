@@ -81,7 +81,7 @@
       <attributes paragraph="1" paragraph_position="26" text="had" />
     </node>
     <node ID="0.27" type="Word">
-      <attributes paragraph="1" paragraph_position="27" text="n&#8217;t" />
+      <attributes paragraph="1" paragraph_position="27" text="n&apos;t" />
     </node>
     <node ID="0.28" type="Word">
       <attributes paragraph="1" paragraph_position="28" text="seen" />
@@ -378,7 +378,7 @@
       <attributes paragraph="1" paragraph_position="125" text="few" />
     </node>
     <node ID="0.126" type="Word">
-      <attributes paragraph="1" paragraph_position="126" text="minutes&#8217;" />
+      <attributes paragraph="1" paragraph_position="126" text="minutes&apos;" />
     </node>
     <node ID="0.127" type="Word">
       <attributes paragraph="1" paragraph_position="127" text="chase" />

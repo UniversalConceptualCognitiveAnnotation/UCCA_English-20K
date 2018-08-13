@@ -180,7 +180,7 @@
       <attributes paragraph="1" paragraph_position="59" text="of" />
     </node>
     <node ID="0.60" type="Punctuation">
-      <attributes paragraph="1" paragraph_position="60" text="&#8220;" />
+      <attributes paragraph="1" paragraph_position="60" text="&quot;" />
     </node>
     <node ID="0.61" type="Word">
       <attributes paragraph="1" paragraph_position="61" text="the" />
@@ -192,7 +192,7 @@
       <attributes paragraph="1" paragraph_position="63" text="." />
     </node>
     <node ID="0.64" type="Punctuation">
-      <attributes paragraph="1" paragraph_position="64" text="&#8221;" />
+      <attributes paragraph="1" paragraph_position="64" text="&quot;" />
     </node>
   </layer>
   <layer layerID="1">

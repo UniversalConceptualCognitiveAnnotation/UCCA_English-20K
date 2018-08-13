@@ -198,7 +198,7 @@
       <attributes paragraph="1" paragraph_position="65" text="Lloyd" />
     </node>
     <node ID="0.66" type="Word">
-      <attributes paragraph="1" paragraph_position="66" text="&#8217;s" />
+      <attributes paragraph="1" paragraph_position="66" text="&apos;s" />
     </node>
     <node ID="0.67" type="Word">
       <attributes paragraph="1" paragraph_position="67" text="List" />
@@ -210,7 +210,7 @@
       <attributes paragraph="1" paragraph_position="69" text="France" />
     </node>
     <node ID="0.70" type="Word">
-      <attributes paragraph="1" paragraph_position="70" text="&#8217;s" />
+      <attributes paragraph="1" paragraph_position="70" text="&apos;s" />
     </node>
     <node ID="0.71" type="Word">
       <attributes paragraph="1" paragraph_position="71" text="Packetboat" />
@@ -255,7 +255,7 @@
       <attributes paragraph="1" paragraph_position="84" text="companies" />
     </node>
     <node ID="0.85" type="Punctuation">
-      <attributes paragraph="1" paragraph_position="85" text="&#8212;" />
+      <attributes paragraph="1" paragraph_position="85" text="-" />
     </node>
     <node ID="0.86" type="Word">
       <attributes paragraph="1" paragraph_position="86" text="who" />
@@ -279,7 +279,7 @@
       <attributes paragraph="1" paragraph_position="92" text="rates" />
     </node>
     <node ID="0.93" type="Punctuation">
-      <attributes paragraph="1" paragraph_position="93" text="&#8212;" />
+      <attributes paragraph="1" paragraph_position="93" text="-" />
     </node>
     <node ID="0.94" type="Word">
       <attributes paragraph="1" paragraph_position="94" text="were" />

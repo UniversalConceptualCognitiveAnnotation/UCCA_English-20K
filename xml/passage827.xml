@@ -3,7 +3,7 @@
   <layer layerID="0">
     <attributes />
     <node ID="0.1" type="Punctuation">
-      <attributes paragraph="1" paragraph_position="1" text="&#8220;" />
+      <attributes paragraph="1" paragraph_position="1" text="&quot;" />
     </node>
     <node ID="0.2" type="Word">
       <attributes paragraph="1" paragraph_position="2" text="You" />
@@ -27,7 +27,7 @@
       <attributes paragraph="1" paragraph_position="8" text="it" />
     </node>
     <node ID="0.9" type="Word">
-      <attributes paragraph="1" paragraph_position="9" text="&#8217;s" />
+      <attributes paragraph="1" paragraph_position="9" text="&apos;s" />
     </node>
     <node ID="0.10" type="Word">
       <attributes paragraph="1" paragraph_position="10" text="an" />
@@ -63,7 +63,7 @@
       <attributes paragraph="1" paragraph_position="20" text="We" />
     </node>
     <node ID="0.21" type="Word">
-      <attributes paragraph="1" paragraph_position="21" text="&#8217;re" />
+      <attributes paragraph="1" paragraph_position="21" text="&apos;re" />
     </node>
     <node ID="0.22" type="Word">
       <attributes paragraph="1" paragraph_position="22" text="going" />
@@ -186,7 +186,7 @@
       <attributes paragraph="1" paragraph_position="61" text="It" />
     </node>
     <node ID="0.62" type="Word">
-      <attributes paragraph="1" paragraph_position="62" text="&#8217;s" />
+      <attributes paragraph="1" paragraph_position="62" text="&apos;s" />
     </node>
     <node ID="0.63" type="Word">
       <attributes paragraph="1" paragraph_position="63" text="a" />
@@ -222,7 +222,7 @@
       <attributes paragraph="1" paragraph_position="73" text="do" />
     </node>
     <node ID="0.74" type="Word">
-      <attributes paragraph="1" paragraph_position="74" text="n&#8217;t" />
+      <attributes paragraph="1" paragraph_position="74" text="n&apos;t" />
     </node>
     <node ID="0.75" type="Word">
       <attributes paragraph="1" paragraph_position="75" text="know" />
@@ -273,7 +273,7 @@
       <attributes paragraph="1" paragraph_position="90" text="we" />
     </node>
     <node ID="0.91" type="Word">
-      <attributes paragraph="1" paragraph_position="91" text="&#8217;re" />
+      <attributes paragraph="1" paragraph_position="91" text="&apos;re" />
     </node>
     <node ID="0.92" type="Word">
       <attributes paragraph="1" paragraph_position="92" text="going" />
@@ -306,7 +306,7 @@
       <attributes paragraph="1" paragraph_position="101" text="who" />
     </node>
     <node ID="0.102" type="Word">
-      <attributes paragraph="1" paragraph_position="102" text="&#8217;s" />
+      <attributes paragraph="1" paragraph_position="102" text="&apos;s" />
     </node>
     <node ID="0.103" type="Word">
       <attributes paragraph="1" paragraph_position="103" text="game" />
@@ -321,7 +321,7 @@
       <attributes paragraph="1" paragraph_position="106" text="!" />
     </node>
     <node ID="0.107" type="Punctuation">
-      <attributes paragraph="1" paragraph_position="107" text="&#8221;" />
+      <attributes paragraph="1" paragraph_position="107" text="&quot;" />
     </node>
   </layer>
   <layer layerID="1">

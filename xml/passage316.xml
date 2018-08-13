@@ -177,7 +177,7 @@
       <attributes paragraph="1" paragraph_position="58" text="day" />
     </node>
     <node ID="0.59" type="Word">
-      <attributes paragraph="1" paragraph_position="59" text="&#8217;s" />
+      <attributes paragraph="1" paragraph_position="59" text="&apos;s" />
     </node>
     <node ID="0.60" type="Word">
       <attributes paragraph="1" paragraph_position="60" text="delay" />

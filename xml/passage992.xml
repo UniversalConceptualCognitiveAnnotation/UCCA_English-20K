@@ -30,7 +30,7 @@
       <attributes paragraph="1" paragraph_position="9" text="&#176;" />
     </node>
     <node ID="0.10" type="Word">
-      <attributes paragraph="1" paragraph_position="10" text="15&#8242;" />
+      <attributes paragraph="1" paragraph_position="10" text="15&apos;" />
     </node>
     <node ID="0.11" type="Word">
       <attributes paragraph="1" paragraph_position="11" text="north" />
@@ -48,7 +48,7 @@
       <attributes paragraph="1" paragraph_position="15" text="&#176;" />
     </node>
     <node ID="0.16" type="Word">
-      <attributes paragraph="1" paragraph_position="16" text="42&#8242;" />
+      <attributes paragraph="1" paragraph_position="16" text="42&apos;" />
     </node>
     <node ID="0.17" type="Word">
       <attributes paragraph="1" paragraph_position="17" text="east" />
@@ -114,7 +114,7 @@
       <attributes paragraph="1" paragraph_position="37" text="Eight" />
     </node>
     <node ID="0.38" type="Word">
-      <attributes paragraph="1" paragraph_position="38" text="o&#8217;clock" />
+      <attributes paragraph="1" paragraph_position="38" text="o&apos;clock" />
     </node>
     <node ID="0.39" type="Word">
       <attributes paragraph="1" paragraph_position="39" text="had" />
@@ -141,7 +141,7 @@
       <attributes paragraph="1" paragraph_position="46" text="the" />
     </node>
     <node ID="0.47" type="Word">
-      <attributes paragraph="1" paragraph_position="47" text="moon&#8217;s" />
+      <attributes paragraph="1" paragraph_position="47" text="moon&apos;s" />
     </node>
     <node ID="0.48" type="Word">
       <attributes paragraph="1" paragraph_position="48" text="disk" />
@@ -186,7 +186,7 @@
       <attributes paragraph="1" paragraph_position="61" text="the" />
     </node>
     <node ID="0.62" type="Word">
-      <attributes paragraph="1" paragraph_position="62" text="frigate&#8217;s" />
+      <attributes paragraph="1" paragraph_position="62" text="frigate&apos;s" />
     </node>
     <node ID="0.63" type="Word">
       <attributes paragraph="1" paragraph_position="63" text="stempost" />

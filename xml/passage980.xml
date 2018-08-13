@@ -3,7 +3,7 @@
   <layer layerID="0">
     <attributes />
     <node ID="0.1" type="Punctuation">
-      <attributes paragraph="1" paragraph_position="1" text="&#8220;" />
+      <attributes paragraph="1" paragraph_position="1" text="&quot;" />
     </node>
     <node ID="0.2" type="Word">
       <attributes paragraph="1" paragraph_position="2" text="Bah" />
@@ -12,7 +12,7 @@
       <attributes paragraph="1" paragraph_position="3" text="!" />
     </node>
     <node ID="0.4" type="Punctuation">
-      <attributes paragraph="1" paragraph_position="4" text="&#8221;" />
+      <attributes paragraph="1" paragraph_position="4" text="&quot;" />
     </node>
     <node ID="0.5" type="Word">
       <attributes paragraph="1" paragraph_position="5" text="he" />
@@ -24,13 +24,13 @@
       <attributes paragraph="1" paragraph_position="7" text="." />
     </node>
     <node ID="0.8" type="Punctuation">
-      <attributes paragraph="1" paragraph_position="8" text="&#8220;" />
+      <attributes paragraph="1" paragraph_position="8" text="&quot;" />
     </node>
     <node ID="0.9" type="Word">
       <attributes paragraph="1" paragraph_position="9" text="Nothing" />
     </node>
     <node ID="0.10" type="Word">
-      <attributes paragraph="1" paragraph_position="10" text="&#8217;s" />
+      <attributes paragraph="1" paragraph_position="10" text="&apos;s" />
     </node>
     <node ID="0.11" type="Word">
       <attributes paragraph="1" paragraph_position="11" text="out" />
@@ -102,7 +102,7 @@
       <attributes paragraph="1" paragraph_position="33" text="Can" />
     </node>
     <node ID="0.34" type="Word">
-      <attributes paragraph="1" paragraph_position="34" text="&#8217;t" />
+      <attributes paragraph="1" paragraph_position="34" text="&apos;t" />
     </node>
     <node ID="0.35" type="Word">
       <attributes paragraph="1" paragraph_position="35" text="you" />
@@ -114,7 +114,7 @@
       <attributes paragraph="1" paragraph_position="37" text="we" />
     </node>
     <node ID="0.38" type="Word">
-      <attributes paragraph="1" paragraph_position="38" text="&#8217;re" />
+      <attributes paragraph="1" paragraph_position="38" text="&apos;re" />
     </node>
     <node ID="0.39" type="Word">
       <attributes paragraph="1" paragraph_position="39" text="just" />
@@ -144,7 +144,7 @@
       <attributes paragraph="1" paragraph_position="47" text="they" />
     </node>
     <node ID="0.48" type="Word">
-      <attributes paragraph="1" paragraph_position="48" text="&#8217;ve" />
+      <attributes paragraph="1" paragraph_position="48" text="&apos;ve" />
     </node>
     <node ID="0.49" type="Word">
       <attributes paragraph="1" paragraph_position="49" text="sighted" />
@@ -177,13 +177,13 @@
       <attributes paragraph="1" paragraph_position="58" text="seas" />
     </node>
     <node ID="0.59" type="Punctuation">
-      <attributes paragraph="1" paragraph_position="59" text="&#8212;" />
+      <attributes paragraph="1" paragraph_position="59" text="-" />
     </node>
     <node ID="0.60" type="Word">
       <attributes paragraph="1" paragraph_position="60" text="I" />
     </node>
     <node ID="0.61" type="Word">
-      <attributes paragraph="1" paragraph_position="61" text="&#8217;m" />
+      <attributes paragraph="1" paragraph_position="61" text="&apos;m" />
     </node>
     <node ID="0.62" type="Word">
       <attributes paragraph="1" paragraph_position="62" text="truly" />
@@ -249,7 +249,7 @@
       <attributes paragraph="1" paragraph_position="82" text="narwhale" />
     </node>
     <node ID="0.83" type="Word">
-      <attributes paragraph="1" paragraph_position="83" text="&#8217;s" />
+      <attributes paragraph="1" paragraph_position="83" text="&apos;s" />
     </node>
     <node ID="0.84" type="Word">
       <attributes paragraph="1" paragraph_position="84" text="personality" />
@@ -303,7 +303,7 @@
       <attributes paragraph="1" paragraph_position="100" text="It" />
     </node>
     <node ID="0.101" type="Word">
-      <attributes paragraph="1" paragraph_position="101" text="&#8217;s" />
+      <attributes paragraph="1" paragraph_position="101" text="&apos;s" />
     </node>
     <node ID="0.102" type="Word">
       <attributes paragraph="1" paragraph_position="102" text="blessed" />
@@ -372,7 +372,7 @@
       <attributes paragraph="1" paragraph_position="123" text="does" />
     </node>
     <node ID="0.124" type="Word">
-      <attributes paragraph="1" paragraph_position="124" text="n&#8217;t" />
+      <attributes paragraph="1" paragraph_position="124" text="n&apos;t" />
     </node>
     <node ID="0.125" type="Word">
       <attributes paragraph="1" paragraph_position="125" text="violate" />
@@ -396,7 +396,7 @@
       <attributes paragraph="1" paragraph_position="131" text="would" />
     </node>
     <node ID="0.132" type="Word">
-      <attributes paragraph="1" paragraph_position="132" text="n&#8217;t" />
+      <attributes paragraph="1" paragraph_position="132" text="n&apos;t" />
     </node>
     <node ID="0.133" type="Word">
       <attributes paragraph="1" paragraph_position="133" text="give" />
@@ -438,7 +438,7 @@
       <attributes paragraph="1" paragraph_position="145" text="had" />
     </node>
     <node ID="0.146" type="Word">
-      <attributes paragraph="1" paragraph_position="146" text="n&#8217;t" />
+      <attributes paragraph="1" paragraph_position="146" text="n&apos;t" />
     </node>
     <node ID="0.147" type="Word">
       <attributes paragraph="1" paragraph_position="147" text="a" />
@@ -486,7 +486,7 @@
       <attributes paragraph="1" paragraph_position="161" text="it" />
     </node>
     <node ID="0.162" type="Word">
-      <attributes paragraph="1" paragraph_position="162" text="&#8217;s" />
+      <attributes paragraph="1" paragraph_position="162" text="&apos;s" />
     </node>
     <node ID="0.163" type="Word">
       <attributes paragraph="1" paragraph_position="163" text="already" />
@@ -501,7 +501,7 @@
       <attributes paragraph="1" paragraph_position="166" text="!" />
     </node>
     <node ID="0.167" type="Punctuation">
-      <attributes paragraph="1" paragraph_position="167" text="&#8221;" />
+      <attributes paragraph="1" paragraph_position="167" text="&quot;" />
     </node>
   </layer>
   <layer layerID="1">

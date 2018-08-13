@@ -270,10 +270,10 @@
       <attributes paragraph="1" paragraph_position="89" text="avoid" />
     </node>
     <node ID="0.90" type="Punctuation">
-      <attributes paragraph="1" paragraph_position="90" text="&#8212;" />
+      <attributes paragraph="1" paragraph_position="90" text="-" />
     </node>
     <node ID="0.91" type="Punctuation">
-      <attributes paragraph="1" paragraph_position="91" text="&#8220;" />
+      <attributes paragraph="1" paragraph_position="91" text="&quot;" />
     </node>
     <node ID="0.92" type="Word">
       <attributes paragraph="1" paragraph_position="92" text="No" />
@@ -285,7 +285,7 @@
       <attributes paragraph="1" paragraph_position="94" text="," />
     </node>
     <node ID="0.95" type="Punctuation">
-      <attributes paragraph="1" paragraph_position="95" text="&#8221;" />
+      <attributes paragraph="1" paragraph_position="95" text="&quot;" />
     </node>
     <node ID="0.96" type="Word">
       <attributes paragraph="1" paragraph_position="96" text="our" />
@@ -300,7 +300,7 @@
       <attributes paragraph="1" paragraph_position="99" text="," />
     </node>
     <node ID="0.100" type="Punctuation">
-      <attributes paragraph="1" paragraph_position="100" text="&#8220;" />
+      <attributes paragraph="1" paragraph_position="100" text="&quot;" />
     </node>
     <node ID="0.101" type="Word">
       <attributes paragraph="1" paragraph_position="101" text="because" />
@@ -312,7 +312,7 @@
       <attributes paragraph="1" paragraph_position="103" text="is" />
     </node>
     <node ID="0.104" type="Word">
-      <attributes paragraph="1" paragraph_position="104" text="n&#8217;t" />
+      <attributes paragraph="1" paragraph_position="104" text="n&apos;t" />
     </node>
     <node ID="0.105" type="Word">
       <attributes paragraph="1" paragraph_position="105" text="enough" />
@@ -330,7 +330,7 @@
       <attributes paragraph="1" paragraph_position="109" text="!" />
     </node>
     <node ID="0.110" type="Punctuation">
-      <attributes paragraph="1" paragraph_position="110" text="&#8221;" />
+      <attributes paragraph="1" paragraph_position="110" text="&quot;" />
     </node>
     <node ID="0.111" type="Word">
       <attributes paragraph="1" paragraph_position="111" text="So" />

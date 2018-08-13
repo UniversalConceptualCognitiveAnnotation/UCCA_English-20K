@@ -18,7 +18,7 @@
       <attributes paragraph="1" paragraph_position="5" text="could" />
     </node>
     <node ID="0.6" type="Word">
-      <attributes paragraph="1" paragraph_position="6" text="n&#8217;t" />
+      <attributes paragraph="1" paragraph_position="6" text="n&apos;t" />
     </node>
     <node ID="0.7" type="Word">
       <attributes paragraph="1" paragraph_position="7" text="drag" />
@@ -141,7 +141,7 @@
       <attributes paragraph="1" paragraph_position="46" text="were" />
     </node>
     <node ID="0.47" type="Word">
-      <attributes paragraph="1" paragraph_position="47" text="n&#8217;t" />
+      <attributes paragraph="1" paragraph_position="47" text="n&apos;t" />
     </node>
     <node ID="0.48" type="Word">
       <attributes paragraph="1" paragraph_position="48" text="responsible" />

@@ -30,7 +30,7 @@
       <attributes paragraph="1" paragraph_position="9" text="coast" />
     </node>
     <node ID="0.10" type="Punctuation">
-      <attributes paragraph="1" paragraph_position="10" text="&#8212;" />
+      <attributes paragraph="1" paragraph_position="10" text="-" />
     </node>
     <node ID="0.11" type="Word">
       <attributes paragraph="1" paragraph_position="11" text="the" />
@@ -75,7 +75,7 @@
       <attributes paragraph="1" paragraph_position="24" text="homes" />
     </node>
     <node ID="0.25" type="Punctuation">
-      <attributes paragraph="1" paragraph_position="25" text="&#8212;" />
+      <attributes paragraph="1" paragraph_position="25" text="-" />
     </node>
     <node ID="0.26" type="Word">
       <attributes paragraph="1" paragraph_position="26" text="and" />

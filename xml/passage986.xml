@@ -189,7 +189,7 @@
       <attributes paragraph="1" paragraph_position="62" text="had" />
     </node>
     <node ID="0.63" type="Word">
-      <attributes paragraph="1" paragraph_position="63" text="n&#8217;t" />
+      <attributes paragraph="1" paragraph_position="63" text="n&apos;t" />
     </node>
     <node ID="0.64" type="Word">
       <attributes paragraph="1" paragraph_position="64" text="been" />
@@ -204,7 +204,7 @@
       <attributes paragraph="1" paragraph_position="67" text="Farragut" />
     </node>
     <node ID="0.68" type="Word">
-      <attributes paragraph="1" paragraph_position="68" text="&#8217;s" />
+      <attributes paragraph="1" paragraph_position="68" text="&apos;s" />
     </node>
     <node ID="0.69" type="Word">
       <attributes paragraph="1" paragraph_position="69" text="characteristic" />

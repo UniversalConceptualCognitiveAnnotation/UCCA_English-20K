@@ -3,7 +3,7 @@
   <layer layerID="0">
     <attributes />
     <node ID="0.1" type="Punctuation">
-      <attributes paragraph="1" paragraph_position="1" text="&#8220;" />
+      <attributes paragraph="1" paragraph_position="1" text="&quot;" />
     </node>
     <node ID="0.2" type="Word">
       <attributes paragraph="1" paragraph_position="2" text="I" />
@@ -12,7 +12,7 @@
       <attributes paragraph="1" paragraph_position="3" text="have" />
     </node>
     <node ID="0.4" type="Word">
-      <attributes paragraph="1" paragraph_position="4" text="n&#8217;t" />
+      <attributes paragraph="1" paragraph_position="4" text="n&apos;t" />
     </node>
     <node ID="0.5" type="Word">
       <attributes paragraph="1" paragraph_position="5" text="the" />
@@ -36,10 +36,10 @@
       <attributes paragraph="1" paragraph_position="11" text="." />
     </node>
     <node ID="0.12" type="Punctuation">
-      <attributes paragraph="1" paragraph_position="12" text="&#8221;" />
+      <attributes paragraph="1" paragraph_position="12" text="&quot;" />
     </node>
     <node ID="0.13" type="Punctuation">
-      <attributes paragraph="1" paragraph_position="13" text="&#8220;" />
+      <attributes paragraph="1" paragraph_position="13" text="&quot;" />
     </node>
     <node ID="0.14" type="Word">
       <attributes paragraph="1" paragraph_position="14" text="About" />
@@ -51,10 +51,10 @@
       <attributes paragraph="1" paragraph_position="16" text="." />
     </node>
     <node ID="0.17" type="Punctuation">
-      <attributes paragraph="1" paragraph_position="17" text="&#8221;" />
+      <attributes paragraph="1" paragraph_position="17" text="&quot;" />
     </node>
     <node ID="0.18" type="Punctuation">
-      <attributes paragraph="1" paragraph_position="18" text="&#8220;" />
+      <attributes paragraph="1" paragraph_position="18" text="&quot;" />
     </node>
     <node ID="0.19" type="Word">
       <attributes paragraph="1" paragraph_position="19" text="As" />
@@ -72,10 +72,10 @@
       <attributes paragraph="1" paragraph_position="23" text="?" />
     </node>
     <node ID="0.24" type="Punctuation">
-      <attributes paragraph="1" paragraph_position="24" text="&#8221;" />
+      <attributes paragraph="1" paragraph_position="24" text="&quot;" />
     </node>
     <node ID="0.25" type="Punctuation">
-      <attributes paragraph="1" paragraph_position="25" text="&#8220;" />
+      <attributes paragraph="1" paragraph_position="25" text="&quot;" />
     </node>
     <node ID="0.26" type="Word">
       <attributes paragraph="1" paragraph_position="26" text="Yes" />
@@ -96,7 +96,7 @@
       <attributes paragraph="1" paragraph_position="31" text="atmosphere" />
     </node>
     <node ID="0.32" type="Word">
-      <attributes paragraph="1" paragraph_position="32" text="&#8217;s" />
+      <attributes paragraph="1" paragraph_position="32" text="&apos;s" />
     </node>
     <node ID="0.33" type="Word">
       <attributes paragraph="1" paragraph_position="33" text="pressure" />
@@ -174,10 +174,10 @@
       <attributes paragraph="1" paragraph_position="57" text="." />
     </node>
     <node ID="0.58" type="Punctuation">
-      <attributes paragraph="1" paragraph_position="58" text="&#8221;" />
+      <attributes paragraph="1" paragraph_position="58" text="&quot;" />
     </node>
     <node ID="0.59" type="Punctuation">
-      <attributes paragraph="1" paragraph_position="59" text="&#8220;" />
+      <attributes paragraph="1" paragraph_position="59" text="&quot;" />
     </node>
     <node ID="0.60" type="Word">
       <attributes paragraph="1" paragraph_position="60" text="Without" />
@@ -195,10 +195,10 @@
       <attributes paragraph="1" paragraph_position="64" text="?" />
     </node>
     <node ID="0.65" type="Punctuation">
-      <attributes paragraph="1" paragraph_position="65" text="&#8221;" />
+      <attributes paragraph="1" paragraph_position="65" text="&quot;" />
     </node>
     <node ID="0.66" type="Punctuation">
-      <attributes paragraph="1" paragraph_position="66" text="&#8220;" />
+      <attributes paragraph="1" paragraph_position="66" text="&quot;" />
     </node>
     <node ID="0.67" type="Word">
       <attributes paragraph="1" paragraph_position="67" text="Without" />
@@ -228,7 +228,7 @@
       <attributes paragraph="1" paragraph_position="75" text="are" />
     </node>
     <node ID="0.76" type="Word">
-      <attributes paragraph="1" paragraph_position="76" text="n&#8217;t" />
+      <attributes paragraph="1" paragraph_position="76" text="n&apos;t" />
     </node>
     <node ID="0.77" type="Word">
       <attributes paragraph="1" paragraph_position="77" text="crushed" />
@@ -252,7 +252,7 @@
       <attributes paragraph="1" paragraph_position="83" text="it" />
     </node>
     <node ID="0.84" type="Word">
-      <attributes paragraph="1" paragraph_position="84" text="&#8217;s" />
+      <attributes paragraph="1" paragraph_position="84" text="&apos;s" />
     </node>
     <node ID="0.85" type="Word">
       <attributes paragraph="1" paragraph_position="85" text="because" />
@@ -381,7 +381,7 @@
       <attributes paragraph="1" paragraph_position="126" text="it" />
     </node>
     <node ID="0.127" type="Word">
-      <attributes paragraph="1" paragraph_position="127" text="&#8217;s" />
+      <attributes paragraph="1" paragraph_position="127" text="&apos;s" />
     </node>
     <node ID="0.128" type="Word">
       <attributes paragraph="1" paragraph_position="128" text="another" />
@@ -393,10 +393,10 @@
       <attributes paragraph="1" paragraph_position="130" text="." />
     </node>
     <node ID="0.131" type="Punctuation">
-      <attributes paragraph="1" paragraph_position="131" text="&#8221;" />
+      <attributes paragraph="1" paragraph_position="131" text="&quot;" />
     </node>
     <node ID="0.132" type="Punctuation">
-      <attributes paragraph="1" paragraph_position="132" text="&#8220;" />
+      <attributes paragraph="1" paragraph_position="132" text="&quot;" />
     </node>
     <node ID="0.133" type="Word">
       <attributes paragraph="1" paragraph_position="133" text="Yes" />
@@ -414,7 +414,7 @@
       <attributes paragraph="1" paragraph_position="137" text="," />
     </node>
     <node ID="0.138" type="Punctuation">
-      <attributes paragraph="1" paragraph_position="138" text="&#8221;" />
+      <attributes paragraph="1" paragraph_position="138" text="&quot;" />
     </node>
     <node ID="0.139" type="Word">
       <attributes paragraph="1" paragraph_position="139" text="Ned" />
@@ -438,7 +438,7 @@
       <attributes paragraph="1" paragraph_position="145" text="." />
     </node>
     <node ID="0.146" type="Punctuation">
-      <attributes paragraph="1" paragraph_position="146" text="&#8220;" />
+      <attributes paragraph="1" paragraph_position="146" text="&quot;" />
     </node>
     <node ID="0.147" type="Word">
       <attributes paragraph="1" paragraph_position="147" text="Because" />
@@ -462,7 +462,7 @@
       <attributes paragraph="1" paragraph_position="153" text="does" />
     </node>
     <node ID="0.154" type="Word">
-      <attributes paragraph="1" paragraph_position="154" text="n&#8217;t" />
+      <attributes paragraph="1" paragraph_position="154" text="n&apos;t" />
     </node>
     <node ID="0.155" type="Word">
       <attributes paragraph="1" paragraph_position="155" text="penetrate" />
@@ -474,10 +474,10 @@
       <attributes paragraph="1" paragraph_position="157" text="." />
     </node>
     <node ID="0.158" type="Punctuation">
-      <attributes paragraph="1" paragraph_position="158" text="&#8221;" />
+      <attributes paragraph="1" paragraph_position="158" text="&quot;" />
     </node>
     <node ID="0.159" type="Punctuation">
-      <attributes paragraph="1" paragraph_position="159" text="&#8220;" />
+      <attributes paragraph="1" paragraph_position="159" text="&quot;" />
     </node>
     <node ID="0.160" type="Word">
       <attributes paragraph="1" paragraph_position="160" text="Precisely" />
@@ -528,7 +528,7 @@
       <attributes paragraph="1" paragraph_position="175" text="you" />
     </node>
     <node ID="0.176" type="Word">
-      <attributes paragraph="1" paragraph_position="176" text="&#8217;ll" />
+      <attributes paragraph="1" paragraph_position="176" text="&apos;ll" />
     </node>
     <node ID="0.177" type="Word">
       <attributes paragraph="1" paragraph_position="177" text="undergo" />
@@ -585,7 +585,7 @@
       <attributes paragraph="1" paragraph_position="194" text="it" />
     </node>
     <node ID="0.195" type="Word">
-      <attributes paragraph="1" paragraph_position="195" text="&#8217;s" />
+      <attributes paragraph="1" paragraph_position="195" text="&apos;s" />
     </node>
     <node ID="0.196" type="Word">
       <attributes paragraph="1" paragraph_position="196" text="175,680" />
@@ -630,7 +630,7 @@
       <attributes paragraph="1" paragraph_position="209" text="it" />
     </node>
     <node ID="0.210" type="Word">
-      <attributes paragraph="1" paragraph_position="210" text="&#8217;s" />
+      <attributes paragraph="1" paragraph_position="210" text="&apos;s" />
     </node>
     <node ID="0.211" type="Word">
       <attributes paragraph="1" paragraph_position="211" text="1,756,800" />
@@ -681,7 +681,7 @@
       <attributes paragraph="1" paragraph_position="226" text="it" />
     </node>
     <node ID="0.227" type="Word">
-      <attributes paragraph="1" paragraph_position="227" text="&#8217;s" />
+      <attributes paragraph="1" paragraph_position="227" text="&apos;s" />
     </node>
     <node ID="0.228" type="Word">
       <attributes paragraph="1" paragraph_position="228" text="17,568,000" />
@@ -708,7 +708,7 @@
       <attributes paragraph="1" paragraph_position="235" text="you" />
     </node>
     <node ID="0.236" type="Word">
-      <attributes paragraph="1" paragraph_position="236" text="&#8217;d" />
+      <attributes paragraph="1" paragraph_position="236" text="&apos;d" />
     </node>
     <node ID="0.237" type="Word">
       <attributes paragraph="1" paragraph_position="237" text="be" />
@@ -732,7 +732,7 @@
       <attributes paragraph="1" paragraph_position="243" text="you" />
     </node>
     <node ID="0.244" type="Word">
-      <attributes paragraph="1" paragraph_position="244" text="&#8217;d" />
+      <attributes paragraph="1" paragraph_position="244" text="&apos;d" />
     </node>
     <node ID="0.245" type="Word">
       <attributes paragraph="1" paragraph_position="245" text="just" />
@@ -771,10 +771,10 @@
       <attributes paragraph="1" paragraph_position="256" text="!" />
     </node>
     <node ID="0.257" type="Punctuation">
-      <attributes paragraph="1" paragraph_position="257" text="&#8221;" />
+      <attributes paragraph="1" paragraph_position="257" text="&quot;" />
     </node>
     <node ID="0.258" type="Punctuation">
-      <attributes paragraph="1" paragraph_position="258" text="&#8220;" />
+      <attributes paragraph="1" paragraph_position="258" text="&quot;" />
     </node>
     <node ID="0.259" type="Word">
       <attributes paragraph="1" paragraph_position="259" text="Fire" />
@@ -789,7 +789,7 @@
       <attributes paragraph="1" paragraph_position="262" text="!" />
     </node>
     <node ID="0.263" type="Punctuation">
-      <attributes paragraph="1" paragraph_position="263" text="&#8221;" />
+      <attributes paragraph="1" paragraph_position="263" text="&quot;" />
     </node>
     <node ID="0.264" type="Word">
       <attributes paragraph="1" paragraph_position="264" text="Ned" />

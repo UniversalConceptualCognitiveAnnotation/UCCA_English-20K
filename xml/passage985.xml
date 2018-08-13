@@ -42,7 +42,7 @@
       <attributes paragraph="1" paragraph_position="13" text="of" />
     </node>
     <node ID="0.14" type="Word">
-      <attributes paragraph="1" paragraph_position="14" text="people&#8217;s" />
+      <attributes paragraph="1" paragraph_position="14" text="people&apos;s" />
     </node>
     <node ID="0.15" type="Word">
       <attributes paragraph="1" paragraph_position="15" text="minds" />
@@ -129,7 +129,7 @@
       <attributes paragraph="1" paragraph_position="42" text="themselves" />
     </node>
     <node ID="0.43" type="Word">
-      <attributes paragraph="1" paragraph_position="43" text="&#8220;out-and-out" />
+      <attributes paragraph="1" paragraph_position="43" text="&quot;out-and-out" />
     </node>
     <node ID="0.44" type="Word">
       <attributes paragraph="1" paragraph_position="44" text="fools" />

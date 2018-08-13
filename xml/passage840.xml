@@ -15,7 +15,7 @@
       <attributes paragraph="1" paragraph_position="4" text="did" />
     </node>
     <node ID="0.5" type="Word">
-      <attributes paragraph="1" paragraph_position="5" text="n&#8217;t" />
+      <attributes paragraph="1" paragraph_position="5" text="n&apos;t" />
     </node>
     <node ID="0.6" type="Word">
       <attributes paragraph="1" paragraph_position="6" text="want" />

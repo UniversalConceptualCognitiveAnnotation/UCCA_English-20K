@@ -201,7 +201,7 @@
       <attributes paragraph="1" paragraph_position="66" text="giants" />
     </node>
     <node ID="0.67" type="Punctuation">
-      <attributes paragraph="1" paragraph_position="67" text="&#8212;" />
+      <attributes paragraph="1" paragraph_position="67" text="-" />
     </node>
     <node ID="0.68" type="Word">
       <attributes paragraph="1" paragraph_position="68" text="next" />
@@ -501,7 +501,7 @@
       <attributes paragraph="1" paragraph_position="166" text="could" />
     </node>
     <node ID="0.167" type="Word">
-      <attributes paragraph="1" paragraph_position="167" text="n&#8217;t" />
+      <attributes paragraph="1" paragraph_position="167" text="n&apos;t" />
     </node>
     <node ID="0.168" type="Word">
       <attributes paragraph="1" paragraph_position="168" text="the" />
@@ -588,7 +588,7 @@
       <attributes paragraph="1" paragraph_position="195" text="Could" />
     </node>
     <node ID="0.196" type="Word">
-      <attributes paragraph="1" paragraph_position="196" text="n&#8217;t" />
+      <attributes paragraph="1" paragraph_position="196" text="n&apos;t" />
     </node>
     <node ID="0.197" type="Word">
       <attributes paragraph="1" paragraph_position="197" text="the" />

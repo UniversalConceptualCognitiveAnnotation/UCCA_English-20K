@@ -3,7 +3,7 @@
   <layer layerID="0">
     <attributes />
     <node ID="0.1" type="Punctuation">
-      <attributes paragraph="1" paragraph_position="1" text="&#8220;" />
+      <attributes paragraph="1" paragraph_position="1" text="&quot;" />
     </node>
     <node ID="0.2" type="Word">
       <attributes paragraph="1" paragraph_position="2" text="So" />
@@ -24,7 +24,7 @@
       <attributes paragraph="1" paragraph_position="7" text="," />
     </node>
     <node ID="0.8" type="Punctuation">
-      <attributes paragraph="1" paragraph_position="8" text="&#8221;" />
+      <attributes paragraph="1" paragraph_position="8" text="&quot;" />
     </node>
     <node ID="0.9" type="Word">
       <attributes paragraph="1" paragraph_position="9" text="Ned" />
@@ -51,13 +51,13 @@
       <attributes paragraph="1" paragraph_position="16" text="," />
     </node>
     <node ID="0.17" type="Punctuation">
-      <attributes paragraph="1" paragraph_position="17" text="&#8220;" />
+      <attributes paragraph="1" paragraph_position="17" text="&quot;" />
     </node>
     <node ID="0.18" type="Word">
       <attributes paragraph="1" paragraph_position="18" text="you" />
     </node>
     <node ID="0.19" type="Word">
-      <attributes paragraph="1" paragraph_position="19" text="&#8217;ll" />
+      <attributes paragraph="1" paragraph_position="19" text="&apos;ll" />
     </node>
     <node ID="0.20" type="Word">
       <attributes paragraph="1" paragraph_position="20" text="just" />
@@ -105,10 +105,10 @@
       <attributes paragraph="1" paragraph_position="34" text="?" />
     </node>
     <node ID="0.35" type="Punctuation">
-      <attributes paragraph="1" paragraph_position="35" text="&#8221;" />
+      <attributes paragraph="1" paragraph_position="35" text="&quot;" />
     </node>
     <node ID="0.36" type="Punctuation">
-      <attributes paragraph="1" paragraph_position="36" text="&#8220;" />
+      <attributes paragraph="1" paragraph_position="36" text="&quot;" />
     </node>
     <node ID="0.37" type="Word">
       <attributes paragraph="1" paragraph_position="37" text="Yes" />
@@ -282,7 +282,7 @@
       <attributes paragraph="1" paragraph_position="93" text="." />
     </node>
     <node ID="0.94" type="Punctuation">
-      <attributes paragraph="1" paragraph_position="94" text="&#8221;" />
+      <attributes paragraph="1" paragraph_position="94" text="&quot;" />
     </node>
   </layer>
   <layer layerID="1">

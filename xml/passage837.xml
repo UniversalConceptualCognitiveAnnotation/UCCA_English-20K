@@ -3,13 +3,13 @@
   <layer layerID="0">
     <attributes />
     <node ID="0.1" type="Punctuation">
-      <attributes paragraph="1" paragraph_position="1" text="&#8220;" />
+      <attributes paragraph="1" paragraph_position="1" text="&quot;" />
     </node>
     <node ID="0.2" type="Word">
       <attributes paragraph="1" paragraph_position="2" text="We" />
     </node>
     <node ID="0.3" type="Word">
-      <attributes paragraph="1" paragraph_position="3" text="&#8217;ll" />
+      <attributes paragraph="1" paragraph_position="3" text="&apos;ll" />
     </node>
     <node ID="0.4" type="Word">
       <attributes paragraph="1" paragraph_position="4" text="be" />
@@ -27,7 +27,7 @@
       <attributes paragraph="1" paragraph_position="8" text="," />
     </node>
     <node ID="0.9" type="Punctuation">
-      <attributes paragraph="1" paragraph_position="9" text="&#8221;" />
+      <attributes paragraph="1" paragraph_position="9" text="&quot;" />
     </node>
     <node ID="0.10" type="Word">
       <attributes paragraph="1" paragraph_position="10" text="I" />
@@ -42,7 +42,7 @@
       <attributes paragraph="1" paragraph_position="13" text="." />
     </node>
     <node ID="0.14" type="Punctuation">
-      <attributes paragraph="1" paragraph_position="14" text="&#8220;" />
+      <attributes paragraph="1" paragraph_position="14" text="&quot;" />
     </node>
     <node ID="0.15" type="Word">
       <attributes paragraph="1" paragraph_position="15" text="With" />
@@ -66,7 +66,7 @@
       <attributes paragraph="1" paragraph_position="21" text="," />
     </node>
     <node ID="0.22" type="Punctuation">
-      <attributes paragraph="1" paragraph_position="22" text="&#8221;" />
+      <attributes paragraph="1" paragraph_position="22" text="&quot;" />
     </node>
     <node ID="0.23" type="Word">
       <attributes paragraph="1" paragraph_position="23" text="Conseil" />
@@ -78,7 +78,7 @@
       <attributes paragraph="1" paragraph_position="25" text="," />
     </node>
     <node ID="0.26" type="Punctuation">
-      <attributes paragraph="1" paragraph_position="26" text="&#8220;" />
+      <attributes paragraph="1" paragraph_position="26" text="&quot;" />
     </node>
     <node ID="0.27" type="Word">
       <attributes paragraph="1" paragraph_position="27" text="as" />
@@ -120,7 +120,7 @@
       <attributes paragraph="1" paragraph_position="39" text="." />
     </node>
     <node ID="0.40" type="Punctuation">
-      <attributes paragraph="1" paragraph_position="40" text="&#8221;" />
+      <attributes paragraph="1" paragraph_position="40" text="&quot;" />
     </node>
   </layer>
   <layer layerID="1">

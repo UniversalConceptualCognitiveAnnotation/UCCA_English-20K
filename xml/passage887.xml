@@ -42,7 +42,7 @@
       <attributes paragraph="1" paragraph_position="13" text="height" />
     </node>
     <node ID="0.14" type="Punctuation">
-      <attributes paragraph="1" paragraph_position="14" text="&#8212;" />
+      <attributes paragraph="1" paragraph_position="14" text="-" />
     </node>
     <node ID="0.15" type="Word">
       <attributes paragraph="1" paragraph_position="15" text="over" />
@@ -57,7 +57,7 @@
       <attributes paragraph="1" paragraph_position="18" text="feet" />
     </node>
     <node ID="0.19" type="Punctuation">
-      <attributes paragraph="1" paragraph_position="19" text="&#8212;" />
+      <attributes paragraph="1" paragraph_position="19" text="-" />
     </node>
     <node ID="0.20" type="Word">
       <attributes paragraph="1" paragraph_position="20" text="he" />

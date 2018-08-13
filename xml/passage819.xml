@@ -141,7 +141,7 @@
       <attributes paragraph="1" paragraph_position="46" text="life" />
     </node>
     <node ID="0.47" type="Word">
-      <attributes paragraph="1" paragraph_position="47" text="&#8217;s" />
+      <attributes paragraph="1" paragraph_position="47" text="&apos;s" />
     </node>
     <node ID="0.48" type="Word">
       <attributes paragraph="1" paragraph_position="48" text="surprises" />
@@ -210,7 +210,7 @@
       <attributes paragraph="1" paragraph_position="69" text="means" />
     </node>
     <node ID="0.70" type="Punctuation">
-      <attributes paragraph="1" paragraph_position="70" text="&#8220;" />
+      <attributes paragraph="1" paragraph_position="70" text="&quot;" />
     </node>
     <node ID="0.71" type="Word">
       <attributes paragraph="1" paragraph_position="71" text="counsel" />
@@ -219,7 +219,7 @@
       <attributes paragraph="1" paragraph_position="72" text="," />
     </node>
     <node ID="0.73" type="Punctuation">
-      <attributes paragraph="1" paragraph_position="73" text="&#8221;" />
+      <attributes paragraph="1" paragraph_position="73" text="&quot;" />
     </node>
     <node ID="0.74" type="Word">
       <attributes paragraph="1" paragraph_position="74" text="never" />
@@ -231,7 +231,7 @@
       <attributes paragraph="1" paragraph_position="76" text="advice" />
     </node>
     <node ID="0.77" type="Punctuation">
-      <attributes paragraph="1" paragraph_position="77" text="&#8212;" />
+      <attributes paragraph="1" paragraph_position="77" text="-" />
     </node>
     <node ID="0.78" type="Word">
       <attributes paragraph="1" paragraph_position="78" text="not" />
