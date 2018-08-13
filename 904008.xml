@@ -84,7 +84,7 @@
       <extra orig_paragraph="1" />
     </node>
     <node ID="0.21" type="Punctuation">
-      <attributes paragraph="1" paragraph_position="21" text="&#8221;" />
+      <attributes paragraph="1" paragraph_position="21" text="&quot;" />
       <extra orig_paragraph="1" />
     </node>
   </layer>

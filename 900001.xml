@@ -16,11 +16,11 @@
       <extra orig_paragraph="1" />
     </node>
     <node ID="0.4" type="Punctuation">
-      <attributes paragraph="1" paragraph_position="4" text="&#8221;" />
+      <attributes paragraph="1" paragraph_position="4" text="&quot;" />
       <extra orig_paragraph="1" />
     </node>
     <node ID="0.5" type="Punctuation">
-      <attributes paragraph="1" paragraph_position="5" text="&#8220;" />
+      <attributes paragraph="1" paragraph_position="5" text="&quot;" />
       <extra orig_paragraph="1" />
     </node>
     <node ID="0.6" type="Word">
@@ -252,7 +252,7 @@
       <extra orig_paragraph="1" />
     </node>
     <node ID="0.63" type="Punctuation">
-      <attributes paragraph="1" paragraph_position="63" text="&#8221;" />
+      <attributes paragraph="1" paragraph_position="63" text="&quot;" />
       <extra orig_paragraph="1" />
     </node>
   </layer>

@@ -132,7 +132,7 @@
       <extra orig_paragraph="1" />
     </node>
     <node ID="0.33" type="Punctuation">
-      <attributes paragraph="1" paragraph_position="33" text="&#8220;" />
+      <attributes paragraph="1" paragraph_position="33" text="&quot;" />
       <extra orig_paragraph="1" />
     </node>
     <node ID="0.34" type="Word">
@@ -144,7 +144,7 @@
       <extra orig_paragraph="1" />
     </node>
     <node ID="0.36" type="Word">
-      <attributes paragraph="1" paragraph_position="36" text="&#8217;s" />
+      <attributes paragraph="1" paragraph_position="36" text="'s" />
       <extra orig_paragraph="1" />
     </node>
     <node ID="0.37" type="Word">
@@ -192,7 +192,7 @@
       <extra orig_paragraph="1" />
     </node>
     <node ID="0.48" type="Punctuation">
-      <attributes paragraph="1" paragraph_position="48" text="&#8221;" />
+      <attributes paragraph="1" paragraph_position="48" text="&quot;" />
       <extra orig_paragraph="1" />
     </node>
   </layer>

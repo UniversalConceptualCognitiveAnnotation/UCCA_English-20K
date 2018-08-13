@@ -36,7 +36,7 @@
       <extra orig_paragraph="1" />
     </node>
     <node ID="0.9" type="Word">
-      <attributes paragraph="1" paragraph_position="9" text="&#8217;s" />
+      <attributes paragraph="1" paragraph_position="9" text="'s" />
       <extra orig_paragraph="1" />
     </node>
     <node ID="0.10" type="Word">
@@ -52,7 +52,7 @@
       <extra orig_paragraph="1" />
     </node>
     <node ID="0.13" type="Word">
-      <attributes paragraph="1" paragraph_position="13" text="&#8217;s" />
+      <attributes paragraph="1" paragraph_position="13" text="'s" />
       <extra orig_paragraph="1" />
     </node>
     <node ID="0.14" type="Word">
@@ -112,7 +112,7 @@
       <extra orig_paragraph="1" />
     </node>
     <node ID="0.28" type="Punctuation">
-      <attributes paragraph="1" paragraph_position="28" text="&#8212;" />
+      <attributes paragraph="1" paragraph_position="28" text="-" />
       <extra orig_paragraph="1" />
     </node>
     <node ID="0.29" type="Word">
@@ -144,7 +144,7 @@
       <extra orig_paragraph="1" />
     </node>
     <node ID="0.36" type="Punctuation">
-      <attributes paragraph="1" paragraph_position="36" text="&#8212;" />
+      <attributes paragraph="1" paragraph_position="36" text="-" />
       <extra orig_paragraph="1" />
     </node>
     <node ID="0.37" type="Word">

@@ -4,7 +4,7 @@
     <attributes />
     <extra doc="[[]]" />
     <node ID="0.1" type="Punctuation">
-      <attributes paragraph="1" paragraph_position="1" text="&#8220;" />
+      <attributes paragraph="1" paragraph_position="1" text="&quot;" />
       <extra orig_paragraph="1" />
     </node>
     <node ID="0.2" type="Word">
@@ -12,7 +12,7 @@
       <extra orig_paragraph="1" />
     </node>
     <node ID="0.3" type="Word">
-      <attributes paragraph="1" paragraph_position="3" text="&#8217;re" />
+      <attributes paragraph="1" paragraph_position="3" text="'re" />
       <extra orig_paragraph="1" />
     </node>
     <node ID="0.4" type="Word">
@@ -196,7 +196,7 @@
       <extra orig_paragraph="1" />
     </node>
     <node ID="0.49" type="Word">
-      <attributes paragraph="1" paragraph_position="49" text="France&#8212;" />
+      <attributes paragraph="1" paragraph_position="49" text="France-" />
       <extra orig_paragraph="1" />
     </node>
     <node ID="0.50" type="Punctuation">
@@ -212,7 +212,7 @@
       <extra orig_paragraph="1" />
     </node>
     <node ID="0.53" type="Word">
-      <attributes paragraph="1" paragraph_position="53" text="master&#8217;s" />
+      <attributes paragraph="1" paragraph_position="53" text="master's" />
       <extra orig_paragraph="1" />
     </node>
     <node ID="0.54" type="Word">
@@ -252,7 +252,7 @@
       <extra orig_paragraph="1" />
     </node>
     <node ID="0.63" type="Word">
-      <attributes paragraph="1" paragraph_position="63" text="master&#8217;s" />
+      <attributes paragraph="1" paragraph_position="63" text="master's" />
       <extra orig_paragraph="1" />
     </node>
     <node ID="0.64" type="Word">
@@ -292,7 +292,7 @@
       <extra orig_paragraph="1" />
     </node>
     <node ID="0.73" type="Word">
-      <attributes paragraph="1" paragraph_position="73" text="master&#8217;s" />
+      <attributes paragraph="1" paragraph_position="73" text="master's" />
       <extra orig_paragraph="1" />
     </node>
     <node ID="0.74" type="Word">
@@ -308,7 +308,7 @@
       <extra orig_paragraph="1" />
     </node>
     <node ID="0.77" type="Word">
-      <attributes paragraph="1" paragraph_position="77" text="master&#8217;s" />
+      <attributes paragraph="1" paragraph_position="77" text="master's" />
       <extra orig_paragraph="1" />
     </node>
     <node ID="0.78" type="Word">

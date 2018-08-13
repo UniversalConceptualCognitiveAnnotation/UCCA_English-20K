@@ -96,7 +96,7 @@
       <extra orig_paragraph="1" />
     </node>
     <node ID="0.24" type="Punctuation">
-      <attributes paragraph="1" paragraph_position="24" text="&#8212;" />
+      <attributes paragraph="1" paragraph_position="24" text="-" />
       <extra orig_paragraph="1" />
     </node>
     <node ID="0.25" type="Word">

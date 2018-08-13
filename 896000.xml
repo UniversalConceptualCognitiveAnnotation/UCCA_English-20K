@@ -136,7 +136,7 @@
       <extra orig_paragraph="1" />
     </node>
     <node ID="0.34" type="Punctuation">
-      <attributes paragraph="1" paragraph_position="34" text="&#8220;" />
+      <attributes paragraph="1" paragraph_position="34" text="&quot;" />
       <extra orig_paragraph="1" />
     </node>
     <node ID="0.35" type="Word">
@@ -164,7 +164,7 @@
       <extra orig_paragraph="1" />
     </node>
     <node ID="0.41" type="Punctuation">
-      <attributes paragraph="1" paragraph_position="41" text="&#8221;" />
+      <attributes paragraph="1" paragraph_position="41" text="&quot;" />
       <extra orig_paragraph="1" />
     </node>
   </layer>

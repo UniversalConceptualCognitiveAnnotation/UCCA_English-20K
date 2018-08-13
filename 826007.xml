@@ -4,7 +4,7 @@
     <attributes />
     <extra doc="[[]]" />
     <node ID="0.1" type="Punctuation">
-      <attributes paragraph="1" paragraph_position="1" text="&#8220;" />
+      <attributes paragraph="1" paragraph_position="1" text="&quot;" />
       <extra orig_paragraph="1" />
     </node>
     <node ID="0.2" type="Word">
@@ -12,7 +12,7 @@
       <extra orig_paragraph="1" />
     </node>
     <node ID="0.3" type="Word">
-      <attributes paragraph="1" paragraph_position="3" text="&#8217;ll" />
+      <attributes paragraph="1" paragraph_position="3" text="'ll" />
       <extra orig_paragraph="1" />
     </node>
     <node ID="0.4" type="Word">
@@ -36,11 +36,11 @@
       <extra orig_paragraph="1" />
     </node>
     <node ID="0.9" type="Punctuation">
-      <attributes paragraph="1" paragraph_position="9" text="&#8221;" />
+      <attributes paragraph="1" paragraph_position="9" text="&quot;" />
       <extra orig_paragraph="1" />
     </node>
     <node ID="0.10" type="Punctuation">
-      <attributes paragraph="1" paragraph_position="10" text="&#8220;" />
+      <attributes paragraph="1" paragraph_position="10" text="&quot;" />
       <extra orig_paragraph="1" />
     </node>
     <node ID="0.11" type="Word">
@@ -96,7 +96,7 @@
       <extra orig_paragraph="1" />
     </node>
     <node ID="0.24" type="Word">
-      <attributes paragraph="1" paragraph_position="24" text="&#8217;s" />
+      <attributes paragraph="1" paragraph_position="24" text="'s" />
       <extra orig_paragraph="1" />
     </node>
     <node ID="0.25" type="Word">

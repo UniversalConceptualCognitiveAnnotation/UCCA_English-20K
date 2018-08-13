@@ -104,7 +104,7 @@
       <extra orig_paragraph="1" />
     </node>
     <node ID="0.26" type="Punctuation">
-      <attributes paragraph="1" paragraph_position="26" text="&#8212;" />
+      <attributes paragraph="1" paragraph_position="26" text="-" />
       <extra orig_paragraph="1" />
     </node>
     <node ID="0.27" type="Word">
@@ -124,7 +124,7 @@
       <extra orig_paragraph="1" />
     </node>
     <node ID="0.31" type="Word">
-      <attributes paragraph="1" paragraph_position="31" text="&#8217;s" />
+      <attributes paragraph="1" paragraph_position="31" text="'s" />
       <extra orig_paragraph="1" />
     </node>
     <node ID="0.32" type="Word">
@@ -164,7 +164,7 @@
       <extra orig_paragraph="1" />
     </node>
     <node ID="0.41" type="Punctuation">
-      <attributes paragraph="1" paragraph_position="41" text="&#8212;" />
+      <attributes paragraph="1" paragraph_position="41" text="-" />
       <extra orig_paragraph="1" />
     </node>
     <node ID="0.42" type="Word">
@@ -184,7 +184,7 @@
       <extra orig_paragraph="1" />
     </node>
     <node ID="0.46" type="Word">
-      <attributes paragraph="1" paragraph_position="46" text="&#8217;s" />
+      <attributes paragraph="1" paragraph_position="46" text="'s" />
       <extra orig_paragraph="1" />
     </node>
     <node ID="0.47" type="Word">
@@ -228,7 +228,7 @@
       <extra orig_paragraph="1" />
     </node>
     <node ID="0.57" type="Punctuation">
-      <attributes paragraph="1" paragraph_position="57" text="&#8212;" />
+      <attributes paragraph="1" paragraph_position="57" text="-" />
       <extra orig_paragraph="1" />
     </node>
     <node ID="0.58" type="Word">

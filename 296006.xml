@@ -24,7 +24,7 @@
       <extra orig_paragraph="1" />
     </node>
     <node ID="0.6" type="Punctuation">
-      <attributes paragraph="1" paragraph_position="6" text="&#8220;" />
+      <attributes paragraph="1" paragraph_position="6" text="&quot;" />
       <extra orig_paragraph="1" />
     </node>
     <node ID="0.7" type="Word">
@@ -72,7 +72,7 @@
       <extra orig_paragraph="1" />
     </node>
     <node ID="0.18" type="Punctuation">
-      <attributes paragraph="1" paragraph_position="18" text="&#8221;" />
+      <attributes paragraph="1" paragraph_position="18" text="&quot;" />
       <extra orig_paragraph="1" />
     </node>
     <node ID="0.19" type="Word">
