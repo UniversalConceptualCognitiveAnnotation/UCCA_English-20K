@@ -1,5 +1,5 @@
 # format = ucca
-1	“	_	Punctuation	-	-	_	U	_	_	_	_
+1	"	_	Punctuation	-	-	_	U	_	_	_	_
 2	Oh	_	Word	-	-	_	F	_	_	_	_
 3	really	_	Word	-	+	_	_	_	_	_	_
 4	,	_	Punctuation	-	-	_	U	_	_	_	_
@@ -16,5 +16,5 @@
 15	simple	_	Word	-	-	_	_	_	_	_	E
 16	figures	_	Word	-	+	_	_	A	_	_	_
 17	.	_	Punctuation	-	-	_	_	_	_	_	U
-18	”	_	Punctuation	-	-	_	_	_	_	_	U
+18	"	_	Punctuation	-	-	_	_	_	_	_	U
 

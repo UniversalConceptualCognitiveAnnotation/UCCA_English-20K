@@ -31,10 +31,10 @@
 30	calm	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	E	_	_	_	_
 31	tone	_	Word	-	+	_	_	_	_	_	_	_	_	D	_	_	_	_	_	_
 32	:	_	Punctuation	-	-	_	_	_	_	_	_	_	_	U	_	_	_	_	_	_
-33	“	_	Punctuation	-	-	_	_	_	_	_	_	_	_	U	_	_	_	_	_	_
+33	"	_	Punctuation	-	-	_	_	_	_	_	_	_	_	U	_	_	_	_	_	_
 34	If	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	L	_
 35	master	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	E	_	_
-36	’s	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	R	_	_	_
+36	's	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	R	_	_	_
 37	eyes	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	A	_
 38	would	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	F	_
 39	kindly	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	D	_
@@ -46,5 +46,5 @@
 45	see	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	H	_
 46	farther	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	D
 47	!	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	U
-48	”	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	U
+48	"	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	U
 

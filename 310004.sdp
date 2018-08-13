@@ -22,7 +22,7 @@
 21	of	_	Word	-	-	_	_	_	_	_	_	_	_	_	R	_	_	_	_	_	_
 22	such	_	Word	-	-	_	_	_	_	_	_	_	_	_	E	_	_	_	_	_	_
 23	giants	_	Word	-	+	_	_	_	_	_	_	_	A	_	_	_	_	_	_	_	_
-24	—	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	U	_	_	_	_	_	_
+24	-	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	U	_	_	_	_	_	_
 25	next	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_	R	_
 26	to	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	Terminal	_	_	_	_	_
 27	which	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	Terminal	_	_	_	_	_

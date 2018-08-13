@@ -15,12 +15,12 @@
 14	do	_	Word	-	-	_	_	_	F	_	_	_	_	_
 15	think	_	Word	-	+	_	_	A	_	_	_	_	_	_
 16	they	_	Word	-	-	_	_	_	_	A	_	_	_	_
-17	’ll	_	Word	-	-	_	_	_	_	F	_	_	_	_
+17	'll	_	Word	-	-	_	_	_	_	F	_	_	_	_
 18	have	_	Word	-	+	_	_	_	A	_	_	_	_	_
 19	fun	_	Word	-	-	_	_	_	_	Terminal	_	_	_	_
 20	at	_	Word	-	-	_	_	_	_	_	_	R	_	_
 21	master	_	Word	-	+	_	_	_	_	_	_	E	_	_
-22	’s	_	Word	-	-	_	_	_	_	_	R	_	_	_
+22	's	_	Word	-	-	_	_	_	_	_	R	_	_	_
 23	expense	_	Word	-	+	_	_	_	_	A	_	_	_	_
 24	.	_	Punctuation	-	-	_	_	_	U	_	_	_	_	_
 25	And	_	Word	-	-	_	_	_	L	_	_	_	_	_

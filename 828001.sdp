@@ -1,5 +1,5 @@
 # format = ucca
-1	“	_	Punctuation	-	-	_	U	_	_	_	_	_	_	_
+1	"	_	Punctuation	-	-	_	U	_	_	_	_	_	_	_
 2	But	_	Word	-	-	_	L	_	_	_	_	_	_	_
 3	think	_	Word	-	+	_	_	_	_	_	_	_	_	_
 4	it	_	Word	-	-	_	A	_	_	_	_	_	_	_
@@ -8,7 +8,7 @@
 7	because	_	Word	-	-	_	L	_	_	_	_	_	_	_
 8	I	_	Word	-	-	_	_	A	_	_	_	_	_	_
 9	do	_	Word	-	-	_	_	F	_	_	_	_	_	_
-10	n’t	_	Word	-	-	_	_	D	_	_	_	_	_	_
+10	n't	_	Word	-	-	_	_	D	_	_	_	_	_	_
 11	want	_	Word	-	-	_	_	D	_	_	_	_	_	_
 12	to	_	Word	-	-	_	_	F	_	_	_	_	_	_
 13	hide	_	Word	-	+	_	H	_	_	_	_	_	_	_
@@ -26,7 +26,7 @@
 25	which	_	Word	-	-	_	_	_	_	_	_	_	Terminal	_
 26	people	_	Word	-	-	_	_	_	_	_	_	_	_	A
 27	do	_	Word	-	-	_	_	_	_	_	_	_	_	F
-28	n’t	_	Word	-	-	_	_	_	_	_	_	_	_	D
+28	n't	_	Word	-	-	_	_	_	_	_	_	_	_	D
 29	always	_	Word	-	-	_	_	_	_	_	_	_	_	T
 30	come	_	Word	-	+	_	_	_	_	_	_	E	_	_
 31	back	_	Word	-	-	_	_	_	_	_	_	_	_	Terminal

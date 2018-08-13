@@ -6,7 +6,7 @@
 5	of	_	Word	-	-	_	_	_	R	_	_	_	_	_	_	_	_	_	_	_
 6	June	_	Word	-	+	_	_	E	_	_	_	_	_	_	_	_	_	_	_	_
 7	25	_	Word	-	-	_	_	_	Terminal	_	_	_	_	_	_	_	_	_	_	_
-8	—	_	Punctuation	-	-	_	U	_	_	_	_	_	_	_	_	_	_	_	_	_
+8	-	_	Punctuation	-	-	_	U	_	_	_	_	_	_	_	_	_	_	_	_	_
 9	in	_	Word	-	-	_	_	_	_	R	_	_	_	_	_	_	_	_	_	_
 10	other	_	Word	-	-	_	_	_	_	E	_	_	_	_	_	_	_	_	_	_
 11	words	_	Word	-	+	_	L	_	_	_	_	_	_	_	_	_	_	_	_	_
@@ -16,7 +16,7 @@
 15	after	_	Word	-	-	_	_	_	_	_	E	_	_	_	_	_	_	_	_	_
 16	our	_	Word	-	-	_	_	_	_	_	_	E	_	_	_	_	_	_	_	_
 17	departure	_	Word	-	+	_	H	_	_	_	_	_	_	_	_	_	_	_	_	_
-18	—	_	Punctuation	-	-	_	U	_	_	_	_	_	_	_	_	_	_	_	_	_
+18	-	_	Punctuation	-	-	_	U	_	_	_	_	_	_	_	_	_	_	_	_	_
 19	the	_	Word	-	-	_	_	_	_	_	_	_	E	_	_	_	_	_	_	_
 20	frigate	_	Word	-	+	_	_	_	_	_	_	_	_	A	_	_	_	_	_	_
 21	lay	_	Word	-	+	_	H	_	_	_	_	_	_	_	_	_	_	_	_	_

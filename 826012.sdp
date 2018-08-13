@@ -1,5 +1,5 @@
 # format = ucca
-1	“	_	Punctuation	-	-	_	U	_	_	_
+1	"	_	Punctuation	-	-	_	U	_	_	_
 2	Yes	_	Word	-	-	_	D	_	_	_
 3	,	_	Punctuation	-	-	_	U	_	_	_
 4	we	_	Word	-	+	_	_	A	_	_
@@ -12,12 +12,12 @@
 11	.	_	Punctuation	-	-	_	_	U	_	_
 12	.	_	Punctuation	-	-	_	_	U	_	_
 13	,	_	Punctuation	-	-	_	_	U	_	_
-14	”	_	Punctuation	-	-	_	_	U	_	_
+14	"	_	Punctuation	-	-	_	_	U	_	_
 15	I	_	Word	-	-	_	_	A	_	_
 16	replied	_	Word	-	+	_	_	_	_	_
 17	evasively	_	Word	-	-	_	_	D	_	_
 18	,	_	Punctuation	-	-	_	_	U	_	_
-19	“	_	Punctuation	-	-	_	_	U	_	_
+19	"	_	Punctuation	-	-	_	_	U	_	_
 20	but	_	Word	-	-	_	L	_	_	_
 21	after	_	Word	-	-	_	L	_	_	_
 22	we	_	Word	-	-	_	_	_	A	_

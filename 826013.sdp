@@ -1,6 +1,6 @@
 # format = ucca
-1	”	_	Punctuation	-	-	_	_	U
-2	“	_	Punctuation	-	-	_	_	U
+1	"	_	Punctuation	-	-	_	_	U
+2	"	_	Punctuation	-	-	_	_	U
 3	Whatever	_	Word	-	-	_	E	_
 4	detour	_	Word	-	+	_	_	A
 5	master	_	Word	-	-	_	_	G

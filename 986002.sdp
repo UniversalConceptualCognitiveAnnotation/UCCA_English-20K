@@ -32,12 +32,12 @@
 31	if	_	Word	-	-	_	_	L	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
 32	it	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	F	_	_	_	_
 33	had	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	D	_	_	_	_
-34	n’t	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	Terminal	_	_	_	_	_	_
+34	n't	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	Terminal	_	_	_	_	_	_
 35	been	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	Terminal	_	_	_	_	_	_
 36	for	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	Terminal	_	_	_	_	_	_
 37	Commander	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	E	_	_	_	_	_
 38	Farragut	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	A	_	_	_	_
-39	’s	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	R	_	_	_	_	_
+39	's	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	R	_	_	_	_	_
 40	characteristic	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	D	_	_	_	_
 41	stubbornness	_	Word	-	+	_	_	H	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
 42	,	_	Punctuation	-	-	_	_	U	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_

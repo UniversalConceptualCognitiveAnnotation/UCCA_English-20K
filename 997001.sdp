@@ -7,7 +7,7 @@
 6	Conseil	_	Word	-	-	_	G	_	_	_	_
 7	,	_	Punctuation	-	-	_	U	_	_	_	_
 8	and	_	Word	-	-	_	L	_	_	_	_
-9	what’s	_	Word	-	+	_	L	_	_	_	_
+9	what's	_	Word	-	+	_	L	_	_	_	_
 10	more	_	Word	-	-	_	_	Terminal	_	_	_
 11	,	_	Punctuation	-	-	_	U	_	_	_	_
 12	I	_	Word	-	-	_	_	_	A	_	_

@@ -16,10 +16,10 @@
 15	,	_	Punctuation	-	-	_	_	U	_	_	_
 16	one	_	Word	-	-	_	_	_	_	_	A
 17	must	_	Word	-	-	_	_	_	_	_	D
-18	n’t	_	Word	-	-	_	_	_	_	_	D
+18	n't	_	Word	-	-	_	_	_	_	_	D
 19	lay	_	Word	-	+	_	_	H	_	_	_
 20	himself	_	Word	-	-	_	_	_	_	_	A
 21	open	_	Word	-	-	_	_	_	_	_	Terminal
-22	to—	_	Word	-	-	_	_	_	_	_	Terminal
+22	to-	_	Word	-	-	_	_	_	_	_	Terminal
 23	"	_	Punctuation	-	-	_	_	_	_	_	U
 

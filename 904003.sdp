@@ -1,6 +1,6 @@
 # format = ucca
 1	Let	_	Word	-	-	_	D	_	_	_	_	_	_	_	_
-2	’s	_	Word	-	-	_	A	_	_	_	_	_	_	_	_
+2	's	_	Word	-	-	_	A	_	_	_	_	_	_	_	_
 3	accept	_	Word	-	+	_	_	_	_	_	_	_	_	_	_
 4	that	_	Word	-	-	_	_	_	_	R	_	_	_	_	_
 5	the	_	Word	-	-	_	_	E	_	_	_	_	_	_	_

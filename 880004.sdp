@@ -16,7 +16,7 @@
 15	Book	_	Word	-	+	_	_	_	_	_	E	_	_	_	_	_
 16	of	_	Word	-	-	_	_	_	_	_	_	_	R	_	_	_
 17	Job	_	Word	-	+	_	_	_	_	_	_	E	_	_	_	_
-18	—	_	Punctuation	-	-	_	_	_	_	U	_	_	_	_	_	_
+18	-	_	Punctuation	-	-	_	_	_	_	U	_	_	_	_	_	_
 19	out	_	Word	-	+	_	_	_	_	_	_	_	_	_	E	_
 20	of	_	Word	-	-	_	_	_	_	_	_	_	_	R	_	_
 21	faith	_	Word	-	+	_	_	_	_	D	_	_	_	_	_	_

@@ -7,11 +7,11 @@
 6	,	_	Punctuation	-	-	_	U	_	_	_	_	_	_	_	_	_
 7	the	_	Word	-	-	_	_	E	_	_	_	_	_	_	_	_
 8	Lloyd	_	Word	-	+	_	C	_	_	_	_	_	_	_	_	_
-9	’s	_	Word	-	-	_	_	Terminal	_	_	_	_	_	_	_	_
+9	's	_	Word	-	-	_	_	Terminal	_	_	_	_	_	_	_	_
 10	List	_	Word	-	-	_	_	Terminal	_	_	_	_	_	_	_	_
 11	,	_	Punctuation	-	-	_	U	_	_	_	_	_	_	_	_	_
 12	France	_	Word	-	+	_	C	_	_	_	_	_	_	_	_	_
-13	’s	_	Word	-	-	_	_	_	Terminal	_	_	_	_	_	_	_
+13	's	_	Word	-	-	_	_	_	Terminal	_	_	_	_	_	_	_
 14	Packetboat	_	Word	-	-	_	_	_	Terminal	_	_	_	_	_	_	_
 15	and	_	Word	-	-	_	N	_	_	_	_	_	_	_	_	_
 16	Maritime	_	Word	-	+	_	C	_	_	_	_	_	_	_	_	_
@@ -26,7 +26,7 @@
 25	to	_	Word	-	-	_	_	_	_	_	_	R	_	_	_	_
 26	insurance	_	Word	-	-	_	_	_	_	_	_	E	_	_	_	_
 27	companies	_	Word	-	+	_	_	_	_	_	_	_	A	_	_	_
-28	—	_	Punctuation	-	-	_	_	_	_	_	_	_	U	_	_	_
+28	-	_	Punctuation	-	-	_	_	_	_	_	_	_	U	_	_	_
 29	who	_	Word	-	-	_	_	_	_	_	_	_	R	_	_	_
 30	threatened	_	Word	-	-	_	_	_	_	_	_	_	D	_	_	_
 31	to	_	Word	-	-	_	_	_	_	_	_	_	F	_	_	_
@@ -34,7 +34,7 @@
 33	their	_	Word	-	-	_	_	_	_	_	_	_	_	E	_	_
 34	premium	_	Word	-	-	_	_	_	_	_	_	_	_	E	_	_
 35	rates	_	Word	-	+	_	_	_	_	_	_	_	A	_	_	_
-36	—	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	U	_
+36	-	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	U	_
 37	were	_	Word	-	-	_	_	_	_	_	_	_	_	_	F	_
 38	unanimous	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_
 39	on	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	R

@@ -25,7 +25,7 @@
 24	left	_	Word	-	+	_	H	_	_	_	_	_	_	_	_	_
 25	the	_	Word	-	-	_	_	_	_	_	_	_	_	_	E	_
 26	ship	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	E
-27	’s	_	Word	-	-	_	_	_	_	_	_	_	_	_	R	_
+27	's	_	Word	-	-	_	_	_	_	_	_	_	_	_	R	_
 28	deck	_	Word	-	+	_	_	_	_	_	_	_	_	A	_	_
 29	.	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	_	U
 

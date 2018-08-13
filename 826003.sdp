@@ -1,5 +1,5 @@
 # format = ucca
-1	“	_	Punctuation	-	-	_	U	_	_	_	_	_	_
+1	"	_	Punctuation	-	-	_	U	_	_	_	_	_	_
 2	Yes	_	Word	-	+	_	_	_	_	_	_	_	_
 3	,	_	Punctuation	-	-	_	U	_	_	_	_	_	_
 4	my	_	Word	-	+	_	G	_	_	_	_	_	_
@@ -15,7 +15,7 @@
 14	ready	_	Word	-	-	_	_	_	_	_	Terminal	_	_
 15	.	_	Punctuation	-	-	_	U	_	_	_	_	_	_
 16	We	_	Word	-	-	_	_	_	_	_	_	A	_
-17	’re	_	Word	-	-	_	_	_	_	_	_	F	_
+17	're	_	Word	-	-	_	_	_	_	_	_	F	_
 18	departing	_	Word	-	+	_	H	_	_	_	_	_	_
 19	in	_	Word	-	-	_	_	_	_	_	_	_	R
 20	two	_	Word	-	-	_	_	_	_	_	_	_	E
