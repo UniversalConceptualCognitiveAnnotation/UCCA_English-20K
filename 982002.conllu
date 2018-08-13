@@ -1,6 +1,6 @@
 # format = ucca
 # sent_id = 982002
-# text = Commander Farragut felt , and with good reason , that it was best to stay in deep waters and keep his distance from continents or islands , whose neighborhoods the animal always seemed to avoid — “ No doubt , ” our bosun said , “ because there is n’t enough water for him !
+# text = Commander Farragut felt , and with good reason , that it was best to stay in deep waters and keep his distance from continents or islands , whose neighborhoods the animal always seemed to avoid - " No doubt , " our bosun said , " because there is n't enough water for him !
 # doc_id = 
 1	Commander	_	Word	Word	_	2	E	2:E	_
 2	Farragut	_	Word	Word	_	0	root	0:root	_
@@ -37,21 +37,21 @@
 33	seemed	_	Word	Word	_	35	G	35:G	_
 34	to	_	Word	Word	_	35	F	35:F	_
 35	avoid	_	Word	Word	_	2	orphan	2:orphan	_
-36	—	_	Punctuation	Punctuation	_	3	punct	3:punct	_
-37	“	_	Punctuation	Punctuation	_	3	punct	3:punct	_
+36	-	_	Punctuation	Punctuation	_	3	punct	3:punct	_
+37	"	_	Punctuation	Punctuation	_	3	punct	3:punct	_
 38	No	_	Word	Word	_	39	D	39:D	_
 39	doubt	_	Word	Word	_	2	orphan	2:orphan	_
 40	,	_	Punctuation	Punctuation	_	44	punct	44:punct	_
-41	”	_	Punctuation	Punctuation	_	44	punct	44:punct	_
+41	"	_	Punctuation	Punctuation	_	44	punct	44:punct	_
 42	our	_	Word	Word	_	43	E	43:E	_
 43	bosun	_	Word	Word	_	2	orphan	2:orphan	_
 44	said	_	Word	Word	_	2	orphan	2:orphan	_
 45	,	_	Punctuation	Punctuation	_	44	punct	44:punct	_
-46	“	_	Punctuation	Punctuation	_	44	punct	44:punct	_
+46	"	_	Punctuation	Punctuation	_	44	punct	44:punct	_
 47	because	_	Word	Word	_	39	L	39:L	_
 48	there	_	Word	Word	_	51	A	51:A	_
 49	is	_	Word	Word	_	51	F	51:F	_
-50	n’t	_	Word	Word	_	51	D	51:D	_
+50	n't	_	Word	Word	_	51	D	51:D	_
 51	enough	_	Word	Word	_	2	orphan	2:orphan	_
 52	water	_	Word	Word	_	51	A	51:A	_
 53	for	_	Word	Word	_	54	R	54:R	_

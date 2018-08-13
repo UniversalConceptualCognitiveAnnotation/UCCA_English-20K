@@ -1,6 +1,6 @@
 # format = ucca
 # sent_id = 290000
-# text = So only two possible solutions to the question were left , creating two very distinct groups of supporters : on one side , those favoring a monster of colossal strength ; on the other , those favoring an “ underwater boat ” of tremendous motor power .
+# text = So only two possible solutions to the question were left , creating two very distinct groups of supporters : on one side , those favoring a monster of colossal strength ; on the other , those favoring an " underwater boat " of tremendous motor power .
 # doc_id = 
 1	So	_	Word	Word	_	10	L	10:L	_
 2	only	_	Word	Word	_	5	D	5:D	_
@@ -40,10 +40,10 @@
 36	those	_	Word	Word	_	37	F	37:F	_
 37	favoring	_	Word	Word	_	5	orphan	5:orphan	_
 38	an	_	Word	Word	_	41	E	41:E	_
-39	“	_	Punctuation	Punctuation	_	41	punct	41:punct	_
+39	"	_	Punctuation	Punctuation	_	41	punct	41:punct	_
 40	underwater	_	Word	Word	_	41	E	41:E	_
 41	boat	_	Word	Word	_	5	orphan	5:orphan	_
-42	”	_	Punctuation	Punctuation	_	46	punct	46:punct	_
+42	"	_	Punctuation	Punctuation	_	46	punct	46:punct	_
 43	of	_	Word	Word	_	46	R	46:R	_
 44	tremendous	_	Word	Word	_	46	D	46:D	_
 45	motor	_	Word	Word	_	46	D	46:D	_

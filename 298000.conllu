@@ -1,15 +1,15 @@
 # format = ucca
 # sent_id = 298000
-# text = “ Therefore , ” I wrote , “ after examining these different hypotheses one by one , we are forced , every other supposition having been refuted , to accept the existence of an extremely powerful marine animal .
+# text = " Therefore , " I wrote , " after examining these different hypotheses one by one , we are forced , every other supposition having been refuted , to accept the existence of an extremely powerful marine animal .
 # doc_id = 
-1	“	_	Punctuation	Punctuation	_	10	punct	10:punct	_
+1	"	_	Punctuation	Punctuation	_	10	punct	10:punct	_
 2	Therefore	_	Word	Word	_	10	L	10:L	_
 3	,	_	Punctuation	Punctuation	_	6	punct	6:punct	_
-4	”	_	Punctuation	Punctuation	_	6	punct	6:punct	_
+4	"	_	Punctuation	Punctuation	_	6	punct	6:punct	_
 5	I	_	Word	Word	_	6	A	6:A	_
 6	wrote	_	Word	Word	_	0	root	0:root	_
 7	,	_	Punctuation	Punctuation	_	6	punct	6:punct	_
-8	“	_	Punctuation	Punctuation	_	6	punct	6:punct	_
+8	"	_	Punctuation	Punctuation	_	6	punct	6:punct	_
 9	after	_	Word	Word	_	10	L	10:L	_
 10	examining	_	Word	Word	_	6	orphan	6:orphan	_
 11	these	_	Word	Word	_	13	E	13:E	_

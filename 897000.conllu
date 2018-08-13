@@ -1,13 +1,13 @@
 # format = ucca
 # sent_id = 897000
-# text = “ But Ned , you ’re a professional whaler , a man familiar with all the great marine mammals — your mind should easily accept this hypothesis of an enormous cetacean , and you ought to be the last one to doubt it under these circumstances ! ”
+# text = " But Ned , you 're a professional whaler , a man familiar with all the great marine mammals - your mind should easily accept this hypothesis of an enormous cetacean , and you ought to be the last one to doubt it under these circumstances ! "
 # doc_id = 
-1	“	_	Punctuation	Punctuation	_	6	punct	6:punct	_
+1	"	_	Punctuation	Punctuation	_	6	punct	6:punct	_
 2	But	_	Word	Word	_	6	L	6:L	_
 3	Ned	_	Word	Word	_	6	G	6:G	_
 4	,	_	Punctuation	Punctuation	_	6	punct	6:punct	_
 5	you	_	Word	Word	_	6	A	6:A	_
-6	’re	_	Word	Word	_	0	root	0:root	_
+6	're	_	Word	Word	_	0	root	0:root	_
 7	a	_	Word	Word	_	9	E	9:E	_
 8	professional	_	Word	Word	_	9	E	9:E	_
 9	whaler	_	Word	Word	_	6	orphan	6:orphan	_
@@ -21,7 +21,7 @@
 17	great	_	Word	Word	_	19	E	19:E	_
 18	marine	_	Word	Word	_	19	E	19:E	_
 19	mammals	_	Word	Word	_	6	orphan	6:orphan	_
-20	—	_	Punctuation	Punctuation	_	6	punct	6:punct	_
+20	-	_	Punctuation	Punctuation	_	6	punct	6:punct	_
 21	your	_	Word	Word	_	22	E	22:E	_
 22	mind	_	Word	Word	_	6	orphan	6:orphan	_
 23	should	_	Word	Word	_	25	D	25:D	_
@@ -49,5 +49,5 @@
 45	these	_	Word	Word	_	46	E	46:E	_
 46	circumstances	_	Word	Word	_	6	orphan	6:orphan	_
 47	!	_	Punctuation	Punctuation	_	46	punct	46:punct	_
-48	”	_	Punctuation	Punctuation	_	46	punct	46:punct	_
+48	"	_	Punctuation	Punctuation	_	46	punct	46:punct	_
 

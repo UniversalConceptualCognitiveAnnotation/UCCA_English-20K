@@ -1,6 +1,6 @@
 # format = ucca
 # sent_id = 984001
-# text = For three months , during which each day seemed like a century , the Abraham Lincoln plowed all the northerly seas of the Pacific , racing after whales sighted , abruptly veering off course , swerving sharply from one tack to another , stopping suddenly , putting on steam and reversing engines in quick succession , at the risk of stripping its gears , and it did n’t leave a single point unexplored from the beaches of Japan to the coasts of America .
+# text = For three months , during which each day seemed like a century , the Abraham Lincoln plowed all the northerly seas of the Pacific , racing after whales sighted , abruptly veering off course , swerving sharply from one tack to another , stopping suddenly , putting on steam and reversing engines in quick succession , at the risk of stripping its gears , and it did n't leave a single point unexplored from the beaches of Japan to the coasts of America .
 # doc_id = 
 1	For	_	Word	Word	_	3	R	3:R	_
 2	three	_	Word	Word	_	3	E	3:E	_
@@ -69,7 +69,7 @@
 65	and	_	Word	Word	_	17	L	17:L	_
 66	it	_	Word	Word	_	73	A	73:A	_
 67	did	_	Word	Word	_	73	F	73:F	_
-68	n’t	_	Word	Word	_	73	D	73:D	_
+68	n't	_	Word	Word	_	73	D	73:D	_
 69	leave	_	Word	Word	_	73	D	73:D	_
 70	a	_	Word	Word	_	72	E	72:E	_
 71	single	_	Word	Word	_	72	E	72:E	_

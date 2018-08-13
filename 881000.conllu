@@ -1,10 +1,10 @@
 # format = ucca
 # sent_id = 881000
-# text = The ship ’s officers shared the views of their leader .
+# text = The ship 's officers shared the views of their leader .
 # doc_id = 
 1	The	_	Word	Word	_	2	E	2:E	_
 2	ship	_	Word	Word	_	0	root	0:root	_
-3	’s	_	Word	Word	_	2	R	2:R	_
+3	's	_	Word	Word	_	2	R	2:R	_
 4	officers	_	Word	Word	_	2	orphan	2:orphan	_
 5	shared	_	Word	Word	_	2	orphan	2:orphan	_
 6	the	_	Word	Word	_	5	flat	5:flat	_

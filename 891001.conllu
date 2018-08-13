@@ -1,10 +1,10 @@
 # format = ucca
 # sent_id = 891001
-# text = Because we ’ve become old friends , united in that permanent comradeship born and cemented during only the most frightful crises !
+# text = Because we 've become old friends , united in that permanent comradeship born and cemented during only the most frightful crises !
 # doc_id = 
 1	Because	_	Word	Word	_	4	L	4:L	_
 2	we	_	Word	Word	_	4	A	4:A	_
-3	’ve	_	Word	Word	_	4	F	4:F	_
+3	've	_	Word	Word	_	4	F	4:F	_
 4	become	_	Word	Word	_	0	root	0:root	_
 5	old	_	Word	Word	_	6	E	6:E	_
 6	friends	_	Word	Word	_	4	orphan	4:orphan	_

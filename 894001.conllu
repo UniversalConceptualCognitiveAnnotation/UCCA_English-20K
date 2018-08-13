@@ -1,6 +1,6 @@
 # format = ucca
 # sent_id = 894001
-# text = Quite naturally , I led our conversation around to the giant unicorn , and I weighed our expedition ’s various chances for success or failure .
+# text = Quite naturally , I led our conversation around to the giant unicorn , and I weighed our expedition 's various chances for success or failure .
 # doc_id = 
 1	Quite	_	Word	Word	_	2	E	2:E	_
 2	naturally	_	Word	Word	_	0	root	0:root	_
@@ -20,7 +20,7 @@
 16	weighed	_	Word	Word	_	2	orphan	2:orphan	_
 17	our	_	Word	Word	_	18	E	18:E	_
 18	expedition	_	Word	Word	_	2	orphan	2:orphan	_
-19	’s	_	Word	Word	_	18	R	18:R	_
+19	's	_	Word	Word	_	18	R	18:R	_
 20	various	_	Word	Word	_	21	D	21:D	_
 21	chances	_	Word	Word	_	2	orphan	2:orphan	_
 22	for	_	Word	Word	_	23	R	23:R	_

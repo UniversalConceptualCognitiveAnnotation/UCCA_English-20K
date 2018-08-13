@@ -1,6 +1,6 @@
 # format = ucca
 # sent_id = 844000
-# text = The frigate then went along the New Jersey coast — the wonderful right bank of this river , all loaded down with country homes — and passed by the forts to salutes from their biggest cannons .
+# text = The frigate then went along the New Jersey coast - the wonderful right bank of this river , all loaded down with country homes - and passed by the forts to salutes from their biggest cannons .
 # doc_id = 
 1	The	_	Word	Word	_	2	E	2:E	_
 2	frigate	_	Word	Word	_	0	root	0:root	_
@@ -11,7 +11,7 @@
 7	New	_	Word	Word	_	9	E	9:E	_
 8	Jersey	_	Word	Word	_	7	flat	7:flat	_
 9	coast	_	Word	Word	_	2	orphan	2:orphan	_
-10	—	_	Punctuation	Punctuation	_	9	punct	9:punct	_
+10	-	_	Punctuation	Punctuation	_	9	punct	9:punct	_
 11	the	_	Word	Word	_	14	E	14:E	_
 12	wonderful	_	Word	Word	_	14	E	14:E	_
 13	right	_	Word	Word	_	14	E	14:E	_
@@ -26,7 +26,7 @@
 22	with	_	Word	Word	_	24	R	24:R	_
 23	country	_	Word	Word	_	24	E	24:E	_
 24	homes	_	Word	Word	_	2	orphan	2:orphan	_
-25	—	_	Punctuation	Punctuation	_	4	punct	4:punct	_
+25	-	_	Punctuation	Punctuation	_	4	punct	4:punct	_
 26	and	_	Word	Word	_	4	L	4:L	_
 27	passed	_	Word	Word	_	2	orphan	2:orphan	_
 28	by	_	Word	Word	_	30	R	30:R	_

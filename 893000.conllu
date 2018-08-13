@@ -1,6 +1,6 @@
 # format = ucca
 # sent_id = 893000
-# text = During the magnificent evening of June 25 — in other words , three weeks after our departure — the frigate lay abreast of Cabo Blanco , thirty miles to leeward of the coast of Patagonia .
+# text = During the magnificent evening of June 25 - in other words , three weeks after our departure - the frigate lay abreast of Cabo Blanco , thirty miles to leeward of the coast of Patagonia .
 # doc_id = 
 1	During	_	Word	Word	_	3	L	3:L	_
 2	the	_	Word	Word	_	4	E	4:E	_
@@ -9,7 +9,7 @@
 5	of	_	Word	Word	_	6	R	6:R	_
 6	June	_	Word	Word	_	3	orphan	3:orphan	_
 7	25	_	Word	Word	_	6	flat	6:flat	_
-8	—	_	Punctuation	Punctuation	_	3	punct	3:punct	_
+8	-	_	Punctuation	Punctuation	_	3	punct	3:punct	_
 9	in	_	Word	Word	_	11	R	11:R	_
 10	other	_	Word	Word	_	11	E	11:E	_
 11	words	_	Word	Word	_	3	orphan	3:orphan	_
@@ -19,7 +19,7 @@
 15	after	_	Word	Word	_	14	E	14:E	_
 16	our	_	Word	Word	_	17	E	17:E	_
 17	departure	_	Word	Word	_	3	orphan	3:orphan	_
-18	—	_	Punctuation	Punctuation	_	3	punct	3:punct	_
+18	-	_	Punctuation	Punctuation	_	3	punct	3:punct	_
 19	the	_	Word	Word	_	20	E	20:E	_
 20	frigate	_	Word	Word	_	3	orphan	3:orphan	_
 21	lay	_	Word	Word	_	3	orphan	3:orphan	_

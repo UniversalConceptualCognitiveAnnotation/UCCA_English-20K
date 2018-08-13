@@ -1,6 +1,6 @@
 # format = ucca
 # sent_id = 825002
-# text = There was good reason to stop and think , even for the world ’s most emotionless man .
+# text = There was good reason to stop and think , even for the world 's most emotionless man .
 # doc_id = 
 1	There	_	Word	Word	_	6	F	6:F	_
 2	was	_	Word	Word	_	6	F	6:F	_
@@ -15,7 +15,7 @@
 11	for	_	Word	Word	_	16	R	16:R	_
 12	the	_	Word	Word	_	13	E	13:E	_
 13	world	_	Word	Word	_	6	orphan	6:orphan	_
-14	’s	_	Word	Word	_	13	R	13:R	_
+14	's	_	Word	Word	_	13	R	13:R	_
 15	most	_	Word	Word	_	16	D	16:D	_
 16	emotionless	_	Word	Word	_	6	orphan	6:orphan	_
 17	man	_	Word	Word	_	16	A	16:A	_

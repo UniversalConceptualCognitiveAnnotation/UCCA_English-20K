@@ -1,6 +1,6 @@
 # format = ucca
 # sent_id = 296004
-# text = As long as I could deny the reality of the business , I confined myself to a flat “ no comment .
+# text = As long as I could deny the reality of the business , I confined myself to a flat " no comment .
 # doc_id = 
 1	As	_	Word	Word	_	2	R	2:R	_
 2	long	_	Word	Word	_	0	root	0:root	_
@@ -20,7 +20,7 @@
 16	to	_	Word	Word	_	21	R	21:R	_
 17	a	_	Word	Word	_	21	E	21:E	_
 18	flat	_	Word	Word	_	21	E	21:E	_
-19	“	_	Punctuation	Punctuation	_	21	punct	21:punct	_
+19	"	_	Punctuation	Punctuation	_	21	punct	21:punct	_
 20	no	_	Word	Word	_	21	D	21:D	_
 21	comment	_	Word	Word	_	2	orphan	2:orphan	_
 22	.	_	Punctuation	Punctuation	_	21	punct	21:punct	_

@@ -1,8 +1,8 @@
 # format = ucca
 # sent_id = 307000
-# text = “ So , until information becomes more abundant , I plump for a sea unicorn of colossal dimensions , no longer armed with a mere lance but with an actual spur , like ironclad frigates or those warships called ' rams,’ whose mass and motor power it would possess simultaneously .
+# text = " So , until information becomes more abundant , I plump for a sea unicorn of colossal dimensions , no longer armed with a mere lance but with an actual spur , like ironclad frigates or those warships called ' rams,' whose mass and motor power it would possess simultaneously .
 # doc_id = 
-1	“	_	Punctuation	Punctuation	_	8	punct	8:punct	_
+1	"	_	Punctuation	Punctuation	_	8	punct	8:punct	_
 2	So	_	Word	Word	_	8	L	8:L	_
 3	,	_	Punctuation	Punctuation	_	8	punct	8:punct	_
 4	until	_	Word	Word	_	8	L	8:L	_
@@ -42,7 +42,7 @@
 38	warships	_	Word	Word	_	8	orphan	8:orphan	_
 39	called	_	Word	Word	_	8	orphan	8:orphan	_
 40	'	_	Punctuation	Punctuation	_	39	punct	39:punct	_
-41	rams,’	_	Word	Word	_	39	A	39:A	_
+41	rams,'	_	Word	Word	_	39	A	39:A	_
 42	whose	_	Word	Word	_	49	R	49:R	_
 43	mass	_	Word	Word	_	8	orphan	8:orphan	_
 44	and	_	Word	Word	_	43	N	43:N	_

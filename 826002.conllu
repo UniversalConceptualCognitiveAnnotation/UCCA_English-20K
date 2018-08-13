@@ -1,14 +1,14 @@
 # format = ucca
 # sent_id = 826002
-# text = “ Did master summon me ? ” he said , entering .
+# text = " Did master summon me ? " he said , entering .
 # doc_id = 
-1	“	_	Punctuation	Punctuation	_	9	punct	9:punct	_
+1	"	_	Punctuation	Punctuation	_	9	punct	9:punct	_
 2	Did	_	Word	Word	_	4	F	4:F	_
 3	master	_	Word	Word	_	4	G	4:G	_
 4	summon	_	Word	Word	_	0	root	0:root	_
 5	me	_	Word	Word	_	4	A	4:A	_
 6	?	_	Punctuation	Punctuation	_	9	punct	9:punct	_
-7	”	_	Punctuation	Punctuation	_	9	punct	9:punct	_
+7	"	_	Punctuation	Punctuation	_	9	punct	9:punct	_
 8	he	_	Word	Word	_	9	A	9:A	_
 9	said	_	Word	Word	_	4	orphan	4:orphan	_
 10	,	_	Punctuation	Punctuation	_	9	punct	9:punct	_

@@ -1,8 +1,8 @@
 # format = ucca
 # sent_id = 299000
-# text = “ The deepest parts of the ocean are totally unknown to us . No soundings have been able to reach them . What goes on in those distant depths ? What creatures inhabit , or could inhabit , those regions twelve or fifteen miles beneath the surface of the water ? What is the constitution of these animals ? It ’s almost beyond conjecture .
+# text = " The deepest parts of the ocean are totally unknown to us . No soundings have been able to reach them . What goes on in those distant depths ? What creatures inhabit , or could inhabit , those regions twelve or fifteen miles beneath the surface of the water ? What is the constitution of these animals ? It 's almost beyond conjecture .
 # doc_id = 
-1	“	_	Punctuation	Punctuation	_	10	punct	10:punct	_
+1	"	_	Punctuation	Punctuation	_	10	punct	10:punct	_
 2	The	_	Word	Word	_	4	E	4:E	_
 3	deepest	_	Word	Word	_	4	E	4:E	_
 4	parts	_	Word	Word	_	0	root	0:root	_
@@ -62,7 +62,7 @@
 58	animals	_	Word	Word	_	4	orphan	4:orphan	_
 59	?	_	Punctuation	Punctuation	_	10	punct	10:punct	_
 60	It	_	Word	Word	_	64	A	64:A	_
-61	’s	_	Word	Word	_	64	F	64:F	_
+61	's	_	Word	Word	_	64	F	64:F	_
 62	almost	_	Word	Word	_	64	D	64:D	_
 63	beyond	_	Word	Word	_	64	D	64:D	_
 64	conjecture	_	Word	Word	_	4	orphan	4:orphan	_

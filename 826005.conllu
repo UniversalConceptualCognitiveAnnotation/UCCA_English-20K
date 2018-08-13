@@ -1,11 +1,11 @@
 # format = ucca
 # sent_id = 826005
-# text = “ We have n’t a moment to lose . Pack as much into my trunk as you can , my traveling kit , my suits , shirts , and socks , do n’t bother counting , just squeeze it all in — and hurry !
+# text = " We have n't a moment to lose . Pack as much into my trunk as you can , my traveling kit , my suits , shirts , and socks , do n't bother counting , just squeeze it all in - and hurry !
 # doc_id = 
-1	“	_	Punctuation	Punctuation	_	8	punct	8:punct	_
+1	"	_	Punctuation	Punctuation	_	8	punct	8:punct	_
 2	We	_	Word	Word	_	8	A	8:A	_
 3	have	_	Word	Word	_	8	D	8:D	_
-4	n’t	_	Word	Word	_	8	D	8:D	_
+4	n't	_	Word	Word	_	8	D	8:D	_
 5	a	_	Word	Word	_	6	E	6:E	_
 6	moment	_	Word	Word	_	0	root	0:root	_
 7	to	_	Word	Word	_	8	F	8:F	_
@@ -34,7 +34,7 @@
 30	socks	_	Word	Word	_	6	orphan	6:orphan	_
 31	,	_	Punctuation	Punctuation	_	35	punct	35:punct	_
 32	do	_	Word	Word	_	35	F	35:F	_
-33	n’t	_	Word	Word	_	35	D	35:D	_
+33	n't	_	Word	Word	_	35	D	35:D	_
 34	bother	_	Word	Word	_	35	D	35:D	_
 35	counting	_	Word	Word	_	6	orphan	6:orphan	_
 36	,	_	Punctuation	Punctuation	_	8	punct	8:punct	_
@@ -43,7 +43,7 @@
 39	it	_	Word	Word	_	6	orphan	6:orphan	_
 40	all	_	Word	Word	_	39	E	39:E	_
 41	in	_	Word	Word	_	38	flat	38:flat	_
-42	—	_	Punctuation	Punctuation	_	8	punct	8:punct	_
+42	-	_	Punctuation	Punctuation	_	8	punct	8:punct	_
 43	and	_	Word	Word	_	8	L	8:L	_
 44	hurry	_	Word	Word	_	6	orphan	6:orphan	_
 45	!	_	Punctuation	Punctuation	_	44	punct	44:punct	_

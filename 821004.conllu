@@ -1,6 +1,6 @@
 # format = ucca
 # sent_id = 821004
-# text = Moreover , he enjoyed excellent health that defied all ailments , owned solid muscles , but had n’t a nerve in him , not a sign of nerves — the mental type , I mean .
+# text = Moreover , he enjoyed excellent health that defied all ailments , owned solid muscles , but had n't a nerve in him , not a sign of nerves - the mental type , I mean .
 # doc_id = 
 1	Moreover	_	Word	Word	_	4	L	4:L	_
 2	,	_	Punctuation	Punctuation	_	4	punct	4:punct	_
@@ -19,7 +19,7 @@
 15	,	_	Punctuation	Punctuation	_	4	punct	4:punct	_
 16	but	_	Word	Word	_	4	L	4:L	_
 17	had	_	Word	Word	_	4	orphan	4:orphan	_
-18	n’t	_	Word	Word	_	17	D	17:D	_
+18	n't	_	Word	Word	_	17	D	17:D	_
 19	a	_	Word	Word	_	20	E	20:E	_
 20	nerve	_	Word	Word	_	4	orphan	4:orphan	_
 21	in	_	Word	Word	_	17	D	17:D	_
@@ -30,7 +30,7 @@
 26	sign	_	Word	Word	_	4	orphan	4:orphan	_
 27	of	_	Word	Word	_	26	R	26:R	_
 28	nerves	_	Word	Word	_	4	orphan	4:orphan	_
-29	—	_	Punctuation	Punctuation	_	20	punct	20:punct	_
+29	-	_	Punctuation	Punctuation	_	20	punct	20:punct	_
 30	the	_	Word	Word	_	32	E	32:E	_
 31	mental	_	Word	Word	_	32	E	32:E	_
 32	type	_	Word	Word	_	4	orphan	4:orphan	_

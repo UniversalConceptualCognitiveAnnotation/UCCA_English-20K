@@ -1,8 +1,8 @@
 # format = ucca
 # sent_id = 882003
-# text = I’ ll let the reader decide whether eyes got proper exercise aboard the Abraham Lincoln .
+# text = I' ll let the reader decide whether eyes got proper exercise aboard the Abraham Lincoln .
 # doc_id = 
-1	I’	_	Word	Word	_	11	G	11:G	_
+1	I'	_	Word	Word	_	11	G	11:G	_
 2	ll	_	Word	Word	_	1	flat	1:flat	_
 3	let	_	Word	Word	_	1	flat	1:flat	_
 4	the	_	Word	Word	_	1	flat	1:flat	_

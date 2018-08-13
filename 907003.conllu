@@ -1,8 +1,8 @@
 # format = ucca
 # sent_id = 907003
-# text = “ Well , have I convinced you ?
+# text = " Well , have I convinced you ?
 # doc_id = 
-1	“	_	Punctuation	Punctuation	_	6	punct	6:punct	_
+1	"	_	Punctuation	Punctuation	_	6	punct	6:punct	_
 2	Well	_	Word	Word	_	6	F	6:F	_
 3	,	_	Punctuation	Punctuation	_	6	punct	6:punct	_
 4	have	_	Word	Word	_	6	F	6:F	_

@@ -1,6 +1,6 @@
 # format = ucca
 # sent_id = 819001
-# text = A devoted lad who went with me on all my journeys ; a gallant Flemish boy whom I genuinely liked and who returned the compliment ; a born stoic , punctilious on principle , habitually hardworking , rarely startled by life ’s surprises , very skillful with his hands , efficient in his every duty , and despite his having a name that means “ counsel , ” never giving advice — not even the unsolicited kind !
+# text = A devoted lad who went with me on all my journeys ; a gallant Flemish boy whom I genuinely liked and who returned the compliment ; a born stoic , punctilious on principle , habitually hardworking , rarely startled by life 's surprises , very skillful with his hands , efficient in his every duty , and despite his having a name that means " counsel , " never giving advice - not even the unsolicited kind !
 # doc_id = 
 1	A	_	Word	Word	_	3	E	3:E	_
 2	devoted	_	Word	Word	_	3	E	3:E	_
@@ -43,7 +43,7 @@
 39	startled	_	Word	Word	_	3	orphan	3:orphan	_
 40	by	_	Word	Word	_	43	R	43:R	_
 41	life	_	Word	Word	_	3	orphan	3:orphan	_
-42	’s	_	Word	Word	_	41	R	41:R	_
+42	's	_	Word	Word	_	41	R	41:R	_
 43	surprises	_	Word	Word	_	3	orphan	3:orphan	_
 44	,	_	Punctuation	Punctuation	_	3	punct	3:punct	_
 45	very	_	Word	Word	_	46	D	46:D	_
@@ -66,14 +66,14 @@
 62	name	_	Word	Word	_	3	orphan	3:orphan	_
 63	that	_	Word	Word	_	64	R	64:R	_
 64	means	_	Word	Word	_	3	orphan	3:orphan	_
-65	“	_	Punctuation	Punctuation	_	64	punct	64:punct	_
+65	"	_	Punctuation	Punctuation	_	64	punct	64:punct	_
 66	counsel	_	Word	Word	_	64	A	64:A	_
 67	,	_	Punctuation	Punctuation	_	3	punct	3:punct	_
-68	”	_	Punctuation	Punctuation	_	3	punct	3:punct	_
+68	"	_	Punctuation	Punctuation	_	3	punct	3:punct	_
 69	never	_	Word	Word	_	70	T	70:T	_
 70	giving	_	Word	Word	_	3	orphan	3:orphan	_
 71	advice	_	Word	Word	_	3	orphan	3:orphan	_
-72	—	_	Punctuation	Punctuation	_	71	punct	71:punct	_
+72	-	_	Punctuation	Punctuation	_	71	punct	71:punct	_
 73	not	_	Word	Word	_	3	orphan	3:orphan	_
 74	even	_	Word	Word	_	73	flat	73:flat	_
 75	the	_	Word	Word	_	73	E	73:E	_

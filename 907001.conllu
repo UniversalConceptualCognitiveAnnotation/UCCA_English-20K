@@ -1,9 +1,9 @@
 # format = ucca
 # sent_id = 907001
-# text = ” “ Right , Ned , and then picture the damage such a mass could inflict if it were launched with the speed of an express train against a ship ’s hull .
+# text = " " Right , Ned , and then picture the damage such a mass could inflict if it were launched with the speed of an express train against a ship 's hull .
 # doc_id = 
-1	”	_	Punctuation	Punctuation	_	3	punct	3:punct	_
-2	“	_	Punctuation	Punctuation	_	3	punct	3:punct	_
+1	"	_	Punctuation	Punctuation	_	3	punct	3:punct	_
+2	"	_	Punctuation	Punctuation	_	3	punct	3:punct	_
 3	Right	_	Word	Word	_	0	root	0:root	_
 4	,	_	Punctuation	Punctuation	_	3	punct	3:punct	_
 5	Ned	_	Word	Word	_	3	G	3:G	_
@@ -32,7 +32,7 @@
 28	against	_	Word	Word	_	32	R	32:R	_
 29	a	_	Word	Word	_	30	E	30:E	_
 30	ship	_	Word	Word	_	3	orphan	3:orphan	_
-31	’s	_	Word	Word	_	30	R	30:R	_
+31	's	_	Word	Word	_	30	R	30:R	_
 32	hull	_	Word	Word	_	3	orphan	3:orphan	_
 33	.	_	Punctuation	Punctuation	_	32	punct	32:punct	_
 

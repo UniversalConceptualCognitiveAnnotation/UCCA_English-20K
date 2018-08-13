@@ -1,8 +1,8 @@
 # format = ucca
 # sent_id = 302000
-# text = “ If we do not know every one of them , if nature still keeps ichthyological secrets from us , nothing is more admissible than to accept the existence of fish or cetaceans of new species or even new genera , animals with a basically ‘cast-iron’ constitution that inhabit strata beyond the reach of our soundings , and which some development or other , an urge or a whim if you prefer , can bring to the upper level of the ocean for long intervals .
+# text = " If we do not know every one of them , if nature still keeps ichthyological secrets from us , nothing is more admissible than to accept the existence of fish or cetaceans of new species or even new genera , animals with a basically 'cast-iron' constitution that inhabit strata beyond the reach of our soundings , and which some development or other , an urge or a whim if you prefer , can bring to the upper level of the ocean for long intervals .
 # doc_id = 
-1	“	_	Punctuation	Punctuation	_	6	punct	6:punct	_
+1	"	_	Punctuation	Punctuation	_	6	punct	6:punct	_
 2	If	_	Word	Word	_	6	L	6:L	_
 3	we	_	Word	Word	_	6	A	6:A	_
 4	do	_	Word	Word	_	6	F	6:F	_
@@ -47,7 +47,7 @@
 43	with	_	Word	Word	_	47	R	47:R	_
 44	a	_	Word	Word	_	47	E	47:E	_
 45	basically	_	Word	Word	_	47	D	47:D	_
-46	‘cast-iron’	_	Word	Word	_	47	D	47:D	_
+46	'cast-iron'	_	Word	Word	_	47	D	47:D	_
 47	constitution	_	Word	Word	_	6	orphan	6:orphan	_
 48	that	_	Word	Word	_	49	R	49:R	_
 49	inhabit	_	Word	Word	_	6	orphan	6:orphan	_

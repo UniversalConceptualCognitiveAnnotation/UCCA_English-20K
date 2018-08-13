@@ -1,8 +1,8 @@
 # format = ucca
 # sent_id = 891000
-# text = I’ m writing of this bold companion as I currently know him .
+# text = I' m writing of this bold companion as I currently know him .
 # doc_id = 
-1	I’	_	Word	Word	_	3	A	3:A	_
+1	I'	_	Word	Word	_	3	A	3:A	_
 2	m	_	Word	Word	_	3	F	3:F	_
 3	writing	_	Word	Word	_	0	root	0:root	_
 4	of	_	Word	Word	_	7	R	7:R	_

@@ -1,6 +1,6 @@
 # format = ucca
 # sent_id = 880004
-# text = He believed in it as certain pious women believe in the leviathan from the Book of Job — out of faith , not reason .
+# text = He believed in it as certain pious women believe in the leviathan from the Book of Job - out of faith , not reason .
 # doc_id = 
 1	He	_	Word	Word	_	2	A	2:A	_
 2	believed	_	Word	Word	_	0	root	0:root	_
@@ -19,7 +19,7 @@
 15	Book	_	Word	Word	_	2	orphan	2:orphan	_
 16	of	_	Word	Word	_	17	R	17:R	_
 17	Job	_	Word	Word	_	2	orphan	2:orphan	_
-18	—	_	Punctuation	Punctuation	_	9	punct	9:punct	_
+18	-	_	Punctuation	Punctuation	_	9	punct	9:punct	_
 19	out	_	Word	Word	_	2	orphan	2:orphan	_
 20	of	_	Word	Word	_	19	R	19:R	_
 21	faith	_	Word	Word	_	2	orphan	2:orphan	_

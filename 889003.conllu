@@ -1,10 +1,10 @@
 # format = ucca
 # sent_id = 889003
-# text = The harpooner ’s family originated in Quebec , and they were already a line of bold fishermen back in the days when this town still belonged to France .
+# text = The harpooner 's family originated in Quebec , and they were already a line of bold fishermen back in the days when this town still belonged to France .
 # doc_id = 
 1	The	_	Word	Word	_	2	E	2:E	_
 2	harpooner	_	Word	Word	_	0	root	0:root	_
-3	’s	_	Word	Word	_	2	R	2:R	_
+3	's	_	Word	Word	_	2	R	2:R	_
 4	family	_	Word	Word	_	2	orphan	2:orphan	_
 5	originated	_	Word	Word	_	2	orphan	2:orphan	_
 6	in	_	Word	Word	_	7	R	7:R	_

@@ -1,8 +1,8 @@
 # format = ucca
 # sent_id = 305000
-# text = “ In essence , the narwhale is armed with a sort of ivory sword , or lance , as certain naturalists have expressed it . It ’s a king-sized tooth as hard as steel . Some of these teeth have been found buried in the bodies of baleen whales , which the narwhale attacks with invariable success . Others have been wrenched , not without difficulty , from the undersides of vessels that narwhales have pierced clean through , as a gimlet pierces a wine barrel . The museum at the Faculty of Medicine in Paris owns one of these tusks with a length of 2.25 meters and a width at its base of forty-eight centimeters !
+# text = " In essence , the narwhale is armed with a sort of ivory sword , or lance , as certain naturalists have expressed it . It 's a king-sized tooth as hard as steel . Some of these teeth have been found buried in the bodies of baleen whales , which the narwhale attacks with invariable success . Others have been wrenched , not without difficulty , from the undersides of vessels that narwhales have pierced clean through , as a gimlet pierces a wine barrel . The museum at the Faculty of Medicine in Paris owns one of these tusks with a length of 2.25 meters and a width at its base of forty-eight centimeters !
 # doc_id = 
-1	“	_	Punctuation	Punctuation	_	8	punct	8:punct	_
+1	"	_	Punctuation	Punctuation	_	8	punct	8:punct	_
 2	In	_	Word	Word	_	3	R	3:R	_
 3	essence	_	Word	Word	_	0	root	0:root	_
 4	,	_	Punctuation	Punctuation	_	8	punct	8:punct	_
@@ -28,7 +28,7 @@
 24	it	_	Word	Word	_	23	A	23:A	_
 25	.	_	Punctuation	Punctuation	_	8	punct	8:punct	_
 26	It	_	Word	Word	_	27	A	27:A	_
-27	’s	_	Word	Word	_	3	orphan	3:orphan	_
+27	's	_	Word	Word	_	3	orphan	3:orphan	_
 28	a	_	Word	Word	_	30	E	30:E	_
 29	king-sized	_	Word	Word	_	30	E	30:E	_
 30	tooth	_	Word	Word	_	3	orphan	3:orphan	_

@@ -1,9 +1,9 @@
 # format = ucca
 # sent_id = 826008
-# text = ” “ The hotel will keep them for us .
+# text = " " The hotel will keep them for us .
 # doc_id = 
-1	”	_	Punctuation	Punctuation	_	6	punct	6:punct	_
-2	“	_	Punctuation	Punctuation	_	6	punct	6:punct	_
+1	"	_	Punctuation	Punctuation	_	6	punct	6:punct	_
+2	"	_	Punctuation	Punctuation	_	6	punct	6:punct	_
 3	The	_	Word	Word	_	4	E	4:E	_
 4	hotel	_	Word	Word	_	0	root	0:root	_
 5	will	_	Word	Word	_	6	D	6:D	_

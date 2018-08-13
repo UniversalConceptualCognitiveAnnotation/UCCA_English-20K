@@ -1,6 +1,6 @@
 # format = ucca
 # sent_id = 896000
-# text = The harpooner stared at me awhile before replying , slapped his broad forehead in one of his standard gestures , closed his eyes as if to collect himself , and finally said : “ Just maybe , Professor Aronnax . ”
+# text = The harpooner stared at me awhile before replying , slapped his broad forehead in one of his standard gestures , closed his eyes as if to collect himself , and finally said : " Just maybe , Professor Aronnax . "
 # doc_id = 
 1	The	_	Word	Word	_	2	E	2:E	_
 2	harpooner	_	Word	Word	_	0	root	0:root	_
@@ -35,12 +35,12 @@
 31	finally	_	Word	Word	_	3	L	3:L	_
 32	said	_	Word	Word	_	2	orphan	2:orphan	_
 33	:	_	Punctuation	Punctuation	_	32	punct	32:punct	_
-34	“	_	Punctuation	Punctuation	_	32	punct	32:punct	_
+34	"	_	Punctuation	Punctuation	_	32	punct	32:punct	_
 35	Just	_	Word	Word	_	2	orphan	2:orphan	_
 36	maybe	_	Word	Word	_	35	D	35:D	_
 37	,	_	Punctuation	Punctuation	_	35	punct	35:punct	_
 38	Professor	_	Word	Word	_	35	G	35:G	_
 39	Aronnax	_	Word	Word	_	38	flat	38:flat	_
 40	.	_	Punctuation	Punctuation	_	35	punct	35:punct	_
-41	”	_	Punctuation	Punctuation	_	35	punct	35:punct	_
+41	"	_	Punctuation	Punctuation	_	35	punct	35:punct	_
 

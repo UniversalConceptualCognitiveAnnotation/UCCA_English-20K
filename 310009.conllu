@@ -1,6 +1,6 @@
 # format = ucca
 # sent_id = 310009
-# text = With its untold depths , could n’t the sea keep alive such huge specimens of life from another age , this sea that never changes while the land masses undergo almost continuous alteration ?
+# text = With its untold depths , could n't the sea keep alive such huge specimens of life from another age , this sea that never changes while the land masses undergo almost continuous alteration ?
 # doc_id = 
 1	With	_	Word	Word	_	4	R	4:R	_
 2	its	_	Word	Word	_	4	E	4:E	_
@@ -8,7 +8,7 @@
 4	depths	_	Word	Word	_	3	orphan	3:orphan	_
 5	,	_	Punctuation	Punctuation	_	10	punct	10:punct	_
 6	could	_	Word	Word	_	10	D	10:D	_
-7	n’t	_	Word	Word	_	10	D	10:D	_
+7	n't	_	Word	Word	_	10	D	10:D	_
 8	the	_	Word	Word	_	9	E	9:E	_
 9	sea	_	Word	Word	_	3	orphan	3:orphan	_
 10	keep	_	Word	Word	_	3	orphan	3:orphan	_

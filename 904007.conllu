@@ -1,6 +1,6 @@
 # format = ucca
 # sent_id = 904007
-# text = Which is tantamount to saying that if you could reach such a depth in the ocean , each square centimeter on your body ’s surface would be experiencing 1,000 kilograms of pressure .
+# text = Which is tantamount to saying that if you could reach such a depth in the ocean , each square centimeter on your body 's surface would be experiencing 1,000 kilograms of pressure .
 # doc_id = 
 1	Which	_	Word	Word	_	5	L	5:L	_
 2	is	_	Word	Word	_	5	F	5:F	_
@@ -25,7 +25,7 @@
 21	on	_	Word	Word	_	25	R	25:R	_
 22	your	_	Word	Word	_	23	E	23:E	_
 23	body	_	Word	Word	_	5	orphan	5:orphan	_
-24	’s	_	Word	Word	_	23	R	23:R	_
+24	's	_	Word	Word	_	23	R	23:R	_
 25	surface	_	Word	Word	_	5	orphan	5:orphan	_
 26	would	_	Word	Word	_	28	D	28:D	_
 27	be	_	Word	Word	_	28	F	28:F	_

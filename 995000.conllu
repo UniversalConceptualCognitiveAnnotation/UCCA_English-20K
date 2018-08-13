@@ -1,6 +1,6 @@
 # format = ucca
 # sent_id = 995000
-# text = " Come on , Conseil ! " I told him . " Here ’s your last chance to pocket that $ 2,000.00 ! "
+# text = " Come on , Conseil ! " I told him . " Here 's your last chance to pocket that $ 2,000.00 ! "
 # doc_id = 
 1	"	_	Punctuation	Punctuation	_	2	punct	2:punct	_
 2	Come	_	Word	Word	_	0	root	0:root	_
@@ -15,7 +15,7 @@
 11	.	_	Punctuation	Punctuation	_	9	punct	9:punct	_
 12	"	_	Punctuation	Punctuation	_	9	punct	9:punct	_
 13	Here	_	Word	Word	_	2	orphan	2:orphan	_
-14	’s	_	Word	Word	_	13	F	13:F	_
+14	's	_	Word	Word	_	13	F	13:F	_
 15	your	_	Word	Word	_	17	E	17:E	_
 16	last	_	Word	Word	_	17	E	17:E	_
 17	chance	_	Word	Word	_	2	orphan	2:orphan	_

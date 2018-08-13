@@ -1,6 +1,6 @@
 # format = ucca
 # sent_id = 909002
-# text = To answer them called for dissecting this unknown monster ; to dissect it called for catching it ; to catch it called for harpooning it — which was Ned Land ’s business ; to harpoon it called for sighting it — which was the crew ’s business ; and to sight it called for encountering it — which was a chancy business .
+# text = To answer them called for dissecting this unknown monster ; to dissect it called for catching it ; to catch it called for harpooning it - which was Ned Land 's business ; to harpoon it called for sighting it - which was the crew 's business ; and to sight it called for encountering it - which was a chancy business .
 # doc_id = 
 1	To	_	Word	Word	_	2	F	2:F	_
 2	answer	_	Word	Word	_	0	root	0:root	_
@@ -27,12 +27,12 @@
 23	for	_	Word	Word	_	22	flat	22:flat	_
 24	harpooning	_	Word	Word	_	2	orphan	2:orphan	_
 25	it	_	Word	Word	_	24	A	24:A	_
-26	—	_	Punctuation	Punctuation	_	4	punct	4:punct	_
+26	-	_	Punctuation	Punctuation	_	4	punct	4:punct	_
 27	which	_	Word	Word	_	4	L	4:L	_
 28	was	_	Word	Word	_	32	F	32:F	_
 29	Ned	_	Word	Word	_	32	A	32:A	_
 30	Land	_	Word	Word	_	29	flat	29:flat	_
-31	’s	_	Word	Word	_	32	R	32:R	_
+31	's	_	Word	Word	_	32	R	32:R	_
 32	business	_	Word	Word	_	2	orphan	2:orphan	_
 33	;	_	Punctuation	Punctuation	_	4	punct	4:punct	_
 34	to	_	Word	Word	_	35	F	35:F	_
@@ -42,12 +42,12 @@
 38	for	_	Word	Word	_	37	flat	37:flat	_
 39	sighting	_	Word	Word	_	2	orphan	2:orphan	_
 40	it	_	Word	Word	_	39	A	39:A	_
-41	—	_	Punctuation	Punctuation	_	4	punct	4:punct	_
+41	-	_	Punctuation	Punctuation	_	4	punct	4:punct	_
 42	which	_	Word	Word	_	4	L	4:L	_
 43	was	_	Word	Word	_	47	F	47:F	_
 44	the	_	Word	Word	_	45	E	45:E	_
 45	crew	_	Word	Word	_	2	orphan	2:orphan	_
-46	’s	_	Word	Word	_	47	R	47:R	_
+46	's	_	Word	Word	_	47	R	47:R	_
 47	business	_	Word	Word	_	2	orphan	2:orphan	_
 48	;	_	Punctuation	Punctuation	_	4	punct	4:punct	_
 49	and	_	Word	Word	_	4	L	4:L	_
@@ -58,7 +58,7 @@
 54	for	_	Word	Word	_	53	flat	53:flat	_
 55	encountering	_	Word	Word	_	2	orphan	2:orphan	_
 56	it	_	Word	Word	_	55	A	55:A	_
-57	—	_	Punctuation	Punctuation	_	4	punct	4:punct	_
+57	-	_	Punctuation	Punctuation	_	4	punct	4:punct	_
 58	which	_	Word	Word	_	4	L	4:L	_
 59	was	_	Word	Word	_	62	F	62:F	_
 60	a	_	Word	Word	_	62	E	62:E	_

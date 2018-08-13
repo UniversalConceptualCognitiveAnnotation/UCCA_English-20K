@@ -1,14 +1,14 @@
 # format = ucca
 # sent_id = 907005
-# text = ” “ But if they do n’t exist , my stubborn harpooner , how do you explain the accident that happened to the Scotia ?
+# text = " " But if they do n't exist , my stubborn harpooner , how do you explain the accident that happened to the Scotia ?
 # doc_id = 
-1	”	_	Punctuation	Punctuation	_	8	punct	8:punct	_
-2	“	_	Punctuation	Punctuation	_	8	punct	8:punct	_
+1	"	_	Punctuation	Punctuation	_	8	punct	8:punct	_
+2	"	_	Punctuation	Punctuation	_	8	punct	8:punct	_
 3	But	_	Word	Word	_	8	L	8:L	_
 4	if	_	Word	Word	_	8	L	8:L	_
 5	they	_	Word	Word	_	8	A	8:A	_
 6	do	_	Word	Word	_	8	F	8:F	_
-7	n’t	_	Word	Word	_	8	D	8:D	_
+7	n't	_	Word	Word	_	8	D	8:D	_
 8	exist	_	Word	Word	_	0	root	0:root	_
 9	,	_	Punctuation	Punctuation	_	8	punct	8:punct	_
 10	my	_	Word	Word	_	8	G	8:G	_

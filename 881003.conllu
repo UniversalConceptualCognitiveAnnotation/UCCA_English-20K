@@ -1,6 +1,6 @@
 # format = ucca
 # sent_id = 881003
-# text = As often as the sun swept over its daily arc , the masts were populated with sailors whose feet itched and could n’t hold still on the planking of the deck below !
+# text = As often as the sun swept over its daily arc , the masts were populated with sailors whose feet itched and could n't hold still on the planking of the deck below !
 # doc_id = 
 1	As	_	Word	Word	_	2	R	2:R	_
 2	often	_	Word	Word	_	0	root	0:root	_
@@ -24,7 +24,7 @@
 20	itched	_	Word	Word	_	2	orphan	2:orphan	_
 21	and	_	Word	Word	_	20	L	20:L	_
 22	could	_	Word	Word	_	24	D	24:D	_
-23	n’t	_	Word	Word	_	24	D	24:D	_
+23	n't	_	Word	Word	_	24	D	24:D	_
 24	hold	_	Word	Word	_	2	orphan	2:orphan	_
 25	still	_	Word	Word	_	24	flat	24:flat	_
 26	on	_	Word	Word	_	28	R	28:R	_

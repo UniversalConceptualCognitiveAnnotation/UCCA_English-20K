@@ -1,12 +1,12 @@
 # format = ucca
 # sent_id = 839001
-# text = And so if I ’d been delayed by a quarter of an hour or even less , the frigate would have gone without me , and I would have missed out on this unearthly , extraordinary , and inconceivable expedition , whose true story might well meet with some skepticism .
+# text = And so if I 'd been delayed by a quarter of an hour or even less , the frigate would have gone without me , and I would have missed out on this unearthly , extraordinary , and inconceivable expedition , whose true story might well meet with some skepticism .
 # doc_id = 
 1	And	_	Word	Word	_	7	L	7:L	_
 2	so	_	Word	Word	_	1	flat	1:flat	_
 3	if	_	Word	Word	_	7	L	7:L	_
 4	I	_	Word	Word	_	7	A	7:A	_
-5	’d	_	Word	Word	_	7	D	7:D	_
+5	'd	_	Word	Word	_	7	D	7:D	_
 6	been	_	Word	Word	_	7	F	7:F	_
 7	delayed	_	Word	Word	_	0	root	0:root	_
 8	by	_	Word	Word	_	13	R	13:R	_

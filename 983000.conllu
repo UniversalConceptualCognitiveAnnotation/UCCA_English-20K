@@ -1,6 +1,6 @@
 # format = ucca
 # sent_id = 983000
-# text = We were finally in the area of the monster ’s latest antics !
+# text = We were finally in the area of the monster 's latest antics !
 # doc_id = 
 1	We	_	Word	Word	_	2	A	2:A	_
 2	were	_	Word	Word	_	0	root	0:root	_
@@ -11,7 +11,7 @@
 7	of	_	Word	Word	_	6	R	6:R	_
 8	the	_	Word	Word	_	9	E	9:E	_
 9	monster	_	Word	Word	_	2	orphan	2:orphan	_
-10	’s	_	Word	Word	_	9	R	9:R	_
+10	's	_	Word	Word	_	9	R	9:R	_
 11	latest	_	Word	Word	_	12	E	12:E	_
 12	antics	_	Word	Word	_	2	orphan	2:orphan	_
 13	!	_	Punctuation	Punctuation	_	12	punct	12:punct	_

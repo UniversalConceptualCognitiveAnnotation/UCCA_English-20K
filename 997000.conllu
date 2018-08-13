@@ -1,10 +1,10 @@
 # format = ucca
 # sent_id = 997000
-# text = “ You ’re right , Conseil , it turned out to be a foolish business after all , and we jumped into it too hastily . What a waste of time , what a futile expense of emotion ! Six months ago we could have been back in France— " " In master’s little apartment , " Conseil answered . " In master’s museum ! And by now I would have classified master’s fossils . And master’s babirusa would be ensconced in its cage at the zoo in the Botanical Gardens , and it would have attracted every curiosity seeker in town !
+# text = " You 're right , Conseil , it turned out to be a foolish business after all , and we jumped into it too hastily . What a waste of time , what a futile expense of emotion ! Six months ago we could have been back in France- " " In master's little apartment , " Conseil answered . " In master's museum ! And by now I would have classified master's fossils . And master's babirusa would be ensconced in its cage at the zoo in the Botanical Gardens , and it would have attracted every curiosity seeker in town !
 # doc_id = 
-1	“	_	Punctuation	Punctuation	_	4	punct	4:punct	_
+1	"	_	Punctuation	Punctuation	_	4	punct	4:punct	_
 2	You	_	Word	Word	_	4	A	4:A	_
-3	’re	_	Word	Word	_	4	F	4:F	_
+3	're	_	Word	Word	_	4	F	4:F	_
 4	right	_	Word	Word	_	0	root	0:root	_
 5	,	_	Punctuation	Punctuation	_	4	punct	4:punct	_
 6	Conseil	_	Word	Word	_	4	G	4:G	_
@@ -50,11 +50,11 @@
 46	been	_	Word	Word	_	47	F	47:F	_
 47	back	_	Word	Word	_	4	orphan	4:orphan	_
 48	in	_	Word	Word	_	49	R	49:R	_
-49	France—	_	Word	Word	_	4	orphan	4:orphan	_
+49	France-	_	Word	Word	_	4	orphan	4:orphan	_
 50	"	_	Punctuation	Punctuation	_	4	punct	4:punct	_
 51	"	_	Punctuation	Punctuation	_	4	punct	4:punct	_
 52	In	_	Word	Word	_	55	R	55:R	_
-53	master’s	_	Word	Word	_	55	E	55:E	_
+53	master's	_	Word	Word	_	55	E	55:E	_
 54	little	_	Word	Word	_	55	E	55:E	_
 55	apartment	_	Word	Word	_	4	orphan	4:orphan	_
 56	,	_	Punctuation	Punctuation	_	59	punct	59:punct	_
@@ -64,7 +64,7 @@
 60	.	_	Punctuation	Punctuation	_	59	punct	59:punct	_
 61	"	_	Punctuation	Punctuation	_	59	punct	59:punct	_
 62	In	_	Word	Word	_	64	R	64:R	_
-63	master’s	_	Word	Word	_	64	E	64:E	_
+63	master's	_	Word	Word	_	64	E	64:E	_
 64	museum	_	Word	Word	_	4	orphan	4:orphan	_
 65	!	_	Punctuation	Punctuation	_	55	punct	55:punct	_
 66	And	_	Word	Word	_	55	L	55:L	_
@@ -74,11 +74,11 @@
 70	would	_	Word	Word	_	72	D	72:D	_
 71	have	_	Word	Word	_	72	F	72:F	_
 72	classified	_	Word	Word	_	4	orphan	4:orphan	_
-73	master’s	_	Word	Word	_	74	E	74:E	_
+73	master's	_	Word	Word	_	74	E	74:E	_
 74	fossils	_	Word	Word	_	4	orphan	4:orphan	_
 75	.	_	Punctuation	Punctuation	_	55	punct	55:punct	_
 76	And	_	Word	Word	_	55	L	55:L	_
-77	master’s	_	Word	Word	_	78	E	78:E	_
+77	master's	_	Word	Word	_	78	E	78:E	_
 78	babirusa	_	Word	Word	_	4	orphan	4:orphan	_
 79	would	_	Word	Word	_	81	D	81:D	_
 80	be	_	Word	Word	_	81	F	81:F	_

@@ -1,6 +1,6 @@
 # format = ucca
 # sent_id = 829001
-# text = Conseil did them in a flash , and I was sure the lad had n’t missed a thing , because he classified shirts and suits as expertly as birds and mammals .
+# text = Conseil did them in a flash , and I was sure the lad had n't missed a thing , because he classified shirts and suits as expertly as birds and mammals .
 # doc_id = 
 1	Conseil	_	Word	Word	_	2	A	2:A	_
 2	did	_	Word	Word	_	0	root	0:root	_
@@ -16,7 +16,7 @@
 12	the	_	Word	Word	_	13	E	13:E	_
 13	lad	_	Word	Word	_	2	orphan	2:orphan	_
 14	had	_	Word	Word	_	16	F	16:F	_
-15	n’t	_	Word	Word	_	16	D	16:D	_
+15	n't	_	Word	Word	_	16	D	16:D	_
 16	missed	_	Word	Word	_	2	orphan	2:orphan	_
 17	a	_	Word	Word	_	18	E	18:E	_
 18	thing	_	Word	Word	_	2	orphan	2:orphan	_

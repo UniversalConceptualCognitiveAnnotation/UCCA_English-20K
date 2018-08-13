@@ -1,8 +1,8 @@
 # format = ucca
 # sent_id = 304000
-# text = “ The common narwhale , or sea unicorn , often reaches a length of sixty feet . Increase its dimensions fivefold or even tenfold , then give this cetacean a strength in proportion to its size while enlarging its offensive weapons , and you have the animal we ’re looking for . It would have the proportions determined by the officers of the Shannon , the instrument needed to perforate the Scotia , and the power to pierce a steamer ’s hull .
+# text = " The common narwhale , or sea unicorn , often reaches a length of sixty feet . Increase its dimensions fivefold or even tenfold , then give this cetacean a strength in proportion to its size while enlarging its offensive weapons , and you have the animal we 're looking for . It would have the proportions determined by the officers of the Shannon , the instrument needed to perforate the Scotia , and the power to pierce a steamer 's hull .
 # doc_id = 
-1	“	_	Punctuation	Punctuation	_	13	punct	13:punct	_
+1	"	_	Punctuation	Punctuation	_	13	punct	13:punct	_
 2	The	_	Word	Word	_	4	E	4:E	_
 3	common	_	Word	Word	_	4	E	4:E	_
 4	narwhale	_	Word	Word	_	0	root	0:root	_
@@ -50,7 +50,7 @@
 46	the	_	Word	Word	_	47	E	47:E	_
 47	animal	_	Word	Word	_	4	orphan	4:orphan	_
 48	we	_	Word	Word	_	50	A	50:A	_
-49	’re	_	Word	Word	_	50	F	50:F	_
+49	're	_	Word	Word	_	50	F	50:F	_
 50	looking	_	Word	Word	_	4	orphan	4:orphan	_
 51	for	_	Word	Word	_	50	flat	50:flat	_
 52	.	_	Punctuation	Punctuation	_	13	punct	13:punct	_
@@ -82,7 +82,7 @@
 78	pierce	_	Word	Word	_	4	orphan	4:orphan	_
 79	a	_	Word	Word	_	82	E	82:E	_
 80	steamer	_	Word	Word	_	4	orphan	4:orphan	_
-81	’s	_	Word	Word	_	80	R	80:R	_
+81	's	_	Word	Word	_	80	R	80:R	_
 82	hull	_	Word	Word	_	4	orphan	4:orphan	_
 83	.	_	Punctuation	Punctuation	_	82	punct	82:punct	_
 

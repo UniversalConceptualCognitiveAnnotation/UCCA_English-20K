@@ -1,9 +1,9 @@
 # format = ucca
 # sent_id = 905006
-# text = ” “ Precisely , Ned . So at thirty-two feet beneath the surface of the sea , you ’ll undergo a pressure of 17,568 kilograms ; at 320 feet , or ten times greater pressure , it ’s 175,680 kilograms ; at 3,200 feet , or 100 times greater pressure , it ’s 1,756,800 kilograms ; finally , at 32,000 feet , or 1,000 times greater pressure , it ’s 17,568,000 kilograms ; in other words , you ’d be squashed as flat as if you ’d just been yanked from between the plates of a hydraulic press !
+# text = " " Precisely , Ned . So at thirty-two feet beneath the surface of the sea , you 'll undergo a pressure of 17,568 kilograms ; at 320 feet , or ten times greater pressure , it 's 175,680 kilograms ; at 3,200 feet , or 100 times greater pressure , it 's 1,756,800 kilograms ; finally , at 32,000 feet , or 1,000 times greater pressure , it 's 17,568,000 kilograms ; in other words , you 'd be squashed as flat as if you 'd just been yanked from between the plates of a hydraulic press !
 # doc_id = 
-1	”	_	Punctuation	Punctuation	_	3	punct	3:punct	_
-2	“	_	Punctuation	Punctuation	_	3	punct	3:punct	_
+1	"	_	Punctuation	Punctuation	_	3	punct	3:punct	_
+2	"	_	Punctuation	Punctuation	_	3	punct	3:punct	_
 3	Precisely	_	Word	Word	_	0	root	0:root	_
 4	,	_	Punctuation	Punctuation	_	3	punct	3:punct	_
 5	Ned	_	Word	Word	_	3	G	3:G	_
@@ -20,7 +20,7 @@
 16	sea	_	Word	Word	_	3	orphan	3:orphan	_
 17	,	_	Punctuation	Punctuation	_	20	punct	20:punct	_
 18	you	_	Word	Word	_	20	A	20:A	_
-19	’ll	_	Word	Word	_	20	F	20:F	_
+19	'll	_	Word	Word	_	20	F	20:F	_
 20	undergo	_	Word	Word	_	3	orphan	3:orphan	_
 21	a	_	Word	Word	_	22	E	22:E	_
 22	pressure	_	Word	Word	_	3	orphan	3:orphan	_
@@ -39,7 +39,7 @@
 35	pressure	_	Word	Word	_	3	orphan	3:orphan	_
 36	,	_	Punctuation	Punctuation	_	29	punct	29:punct	_
 37	it	_	Word	Word	_	29	F	29:F	_
-38	’s	_	Word	Word	_	37	flat	37:flat	_
+38	's	_	Word	Word	_	37	flat	37:flat	_
 39	175,680	_	Word	Word	_	40	E	40:E	_
 40	kilograms	_	Word	Word	_	3	orphan	3:orphan	_
 41	;	_	Punctuation	Punctuation	_	3	punct	3:punct	_
@@ -54,7 +54,7 @@
 50	pressure	_	Word	Word	_	3	orphan	3:orphan	_
 51	,	_	Punctuation	Punctuation	_	44	punct	44:punct	_
 52	it	_	Word	Word	_	44	F	44:F	_
-53	’s	_	Word	Word	_	52	flat	52:flat	_
+53	's	_	Word	Word	_	52	flat	52:flat	_
 54	1,756,800	_	Word	Word	_	55	E	55:E	_
 55	kilograms	_	Word	Word	_	3	orphan	3:orphan	_
 56	;	_	Punctuation	Punctuation	_	3	punct	3:punct	_
@@ -71,7 +71,7 @@
 67	pressure	_	Word	Word	_	3	orphan	3:orphan	_
 68	,	_	Punctuation	Punctuation	_	61	punct	61:punct	_
 69	it	_	Word	Word	_	61	F	61:F	_
-70	’s	_	Word	Word	_	69	flat	69:flat	_
+70	's	_	Word	Word	_	69	flat	69:flat	_
 71	17,568,000	_	Word	Word	_	72	E	72:E	_
 72	kilograms	_	Word	Word	_	3	orphan	3:orphan	_
 73	;	_	Punctuation	Punctuation	_	3	punct	3:punct	_
@@ -80,7 +80,7 @@
 76	words	_	Word	Word	_	3	orphan	3:orphan	_
 77	,	_	Punctuation	Punctuation	_	3	punct	3:punct	_
 78	you	_	Word	Word	_	81	A	81:A	_
-79	’d	_	Word	Word	_	81	D	81:D	_
+79	'd	_	Word	Word	_	81	D	81:D	_
 80	be	_	Word	Word	_	81	F	81:F	_
 81	squashed	_	Word	Word	_	3	orphan	3:orphan	_
 82	as	_	Word	Word	_	83	F	83:F	_
@@ -88,7 +88,7 @@
 84	as	_	Word	Word	_	3	L	3:L	_
 85	if	_	Word	Word	_	84	flat	84:flat	_
 86	you	_	Word	Word	_	90	A	90:A	_
-87	’d	_	Word	Word	_	90	D	90:D	_
+87	'd	_	Word	Word	_	90	D	90:D	_
 88	just	_	Word	Word	_	90	D	90:D	_
 89	been	_	Word	Word	_	90	F	90:F	_
 90	yanked	_	Word	Word	_	3	orphan	3:orphan	_

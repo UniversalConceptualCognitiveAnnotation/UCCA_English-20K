@@ -1,6 +1,6 @@
 # format = ucca
 # sent_id = 976007
-# text = I stared ; I stared until I nearly went blind from a worn-out retina , while Conseil , as stoic as ever , kept repeating to me in a calm tone : “ If master ’s eyes would kindly stop bulging , master will see farther ! ”
+# text = I stared ; I stared until I nearly went blind from a worn-out retina , while Conseil , as stoic as ever , kept repeating to me in a calm tone : " If master 's eyes would kindly stop bulging , master will see farther ! "
 # doc_id = 
 1	I	_	Word	Word	_	2	A	2:A	_
 2	stared	_	Word	Word	_	0	root	0:root	_
@@ -34,10 +34,10 @@
 30	calm	_	Word	Word	_	31	E	31:E	_
 31	tone	_	Word	Word	_	2	orphan	2:orphan	_
 32	:	_	Punctuation	Punctuation	_	25	punct	25:punct	_
-33	“	_	Punctuation	Punctuation	_	25	punct	25:punct	_
+33	"	_	Punctuation	Punctuation	_	25	punct	25:punct	_
 34	If	_	Word	Word	_	41	L	41:L	_
 35	master	_	Word	Word	_	2	orphan	2:orphan	_
-36	’s	_	Word	Word	_	35	R	35:R	_
+36	's	_	Word	Word	_	35	R	35:R	_
 37	eyes	_	Word	Word	_	2	orphan	2:orphan	_
 38	would	_	Word	Word	_	41	F	41:F	_
 39	kindly	_	Word	Word	_	41	D	41:D	_
@@ -49,5 +49,5 @@
 45	see	_	Word	Word	_	2	orphan	2:orphan	_
 46	farther	_	Word	Word	_	45	D	45:D	_
 47	!	_	Punctuation	Punctuation	_	45	punct	45:punct	_
-48	”	_	Punctuation	Punctuation	_	45	punct	45:punct	_
+48	"	_	Punctuation	Punctuation	_	45	punct	45:punct	_
 

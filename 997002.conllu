@@ -1,6 +1,6 @@
 # format = ucca
 # sent_id = 997002
-# text = " " To be sure , " Conseil replied serenely , " I do think they ’ll have fun at master ’s expense . And must it be said ... ? " " It must be said , Conseil .
+# text = " " To be sure , " Conseil replied serenely , " I do think they 'll have fun at master 's expense . And must it be said ... ? " " It must be said , Conseil .
 # doc_id = 
 1	"	_	Punctuation	Punctuation	_	9	punct	9:punct	_
 2	"	_	Punctuation	Punctuation	_	9	punct	9:punct	_
@@ -18,12 +18,12 @@
 14	do	_	Word	Word	_	15	F	15:F	_
 15	think	_	Word	Word	_	9	orphan	9:orphan	_
 16	they	_	Word	Word	_	18	A	18:A	_
-17	’ll	_	Word	Word	_	18	F	18:F	_
+17	'll	_	Word	Word	_	18	F	18:F	_
 18	have	_	Word	Word	_	9	orphan	9:orphan	_
 19	fun	_	Word	Word	_	18	flat	18:flat	_
 20	at	_	Word	Word	_	23	R	23:R	_
 21	master	_	Word	Word	_	9	orphan	9:orphan	_
-22	’s	_	Word	Word	_	21	R	21:R	_
+22	's	_	Word	Word	_	21	R	21:R	_
 23	expense	_	Word	Word	_	9	orphan	9:orphan	_
 24	.	_	Punctuation	Punctuation	_	15	punct	15:punct	_
 25	And	_	Word	Word	_	15	L	15:L	_

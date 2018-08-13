@@ -1,12 +1,12 @@
 # format = ucca
 # sent_id = 899003
-# text = . . ? ” “ Even less likely , Ned . The devilfish is merely a mollusk , and even this name hints at its semiliquid flesh , because it ’s Latin meaning soft one . The devilfish does n’t belong to the vertebrate branch , and even if it were 500 feet long , it would still be utterly harmless to ships like the Scotia or the Abraham Lincoln . Consequently , the feats of krakens or other monsters of that ilk must be relegated to the realm of fiction . ”
+# text = . . ? " " Even less likely , Ned . The devilfish is merely a mollusk , and even this name hints at its semiliquid flesh , because it 's Latin meaning soft one . The devilfish does n't belong to the vertebrate branch , and even if it were 500 feet long , it would still be utterly harmless to ships like the Scotia or the Abraham Lincoln . Consequently , the feats of krakens or other monsters of that ilk must be relegated to the realm of fiction . "
 # doc_id = 
 1	.	_	Punctuation	Punctuation	_	8	punct	8:punct	_
 2	.	_	Punctuation	Punctuation	_	8	punct	8:punct	_
 3	?	_	Punctuation	Punctuation	_	8	punct	8:punct	_
-4	”	_	Punctuation	Punctuation	_	8	punct	8:punct	_
-5	“	_	Punctuation	Punctuation	_	8	punct	8:punct	_
+4	"	_	Punctuation	Punctuation	_	8	punct	8:punct	_
+5	"	_	Punctuation	Punctuation	_	8	punct	8:punct	_
 6	Even	_	Word	Word	_	8	G	8:G	_
 7	less	_	Word	Word	_	8	D	8:D	_
 8	likely	_	Word	Word	_	0	root	0:root	_
@@ -32,7 +32,7 @@
 28	,	_	Punctuation	Punctuation	_	8	punct	8:punct	_
 29	because	_	Word	Word	_	8	L	8:L	_
 30	it	_	Word	Word	_	31	A	31:A	_
-31	’s	_	Word	Word	_	8	orphan	8:orphan	_
+31	's	_	Word	Word	_	8	orphan	8:orphan	_
 32	Latin	_	Word	Word	_	31	A	31:A	_
 33	meaning	_	Word	Word	_	8	orphan	8:orphan	_
 34	soft	_	Word	Word	_	35	E	35:E	_
@@ -41,7 +41,7 @@
 37	The	_	Word	Word	_	38	E	38:E	_
 38	devilfish	_	Word	Word	_	8	orphan	8:orphan	_
 39	does	_	Word	Word	_	41	F	41:F	_
-40	n’t	_	Word	Word	_	41	D	41:D	_
+40	n't	_	Word	Word	_	41	D	41:D	_
 41	belong	_	Word	Word	_	8	orphan	8:orphan	_
 42	to	_	Word	Word	_	44	R	44:R	_
 43	the	_	Word	Word	_	45	E	45:E	_
@@ -94,5 +94,5 @@
 90	of	_	Word	Word	_	89	R	89:R	_
 91	fiction	_	Word	Word	_	8	orphan	8:orphan	_
 92	.	_	Punctuation	Punctuation	_	91	punct	91:punct	_
-93	”	_	Punctuation	Punctuation	_	91	punct	91:punct	_
+93	"	_	Punctuation	Punctuation	_	91	punct	91:punct	_
 

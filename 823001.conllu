@@ -1,6 +1,6 @@
 # format = ucca
 # sent_id = 823001
-# text = He was a fanatic on formality , and he only addressed me in the third person — to the point where it got tiresome .
+# text = He was a fanatic on formality , and he only addressed me in the third person - to the point where it got tiresome .
 # doc_id = 
 1	He	_	Word	Word	_	4	A	4:A	_
 2	was	_	Word	Word	_	4	F	4:F	_
@@ -18,7 +18,7 @@
 14	the	_	Word	Word	_	16	E	16:E	_
 15	third	_	Word	Word	_	16	E	16:E	_
 16	person	_	Word	Word	_	4	orphan	4:orphan	_
-17	—	_	Punctuation	Punctuation	_	4	punct	4:punct	_
+17	-	_	Punctuation	Punctuation	_	4	punct	4:punct	_
 18	to	_	Word	Word	_	20	R	20:R	_
 19	the	_	Word	Word	_	20	E	20:E	_
 20	point	_	Word	Word	_	4	orphan	4:orphan	_

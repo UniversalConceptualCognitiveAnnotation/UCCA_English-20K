@@ -1,11 +1,11 @@
 # format = ucca
 # sent_id = 316006
-# text = Half a day ’s delay would have been unforgivable !
+# text = Half a day 's delay would have been unforgivable !
 # doc_id = 
 1	Half	_	Word	Word	_	3	E	3:E	_
 2	a	_	Word	Word	_	3	E	3:E	_
 3	day	_	Word	Word	_	0	root	0:root	_
-4	’s	_	Word	Word	_	3	R	3:R	_
+4	's	_	Word	Word	_	3	R	3:R	_
 5	delay	_	Word	Word	_	3	orphan	3:orphan	_
 6	would	_	Word	Word	_	9	D	9:D	_
 7	have	_	Word	Word	_	9	F	9:F	_

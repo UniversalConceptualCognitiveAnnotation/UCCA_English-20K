@@ -1,6 +1,6 @@
 # format = ucca
 # sent_id = 969003
-# text = And the Canadian had such good luck that with a right - and - left shot , he harpooned not one whale but two , striking the first straight to the heart and catching the other after a few minutes’ chase !
+# text = And the Canadian had such good luck that with a right - and - left shot , he harpooned not one whale but two , striking the first straight to the heart and catching the other after a few minutes' chase !
 # doc_id = 
 1	And	_	Word	Word	_	7	L	7:L	_
 2	the	_	Word	Word	_	3	E	3:E	_
@@ -41,7 +41,7 @@
 37	after	_	Word	Word	_	7	L	7:L	_
 38	a	_	Word	Word	_	40	E	40:E	_
 39	few	_	Word	Word	_	38	flat	38:flat	_
-40	minutes’	_	Word	Word	_	3	orphan	3:orphan	_
+40	minutes'	_	Word	Word	_	3	orphan	3:orphan	_
 41	chase	_	Word	Word	_	3	orphan	3:orphan	_
 42	!	_	Punctuation	Punctuation	_	41	punct	41:punct	_
 

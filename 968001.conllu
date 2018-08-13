@@ -1,6 +1,6 @@
 # format = ucca
 # sent_id = 968001
-# text = But one circumstance arose that displayed Ned Land ’s marvelous skills and showed just how much confidence we could place in him .
+# text = But one circumstance arose that displayed Ned Land 's marvelous skills and showed just how much confidence we could place in him .
 # doc_id = 
 1	But	_	Word	Word	_	4	L	4:L	_
 2	one	_	Word	Word	_	3	E	3:E	_
@@ -10,7 +10,7 @@
 6	displayed	_	Word	Word	_	3	orphan	3:orphan	_
 7	Ned	_	Word	Word	_	3	orphan	3:orphan	_
 8	Land	_	Word	Word	_	7	flat	7:flat	_
-9	’s	_	Word	Word	_	7	R	7:R	_
+9	's	_	Word	Word	_	7	R	7:R	_
 10	marvelous	_	Word	Word	_	11	E	11:E	_
 11	skills	_	Word	Word	_	3	orphan	3:orphan	_
 12	and	_	Word	Word	_	4	L	4:L	_

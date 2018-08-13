@@ -1,8 +1,8 @@
 # format = ucca
 # sent_id = 827000
-# text = “ You see , my friend , it ’s an issue of the monster , the notorious narwhale . We ’re going to rid the seas of it ! The author of a two - volume work , in quarto , on The Mysteries of the Great Ocean Depths has no excuse for not setting sail with Commander Farragut . It ’s a glorious mission but also a dangerous one ! We do n’t know where it will take us ! These beasts can be quite unpredictable ! But we ’re going just the same ! We have a commander who ’s game for anything ! ”
+# text = " You see , my friend , it 's an issue of the monster , the notorious narwhale . We 're going to rid the seas of it ! The author of a two - volume work , in quarto , on The Mysteries of the Great Ocean Depths has no excuse for not setting sail with Commander Farragut . It 's a glorious mission but also a dangerous one ! We do n't know where it will take us ! These beasts can be quite unpredictable ! But we 're going just the same ! We have a commander who 's game for anything ! "
 # doc_id = 
-1	“	_	Punctuation	Punctuation	_	3	punct	3:punct	_
+1	"	_	Punctuation	Punctuation	_	3	punct	3:punct	_
 2	You	_	Word	Word	_	3	A	3:A	_
 3	see	_	Word	Word	_	0	root	0:root	_
 4	,	_	Punctuation	Punctuation	_	3	punct	3:punct	_
@@ -10,7 +10,7 @@
 6	friend	_	Word	Word	_	5	flat	5:flat	_
 7	,	_	Punctuation	Punctuation	_	3	punct	3:punct	_
 8	it	_	Word	Word	_	11	A	11:A	_
-9	’s	_	Word	Word	_	11	F	11:F	_
+9	's	_	Word	Word	_	11	F	11:F	_
 10	an	_	Word	Word	_	11	E	11:E	_
 11	issue	_	Word	Word	_	3	orphan	3:orphan	_
 12	of	_	Word	Word	_	14	R	14:R	_
@@ -22,7 +22,7 @@
 18	narwhale	_	Word	Word	_	3	orphan	3:orphan	_
 19	.	_	Punctuation	Punctuation	_	3	punct	3:punct	_
 20	We	_	Word	Word	_	24	A	24:A	_
-21	’re	_	Word	Word	_	24	F	24:F	_
+21	're	_	Word	Word	_	24	F	24:F	_
 22	going	_	Word	Word	_	24	F	24:F	_
 23	to	_	Word	Word	_	22	flat	22:flat	_
 24	rid	_	Word	Word	_	3	orphan	3:orphan	_
@@ -63,7 +63,7 @@
 59	Farragut	_	Word	Word	_	3	orphan	3:orphan	_
 60	.	_	Punctuation	Punctuation	_	3	punct	3:punct	_
 61	It	_	Word	Word	_	64	A	64:A	_
-62	’s	_	Word	Word	_	64	F	64:F	_
+62	's	_	Word	Word	_	64	F	64:F	_
 63	a	_	Word	Word	_	65	E	65:E	_
 64	glorious	_	Word	Word	_	3	orphan	3:orphan	_
 65	mission	_	Word	Word	_	3	orphan	3:orphan	_
@@ -75,7 +75,7 @@
 71	!	_	Punctuation	Punctuation	_	3	punct	3:punct	_
 72	We	_	Word	Word	_	75	A	75:A	_
 73	do	_	Word	Word	_	75	F	75:F	_
-74	n’t	_	Word	Word	_	75	D	75:D	_
+74	n't	_	Word	Word	_	75	D	75:D	_
 75	know	_	Word	Word	_	3	orphan	3:orphan	_
 76	where	_	Word	Word	_	79	A	79:A	_
 77	it	_	Word	Word	_	79	A	79:A	_
@@ -92,7 +92,7 @@
 88	!	_	Punctuation	Punctuation	_	3	punct	3:punct	_
 89	But	_	Word	Word	_	3	L	3:L	_
 90	we	_	Word	Word	_	92	A	92:A	_
-91	’re	_	Word	Word	_	92	F	92:F	_
+91	're	_	Word	Word	_	92	F	92:F	_
 92	going	_	Word	Word	_	3	orphan	3:orphan	_
 93	just	_	Word	Word	_	92	D	92:D	_
 94	the	_	Word	Word	_	93	flat	93:flat	_
@@ -103,10 +103,10 @@
 99	a	_	Word	Word	_	100	E	100:E	_
 100	commander	_	Word	Word	_	3	orphan	3:orphan	_
 101	who	_	Word	Word	_	103	R	103:R	_
-102	’s	_	Word	Word	_	103	F	103:F	_
+102	's	_	Word	Word	_	103	F	103:F	_
 103	game	_	Word	Word	_	3	orphan	3:orphan	_
 104	for	_	Word	Word	_	105	R	105:R	_
 105	anything	_	Word	Word	_	3	orphan	3:orphan	_
 106	!	_	Punctuation	Punctuation	_	105	punct	105:punct	_
-107	”	_	Punctuation	Punctuation	_	105	punct	105:punct	_
+107	"	_	Punctuation	Punctuation	_	105	punct	105:punct	_
 
