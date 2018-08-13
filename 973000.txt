@@ -1,5 +1,5 @@
 # ::id 973000
-# ::tok Near three o’clock in the afternoon on July 6 , fifteen miles south of shore , the Abraham Lincoln doubled that solitary islet at the tip of the South American continent , that stray rock Dutch seamen had named Cape Horn after their hometown of Hoorn .
+# ::tok Near three o'clock in the afternoon on July 6 , fifteen miles south of shore , the Abraham Lincoln doubled that solitary islet at the tip of the South American continent , that stray rock Dutch seamen had named Cape Horn after their hometown of Hoorn .
 # ::alignments 0-1.1.1.1 1-1.1.1.2 2-1.1.1.3 3-1.1.1.4.1 4-1.1.1.4.2 5-1.1.1.4.3 6-1.1.2.1 7-1.1.2.2 8-1.1.2.2 10-1.1.3.1 11-1.1.3.2 12-1.1.3.3.1.1 13-1.1.3.3.1.2 14-1.1.3.3.2 16-1.1.4.1 17-1.1.4.2 18-1.1.4.2 19-1.1.5 20-1.1.6.1.1 21-1.1.6.1.2 22-1.1.6.1.3 23-1.1.6.1.4.1.1 24-1.1.6.1.4.1.2 25-1.1.6.1.4.1.3 26-1.1.6.1.4.1.4 27-1.1.6.1.4.2 28-1.1.6.1.4.3.1 29-1.1.6.1.4.3.2 30-1.1.6.1.4.4 32-1.1.6.2.1 33-1.1.6.2.2 34-1.1.6.2.3 35-1.1.6.2.4.1.1 36-1.1.6.2.4.1.2 38-1.1.6.2.4.3 39-1.1.6.2.4.4 40-1.1.6.2.4.4 41-1.1.6.2.4.5.1 42-1.1.6.2.4.5.2 43-1.1.6.2.4.5.3 44-1.1.6.2.4.5.4.1 45-1.1.6.2.4.5.4.2
 (v1 / label
     :H (v2 / label

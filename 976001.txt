@@ -1,5 +1,5 @@
 # ::id 976001
-# ::tok Snatching only a few minutes for meals and a few hours for sleep , come rain or come shine , I no longer left the ship ’s deck .
+# ::tok Snatching only a few minutes for meals and a few hours for sleep , come rain or come shine , I no longer left the ship 's deck .
 # ::alignments 0-1.1.2 1-1.1.3 2-1.1.4.1 3-1.1.4.2 4-1.1.4.3 5-1.1.5.1 6-1.1.5.2 7-1.2 8-1.3.2.1 9-1.3.2.2 10-1.3.2.3 11-1.3.3.1 12-1.3.3.2.2 14-1.4.1 15-1.4.1 16-1.4.1 17-1.4.1 18-1.4.1 20-1.4.2 21-1.4.3.1 22-1.4.3.2 23-1.4.4 24-1.4.5.1.1 25-1.4.5.1.2 26-1.4.5.1.3 27-1.4.5.2
 (v1 / label
     :H (v2 / label

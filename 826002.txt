@@ -1,5 +1,5 @@
 # ::id 826002
-# ::tok “ Did master summon me ? ” he said , entering .
+# ::tok " Did master summon me ? " he said , entering .
 # ::alignments 2-1.1.1.3 3-1.1.1.4 4-1.1.1.5 7-1.1.2 8-1.1.3 10-1.2.1
 (v1 / label
     :H (v2 / label

@@ -1,5 +1,5 @@
 # ::id 885000
-# ::tok So the Abraham Lincoln was n’t lacking in means of destruction .
+# ::tok So the Abraham Lincoln was n't lacking in means of destruction .
 # ::alignments 0-1.1 1-1.2.1.1 2-1.2.1.2 3-1.2.1.2 5-1.2.3 6-1.2.4 7-1.2.5.1.1 8-1.2.5.1.2 9-1.2.5.1.3 10-1.2.5.2
 (v1 / label
     :L (v2 / label~e.0)

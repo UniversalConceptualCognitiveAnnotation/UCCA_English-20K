@@ -1,5 +1,5 @@
 # ::id 905000
-# ::tok “ I have n’t the foggiest notion , Professor Aronnax .
+# ::tok " I have n't the foggiest notion , Professor Aronnax .
 # ::alignments 1-1.1.3.1 2-1.1.3.2 3-1.1.3.3 4-1.1.3.4.1 5-1.1.3.4.2 6-1.1.3.5 8-1.1.3.6 9-1.1.3.6
 (v1 / label
     :H (v2 / label

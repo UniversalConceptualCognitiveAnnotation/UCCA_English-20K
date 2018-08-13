@@ -1,5 +1,5 @@
 # ::id 837001
-# ::tok “ With all due respect to master , ” Conseil replied , “ as comfortable as a hermit crab inside the shell of a whelk . ”
+# ::tok " With all due respect to master , " Conseil replied , " as comfortable as a hermit crab inside the shell of a whelk . "
 # ::alignments 1-1.1.1.1.2 2-1.1.1.1.3 3-1.1.1.1.3 4-1.1.1.1.4 5-1.1.1.1.5 6-1.1.1.1.5 9-1.1.2 10-1.1.3 13-1.1.1.2.2 14-1.1.1.2.3 15-1.1.1.2.4 16-1.1.1.2.5.2.1 17-1.1.1.2.5.2.2 18-1.1.1.2.5.2.3 19-1.1.1.2.5.3.1 20-1.1.1.2.5.3.2 21-1.1.1.2.5.3.3 22-1.1.1.2.5.3.4.1 23-1.1.1.2.5.3.4.2 24-1.1.1.2.5.3.4.3
 (v1 / label
     :H (v2 / label

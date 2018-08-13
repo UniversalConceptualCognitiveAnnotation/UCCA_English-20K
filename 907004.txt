@@ -1,5 +1,5 @@
 # ::id 907004
-# ::tok ” “ You ’ve convinced me of one thing , Mr . Naturalist . That deep in the sea , such animals would need to be just as strong as you say — if they exist .
+# ::tok " " You 've convinced me of one thing , Mr . Naturalist . That deep in the sea , such animals would need to be just as strong as you say - if they exist .
 # ::alignments 2-1.1.3.1.1 4-1.1.3.1.3 5-1.1.3.1.4 6-1.1.3.1.5.1 7-1.1.3.1.5.2 8-1.1.3.1.5.3 10-1.1.3.1.6 12-1.1.3.1.6 14-1.1.3.2 15-1.1.3.3.1.1 16-1.1.3.3.1.2.1 17-1.1.3.3.1.2.2 18-1.1.3.3.1.2.3 20-1.1.3.3.2.1 21-1.1.3.3.2.2 22-1.1.3.3.3 23-1.1.3.3.4 26-1.1.3.3.7 27-1.1.3.3.8 28-1.1.3.3.9 29-1.1.3.4 30-1.1.3.5.2 31-1.1.3.5.3 33-1.1.3.6 34-1.1.3.7.1 35-1.1.3.7.2
 (v1 / label
     :H (v2 / label

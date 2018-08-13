@@ -1,5 +1,5 @@
 # ::id 841002
-# ::tok “ Go ahead , then ! ” Commander Farragut called .
+# ::tok " Go ahead , then ! " Commander Farragut called .
 # ::alignments 1-1.1.1.1.2 2-1.1.1.1.2 4-1.1.1.2 7-1.1.2.1 8-1.1.2.2 9-1.1.3
 (v1 / label
     :H (v2 / label

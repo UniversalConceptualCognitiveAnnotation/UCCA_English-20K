@@ -1,5 +1,5 @@
 # ::id 312002
-# ::tok The Shipping & Mercantile Gazette , the Lloyd ’s List , France ’s Packetboat and Maritime & Colonial Review , all the rags devoted to insurance companies — who threatened to raise their premium rates — were unanimous on this point .
+# ::tok The Shipping & Mercantile Gazette , the Lloyd 's List , France 's Packetboat and Maritime & Colonial Review , all the rags devoted to insurance companies - who threatened to raise their premium rates - were unanimous on this point .
 # ::alignments 0-1.1.1.1.1 1-1.1.1.1.1 3-1.1.1.1.1 4-1.1.1.1.1 6-1.1.1.1.2.1 7-1.1.1.1.2.2 8-1.1.1.1.2.2 9-1.1.1.1.2.2 11-1.1.1.1.3 12-1.1.1.1.3 13-1.1.1.1.3 14-1.1.1.1.4 15-1.1.1.1.5 17-1.1.1.1.5 18-1.1.1.1.5 20-1.1.1.2.1 21-1.1.1.2.2 22-1.1.1.2.3 23-1.1.1.2.4.2 24-1.1.1.2.4.3.1 25-1.1.1.2.4.3.2 26-1.1.1.2.5.6 28-1.1.1.2.5.1 29-1.1.1.2.5.2 31-1.1.1.2.5.4 32-1.1.1.2.5.5.1 33-1.1.1.2.5.5.2 34-1.1.1.2.5.5.3 37-1.1.3 38-1.1.4.1 39-1.1.4.2 40-1.1.4.3
 (v1 / label
     :H (v2 / label
