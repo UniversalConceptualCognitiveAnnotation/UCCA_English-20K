@@ -1,12 +1,12 @@
 #BOS 298000
-“	Punctuation	--	Terminal	500
+"	Punctuation	--	Terminal	500
 Therefore	Word	--	Terminal	501
 ,	Punctuation	--	Terminal	502
-”	Punctuation	--	Terminal	503
+"	Punctuation	--	Terminal	503
 I	Word	--	Terminal	504
 wrote	Word	--	Terminal	505
 ,	Punctuation	--	Terminal	506
-“	Punctuation	--	Terminal	507
+"	Punctuation	--	Terminal	507
 after	Word	--	Terminal	508
 examining	Word	--	Terminal	509
 these	Word	--	Terminal	510

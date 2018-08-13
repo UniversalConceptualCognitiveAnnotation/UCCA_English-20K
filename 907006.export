@@ -1,14 +1,14 @@
 #BOS 907006
-”	Punctuation	--	Terminal	500
-“	Punctuation	--	Terminal	501
+"	Punctuation	--	Terminal	500
+"	Punctuation	--	Terminal	501
 It	Word	--	Terminal	502
-’s	Word	--	Terminal	503
+'s	Word	--	Terminal	503
 maybe	Word	--	Terminal	504
 .	Punctuation	--	Terminal	505
 .	Punctuation	--	Terminal	506
 .	Punctuation	--	Terminal	507
 ,	Punctuation	--	Terminal	508
-”	Punctuation	--	Terminal	509
+"	Punctuation	--	Terminal	509
 Ned	Word	--	Terminal	510
 said	Word	--	Terminal	511
 ,	Punctuation	--	Terminal	512

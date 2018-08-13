@@ -1,7 +1,7 @@
 #BOS 997000
-“	Punctuation	--	Terminal	500
+"	Punctuation	--	Terminal	500
 You	Word	--	Terminal	501
-’re	Word	--	Terminal	502
+'re	Word	--	Terminal	502
 right	Word	--	Terminal	503
 ,	Punctuation	--	Terminal	504
 Conseil	Word	--	Terminal	505
@@ -47,11 +47,11 @@ have	Word	--	Terminal	541
 been	Word	--	Terminal	542
 back	Word	--	Terminal	543
 in	Word	--	Terminal	544
-France—	Word	--	Terminal	545
+France-	Word	--	Terminal	545
 "	Punctuation	--	Terminal	546
 "	Punctuation	--	Terminal	547
 In	Word	--	Terminal	548
-master’s	Word	--	Terminal	549
+master's	Word	--	Terminal	549
 little	Word	--	Terminal	550
 apartment	Word	--	Terminal	551
 ,	Punctuation	--	Terminal	552
@@ -61,7 +61,7 @@ answered	Word	--	Terminal	555
 .	Punctuation	--	Terminal	556
 "	Punctuation	--	Terminal	557
 In	Word	--	Terminal	558
-master’s	Word	--	Terminal	559
+master's	Word	--	Terminal	559
 museum	Word	--	Terminal	560
 !	Punctuation	--	Terminal	561
 And	Word	--	Terminal	562
@@ -71,11 +71,11 @@ I	Word	--	Terminal	565
 would	Word	--	Terminal	566
 have	Word	--	Terminal	567
 classified	Word	--	Terminal	568
-master’s	Word	--	Terminal	569
+master's	Word	--	Terminal	569
 fossils	Word	--	Terminal	570
 .	Punctuation	--	Terminal	571
 And	Word	--	Terminal	572
-master’s	Word	--	Terminal	573
+master's	Word	--	Terminal	573
 babirusa	Word	--	Terminal	574
 would	Word	--	Terminal	575
 be	Word	--	Terminal	576

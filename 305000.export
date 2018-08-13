@@ -1,5 +1,5 @@
 #BOS 305000
-“	Punctuation	--	Terminal	500
+"	Punctuation	--	Terminal	500
 In	Word	--	Terminal	501
 essence	Word	--	Terminal	502
 ,	Punctuation	--	Terminal	503
@@ -25,7 +25,7 @@ expressed	Word	--	Terminal	522
 it	Word	--	Terminal	523
 .	Punctuation	--	Terminal	524
 It	Word	--	Terminal	525
-’s	Word	--	Terminal	526
+'s	Word	--	Terminal	526
 a	Word	--	Terminal	527
 king-sized	Word	--	Terminal	528
 tooth	Word	--	Terminal	529

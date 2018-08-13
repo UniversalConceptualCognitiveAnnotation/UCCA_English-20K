@@ -1,6 +1,6 @@
 #BOS 905006
-”	Punctuation	--	Terminal	500
-“	Punctuation	--	Terminal	501
+"	Punctuation	--	Terminal	500
+"	Punctuation	--	Terminal	501
 Precisely	Word	--	Terminal	502
 ,	Punctuation	--	Terminal	503
 Ned	Word	--	Terminal	504
@@ -17,7 +17,7 @@ the	Word	--	Terminal	514
 sea	Word	--	Terminal	515
 ,	Punctuation	--	Terminal	516
 you	Word	--	Terminal	517
-’ll	Word	--	Terminal	518
+'ll	Word	--	Terminal	518
 undergo	Word	--	Terminal	519
 a	Word	--	Terminal	520
 pressure	Word	--	Terminal	521
@@ -36,7 +36,7 @@ greater	Word	--	Terminal	533
 pressure	Word	--	Terminal	534
 ,	Punctuation	--	Terminal	535
 it	Word	--	Terminal	536
-’s	Word	--	Terminal	536
+'s	Word	--	Terminal	536
 175,680	Word	--	Terminal	537
 kilograms	Word	--	Terminal	538
 ;	Punctuation	--	Terminal	539
@@ -51,7 +51,7 @@ greater	Word	--	Terminal	547
 pressure	Word	--	Terminal	548
 ,	Punctuation	--	Terminal	549
 it	Word	--	Terminal	550
-’s	Word	--	Terminal	550
+'s	Word	--	Terminal	550
 1,756,800	Word	--	Terminal	551
 kilograms	Word	--	Terminal	552
 ;	Punctuation	--	Terminal	553
@@ -68,7 +68,7 @@ greater	Word	--	Terminal	563
 pressure	Word	--	Terminal	564
 ,	Punctuation	--	Terminal	565
 it	Word	--	Terminal	566
-’s	Word	--	Terminal	566
+'s	Word	--	Terminal	566
 17,568,000	Word	--	Terminal	567
 kilograms	Word	--	Terminal	568
 ;	Punctuation	--	Terminal	569
@@ -77,7 +77,7 @@ other	Word	--	Terminal	571
 words	Word	--	Terminal	572
 ,	Punctuation	--	Terminal	573
 you	Word	--	Terminal	574
-’d	Word	--	Terminal	575
+'d	Word	--	Terminal	575
 be	Word	--	Terminal	576
 squashed	Word	--	Terminal	577
 as	Word	--	Terminal	578
@@ -85,7 +85,7 @@ flat	Word	--	Terminal	579
 as	Word	--	Terminal	580
 if	Word	--	Terminal	580
 you	Word	--	Terminal	581
-’d	Word	--	Terminal	582
+'d	Word	--	Terminal	582
 just	Word	--	Terminal	583
 been	Word	--	Terminal	584
 yanked	Word	--	Terminal	585

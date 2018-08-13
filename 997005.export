@@ -16,11 +16,11 @@ is	Word	--	Terminal	513
 ,	Punctuation	--	Terminal	514
 one	Word	--	Terminal	515
 must	Word	--	Terminal	516
-n’t	Word	--	Terminal	517
+n't	Word	--	Terminal	517
 lay	Word	--	Terminal	518
 himself	Word	--	Terminal	519
 open	Word	--	Terminal	518
-to—	Word	--	Terminal	518
+to-	Word	--	Terminal	518
 "	Punctuation	--	Terminal	520
 #500	PNCT	--	U	528
 #501	PNCT	--	U	528

@@ -1,5 +1,5 @@
 #BOS 299000
-“	Punctuation	--	Terminal	500
+"	Punctuation	--	Terminal	500
 The	Word	--	Terminal	501
 deepest	Word	--	Terminal	502
 parts	Word	--	Terminal	503
@@ -59,7 +59,7 @@ these	Word	--	Terminal	555
 animals	Word	--	Terminal	556
 ?	Punctuation	--	Terminal	557
 It	Word	--	Terminal	558
-’s	Word	--	Terminal	559
+'s	Word	--	Terminal	559
 almost	Word	--	Terminal	560
 beyond	Word	--	Terminal	561
 conjecture	Word	--	Terminal	562

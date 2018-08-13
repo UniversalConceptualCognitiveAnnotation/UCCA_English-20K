@@ -1,13 +1,13 @@
 #BOS 895000
-“	Punctuation	--	Terminal	500
+"	Punctuation	--	Terminal	500
 Ned	Word	--	Terminal	501
 ,	Punctuation	--	Terminal	502
-”	Punctuation	--	Terminal	503
+"	Punctuation	--	Terminal	503
 I	Word	--	Terminal	504
 asked	Word	--	Terminal	505
 him	Word	--	Terminal	506
 ,	Punctuation	--	Terminal	507
-“	Punctuation	--	Terminal	508
+"	Punctuation	--	Terminal	508
 how	Word	--	Terminal	509
 can	Word	--	Terminal	510
 you	Word	--	Terminal	511
@@ -19,7 +19,7 @@ of	Word	--	Terminal	516
 this	Word	--	Terminal	517
 cetacean	Word	--	Terminal	518
 we	Word	--	Terminal	519
-’re	Word	--	Terminal	520
+'re	Word	--	Terminal	520
 after	Word	--	Terminal	520
 ?	Punctuation	--	Terminal	521
 Do	Word	--	Terminal	522
@@ -33,7 +33,7 @@ being	Word	--	Terminal	529
 so	Word	--	Terminal	530
 skeptical	Word	--	Terminal	531
 ?	Punctuation	--	Terminal	532
-”	Punctuation	--	Terminal	533
+"	Punctuation	--	Terminal	533
 #500	PNCT	--	U	542
 #501	FN	--	G	541
 #502	PNCT	--	U	543

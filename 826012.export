@@ -1,5 +1,5 @@
 #BOS 826012
-“	Punctuation	--	Terminal	500
+"	Punctuation	--	Terminal	500
 Yes	Word	--	Terminal	501
 ,	Punctuation	--	Terminal	502
 we	Word	--	Terminal	503
@@ -12,12 +12,12 @@ certainly	Word	--	Terminal	508
 .	Punctuation	--	Terminal	510
 .	Punctuation	--	Terminal	511
 ,	Punctuation	--	Terminal	512
-”	Punctuation	--	Terminal	513
+"	Punctuation	--	Terminal	513
 I	Word	--	Terminal	514
 replied	Word	--	Terminal	515
 evasively	Word	--	Terminal	516
 ,	Punctuation	--	Terminal	517
-“	Punctuation	--	Terminal	518
+"	Punctuation	--	Terminal	518
 but	Word	--	Terminal	519
 after	Word	--	Terminal	520
 we	Word	--	Terminal	521

@@ -1,15 +1,15 @@
 #BOS 826011
-”	Punctuation	--	Terminal	500
-“	Punctuation	--	Terminal	501
+"	Punctuation	--	Terminal	500
+"	Punctuation	--	Terminal	501
 Then	Word	--	Terminal	502
 we	Word	--	Terminal	503
 are	Word	--	Terminal	504
-n’t	Word	--	Terminal	505
+n't	Word	--	Terminal	505
 returning	Word	--	Terminal	506
 to	Word	--	Terminal	507
 Paris	Word	--	Terminal	508
 ?	Punctuation	--	Terminal	509
-”	Punctuation	--	Terminal	510
+"	Punctuation	--	Terminal	510
 Conseil	Word	--	Terminal	511
 asked	Word	--	Terminal	512
 .	Punctuation	--	Terminal	513

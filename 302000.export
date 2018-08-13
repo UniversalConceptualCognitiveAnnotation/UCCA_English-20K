@@ -1,5 +1,5 @@
 #BOS 302000
-“	Punctuation	--	Terminal	500
+"	Punctuation	--	Terminal	500
 If	Word	--	Terminal	501
 we	Word	--	Terminal	502
 do	Word	--	Terminal	503
@@ -44,7 +44,7 @@ animals	Word	--	Terminal	541
 with	Word	--	Terminal	542
 a	Word	--	Terminal	543
 basically	Word	--	Terminal	544
-‘cast-iron’	Word	--	Terminal	545
+'cast-iron'	Word	--	Terminal	545
 constitution	Word	--	Terminal	546
 that	Word	--	Terminal	547
 inhabit	Word	--	Terminal	548

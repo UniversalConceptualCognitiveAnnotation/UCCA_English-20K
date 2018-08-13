@@ -1,18 +1,18 @@
 #BOS 907000
-“	Punctuation	--	Terminal	500
+"	Punctuation	--	Terminal	500
 They	Word	--	Terminal	501
-’d	Word	--	Terminal	502
+'d	Word	--	Terminal	502
 need	Word	--	Terminal	503
 to	Word	--	Terminal	504
 be	Word	--	Terminal	505
 manufactured	Word	--	Terminal	506
 ,	Punctuation	--	Terminal	507
-”	Punctuation	--	Terminal	508
+"	Punctuation	--	Terminal	508
 Ned	Word	--	Terminal	509
 Land	Word	--	Terminal	509
 replied	Word	--	Terminal	510
 ,	Punctuation	--	Terminal	511
-“	Punctuation	--	Terminal	512
+"	Punctuation	--	Terminal	512
 from	Word	--	Terminal	513
 sheet	Word	--	Terminal	514
 -	Punctuation	--	Terminal	515

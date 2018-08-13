@@ -1,19 +1,19 @@
 #BOS 899001
-”	Punctuation	--	Terminal	500
-“	Punctuation	--	Terminal	501
+"	Punctuation	--	Terminal	500
+"	Punctuation	--	Terminal	501
 Wooden	Word	--	Terminal	502
 ships	Word	--	Terminal	503
 maybe	Word	--	Terminal	504
 ,	Punctuation	--	Terminal	505
-”	Punctuation	--	Terminal	506
+"	Punctuation	--	Terminal	506
 the	Word	--	Terminal	507
 Canadian	Word	--	Terminal	508
 replied	Word	--	Terminal	509
 .	Punctuation	--	Terminal	510
-“	Punctuation	--	Terminal	511
+"	Punctuation	--	Terminal	511
 But	Word	--	Terminal	512
 I	Word	--	Terminal	513
-’ve	Word	--	Terminal	514
+'ve	Word	--	Terminal	514
 never	Word	--	Terminal	515
 seen	Word	--	Terminal	516
 the	Word	--	Terminal	517
@@ -29,7 +29,7 @@ the	Word	--	Terminal	525
 contrary	Word	--	Terminal	526
 ,	Punctuation	--	Terminal	527
 I	Word	--	Terminal	528
-’ll	Word	--	Terminal	529
+'ll	Word	--	Terminal	529
 deny	Word	--	Terminal	530
 that	Word	--	Terminal	531
 baleen	Word	--	Terminal	532

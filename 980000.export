@@ -1,14 +1,14 @@
 #BOS 980000
-“	Punctuation	--	Terminal	500
+"	Punctuation	--	Terminal	500
 Bah	Word	--	Terminal	501
 !	Punctuation	--	Terminal	502
-”	Punctuation	--	Terminal	503
+"	Punctuation	--	Terminal	503
 he	Word	--	Terminal	504
 replied	Word	--	Terminal	505
 .	Punctuation	--	Terminal	506
-“	Punctuation	--	Terminal	507
+"	Punctuation	--	Terminal	507
 Nothing	Word	--	Terminal	508
-’s	Word	--	Terminal	509
+'s	Word	--	Terminal	509
 out	Word	--	Terminal	510
 there	Word	--	Terminal	510
 ,	Punctuation	--	Terminal	511
@@ -32,11 +32,11 @@ spotting	Word	--	Terminal	526
 it	Word	--	Terminal	527
 ?	Punctuation	--	Terminal	528
 Can	Word	--	Terminal	529
-’t	Word	--	Terminal	530
+'t	Word	--	Terminal	530
 you	Word	--	Terminal	531
 see	Word	--	Terminal	532
 we	Word	--	Terminal	533
-’re	Word	--	Terminal	534
+'re	Word	--	Terminal	534
 just	Word	--	Terminal	535
 wandering	Word	--	Terminal	536
 around	Word	--	Terminal	536
@@ -46,7 +46,7 @@ random	Word	--	Terminal	538
 People	Word	--	Terminal	540
 say	Word	--	Terminal	541
 they	Word	--	Terminal	542
-’ve	Word	--	Terminal	543
+'ve	Word	--	Terminal	543
 sighted	Word	--	Terminal	544
 this	Word	--	Terminal	545
 slippery	Word	--	Terminal	546
@@ -57,9 +57,9 @@ the	Word	--	Terminal	550
 Pacific	Word	--	Terminal	551
 high	Word	--	Terminal	552
 seas	Word	--	Terminal	553
-—	Punctuation	--	Terminal	554
+-	Punctuation	--	Terminal	554
 I	Word	--	Terminal	555
-’m	Word	--	Terminal	556
+'m	Word	--	Terminal	556
 truly	Word	--	Terminal	557
 willing	Word	--	Terminal	558
 to	Word	--	Terminal	559
@@ -81,7 +81,7 @@ judging	Word	--	Terminal	573
 by	Word	--	Terminal	574
 your	Word	--	Terminal	575
 narwhale	Word	--	Terminal	576
-’s	Word	--	Terminal	577
+'s	Word	--	Terminal	577
 personality	Word	--	Terminal	578
 ,	Punctuation	--	Terminal	579
 it	Word	--	Terminal	580
@@ -99,7 +99,7 @@ same	Word	--	Terminal	590
 waterways	Word	--	Terminal	591
 !	Punctuation	--	Terminal	592
 It	Word	--	Terminal	593
-’s	Word	--	Terminal	594
+'s	Word	--	Terminal	594
 blessed	Word	--	Terminal	595
 with	Word	--	Terminal	596
 a	Word	--	Terminal	597
@@ -122,7 +122,7 @@ I	Word	--	Terminal	612
 that	Word	--	Terminal	613
 nature	Word	--	Terminal	614
 does	Word	--	Terminal	615
-n’t	Word	--	Terminal	616
+n't	Word	--	Terminal	616
 violate	Word	--	Terminal	617
 good	Word	--	Terminal	618
 sense	Word	--	Terminal	619
@@ -130,7 +130,7 @@ sense	Word	--	Terminal	619
 and	Word	--	Terminal	621
 she	Word	--	Terminal	622
 would	Word	--	Terminal	623
-n’t	Word	--	Terminal	624
+n't	Word	--	Terminal	624
 give	Word	--	Terminal	625
 some	Word	--	Terminal	626
 naturally	Word	--	Terminal	627
@@ -144,7 +144,7 @@ swiftly	Word	--	Terminal	634
 if	Word	--	Terminal	635
 it	Word	--	Terminal	636
 had	Word	--	Terminal	637
-n’t	Word	--	Terminal	638
+n't	Word	--	Terminal	638
 a	Word	--	Terminal	639
 need	Word	--	Terminal	640
 to	Word	--	Terminal	641
@@ -160,12 +160,12 @@ does	Word	--	Terminal	650
 exist	Word	--	Terminal	651
 ,	Punctuation	--	Terminal	652
 it	Word	--	Terminal	653
-’s	Word	--	Terminal	654
+'s	Word	--	Terminal	654
 already	Word	--	Terminal	655
 long	Word	--	Terminal	656
 gone	Word	--	Terminal	657
 !	Punctuation	--	Terminal	658
-”	Punctuation	--	Terminal	659
+"	Punctuation	--	Terminal	659
 #500	PNCT	--	U	714
 #501	FN	--	H	714
 #502	PNCT	--	U	718

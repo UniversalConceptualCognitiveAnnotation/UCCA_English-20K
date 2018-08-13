@@ -17,7 +17,7 @@ myself	Word	--	Terminal	514
 to	Word	--	Terminal	515
 a	Word	--	Terminal	516
 flat	Word	--	Terminal	517
-“	Punctuation	--	Terminal	518
+"	Punctuation	--	Terminal	518
 no	Word	--	Terminal	519
 comment	Word	--	Terminal	520
 .	Punctuation	--	Terminal	521

@@ -1,14 +1,14 @@
 #BOS 826007
-“	Punctuation	--	Terminal	500
+"	Punctuation	--	Terminal	500
 We	Word	--	Terminal	501
-’ll	Word	--	Terminal	502
+'ll	Word	--	Terminal	502
 deal	Word	--	Terminal	503
 with	Word	--	Terminal	504
 them	Word	--	Terminal	505
 later	Word	--	Terminal	506
 .	Punctuation	--	Terminal	507
-”	Punctuation	--	Terminal	508
-“	Punctuation	--	Terminal	509
+"	Punctuation	--	Terminal	508
+"	Punctuation	--	Terminal	509
 What	Word	--	Terminal	510
 !	Punctuation	--	Terminal	511
 The	Word	--	Terminal	512
@@ -22,7 +22,7 @@ cheiropotamus	Word	--	Terminal	519
 ,	Punctuation	--	Terminal	520
 and	Word	--	Terminal	521
 master	Word	--	Terminal	522
-’s	Word	--	Terminal	523
+'s	Word	--	Terminal	523
 other	Word	--	Terminal	524
 fossil	Word	--	Terminal	525
 skeletons	Word	--	Terminal	526

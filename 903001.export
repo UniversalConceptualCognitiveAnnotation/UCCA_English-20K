@@ -1,5 +1,5 @@
 #BOS 903001
-“	Punctuation	--	Terminal	500
+"	Punctuation	--	Terminal	500
 Oh	Word	--	Terminal	501
 really	Word	--	Terminal	502
 ,	Punctuation	--	Terminal	503
@@ -16,7 +16,7 @@ few	Word	--	Terminal	512
 simple	Word	--	Terminal	513
 figures	Word	--	Terminal	514
 .	Punctuation	--	Terminal	515
-”	Punctuation	--	Terminal	516
+"	Punctuation	--	Terminal	516
 #500	PNCT	--	U	523
 #501	FN	--	F	522
 #502	FN	--	D	522

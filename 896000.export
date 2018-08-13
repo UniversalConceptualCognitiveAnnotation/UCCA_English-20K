@@ -32,14 +32,14 @@ and	Word	--	Terminal	528
 finally	Word	--	Terminal	529
 said	Word	--	Terminal	530
 :	Punctuation	--	Terminal	531
-“	Punctuation	--	Terminal	532
+"	Punctuation	--	Terminal	532
 Just	Word	--	Terminal	533
 maybe	Word	--	Terminal	534
 ,	Punctuation	--	Terminal	535
 Professor	Word	--	Terminal	536
 Aronnax	Word	--	Terminal	536
 .	Punctuation	--	Terminal	537
-”	Punctuation	--	Terminal	538
+"	Punctuation	--	Terminal	538
 #500	FN	--	E	539
 #501	FN	--	C	539	A*	548	A*	549	A*	550	A*	540
 #502	FN	--	P	542

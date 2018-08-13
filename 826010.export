@@ -1,8 +1,8 @@
 #BOS 826010
-”	Punctuation	--	Terminal	500
-“	Punctuation	--	Terminal	501
+"	Punctuation	--	Terminal	500
+"	Punctuation	--	Terminal	501
 They	Word	--	Terminal	502
-’ll	Word	--	Terminal	503
+'ll	Word	--	Terminal	503
 feed	Word	--	Terminal	504
 it	Word	--	Terminal	505
 during	Word	--	Terminal	506
@@ -12,7 +12,7 @@ absence	Word	--	Terminal	508
 Anyhow	Word	--	Terminal	510
 ,	Punctuation	--	Terminal	511
 we	Word	--	Terminal	512
-’ll	Word	--	Terminal	513
+'ll	Word	--	Terminal	513
 leave	Word	--	Terminal	514
 instructions	Word	--	Terminal	515
 to	Word	--	Terminal	516

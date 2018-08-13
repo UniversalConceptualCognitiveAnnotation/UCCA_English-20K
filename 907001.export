@@ -1,6 +1,6 @@
 #BOS 907001
-”	Punctuation	--	Terminal	500
-“	Punctuation	--	Terminal	501
+"	Punctuation	--	Terminal	500
+"	Punctuation	--	Terminal	501
 Right	Word	--	Terminal	502
 ,	Punctuation	--	Terminal	503
 Ned	Word	--	Terminal	504
@@ -29,7 +29,7 @@ train	Word	--	Terminal	526
 against	Word	--	Terminal	527
 a	Word	--	Terminal	528
 ship	Word	--	Terminal	529
-’s	Word	--	Terminal	530
+'s	Word	--	Terminal	530
 hull	Word	--	Terminal	531
 .	Punctuation	--	Terminal	532
 #500	PNCT	--	U	547

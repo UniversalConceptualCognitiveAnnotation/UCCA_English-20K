@@ -1,12 +1,12 @@
 #BOS 905005
-”	Punctuation	--	Terminal	500
-“	Punctuation	--	Terminal	501
+"	Punctuation	--	Terminal	500
+"	Punctuation	--	Terminal	501
 Yes	Word	--	Terminal	502
 ,	Punctuation	--	Terminal	503
 I	Word	--	Terminal	504
 see	Word	--	Terminal	505
 ,	Punctuation	--	Terminal	506
-”	Punctuation	--	Terminal	507
+"	Punctuation	--	Terminal	507
 Ned	Word	--	Terminal	508
 replied	Word	--	Terminal	509
 ,	Punctuation	--	Terminal	510
@@ -14,7 +14,7 @@ growing	Word	--	Terminal	511
 more	Word	--	Terminal	512
 interested	Word	--	Terminal	513
 .	Punctuation	--	Terminal	514
-“	Punctuation	--	Terminal	515
+"	Punctuation	--	Terminal	515
 Because	Word	--	Terminal	516
 the	Word	--	Terminal	517
 water	Word	--	Terminal	518
@@ -22,7 +22,7 @@ surrounds	Word	--	Terminal	519
 me	Word	--	Terminal	520
 but	Word	--	Terminal	521
 does	Word	--	Terminal	522
-n’t	Word	--	Terminal	523
+n't	Word	--	Terminal	523
 penetrate	Word	--	Terminal	524
 me	Word	--	Terminal	525
 .	Punctuation	--	Terminal	526

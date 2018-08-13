@@ -1,5 +1,5 @@
 #BOS 906000
-“	Punctuation	--	Terminal	500
+"	Punctuation	--	Terminal	500
 All	Word	--	Terminal	501
 right	Word	--	Terminal	501
 then	Word	--	Terminal	501
@@ -61,7 +61,7 @@ strength	Word	--	Terminal	552
 of	Word	--	Terminal	553
 constitution	Word	--	Terminal	554
 they	Word	--	Terminal	555
-’d	Word	--	Terminal	556
+'d	Word	--	Terminal	556
 need	Word	--	Terminal	557
 in	Word	--	Terminal	558
 order	Word	--	Terminal	558
@@ -70,7 +70,7 @@ withstand	Word	--	Terminal	559
 such	Word	--	Terminal	560
 pressures	Word	--	Terminal	561
 !	Punctuation	--	Terminal	562
-”	Punctuation	--	Terminal	563
+"	Punctuation	--	Terminal	563
 #500	PNCT	--	U	593
 #501	FN	--	G	589
 #502	PNCT	--	U	589

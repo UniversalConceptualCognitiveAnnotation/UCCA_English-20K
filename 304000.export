@@ -1,5 +1,5 @@
 #BOS 304000
-“	Punctuation	--	Terminal	500
+"	Punctuation	--	Terminal	500
 The	Word	--	Terminal	501
 common	Word	--	Terminal	502
 narwhale	Word	--	Terminal	503
@@ -47,7 +47,7 @@ have	Word	--	Terminal	544
 the	Word	--	Terminal	545
 animal	Word	--	Terminal	546
 we	Word	--	Terminal	547
-’re	Word	--	Terminal	548
+'re	Word	--	Terminal	548
 looking	Word	--	Terminal	549
 for	Word	--	Terminal	549
 .	Punctuation	--	Terminal	550
@@ -79,7 +79,7 @@ to	Word	--	Terminal	575
 pierce	Word	--	Terminal	576
 a	Word	--	Terminal	577
 steamer	Word	--	Terminal	578
-’s	Word	--	Terminal	579
+'s	Word	--	Terminal	579
 hull	Word	--	Terminal	580
 .	Punctuation	--	Terminal	581
 #500	PNCT	--	U	624

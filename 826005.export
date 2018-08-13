@@ -1,8 +1,8 @@
 #BOS 826005
-“	Punctuation	--	Terminal	500
+"	Punctuation	--	Terminal	500
 We	Word	--	Terminal	501
 have	Word	--	Terminal	502
-n’t	Word	--	Terminal	503
+n't	Word	--	Terminal	503
 a	Word	--	Terminal	504
 moment	Word	--	Terminal	505
 to	Word	--	Terminal	506
@@ -31,7 +31,7 @@ and	Word	--	Terminal	526
 socks	Word	--	Terminal	527
 ,	Punctuation	--	Terminal	528
 do	Word	--	Terminal	529
-n’t	Word	--	Terminal	530
+n't	Word	--	Terminal	530
 bother	Word	--	Terminal	531
 counting	Word	--	Terminal	532
 ,	Punctuation	--	Terminal	533
@@ -40,7 +40,7 @@ squeeze	Word	--	Terminal	535
 it	Word	--	Terminal	536
 all	Word	--	Terminal	537
 in	Word	--	Terminal	535
-—	Punctuation	--	Terminal	538
+-	Punctuation	--	Terminal	538
 and	Word	--	Terminal	539
 hurry	Word	--	Terminal	540
 !	Punctuation	--	Terminal	541

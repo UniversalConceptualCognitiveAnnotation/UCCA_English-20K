@@ -1,5 +1,5 @@
 #BOS 814000
-﻿Three	Word	--	Terminal	500
+Three	Word	--	Terminal	500
 seconds	Word	--	Terminal	501
 before	Word	--	Terminal	502
 the	Word	--	Terminal	503
@@ -10,7 +10,7 @@ J	Word	--	Terminal	506
 B	Word	--	Terminal	506
 .	Punctuation	--	Terminal	508
 Hobson	Word	--	Terminal	506
-’s	Word	--	Terminal	509
+'s	Word	--	Terminal	509
 letter	Word	--	Terminal	510
 ,	Punctuation	--	Terminal	511
 I	Word	--	Terminal	512

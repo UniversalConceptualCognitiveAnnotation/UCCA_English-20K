@@ -25,7 +25,7 @@ longer	Word	--	Terminal	518
 left	Word	--	Terminal	519
 the	Word	--	Terminal	520
 ship	Word	--	Terminal	521
-’s	Word	--	Terminal	522
+'s	Word	--	Terminal	522
 deck	Word	--	Terminal	523
 .	Punctuation	--	Terminal	524
 #500	FN	--	P	533	P*	538

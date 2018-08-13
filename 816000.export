@@ -1,12 +1,12 @@
 #BOS 816000
-“	Punctuation	--	Terminal	500
+"	Punctuation	--	Terminal	500
 Besides	Word	--	Terminal	501
 ,	Punctuation	--	Terminal	502
-”	Punctuation	--	Terminal	503
+"	Punctuation	--	Terminal	503
 I	Word	--	Terminal	504
 mused	Word	--	Terminal	505
 ,	Punctuation	--	Terminal	506
-“	Punctuation	--	Terminal	507
+"	Punctuation	--	Terminal	507
 all	Word	--	Terminal	508
 roads	Word	--	Terminal	509
 lead	Word	--	Terminal	510
@@ -42,17 +42,17 @@ captured	Word	--	Terminal	539
 in	Word	--	Terminal	540
 European	Word	--	Terminal	541
 seas	Word	--	Terminal	542
-—	Punctuation	--	Terminal	543
+-	Punctuation	--	Terminal	543
 as	Word	--	Terminal	544
 a	Word	--	Terminal	544
 personal	Word	--	Terminal	544
 favor	Word	--	Terminal	544
 to	Word	--	Terminal	544
 me	Word	--	Terminal	544
-—	Punctuation	--	Terminal	545
+-	Punctuation	--	Terminal	545
 and	Word	--	Terminal	546
 I	Word	--	Terminal	547
-’ll	Word	--	Terminal	548
+'ll	Word	--	Terminal	548
 bring	Word	--	Terminal	549
 back	Word	--	Terminal	549
 to	Word	--	Terminal	550
@@ -71,7 +71,7 @@ its	Word	--	Terminal	562
 ivory	Word	--	Terminal	563
 lance	Word	--	Terminal	564
 !	Punctuation	--	Terminal	565
-”	Punctuation	--	Terminal	566
+"	Punctuation	--	Terminal	566
 #500	PNCT	--	U	584
 #501	FN	--	L	584
 #502	PNCT	--	U	585

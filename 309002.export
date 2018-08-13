@@ -9,11 +9,11 @@ accepted	Word	--	Terminal	505
 the	Word	--	Terminal	506
 existence	Word	--	Terminal	507
 of	Word	--	Terminal	508
-“	Punctuation	--	Terminal	509
+"	Punctuation	--	Terminal	509
 the	Word	--	Terminal	510
 monster	Word	--	Terminal	511
 .	Punctuation	--	Terminal	512
-”	Punctuation	--	Terminal	513
+"	Punctuation	--	Terminal	513
 #500	FN	--	L	518
 #501	FN	--	A	517
 #502	PNCT	--	U	517

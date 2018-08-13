@@ -1,8 +1,8 @@
 #BOS 901000
-“	Punctuation	--	Terminal	500
+"	Punctuation	--	Terminal	500
 Humph	Word	--	Terminal	501
 !	Punctuation	--	Terminal	502
-”	Punctuation	--	Terminal	503
+"	Punctuation	--	Terminal	503
 the	Word	--	Terminal	504
 harpooner	Word	--	Terminal	505
 put	Word	--	Terminal	506
@@ -19,7 +19,7 @@ a	Word	--	Terminal	515
 man	Word	--	Terminal	516
 who	Word	--	Terminal	517
 does	Word	--	Terminal	518
-n’t	Word	--	Terminal	519
+n't	Word	--	Terminal	519
 want	Word	--	Terminal	520
 to	Word	--	Terminal	521
 be	Word	--	Terminal	522

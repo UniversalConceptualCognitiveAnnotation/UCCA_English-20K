@@ -2,8 +2,8 @@
 .	Punctuation	--	Terminal	500
 .	Punctuation	--	Terminal	501
 ?	Punctuation	--	Terminal	502
-”	Punctuation	--	Terminal	503
-“	Punctuation	--	Terminal	504
+"	Punctuation	--	Terminal	503
+"	Punctuation	--	Terminal	504
 Yes	Word	--	Terminal	505
 ,	Punctuation	--	Terminal	506
 Ned	Word	--	Terminal	507
@@ -61,7 +61,7 @@ tremendous	Word	--	Terminal	558
 penetrating	Word	--	Terminal	559
 power	Word	--	Terminal	560
 .	Punctuation	--	Terminal	561
-”	Punctuation	--	Terminal	562
+"	Punctuation	--	Terminal	562
 #500	PNCT	--	U	584
 #501	PNCT	--	U	584
 #502	PNCT	--	U	584

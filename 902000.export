@@ -1,5 +1,5 @@
 #BOS 902000
-“	Punctuation	--	Terminal	500
+"	Punctuation	--	Terminal	500
 Note	Word	--	Terminal	501
 well	Word	--	Terminal	502
 ,	Punctuation	--	Terminal	503
@@ -7,12 +7,12 @@ my	Word	--	Terminal	504
 fine	Word	--	Terminal	504
 Canadian	Word	--	Terminal	504
 ,	Punctuation	--	Terminal	505
-”	Punctuation	--	Terminal	506
+"	Punctuation	--	Terminal	506
 I	Word	--	Terminal	507
 went	Word	--	Terminal	508
 on	Word	--	Terminal	508
 ,	Punctuation	--	Terminal	509
-“	Punctuation	--	Terminal	510
+"	Punctuation	--	Terminal	510
 if	Word	--	Terminal	511
 such	Word	--	Terminal	512
 an	Word	--	Terminal	513

@@ -1,5 +1,5 @@
 #BOS 837001
-“	Punctuation	--	Terminal	500
+"	Punctuation	--	Terminal	500
 With	Word	--	Terminal	501
 all	Word	--	Terminal	502
 due	Word	--	Terminal	502
@@ -7,11 +7,11 @@ respect	Word	--	Terminal	503
 to	Word	--	Terminal	504
 master	Word	--	Terminal	504
 ,	Punctuation	--	Terminal	505
-”	Punctuation	--	Terminal	506
+"	Punctuation	--	Terminal	506
 Conseil	Word	--	Terminal	507
 replied	Word	--	Terminal	508
 ,	Punctuation	--	Terminal	509
-“	Punctuation	--	Terminal	510
+"	Punctuation	--	Terminal	510
 as	Word	--	Terminal	511
 comfortable	Word	--	Terminal	512
 as	Word	--	Terminal	513
@@ -25,7 +25,7 @@ of	Word	--	Terminal	520
 a	Word	--	Terminal	521
 whelk	Word	--	Terminal	522
 .	Punctuation	--	Terminal	523
-”	Punctuation	--	Terminal	524
+"	Punctuation	--	Terminal	524
 #500	PNCT	--	U	533
 #501	FN	--	R	531
 #502	FN	--	D	531

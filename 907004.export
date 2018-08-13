@@ -1,8 +1,8 @@
 #BOS 907004
-”	Punctuation	--	Terminal	500
-“	Punctuation	--	Terminal	501
+"	Punctuation	--	Terminal	500
+"	Punctuation	--	Terminal	501
 You	Word	--	Terminal	502
-’ve	Word	--	Terminal	503
+'ve	Word	--	Terminal	503
 convinced	Word	--	Terminal	504
 me	Word	--	Terminal	505
 of	Word	--	Terminal	506
@@ -31,7 +31,7 @@ strong	Word	--	Terminal	527
 as	Word	--	Terminal	528
 you	Word	--	Terminal	529
 say	Word	--	Terminal	530
-—	Punctuation	--	Terminal	531
+-	Punctuation	--	Terminal	531
 if	Word	--	Terminal	532
 they	Word	--	Terminal	533
 exist	Word	--	Terminal	534

@@ -1,5 +1,5 @@
 #BOS 827000
-“	Punctuation	--	Terminal	500
+"	Punctuation	--	Terminal	500
 You	Word	--	Terminal	501
 see	Word	--	Terminal	502
 ,	Punctuation	--	Terminal	503
@@ -7,7 +7,7 @@ my	Word	--	Terminal	504
 friend	Word	--	Terminal	504
 ,	Punctuation	--	Terminal	505
 it	Word	--	Terminal	506
-’s	Word	--	Terminal	507
+'s	Word	--	Terminal	507
 an	Word	--	Terminal	508
 issue	Word	--	Terminal	509
 of	Word	--	Terminal	510
@@ -19,7 +19,7 @@ notorious	Word	--	Terminal	515
 narwhale	Word	--	Terminal	516
 .	Punctuation	--	Terminal	517
 We	Word	--	Terminal	518
-’re	Word	--	Terminal	519
+'re	Word	--	Terminal	519
 going	Word	--	Terminal	520
 to	Word	--	Terminal	520
 rid	Word	--	Terminal	521
@@ -60,7 +60,7 @@ Commander	Word	--	Terminal	548
 Farragut	Word	--	Terminal	549
 .	Punctuation	--	Terminal	550
 It	Word	--	Terminal	551
-’s	Word	--	Terminal	552
+'s	Word	--	Terminal	552
 a	Word	--	Terminal	553
 glorious	Word	--	Terminal	554
 mission	Word	--	Terminal	555
@@ -72,7 +72,7 @@ one	Word	--	Terminal	560
 !	Punctuation	--	Terminal	561
 We	Word	--	Terminal	562
 do	Word	--	Terminal	563
-n’t	Word	--	Terminal	564
+n't	Word	--	Terminal	564
 know	Word	--	Terminal	565
 where	Word	--	Terminal	566
 it	Word	--	Terminal	567
@@ -89,7 +89,7 @@ unpredictable	Word	--	Terminal	577
 !	Punctuation	--	Terminal	578
 But	Word	--	Terminal	579
 we	Word	--	Terminal	580
-’re	Word	--	Terminal	581
+'re	Word	--	Terminal	581
 going	Word	--	Terminal	582
 just	Word	--	Terminal	583
 the	Word	--	Terminal	583
@@ -100,12 +100,12 @@ have	Word	--	Terminal	586
 a	Word	--	Terminal	587
 commander	Word	--	Terminal	588
 who	Word	--	Terminal	589
-’s	Word	--	Terminal	590
+'s	Word	--	Terminal	590
 game	Word	--	Terminal	591
 for	Word	--	Terminal	592
 anything	Word	--	Terminal	593
 !	Punctuation	--	Terminal	594
-”	Punctuation	--	Terminal	595
+"	Punctuation	--	Terminal	595
 #500	PNCT	--	U	626
 #501	FN	--	A	617
 #502	FN	--	P	617

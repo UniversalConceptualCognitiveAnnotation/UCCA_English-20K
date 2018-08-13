@@ -1,11 +1,11 @@
 #BOS 907005
-”	Punctuation	--	Terminal	500
-“	Punctuation	--	Terminal	501
+"	Punctuation	--	Terminal	500
+"	Punctuation	--	Terminal	501
 But	Word	--	Terminal	502
 if	Word	--	Terminal	503
 they	Word	--	Terminal	504
 do	Word	--	Terminal	505
-n’t	Word	--	Terminal	506
+n't	Word	--	Terminal	506
 exist	Word	--	Terminal	507
 ,	Punctuation	--	Terminal	508
 my	Word	--	Terminal	509

@@ -1,5 +1,5 @@
 #BOS 308000
-“	Punctuation	--	Terminal	500
+"	Punctuation	--	Terminal	500
 This	Word	--	Terminal	501
 inexplicable	Word	--	Terminal	502
 phenomenon	Word	--	Terminal	503
@@ -7,10 +7,10 @@ is	Word	--	Terminal	504
 thus	Word	--	Terminal	505
 explained	Word	--	Terminal	506
 away	Word	--	Terminal	506
-—	Punctuation	--	Terminal	507
+-	Punctuation	--	Terminal	507
 unless	Word	--	Terminal	508
 it	Word	--	Terminal	509
-’s	Word	--	Terminal	510
+'s	Word	--	Terminal	510
 something	Word	--	Terminal	511
 else	Word	--	Terminal	511
 entirely	Word	--	Terminal	512
@@ -34,7 +34,7 @@ is	Word	--	Terminal	529
 still	Word	--	Terminal	530
 possible	Word	--	Terminal	531
 !	Punctuation	--	Terminal	532
-”	Punctuation	--	Terminal	533
+"	Punctuation	--	Terminal	533
 #500	PNCT	--	U	544
 #501	FN	--	E	535
 #502	FN	--	S	534

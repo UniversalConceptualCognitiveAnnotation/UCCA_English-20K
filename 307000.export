@@ -1,5 +1,5 @@
 #BOS 307000
-“	Punctuation	--	Terminal	500
+"	Punctuation	--	Terminal	500
 So	Word	--	Terminal	501
 ,	Punctuation	--	Terminal	502
 until	Word	--	Terminal	503
@@ -39,7 +39,7 @@ those	Word	--	Terminal	535
 warships	Word	--	Terminal	536
 called	Word	--	Terminal	537
 '	Punctuation	--	Terminal	538
-rams,’	Word	--	Terminal	539
+rams,'	Word	--	Terminal	539
 whose	Word	--	Terminal	540
 mass	Word	--	Terminal	541
 and	Word	--	Terminal	542

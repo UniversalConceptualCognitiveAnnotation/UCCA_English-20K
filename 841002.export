@@ -1,11 +1,11 @@
 #BOS 841002
-“	Punctuation	--	Terminal	500
+"	Punctuation	--	Terminal	500
 Go	Word	--	Terminal	501
 ahead	Word	--	Terminal	501
 ,	Punctuation	--	Terminal	502
 then	Word	--	Terminal	503
 !	Punctuation	--	Terminal	504
-”	Punctuation	--	Terminal	505
+"	Punctuation	--	Terminal	505
 Commander	Word	--	Terminal	506
 Farragut	Word	--	Terminal	507
 called	Word	--	Terminal	508

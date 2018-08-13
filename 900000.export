@@ -1,12 +1,12 @@
 #BOS 900000
-“	Punctuation	--	Terminal	500
+"	Punctuation	--	Terminal	500
 So	Word	--	Terminal	501
 ,	Punctuation	--	Terminal	502
 Mr	Word	--	Terminal	503
 .	Punctuation	--	Terminal	504
 Naturalist	Word	--	Terminal	503
 ,	Punctuation	--	Terminal	505
-”	Punctuation	--	Terminal	506
+"	Punctuation	--	Terminal	506
 Ned	Word	--	Terminal	507
 Land	Word	--	Terminal	507
 continued	Word	--	Terminal	508
@@ -15,9 +15,9 @@ a	Word	--	Terminal	510
 bantering	Word	--	Terminal	511
 tone	Word	--	Terminal	512
 ,	Punctuation	--	Terminal	513
-“	Punctuation	--	Terminal	514
+"	Punctuation	--	Terminal	514
 you	Word	--	Terminal	515
-’ll	Word	--	Terminal	516
+'ll	Word	--	Terminal	516
 just	Word	--	Terminal	517
 keep	Word	--	Terminal	518
 on	Word	--	Terminal	518

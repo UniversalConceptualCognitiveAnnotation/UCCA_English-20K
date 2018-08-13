@@ -1,20 +1,20 @@
 #BOS 905002
-”	Punctuation	--	Terminal	500
-“	Punctuation	--	Terminal	501
+"	Punctuation	--	Terminal	500
+"	Punctuation	--	Terminal	501
 As	Word	--	Terminal	502
 many	Word	--	Terminal	503
 as	Word	--	Terminal	504
 that	Word	--	Terminal	505
 ?	Punctuation	--	Terminal	506
-”	Punctuation	--	Terminal	507
-“	Punctuation	--	Terminal	508
+"	Punctuation	--	Terminal	507
+"	Punctuation	--	Terminal	508
 Yes	Word	--	Terminal	509
 ,	Punctuation	--	Terminal	510
 and	Word	--	Terminal	511
 since	Word	--	Terminal	512
 the	Word	--	Terminal	513
 atmosphere	Word	--	Terminal	514
-’s	Word	--	Terminal	515
+'s	Word	--	Terminal	515
 pressure	Word	--	Terminal	516
 actually	Word	--	Terminal	517
 weighs	Word	--	Terminal	518

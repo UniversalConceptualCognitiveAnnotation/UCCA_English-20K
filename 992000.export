@@ -8,13 +8,13 @@ in	Word	--	Terminal	504
 latitude	Word	--	Terminal	505
 31	Word	--	Terminal	506
 °	Punctuation	--	Terminal	507
-15′	Word	--	Terminal	506
+15'	Word	--	Terminal	506
 north	Word	--	Terminal	508
 and	Word	--	Terminal	509
 longitude	Word	--	Terminal	510
 136	Word	--	Terminal	511
 °	Punctuation	--	Terminal	512
-42′	Word	--	Terminal	511
+42'	Word	--	Terminal	511
 east	Word	--	Terminal	513
 .	Punctuation	--	Terminal	514
 #500	FN	--	L	522	LR	523

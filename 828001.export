@@ -1,5 +1,5 @@
 #BOS 828001
-“	Punctuation	--	Terminal	500
+"	Punctuation	--	Terminal	500
 But	Word	--	Terminal	501
 think	Word	--	Terminal	502
 it	Word	--	Terminal	503
@@ -8,7 +8,7 @@ over	Word	--	Terminal	504
 because	Word	--	Terminal	506
 I	Word	--	Terminal	507
 do	Word	--	Terminal	508
-n’t	Word	--	Terminal	509
+n't	Word	--	Terminal	509
 want	Word	--	Terminal	510
 to	Word	--	Terminal	511
 hide	Word	--	Terminal	512
@@ -26,7 +26,7 @@ from	Word	--	Terminal	523
 which	Word	--	Terminal	523
 people	Word	--	Terminal	524
 do	Word	--	Terminal	525
-n’t	Word	--	Terminal	526
+n't	Word	--	Terminal	526
 always	Word	--	Terminal	527
 come	Word	--	Terminal	528
 back	Word	--	Terminal	528

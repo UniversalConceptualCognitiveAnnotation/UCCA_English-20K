@@ -40,7 +40,7 @@ rarely	Word	--	Terminal	537
 startled	Word	--	Terminal	538
 by	Word	--	Terminal	539
 life	Word	--	Terminal	540
-’s	Word	--	Terminal	541
+'s	Word	--	Terminal	541
 surprises	Word	--	Terminal	542
 ,	Punctuation	--	Terminal	543
 very	Word	--	Terminal	544
@@ -63,14 +63,14 @@ a	Word	--	Terminal	560
 name	Word	--	Terminal	561
 that	Word	--	Terminal	562
 means	Word	--	Terminal	563
-“	Punctuation	--	Terminal	564
+"	Punctuation	--	Terminal	564
 counsel	Word	--	Terminal	565
 ,	Punctuation	--	Terminal	566
-”	Punctuation	--	Terminal	567
+"	Punctuation	--	Terminal	567
 never	Word	--	Terminal	568
 giving	Word	--	Terminal	569
 advice	Word	--	Terminal	570
-—	Punctuation	--	Terminal	571
+-	Punctuation	--	Terminal	571
 not	Word	--	Terminal	572
 even	Word	--	Terminal	572
 the	Word	--	Terminal	573

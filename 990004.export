@@ -16,7 +16,7 @@ around	Word	--	Terminal	511
 it	Word	--	Terminal	512
 and	Word	--	Terminal	513
 did	Word	--	Terminal	514
-n’t	Word	--	Terminal	515
+n't	Word	--	Terminal	515
 leave	Word	--	Terminal	516
 a	Word	--	Terminal	517
 single	Word	--	Terminal	518

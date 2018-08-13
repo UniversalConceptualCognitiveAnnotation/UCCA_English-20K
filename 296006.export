@@ -4,7 +4,7 @@ in	Word	--	Terminal	501
 this	Word	--	Terminal	502
 vein	Word	--	Terminal	503
 ,	Punctuation	--	Terminal	504
-“	Punctuation	--	Terminal	505
+"	Punctuation	--	Terminal	505
 the	Word	--	Terminal	506
 honorable	Word	--	Terminal	507
 Pierre	Word	--	Terminal	508
@@ -16,7 +16,7 @@ the	Word	--	Terminal	512
 Paris	Word	--	Terminal	513
 Museum	Word	--	Terminal	514
 ,	Punctuation	--	Terminal	515
-”	Punctuation	--	Terminal	516
+"	Punctuation	--	Terminal	516
 was	Word	--	Terminal	517
 summoned	Word	--	Terminal	518
 by	Word	--	Terminal	519

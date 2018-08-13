@@ -1,12 +1,12 @@
 #BOS 904000
-“	Punctuation	--	Terminal	500
+"	Punctuation	--	Terminal	500
 Bosh	Word	--	Terminal	501
 !	Punctuation	--	Terminal	502
-”	Punctuation	--	Terminal	503
+"	Punctuation	--	Terminal	503
 Ned	Word	--	Terminal	504
 replied	Word	--	Terminal	505
 .	Punctuation	--	Terminal	506
-“	Punctuation	--	Terminal	507
+"	Punctuation	--	Terminal	507
 You	Word	--	Terminal	508
 can	Word	--	Terminal	509
 make	Word	--	Terminal	510

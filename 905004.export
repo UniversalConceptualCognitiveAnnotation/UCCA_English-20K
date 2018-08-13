@@ -1,6 +1,6 @@
 #BOS 905004
-”	Punctuation	--	Terminal	500
-“	Punctuation	--	Terminal	501
+"	Punctuation	--	Terminal	500
+"	Punctuation	--	Terminal	501
 Without	Word	--	Terminal	502
 your	Word	--	Terminal	503
 noticing	Word	--	Terminal	504
@@ -10,7 +10,7 @@ And	Word	--	Terminal	507
 if	Word	--	Terminal	508
 you	Word	--	Terminal	509
 are	Word	--	Terminal	510
-n’t	Word	--	Terminal	511
+n't	Word	--	Terminal	511
 crushed	Word	--	Terminal	512
 by	Word	--	Terminal	513
 so	Word	--	Terminal	514
@@ -18,7 +18,7 @@ much	Word	--	Terminal	515
 pressure	Word	--	Terminal	516
 ,	Punctuation	--	Terminal	517
 it	Word	--	Terminal	518
-’s	Word	--	Terminal	518
+'s	Word	--	Terminal	518
 because	Word	--	Terminal	518
 the	Word	--	Terminal	519
 air	Word	--	Terminal	520
@@ -61,7 +61,7 @@ in	Word	--	Terminal	555
 the	Word	--	Terminal	556
 water	Word	--	Terminal	557
 it	Word	--	Terminal	558
-’s	Word	--	Terminal	559
+'s	Word	--	Terminal	559
 another	Word	--	Terminal	560
 story	Word	--	Terminal	561
 .	Punctuation	--	Terminal	562

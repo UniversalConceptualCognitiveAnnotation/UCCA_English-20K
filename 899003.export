@@ -2,8 +2,8 @@
 .	Punctuation	--	Terminal	500
 .	Punctuation	--	Terminal	501
 ?	Punctuation	--	Terminal	502
-”	Punctuation	--	Terminal	503
-“	Punctuation	--	Terminal	504
+"	Punctuation	--	Terminal	503
+"	Punctuation	--	Terminal	504
 Even	Word	--	Terminal	505
 less	Word	--	Terminal	506
 likely	Word	--	Terminal	507
@@ -29,7 +29,7 @@ flesh	Word	--	Terminal	526
 ,	Punctuation	--	Terminal	527
 because	Word	--	Terminal	528
 it	Word	--	Terminal	529
-’s	Word	--	Terminal	530
+'s	Word	--	Terminal	530
 Latin	Word	--	Terminal	531
 meaning	Word	--	Terminal	532
 soft	Word	--	Terminal	533
@@ -38,7 +38,7 @@ one	Word	--	Terminal	534
 The	Word	--	Terminal	536
 devilfish	Word	--	Terminal	537
 does	Word	--	Terminal	538
-n’t	Word	--	Terminal	539
+n't	Word	--	Terminal	539
 belong	Word	--	Terminal	540
 to	Word	--	Terminal	541
 the	Word	--	Terminal	542
@@ -91,7 +91,7 @@ realm	Word	--	Terminal	587
 of	Word	--	Terminal	588
 fiction	Word	--	Terminal	589
 .	Punctuation	--	Terminal	590
-”	Punctuation	--	Terminal	591
+"	Punctuation	--	Terminal	591
 #500	PNCT	--	U	627
 #501	PNCT	--	U	627
 #502	PNCT	--	U	627

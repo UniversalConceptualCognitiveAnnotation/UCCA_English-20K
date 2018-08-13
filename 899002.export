@@ -1,14 +1,14 @@
 #BOS 899002
-”	Punctuation	--	Terminal	500
-“	Punctuation	--	Terminal	501
+"	Punctuation	--	Terminal	500
+"	Punctuation	--	Terminal	501
 Listen	Word	--	Terminal	502
 to	Word	--	Terminal	503
 me	Word	--	Terminal	504
 ,	Punctuation	--	Terminal	505
 Ned	Word	--	Terminal	506
-—	Punctuation	--	Terminal	507
-”	Punctuation	--	Terminal	508
-“	Punctuation	--	Terminal	509
+-	Punctuation	--	Terminal	507
+"	Punctuation	--	Terminal	508
+"	Punctuation	--	Terminal	509
 No	Word	--	Terminal	510
 ,	Punctuation	--	Terminal	511
 no	Word	--	Terminal	512
@@ -16,7 +16,7 @@ no	Word	--	Terminal	512
 professor	Word	--	Terminal	514
 .	Punctuation	--	Terminal	515
 I	Word	--	Terminal	516
-’ll	Word	--	Terminal	517
+'ll	Word	--	Terminal	517
 go	Word	--	Terminal	518
 along	Word	--	Terminal	518
 with	Word	--	Terminal	519

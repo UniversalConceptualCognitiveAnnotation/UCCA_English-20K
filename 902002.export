@@ -1,5 +1,5 @@
 #BOS 902002
-“	Punctuation	--	Terminal	500
+"	Punctuation	--	Terminal	500
 Because	Word	--	Terminal	501
 it	Word	--	Terminal	502
 takes	Word	--	Terminal	503
@@ -17,7 +17,7 @@ withstand	Word	--	Terminal	514
 their	Word	--	Terminal	515
 pressure	Word	--	Terminal	516
 .	Punctuation	--	Terminal	517
-”	Punctuation	--	Terminal	518
+"	Punctuation	--	Terminal	518
 #500	PNCT	--	U	528
 #501	FN	--	L	528
 #502	FN	--	F	527

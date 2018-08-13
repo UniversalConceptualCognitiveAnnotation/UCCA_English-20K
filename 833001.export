@@ -1,18 +1,18 @@
 #BOS 833001
-“	Punctuation	--	Terminal	500
+"	Punctuation	--	Terminal	500
 The	Word	--	Terminal	501
 same	Word	--	Terminal	502
 ,	Punctuation	--	Terminal	503
-”	Punctuation	--	Terminal	504
+"	Punctuation	--	Terminal	504
 I	Word	--	Terminal	505
 replied	Word	--	Terminal	506
 .	Punctuation	--	Terminal	507
-“	Punctuation	--	Terminal	508
+"	Punctuation	--	Terminal	508
 Commander	Word	--	Terminal	509
 Farragut	Word	--	Terminal	510
 ?	Punctuation	--	Terminal	511
-”	Punctuation	--	Terminal	512
-“	Punctuation	--	Terminal	513
+"	Punctuation	--	Terminal	512
+"	Punctuation	--	Terminal	513
 In	Word	--	Terminal	514
 person	Word	--	Terminal	515
 .	Punctuation	--	Terminal	516
@@ -28,7 +28,7 @@ waiting	Word	--	Terminal	525
 for	Word	--	Terminal	526
 you	Word	--	Terminal	527
 .	Punctuation	--	Terminal	528
-”	Punctuation	--	Terminal	529
+"	Punctuation	--	Terminal	529
 #500	PNCT	--	U	552
 #501	FN	--	E	530
 #502	FN	--	C	530

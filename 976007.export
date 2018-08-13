@@ -31,10 +31,10 @@ a	Word	--	Terminal	527
 calm	Word	--	Terminal	528
 tone	Word	--	Terminal	529
 :	Punctuation	--	Terminal	530
-“	Punctuation	--	Terminal	531
+"	Punctuation	--	Terminal	531
 If	Word	--	Terminal	532
 master	Word	--	Terminal	533
-’s	Word	--	Terminal	534
+'s	Word	--	Terminal	534
 eyes	Word	--	Terminal	535
 would	Word	--	Terminal	536
 kindly	Word	--	Terminal	537
@@ -46,7 +46,7 @@ will	Word	--	Terminal	542
 see	Word	--	Terminal	543
 farther	Word	--	Terminal	544
 !	Punctuation	--	Terminal	545
-”	Punctuation	--	Terminal	546
+"	Punctuation	--	Terminal	546
 #500	FN	--	A	547
 #501	FN	--	P	547
 #502	PNCT	--	U	563

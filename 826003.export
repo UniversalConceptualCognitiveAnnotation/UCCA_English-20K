@@ -1,5 +1,5 @@
 #BOS 826003
-“	Punctuation	--	Terminal	500
+"	Punctuation	--	Terminal	500
 Yes	Word	--	Terminal	501
 ,	Punctuation	--	Terminal	502
 my	Word	--	Terminal	503
@@ -15,7 +15,7 @@ yours	Word	--	Terminal	510
 ready	Word	--	Terminal	509
 .	Punctuation	--	Terminal	511
 We	Word	--	Terminal	512
-’re	Word	--	Terminal	513
+'re	Word	--	Terminal	513
 departing	Word	--	Terminal	514
 in	Word	--	Terminal	515
 two	Word	--	Terminal	516

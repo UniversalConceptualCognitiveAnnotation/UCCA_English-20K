@@ -3,7 +3,7 @@ It	Word	--	Terminal	500
 was	Word	--	Terminal	501
 Ned	Word	--	Terminal	502
 Land	Word	--	Terminal	502
-’s	Word	--	Terminal	503
+'s	Word	--	Terminal	503
 voice	Word	--	Terminal	504
 ,	Punctuation	--	Terminal	505
 and	Word	--	Terminal	506
@@ -14,7 +14,7 @@ shouted	Word	--	Terminal	508
 Ahoy	Word	--	Terminal	511
 !	Punctuation	--	Terminal	512
 There	Word	--	Terminal	513
-’s	Word	--	Terminal	514
+'s	Word	--	Terminal	514
 the	Word	--	Terminal	515
 thing	Word	--	Terminal	516
 in	Word	--	Terminal	517

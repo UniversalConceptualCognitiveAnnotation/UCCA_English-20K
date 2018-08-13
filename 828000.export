@@ -1,14 +1,14 @@
 #BOS 828000
-“	Punctuation	--	Terminal	500
+"	Punctuation	--	Terminal	500
 What	Word	--	Terminal	501
 master	Word	--	Terminal	502
 does	Word	--	Terminal	503
 ,	Punctuation	--	Terminal	504
 I	Word	--	Terminal	505
-’ll	Word	--	Terminal	506
+'ll	Word	--	Terminal	506
 do	Word	--	Terminal	507
 ,	Punctuation	--	Terminal	508
-”	Punctuation	--	Terminal	509
+"	Punctuation	--	Terminal	509
 Conseil	Word	--	Terminal	510
 replied	Word	--	Terminal	511
 .	Punctuation	--	Terminal	512

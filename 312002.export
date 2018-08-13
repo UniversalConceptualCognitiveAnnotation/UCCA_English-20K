@@ -7,11 +7,11 @@ Gazette	Word	--	Terminal	500
 ,	Punctuation	--	Terminal	502
 the	Word	--	Terminal	503
 Lloyd	Word	--	Terminal	504
-’s	Word	--	Terminal	504
+'s	Word	--	Terminal	504
 List	Word	--	Terminal	504
 ,	Punctuation	--	Terminal	505
 France	Word	--	Terminal	506
-’s	Word	--	Terminal	506
+'s	Word	--	Terminal	506
 Packetboat	Word	--	Terminal	506
 and	Word	--	Terminal	507
 Maritime	Word	--	Terminal	508
@@ -26,7 +26,7 @@ devoted	Word	--	Terminal	514
 to	Word	--	Terminal	515
 insurance	Word	--	Terminal	516
 companies	Word	--	Terminal	517
-—	Punctuation	--	Terminal	518
+-	Punctuation	--	Terminal	518
 who	Word	--	Terminal	519
 threatened	Word	--	Terminal	520
 to	Word	--	Terminal	521
@@ -34,7 +34,7 @@ raise	Word	--	Terminal	522
 their	Word	--	Terminal	523
 premium	Word	--	Terminal	524
 rates	Word	--	Terminal	525
-—	Punctuation	--	Terminal	526
+-	Punctuation	--	Terminal	526
 were	Word	--	Terminal	527
 unanimous	Word	--	Terminal	528
 on	Word	--	Terminal	529
