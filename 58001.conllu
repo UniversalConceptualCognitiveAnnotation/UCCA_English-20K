@@ -1,7 +1,6 @@
 # format = ucca
 # sent_id = 58001
 # text = He discovered that the fifth compartment had been invaded by the sea , and the speed of this invasion proved that the leak was considerable .
-# doc_id = 
 1	He	_	Word	Word	_	2	A	2:A	_
 2	discovered	_	Word	Word	_	0	root	0:root	_
 3	that	_	Word	Word	_	9	R	9:R	_

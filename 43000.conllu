@@ -1,7 +1,6 @@
 # format = ucca
 # sent_id = 43000
 # text = Fifteen days later and 2,000 leagues farther , the Helvetia from the Compagnie Nationale and the Shannon from the Royal Mail line , running on opposite tacks in that part of the Atlantic lying between the United States and Europe , respectively signaled each other that the monster had been sighted in latitude 42 15 ° north ' and longitude 60 35 ° west ' of the meridian of Greenwich .
-# doc_id = 
 1	Fifteen	_	Word	Word	_	2	E	2:E	_
 2	days	_	Word	Word	_	0	root	0:root	_
 3	later	_	Word	Word	_	2	E	2:E	_
@@ -53,7 +52,7 @@
 49	had	_	Word	Word	_	51	F	51:F	_
 50	been	_	Word	Word	_	51	F	51:F	_
 51	sighted	_	Word	Word	_	2	orphan	2:orphan	_
-52	in	_	Word	Word	_	54	R	54:R	_
+52	in	_	Word	Word	_	54	R	54:R|61:R	_
 53	latitude	_	Word	Word	_	54	E	54:E	_
 54	42	_	Word	Word	_	2	orphan	2:orphan	_
 55	15	_	Word	Word	_	54	flat	54:flat	_

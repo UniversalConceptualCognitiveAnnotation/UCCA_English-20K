@@ -1,7 +1,6 @@
 # format = ucca
 # sent_id = 56001
 # text = This encounter seemed so minor that nobody on board would have been disturbed by it , had it not been for the shouts of crewmen in the hold , who climbed on deck yelling : " We 're sinking ! We 're sinking ! "
-# doc_id = 
 1	This	_	Word	Word	_	2	E	2:E	_
 2	encounter	_	Word	Word	_	0	root	0:root	_
 3	seemed	_	Word	Word	_	5	G	5:G	_

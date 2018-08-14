@@ -1,7 +1,6 @@
 # format = ucca
 # sent_id = 882001
 # text = They surveyed the sea with scrupulous care .
-# doc_id = 
 1	They	_	Word	Word	_	2	A	2:A	_
 2	surveyed	_	Word	Word	_	0	root	0:root	_
 3	the	_	Word	Word	_	4	E	4:E	_

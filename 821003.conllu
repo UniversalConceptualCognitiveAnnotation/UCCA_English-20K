@@ -1,7 +1,6 @@
 # format = ucca
 # sent_id = 821003
 # text = He went here , there , and everywhere in perfect contentment .
-# doc_id = 
 1	He	_	Word	Word	_	2	A	2:A	_
 2	went	_	Word	Word	_	0	root	0:root	_
 3	here	_	Word	Word	_	2	orphan	2:orphan	_

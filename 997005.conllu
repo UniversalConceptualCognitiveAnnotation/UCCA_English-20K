@@ -1,11 +1,10 @@
 # format = ucca
 # sent_id = 997005
 # text = " " When one has the honor of being an expert as master is , one must n't lay himself open to- "
-# doc_id = 
 1	"	_	Punctuation	Punctuation	_	9	punct	9:punct	_
 2	"	_	Punctuation	Punctuation	_	9	punct	9:punct	_
 3	When	_	Word	Word	_	9	L	9:L	_
-4	one	_	Word	Word	_	9	A	9:A	_
+4	one	_	Word	Word	_	9	A	9:A|11:A	_
 5	has	_	Word	Word	_	9	F	9:F	_
 6	the	_	Word	Word	_	7	E	7:E	_
 7	honor	_	Word	Word	_	0	root	0:root	_

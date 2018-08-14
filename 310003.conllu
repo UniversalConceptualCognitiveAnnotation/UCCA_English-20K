@@ -1,7 +1,6 @@
 # format = ucca
 # sent_id = 310003
 # text = The human mind enjoys impressive visions of unearthly creatures .
-# doc_id = 
 1	The	_	Word	Word	_	3	E	3:E	_
 2	human	_	Word	Word	_	3	E	3:E	_
 3	mind	_	Word	Word	_	0	root	0:root	_

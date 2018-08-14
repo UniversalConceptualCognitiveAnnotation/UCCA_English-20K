@@ -1,7 +1,6 @@
 # format = ucca
 # sent_id = 41002
 # text = So , unless this reef was subject to the intermittent eruptions of a geyser , the Governor Higginson had fair and honest dealings with some aquatic mammal , until then unknown , that could spurt from its blowholes waterspouts mixed with air and steam .
-# doc_id = 
 1	So	_	Word	Word	_	7	L	7:L	_
 2	,	_	Punctuation	Punctuation	_	7	punct	7:punct	_
 3	unless	_	Word	Word	_	7	L	7:L	_

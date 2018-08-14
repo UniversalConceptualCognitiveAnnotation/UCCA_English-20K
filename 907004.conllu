@@ -1,7 +1,6 @@
 # format = ucca
 # sent_id = 907004
 # text = " " You 've convinced me of one thing , Mr . Naturalist . That deep in the sea , such animals would need to be just as strong as you say - if they exist .
-# doc_id = 
 1	"	_	Punctuation	Punctuation	_	5	punct	5:punct	_
 2	"	_	Punctuation	Punctuation	_	5	punct	5:punct	_
 3	You	_	Word	Word	_	5	A	5:A	_

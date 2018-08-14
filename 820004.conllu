@@ -1,7 +1,6 @@
 # format = ucca
 # sent_id = 820004
 # text = Well versed in the theory of classification , he was poorly versed in its practical application , and I doubt that he could tell a sperm whale from a baleen whale !
-# doc_id = 
 1	Well	_	Word	Word	_	2	D	2:D	_
 2	versed	_	Word	Word	_	0	root	0:root	_
 3	in	_	Word	Word	_	5	R	5:R	_
@@ -10,7 +9,7 @@
 6	of	_	Word	Word	_	7	R	7:R	_
 7	classification	_	Word	Word	_	2	orphan	2:orphan	_
 8	,	_	Punctuation	Punctuation	_	2	punct	2:punct	_
-9	he	_	Word	Word	_	12	A	12:A	_
+9	he	_	Word	Word	_	12	A	12:A|2:A	_
 10	was	_	Word	Word	_	12	F	12:F	_
 11	poorly	_	Word	Word	_	12	D	12:D	_
 12	versed	_	Word	Word	_	2	orphan	2:orphan	_

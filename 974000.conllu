@@ -1,7 +1,6 @@
 # format = ucca
 # sent_id = 974000
 # text = " Open your eyes ! Open your eyes ! " repeated the sailors of the Abraham Lincoln .
-# doc_id = 
 1	"	_	Punctuation	Punctuation	_	11	punct	11:punct	_
 2	Open	_	Word	Word	_	0	root	0:root	_
 3	your	_	Word	Word	_	4	E	4:E	_

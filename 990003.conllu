@@ -1,7 +1,6 @@
 # format = ucca
 # sent_id = 990003
 # text = Enormous sides of bacon were trailed in our wake , to the great satisfaction , I must say , of assorted sharks .
-# doc_id = 
 1	Enormous	_	Word	Word	_	2	E	2:E	_
 2	sides	_	Word	Word	_	0	root	0:root	_
 3	of	_	Word	Word	_	2	R	2:R	_

@@ -1,7 +1,6 @@
 # format = ucca
 # sent_id = 830004
 # text = I opened a line of credit sufficient to cover the babirusa and , Conseil at my heels , I jumped into a carriage .
-# doc_id = 
 1	I	_	Word	Word	_	2	A	2:A	_
 2	opened	_	Word	Word	_	0	root	0:root	_
 3	a	_	Word	Word	_	4	E	4:E	_

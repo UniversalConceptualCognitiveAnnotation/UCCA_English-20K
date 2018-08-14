@@ -1,7 +1,6 @@
 # format = ucca
 # sent_id = 299000
 # text = " The deepest parts of the ocean are totally unknown to us . No soundings have been able to reach them . What goes on in those distant depths ? What creatures inhabit , or could inhabit , those regions twelve or fifteen miles beneath the surface of the water ? What is the constitution of these animals ? It 's almost beyond conjecture .
-# doc_id = 
 1	"	_	Punctuation	Punctuation	_	10	punct	10:punct	_
 2	The	_	Word	Word	_	4	E	4:E	_
 3	deepest	_	Word	Word	_	4	E	4:E	_

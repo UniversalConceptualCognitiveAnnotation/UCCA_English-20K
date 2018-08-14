@@ -1,7 +1,6 @@
 # format = ucca
 # sent_id = 976006
 # text = With panting chests and anxious eyes , we each would observe the cetacean 's movements .
-# doc_id = 
 1	With	_	Word	Word	_	2	L	2:L	_
 2	panting	_	Word	Word	_	0	root	0:root	_
 3	chests	_	Word	Word	_	2	A	2:A	_

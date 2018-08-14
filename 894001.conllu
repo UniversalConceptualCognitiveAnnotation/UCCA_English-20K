@@ -1,7 +1,6 @@
 # format = ucca
 # sent_id = 894001
 # text = Quite naturally , I led our conversation around to the giant unicorn , and I weighed our expedition 's various chances for success or failure .
-# doc_id = 
 1	Quite	_	Word	Word	_	2	E	2:E	_
 2	naturally	_	Word	Word	_	0	root	0:root	_
 3	,	_	Punctuation	Punctuation	_	5	punct	5:punct	_

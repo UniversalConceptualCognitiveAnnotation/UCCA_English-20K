@@ -1,7 +1,6 @@
 # format = ucca
 # sent_id = 49000
 # text = On March 5 , 1867 , the Moravian from the Montreal Ocean Co . , lying during the night in latitude 27 30 ° ' and longitude 72 15 ° ' , ran its starboard quarter afoul of a rock marked on no charts of these waterways .
-# doc_id = 
 1	On	_	Word	Word	_	2	R	2:R	_
 2	March	_	Word	Word	_	0	root	0:root	_
 3	5	_	Word	Word	_	2	flat	2:flat	_
@@ -21,7 +20,7 @@
 17	during	_	Word	Word	_	19	R	19:R	_
 18	the	_	Word	Word	_	19	E	19:E	_
 19	night	_	Word	Word	_	2	orphan	2:orphan	_
-20	in	_	Word	Word	_	22	R	22:R	_
+20	in	_	Word	Word	_	22	R	22:R|28:R	_
 21	latitude	_	Word	Word	_	22	E	22:E	_
 22	27	_	Word	Word	_	2	orphan	2:orphan	_
 23	30	_	Word	Word	_	22	flat	22:flat	_

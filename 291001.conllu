@@ -1,7 +1,6 @@
 # format = ucca
 # sent_id = 291001
 # text = That a private individual had such a mechanism at his disposal was less than probable .
-# doc_id = 
 1	That	_	Word	Word	_	9	R	9:R	_
 2	a	_	Word	Word	_	4	E	4:E	_
 3	private	_	Word	Word	_	4	E	4:E	_

@@ -1,7 +1,6 @@
 # format = ucca
 # sent_id = 904008
 # text = Now , my gallant Ned , do you know how many square centimeters you have on your bodily surface ? "
-# doc_id = 
 1	Now	_	Word	Word	_	9	L	9:L	_
 2	,	_	Punctuation	Punctuation	_	9	punct	9:punct	_
 3	my	_	Word	Word	_	9	G	9:G	_

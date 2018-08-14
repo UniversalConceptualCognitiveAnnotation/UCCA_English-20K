@@ -1,7 +1,6 @@
 # format = ucca
 # sent_id = 993005
 # text = Then all traces of light vanished into the darkness .
-# doc_id = 
 1	Then	_	Word	Word	_	6	L	6:L	_
 2	all	_	Word	Word	_	3	E	3:E	_
 3	traces	_	Word	Word	_	0	root	0:root	_

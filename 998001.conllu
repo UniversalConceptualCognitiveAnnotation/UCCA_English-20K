@@ -1,7 +1,6 @@
 # format = ucca
 # sent_id = 998001
 # text = In the midst of the general silence , a voice became audible .
-# doc_id = 
 1	In	_	Word	Word	_	3	R	3:R	_
 2	the	_	Word	Word	_	3	E	3:E	_
 3	midst	_	Word	Word	_	0	root	0:root	_

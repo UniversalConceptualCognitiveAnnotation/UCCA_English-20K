@@ -1,7 +1,6 @@
 # format = ucca
 # sent_id = 987001
 # text = The Abraham Lincoln had done everything it could to succeed and had no reason to blame itself .
-# doc_id = 
 1	The	_	Word	Word	_	2	E	2:E	_
 2	Abraham	_	Word	Word	_	0	root	0:root	_
 3	Lincoln	_	Word	Word	_	2	flat	2:flat	_

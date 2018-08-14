@@ -1,7 +1,6 @@
 # format = ucca
 # sent_id = 291002
 # text = Where and when had he built it , and how could he have built it in secret ?
-# doc_id = 
 1	Where	_	Word	Word	_	0	root	0:root	_
 2	and	_	Word	Word	_	1	N	1:N	_
 3	when	_	Word	Word	_	1	C	1:C	_

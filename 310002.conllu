@@ -1,7 +1,6 @@
 # format = ucca
 # sent_id = 310002
 # text = Moreover , the solution it proposed allowed for free play of the imagination .
-# doc_id = 
 1	Moreover	_	Word	Word	_	7	L	7:L	_
 2	,	_	Punctuation	Punctuation	_	7	punct	7:punct	_
 3	the	_	Word	Word	_	4	E	4:E	_

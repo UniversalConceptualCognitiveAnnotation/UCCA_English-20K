@@ -1,7 +1,6 @@
 # format = ucca
 # sent_id = 42000
 # text = Similar events were likewise observed in Pacific seas , on July 23 of the same year , by the Christopher Columbus from the West India & Pacific Steam Navigation Co .
-# doc_id = 
 1	Similar	_	Word	Word	_	2	E	2:E	_
 2	events	_	Word	Word	_	0	root	0:root	_
 3	were	_	Word	Word	_	5	F	5:F	_

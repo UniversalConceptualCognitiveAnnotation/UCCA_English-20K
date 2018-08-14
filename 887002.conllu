@@ -1,7 +1,6 @@
 # format = ucca
 # sent_id = 887002
 # text = His looks caught the attention , and above all the strength of his gaze , which gave a unique emphasis to his facial appearance .
-# doc_id = 
 1	His	_	Word	Word	_	2	E	2:E	_
 2	looks	_	Word	Word	_	0	root	0:root	_
 3	caught	_	Word	Word	_	2	orphan	2:orphan	_

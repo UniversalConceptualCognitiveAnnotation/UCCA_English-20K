@@ -1,7 +1,6 @@
 # format = ucca
 # sent_id = 287000
 # text = I was perfectly abreast of this question , which was the big news of the day , and how could I not have been ?
-# doc_id = 
 1	I	_	Word	Word	_	4	A	4:A	_
 2	was	_	Word	Word	_	4	F	4:F	_
 3	perfectly	_	Word	Word	_	4	D	4:D	_

@@ -1,7 +1,6 @@
 # format = ucca
 # sent_id = 818000
 # text = " Conseil ! " I called in an impatient voice .
-# doc_id = 
 1	"	_	Punctuation	Punctuation	_	6	punct	6:punct	_
 2	Conseil	_	Word	Word	_	0	root	0:root	_
 3	!	_	Punctuation	Punctuation	_	6	punct	6:punct	_

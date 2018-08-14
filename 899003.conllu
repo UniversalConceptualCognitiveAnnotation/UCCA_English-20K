@@ -1,7 +1,6 @@
 # format = ucca
 # sent_id = 899003
 # text = . . ? " " Even less likely , Ned . The devilfish is merely a mollusk , and even this name hints at its semiliquid flesh , because it 's Latin meaning soft one . The devilfish does n't belong to the vertebrate branch , and even if it were 500 feet long , it would still be utterly harmless to ships like the Scotia or the Abraham Lincoln . Consequently , the feats of krakens or other monsters of that ilk must be relegated to the realm of fiction . "
-# doc_id = 
 1	.	_	Punctuation	Punctuation	_	8	punct	8:punct	_
 2	.	_	Punctuation	Punctuation	_	8	punct	8:punct	_
 3	?	_	Punctuation	Punctuation	_	8	punct	8:punct	_
@@ -77,7 +76,7 @@
 73	,	_	Punctuation	Punctuation	_	8	punct	8:punct	_
 74	the	_	Word	Word	_	75	E	75:E	_
 75	feats	_	Word	Word	_	8	orphan	8:orphan	_
-76	of	_	Word	Word	_	77	R	77:R	_
+76	of	_	Word	Word	_	77	R	77:R|80:R	_
 77	krakens	_	Word	Word	_	8	orphan	8:orphan	_
 78	or	_	Word	Word	_	77	N	77:N	_
 79	other	_	Word	Word	_	80	E	80:E	_

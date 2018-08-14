@@ -1,7 +1,6 @@
 # format = ucca
 # sent_id = 293002
 # text = Besides , how could the assembly of this underwater boat have escaped public notice ?
-# doc_id = 
 1	Besides	_	Word	Word	_	12	L	12:L	_
 2	,	_	Punctuation	Punctuation	_	12	punct	12:punct	_
 3	how	_	Word	Word	_	12	D	12:D	_

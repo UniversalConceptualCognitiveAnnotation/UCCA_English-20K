@@ -1,7 +1,6 @@
 # format = ucca
 # sent_id = 286004
 # text = In the meantime , then , I was busy classifying my mineralogical , botanical , and zoological treasures when that incident took place with the Scotia .
-# doc_id = 
 1	In	_	Word	Word	_	3	R	3:R	_
 2	the	_	Word	Word	_	3	E	3:E	_
 3	meantime	_	Word	Word	_	0	root	0:root	_

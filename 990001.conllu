@@ -1,7 +1,6 @@
 # format = ucca
 # sent_id = 990001
 # text = The Abraham Lincoln stayed at half steam .
-# doc_id = 
 1	The	_	Word	Word	_	2	E	2:E	_
 2	Abraham	_	Word	Word	_	0	root	0:root	_
 3	Lincoln	_	Word	Word	_	2	flat	2:flat	_

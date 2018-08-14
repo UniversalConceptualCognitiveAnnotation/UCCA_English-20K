@@ -1,7 +1,6 @@
 # format = ucca
 # sent_id = 52004
 # text = So in 1867 this company owned twelve ships , eight with paddle wheels and four with propellers .
-# doc_id = 
 1	So	_	Word	Word	_	6	L	6:L	_
 2	in	_	Word	Word	_	3	R	3:R	_
 3	1867	_	Word	Word	_	0	root	0:root	_

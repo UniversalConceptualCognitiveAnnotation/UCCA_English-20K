@@ -1,7 +1,6 @@
 # format = ucca
 # sent_id = 983000
 # text = We were finally in the area of the monster 's latest antics !
-# doc_id = 
 1	We	_	Word	Word	_	2	A	2:A	_
 2	were	_	Word	Word	_	0	root	0:root	_
 3	finally	_	Word	Word	_	2	D	2:D	_

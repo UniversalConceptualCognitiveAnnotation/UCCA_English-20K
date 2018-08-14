@@ -1,7 +1,6 @@
 # format = ucca
 # sent_id = 891002
 # text = Ah , my gallant Ned ! I ask only to live 100 years more , the longer to remember you !
-# doc_id = 
 1	Ah	_	Word	Word	_	11	F	11:F	_
 2	,	_	Punctuation	Punctuation	_	11	punct	11:punct	_
 3	my	_	Word	Word	_	11	G	11:G	_

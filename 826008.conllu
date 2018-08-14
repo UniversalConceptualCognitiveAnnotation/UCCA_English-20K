@@ -1,7 +1,6 @@
 # format = ucca
 # sent_id = 826008
 # text = " " The hotel will keep them for us .
-# doc_id = 
 1	"	_	Punctuation	Punctuation	_	6	punct	6:punct	_
 2	"	_	Punctuation	Punctuation	_	6	punct	6:punct	_
 3	The	_	Word	Word	_	4	E	4:E	_

@@ -1,7 +1,6 @@
 # format = ucca
 # sent_id = 988004
 # text = After this three-day delay , if the monster had n't appeared , our helmsman would give three turns of the wheel , and the Abraham Lincoln would chart a course toward European seas .
-# doc_id = 
 1	After	_	Word	Word	_	4	R	4:R	_
 2	this	_	Word	Word	_	4	E	4:E	_
 3	three-day	_	Word	Word	_	4	T	4:T	_

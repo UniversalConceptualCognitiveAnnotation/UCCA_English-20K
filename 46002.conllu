@@ -1,7 +1,6 @@
 # format = ucca
 # sent_id = 46002
 # text = During this memorable campaign , journalists making a profession of science battled with those making a profession of wit , spilling waves of ink and some of them even two or three drops of blood , since they went from sea serpents to the most offensive personal remarks .
-# doc_id = 
 1	During	_	Word	Word	_	4	R	4:R	_
 2	this	_	Word	Word	_	4	E	4:E	_
 3	memorable	_	Word	Word	_	4	E	4:E	_

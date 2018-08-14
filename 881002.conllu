@@ -1,7 +1,6 @@
 # format = ucca
 # sent_id = 881002
 # text = Voluntary watches from the crosstrees of the topgallant sail were self-imposed by more than one who would have cursed such toil under any other circumstances .
-# doc_id = 
 1	Voluntary	_	Word	Word	_	2	E	2:E	_
 2	watches	_	Word	Word	_	0	root	0:root	_
 3	from	_	Word	Word	_	5	R	5:R	_

@@ -1,7 +1,6 @@
 # format = ucca
 # sent_id = 39000
 # text = Striking an average of observations taken at different times - rejecting those timid estimates that gave the object a length of 200 feet , and ignoring those exaggerated views that saw it as a mile wide and three long - you could still assert that this phenomenal creature greatly exceeded the dimensions of anything then known to ichthyologists , if it existed at all .
-# doc_id = 
 1	Striking	_	Word	Word	_	0	root	0:root	_
 2	an	_	Word	Word	_	3	E	3:E	_
 3	average	_	Word	Word	_	1	orphan	1:orphan	_

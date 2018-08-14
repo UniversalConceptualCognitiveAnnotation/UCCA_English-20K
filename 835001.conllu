@@ -1,7 +1,6 @@
 # format = ucca
 # sent_id = 835001
 # text = It was a high - speed frigate furnished with superheating equipment that allowed the tension of its steam to build to seven atmospheres .
-# doc_id = 
 1	It	_	Word	Word	_	2	A	2:A	_
 2	was	_	Word	Word	_	0	root	0:root	_
 3	a	_	Word	Word	_	7	E	7:E	_

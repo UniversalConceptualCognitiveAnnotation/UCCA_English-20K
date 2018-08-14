@@ -1,7 +1,6 @@
 # format = ucca
 # sent_id = 833001
 # text = " The same , " I replied . " Commander Farragut ? " " In person . Welcome aboard , professor . Your cabin is waiting for you . "
-# doc_id = 
 1	"	_	Punctuation	Punctuation	_	7	punct	7:punct	_
 2	The	_	Word	Word	_	3	E	3:E	_
 3	same	_	Word	Word	_	0	root	0:root	_

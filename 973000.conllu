@@ -1,7 +1,6 @@
 # format = ucca
 # sent_id = 973000
 # text = Near three o'clock in the afternoon on July 6 , fifteen miles south of shore , the Abraham Lincoln doubled that solitary islet at the tip of the South American continent , that stray rock Dutch seamen had named Cape Horn after their hometown of Hoorn .
-# doc_id = 
 1	Near	_	Word	Word	_	3	E	3:E	_
 2	three	_	Word	Word	_	3	E	3:E	_
 3	o'clock	_	Word	Word	_	0	root	0:root	_

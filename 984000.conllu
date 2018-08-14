@@ -1,7 +1,6 @@
 # format = ucca
 # sent_id = 984000
 # text = And this reaction was n't long in coming .
-# doc_id = 
 1	And	_	Word	Word	_	6	L	6:L	_
 2	this	_	Word	Word	_	3	E	3:E	_
 3	reaction	_	Word	Word	_	0	root	0:root	_

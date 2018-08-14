@@ -1,7 +1,6 @@
 # format = ucca
 # sent_id = 40001
 # text = As for relegating it to the realm of fiction , that charge had to be dropped .
-# doc_id = 
 1	As	_	Word	Word	_	3	L	3:L	_
 2	for	_	Word	Word	_	1	flat	1:flat	_
 3	relegating	_	Word	Word	_	0	root	0:root	_

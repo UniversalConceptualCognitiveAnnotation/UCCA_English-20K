@@ -1,10 +1,9 @@
 # format = ucca
 # sent_id = 288001
 # text = The hypothesis of a drifting islet or an elusive reef , put forward by people not quite in their right minds , was completely eliminated .
-# doc_id = 
 1	The	_	Word	Word	_	2	E	2:E	_
 2	hypothesis	_	Word	Word	_	0	root	0:root	_
-3	of	_	Word	Word	_	6	R	6:R	_
+3	of	_	Word	Word	_	6	R	6:R|10:R	_
 4	a	_	Word	Word	_	6	E	6:E	_
 5	drifting	_	Word	Word	_	6	E	6:E	_
 6	islet	_	Word	Word	_	2	orphan	2:orphan	_

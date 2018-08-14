@@ -1,7 +1,6 @@
 # format = ucca
 # sent_id = 60000
 # text = The engineers then proceeded to inspect the Scotia , which had been put in dry dock .
-# doc_id = 
 1	The	_	Word	Word	_	2	E	2:E	_
 2	engineers	_	Word	Word	_	0	root	0:root	_
 3	then	_	Word	Word	_	6	L	6:L	_

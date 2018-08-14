@@ -1,7 +1,6 @@
 # format = ucca
 # sent_id = 43002
 # text = Now then , the biggest whales , those rorqual whales that frequent the waterways of the Aleutian Islands , have never exceeded a length of 56 meters - if they reach even that .
-# doc_id = 
 1	Now	_	Word	Word	_	22	L	22:L	_
 2	then	_	Word	Word	_	1	flat	1:flat	_
 3	,	_	Punctuation	Punctuation	_	22	punct	22:punct	_

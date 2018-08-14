@@ -1,7 +1,6 @@
 # format = ucca
 # sent_id = 890001
 # text = He described his fishing trips and his battles with great natural lyricism .
-# doc_id = 
 1	He	_	Word	Word	_	2	A	2:A	_
 2	described	_	Word	Word	_	0	root	0:root	_
 3	his	_	Word	Word	_	5	E	5:E	_

@@ -1,7 +1,6 @@
 # format = ucca
 # sent_id = 979002
 # text = But this stubborn Canadian spent eight hours out of every twelve reading or sleeping in his cabin .
-# doc_id = 
 1	But	_	Word	Word	_	12	L	12:L	_
 2	this	_	Word	Word	_	4	E	4:E	_
 3	stubborn	_	Word	Word	_	0	root	0:root	_

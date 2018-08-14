@@ -1,7 +1,6 @@
 # format = ucca
 # sent_id = 886001
 # text = Dexterity , coolness , bravery , and cunning were virtues he possessed to a high degree , and it took a truly crafty baleen whale or an exceptionally astute sperm whale to elude the thrusts of his harpoon .
-# doc_id = 
 1	Dexterity	_	Word	Word	_	0	root	0:root	_
 2	,	_	Punctuation	Punctuation	_	1	punct	1:punct	_
 3	coolness	_	Word	Word	_	1	C	1:C	_

@@ -1,7 +1,6 @@
 # format = ucca
 # sent_id = 50006
 # text = They were unable to say .
-# doc_id = 
 1	They	_	Word	Word	_	5	A	5:A	_
 2	were	_	Word	Word	_	5	F	5:F	_
 3	unable	_	Word	Word	_	5	D	5:D	_

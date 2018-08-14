@@ -1,7 +1,6 @@
 # format = ucca
 # sent_id = 53001
 # text = No transoceanic navigational undertaking has been conducted with more ability , no business dealings have been crowned with greater success .
-# doc_id = 
 1	No	_	Word	Word	_	7	D	7:D	_
 2	transoceanic	_	Word	Word	_	4	E	4:E	_
 3	navigational	_	Word	Word	_	4	E	4:E	_

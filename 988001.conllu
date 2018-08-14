@@ -1,7 +1,6 @@
 # format = ucca
 # sent_id = 988001
 # text = The commander stood his ground .
-# doc_id = 
 1	The	_	Word	Word	_	2	E	2:E	_
 2	commander	_	Word	Word	_	0	root	0:root	_
 3	stood	_	Word	Word	_	2	orphan	2:orphan	_

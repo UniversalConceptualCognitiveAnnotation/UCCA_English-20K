@@ -1,7 +1,6 @@
 # format = ucca
 # sent_id = 984004
 # text = Nothing remotely resembling a gigantic narwhale , or an underwater islet , or a derelict shipwreck , or a runaway reef , or anything the least bit unearthly !
-# doc_id = 
 1	Nothing	_	Word	Word	_	0	root	0:root	_
 2	remotely	_	Word	Word	_	3	D	3:D	_
 3	resembling	_	Word	Word	_	1	orphan	1:orphan	_

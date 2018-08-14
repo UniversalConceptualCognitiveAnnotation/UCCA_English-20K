@@ -1,7 +1,6 @@
 # format = ucca
 # sent_id = 311000
 # text = But I must n't let these fantasies run away with me !
-# doc_id = 
 1	But	_	Word	Word	_	5	L	5:L	_
 2	I	_	Word	Word	_	5	A	5:A	_
 3	must	_	Word	Word	_	5	D	5:D	_

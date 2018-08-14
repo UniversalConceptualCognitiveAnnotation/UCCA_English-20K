@@ -1,7 +1,6 @@
 # format = ucca
 # sent_id = 820001
 # text = In Conseil I had a seasoned specialist in biological classification , an enthusiast who could run with acrobatic agility up and down the whole ladder of branches , groups , classes , subclasses , orders , families , genera , subgenera , species , and varieties .
-# doc_id = 
 1	In	_	Word	Word	_	2	R	2:R	_
 2	Conseil	_	Word	Word	_	0	root	0:root	_
 3	I	_	Word	Word	_	4	A	4:A	_

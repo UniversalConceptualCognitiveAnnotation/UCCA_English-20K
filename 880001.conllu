@@ -1,7 +1,6 @@
 # format = ucca
 # sent_id = 880001
 # text = His ship and he were one .
-# doc_id = 
 1	His	_	Word	Word	_	2	E	2:E	_
 2	ship	_	Word	Word	_	0	root	0:root	_
 3	and	_	Word	Word	_	2	N	2:N	_

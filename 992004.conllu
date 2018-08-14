@@ -1,7 +1,6 @@
 # format = ucca
 # sent_id = 992004
 # text = Huge clouds covered the moon's disk , then in its first quarter .
-# doc_id = 
 1	Huge	_	Word	Word	_	2	E	2:E	_
 2	clouds	_	Word	Word	_	0	root	0:root	_
 3	covered	_	Word	Word	_	2	orphan	2:orphan	_

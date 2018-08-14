@@ -1,7 +1,6 @@
 # format = ucca
 # sent_id = 309002
 # text = Yet deep down , I had accepted the existence of " the monster . "
-# doc_id = 
 1	Yet	_	Word	Word	_	7	L	7:L	_
 2	deep	_	Word	Word	_	7	A	7:A	_
 3	down	_	Word	Word	_	2	flat	2:flat	_

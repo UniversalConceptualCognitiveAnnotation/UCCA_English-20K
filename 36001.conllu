@@ -1,8 +1,7 @@
 # format = ucca
 # sent_id = 36001
 # text = Without getting into those rumors that upset civilians in the seaports and deranged the public mind even far inland , it must be said that professional seamen were especially alarmed .
-# doc_id = 
-1	Without	_	Word	Word	_	2	L	2:L	_
+1	Without	_	Word	Word	_	2	L	2:L|2:D	_
 2	getting	_	Word	Word	_	0	root	0:root	_
 3	into	_	Word	Word	_	2	flat	2:flat	_
 4	those	_	Word	Word	_	5	E	5:E	_

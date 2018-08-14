@@ -1,7 +1,6 @@
 # format = ucca
 # sent_id = 985001
 # text = At first , discouragement took hold of people's minds , opening the door to disbelief .
-# doc_id = 
 1	At	_	Word	Word	_	2	R	2:R	_
 2	first	_	Word	Word	_	0	root	0:root	_
 3	,	_	Punctuation	Punctuation	_	5	punct	5:punct	_

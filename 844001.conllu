@@ -1,7 +1,6 @@
 # format = ucca
 # sent_id = 844001
 # text = The Abraham Lincoln replied by three times lowering and hoisting the American flag , whose thirty-nine stars gleamed from the gaff of the mizzen sail ; then , changing speed to take the buoy - marked channel that curved into the inner bay formed by the spit of Sandy Hook , it hugged this sand - covered strip of land where thousands of spectators acclaimed us one more time .
-# doc_id = 
 1	The	_	Word	Word	_	2	E	2:E	_
 2	Abraham	_	Word	Word	_	0	root	0:root	_
 3	Lincoln	_	Word	Word	_	2	flat	2:flat	_
@@ -53,7 +52,7 @@
 49	Sandy	_	Word	Word	_	2	orphan	2:orphan	_
 50	Hook	_	Word	Word	_	49	flat	49:flat	_
 51	,	_	Punctuation	Punctuation	_	4	punct	4:punct	_
-52	it	_	Word	Word	_	53	A	53:A	_
+52	it	_	Word	Word	_	53	A	53:A|29:A	_
 53	hugged	_	Word	Word	_	2	orphan	2:orphan	_
 54	this	_	Word	Word	_	58	E	58:E	_
 55	sand	_	Word	Word	_	57	A	57:A	_

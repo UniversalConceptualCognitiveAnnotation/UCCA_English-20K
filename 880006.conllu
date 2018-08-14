@@ -1,7 +1,6 @@
 # format = ucca
 # sent_id = 880006
 # text = The man was a sort of Knight of Rhodes , a latter - day Sir Dieudonné of Gozo , on his way to fight an encounter with the dragon devastating the island .
-# doc_id = 
 1	The	_	Word	Word	_	2	E	2:E	_
 2	man	_	Word	Word	_	0	root	0:root	_
 3	was	_	Word	Word	_	2	orphan	2:orphan	_

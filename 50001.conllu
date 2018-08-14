@@ -1,7 +1,6 @@
 # format = ucca
 # sent_id = 50001
 # text = The officers on watch rushed to the craft 's stern .
-# doc_id = 
 1	The	_	Word	Word	_	2	E	2:E	_
 2	officers	_	Word	Word	_	0	root	0:root	_
 3	on	_	Word	Word	_	4	R	4:R	_

@@ -1,7 +1,6 @@
 # format = ucca
 # sent_id = 312000
 # text = Yet if some saw it purely as a scientific problem to be solved , more practical people , especially in America and England , were determined to purge the ocean of this daunting monster , to insure the safety of transoceanic travel .
-# doc_id = 
 1	Yet	_	Word	Word	_	4	L	4:L	_
 2	if	_	Word	Word	_	4	L	4:L	_
 3	some	_	Word	Word	_	0	root	0:root	_

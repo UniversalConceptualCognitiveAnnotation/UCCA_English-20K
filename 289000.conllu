@@ -1,7 +1,6 @@
 # format = ucca
 # sent_id = 289000
 # text = Also discredited was the idea of a floating hull or some other enormous wreckage , and again because of this speed of movement .
-# doc_id = 
 1	Also	_	Word	Word	_	2	L	2:L	_
 2	discredited	_	Word	Word	_	0	root	0:root	_
 3	was	_	Word	Word	_	2	F	2:F	_

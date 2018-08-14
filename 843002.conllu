@@ -1,7 +1,6 @@
 # format = ucca
 # sent_id = 843002
 # text = Thousands of handkerchiefs were waving above these tightly packed masses , hailing the Abraham Lincoln until it reached the waters of the Hudson River , at the tip of the long peninsula that forms New York City .
-# doc_id = 
 1	Thousands	_	Word	Word	_	0	root	0:root	_
 2	of	_	Word	Word	_	1	R	1:R	_
 3	handkerchiefs	_	Word	Word	_	1	orphan	1:orphan	_

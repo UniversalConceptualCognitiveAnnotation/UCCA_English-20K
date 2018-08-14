@@ -1,7 +1,6 @@
 # format = ucca
 # sent_id = 975002
 # text = Day and night we observed the surface of the ocean , and those with nyctalopic eyes , whose ability to see in the dark increased their chances by fifty percent , had an excellent shot at winning the prize .
-# doc_id = 
 1	Day	_	Word	Word	_	0	root	0:root	_
 2	and	_	Word	Word	_	1	N	1:N	_
 3	night	_	Word	Word	_	1	C	1:C	_

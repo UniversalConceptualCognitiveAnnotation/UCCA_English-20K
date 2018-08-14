@@ -1,7 +1,6 @@
 # format = ucca
 # sent_id = 907008
 # text = " " Because . . . it just could n't be true ! " the Canadian replied , unconsciously echoing a famous catchphrase of the scientist Arago .
-# doc_id = 
 1	"	_	Punctuation	Punctuation	_	17	punct	17:punct	_
 2	"	_	Punctuation	Punctuation	_	17	punct	17:punct	_
 3	Because	_	Word	Word	_	12	L	12:L	_

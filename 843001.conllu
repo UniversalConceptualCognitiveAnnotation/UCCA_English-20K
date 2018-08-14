@@ -1,7 +1,6 @@
 # format = ucca
 # sent_id = 843001
 # text = Departing from 500,000 throats , three cheers burst forth in succession .
-# doc_id = 
 1	Departing	_	Word	Word	_	0	root	0:root	_
 2	from	_	Word	Word	_	4	R	4:R	_
 3	500,000	_	Word	Word	_	4	E	4:E	_

@@ -1,7 +1,6 @@
 # format = ucca
 # sent_id = 982001
 # text = These bearings determined , the frigate took a more decisive westward heading and tackled the seas of the central Pacific .
-# doc_id = 
 1	These	_	Word	Word	_	2	E	2:E	_
 2	bearings	_	Word	Word	_	0	root	0:root	_
 3	determined	_	Word	Word	_	2	orphan	2:orphan	_

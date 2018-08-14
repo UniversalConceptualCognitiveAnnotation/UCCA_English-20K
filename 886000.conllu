@@ -1,7 +1,6 @@
 # format = ucca
 # sent_id = 886000
 # text = Gifted with uncommon manual ability , Ned Land was a Canadian who had no equal in his dangerous trade .
-# doc_id = 
 1	Gifted	_	Word	Word	_	0	root	0:root	_
 2	with	_	Word	Word	_	5	R	5:R	_
 3	uncommon	_	Word	Word	_	5	E	5:E	_

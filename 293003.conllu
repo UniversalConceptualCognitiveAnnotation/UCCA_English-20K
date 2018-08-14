@@ -1,7 +1,6 @@
 # format = ucca
 # sent_id = 293003
 # text = Keeping a secret under such circumstances would be difficult enough for an individual , and certainly impossible for a nation whose every move is under constant surveillance by rival powers .
-# doc_id = 
 1	Keeping	_	Word	Word	_	0	root	0:root	_
 2	a	_	Word	Word	_	3	E	3:E	_
 3	secret	_	Word	Word	_	1	orphan	1:orphan	_

@@ -1,7 +1,6 @@
 # format = ucca
 # sent_id = 844000
 # text = The frigate then went along the New Jersey coast - the wonderful right bank of this river , all loaded down with country homes - and passed by the forts to salutes from their biggest cannons .
-# doc_id = 
 1	The	_	Word	Word	_	2	E	2:E	_
 2	frigate	_	Word	Word	_	0	root	0:root	_
 3	then	_	Word	Word	_	4	L	4:L	_

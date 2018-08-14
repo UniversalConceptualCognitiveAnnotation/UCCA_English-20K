@@ -1,7 +1,6 @@
 # format = ucca
 # sent_id = 837001
 # text = " With all due respect to master , " Conseil replied , " as comfortable as a hermit crab inside the shell of a whelk . "
-# doc_id = 
 1	"	_	Punctuation	Punctuation	_	5	punct	5:punct	_
 2	With	_	Word	Word	_	5	R	5:R	_
 3	all	_	Word	Word	_	5	D	5:D	_

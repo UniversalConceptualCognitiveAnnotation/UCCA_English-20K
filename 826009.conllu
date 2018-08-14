@@ -1,7 +1,6 @@
 # format = ucca
 # sent_id = 826009
 # text = " " What about master 's live babirusa ?
-# doc_id = 
 1	"	_	Punctuation	Punctuation	_	3	punct	3:punct	_
 2	"	_	Punctuation	Punctuation	_	3	punct	3:punct	_
 3	What	_	Word	Word	_	0	root	0:root	_

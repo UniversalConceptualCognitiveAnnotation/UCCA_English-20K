@@ -1,7 +1,6 @@
 # format = ucca
 # sent_id = 893002
 # text = Before eight days were out , the Abraham Lincoln would plow the waves of the Pacific .
-# doc_id = 
 1	Before	_	Word	Word	_	5	L	5:L	_
 2	eight	_	Word	Word	_	3	E	3:E	_
 3	days	_	Word	Word	_	0	root	0:root	_

@@ -1,8 +1,7 @@
 # format = ucca
 # sent_id = 979000
 # text = Ned Land still kept up the most tenacious skepticism ; beyond his spells on watch , he pretended that he never even looked at the surface of the waves , at least while no whales were in sight .
-# doc_id = 
-1	Ned	_	Word	Word	_	4	A	4:A	_
+1	Ned	_	Word	Word	_	4	A	4:A|9:A	_
 2	Land	_	Word	Word	_	1	flat	1:flat	_
 3	still	_	Word	Word	_	4	D	4:D	_
 4	kept	_	Word	Word	_	0	root	0:root	_
@@ -18,7 +17,7 @@
 14	on	_	Word	Word	_	15	R	15:R	_
 15	watch	_	Word	Word	_	4	orphan	4:orphan	_
 16	,	_	Punctuation	Punctuation	_	15	punct	15:punct	_
-17	he	_	Word	Word	_	18	A	18:A	_
+17	he	_	Word	Word	_	18	A	18:A|15:A	_
 18	pretended	_	Word	Word	_	4	orphan	4:orphan	_
 19	that	_	Word	Word	_	23	R	23:R	_
 20	he	_	Word	Word	_	23	A	23:A	_

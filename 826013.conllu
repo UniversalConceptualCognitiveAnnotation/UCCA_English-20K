@@ -1,7 +1,6 @@
 # format = ucca
 # sent_id = 826013
 # text = " " Whatever detour master wishes .
-# doc_id = 
 1	"	_	Punctuation	Punctuation	_	6	punct	6:punct	_
 2	"	_	Punctuation	Punctuation	_	6	punct	6:punct	_
 3	Whatever	_	Word	Word	_	4	E	4:E	_

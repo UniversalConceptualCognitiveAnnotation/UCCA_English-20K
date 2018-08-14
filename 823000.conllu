@@ -1,7 +1,6 @@
 # format = ucca
 # sent_id = 823000
 # text = But Conseil had one flaw .
-# doc_id = 
 1	But	_	Word	Word	_	5	L	5:L	_
 2	Conseil	_	Word	Word	_	5	A	5:A	_
 3	had	_	Word	Word	_	5	F	5:F	_

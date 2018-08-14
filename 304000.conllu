@@ -1,9 +1,8 @@
 # format = ucca
 # sent_id = 304000
 # text = " The common narwhale , or sea unicorn , often reaches a length of sixty feet . Increase its dimensions fivefold or even tenfold , then give this cetacean a strength in proportion to its size while enlarging its offensive weapons , and you have the animal we 're looking for . It would have the proportions determined by the officers of the Shannon , the instrument needed to perforate the Scotia , and the power to pierce a steamer 's hull .
-# doc_id = 
 1	"	_	Punctuation	Punctuation	_	13	punct	13:punct	_
-2	The	_	Word	Word	_	4	E	4:E	_
+2	The	_	Word	Word	_	4	E	4:E|8:E	_
 3	common	_	Word	Word	_	4	E	4:E	_
 4	narwhale	_	Word	Word	_	0	root	0:root	_
 5	,	_	Punctuation	Punctuation	_	4	punct	4:punct	_
@@ -54,7 +53,7 @@
 50	looking	_	Word	Word	_	4	orphan	4:orphan	_
 51	for	_	Word	Word	_	50	flat	50:flat	_
 52	.	_	Punctuation	Punctuation	_	13	punct	13:punct	_
-53	It	_	Word	Word	_	55	A	55:A	_
+53	It	_	Word	Word	_	55	A	55:A|76:A	_
 54	would	_	Word	Word	_	55	D	55:D	_
 55	have	_	Word	Word	_	4	orphan	4:orphan	_
 56	the	_	Word	Word	_	57	E	57:E	_

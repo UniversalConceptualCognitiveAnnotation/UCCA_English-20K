@@ -1,7 +1,6 @@
 # format = ucca
 # sent_id = 846001
 # text = The harbor pilot went down into his dinghy and rejoined a little schooner waiting for him to leeward .
-# doc_id = 
 1	The	_	Word	Word	_	3	E	3:E	_
 2	harbor	_	Word	Word	_	3	E	3:E	_
 3	pilot	_	Word	Word	_	0	root	0:root	_

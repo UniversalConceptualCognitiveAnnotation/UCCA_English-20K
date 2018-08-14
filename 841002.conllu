@@ -1,7 +1,6 @@
 # format = ucca
 # sent_id = 841002
 # text = " Go ahead , then ! " Commander Farragut called .
-# doc_id = 
 1	"	_	Punctuation	Punctuation	_	10	punct	10:punct	_
 2	Go	_	Word	Word	_	0	root	0:root	_
 3	ahead	_	Word	Word	_	2	flat	2:flat	_

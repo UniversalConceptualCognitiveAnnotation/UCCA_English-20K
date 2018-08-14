@@ -1,7 +1,6 @@
 # format = ucca
 # sent_id = 52002
 # text = Eight years later , the company 's assets were increased by four 650 - horsepower ships at 1,820 metric tons , and in two more years , by two other vessels of still greater power and tonnage .
-# doc_id = 
 1	Eight	_	Word	Word	_	2	E	2:E	_
 2	years	_	Word	Word	_	0	root	0:root	_
 3	later	_	Word	Word	_	2	R	2:R	_
@@ -33,9 +32,9 @@
 29	two	_	Word	Word	_	31	E	31:E	_
 30	other	_	Word	Word	_	31	E	31:E	_
 31	vessels	_	Word	Word	_	2	orphan	2:orphan	_
-32	of	_	Word	Word	_	35	R	35:R	_
-33	still	_	Word	Word	_	35	E	35:E	_
-34	greater	_	Word	Word	_	35	E	35:E	_
+32	of	_	Word	Word	_	35	R	35:R|37:R	_
+33	still	_	Word	Word	_	35	E	35:E|37:E	_
+34	greater	_	Word	Word	_	35	E	35:E|37:E	_
 35	power	_	Word	Word	_	2	orphan	2:orphan	_
 36	and	_	Word	Word	_	35	N	35:N	_
 37	tonnage	_	Word	Word	_	2	orphan	2:orphan	_

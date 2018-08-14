@@ -1,7 +1,6 @@
 # format = ucca
 # sent_id = 826003
 # text = " Yes , my boy . Get my things ready , get yours ready . We 're departing in two hours .
-# doc_id = 
 1	"	_	Punctuation	Punctuation	_	2	punct	2:punct	_
 2	Yes	_	Word	Word	_	0	root	0:root	_
 3	,	_	Punctuation	Punctuation	_	2	punct	2:punct	_

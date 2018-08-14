@@ -1,7 +1,6 @@
 # format = ucca
 # sent_id = 47000
 # text = For six months the war seesawed .
-# doc_id = 
 1	For	_	Word	Word	_	3	R	3:R	_
 2	six	_	Word	Word	_	3	E	3:E	_
 3	months	_	Word	Word	_	0	root	0:root	_

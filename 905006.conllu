@@ -1,7 +1,6 @@
 # format = ucca
 # sent_id = 905006
 # text = " " Precisely , Ned . So at thirty-two feet beneath the surface of the sea , you 'll undergo a pressure of 17,568 kilograms ; at 320 feet , or ten times greater pressure , it 's 175,680 kilograms ; at 3,200 feet , or 100 times greater pressure , it 's 1,756,800 kilograms ; finally , at 32,000 feet , or 1,000 times greater pressure , it 's 17,568,000 kilograms ; in other words , you 'd be squashed as flat as if you 'd just been yanked from between the plates of a hydraulic press !
-# doc_id = 
 1	"	_	Punctuation	Punctuation	_	3	punct	3:punct	_
 2	"	_	Punctuation	Punctuation	_	3	punct	3:punct	_
 3	Precisely	_	Word	Word	_	0	root	0:root	_
@@ -19,7 +18,7 @@
 15	the	_	Word	Word	_	16	E	16:E	_
 16	sea	_	Word	Word	_	3	orphan	3:orphan	_
 17	,	_	Punctuation	Punctuation	_	20	punct	20:punct	_
-18	you	_	Word	Word	_	20	A	20:A	_
+18	you	_	Word	Word	_	20	A	20:A|44:A|29:A|61:A	_
 19	'll	_	Word	Word	_	20	F	20:F	_
 20	undergo	_	Word	Word	_	3	orphan	3:orphan	_
 21	a	_	Word	Word	_	22	E	22:E	_

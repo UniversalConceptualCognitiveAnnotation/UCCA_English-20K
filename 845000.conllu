@@ -1,7 +1,6 @@
 # format = ucca
 # sent_id = 845000
 # text = The escort of boats and tenders still followed the frigate and only left us when we came abreast of the lightship , whose two signal lights mark the entrance of the narrows to Upper New York Bay .
-# doc_id = 
 1	The	_	Word	Word	_	2	E	2:E	_
 2	escort	_	Word	Word	_	0	root	0:root	_
 3	of	_	Word	Word	_	4	R	4:R	_

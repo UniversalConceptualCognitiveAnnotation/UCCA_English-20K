@@ -1,7 +1,6 @@
 # format = ucca
 # sent_id = 842002
 # text = Long horizontal pistons groaned and pushed the tie rods of the drive shaft .
-# doc_id = 
 1	Long	_	Word	Word	_	3	E	3:E	_
 2	horizontal	_	Word	Word	_	3	E	3:E	_
 3	pistons	_	Word	Word	_	0	root	0:root	_

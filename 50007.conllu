@@ -1,7 +1,6 @@
 # format = ucca
 # sent_id = 50007
 # text = But when they examined its undersides in the service yard , they discovered that part of its keel had been smashed .
-# doc_id = 
 1	But	_	Word	Word	_	4	L	4:L	_
 2	when	_	Word	Word	_	4	L	4:L	_
 3	they	_	Word	Word	_	4	A	4:A	_

@@ -1,7 +1,6 @@
 # format = ucca
 # sent_id = 835002
 # text = Under this pressure the Abraham Lincoln reached an average speed of 18.3 miles per hour , a considerable speed but still not enough to cope with our gigantic cetacean .
-# doc_id = 
 1	Under	_	Word	Word	_	3	R	3:R	_
 2	this	_	Word	Word	_	3	E	3:E	_
 3	pressure	_	Word	Word	_	0	root	0:root	_

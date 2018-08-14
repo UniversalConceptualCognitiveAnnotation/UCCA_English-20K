@@ -1,7 +1,6 @@
 # format = ucca
 # sent_id = 908002
 # text = The Scotia 's accident was undeniable .
-# doc_id = 
 1	The	_	Word	Word	_	2	E	2:E	_
 2	Scotia	_	Word	Word	_	0	root	0:root	_
 3	's	_	Word	Word	_	2	R	2:R	_

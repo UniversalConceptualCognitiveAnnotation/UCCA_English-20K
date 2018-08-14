@@ -1,7 +1,6 @@
 # format = ucca
 # sent_id = 45003
 # text = They even reprinted reports from ancient times : the views of Aristotle and Pliny accepting the existence of such monsters , then the Norwegian stories of Bishop Pontoppidan , the narratives of Paul Egede , and finally the reports of Captain Harrington - whose good faith is above suspicion - in which he claims he saw , while aboard the Castilian in 1857 , one of those enormous serpents that , until then , had frequented only the seas of France ' s old extremist newspaper , The Constitutionalist
-# doc_id = 
 1	They	_	Word	Word	_	3	A	3:A	_
 2	even	_	Word	Word	_	3	G	3:G	_
 3	reprinted	_	Word	Word	_	0	root	0:root	_
@@ -12,7 +11,7 @@
 8	:	_	Punctuation	Punctuation	_	10	punct	10:punct	_
 9	the	_	Word	Word	_	10	E	10:E	_
 10	views	_	Word	Word	_	3	orphan	3:orphan	_
-11	of	_	Word	Word	_	12	R	12:R	_
+11	of	_	Word	Word	_	12	R	12:R|14:R	_
 12	Aristotle	_	Word	Word	_	3	orphan	3:orphan	_
 13	and	_	Word	Word	_	12	N	12:N	_
 14	Pliny	_	Word	Word	_	3	orphan	3:orphan	_
@@ -56,7 +55,7 @@
 52	which	_	Word	Word	_	51	flat	51:flat	_
 53	he	_	Word	Word	_	54	A	54:A	_
 54	claims	_	Word	Word	_	3	orphan	3:orphan	_
-55	he	_	Word	Word	_	56	A	56:A	_
+55	he	_	Word	Word	_	56	A	56:A|59:A	_
 56	saw	_	Word	Word	_	3	orphan	3:orphan	_
 57	,	_	Punctuation	Punctuation	_	56	punct	56:punct	_
 58	while	_	Word	Word	_	56	L	56:L	_

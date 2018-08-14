@@ -1,7 +1,6 @@
 # format = ucca
 # sent_id = 831000
 # text = For a fare of twenty francs , the vehicle went down Broadway to Union Square , took Fourth Ave . to its junction with Bowery St .
-# doc_id = 
 1	For	_	Word	Word	_	3	R	3:R	_
 2	a	_	Word	Word	_	3	E	3:E	_
 3	fare	_	Word	Word	_	0	root	0:root	_

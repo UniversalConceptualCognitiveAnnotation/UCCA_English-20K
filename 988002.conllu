@@ -1,7 +1,6 @@
 # format = ucca
 # sent_id = 988002
 # text = His sailors could n't hide their discontent , and their work suffered because of it .
-# doc_id = 
 1	His	_	Word	Word	_	2	E	2:E	_
 2	sailors	_	Word	Word	_	0	root	0:root	_
 3	could	_	Word	Word	_	5	D	5:D	_

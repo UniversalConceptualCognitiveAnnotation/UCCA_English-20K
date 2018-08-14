@@ -1,7 +1,6 @@
 # format = ucca
 # sent_id = 833000
 # text = " Professor Pierre Aronnax ? " he said to me .
-# doc_id = 
 1	"	_	Punctuation	Punctuation	_	8	punct	8:punct	_
 2	Professor	_	Word	Word	_	3	E	3:E	_
 3	Pierre	_	Word	Word	_	0	root	0:root	_

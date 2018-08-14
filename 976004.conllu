@@ -1,7 +1,6 @@
 # format = ucca
 # sent_id = 976004
 # text = In an instant the frigate 's deck would become densely populated .
-# doc_id = 
 1	In	_	Word	Word	_	3	R	3:R	_
 2	an	_	Word	Word	_	3	E	3:E	_
 3	instant	_	Word	Word	_	0	root	0:root	_

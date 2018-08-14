@@ -1,7 +1,6 @@
 # format = ucca
 # sent_id = 316007
 # text = But Commander Farragut wanted nothing more than to go forth .
-# doc_id = 
 1	But	_	Word	Word	_	4	L	4:L	_
 2	Commander	_	Word	Word	_	3	E	3:E	_
 3	Farragut	_	Word	Word	_	0	root	0:root	_

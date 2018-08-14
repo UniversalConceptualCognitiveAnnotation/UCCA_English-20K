@@ -1,7 +1,6 @@
 # format = ucca
 # sent_id = 316004
 # text = Not a crewman was missing from his post .
-# doc_id = 
 1	Not	_	Word	Word	_	5	D	5:D	_
 2	a	_	Word	Word	_	3	E	3:E	_
 3	crewman	_	Word	Word	_	0	root	0:root	_

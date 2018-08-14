@@ -1,7 +1,6 @@
 # format = ucca
 # sent_id = 973001
 # text = Our course was set for the northwest , and the next day our frigate 's propeller finally churned the waters of the Pacific .
-# doc_id = 
 1	Our	_	Word	Word	_	2	E	2:E	_
 2	course	_	Word	Word	_	0	root	0:root	_
 3	was	_	Word	Word	_	4	F	4:F	_

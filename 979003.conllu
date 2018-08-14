@@ -1,7 +1,6 @@
 # format = ucca
 # sent_id = 979003
 # text = A hundred times I chided him for his unconcern .
-# doc_id = 
 1	A	_	Word	Word	_	2	E	2:E	_
 2	hundred	_	Word	Word	_	0	root	0:root	_
 3	times	_	Word	Word	_	2	orphan	2:orphan	_

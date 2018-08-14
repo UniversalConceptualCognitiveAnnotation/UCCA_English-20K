@@ -1,13 +1,12 @@
 # format = ucca
 # sent_id = 880005
 # text = The monster existed , and he had vowed to rid the seas of it .
-# doc_id = 
 1	The	_	Word	Word	_	2	E	2:E	_
 2	monster	_	Word	Word	_	0	root	0:root	_
 3	existed	_	Word	Word	_	2	orphan	2:orphan	_
 4	,	_	Punctuation	Punctuation	_	3	punct	3:punct	_
 5	and	_	Word	Word	_	3	L	3:L	_
-6	he	_	Word	Word	_	8	A	8:A	_
+6	he	_	Word	Word	_	8	A	8:A|10:A	_
 7	had	_	Word	Word	_	8	F	8:F	_
 8	vowed	_	Word	Word	_	2	orphan	2:orphan	_
 9	to	_	Word	Word	_	10	F	10:F	_

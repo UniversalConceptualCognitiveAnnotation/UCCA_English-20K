@@ -1,7 +1,6 @@
 # format = ucca
 # sent_id = 908003
 # text = Its hole was real enough that it had to be plugged up , and I do n't think a hole 's existence can be more emphatically proven .
-# doc_id = 
 1	Its	_	Word	Word	_	2	E	2:E	_
 2	hole	_	Word	Word	_	0	root	0:root	_
 3	was	_	Word	Word	_	4	F	4:F	_

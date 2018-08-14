@@ -1,7 +1,6 @@
 # format = ucca
 # sent_id = 815000
 # text = Even so , I had just returned from an arduous journey , exhausted and badly needing a rest .
-# doc_id = 
 1	Even	_	Word	Word	_	7	L	7:L	_
 2	so	_	Word	Word	_	1	flat	1:flat	_
 3	,	_	Punctuation	Punctuation	_	7	punct	7:punct	_

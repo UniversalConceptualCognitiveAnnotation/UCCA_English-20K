@@ -1,7 +1,6 @@
 # format = ucca
 # sent_id = 881004
 # text = And the Abraham Lincoln 's stempost had n't even cut the suspected waters of the Pacific .
-# doc_id = 
 1	And	_	Word	Word	_	10	L	10:L	_
 2	the	_	Word	Word	_	3	E	3:E	_
 3	Abraham	_	Word	Word	_	0	root	0:root	_

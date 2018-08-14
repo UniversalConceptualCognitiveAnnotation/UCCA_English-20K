@@ -1,7 +1,6 @@
 # format = ucca
 # sent_id = 831001
 # text = , turned into Katrin St .
-# doc_id = 
 1	,	_	Punctuation	Punctuation	_	2	punct	2:punct	_
 2	turned	_	Word	Word	_	0	root	0:root	_
 3	into	_	Word	Word	_	4	R	4:R	_

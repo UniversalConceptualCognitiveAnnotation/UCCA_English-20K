@@ -1,7 +1,6 @@
 # format = ucca
 # sent_id = 297002
 # text = I discussed the question in its every aspect , both political and scientific , and this is an excerpt from the well-padded article I published in the issue of April 30 .
-# doc_id = 
 1	I	_	Word	Word	_	2	A	2:A	_
 2	discussed	_	Word	Word	_	0	root	0:root	_
 3	the	_	Word	Word	_	4	E	4:E	_

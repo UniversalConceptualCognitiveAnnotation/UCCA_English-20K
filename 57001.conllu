@@ -1,7 +1,6 @@
 # format = ucca
 # sent_id = 57001
 # text = In fact , there could be no immediate danger .
-# doc_id = 
 1	In	_	Word	Word	_	9	G	9:G	_
 2	fact	_	Word	Word	_	1	flat	1:flat	_
 3	,	_	Punctuation	Punctuation	_	9	punct	9:punct	_

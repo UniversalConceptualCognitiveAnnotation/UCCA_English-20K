@@ -1,7 +1,6 @@
 # format = ucca
 # sent_id = 36002
 # text = Traders , shipowners , captains of vessels , skippers , and master mariners from Europe and America , naval officers from every country , and at their heels the various national governments on these two continents , were all extremely disturbed by the business .
-# doc_id = 
 1	Traders	_	Word	Word	_	0	root	0:root	_
 2	,	_	Punctuation	Punctuation	_	1	punct	1:punct	_
 3	shipowners	_	Word	Word	_	1	C	1:C	_

@@ -1,7 +1,6 @@
 # format = ucca
 # sent_id = 880007
 # text = Either Commander Farragut would slay the narwhale , or the narwhale would slay Commander Farragut .
-# doc_id = 
 1	Either	_	Word	Word	_	5	L	5:L	_
 2	Commander	_	Word	Word	_	3	E	3:E	_
 3	Farragut	_	Word	Word	_	0	root	0:root	_

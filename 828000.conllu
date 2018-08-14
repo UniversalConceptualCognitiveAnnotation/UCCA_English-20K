@@ -1,7 +1,6 @@
 # format = ucca
 # sent_id = 828000
 # text = " What master does , I 'll do , " Conseil replied .
-# doc_id = 
 1	"	_	Punctuation	Punctuation	_	12	punct	12:punct	_
 2	What	_	Word	Word	_	4	A	4:A	_
 3	master	_	Word	Word	_	4	A	4:A	_

@@ -1,7 +1,6 @@
 # format = ucca
 # sent_id = 313002
 # text = A high - speed frigate , the Abraham Lincoln , was fitted out for putting to sea as soon as possible .
-# doc_id = 
 1	A	_	Word	Word	_	5	E	5:E	_
 2	high	_	Word	Word	_	4	E	4:E	_
 3	-	_	Punctuation	Punctuation	_	4	punct	4:punct	_

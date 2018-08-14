@@ -1,7 +1,6 @@
 # format = ucca
 # sent_id = 290000
 # text = So only two possible solutions to the question were left , creating two very distinct groups of supporters : on one side , those favoring a monster of colossal strength ; on the other , those favoring an " underwater boat " of tremendous motor power .
-# doc_id = 
 1	So	_	Word	Word	_	10	L	10:L	_
 2	only	_	Word	Word	_	5	D	5:D	_
 3	two	_	Word	Word	_	5	D	5:D	_

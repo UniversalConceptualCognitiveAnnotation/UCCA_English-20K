@@ -1,7 +1,6 @@
 # format = ucca
 # sent_id = 997000
 # text = " You 're right , Conseil , it turned out to be a foolish business after all , and we jumped into it too hastily . What a waste of time , what a futile expense of emotion ! Six months ago we could have been back in France- " " In master's little apartment , " Conseil answered . " In master's museum ! And by now I would have classified master's fossils . And master's babirusa would be ensconced in its cage at the zoo in the Botanical Gardens , and it would have attracted every curiosity seeker in town !
-# doc_id = 
 1	"	_	Punctuation	Punctuation	_	4	punct	4:punct	_
 2	You	_	Word	Word	_	4	A	4:A	_
 3	're	_	Word	Word	_	4	F	4:F	_
@@ -44,7 +43,7 @@
 40	Six	_	Word	Word	_	41	E	41:E	_
 41	months	_	Word	Word	_	4	orphan	4:orphan	_
 42	ago	_	Word	Word	_	41	R	41:R	_
-43	we	_	Word	Word	_	47	A	47:A	_
+43	we	_	Word	Word	_	47	A	47:A|55:D|64:D	_
 44	could	_	Word	Word	_	47	D	47:D	_
 45	have	_	Word	Word	_	47	F	47:F	_
 46	been	_	Word	Word	_	47	F	47:F	_

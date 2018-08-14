@@ -1,7 +1,6 @@
 # format = ucca
 # sent_id = 904005
 # text = Well then , when you dive under the waves , Ned , for every thirty-two feet of water above you , your body is tolerating the pressure of one more atmosphere , in other words , one more kilogram per each square centimeter on your body 's surface .
-# doc_id = 
 1	Well	_	Word	Word	_	6	L	6:L	_
 2	then	_	Word	Word	_	1	flat	1:flat	_
 3	,	_	Punctuation	Punctuation	_	6	punct	6:punct	_

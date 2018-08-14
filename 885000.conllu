@@ -1,7 +1,6 @@
 # format = ucca
 # sent_id = 885000
 # text = So the Abraham Lincoln was n't lacking in means of destruction .
-# doc_id = 
 1	So	_	Word	Word	_	7	L	7:L	_
 2	the	_	Word	Word	_	3	E	3:E	_
 3	Abraham	_	Word	Word	_	0	root	0:root	_

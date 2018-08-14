@@ -1,10 +1,9 @@
 # format = ucca
 # sent_id = 821002
 # text = Never did he object to buckling up his suitcase for any country whatever , China or the Congo , no matter how far off it was .
-# doc_id = 
 1	Never	_	Word	Word	_	4	T	4:T	_
 2	did	_	Word	Word	_	4	F	4:F	_
-3	he	_	Word	Word	_	4	A	4:A	_
+3	he	_	Word	Word	_	4	A	4:A|6:A	_
 4	object	_	Word	Word	_	0	root	0:root	_
 5	to	_	Word	Word	_	6	F	6:F	_
 6	buckling	_	Word	Word	_	4	orphan	4:orphan	_

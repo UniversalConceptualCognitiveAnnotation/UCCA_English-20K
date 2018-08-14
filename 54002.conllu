@@ -1,8 +1,7 @@
 # format = ucca
 # sent_id = 54002
 # text = It was then drawing 6.7 meters of water and displacing 6,624 cubic meters .
-# doc_id = 
-1	It	_	Word	Word	_	4	A	4:A	_
+1	It	_	Word	Word	_	4	A	4:A|10:A	_
 2	was	_	Word	Word	_	4	F	4:F	_
 3	then	_	Word	Word	_	4	T	4:T	_
 4	drawing	_	Word	Word	_	0	root	0:root	_

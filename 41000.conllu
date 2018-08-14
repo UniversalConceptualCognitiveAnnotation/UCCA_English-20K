@@ -1,7 +1,6 @@
 # format = ucca
 # sent_id = 41000
 # text = In essence , on July 20 , 1866 , the steamer Governor Higginson , from the Calcutta & Burnach Steam Navigation Co . , encountered this moving mass five miles off the eastern shores of Australia .
-# doc_id = 
 1	In	_	Word	Word	_	2	R	2:R	_
 2	essence	_	Word	Word	_	0	root	0:root	_
 3	,	_	Punctuation	Punctuation	_	25	punct	25:punct	_

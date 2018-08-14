@@ -1,7 +1,6 @@
 # format = ucca
 # sent_id = 900001
 # text = . . ? " " Yes , Ned , I repeat it with a conviction backed by factual logic . I believe in the existence of a mammal with a powerful constitution , belonging to the vertebrate branch like baleen whales , sperm whales , or dolphins , and armed with a tusk made of horn that has tremendous penetrating power . "
-# doc_id = 
 1	.	_	Punctuation	Punctuation	_	22	punct	22:punct	_
 2	.	_	Punctuation	Punctuation	_	22	punct	22:punct	_
 3	?	_	Punctuation	Punctuation	_	22	punct	22:punct	_

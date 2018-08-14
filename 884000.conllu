@@ -1,7 +1,6 @@
 # format = ucca
 # sent_id = 884000
 # text = As I said , Commander Farragut had carefully equipped his ship with all the gear needed to fish for a gigantic cetacean .
-# doc_id = 
 1	As	_	Word	Word	_	9	G	9:G	_
 2	I	_	Word	Word	_	1	flat	1:flat	_
 3	said	_	Word	Word	_	1	flat	1:flat	_

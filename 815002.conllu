@@ -1,7 +1,6 @@
 # format = ucca
 # sent_id = 815002
 # text = But now nothing could hold me back .
-# doc_id = 
 1	But	_	Word	Word	_	5	L	5:L	_
 2	now	_	Word	Word	_	5	T	5:T	_
 3	nothing	_	Word	Word	_	5	A	5:A	_

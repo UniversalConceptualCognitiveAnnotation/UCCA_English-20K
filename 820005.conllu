@@ -1,7 +1,6 @@
 # format = ucca
 # sent_id = 820005
 # text = And yet , what a fine , gallant lad !
-# doc_id = 
 1	And	_	Word	Word	_	6	L	6:L	_
 2	yet	_	Word	Word	_	1	flat	1:flat	_
 3	,	_	Punctuation	Punctuation	_	6	punct	6:punct	_

@@ -1,7 +1,6 @@
 # format = ucca
 # sent_id = 312001
 # text = The industrial and commercial newspapers dealt with the question chiefly from this viewpoint .
-# doc_id = 
 1	The	_	Word	Word	_	5	E	5:E	_
 2	industrial	_	Word	Word	_	0	root	0:root	_
 3	and	_	Word	Word	_	2	N	2:N	_

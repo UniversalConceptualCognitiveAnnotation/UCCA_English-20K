@@ -1,7 +1,6 @@
 # format = ucca
 # sent_id = 312002
 # text = The Shipping & Mercantile Gazette , the Lloyd 's List , France 's Packetboat and Maritime & Colonial Review , all the rags devoted to insurance companies - who threatened to raise their premium rates - were unanimous on this point .
-# doc_id = 
 1	The	_	Word	Word	_	0	root	0:root	_
 2	Shipping	_	Word	Word	_	1	flat	1:flat	_
 3	&	_	Punctuation	Punctuation	_	1	punct	1:punct	_

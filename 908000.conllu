@@ -1,7 +1,6 @@
 # format = ucca
 # sent_id = 908000
 # text = But this reply proved nothing , other than how bullheaded the harpooner could be .
-# doc_id = 
 1	But	_	Word	Word	_	4	L	4:L	_
 2	this	_	Word	Word	_	3	E	3:E	_
 3	reply	_	Word	Word	_	0	root	0:root	_

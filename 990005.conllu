@@ -1,7 +1,6 @@
 # format = ucca
 # sent_id = 990005
 # text = But the evening of November 4 arrived with this underwater mystery still unsolved .
-# doc_id = 
 1	But	_	Word	Word	_	7	L	7:L	_
 2	the	_	Word	Word	_	3	E	3:E	_
 3	evening	_	Word	Word	_	0	root	0:root	_

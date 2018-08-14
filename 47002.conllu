@@ -1,7 +1,6 @@
 # format = ucca
 # sent_id = 47002
 # text = When the monster 's detractors cited a saying by the botanist Linnaeus that " nature does n't make leaps , " witty writers in the popular periodicals parodied it , maintaining in essence that " nature does n't make lunatics , " and ordering their contemporaries never to give the lie to nature by believing in krakens , sea serpents , " Moby Dicks , " and other all-out efforts from drunken seamen .
-# doc_id = 
 1	When	_	Word	Word	_	6	L	6:L	_
 2	the	_	Word	Word	_	5	E	5:E	_
 3	monster	_	Word	Word	_	5	E	5:E	_
@@ -57,7 +56,7 @@
 53	nature	_	Word	Word	_	5	orphan	5:orphan	_
 54	by	_	Word	Word	_	6	L	6:L	_
 55	believing	_	Word	Word	_	5	orphan	5:orphan	_
-56	in	_	Word	Word	_	57	R	57:R	_
+56	in	_	Word	Word	_	57	R	57:R|60:R	_
 57	krakens	_	Word	Word	_	5	orphan	5:orphan	_
 58	,	_	Punctuation	Punctuation	_	57	punct	57:punct	_
 59	sea	_	Word	Word	_	60	E	60:E	_

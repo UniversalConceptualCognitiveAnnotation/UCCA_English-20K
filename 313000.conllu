@@ -1,7 +1,6 @@
 # format = ucca
 # sent_id = 313000
 # text = Public opinion being pronounced , the States of the Union were the first in the field .
-# doc_id = 
 1	Public	_	Word	Word	_	0	root	0:root	_
 2	opinion	_	Word	Word	_	1	C	1:C	_
 3	being	_	Word	Word	_	4	F	4:F	_

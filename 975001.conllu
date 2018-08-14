@@ -1,7 +1,6 @@
 # format = ucca
 # sent_id = 975001
 # text = Eyes and spyglasses ( a bit dazzled , it is true , by the vista of $ 2,000.00 ) did n't remain at rest for an instant .
-# doc_id = 
 1	Eyes	_	Word	Word	_	0	root	0:root	_
 2	and	_	Word	Word	_	1	N	1:N	_
 3	spyglasses	_	Word	Word	_	1	C	1:C	_

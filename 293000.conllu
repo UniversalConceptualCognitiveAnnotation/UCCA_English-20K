@@ -1,7 +1,6 @@
 # format = ucca
 # sent_id = 293000
 # text = But this hypothesis of a war machine collapsed in the face of formal denials from the various governments .
-# doc_id = 
 1	But	_	Word	Word	_	8	L	8:L	_
 2	this	_	Word	Word	_	3	E	3:E	_
 3	hypothesis	_	Word	Word	_	0	root	0:root	_

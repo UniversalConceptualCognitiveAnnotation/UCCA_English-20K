@@ -1,7 +1,6 @@
 # format = ucca
 # sent_id = 907002
 # text = " " Yes . . . indeed . . . maybe , " the Canadian replied , staggered by these figures but still not willing to give in .
-# doc_id = 
 1	"	_	Punctuation	Punctuation	_	16	punct	16:punct	_
 2	"	_	Punctuation	Punctuation	_	16	punct	16:punct	_
 3	Yes	_	Word	Word	_	0	root	0:root	_

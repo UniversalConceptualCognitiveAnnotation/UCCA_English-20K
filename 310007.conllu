@@ -1,7 +1,6 @@
 # format = ucca
 # sent_id = 310007
 # text = Formerly , in prehistoric days , land animals ( quadrupeds , apes , reptiles , birds ) were built on a gigantic scale .
-# doc_id = 
 1	Formerly	_	Word	Word	_	19	T	19:T	_
 2	,	_	Punctuation	Punctuation	_	19	punct	19:punct	_
 3	in	_	Word	Word	_	5	R	5:R	_

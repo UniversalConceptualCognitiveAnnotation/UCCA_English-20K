@@ -1,7 +1,6 @@
 # format = ucca
 # sent_id = 36000
 # text = The year 1866 was marked by a bizarre development , an unexplained and downright inexplicable phenomenon that surely no one has forgotten .
-# doc_id = 
 1	The	_	Word	Word	_	2	E	2:E	_
 2	year	_	Word	Word	_	0	root	0:root	_
 3	1866	_	Word	Word	_	2	orphan	2:orphan	_

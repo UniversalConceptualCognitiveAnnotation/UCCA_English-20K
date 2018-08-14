@@ -1,14 +1,13 @@
 # format = ucca
 # sent_id = 54000
 # text = On April 13 , 1867 , with a smooth sea and a moderate breeze , the Scotia lay in longitude 15 12 ° ' and latitude 45 37 ° ' . It was traveling at a speed of 13.43 knots under the thrust of its 1,000 - horsepower engines .
-# doc_id = 
 1	On	_	Word	Word	_	2	R	2:R	_
 2	April	_	Word	Word	_	0	root	0:root	_
 3	13	_	Word	Word	_	2	flat	2:flat	_
 4	,	_	Punctuation	Punctuation	_	2	punct	2:punct	_
 5	1867	_	Word	Word	_	2	flat	2:flat	_
 6	,	_	Punctuation	Punctuation	_	18	punct	18:punct	_
-7	with	_	Word	Word	_	10	R	10:R	_
+7	with	_	Word	Word	_	10	R	10:R|14:R	_
 8	a	_	Word	Word	_	10	E	10:E	_
 9	smooth	_	Word	Word	_	10	E	10:E	_
 10	sea	_	Word	Word	_	2	orphan	2:orphan	_
@@ -20,7 +19,7 @@
 16	the	_	Word	Word	_	17	E	17:E	_
 17	Scotia	_	Word	Word	_	2	orphan	2:orphan	_
 18	lay	_	Word	Word	_	2	orphan	2:orphan	_
-19	in	_	Word	Word	_	21	R	21:R	_
+19	in	_	Word	Word	_	21	R	21:R|27:R	_
 20	longitude	_	Word	Word	_	21	E	21:E	_
 21	15	_	Word	Word	_	2	orphan	2:orphan	_
 22	12	_	Word	Word	_	21	flat	21:flat	_

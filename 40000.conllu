@@ -1,7 +1,6 @@
 # format = ucca
 # sent_id = 40000
 # text = Now then , it did exist , this was an undeniable fact ; and since the human mind dotes on objects of wonder , you can understand the worldwide excitement caused by this unearthly apparition .
-# doc_id = 
 1	Now	_	Word	Word	_	6	L	6:L	_
 2	then	_	Word	Word	_	1	flat	1:flat	_
 3	,	_	Punctuation	Punctuation	_	6	punct	6:punct	_

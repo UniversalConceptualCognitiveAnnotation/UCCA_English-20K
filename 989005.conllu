@@ -1,7 +1,6 @@
 # format = ucca
 # sent_id = 989005
 # text = A supreme challenge had been issued to the giant narwhale , and the latter had no acceptable excuse for ignoring this Summons to Appear !
-# doc_id = 
 1	A	_	Word	Word	_	3	E	3:E	_
 2	supreme	_	Word	Word	_	0	root	0:root	_
 3	challenge	_	Word	Word	_	2	orphan	2:orphan	_

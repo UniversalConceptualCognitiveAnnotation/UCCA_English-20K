@@ -1,7 +1,6 @@
 # format = ucca
 # sent_id = 44001
 # text = In lighthearted countries , people joked about this phenomenon , but such serious , practical countries as England , America , and Germany were deeply concerned .
-# doc_id = 
 1	In	_	Word	Word	_	3	R	3:R	_
 2	lighthearted	_	Word	Word	_	3	E	3:E	_
 3	countries	_	Word	Word	_	0	root	0:root	_

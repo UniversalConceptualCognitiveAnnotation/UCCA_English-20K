@@ -1,7 +1,6 @@
 # format = ucca
 # sent_id = 979001
 # text = And yet the marvelous power of his vision could have performed yeoman service .
-# doc_id = 
 1	And	_	Word	Word	_	11	L	11:L	_
 2	yet	_	Word	Word	_	1	flat	1:flat	_
 3	the	_	Word	Word	_	5	E	5:E	_

@@ -1,7 +1,6 @@
 # format = ucca
 # sent_id = 989003
 # text = Each man wanted one last look with which to sum up his experience .
-# doc_id = 
 1	Each	_	Word	Word	_	2	E	2:E	_
 2	man	_	Word	Word	_	0	root	0:root	_
 3	wanted	_	Word	Word	_	2	orphan	2:orphan	_

@@ -1,7 +1,6 @@
 # format = ucca
 # sent_id = 904004
 # text = In reality , such a column of water would n't be quite so high because here we 're dealing with salt water , which is denser than fresh water .
-# doc_id = 
 1	In	_	Word	Word	_	2	R	2:R	_
 2	reality	_	Word	Word	_	0	root	0:root	_
 3	,	_	Punctuation	Punctuation	_	14	punct	14:punct	_

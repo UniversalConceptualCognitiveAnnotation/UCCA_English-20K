@@ -1,7 +1,6 @@
 # format = ucca
 # sent_id = 997001
 # text = " " Quite so , Conseil , and what's more , I imagine that people will soon be poking fun at us !
-# doc_id = 
 1	"	_	Punctuation	Punctuation	_	3	punct	3:punct	_
 2	"	_	Punctuation	Punctuation	_	3	punct	3:punct	_
 3	Quite	_	Word	Word	_	0	root	0:root	_

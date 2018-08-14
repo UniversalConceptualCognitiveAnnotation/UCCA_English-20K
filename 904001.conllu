@@ -1,7 +1,6 @@
 # format = ucca
 # sent_id = 904001
 # text = " " In business , Ned , but not in mathematics .
-# doc_id = 
 1	"	_	Punctuation	Punctuation	_	4	punct	4:punct	_
 2	"	_	Punctuation	Punctuation	_	4	punct	4:punct	_
 3	In	_	Word	Word	_	4	R	4:R	_

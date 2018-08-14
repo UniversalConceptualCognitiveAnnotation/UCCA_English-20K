@@ -1,7 +1,6 @@
 # format = ucca
 # sent_id = 846002
 # text = The furnaces were stoked ; the propeller churned the waves more swiftly ; the frigate skirted the flat , yellow coast of Long Island ; and at eight o'clock in the evening , after the lights of Fire Island had vanished into the northwest , we ran at full steam onto the dark waters of the Atlantic .
-# doc_id = 
 1	The	_	Word	Word	_	2	E	2:E	_
 2	furnaces	_	Word	Word	_	0	root	0:root	_
 3	were	_	Word	Word	_	4	F	4:F	_

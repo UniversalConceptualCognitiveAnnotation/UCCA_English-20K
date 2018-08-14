@@ -1,7 +1,6 @@
 # format = ucca
 # sent_id = 978000
 # text = However , the weather held good .
-# doc_id = 
 1	However	_	Word	Word	_	6	L	6:L	_
 2	,	_	Punctuation	Punctuation	_	6	punct	6:punct	_
 3	the	_	Word	Word	_	4	E	4:E	_

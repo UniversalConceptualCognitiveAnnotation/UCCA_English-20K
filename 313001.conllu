@@ -1,7 +1,6 @@
 # format = ucca
 # sent_id = 313001
 # text = In New York preparations were under way for an expedition designed to chase this narwhale .
-# doc_id = 
 1	In	_	Word	Word	_	2	R	2:R	_
 2	New	_	Word	Word	_	0	root	0:root	_
 3	York	_	Word	Word	_	2	flat	2:flat	_

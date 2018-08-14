@@ -1,7 +1,6 @@
 # format = ucca
 # sent_id = 310005
 # text = The liquid masses support the largest known species of mammals and perhaps conceal mollusks of incomparable size or crustaceans too frightful to contemplate , such as 100 - meter lobsters or crabs weighing 200 metric tons !
-# doc_id = 
 1	The	_	Word	Word	_	3	E	3:E	_
 2	liquid	_	Word	Word	_	3	E	3:E	_
 3	masses	_	Word	Word	_	0	root	0:root	_

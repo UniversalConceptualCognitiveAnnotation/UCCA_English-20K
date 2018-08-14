@@ -1,7 +1,6 @@
 # format = ucca
 # sent_id = 295000
 # text = And so the monster surfaced again , despite the endless witticisms heaped on it by the popular press , and the human imagination soon got caught up in the most ridiculous ichthyological fantasies .
-# doc_id = 
 1	And	_	Word	Word	_	5	L	5:L	_
 2	so	_	Word	Word	_	1	flat	1:flat	_
 3	the	_	Word	Word	_	4	E	4:E	_

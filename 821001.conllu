@@ -1,7 +1,6 @@
 # format = ucca
 # sent_id = 821001
 # text = Not once did he comment on the length or the hardships of a journey .
-# doc_id = 
 1	Not	_	Word	Word	_	2	E	2:E	_
 2	once	_	Word	Word	_	0	root	0:root	_
 3	did	_	Word	Word	_	5	F	5:F	_

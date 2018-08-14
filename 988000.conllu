@@ -1,7 +1,6 @@
 # format = ucca
 # sent_id = 988000
 # text = A request to this effect was presented to the commander .
-# doc_id = 
 1	A	_	Word	Word	_	2	E	2:E	_
 2	request	_	Word	Word	_	0	root	0:root	_
 3	to	_	Word	Word	_	5	R	5:R	_

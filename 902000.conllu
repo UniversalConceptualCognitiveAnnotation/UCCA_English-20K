@@ -1,7 +1,6 @@
 # format = ucca
 # sent_id = 902000
 # text = " Note well , my fine Canadian , " I went on , " if such an animal exists , if it lives deep in the ocean , if it frequents the liquid strata located miles beneath the surface of the water , it needs to have a constitution so solid , it defies all comparison .
-# doc_id = 
 1	"	_	Punctuation	Punctuation	_	2	punct	2:punct	_
 2	Note	_	Word	Word	_	0	root	0:root	_
 3	well	_	Word	Word	_	2	D	2:D	_

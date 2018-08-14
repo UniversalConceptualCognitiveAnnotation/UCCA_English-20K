@@ -1,7 +1,6 @@
 # format = ucca
 # sent_id = 59003
 # text = By then it lay 300 miles from Cape Clear , and after three days of delay that filled Liverpool with acute anxiety , it entered the company docks .
-# doc_id = 
 1	By	_	Word	Word	_	2	R	2:R	_
 2	then	_	Word	Word	_	0	root	0:root	_
 3	it	_	Word	Word	_	4	A	4:A	_

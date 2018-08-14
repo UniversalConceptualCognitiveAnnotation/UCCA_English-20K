@@ -1,7 +1,6 @@
 # format = ucca
 # sent_id = 59001
 # text = Within moments they had located a hole two meters in width on the steamer 's underside .
-# doc_id = 
 1	Within	_	Word	Word	_	2	R	2:R	_
 2	moments	_	Word	Word	_	0	root	0:root	_
 3	they	_	Word	Word	_	5	A	5:A	_

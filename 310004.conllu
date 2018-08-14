@@ -1,7 +1,6 @@
 # format = ucca
 # sent_id = 310004
 # text = Now then , the sea is precisely their best medium , the only setting suitable for the breeding and growing of such giants - next to which such land animals as elephants or rhinoceroses are mere dwarves .
-# doc_id = 
 1	Now	_	Word	Word	_	6	L	6:L	_
 2	then	_	Word	Word	_	1	flat	1:flat	_
 3	,	_	Punctuation	Punctuation	_	6	punct	6:punct	_
@@ -18,7 +17,7 @@
 14	setting	_	Word	Word	_	5	orphan	5:orphan	_
 15	suitable	_	Word	Word	_	5	orphan	5:orphan	_
 16	for	_	Word	Word	_	18	R	18:R	_
-17	the	_	Word	Word	_	18	E	18:E	_
+17	the	_	Word	Word	_	18	E	18:E|20:E	_
 18	breeding	_	Word	Word	_	5	orphan	5:orphan	_
 19	and	_	Word	Word	_	18	N	18:N	_
 20	growing	_	Word	Word	_	5	orphan	5:orphan	_

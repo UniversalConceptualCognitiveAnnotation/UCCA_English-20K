@@ -1,7 +1,6 @@
 # format = ucca
 # sent_id = 53002
 # text = In twenty-six years Cunard ships have made 2,000 Atlantic crossings without so much as a voyage canceled , a delay recorded , a man , a craft , or even a letter lost .
-# doc_id = 
 1	In	_	Word	Word	_	3	R	3:R	_
 2	twenty-six	_	Word	Word	_	3	E	3:E	_
 3	years	_	Word	Word	_	0	root	0:root	_
@@ -12,7 +11,7 @@
 8	2,000	_	Word	Word	_	10	D	10:D	_
 9	Atlantic	_	Word	Word	_	10	D	10:D	_
 10	crossings	_	Word	Word	_	3	orphan	3:orphan	_
-11	without	_	Word	Word	_	10	L	10:L	_
+11	without	_	Word	Word	_	10	L	10:L|21:D|17:D	_
 12	so	_	Word	Word	_	17	F	17:F	_
 13	much	_	Word	Word	_	12	flat	12:flat	_
 14	as	_	Word	Word	_	12	flat	12:flat	_

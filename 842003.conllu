@@ -1,7 +1,6 @@
 # format = ucca
 # sent_id = 842003
 # text = The blades of the propeller churned the waves with increasing speed , and the Abraham Lincoln moved out majestically amid a spectator - laden escort of some 100 ferries and tenders
-# doc_id = 
 1	The	_	Word	Word	_	2	E	2:E	_
 2	blades	_	Word	Word	_	0	root	0:root	_
 3	of	_	Word	Word	_	5	R	5:R	_

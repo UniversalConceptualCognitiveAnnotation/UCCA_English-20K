@@ -1,8 +1,7 @@
 # format = ucca
 # sent_id = 842001
 # text = Steam rushed whistling into the gaping valves .
-# doc_id = 
-1	Steam	_	Word	Word	_	2	A	2:A	_
+1	Steam	_	Word	Word	_	2	A	2:A|3:A	_
 2	rushed	_	Word	Word	_	0	root	0:root	_
 3	whistling	_	Word	Word	_	2	orphan	2:orphan	_
 4	into	_	Word	Word	_	7	R	7:R	_

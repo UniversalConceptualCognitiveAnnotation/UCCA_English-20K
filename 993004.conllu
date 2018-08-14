@@ -1,7 +1,6 @@
 # format = ucca
 # sent_id = 993004
 # text = Sometimes the murky ocean sparkled beneath moonbeams that darted between the fringes of two clouds .
-# doc_id = 
 1	Sometimes	_	Word	Word	_	5	T	5:T	_
 2	the	_	Word	Word	_	4	E	4:E	_
 3	murky	_	Word	Word	_	4	E	4:E	_

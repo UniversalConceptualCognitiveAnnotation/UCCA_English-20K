@@ -1,7 +1,6 @@
 # format = ucca
 # sent_id = 50000
 # text = This accident happened around five o'clock in the morning , just as day was beginning to break .
-# doc_id = 
 1	This	_	Word	Word	_	2	E	2:E	_
 2	accident	_	Word	Word	_	0	root	0:root	_
 3	happened	_	Word	Word	_	2	orphan	2:orphan	_

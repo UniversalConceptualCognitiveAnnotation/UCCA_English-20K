@@ -1,7 +1,6 @@
 # format = ucca
 # sent_id = 880008
 # text = No middle of the road for these two .
-# doc_id = 
 1	No	_	Word	Word	_	2	D	2:D	_
 2	middle	_	Word	Word	_	0	root	0:root	_
 3	of	_	Word	Word	_	5	R	5:R	_

@@ -1,7 +1,6 @@
 # format = ucca
 # sent_id = 292001
 # text = The Chassepot rifle led to the torpedo , and the torpedo has led to this underwater battering ram , which in turn will lead to the world putting its foot down .
-# doc_id = 
 1	The	_	Word	Word	_	2	E	2:E	_
 2	Chassepot	_	Word	Word	_	0	root	0:root	_
 3	rifle	_	Word	Word	_	2	orphan	2:orphan	_

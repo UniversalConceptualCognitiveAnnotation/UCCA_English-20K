@@ -1,7 +1,6 @@
 # format = ucca
 # sent_id = 315000
 # text = So the frigate was equipped for a far - off voyage and armed with fearsome fishing gear , but nobody knew where to steer it .
-# doc_id = 
 1	So	_	Word	Word	_	5	L	5:L	_
 2	the	_	Word	Word	_	3	E	3:E	_
 3	frigate	_	Word	Word	_	0	root	0:root	_

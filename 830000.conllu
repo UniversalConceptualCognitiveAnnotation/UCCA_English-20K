@@ -1,7 +1,6 @@
 # format = ucca
 # sent_id = 830000
 # text = The hotel elevator dropped us off in the main vestibule on the mezzanine .
-# doc_id = 
 1	The	_	Word	Word	_	3	E	3:E	_
 2	hotel	_	Word	Word	_	3	E	3:E	_
 3	elevator	_	Word	Word	_	0	root	0:root	_

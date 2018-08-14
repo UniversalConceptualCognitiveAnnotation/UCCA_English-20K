@@ -1,7 +1,6 @@
 # format = ucca
 # sent_id = 894000
 # text = Seated on the afterdeck , Ned Land and I chatted about one thing and another , staring at that mysterious sea whose depths to this day are beyond the reach of human eyes .
-# doc_id = 
 1	Seated	_	Word	Word	_	0	root	0:root	_
 2	on	_	Word	Word	_	4	R	4:R	_
 3	the	_	Word	Word	_	4	E	4:E	_

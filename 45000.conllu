@@ -1,7 +1,6 @@
 # format = ucca
 # sent_id = 45000
 # text = In every big city the monster was the latest rage ; they sang about it in the coffee houses , they ridiculed it in the newspapers , they dramatized it in the theaters .
-# doc_id = 
 1	In	_	Word	Word	_	4	R	4:R	_
 2	every	_	Word	Word	_	4	E	4:E	_
 3	big	_	Word	Word	_	4	E	4:E	_

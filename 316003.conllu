@@ -1,7 +1,6 @@
 # format = ucca
 # sent_id = 316003
 # text = His coal bunkers were overflowing .
-# doc_id = 
 1	His	_	Word	Word	_	3	E	3:E	_
 2	coal	_	Word	Word	_	3	E	3:E	_
 3	bunkers	_	Word	Word	_	0	root	0:root	_

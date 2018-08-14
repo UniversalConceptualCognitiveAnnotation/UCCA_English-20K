@@ -1,7 +1,6 @@
 # format = ucca
 # sent_id = 41001
 # text = Captain Baker at first thought he was in the presence of an unknown reef ; he was even about to fix its exact position when two waterspouts shot out of this inexplicable object and sprang hissing into the air some 150 feet .
-# doc_id = 
 1	Captain	_	Word	Word	_	5	A	5:A	_
 2	Baker	_	Word	Word	_	1	flat	1:flat	_
 3	at	_	Word	Word	_	4	R	4:R	_

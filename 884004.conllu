@@ -1,7 +1,6 @@
 # format = ucca
 # sent_id = 884004
 # text = Made in America , this valuable instrument could fire a four - kilogram conical projectile an average distance of sixteen kilometers without the least bother .
-# doc_id = 
 1	Made	_	Word	Word	_	0	root	0:root	_
 2	in	_	Word	Word	_	3	R	3:R	_
 3	America	_	Word	Word	_	1	orphan	1:orphan	_

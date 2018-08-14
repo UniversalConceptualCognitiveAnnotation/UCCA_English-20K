@@ -1,7 +1,6 @@
 # format = ucca
 # sent_id = 820003
 # text = Classifying was everything to him , so he knew nothing else .
-# doc_id = 
 1	Classifying	_	Word	Word	_	0	root	0:root	_
 2	was	_	Word	Word	_	1	orphan	1:orphan	_
 3	everything	_	Word	Word	_	2	A	2:A	_

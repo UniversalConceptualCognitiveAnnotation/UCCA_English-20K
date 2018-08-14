@@ -1,8 +1,7 @@
 # format = ucca
 # sent_id = 287001
 # text = I had read and reread every American and European newspaper without being any farther along .
-# doc_id = 
-1	I	_	Word	Word	_	3	A	3:A	_
+1	I	_	Word	Word	_	3	A	3:A|15:A	_
 2	had	_	Word	Word	_	3	F	3:F	_
 3	read	_	Word	Word	_	0	root	0:root	_
 4	and	_	Word	Word	_	3	N	3:N	_

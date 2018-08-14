@@ -1,7 +1,6 @@
 # format = ucca
 # sent_id = 831003
 # text = There the Katrin ferry transferred men , horses , and carriage to Brooklyn , that great New York annex located on the left bank of the East River , and in a few minutes we arrived at the wharf next to which the Abraham Lincoln was vomiting torrents of black smoke from its two funnels .
-# doc_id = 
 1	There	_	Word	Word	_	5	A	5:A	_
 2	the	_	Word	Word	_	3	E	3:E	_
 3	Katrin	_	Word	Word	_	0	root	0:root	_

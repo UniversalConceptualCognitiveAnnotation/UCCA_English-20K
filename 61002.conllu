@@ -1,7 +1,6 @@
 # format = ucca
 # sent_id = 61002
 # text = This outrageous animal had to shoulder responsibility for all derelict vessels , whose numbers are unfortunately considerable , since out of those 3,000 ships whose losses are recorded annually at the marine insurance bureau , the figure for steam or sailing ships supposedly lost with all hands , in the absence of any news , amounts to at least 200 !
-# doc_id = 
 1	This	_	Word	Word	_	3	E	3:E	_
 2	outrageous	_	Word	Word	_	3	E	3:E	_
 3	animal	_	Word	Word	_	0	root	0:root	_

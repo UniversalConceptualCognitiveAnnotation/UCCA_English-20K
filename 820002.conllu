@@ -1,7 +1,6 @@
 # format = ucca
 # sent_id = 820002
 # text = But there his science came to a halt .
-# doc_id = 
 1	But	_	Word	Word	_	8	L	8:L	_
 2	there	_	Word	Word	_	8	A	8:A	_
 3	his	_	Word	Word	_	4	E	4:E	_

@@ -1,7 +1,6 @@
 # format = ucca
 # sent_id = 909002
 # text = To answer them called for dissecting this unknown monster ; to dissect it called for catching it ; to catch it called for harpooning it - which was Ned Land 's business ; to harpoon it called for sighting it - which was the crew 's business ; and to sight it called for encountering it - which was a chancy business .
-# doc_id = 
 1	To	_	Word	Word	_	2	F	2:F	_
 2	answer	_	Word	Word	_	0	root	0:root	_
 3	them	_	Word	Word	_	2	A	2:A	_

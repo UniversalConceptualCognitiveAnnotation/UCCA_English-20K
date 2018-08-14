@@ -1,7 +1,6 @@
 # format = ucca
 # sent_id = 983005
 # text = Twenty times a day some error in perception , or the optical illusions of some sailor perched in the crosstrees , would cause intolerable anguish , and this emotion , repeated twenty times over , kept us in a state of irritability so intense that a reaction was bound to follow .
-# doc_id = 
 1	Twenty	_	Word	Word	_	2	E	2:E	_
 2	times	_	Word	Word	_	0	root	0:root	_
 3	a	_	Word	Word	_	4	E	4:E	_

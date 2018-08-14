@@ -1,7 +1,6 @@
 # format = ucca
 # sent_id = 316001
 # text = Not even a 24 - hour breather was granted to Commander Farragut .
-# doc_id = 
 1	Not	_	Word	Word	_	0	root	0:root	_
 2	even	_	Word	Word	_	1	E	1:E	_
 3	a	_	Word	Word	_	7	E	7:E	_

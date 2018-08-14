@@ -1,7 +1,6 @@
 # format = ucca
 # sent_id = 904006
 # text = So it follows that at 320 feet down , this pressure is equal to ten atmospheres , to 100 atmospheres at 3,200 feet , and to 1,000 atmospheres at 32,000 feet , that is , at about two and a half vertical leagues down .
-# doc_id = 
 1	So	_	Word	Word	_	3	L	3:L	_
 2	it	_	Word	Word	_	3	F	3:F	_
 3	follows	_	Word	Word	_	0	root	0:root	_

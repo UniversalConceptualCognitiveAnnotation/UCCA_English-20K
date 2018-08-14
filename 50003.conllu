@@ -1,7 +1,6 @@
 # format = ucca
 # sent_id = 50003
 # text = They saw nothing except a strong eddy breaking three cable lengths out , as if those sheets of water had been violently churned .
-# doc_id = 
 1	They	_	Word	Word	_	2	A	2:A	_
 2	saw	_	Word	Word	_	0	root	0:root	_
 3	nothing	_	Word	Word	_	2	orphan	2:orphan	_

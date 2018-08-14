@@ -1,7 +1,6 @@
 # format = ucca
 # sent_id = 907006
 # text = " " It 's maybe . . . , " Ned said , hesitating .
-# doc_id = 
 1	"	_	Punctuation	Punctuation	_	12	punct	12:punct	_
 2	"	_	Punctuation	Punctuation	_	12	punct	12:punct	_
 3	It	_	Word	Word	_	5	A	5:A	_

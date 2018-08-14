@@ -1,7 +1,6 @@
 # format = ucca
 # sent_id = 291000
 # text = Now then , although the latter hypothesis was completely admissible , it could n't stand up to inquiries conducted in both the New World and the Old .
-# doc_id = 
 1	Now	_	Word	Word	_	10	L	10:L	_
 2	then	_	Word	Word	_	1	flat	1:flat	_
 3	,	_	Punctuation	Punctuation	_	10	punct	10:punct	_

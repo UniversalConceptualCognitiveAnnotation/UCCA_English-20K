@@ -1,7 +1,6 @@
 # format = ucca
 # sent_id = 981004
 # text = Yet everyone still felt confident of success , and not a sailor on board would have bet against the narwhale appearing , and soon .
-# doc_id = 
 1	Yet	_	Word	Word	_	5	L	5:L	_
 2	everyone	_	Word	Word	_	5	A	5:A	_
 3	still	_	Word	Word	_	5	D	5:D	_

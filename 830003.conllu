@@ -1,7 +1,6 @@
 # format = ucca
 # sent_id = 830003
 # text = I left instructions for shipping my containers of stuffed animals and dried plants to Paris , France .
-# doc_id = 
 1	I	_	Word	Word	_	3	A	3:A	_
 2	left	_	Word	Word	_	3	D	3:D	_
 3	instructions	_	Word	Word	_	0	root	0:root	_

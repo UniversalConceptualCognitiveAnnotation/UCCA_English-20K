@@ -1,7 +1,6 @@
 # format = ucca
 # sent_id = 980000
 # text = " Bah ! " he replied . " Nothing 's out there , Professor Aronnax , and if there is some animal , what chance would we have of spotting it ? Can 't you see we 're just wandering around at random ? People say they 've sighted this slippery beast again in the Pacific high seas - I 'm truly willing to believe it , but two months have already gone by since then , and judging by your narwhale 's personality , it hates growing moldy from hanging out too long in the same waterways ! It 's blessed with a terrific gift for getting around . Now , professor , you know even better than I that nature does n't violate good sense , and she would n't give some naturally slow animal the ability to move swiftly if it had n't a need to use that talent . So if the beast does exist , it 's already long gone ! "
-# doc_id = 
 1	"	_	Punctuation	Punctuation	_	2	punct	2:punct	_
 2	Bah	_	Word	Word	_	0	root	0:root	_
 3	!	_	Punctuation	Punctuation	_	6	punct	6:punct	_
@@ -61,7 +60,7 @@
 57	high	_	Word	Word	_	58	E	58:E	_
 58	seas	_	Word	Word	_	2	orphan	2:orphan	_
 59	-	_	Punctuation	Punctuation	_	2	punct	2:punct	_
-60	I	_	Word	Word	_	65	A	65:A	_
+60	I	_	Word	Word	_	65	A	65:A|79:A	_
 61	'm	_	Word	Word	_	65	F	65:F	_
 62	truly	_	Word	Word	_	65	D	65:D	_
 63	willing	_	Word	Word	_	65	D	65:D	_
@@ -87,7 +86,7 @@
 83	's	_	Word	Word	_	82	R	82:R	_
 84	personality	_	Word	Word	_	2	orphan	2:orphan	_
 85	,	_	Punctuation	Punctuation	_	2	punct	2:punct	_
-86	it	_	Word	Word	_	87	A	87:A	_
+86	it	_	Word	Word	_	87	A	87:A|91:A|89:A	_
 87	hates	_	Word	Word	_	2	orphan	2:orphan	_
 88	growing	_	Word	Word	_	89	D	89:D	_
 89	moldy	_	Word	Word	_	2	orphan	2:orphan	_
@@ -101,7 +100,7 @@
 97	same	_	Word	Word	_	98	E	98:E	_
 98	waterways	_	Word	Word	_	2	orphan	2:orphan	_
 99	!	_	Punctuation	Punctuation	_	2	punct	2:punct	_
-100	It	_	Word	Word	_	102	A	102:A	_
+100	It	_	Word	Word	_	102	A	102:A|108:A	_
 101	's	_	Word	Word	_	102	F	102:F	_
 102	blessed	_	Word	Word	_	2	orphan	2:orphan	_
 103	with	_	Word	Word	_	106	R	106:R	_
@@ -145,7 +144,7 @@
 141	move	_	Word	Word	_	2	orphan	2:orphan	_
 142	swiftly	_	Word	Word	_	141	D	141:D	_
 143	if	_	Word	Word	_	2	L	2:L	_
-144	it	_	Word	Word	_	148	A	148:A	_
+144	it	_	Word	Word	_	148	A	148:A|150:A	_
 145	had	_	Word	Word	_	148	F	148:F	_
 146	n't	_	Word	Word	_	148	D	148:D	_
 147	a	_	Word	Word	_	148	E	148:E	_

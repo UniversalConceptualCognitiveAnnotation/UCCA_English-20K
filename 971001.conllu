@@ -1,7 +1,6 @@
 # format = ucca
 # sent_id = 971001
 # text = By July 3 we were at the entrance to the Strait of Magellan , abreast of Cabo de las Virgenes .
-# doc_id = 
 1	By	_	Word	Word	_	2	R	2:R	_
 2	July	_	Word	Word	_	0	root	0:root	_
 3	3	_	Word	Word	_	2	flat	2:flat	_

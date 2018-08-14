@@ -1,7 +1,6 @@
 # format = ucca
 # sent_id = 58000
 # text = Captain Anderson immediately made his way into the hold .
-# doc_id = 
 1	Captain	_	Word	Word	_	2	E	2:E	_
 2	Anderson	_	Word	Word	_	0	root	0:root	_
 3	immediately	_	Word	Word	_	4	T	4:T	_

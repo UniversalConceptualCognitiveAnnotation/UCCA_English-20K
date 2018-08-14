@@ -1,7 +1,6 @@
 # format = ucca
 # sent_id = 314003
 # text = Apparently the unicorn had gotten wise to these plots being woven around it .
-# doc_id = 
 1	Apparently	_	Word	Word	_	5	G	5:G	_
 2	the	_	Word	Word	_	3	E	3:E	_
 3	unicorn	_	Word	Word	_	0	root	0:root	_

@@ -1,13 +1,12 @@
 # format = ucca
 # sent_id = 905002
 # text = " " As many as that ? " " Yes , and since the atmosphere 's pressure actually weighs slightly more than one kilogram per square centimeter , your 17,000 square centimeters are tolerating 17,568 kilograms at this very moment .
-# doc_id = 
 1	"	_	Punctuation	Punctuation	_	4	punct	4:punct	_
 2	"	_	Punctuation	Punctuation	_	4	punct	4:punct	_
 3	As	_	Word	Word	_	4	D	4:D	_
 4	many	_	Word	Word	_	0	root	0:root	_
 5	as	_	Word	Word	_	4	D	4:D	_
-6	that	_	Word	Word	_	4	A	4:A	_
+6	that	_	Word	Word	_	4	A	4:A|10:A	_
 7	?	_	Punctuation	Punctuation	_	10	punct	10:punct	_
 8	"	_	Punctuation	Punctuation	_	10	punct	10:punct	_
 9	"	_	Punctuation	Punctuation	_	10	punct	10:punct	_

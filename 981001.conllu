@@ -1,7 +1,6 @@
 # format = ucca
 # sent_id = 981001
 # text = Obviously we were just groping blindly .
-# doc_id = 
 1	Obviously	_	Word	Word	_	5	G	5:G	_
 2	we	_	Word	Word	_	5	A	5:A	_
 3	were	_	Word	Word	_	5	F	5:F	_

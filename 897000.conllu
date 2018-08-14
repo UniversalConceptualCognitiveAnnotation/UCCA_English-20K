@@ -1,7 +1,6 @@
 # format = ucca
 # sent_id = 897000
 # text = " But Ned , you 're a professional whaler , a man familiar with all the great marine mammals - your mind should easily accept this hypothesis of an enormous cetacean , and you ought to be the last one to doubt it under these circumstances ! "
-# doc_id = 
 1	"	_	Punctuation	Punctuation	_	6	punct	6:punct	_
 2	But	_	Word	Word	_	6	L	6:L	_
 3	Ned	_	Word	Word	_	6	G	6:G	_

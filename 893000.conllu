@@ -1,7 +1,6 @@
 # format = ucca
 # sent_id = 893000
 # text = During the magnificent evening of June 25 - in other words , three weeks after our departure - the frigate lay abreast of Cabo Blanco , thirty miles to leeward of the coast of Patagonia .
-# doc_id = 
 1	During	_	Word	Word	_	3	L	3:L	_
 2	the	_	Word	Word	_	4	E	4:E	_
 3	magnificent	_	Word	Word	_	0	root	0:root	_

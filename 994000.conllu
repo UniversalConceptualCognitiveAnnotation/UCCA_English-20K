@@ -1,7 +1,6 @@
 # format = ucca
 # sent_id = 994000
 # text = Observing Conseil , I discovered that , just barely , the gallant lad had fallen under the general influence .
-# doc_id = 
 1	Observing	_	Word	Word	_	0	root	0:root	_
 2	Conseil	_	Word	Word	_	1	A	1:A	_
 3	,	_	Punctuation	Punctuation	_	1	punct	1:punct	_
@@ -19,7 +18,7 @@
 15	fallen	_	Word	Word	_	1	orphan	1:orphan	_
 16	under	_	Word	Word	_	19	R	19:R	_
 17	the	_	Word	Word	_	19	E	19:E	_
-18	general	_	Word	Word	_	19	E	19:E	_
+18	general	_	Word	Word	_	19	E	19:E|19:D	_
 19	influence	_	Word	Word	_	1	orphan	1:orphan	_
 20	.	_	Punctuation	Punctuation	_	19	punct	19:punct	_
 

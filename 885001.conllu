@@ -1,7 +1,6 @@
 # format = ucca
 # sent_id = 885001
 # text = But it had better still .
-# doc_id = 
 1	But	_	Word	Word	_	4	L	4:L	_
 2	it	_	Word	Word	_	4	A	4:A	_
 3	had	_	Word	Word	_	4	F	4:F	_

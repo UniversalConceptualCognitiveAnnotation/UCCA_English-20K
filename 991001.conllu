@@ -1,7 +1,6 @@
 # format = ucca
 # sent_id = 991001
 # text = After a position fix , true to his promise , Commander Farragut would have to set his course for the southeast and leave the northerly regions of the Pacific decisively behind .
-# doc_id = 
 1	After	_	Word	Word	_	4	L	4:L	_
 2	a	_	Word	Word	_	3	E	3:E	_
 3	position	_	Word	Word	_	0	root	0:root	_

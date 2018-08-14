@@ -1,7 +1,6 @@
 # format = ucca
 # sent_id = 313003
 # text = The naval arsenals were unlocked for Commander Farragut , who pressed energetically forward with the arming of his frigate .
-# doc_id = 
 1	The	_	Word	Word	_	3	E	3:E	_
 2	naval	_	Word	Word	_	3	E	3:E	_
 3	arsenals	_	Word	Word	_	0	root	0:root	_

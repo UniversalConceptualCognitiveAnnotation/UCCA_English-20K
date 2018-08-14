@@ -1,7 +1,6 @@
 # format = ucca
 # sent_id = 992002
 # text = Night was coming on .
-# doc_id = 
 1	Night	_	Word	Word	_	3	A	3:A	_
 2	was	_	Word	Word	_	3	F	3:F	_
 3	coming	_	Word	Word	_	0	root	0:root	_

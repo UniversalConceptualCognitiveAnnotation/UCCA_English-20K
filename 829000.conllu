@@ -1,7 +1,6 @@
 # format = ucca
 # sent_id = 829000
 # text = A quarter of an hour later , our trunks were ready .
-# doc_id = 
 1	A	_	Word	Word	_	2	E	2:E	_
 2	quarter	_	Word	Word	_	0	root	0:root	_
 3	of	_	Word	Word	_	2	R	2:R	_

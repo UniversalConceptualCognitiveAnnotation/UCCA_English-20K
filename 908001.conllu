@@ -1,7 +1,6 @@
 # format = ucca
 # sent_id = 908001
 # text = That day I pressed him no further .
-# doc_id = 
 1	That	_	Word	Word	_	2	E	2:E	_
 2	day	_	Word	Word	_	0	root	0:root	_
 3	I	_	Word	Word	_	4	A	4:A	_

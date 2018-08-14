@@ -1,7 +1,6 @@
 # format = ucca
 # sent_id = 978002
 # text = By then it was the bad season in these southernmost regions , because July in this zone corresponds to our January in Europe ; but the sea remained smooth and easily visible over a vast perimeter .
-# doc_id = 
 1	By	_	Word	Word	_	2	R	2:R	_
 2	then	_	Word	Word	_	0	root	0:root	_
 3	it	_	Word	Word	_	4	F	4:F	_

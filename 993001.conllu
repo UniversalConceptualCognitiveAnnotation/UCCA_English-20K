@@ -1,7 +1,6 @@
 # format = ucca
 # sent_id = 993001
 # text = Conseil , stationed beside me , stared straight ahead .
-# doc_id = 
 1	Conseil	_	Word	Word	_	0	root	0:root	_
 2	,	_	Punctuation	Punctuation	_	1	punct	1:punct	_
 3	stationed	_	Word	Word	_	1	orphan	1:orphan	_

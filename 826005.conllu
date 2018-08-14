@@ -1,7 +1,6 @@
 # format = ucca
 # sent_id = 826005
 # text = " We have n't a moment to lose . Pack as much into my trunk as you can , my traveling kit , my suits , shirts , and socks , do n't bother counting , just squeeze it all in - and hurry !
-# doc_id = 
 1	"	_	Punctuation	Punctuation	_	8	punct	8:punct	_
 2	We	_	Word	Word	_	8	A	8:A	_
 3	have	_	Word	Word	_	8	D	8:D	_
@@ -21,7 +20,7 @@
 17	you	_	Word	Word	_	6	orphan	6:orphan	_
 18	can	_	Word	Word	_	6	orphan	6:orphan	_
 19	,	_	Punctuation	Punctuation	_	8	punct	8:punct	_
-20	my	_	Word	Word	_	22	E	22:E	_
+20	my	_	Word	Word	_	22	E	22:E|27:E|30:E	_
 21	traveling	_	Word	Word	_	22	E	22:E	_
 22	kit	_	Word	Word	_	6	orphan	6:orphan	_
 23	,	_	Punctuation	Punctuation	_	22	punct	22:punct	_

@@ -1,7 +1,6 @@
 # format = ucca
 # sent_id = 978001
 # text = Our voyage was proceeding under the most favorable conditions .
-# doc_id = 
 1	Our	_	Word	Word	_	2	E	2:E	_
 2	voyage	_	Word	Word	_	0	root	0:root	_
 3	was	_	Word	Word	_	4	F	4:F	_

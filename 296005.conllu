@@ -1,7 +1,6 @@
 # format = ucca
 # sent_id = 296005
 # text = " But soon , pinned to the wall , I had to explain myself straight out .
-# doc_id = 
 1	"	_	Punctuation	Punctuation	_	13	punct	13:punct	_
 2	But	_	Word	Word	_	13	L	13:L	_
 3	soon	_	Word	Word	_	13	T	13:T	_

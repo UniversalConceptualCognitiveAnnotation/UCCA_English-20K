@@ -1,7 +1,6 @@
 # format = ucca
 # sent_id = 972001
 # text = Indeed , were we likely to encounter the narwhale in such a cramped strait ?
-# doc_id = 
 1	Indeed	_	Word	Word	_	7	L	7:L	_
 2	,	_	Punctuation	Punctuation	_	7	punct	7:punct	_
 3	were	_	Word	Word	_	7	F	7:F	_

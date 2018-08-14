@@ -1,7 +1,6 @@
 # format = ucca
 # sent_id = 58002
 # text = Fortunately this compartment did n't contain the boilers , because their furnaces would have been abruptly extinguished .
-# doc_id = 
 1	Fortunately	_	Word	Word	_	6	G	6:G	_
 2	this	_	Word	Word	_	3	E	3:E	_
 3	compartment	_	Word	Word	_	0	root	0:root	_

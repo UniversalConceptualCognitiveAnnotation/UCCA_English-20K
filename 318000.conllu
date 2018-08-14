@@ -1,7 +1,6 @@
 # format = ucca
 # sent_id = 318000
 # text = Pierre Aronnax Professor at the Paris Museum Fifth Avenue Hotel New York
-# doc_id = 
 1	Pierre	_	Word	Word	_	0	root	0:root	_
 2	Aronnax	_	Word	Word	_	1	flat	1:flat	_
 3	Professor	_	Word	Word	_	1	flat	1:flat	_

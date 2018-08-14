@@ -1,7 +1,6 @@
 # format = ucca
 # sent_id = 293001
 # text = Since the public interest was at stake and transoceanic travel was suffering , the sincerity of these governments could not be doubted .
-# doc_id = 
 1	Since	_	Word	Word	_	6	L	6:L	_
 2	the	_	Word	Word	_	4	E	4:E	_
 3	public	_	Word	Word	_	4	D	4:D	_

@@ -1,7 +1,6 @@
 # format = ucca
 # sent_id = 825002
 # text = There was good reason to stop and think , even for the world 's most emotionless man .
-# doc_id = 
 1	There	_	Word	Word	_	6	F	6:F	_
 2	was	_	Word	Word	_	6	F	6:F	_
 3	good	_	Word	Word	_	6	D	6:D	_

@@ -1,7 +1,6 @@
 # format = ucca
 # sent_id = 52000
 # text = No one is unaware of the name of that famous English shipowner , Cunard .
-# doc_id = 
 1	No	_	Word	Word	_	4	A	4:A	_
 2	one	_	Word	Word	_	1	flat	1:flat	_
 3	is	_	Word	Word	_	4	F	4:F	_

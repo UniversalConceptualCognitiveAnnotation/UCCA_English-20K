@@ -1,7 +1,6 @@
 # format = ucca
 # sent_id = 887000
 # text = Ned Land was about forty years old .
-# doc_id = 
 1	Ned	_	Word	Word	_	7	A	7:A	_
 2	Land	_	Word	Word	_	1	flat	1:flat	_
 3	was	_	Word	Word	_	7	F	7:F	_

@@ -1,7 +1,6 @@
 # format = ucca
 # sent_id = 59002
 # text = Such a leak could not be patched , and with its paddle wheels half swamped , the Scotia had no choice but to continue its voyage .
-# doc_id = 
 1	Such	_	Word	Word	_	3	E	3:E	_
 2	a	_	Word	Word	_	3	E	3:E	_
 3	leak	_	Word	Word	_	0	root	0:root	_

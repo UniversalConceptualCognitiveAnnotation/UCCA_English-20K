@@ -1,7 +1,6 @@
 # format = ucca
 # sent_id = 839000
 # text = Just then Commander Farragut was giving orders to cast off the last moorings holding the Abraham Lincoln to its Brooklyn pier .
-# doc_id = 
 1	Just	_	Word	Word	_	2	E	2:E	_
 2	then	_	Word	Word	_	0	root	0:root	_
 3	Commander	_	Word	Word	_	4	E	4:E	_

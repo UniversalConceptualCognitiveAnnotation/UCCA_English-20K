@@ -1,7 +1,6 @@
 # format = ucca
 # sent_id = 822000
 # text = The lad was thirty years old , and his age to that of his employer was as fifteen is to twenty .
-# doc_id = 
 1	The	_	Word	Word	_	2	E	2:E	_
 2	lad	_	Word	Word	_	0	root	0:root	_
 3	was	_	Word	Word	_	6	F	6:F	_

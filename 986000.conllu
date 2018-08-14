@@ -1,7 +1,6 @@
 # format = ucca
 # sent_id = 986000
 # text = With typical human fickleness , they jumped from one extreme to the other .
-# doc_id = 
 1	With	_	Word	Word	_	4	R	4:R	_
 2	typical	_	Word	Word	_	4	E	4:E	_
 3	human	_	Word	Word	_	4	E	4:E	_

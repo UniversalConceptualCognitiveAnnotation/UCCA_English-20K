@@ -1,7 +1,6 @@
 # format = ucca
 # sent_id = 890002
 # text = His tales took on the form of an epic poem , and I felt I was hearing some Canadian Homer reciting his Iliad of the High Arctic regions .
-# doc_id = 
 1	His	_	Word	Word	_	2	E	2:E	_
 2	tales	_	Word	Word	_	0	root	0:root	_
 3	took	_	Word	Word	_	2	orphan	2:orphan	_

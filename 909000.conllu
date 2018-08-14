@@ -1,7 +1,6 @@
 # format = ucca
 # sent_id = 909000
 # text = Now , for all the reasons put forward to this point , I believed that this animal was a member of the branch Vertebrata , class Mammalia , group Pisciforma , and finally , order Cetacea .
-# doc_id = 
 1	Now	_	Word	Word	_	14	L	14:L	_
 2	,	_	Punctuation	Punctuation	_	14	punct	14:punct	_
 3	for	_	Word	Word	_	6	R	6:R	_
@@ -22,8 +21,8 @@
 18	was	_	Word	Word	_	20	F	20:F	_
 19	a	_	Word	Word	_	20	E	20:E	_
 20	member	_	Word	Word	_	6	orphan	6:orphan	_
-21	of	_	Word	Word	_	24	R	24:R	_
-22	the	_	Word	Word	_	23	E	23:E	_
+21	of	_	Word	Word	_	24	R	24:R|27:R|36:R|30:R	_
+22	the	_	Word	Word	_	23	E	23:E|26:E|35:E|29:E	_
 23	branch	_	Word	Word	_	6	orphan	6:orphan	_
 24	Vertebrata	_	Word	Word	_	6	orphan	6:orphan	_
 25	,	_	Punctuation	Punctuation	_	24	punct	24:punct	_

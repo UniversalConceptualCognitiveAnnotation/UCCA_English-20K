@@ -1,7 +1,6 @@
 # format = ucca
 # sent_id = 841001
 # text = " Aye , sir , " the engineer replied .
-# doc_id = 
 1	"	_	Punctuation	Punctuation	_	9	punct	9:punct	_
 2	Aye	_	Word	Word	_	0	root	0:root	_
 3	,	_	Punctuation	Punctuation	_	2	punct	2:punct	_

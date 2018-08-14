@@ -1,7 +1,6 @@
 # format = ucca
 # sent_id = 52001
 # text = In 1840 this shrewd industrialist founded a postal service between Liverpool and Halifax , featuring three wooden ships with 400 - horsepower paddle wheels and a burden of 1,162 metric tons .
-# doc_id = 
 1	In	_	Word	Word	_	2	R	2:R	_
 2	1840	_	Word	Word	_	0	root	0:root	_
 3	this	_	Word	Word	_	5	E	5:E	_
@@ -20,7 +19,7 @@
 16	three	_	Word	Word	_	18	E	18:E	_
 17	wooden	_	Word	Word	_	18	E	18:E	_
 18	ships	_	Word	Word	_	2	orphan	2:orphan	_
-19	with	_	Word	Word	_	24	R	24:R	_
+19	with	_	Word	Word	_	24	R	24:R|27:R	_
 20	400	_	Word	Word	_	22	E	22:E	_
 21	-	_	Punctuation	Punctuation	_	22	punct	22:punct	_
 22	horsepower	_	Word	Word	_	2	orphan	2:orphan	_

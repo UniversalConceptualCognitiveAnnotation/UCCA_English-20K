@@ -1,7 +1,6 @@
 # format = ucca
 # sent_id = 311002
 # text = I repeat : opinion had crystallized as to the nature of this phenomenon , and the public accepted without argument the existence of a prodigious creature that had nothing in common with the fabled sea serpent .
-# doc_id = 
 1	I	_	Word	Word	_	2	A	2:A	_
 2	repeat	_	Word	Word	_	0	root	0:root	_
 3	:	_	Punctuation	Punctuation	_	2	punct	2:punct	_

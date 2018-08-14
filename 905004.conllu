@@ -1,10 +1,9 @@
 # format = ucca
 # sent_id = 905004
 # text = " " Without your noticing it . And if you are n't crushed by so much pressure , it 's because the air penetrates the interior of your body with equal pressure . When the inside and outside pressures are in perfect balance , they neutralize each other and allow you to tolerate them without discomfort . But in the water it 's another story .
-# doc_id = 
 1	"	_	Punctuation	Punctuation	_	5	punct	5:punct	_
 2	"	_	Punctuation	Punctuation	_	5	punct	5:punct	_
-3	Without	_	Word	Word	_	5	L	5:L	_
+3	Without	_	Word	Word	_	5	L	5:L|5:D	_
 4	your	_	Word	Word	_	5	A	5:A	_
 5	noticing	_	Word	Word	_	0	root	0:root	_
 6	it	_	Word	Word	_	5	A	5:A	_
@@ -52,11 +51,11 @@
 48	other	_	Word	Word	_	47	flat	47:flat	_
 49	and	_	Word	Word	_	5	L	5:L	_
 50	allow	_	Word	Word	_	53	D	53:D	_
-51	you	_	Word	Word	_	53	A	53:A	_
+51	you	_	Word	Word	_	53	A	53:A|56:A	_
 52	to	_	Word	Word	_	53	F	53:F	_
 53	tolerate	_	Word	Word	_	5	orphan	5:orphan	_
 54	them	_	Word	Word	_	53	A	53:A	_
-55	without	_	Word	Word	_	5	L	5:L	_
+55	without	_	Word	Word	_	5	L	5:L|56:D	_
 56	discomfort	_	Word	Word	_	5	orphan	5:orphan	_
 57	.	_	Punctuation	Punctuation	_	5	punct	5:punct	_
 58	But	_	Word	Word	_	5	L	5:L	_

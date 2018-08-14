@@ -1,7 +1,6 @@
 # format = ucca
 # sent_id = 976007
 # text = I stared ; I stared until I nearly went blind from a worn-out retina , while Conseil , as stoic as ever , kept repeating to me in a calm tone : " If master 's eyes would kindly stop bulging , master will see farther ! "
-# doc_id = 
 1	I	_	Word	Word	_	2	A	2:A	_
 2	stared	_	Word	Word	_	0	root	0:root	_
 3	;	_	Punctuation	Punctuation	_	2	punct	2:punct	_

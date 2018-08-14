@@ -1,7 +1,6 @@
 # format = ucca
 # sent_id = 998002
 # text = It was Ned Land 's voice , and it shouted : " Ahoy ! There 's the thing in question , abreast of us to leeward ! "
-# doc_id = 
 1	It	_	Word	Word	_	2	A	2:A	_
 2	was	_	Word	Word	_	0	root	0:root	_
 3	Ned	_	Word	Word	_	2	orphan	2:orphan	_

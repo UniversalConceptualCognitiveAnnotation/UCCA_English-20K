@@ -1,7 +1,6 @@
 # format = ucca
 # sent_id = 310001
 # text = It rallied a number of supporters .
-# doc_id = 
 1	It	_	Word	Word	_	2	A	2:A	_
 2	rallied	_	Word	Word	_	0	root	0:root	_
 3	a	_	Word	Word	_	4	E	4:E	_

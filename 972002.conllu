@@ -1,7 +1,6 @@
 # format = ucca
 # sent_id = 972002
 # text = Many of our sailors swore that the monster could n't negotiate this passageway simply because " he 's too big for it ! "
-# doc_id = 
 1	Many	_	Word	Word	_	0	root	0:root	_
 2	of	_	Word	Word	_	1	R	1:R	_
 3	our	_	Word	Word	_	4	E	4:E	_

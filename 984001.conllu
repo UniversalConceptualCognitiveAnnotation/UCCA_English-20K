@@ -1,7 +1,6 @@
 # format = ucca
 # sent_id = 984001
 # text = For three months , during which each day seemed like a century , the Abraham Lincoln plowed all the northerly seas of the Pacific , racing after whales sighted , abruptly veering off course , swerving sharply from one tack to another , stopping suddenly , putting on steam and reversing engines in quick succession , at the risk of stripping its gears , and it did n't leave a single point unexplored from the beaches of Japan to the coasts of America .
-# doc_id = 
 1	For	_	Word	Word	_	3	R	3:R	_
 2	three	_	Word	Word	_	3	E	3:E	_
 3	months	_	Word	Word	_	0	root	0:root	_

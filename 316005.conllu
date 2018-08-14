@@ -1,12 +1,11 @@
 # format = ucca
 # sent_id = 316005
 # text = To cast off , he needed only to fire and stoke his furnaces !
-# doc_id = 
 1	To	_	Word	Word	_	2	L	2:L	_
 2	cast	_	Word	Word	_	0	root	0:root	_
 3	off	_	Word	Word	_	2	flat	2:flat	_
 4	,	_	Punctuation	Punctuation	_	2	punct	2:punct	_
-5	he	_	Word	Word	_	9	A	9:A	_
+5	he	_	Word	Word	_	9	A	9:A|2:A	_
 6	needed	_	Word	Word	_	9	D	9:D	_
 7	only	_	Word	Word	_	9	D	9:D	_
 8	to	_	Word	Word	_	9	F	9:F	_

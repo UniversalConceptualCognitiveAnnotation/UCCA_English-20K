@@ -1,7 +1,6 @@
 # format = ucca
 # sent_id = 826011
 # text = " " Then we are n't returning to Paris ? " Conseil asked .
-# doc_id = 
 1	"	_	Punctuation	Punctuation	_	13	punct	13:punct	_
 2	"	_	Punctuation	Punctuation	_	13	punct	13:punct	_
 3	Then	_	Word	Word	_	7	L	7:L	_

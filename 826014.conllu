@@ -1,7 +1,6 @@
 # format = ucca
 # sent_id = 826014
 # text = " " Oh , it 's nothing really ! A route slightly less direct , that 's all . We 're leaving on the Abraham Lincoln .
-# doc_id = 
 1	"	_	Punctuation	Punctuation	_	7	punct	7:punct	_
 2	"	_	Punctuation	Punctuation	_	7	punct	7:punct	_
 3	Oh	_	Word	Word	_	7	F	7:F	_

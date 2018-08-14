@@ -1,7 +1,6 @@
 # format = ucca
 # sent_id = 899000
 # text = " Even so , Ned , people mention vessels that narwhale tusks have run clean through .
-# doc_id = 
 1	"	_	Punctuation	Punctuation	_	8	punct	8:punct	_
 2	Even	_	Word	Word	_	8	L	8:L	_
 3	so	_	Word	Word	_	2	flat	2:flat	_

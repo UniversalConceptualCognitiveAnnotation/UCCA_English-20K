@@ -1,7 +1,6 @@
 # format = ucca
 # sent_id = 992001
 # text = The shores of Japan were less than 200 miles to our leeward .
-# doc_id = 
 1	The	_	Word	Word	_	2	E	2:E	_
 2	shores	_	Word	Word	_	0	root	0:root	_
 3	of	_	Word	Word	_	4	R	4:R	_

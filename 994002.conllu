@@ -1,7 +1,6 @@
 # format = ucca
 # sent_id = 994002
 # text = Perhaps his nerves were twitching with curiosity for the first time in history .
-# doc_id = 
 1	Perhaps	_	Word	Word	_	5	D	5:D	_
 2	his	_	Word	Word	_	3	E	3:E	_
 3	nerves	_	Word	Word	_	0	root	0:root	_

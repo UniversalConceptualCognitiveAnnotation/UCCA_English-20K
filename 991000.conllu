@@ -1,7 +1,6 @@
 # format = ucca
 # sent_id = 991000
 # text = At noon the next day , November 5 , the agreed-upon delay expired .
-# doc_id = 
 1	At	_	Word	Word	_	2	R	2:R	_
 2	noon	_	Word	Word	_	0	root	0:root	_
 3	the	_	Word	Word	_	5	E	5:E	_

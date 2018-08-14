@@ -1,7 +1,6 @@
 # format = ucca
 # sent_id = 903001
 # text = " Oh really , and I can prove it to you with a few simple figures . "
-# doc_id = 
 1	"	_	Punctuation	Punctuation	_	3	punct	3:punct	_
 2	Oh	_	Word	Word	_	3	F	3:F	_
 3	really	_	Word	Word	_	0	root	0:root	_

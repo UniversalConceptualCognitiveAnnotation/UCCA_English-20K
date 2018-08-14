@@ -1,7 +1,6 @@
 # format = ucca
 # sent_id = 976005
 # text = The cowls over the companionways would vomit a torrent of sailors and officers .
-# doc_id = 
 1	The	_	Word	Word	_	2	E	2:E	_
 2	cowls	_	Word	Word	_	0	root	0:root	_
 3	over	_	Word	Word	_	5	R	5:R	_

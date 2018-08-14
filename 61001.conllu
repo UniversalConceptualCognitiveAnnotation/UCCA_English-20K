@@ -1,7 +1,6 @@
 # format = ucca
 # sent_id = 61001
 # text = Indeed , from this moment on , any maritime casualty without an established cause was charged to the monster 's account .
-# doc_id = 
 1	Indeed	_	Word	Word	_	16	L	16:L	_
 2	,	_	Punctuation	Punctuation	_	16	punct	16:punct	_
 3	from	_	Word	Word	_	5	R	5:R	_

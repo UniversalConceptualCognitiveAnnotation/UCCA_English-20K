@@ -1,7 +1,6 @@
 # format = ucca
 # sent_id = 51000
 # text = This occurrence , extremely serious in itself , might perhaps have been forgotten like so many others , if three weeks later it had n't been reenacted under identical conditions .
-# doc_id = 
 1	This	_	Word	Word	_	2	E	2:E	_
 2	occurrence	_	Word	Word	_	0	root	0:root	_
 3	,	_	Punctuation	Punctuation	_	2	punct	2:punct	_

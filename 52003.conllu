@@ -1,7 +1,6 @@
 # format = ucca
 # sent_id = 52003
 # text = In 1853 the Cunard Co . , whose mail - carrying charter had just been renewed , successively added to its assets the Arabia , the Persia , the China , the Scotia , the Java , and the Russia , all ships of top speed and , after the Great Eastern , the biggest ever to plow the seas .
-# doc_id = 
 1	In	_	Word	Word	_	2	R	2:R	_
 2	1853	_	Word	Word	_	0	root	0:root	_
 3	the	_	Word	Word	_	4	E	4:E	_

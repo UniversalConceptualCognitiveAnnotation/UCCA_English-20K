@@ -1,7 +1,6 @@
 # format = ucca
 # sent_id = 62000
 # text = Now then , justly or unjustly , it was the " monster " who stood accused of their disappearance ; and since , thanks to it , travel between the various continents had become more and more dangerous , the public spoke up and demanded straight out that , at all cost , the seas be purged of this fearsome cetacean .
-# doc_id = 
 1	Now	_	Word	Word	_	15	L	15:L	_
 2	then	_	Word	Word	_	1	flat	1:flat	_
 3	,	_	Punctuation	Punctuation	_	15	punct	15:punct	_

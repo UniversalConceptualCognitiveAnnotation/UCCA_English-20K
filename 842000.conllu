@@ -1,7 +1,6 @@
 # format = ucca
 # sent_id = 842000
 # text = At this order , which was relayed to the engine by means of a compressed - air device , the mechanics activated the start - up wheel .
-# doc_id = 
 1	At	_	Word	Word	_	3	R	3:R	_
 2	this	_	Word	Word	_	3	E	3:E	_
 3	order	_	Word	Word	_	0	root	0:root	_

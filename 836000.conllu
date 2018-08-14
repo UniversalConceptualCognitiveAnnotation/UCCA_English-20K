@@ -1,7 +1,6 @@
 # format = ucca
 # sent_id = 836000
 # text = The frigate 's interior accommodations complemented its nautical virtues .
-# doc_id = 
 1	The	_	Word	Word	_	2	E	2:E	_
 2	frigate	_	Word	Word	_	0	root	0:root	_
 3	's	_	Word	Word	_	2	R	2:R	_

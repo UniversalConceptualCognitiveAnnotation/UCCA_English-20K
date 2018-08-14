@@ -1,7 +1,6 @@
 # format = ucca
 # sent_id = 826012
 # text = " Yes , we are . . . certainly . . . , " I replied evasively , " but after we make a detour .
-# doc_id = 
 1	"	_	Punctuation	Punctuation	_	4	punct	4:punct	_
 2	Yes	_	Word	Word	_	4	D	4:D	_
 3	,	_	Punctuation	Punctuation	_	4	punct	4:punct	_

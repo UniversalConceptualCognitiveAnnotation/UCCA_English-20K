@@ -1,7 +1,6 @@
 # format = ucca
 # sent_id = 892000
 # text = And now , what were Ned Land 's views on this question of a marine monster ?
-# doc_id = 
 1	And	_	Word	Word	_	9	L	9:L	_
 2	now	_	Word	Word	_	1	flat	1:flat	_
 3	,	_	Punctuation	Punctuation	_	9	punct	9:punct	_

@@ -1,7 +1,6 @@
 # format = ucca
 # sent_id = 985003
 # text = The crew called themselves "out-and-out fools " for being hoodwinked by a fairy tale , then grew steadily more furious !
-# doc_id = 
 1	The	_	Word	Word	_	2	E	2:E	_
 2	crew	_	Word	Word	_	0	root	0:root	_
 3	called	_	Word	Word	_	2	orphan	2:orphan	_

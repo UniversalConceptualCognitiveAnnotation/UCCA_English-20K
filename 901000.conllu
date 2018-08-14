@@ -1,7 +1,6 @@
 # format = ucca
 # sent_id = 901000
 # text = " Humph ! " the harpooner put in , shaking his head with the attitude of a man who does n't want to be convinced .
-# doc_id = 
 1	"	_	Punctuation	Punctuation	_	7	punct	7:punct	_
 2	Humph	_	Word	Word	_	7	A	7:A	_
 3	!	_	Punctuation	Punctuation	_	7	punct	7:punct	_

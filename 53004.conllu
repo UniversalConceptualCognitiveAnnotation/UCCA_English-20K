@@ -1,7 +1,6 @@
 # format = ucca
 # sent_id = 53004
 # text = Given this , no one will be astonished at the uproar provoked by this accident involving one of its finest steamers .
-# doc_id = 
 1	Given	_	Word	Word	_	2	E	2:E	_
 2	this	_	Word	Word	_	0	root	0:root	_
 3	,	_	Punctuation	Punctuation	_	8	punct	8:punct	_

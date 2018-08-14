@@ -1,7 +1,6 @@
 # format = ucca
 # sent_id = 977000
 # text = But what a waste of energy !
-# doc_id = 
 1	But	_	Word	Word	_	4	L	4:L	_
 2	what	_	Word	Word	_	4	D	4:D	_
 3	a	_	Word	Word	_	4	E	4:E	_

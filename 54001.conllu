@@ -1,7 +1,6 @@
 # format = ucca
 # sent_id = 54001
 # text = Its paddle wheels were churning the sea with perfect steadiness .
-# doc_id = 
 1	Its	_	Word	Word	_	3	E	3:E	_
 2	paddle	_	Word	Word	_	3	E	3:E	_
 3	wheels	_	Word	Word	_	0	root	0:root	_

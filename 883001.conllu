@@ -1,7 +1,6 @@
 # format = ucca
 # sent_id = 883001
 # text = Our frigate would have had fivescore good reasons for renaming itself the Argus , after that mythological beast with 100 eyes !
-# doc_id = 
 1	Our	_	Word	Word	_	2	E	2:E	_
 2	frigate	_	Word	Word	_	0	root	0:root	_
 3	would	_	Word	Word	_	8	D	8:D	_

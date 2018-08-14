@@ -1,7 +1,6 @@
 # format = ucca
 # sent_id = 60003
 # text = This breach in the sheet iron was so perfectly formed , no punch could have done a cleaner job of it .
-# doc_id = 
 1	This	_	Word	Word	_	2	E	2:E	_
 2	breach	_	Word	Word	_	0	root	0:root	_
 3	in	_	Word	Word	_	6	R	6:R	_

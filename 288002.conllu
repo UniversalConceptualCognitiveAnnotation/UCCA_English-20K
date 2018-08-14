@@ -1,7 +1,6 @@
 # format = ucca
 # sent_id = 288002
 # text = And indeed , unless this reef had an engine in its belly , how could it move about with such prodigious speed ?
-# doc_id = 
 1	And	_	Word	Word	_	7	L	7:L	_
 2	indeed	_	Word	Word	_	7	L	7:L	_
 3	,	_	Punctuation	Punctuation	_	7	punct	7:punct	_

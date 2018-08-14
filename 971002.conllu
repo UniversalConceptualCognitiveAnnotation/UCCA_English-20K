@@ -1,7 +1,6 @@
 # format = ucca
 # sent_id = 971002
 # text = But Commander Farragut was unwilling to attempt this tortuous passageway and maneuvered instead to double Cape Horn .
-# doc_id = 
 1	But	_	Word	Word	_	7	L	7:L	_
 2	Commander	_	Word	Word	_	3	E	3:E	_
 3	Farragut	_	Word	Word	_	0	root	0:root	_

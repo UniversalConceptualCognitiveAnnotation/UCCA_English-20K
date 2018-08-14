@@ -1,7 +1,6 @@
 # format = ucca
 # sent_id = 53003
 # text = Accordingly , despite strong competition from France , passengers still choose the Cunard line in preference to all others , as can be seen in a recent survey of official documents .
-# doc_id = 
 1	Accordingly	_	Word	Word	_	5	L	5:L	_
 2	,	_	Punctuation	Punctuation	_	5	punct	5:punct	_
 3	despite	_	Word	Word	_	5	L	5:L	_

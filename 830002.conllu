@@ -1,7 +1,6 @@
 # format = ucca
 # sent_id = 830002
 # text = I settled my bill at that huge counter that was always under siege by a considerable crowd .
-# doc_id = 
 1	I	_	Word	Word	_	2	A	2:A	_
 2	settled	_	Word	Word	_	0	root	0:root	_
 3	my	_	Word	Word	_	4	E	4:E	_

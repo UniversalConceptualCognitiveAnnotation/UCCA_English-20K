@@ -1,7 +1,6 @@
 # format = ucca
 # sent_id = 890000
 # text = Little by little Ned developed a taste for chatting , and I loved hearing the tales of his adventures in the polar seas .
-# doc_id = 
 1	Little	_	Word	Word	_	0	root	0:root	_
 2	by	_	Word	Word	_	1	R	1:R	_
 3	little	_	Word	Word	_	1	C	1:C	_

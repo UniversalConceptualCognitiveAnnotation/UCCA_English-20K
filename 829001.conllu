@@ -1,7 +1,6 @@
 # format = ucca
 # sent_id = 829001
 # text = Conseil did them in a flash , and I was sure the lad had n't missed a thing , because he classified shirts and suits as expertly as birds and mammals .
-# doc_id = 
 1	Conseil	_	Word	Word	_	2	A	2:A	_
 2	did	_	Word	Word	_	0	root	0:root	_
 3	them	_	Word	Word	_	2	A	2:A	_
@@ -28,7 +27,7 @@
 24	and	_	Word	Word	_	23	N	23:N	_
 25	suits	_	Word	Word	_	23	C	23:C	_
 26	as	_	Word	Word	_	29	F	29:F	_
-27	expertly	_	Word	Word	_	29	D	29:D	_
+27	expertly	_	Word	Word	_	29	D	29:D|22:D	_
 28	as	_	Word	Word	_	29	F	29:F	_
 29	birds	_	Word	Word	_	2	orphan	2:orphan	_
 30	and	_	Word	Word	_	29	N	29:N	_

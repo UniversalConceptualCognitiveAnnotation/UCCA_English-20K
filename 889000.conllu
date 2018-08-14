@@ -1,7 +1,6 @@
 # format = ucca
 # sent_id = 889000
 # text = To say Canadian is to say French , and as unsociable as Ned Land was , I must admit he took a definite liking to me .
-# doc_id = 
 1	To	_	Word	Word	_	2	F	2:F	_
 2	say	_	Word	Word	_	0	root	0:root	_
 3	Canadian	_	Word	Word	_	2	A	2:A	_

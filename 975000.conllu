@@ -1,7 +1,6 @@
 # format = ucca
 # sent_id = 975000
 # text = And they opened amazingly wide .
-# doc_id = 
 1	And	_	Word	Word	_	3	L	3:L	_
 2	they	_	Word	Word	_	3	A	3:A	_
 3	opened	_	Word	Word	_	0	root	0:root	_

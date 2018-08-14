@@ -1,7 +1,6 @@
 # format = ucca
 # sent_id = 835000
 # text = The Abraham Lincoln had been perfectly chosen and fitted out for its new assignment .
-# doc_id = 
 1	The	_	Word	Word	_	2	E	2:E	_
 2	Abraham	_	Word	Word	_	0	root	0:root	_
 3	Lincoln	_	Word	Word	_	2	flat	2:flat	_

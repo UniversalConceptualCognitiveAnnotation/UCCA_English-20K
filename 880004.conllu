@@ -1,7 +1,6 @@
 # format = ucca
 # sent_id = 880004
 # text = He believed in it as certain pious women believe in the leviathan from the Book of Job - out of faith , not reason .
-# doc_id = 
 1	He	_	Word	Word	_	2	A	2:A	_
 2	believed	_	Word	Word	_	0	root	0:root	_
 3	in	_	Word	Word	_	4	R	4:R	_

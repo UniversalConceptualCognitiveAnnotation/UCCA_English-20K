@@ -1,7 +1,6 @@
 # format = ucca
 # sent_id = 904003
 # text = Let 's accept that the pressure of one atmosphere is represented by the pressure of a column of water thirty-two feet high .
-# doc_id = 
 1	Let	_	Word	Word	_	3	D	3:D	_
 2	's	_	Word	Word	_	3	A	3:A	_
 3	accept	_	Word	Word	_	0	root	0:root	_

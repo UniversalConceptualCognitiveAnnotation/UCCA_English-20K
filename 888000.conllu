@@ -1,7 +1,6 @@
 # format = ucca
 # sent_id = 888000
 # text = Commander Farragut , to my thinking , had made a wise move in hiring on this man .
-# doc_id = 
 1	Commander	_	Word	Word	_	2	E	2:E	_
 2	Farragut	_	Word	Word	_	0	root	0:root	_
 3	,	_	Punctuation	Punctuation	_	12	punct	12:punct	_

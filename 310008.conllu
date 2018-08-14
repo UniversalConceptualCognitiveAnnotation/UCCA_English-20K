@@ -1,7 +1,6 @@
 # format = ucca
 # sent_id = 310008
 # text = Our Creator cast them using a colossal mold that time has gradually made smaller .
-# doc_id = 
 1	Our	_	Word	Word	_	2	E	2:E	_
 2	Creator	_	Word	Word	_	0	root	0:root	_
 3	cast	_	Word	Word	_	2	orphan	2:orphan	_

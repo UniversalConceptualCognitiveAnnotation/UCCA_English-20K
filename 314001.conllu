@@ -1,7 +1,6 @@
 # format = ucca
 # sent_id = 314001
 # text = For two months nobody heard a word about it .
-# doc_id = 
 1	For	_	Word	Word	_	3	R	3:R	_
 2	two	_	Word	Word	_	3	E	3:E	_
 3	months	_	Word	Word	_	0	root	0:root	_

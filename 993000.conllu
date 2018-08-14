@@ -1,10 +1,9 @@
 # format = ucca
 # sent_id = 993000
 # text = Just then I was in the bow , leaning over the starboard rail .
-# doc_id = 
 1	Just	_	Word	Word	_	4	L	4:L	_
 2	then	_	Word	Word	_	1	flat	1:flat	_
-3	I	_	Word	Word	_	4	A	4:A	_
+3	I	_	Word	Word	_	4	A	4:A|9:A	_
 4	was	_	Word	Word	_	0	root	0:root	_
 5	in	_	Word	Word	_	7	R	7:R	_
 6	the	_	Word	Word	_	7	E	7:E	_

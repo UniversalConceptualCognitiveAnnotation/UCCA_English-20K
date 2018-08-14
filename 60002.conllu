@@ -1,7 +1,6 @@
 # format = ucca
 # sent_id = 60002
 # text = Two and a half meters below its waterline , there gaped a symmetrical gash in the shape of an isosceles triangle .
-# doc_id = 
 1	Two	_	Word	Word	_	0	root	0:root	_
 2	and	_	Word	Word	_	1	N	1:N	_
 3	a	_	Word	Word	_	4	E	4:E	_

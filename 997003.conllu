@@ -1,7 +1,6 @@
 # format = ucca
 # sent_id = 997003
 # text = " " Well then , it will serve master right !
-# doc_id = 
 1	"	_	Punctuation	Punctuation	_	8	punct	8:punct	_
 2	"	_	Punctuation	Punctuation	_	8	punct	8:punct	_
 3	Well	_	Word	Word	_	8	L	8:L	_
