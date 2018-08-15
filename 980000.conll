@@ -86,9 +86,9 @@
 83	's	_	Word	Word	_	82	R	_	_
 84	personality	_	Word	Word	_	79	A	_	_
 85	,	_	Punctuation	Punctuation	_	2	U	_	_
-86	it	_	Word	Word	_	89	A	_	_
 86	it	_	Word	Word	_	87	A	_	_
 86	it	_	Word	Word	_	91	A	_	_
+86	it	_	Word	Word	_	89	A	_	_
 87	hates	_	Word	Word	_	2	H	_	_
 88	growing	_	Word	Word	_	89	D	_	_
 89	moldy	_	Word	Word	_	87	A	_	_
@@ -147,8 +147,8 @@
 141	move	_	Word	Word	_	139	E	_	_
 142	swiftly	_	Word	Word	_	141	D	_	_
 143	if	_	Word	Word	_	2	L	_	_
-144	it	_	Word	Word	_	150	A	_	_
 144	it	_	Word	Word	_	148	A	_	_
+144	it	_	Word	Word	_	150	A	_	_
 145	had	_	Word	Word	_	148	F	_	_
 146	n't	_	Word	Word	_	148	D	_	_
 147	a	_	Word	Word	_	148	E	_	_

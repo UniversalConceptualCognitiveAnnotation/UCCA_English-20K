@@ -6,8 +6,8 @@
 4	,	_	Punctuation	Punctuation	_	2	U	_	_
 5	1867	_	Word	Word	_	2	Terminal	_	_
 6	,	_	Punctuation	Punctuation	_	18	U	_	_
-7	with	_	Word	Word	_	14	R	_	_
 7	with	_	Word	Word	_	10	R	_	_
+7	with	_	Word	Word	_	14	R	_	_
 8	a	_	Word	Word	_	10	E	_	_
 9	smooth	_	Word	Word	_	10	E	_	_
 10	sea	_	Word	Word	_	18	A	_	_
@@ -19,8 +19,8 @@
 16	the	_	Word	Word	_	17	E	_	_
 17	Scotia	_	Word	Word	_	18	A	_	_
 18	lay	_	Word	Word	_	0	ROOT	_	_
-19	in	_	Word	Word	_	27	R	_	_
 19	in	_	Word	Word	_	21	R	_	_
+19	in	_	Word	Word	_	27	R	_	_
 20	longitude	_	Word	Word	_	21	E	_	_
 21	15	_	Word	Word	_	18	A	_	_
 22	12	_	Word	Word	_	21	Terminal	_	_

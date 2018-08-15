@@ -21,8 +21,8 @@
 19	intransigence	_	Word	Word	_	5	H	_	_
 20	,	_	Punctuation	Punctuation	_	5	U	_	_
 21	Commander	_	Word	Word	_	22	E	_	_
-22	Farragut	_	Word	Word	_	33	A	_	_
 22	Farragut	_	Word	Word	_	19	A	_	_
+22	Farragut	_	Word	Word	_	33	A	_	_
 23	,	_	Punctuation	Punctuation	_	5	U	_	_
 24	like	_	Word	Word	_	5	L	_	_
 25	Christopher	_	Word	Word	_	5	H	_	_
@@ -34,8 +34,8 @@
 31	for	_	Word	Word	_	34	R	_	_
 32	a	_	Word	Word	_	34	E	_	_
 33	grace	_	Word	Word	_	34	E	_	_
-34	period	_	Word	Word	_	25	A	_	_
 34	period	_	Word	Word	_	30	A	_	_
+34	period	_	Word	Word	_	25	A	_	_
 35	of	_	Word	Word	_	38	R	_	_
 36	just	_	Word	Word	_	38	E	_	_
 37	three	_	Word	Word	_	38	E	_	_

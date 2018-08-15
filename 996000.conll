@@ -14,8 +14,8 @@
 12	replied	_	Word	Word	_	0	ROOT	_	_
 13	,	_	Punctuation	Punctuation	_	12	U	_	_
 14	"	_	Punctuation	Punctuation	_	12	U	_	_
-15	I	_	Word	Word	_	36	A	_	_
 15	I	_	Word	Word	_	19	A	_	_
+15	I	_	Word	Word	_	36	A	_	_
 16	never	_	Word	Word	_	19	T	_	_
 17	expected	_	Word	Word	_	19	D	_	_
 18	to	_	Word	Word	_	19	F	_	_

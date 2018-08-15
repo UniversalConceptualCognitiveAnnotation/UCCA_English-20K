@@ -23,8 +23,8 @@
 21	it	_	Word	Word	_	20	A	_	_
 22	called	_	Word	Word	_	4	H	_	_
 23	for	_	Word	Word	_	22	Terminal	_	_
-24	harpooning	_	Word	Word	_	32	A	_	_
 24	harpooning	_	Word	Word	_	22	A	_	_
+24	harpooning	_	Word	Word	_	32	A	_	_
 25	it	_	Word	Word	_	24	A	_	_
 26	-	_	Punctuation	Punctuation	_	4	U	_	_
 27	which	_	Word	Word	_	4	L	_	_
@@ -39,8 +39,8 @@
 36	it	_	Word	Word	_	35	A	_	_
 37	called	_	Word	Word	_	4	H	_	_
 38	for	_	Word	Word	_	37	Terminal	_	_
-39	sighting	_	Word	Word	_	47	A	_	_
 39	sighting	_	Word	Word	_	37	A	_	_
+39	sighting	_	Word	Word	_	47	A	_	_
 40	it	_	Word	Word	_	39	A	_	_
 41	-	_	Punctuation	Punctuation	_	4	U	_	_
 42	which	_	Word	Word	_	4	L	_	_
@@ -56,8 +56,8 @@
 52	it	_	Word	Word	_	51	A	_	_
 53	called	_	Word	Word	_	4	H	_	_
 54	for	_	Word	Word	_	53	Terminal	_	_
-55	encountering	_	Word	Word	_	62	A	_	_
 55	encountering	_	Word	Word	_	53	A	_	_
+55	encountering	_	Word	Word	_	62	A	_	_
 56	it	_	Word	Word	_	55	A	_	_
 57	-	_	Punctuation	Punctuation	_	4	U	_	_
 58	which	_	Word	Word	_	4	L	_	_

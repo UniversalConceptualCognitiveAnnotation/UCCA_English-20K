@@ -2,8 +2,8 @@
 # sent_id = 905004
 1	"	_	Punctuation	Punctuation	_	5	U	_	_
 2	"	_	Punctuation	Punctuation	_	5	U	_	_
-3	Without	_	Word	Word	_	5	D	_	_
 3	Without	_	Word	Word	_	5	L	_	_
+3	Without	_	Word	Word	_	5	D	_	_
 4	your	_	Word	Word	_	5	A	_	_
 5	noticing	_	Word	Word	_	0	ROOT	_	_
 6	it	_	Word	Word	_	5	A	_	_
@@ -51,8 +51,8 @@
 48	other	_	Word	Word	_	47	Terminal	_	_
 49	and	_	Word	Word	_	5	L	_	_
 50	allow	_	Word	Word	_	53	D	_	_
-51	you	_	Word	Word	_	56	A	_	_
 51	you	_	Word	Word	_	53	A	_	_
+51	you	_	Word	Word	_	56	A	_	_
 52	to	_	Word	Word	_	53	F	_	_
 53	tolerate	_	Word	Word	_	5	H	_	_
 54	them	_	Word	Word	_	53	A	_	_
