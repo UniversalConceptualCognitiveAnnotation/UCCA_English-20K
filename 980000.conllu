@@ -86,7 +86,7 @@
 83	's	_	Word	Word	_	82	R	82:R	_
 84	personality	_	Word	Word	_	2	orphan	2:orphan	_
 85	,	_	Punctuation	Punctuation	_	2	punct	2:punct	_
-86	it	_	Word	Word	_	87	A	87:A|91:A|89:A	_
+86	it	_	Word	Word	_	87	A	87:A|89:A|91:A	_
 87	hates	_	Word	Word	_	2	orphan	2:orphan	_
 88	growing	_	Word	Word	_	89	D	89:D	_
 89	moldy	_	Word	Word	_	2	orphan	2:orphan	_

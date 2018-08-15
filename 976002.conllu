@@ -14,7 +14,7 @@
 11	the	_	Word	Word	_	12	E	12:E	_
 12	sternrail	_	Word	Word	_	2	orphan	2:orphan	_
 13	,	_	Punctuation	Punctuation	_	9	punct	9:punct	_
-14	I	_	Word	Word	_	16	A	16:A|2:A|9:A	_
+14	I	_	Word	Word	_	16	A	16:A|9:A|2:A	_
 15	eagerly	_	Word	Word	_	16	D	16:D	_
 16	scoured	_	Word	Word	_	2	orphan	2:orphan	_
 17	that	_	Word	Word	_	21	E	21:E	_
