@@ -1,6 +1,7 @@
 # ::id 978002
 # ::tok By then it was the bad season in these southernmost regions , because July in this zone corresponds to our January in Europe ; but the sea remained smooth and easily visible over a vast perimeter .
 # ::alignments 0-1.1.1 1-1.1.2 3-1.2.2 4-1.2.3.1 5-1.2.3.2 6-1.2.3.3 7-1.2.4.1 8-1.2.4.2 9-1.2.4.3 10-1.2.4.4 12-1.3 13-1.4.1.1 14-1.4.1.2.1 15-1.4.1.2.2 16-1.4.1.2.3 17-1.4.2 18-1.4.3.1 19-1.4.3.2 20-1.4.3.3 21-1.4.3.4.1 22-1.4.3.4.2 24-1.5 25-1.6.1.1 26-1.6.1.2 27-1.6.2 28-1.6.3.1 29-1.6.3.2 30-1.6.3.3.1 31-1.6.3.3.2 32-1.6.4.1 33-1.6.4.2 34-1.6.4.3 35-1.6.4.4
+# ::format ucca
 (v1 / label
     :L (v2 / label
            :R (v8 / label~e.0)

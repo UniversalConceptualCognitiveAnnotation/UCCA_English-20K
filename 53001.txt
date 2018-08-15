@@ -1,6 +1,7 @@
 # ::id 53001
 # ::tok No transoceanic navigational undertaking has been conducted with more ability , no business dealings have been crowned with greater success .
 # ::alignments 0-1.1.1 1-1.1.2.1 2-1.1.2.2 3-1.1.2.3 6-1.1.5 7-1.1.6.1 8-1.1.6.2 9-1.1.6.3 11-1.2.1 12-1.2.2.1 13-1.2.2.2 16-1.2.5 17-1.2.6.1 18-1.2.6.2 19-1.2.6.3
+# ::format ucca
 (v1 / label
     :H (v2 / label
            :D (v4 / label~e.0)

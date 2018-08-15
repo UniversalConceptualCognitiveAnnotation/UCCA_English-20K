@@ -1,6 +1,7 @@
 # ::id 833001
 # ::tok " The same , " I replied . " Commander Farragut ? " " In person . Welcome aboard , professor . Your cabin is waiting for you . "
 # ::alignments 1-1.1.1.1.3.1 2-1.1.1.1.3.2 5-1.1.2 6-1.1.3 9-1.1.1.2.3.1 10-1.2.3.1.4 14-1.2.3.1.3.1 15-1.2.3.1.3.2 17-1.2.3.2.1 18-1.2.3.2.2 20-1.2.3.2.3 22-1.2.3.3.1.1 23-1.2.3.3.1.2 25-1.2.3.3.3 26-1.2.3.3.4.1 27-1.2.3.3.4.2
+# ::format ucca
 (v1 / label
     :H (v2 / label
            :A (v4 / label

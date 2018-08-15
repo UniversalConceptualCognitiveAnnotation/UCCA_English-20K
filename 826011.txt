@@ -1,6 +1,7 @@
 # ::id 826011
 # ::tok " " Then we are n't returning to Paris ? " Conseil asked .
 # ::alignments 2-1.1.1.1 3-1.1.1.2.1 5-1.1.1.2.3 6-1.1.1.2.4 7-1.1.1.2.5.1 8-1.1.1.2.5.2 11-1.1.2 12-1.1.3
+# ::format ucca
 (v1 / label
     :H (v2 / label
            :A (v3 / label

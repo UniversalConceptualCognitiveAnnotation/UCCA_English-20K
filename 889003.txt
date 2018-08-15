@@ -1,6 +1,7 @@
 # ::id 889003
 # ::tok The harpooner 's family originated in Quebec , and they were already a line of bold fishermen back in the days when this town still belonged to France .
 # ::alignments 0-1.1.1.1.1 1-1.1.1.1.2 2-1.1.1.1.3 3-1.1.1.2 4-1.1.2 5-1.1.3.1 6-1.1.3.2 8-1.2 9-1.3.1 10-1.3.2 11-1.3.3 12-1.3.4.1 13-1.3.4.2 14-1.3.4.3.1 15-1.3.4.3.2.2 16-1.3.4.3.3 17-1.3.5.1 18-1.3.5.2 19-1.3.5.3 20-1.3.5.4 21-1.3.5.5.2 22-1.3.5.5.3.1 23-1.3.5.5.3.2 24-1.3.5.5.4 25-1.3.5.5.5 26-1.3.5.5.6.1 27-1.3.5.5.6.2
+# ::format ucca
 (v1 / label
     :H (v2 / label
            :A (v5 / label

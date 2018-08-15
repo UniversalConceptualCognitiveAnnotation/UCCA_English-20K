@@ -1,6 +1,7 @@
 # ::id 989000
 # ::tok This promise was given on November 2 .
 # ::alignments 0-1.1.2.1 1-1.1.2.2 3-1.1.4 4-1.1.5.1 5-1.1.5.2 6-1.1.5.2
+# ::format ucca
 (v1 / label
     :H (v2 / label
            :A (v3 / label)

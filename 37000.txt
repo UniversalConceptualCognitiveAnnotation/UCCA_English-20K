@@ -1,6 +1,7 @@
 # ::id 37000
 # ::tok In essence , over a period of time several ships had encountered " an enormous thing " at sea , a long spindle-shaped object , sometimes giving off a phosphorescent glow , infinitely bigger and faster than any whale .
 # ::alignments 0-1.1.1 1-1.1.1 3-1.1.2.1 4-1.1.2.2.1 5-1.1.2.2.2 6-1.1.2.2.3 7-1.1.2.3 8-1.1.3.1 9-1.1.3.2 11-1.1.5 13-1.1.6.1 14-1.1.6.2 15-1.1.6.3 17-1.1.7.1 18-1.1.7.2 20-1.1.6.4.1 21-1.1.6.4.2 22-1.1.6.4.3 23-1.1.6.4.4 25-1.1.6.4.5.2 26-1.1.6.4.5.3 27-1.1.6.4.5.3 28-1.1.6.4.5.4.1 29-1.1.6.4.5.4.2 30-1.1.6.4.5.4.3 32-1.1.6.4.6.2 33-1.1.6.4.6.3.1 34-1.1.6.4.6.3.2 35-1.1.6.4.6.3.3 36-1.1.6.4.6.4.1 37-1.1.6.4.6.4.2 38-1.1.6.4.6.4.3
+# ::format ucca
 (v1 / label
     :H (v2 / label
            :G (v3 / label~e.0,1)

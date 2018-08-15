@@ -1,6 +1,7 @@
 # ::id 990005
 # ::tok But the evening of November 4 arrived with this underwater mystery still unsolved .
 # ::alignments 0-1.1 1-1.2.1.1.1 2-1.2.1.1.2 3-1.2.1.1.3 4-1.2.1.2 5-1.2.1.2 6-1.2.2 7-1.3 8-1.4.2.1 9-1.4.2.2.2 10-1.4.2.3 11-1.4.3 12-1.4.4
+# ::format ucca
 (v1 / label
     :L (v2 / label~e.0)
     :H (v3 / label

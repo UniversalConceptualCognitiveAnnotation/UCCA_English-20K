@@ -1,6 +1,7 @@
 # ::id 969002
 # ::tok Anxious to see Ned Land at work , Commander Farragut authorized him to make his way aboard the Monroe .
 # ::alignments 0-1.1.1.1.2 2-1.1.1.1.4 3-1.1.1.1.5.1 4-1.1.1.1.5.1 5-1.1.1.1.5.2.1 6-1.1.1.1.5.2.2 8-1.1.1.2 9-1.1.1.3 10-1.1.2 11-1.1.3 13-1.1.4.3 14-1.1.4.3 15-1.1.4.3 16-1.1.4.4.1 17-1.1.4.4.2 18-1.1.4.4.3
+# ::format ucca
 (v1 / label
     :H (v2 / label
            :A (v3 / label

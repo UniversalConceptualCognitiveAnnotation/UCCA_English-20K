@@ -1,6 +1,7 @@
 # ::id 821003
 # ::tok He went here , there , and everywhere in perfect contentment .
 # ::alignments 0-1.1.1 1-1.1.2 2-1.1.3.1 4-1.1.3.2 6-1.1.3.3 7-1.1.3.4 8-1.1.4.1 9-1.1.4.2 10-1.1.4.3
+# ::format ucca
 (v1 / label
     :H (v2 / label
            :A (v3 / label~e.0)

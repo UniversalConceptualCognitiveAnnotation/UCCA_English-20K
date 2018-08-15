@@ -1,6 +1,7 @@
 # ::id 316004
 # ::tok Not a crewman was missing from his post .
 # ::alignments 0-1.1.1 1-1.1.2.1 2-1.1.2.2 4-1.1.4 5-1.1.5.1 6-1.1.5.2 7-1.1.5.3
+# ::format ucca
 (v1 / label
     :H (v2 / label
            :D (v3 / label~e.0)

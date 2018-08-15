@@ -1,6 +1,7 @@
 # ::id 56001
 # ::tok This encounter seemed so minor that nobody on board would have been disturbed by it , had it not been for the shouts of crewmen in the hold , who climbed on deck yelling : " We 're sinking ! We 're sinking ! "
 # ::alignments 0-1.1.1.1 1-1.1.1.2 2-1.1.2 3-1.1.3.1 4-1.1.3.2 5-1.2 6-1.3.1 7-1.3.2.1 8-1.3.2.2 9-1.3.3 12-1.3.6 13-1.3.7.1 14-1.3.7.2 16-1.4.1 17-1.4.1 18-1.4.1 19-1.4.1 20-1.4.1 21-1.4.2.1 22-1.4.2.2 23-1.4.3.1 24-1.5.3 25-1.4.3.3.1 26-1.4.3.3.2 27-1.4.3.3.3 29-1.4.3.4.2 30-1.4.3.4.3 31-1.4.3.4.4.1 32-1.4.3.4.4.2 33-1.5.1 36-1.5.2.1.1 38-1.5.2.1.3 40-1.5.2.2.1 42-1.5.2.2.3
+# ::format ucca
 (v1 / label
     :H (v2 / label
            :A (v7 / label

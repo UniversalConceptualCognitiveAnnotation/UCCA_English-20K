@@ -1,6 +1,7 @@
 # ::id 314005
 # ::tok Accordingly , the wags claimed that this slippery rascal had waylaid some passing telegram and was making the most of it .
 # ::alignments 0-1.1 2-1.2.1.1 3-1.2.1.2 4-1.2.2 5-1.2.3.1 6-1.2.3.2.1.1 7-1.2.3.2.1.2 8-1.2.3.4.4 10-1.2.3.2.3 11-1.2.3.2.4.1 12-1.2.3.2.4.2.2 13-1.2.3.2.4.3 14-1.2.3.3 16-1.2.3.4.2 17-1.2.3.4.2 18-1.2.3.4.2 19-1.2.3.4.3.1 20-1.2.3.4.3.2
+# ::format ucca
 (v1 / label
     :L (v2 / label~e.0)
     :H (v3 / label

@@ -1,6 +1,7 @@
 # ::id 313002
 # ::tok A high - speed frigate , the Abraham Lincoln , was fitted out for putting to sea as soon as possible .
 # ::alignments 0-1.1.2.1.1 1-1.1.2.1.2.1 3-1.1.2.1.2.2 4-1.2.6 6-1.1.2.2 7-1.1.2.3 8-1.1.2.3 11-1.1.4 12-1.1.4 13-1.2.2 14-1.2.3 15-1.2.4.1 16-1.2.4.2 17-1.2.5.1.1 18-1.2.5.1.2 19-1.2.5.1.3 20-1.2.5.2
+# ::format ucca
 (v1 / label
     :H (v2 / label
            :A (v4 / label)

@@ -1,6 +1,7 @@
 # ::id 994002
 # ::tok Perhaps his nerves were twitching with curiosity for the first time in history .
 # ::alignments 0-1.1.1 1-1.1.2.1 2-1.1.2.2 4-1.1.4 5-1.1.5.1 6-1.1.5.2.1 7-1.1.6.1 8-1.1.6.2 9-1.1.6.3 10-1.1.6.4 11-1.1.6.5.1 12-1.1.6.5.2
+# ::format ucca
 (v1 / label
     :H (v2 / label
            :D (v3 / label~e.0)

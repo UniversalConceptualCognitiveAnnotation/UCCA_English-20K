@@ -1,6 +1,7 @@
 # ::id 296003
 # ::tok My views were in demand .
 # ::alignments 0-1.1.2.1 1-1.1.2.2 3-1.1.4.1 4-1.1.4.2
+# ::format ucca
 (v1 / label
     :H (v2 / label
            :A (v3 / label)

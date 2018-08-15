@@ -1,6 +1,7 @@
 # ::id 308000
 # ::tok " This inexplicable phenomenon is thus explained away - unless it 's something else entirely , which , despite everything that has been sighted , studied , explored and experienced , is still possible ! "
 # ::alignments 1-1.1.3.1.1.1 2-1.1.3.1.1.2.2 3-1.1.3.1.1.3 5-1.1.3.2 6-1.1.3.1.4 7-1.1.3.1.4 9-1.1.3.3 10-1.1.3.4.1 11-1.1.3.4.2 12-1.1.3.4.3.1 13-1.1.3.4.3.1 14-1.1.3.4.3.2 16-1.1.3.5.1 18-1.1.3.6 19-1.1.3.7.2 23-1.1.3.7.6.1 25-1.1.3.7.6.2 27-1.1.3.7.6.3 28-1.1.3.7.6.4 29-1.1.3.7.6.5 32-1.1.3.5.3 33-1.1.3.5.4
+# ::format ucca
 (v1 / label
     :H (v2 / label
            :A (v3 / label)

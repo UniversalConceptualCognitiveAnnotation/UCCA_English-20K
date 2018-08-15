@@ -1,6 +1,7 @@
 # ::id 50006
 # ::tok They were unable to say .
 # ::alignments 0-1.1.2 2-1.1.4 4-1.1.6
+# ::format ucca
 (v1 / label
     :H (v2 / label
            :A (v3 / label)

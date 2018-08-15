@@ -1,6 +1,7 @@
 # ::id 296002
 # ::tok Well received in scholarly circles , this book had established me as a specialist in this pretty obscure field of natural history .
 # ::alignments 0-1.1.3 1-1.1.4 2-1.1.5.1 3-1.1.5.2 4-1.1.5.3 6-1.1.1.1 7-1.1.1.2 9-1.2.3 10-1.2.4 11-1.2.5.1 12-1.2.5.2 13-1.2.5.3 14-1.2.5.4.1 15-1.2.5.4.2 16-1.2.5.4.3.1 17-1.2.5.4.3.2 18-1.2.5.4.4 19-1.2.5.4.5.1 20-1.2.5.4.5.2 21-1.2.5.4.5.3
+# ::format ucca
 (v1 / label
     :H (v2 / label
            :A (v4 / label

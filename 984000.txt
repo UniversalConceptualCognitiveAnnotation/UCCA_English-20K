@@ -1,6 +1,7 @@
 # ::id 984000
 # ::tok And this reaction was n't long in coming .
 # ::alignments 0-1.1 1-1.2.1.1 2-1.2.1.2.2 4-1.2.3 5-1.2.4 6-1.2.4 7-1.2.4
+# ::format ucca
 (v1 / label
     :L (v2 / label~e.0)
     :H (v3 / label

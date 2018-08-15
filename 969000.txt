@@ -1,6 +1,7 @@
 # ::id 969000
 # ::tok Off the Falkland Islands on June 30 , the frigate came in contact with a fleet of American whalers , and we learned that they had n't seen the narwhale .
 # ::alignments 0-1.1.1.1.2 1-1.1.1.1.3.1 2-1.1.1.1.3.2 3-1.1.1.1.3.3 4-1.1.2.1 5-1.1.2.2 6-1.1.2.2 8-1.1.1.2 9-1.1.1.3 10-1.1.3 11-1.1.3 12-1.1.3 13-1.1.4.1 14-1.1.4.2 15-1.1.4.3 16-1.1.4.4.1 17-1.1.4.4.2 18-1.1.4.4.3 20-1.2 21-1.3.1 22-1.3.2 23-1.3.3.1 24-1.3.3.2 26-1.3.3.4 27-1.3.3.5 28-1.3.3.6.1 29-1.3.3.6.2
+# ::format ucca
 (v1 / label
     :H (v2 / label
            :A (v5 / label

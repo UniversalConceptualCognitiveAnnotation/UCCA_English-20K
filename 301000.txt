@@ -1,6 +1,7 @@
 # ::id 301000
 # ::tok " Either we know every variety of creature populating our planet , or we do not .
 # ::alignments 1-1.1.3.1 2-1.1.3.2.1 3-1.1.3.2.2 4-1.1.3.2.3.1 5-1.1.3.2.3.2 6-1.1.3.2.3.3.1 7-1.1.3.2.3.3.2 8-1.1.3.2.3.3.3.2 9-1.1.3.2.3.3.3.3.1 10-1.1.3.2.3.3.3.3.2 12-1.1.3.3 13-1.1.3.4.1 15-1.1.3.4.3
+# ::format ucca
 (v1 / label
     :H (v2 / label
            :A (v3 / label)

@@ -1,6 +1,7 @@
 # ::id 36001
 # ::tok Without getting into those rumors that upset civilians in the seaports and deranged the public mind even far inland , it must be said that professional seamen were especially alarmed .
 # ::alignments 0-1.1 1-1.2.2 2-1.2.2 3-1.2.3.1 4-1.2.3.2 5-1.2.3.3.1 6-1.2.3.3.2.2 7-1.2.3.3.2.3 8-1.2.3.3.2.4.1 9-1.2.3.3.2.4.2 10-1.2.3.3.2.4.3 11-1.2.3.3.3 12-1.2.3.3.4.2 13-1.2.3.3.4.3.1 14-1.2.3.3.4.3.2 15-1.2.3.3.4.3.3 16-1.2.3.3.4.4 17-1.2.3.3.4.5.1 18-1.2.3.3.4.5.2 21-1.3.2 22-1.3.2 23-1.3.2 25-1.3.4.1 26-1.3.4.2 28-1.3.6 29-1.3.7
+# ::format ucca
 (v1 / label
     :L (v2 / label~e.0)
     :H (v3 / label

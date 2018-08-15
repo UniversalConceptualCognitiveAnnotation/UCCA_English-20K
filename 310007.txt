@@ -1,6 +1,7 @@
 # ::id 310007
 # ::tok Formerly , in prehistoric days , land animals ( quadrupeds , apes , reptiles , birds ) were built on a gigantic scale .
 # ::alignments 0-1.1.2 2-1.1.3.1 3-1.1.3.2 4-1.1.3.3 6-1.1.4.1 7-1.1.4.2 9-1.1.4.3.1 11-1.1.4.3.2 13-1.1.4.3.3 15-1.1.4.3.4 18-1.1.6 19-1.1.7.1 20-1.1.7.2 21-1.1.7.3 22-1.1.7.4
+# ::format ucca
 (v1 / label
     :H (v2 / label
            :A (v3 / label)

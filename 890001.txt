@@ -1,6 +1,7 @@
 # ::id 890001
 # ::tok He described his fishing trips and his battles with great natural lyricism .
 # ::alignments 0-1.1.1 1-1.1.2 2-1.1.3.1.1 3-1.1.3.1.2 4-1.1.3.1.3 5-1.1.3.2 6-1.1.3.3.1 7-1.1.3.3.2 8-1.1.4.1 9-1.1.4.2 10-1.1.4.3 11-1.1.4.4
+# ::format ucca
 (v1 / label
     :H (v2 / label
            :A (v3 / label~e.0)
