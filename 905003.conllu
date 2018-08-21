@@ -1,11 +1,11 @@
 # format = ucca
 # sent_id = 905003
 # text = " " Without my noticing it ?
-1	"	_	Punctuation	Punctuation	_	5	punct	5:punct	_
-2	"	_	Punctuation	Punctuation	_	5	punct	5:punct	_
-3	Without	_	Word	Word	_	5	L	5:L|5:D	_
+1	"	_	Punctuation	Punctuation	_	5	U	5:U	_
+2	"	_	Punctuation	Punctuation	_	5	U	5:U	_
+3	Without	_	Word	Word	_	0	root	0:root	_
 4	my	_	Word	Word	_	5	A	5:A	_
-5	noticing	_	Word	Word	_	0	root	0:root	_
+5	noticing	_	Word	Word	_	3	orphan	3:orphan	_
 6	it	_	Word	Word	_	5	A	5:A	_
-7	?	_	Punctuation	Punctuation	_	5	punct	5:punct	_
+7	?	_	Punctuation	Punctuation	_	5	U	5:U	_
 

@@ -2,26 +2,26 @@
 # sent_id = 884000
 # text = As I said , Commander Farragut had carefully equipped his ship with all the gear needed to fish for a gigantic cetacean .
 1	As	_	Word	Word	_	9	G	9:G	_
-2	I	_	Word	Word	_	1	flat	1:flat	_
-3	said	_	Word	Word	_	1	flat	1:flat	_
-4	,	_	Punctuation	Punctuation	_	9	punct	9:punct	_
+2	I	_	Word	Word	_	1	Terminal	1:Terminal	_
+3	said	_	Word	Word	_	1	Terminal	1:Terminal	_
+4	,	_	Punctuation	Punctuation	_	9	U	9:U	_
 5	Commander	_	Word	Word	_	6	E	6:E	_
-6	Farragut	_	Word	Word	_	0	root	0:root	_
+6	Farragut	_	Word	Word	_	9	A	9:A	_
 7	had	_	Word	Word	_	9	F	9:F	_
 8	carefully	_	Word	Word	_	9	D	9:D	_
-9	equipped	_	Word	Word	_	6	orphan	6:orphan	_
+9	equipped	_	Word	Word	_	0	root	0:root	_
 10	his	_	Word	Word	_	11	E	11:E	_
-11	ship	_	Word	Word	_	6	orphan	6:orphan	_
+11	ship	_	Word	Word	_	9	A	9:A	_
 12	with	_	Word	Word	_	18	R	18:R	_
 13	all	_	Word	Word	_	15	E	15:E	_
 14	the	_	Word	Word	_	15	E	15:E	_
-15	gear	_	Word	Word	_	6	orphan	6:orphan	_
-16	needed	_	Word	Word	_	6	orphan	6:orphan	_
+15	gear	_	Word	Word	_	18	A	18:A	_
+16	needed	_	Word	Word	_	15	E	15:E	_
 17	to	_	Word	Word	_	18	F	18:F	_
-18	fish	_	Word	Word	_	6	orphan	6:orphan	_
+18	fish	_	Word	Word	_	9	A	9:A	_
 19	for	_	Word	Word	_	22	R	22:R	_
 20	a	_	Word	Word	_	22	E	22:E	_
 21	gigantic	_	Word	Word	_	22	E	22:E	_
-22	cetacean	_	Word	Word	_	6	orphan	6:orphan	_
-23	.	_	Punctuation	Punctuation	_	22	punct	22:punct	_
+22	cetacean	_	Word	Word	_	18	A	18:A	_
+23	.	_	Punctuation	Punctuation	_	22	U	22:U	_
 

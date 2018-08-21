@@ -2,9 +2,9 @@
 # sent_id = 994001
 # text = At least so I thought .
 1	At	_	Word	Word	_	2	R	2:R	_
-2	least	_	Word	Word	_	0	root	0:root	_
+2	least	_	Word	Word	_	5	L	5:L	_
 3	so	_	Word	Word	_	5	A	5:A	_
 4	I	_	Word	Word	_	5	A	5:A	_
-5	thought	_	Word	Word	_	2	orphan	2:orphan	_
-6	.	_	Punctuation	Punctuation	_	5	punct	5:punct	_
+5	thought	_	Word	Word	_	0	root	0:root	_
+6	.	_	Punctuation	Punctuation	_	5	U	5:U	_
 

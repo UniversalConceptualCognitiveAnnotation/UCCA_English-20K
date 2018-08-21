@@ -2,26 +2,26 @@
 # sent_id = 36000
 # text = The year 1866 was marked by a bizarre development , an unexplained and downright inexplicable phenomenon that surely no one has forgotten .
 1	The	_	Word	Word	_	2	E	2:E	_
-2	year	_	Word	Word	_	0	root	0:root	_
-3	1866	_	Word	Word	_	2	orphan	2:orphan	_
+2	year	_	Word	Word	_	3	E	3:E	_
+3	1866	_	Word	Word	_	5	T	5:T	_
 4	was	_	Word	Word	_	5	F	5:F	_
-5	marked	_	Word	Word	_	2	orphan	2:orphan	_
+5	marked	_	Word	Word	_	0	root	0:root	_
 6	by	_	Word	Word	_	9	R	9:R	_
 7	a	_	Word	Word	_	9	E	9:E	_
 8	bizarre	_	Word	Word	_	9	E	9:E	_
-9	development	_	Word	Word	_	2	orphan	2:orphan	_
-10	,	_	Punctuation	Punctuation	_	9	punct	9:punct	_
+9	development	_	Word	Word	_	5	A	5:A	_
+10	,	_	Punctuation	Punctuation	_	9	U	9:U	_
 11	an	_	Word	Word	_	16	E	16:E	_
-12	unexplained	_	Word	Word	_	2	orphan	2:orphan	_
+12	unexplained	_	Word	Word	_	16	E	16:E	_
 13	and	_	Word	Word	_	12	N	12:N	_
 14	downright	_	Word	Word	_	15	E	15:E	_
-15	inexplicable	_	Word	Word	_	2	orphan	2:orphan	_
-16	phenomenon	_	Word	Word	_	2	orphan	2:orphan	_
+15	inexplicable	_	Word	Word	_	12	C	12:C	_
+16	phenomenon	_	Word	Word	_	9	C	9:C	_
 17	that	_	Word	Word	_	22	R	22:R	_
 18	surely	_	Word	Word	_	22	G	22:G	_
 19	no	_	Word	Word	_	20	E	20:E	_
-20	one	_	Word	Word	_	2	orphan	2:orphan	_
+20	one	_	Word	Word	_	22	A	22:A	_
 21	has	_	Word	Word	_	22	F	22:F	_
-22	forgotten	_	Word	Word	_	2	orphan	2:orphan	_
-23	.	_	Punctuation	Punctuation	_	22	punct	22:punct	_
+22	forgotten	_	Word	Word	_	16	E	16:E	_
+23	.	_	Punctuation	Punctuation	_	22	U	22:U	_
 

@@ -3,20 +3,20 @@
 # text = So in 1867 this company owned twelve ships , eight with paddle wheels and four with propellers .
 1	So	_	Word	Word	_	6	L	6:L	_
 2	in	_	Word	Word	_	3	R	3:R	_
-3	1867	_	Word	Word	_	0	root	0:root	_
+3	1867	_	Word	Word	_	6	T	6:T	_
 4	this	_	Word	Word	_	5	E	5:E	_
-5	company	_	Word	Word	_	3	orphan	3:orphan	_
-6	owned	_	Word	Word	_	3	orphan	3:orphan	_
+5	company	_	Word	Word	_	6	A	6:A	_
+6	owned	_	Word	Word	_	0	root	0:root	_
 7	twelve	_	Word	Word	_	8	E	8:E	_
-8	ships	_	Word	Word	_	3	orphan	3:orphan	_
-9	,	_	Punctuation	Punctuation	_	8	punct	8:punct	_
-10	eight	_	Word	Word	_	3	orphan	3:orphan	_
+8	ships	_	Word	Word	_	6	A	6:A	_
+9	,	_	Punctuation	Punctuation	_	8	U	8:U	_
+10	eight	_	Word	Word	_	8	E	8:E	_
 11	with	_	Word	Word	_	13	R	13:R	_
 12	paddle	_	Word	Word	_	13	E	13:E	_
-13	wheels	_	Word	Word	_	3	orphan	3:orphan	_
+13	wheels	_	Word	Word	_	10	E	10:E	_
 14	and	_	Word	Word	_	10	N	10:N	_
-15	four	_	Word	Word	_	3	orphan	3:orphan	_
+15	four	_	Word	Word	_	10	C	10:C	_
 16	with	_	Word	Word	_	17	R	17:R	_
-17	propellers	_	Word	Word	_	3	orphan	3:orphan	_
-18	.	_	Punctuation	Punctuation	_	17	punct	17:punct	_
+17	propellers	_	Word	Word	_	15	E	15:E	_
+18	.	_	Punctuation	Punctuation	_	17	U	17:U	_
 

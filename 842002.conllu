@@ -6,13 +6,13 @@
 3	pistons	_	Word	Word	_	0	root	0:root	_
 4	groaned	_	Word	Word	_	3	orphan	3:orphan	_
 5	and	_	Word	Word	_	4	L	4:L	_
-6	pushed	_	Word	Word	_	3	orphan	3:orphan	_
+6	pushed	_	Word	Word	_	4	H	4:H	_
 7	the	_	Word	Word	_	9	E	9:E	_
 8	tie	_	Word	Word	_	9	E	9:E	_
-9	rods	_	Word	Word	_	3	orphan	3:orphan	_
+9	rods	_	Word	Word	_	6	A	6:A	_
 10	of	_	Word	Word	_	13	R	13:R	_
 11	the	_	Word	Word	_	13	E	13:E	_
 12	drive	_	Word	Word	_	13	E	13:E	_
-13	shaft	_	Word	Word	_	3	orphan	3:orphan	_
-14	.	_	Punctuation	Punctuation	_	13	punct	13:punct	_
+13	shaft	_	Word	Word	_	9	E	9:E	_
+14	.	_	Punctuation	Punctuation	_	13	U	13:U	_
 

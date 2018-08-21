@@ -2,25 +2,25 @@
 # sent_id = 53004
 # text = Given this , no one will be astonished at the uproar provoked by this accident involving one of its finest steamers .
 1	Given	_	Word	Word	_	2	E	2:E	_
-2	this	_	Word	Word	_	0	root	0:root	_
-3	,	_	Punctuation	Punctuation	_	8	punct	8:punct	_
+2	this	_	Word	Word	_	8	L	8:L	_
+3	,	_	Punctuation	Punctuation	_	8	U	8:U	_
 4	no	_	Word	Word	_	8	A	8:A	_
-5	one	_	Word	Word	_	4	flat	4:flat	_
+5	one	_	Word	Word	_	4	Terminal	4:Terminal	_
 6	will	_	Word	Word	_	8	F	8:F	_
 7	be	_	Word	Word	_	8	F	8:F	_
-8	astonished	_	Word	Word	_	2	orphan	2:orphan	_
+8	astonished	_	Word	Word	_	0	root	0:root	_
 9	at	_	Word	Word	_	11	R	11:R	_
 10	the	_	Word	Word	_	11	E	11:E	_
-11	uproar	_	Word	Word	_	2	orphan	2:orphan	_
-12	provoked	_	Word	Word	_	2	orphan	2:orphan	_
+11	uproar	_	Word	Word	_	8	A	8:A	_
+12	provoked	_	Word	Word	_	11	E	11:E	_
 13	by	_	Word	Word	_	15	R	15:R	_
 14	this	_	Word	Word	_	15	E	15:E	_
-15	accident	_	Word	Word	_	2	orphan	2:orphan	_
-16	involving	_	Word	Word	_	2	orphan	2:orphan	_
-17	one	_	Word	Word	_	2	orphan	2:orphan	_
+15	accident	_	Word	Word	_	12	A	12:A	_
+16	involving	_	Word	Word	_	15	E	15:E	_
+17	one	_	Word	Word	_	21	E	21:E	_
 18	of	_	Word	Word	_	17	R	17:R	_
 19	its	_	Word	Word	_	21	R	21:R	_
 20	finest	_	Word	Word	_	21	E	21:E	_
-21	steamers	_	Word	Word	_	2	orphan	2:orphan	_
-22	.	_	Punctuation	Punctuation	_	21	punct	21:punct	_
+21	steamers	_	Word	Word	_	16	A	16:A	_
+22	.	_	Punctuation	Punctuation	_	21	U	21:U	_
 

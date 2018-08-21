@@ -2,12 +2,12 @@
 # sent_id = 46001
 # text = The " monster question " inflamed all minds .
 1	The	_	Word	Word	_	3	E	3:E	_
-2	"	_	Punctuation	Punctuation	_	3	punct	3:punct	_
-3	monster	_	Word	Word	_	0	root	0:root	_
-4	question	_	Word	Word	_	3	flat	3:flat	_
-5	"	_	Punctuation	Punctuation	_	6	punct	6:punct	_
-6	inflamed	_	Word	Word	_	3	orphan	3:orphan	_
+2	"	_	Punctuation	Punctuation	_	3	U	3:U	_
+3	monster	_	Word	Word	_	6	A	6:A	_
+4	question	_	Word	Word	_	3	Terminal	3:Terminal	_
+5	"	_	Punctuation	Punctuation	_	6	U	6:U	_
+6	inflamed	_	Word	Word	_	0	root	0:root	_
 7	all	_	Word	Word	_	8	E	8:E	_
-8	minds	_	Word	Word	_	3	orphan	3:orphan	_
-9	.	_	Punctuation	Punctuation	_	8	punct	8:punct	_
+8	minds	_	Word	Word	_	6	A	6:A	_
+9	.	_	Punctuation	Punctuation	_	8	U	8:U	_
 

@@ -7,10 +7,10 @@
 4	n't	_	Word	Word	_	5	D	5:D	_
 5	let	_	Word	Word	_	0	root	0:root	_
 6	these	_	Word	Word	_	7	E	7:E	_
-7	fantasies	_	Word	Word	_	5	orphan	5:orphan	_
-8	run	_	Word	Word	_	5	orphan	5:orphan	_
-9	away	_	Word	Word	_	8	flat	8:flat	_
+7	fantasies	_	Word	Word	_	8	A	8:A	_
+8	run	_	Word	Word	_	5	A	5:A	_
+9	away	_	Word	Word	_	8	Terminal	8:Terminal	_
 10	with	_	Word	Word	_	11	R	11:R	_
-11	me	_	Word	Word	_	5	orphan	5:orphan	_
-12	!	_	Punctuation	Punctuation	_	11	punct	11:punct	_
+11	me	_	Word	Word	_	8	A	8:A	_
+12	!	_	Punctuation	Punctuation	_	11	U	11:U	_
 

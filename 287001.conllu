@@ -7,14 +7,14 @@
 4	and	_	Word	Word	_	3	N	3:N	_
 5	reread	_	Word	Word	_	3	C	3:C	_
 6	every	_	Word	Word	_	10	E	10:E	_
-7	American	_	Word	Word	_	3	orphan	3:orphan	_
+7	American	_	Word	Word	_	10	E	10:E	_
 8	and	_	Word	Word	_	7	N	7:N	_
 9	European	_	Word	Word	_	7	C	7:C	_
-10	newspaper	_	Word	Word	_	3	orphan	3:orphan	_
+10	newspaper	_	Word	Word	_	3	A	3:A	_
 11	without	_	Word	Word	_	3	L	3:L	_
 12	being	_	Word	Word	_	15	F	15:F	_
 13	any	_	Word	Word	_	15	E	15:E	_
 14	farther	_	Word	Word	_	15	E	15:E	_
-15	along	_	Word	Word	_	3	orphan	3:orphan	_
-16	.	_	Punctuation	Punctuation	_	15	punct	15:punct	_
+15	along	_	Word	Word	_	3	H	3:H	_
+16	.	_	Punctuation	Punctuation	_	15	U	15:U	_
 

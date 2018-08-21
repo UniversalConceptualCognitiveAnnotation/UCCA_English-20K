@@ -4,6 +4,6 @@
 1	Conseil	_	Word	Word	_	2	A	2:A	_
 2	was	_	Word	Word	_	0	root	0:root	_
 3	my	_	Word	Word	_	4	E	4:E	_
-4	manservant	_	Word	Word	_	2	orphan	2:orphan	_
-5	.	_	Punctuation	Punctuation	_	4	punct	4:punct	_
+4	manservant	_	Word	Word	_	2	A	2:A	_
+5	.	_	Punctuation	Punctuation	_	4	U	4:U	_
 

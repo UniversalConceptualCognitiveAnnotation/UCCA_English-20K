@@ -1,24 +1,24 @@
 # format = ucca
 # sent_id = 994000
 # text = Observing Conseil , I discovered that , just barely , the gallant lad had fallen under the general influence .
-1	Observing	_	Word	Word	_	0	root	0:root	_
+1	Observing	_	Word	Word	_	4	E	4:E	_
 2	Conseil	_	Word	Word	_	1	A	1:A	_
-3	,	_	Punctuation	Punctuation	_	1	punct	1:punct	_
-4	I	_	Word	Word	_	1	orphan	1:orphan	_
-5	discovered	_	Word	Word	_	1	orphan	1:orphan	_
+3	,	_	Punctuation	Punctuation	_	1	U	1:U	_
+4	I	_	Word	Word	_	5	A	5:A	_
+5	discovered	_	Word	Word	_	0	root	0:root	_
 6	that	_	Word	Word	_	15	R	15:R	_
-7	,	_	Punctuation	Punctuation	_	15	punct	15:punct	_
+7	,	_	Punctuation	Punctuation	_	15	U	15:U	_
 8	just	_	Word	Word	_	9	E	9:E	_
-9	barely	_	Word	Word	_	1	orphan	1:orphan	_
-10	,	_	Punctuation	Punctuation	_	15	punct	15:punct	_
+9	barely	_	Word	Word	_	15	D	15:D	_
+10	,	_	Punctuation	Punctuation	_	15	U	15:U	_
 11	the	_	Word	Word	_	13	E	13:E	_
-12	gallant	_	Word	Word	_	1	orphan	1:orphan	_
-13	lad	_	Word	Word	_	1	orphan	1:orphan	_
+12	gallant	_	Word	Word	_	13	E	13:E	_
+13	lad	_	Word	Word	_	15	A	15:A	_
 14	had	_	Word	Word	_	15	F	15:F	_
-15	fallen	_	Word	Word	_	1	orphan	1:orphan	_
+15	fallen	_	Word	Word	_	5	A	5:A	_
 16	under	_	Word	Word	_	19	R	19:R	_
 17	the	_	Word	Word	_	19	E	19:E	_
-18	general	_	Word	Word	_	19	E	19:E|19:D	_
-19	influence	_	Word	Word	_	1	orphan	1:orphan	_
-20	.	_	Punctuation	Punctuation	_	19	punct	19:punct	_
+18	general	_	Word	Word	_	5	orphan	5:orphan	_
+19	influence	_	Word	Word	_	15	A	15:A	_
+20	.	_	Punctuation	Punctuation	_	19	U	19:U	_
 

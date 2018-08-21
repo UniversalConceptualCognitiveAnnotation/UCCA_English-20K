@@ -1,20 +1,20 @@
 # format = ucca
 # sent_id = 968000
 # text = ﻿ For some while the voyage of the Abraham Lincoln was marked by no incident .
-1	﻿	_	Punctuation	Punctuation	_	12	punct	12:punct	_
+1	﻿	_	Punctuation	Punctuation	_	12	U	12:U	_
 2	For	_	Word	Word	_	4	R	4:R	_
 3	some	_	Word	Word	_	4	E	4:E	_
-4	while	_	Word	Word	_	0	root	0:root	_
+4	while	_	Word	Word	_	12	T	12:T	_
 5	the	_	Word	Word	_	6	E	6:E	_
-6	voyage	_	Word	Word	_	4	orphan	4:orphan	_
+6	voyage	_	Word	Word	_	12	A	12:A	_
 7	of	_	Word	Word	_	9	R	9:R	_
 8	the	_	Word	Word	_	9	E	9:E	_
-9	Abraham	_	Word	Word	_	4	orphan	4:orphan	_
-10	Lincoln	_	Word	Word	_	9	flat	9:flat	_
+9	Abraham	_	Word	Word	_	6	A	6:A	_
+10	Lincoln	_	Word	Word	_	9	Terminal	9:Terminal	_
 11	was	_	Word	Word	_	12	F	12:F	_
-12	marked	_	Word	Word	_	4	orphan	4:orphan	_
+12	marked	_	Word	Word	_	0	root	0:root	_
 13	by	_	Word	Word	_	15	R	15:R	_
 14	no	_	Word	Word	_	15	D	15:D	_
-15	incident	_	Word	Word	_	4	orphan	4:orphan	_
-16	.	_	Punctuation	Punctuation	_	15	punct	15:punct	_
+15	incident	_	Word	Word	_	12	A	12:A	_
+16	.	_	Punctuation	Punctuation	_	15	U	15:U	_
 

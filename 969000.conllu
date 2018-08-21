@@ -1,35 +1,35 @@
 # format = ucca
 # sent_id = 969000
 # text = Off the Falkland Islands on June 30 , the frigate came in contact with a fleet of American whalers , and we learned that they had n't seen the narwhale .
-1	Off	_	Word	Word	_	0	root	0:root	_
+1	Off	_	Word	Word	_	10	E	10:E	_
 2	the	_	Word	Word	_	4	E	4:E	_
 3	Falkland	_	Word	Word	_	4	E	4:E	_
-4	Islands	_	Word	Word	_	1	orphan	1:orphan	_
+4	Islands	_	Word	Word	_	1	A	1:A	_
 5	on	_	Word	Word	_	6	R	6:R	_
-6	June	_	Word	Word	_	1	orphan	1:orphan	_
-7	30	_	Word	Word	_	6	flat	6:flat	_
-8	,	_	Punctuation	Punctuation	_	11	punct	11:punct	_
+6	June	_	Word	Word	_	11	T	11:T	_
+7	30	_	Word	Word	_	6	Terminal	6:Terminal	_
+8	,	_	Punctuation	Punctuation	_	11	U	11:U	_
 9	the	_	Word	Word	_	10	E	10:E	_
-10	frigate	_	Word	Word	_	1	orphan	1:orphan	_
-11	came	_	Word	Word	_	1	orphan	1:orphan	_
-12	in	_	Word	Word	_	11	flat	11:flat	_
-13	contact	_	Word	Word	_	11	flat	11:flat	_
+10	frigate	_	Word	Word	_	11	A	11:A	_
+11	came	_	Word	Word	_	0	root	0:root	_
+12	in	_	Word	Word	_	11	Terminal	11:Terminal	_
+13	contact	_	Word	Word	_	11	Terminal	11:Terminal	_
 14	with	_	Word	Word	_	16	R	16:R	_
 15	a	_	Word	Word	_	16	E	16:E	_
-16	fleet	_	Word	Word	_	1	orphan	1:orphan	_
+16	fleet	_	Word	Word	_	11	A	11:A	_
 17	of	_	Word	Word	_	19	R	19:R	_
 18	American	_	Word	Word	_	19	E	19:E	_
-19	whalers	_	Word	Word	_	1	orphan	1:orphan	_
-20	,	_	Punctuation	Punctuation	_	11	punct	11:punct	_
+19	whalers	_	Word	Word	_	16	E	16:E	_
+20	,	_	Punctuation	Punctuation	_	11	U	11:U	_
 21	and	_	Word	Word	_	11	L	11:L	_
 22	we	_	Word	Word	_	23	A	23:A	_
-23	learned	_	Word	Word	_	1	orphan	1:orphan	_
+23	learned	_	Word	Word	_	11	H	11:H	_
 24	that	_	Word	Word	_	28	R	28:R	_
 25	they	_	Word	Word	_	28	A	28:A	_
 26	had	_	Word	Word	_	28	F	28:F	_
 27	n't	_	Word	Word	_	28	D	28:D	_
-28	seen	_	Word	Word	_	1	orphan	1:orphan	_
+28	seen	_	Word	Word	_	23	A	23:A	_
 29	the	_	Word	Word	_	30	E	30:E	_
-30	narwhale	_	Word	Word	_	1	orphan	1:orphan	_
-31	.	_	Punctuation	Punctuation	_	30	punct	30:punct	_
+30	narwhale	_	Word	Word	_	28	A	28:A	_
+31	.	_	Punctuation	Punctuation	_	30	U	30:U	_
 

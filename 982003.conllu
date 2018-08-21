@@ -1,40 +1,40 @@
 # format = ucca
 # sent_id = 982003
 # text = " So the frigate kept well out when passing the Tuamotu , Marquesas , and Hawaiian Islands , then cut the Tropic of Cancer at longitude 132 ° and headed for the seas of China .
-1	"	_	Punctuation	Punctuation	_	5	punct	5:punct	_
+1	"	_	Punctuation	Punctuation	_	5	U	5:U	_
 2	So	_	Word	Word	_	5	L	5:L	_
 3	the	_	Word	Word	_	4	E	4:E	_
 4	frigate	_	Word	Word	_	0	root	0:root	_
 5	kept	_	Word	Word	_	4	orphan	4:orphan	_
 6	well	_	Word	Word	_	5	D	5:D	_
-7	out	_	Word	Word	_	5	flat	5:flat	_
+7	out	_	Word	Word	_	5	Terminal	5:Terminal	_
 8	when	_	Word	Word	_	5	L	5:L	_
-9	passing	_	Word	Word	_	4	orphan	4:orphan	_
-10	the	_	Word	Word	_	4	orphan	4:orphan	_
+9	passing	_	Word	Word	_	5	H	5:H	_
+10	the	_	Word	Word	_	9	A	9:A	_
 11	Tuamotu	_	Word	Word	_	10	E	10:E	_
-12	,	_	Punctuation	Punctuation	_	10	punct	10:punct	_
-13	Marquesas	_	Word	Word	_	4	orphan	4:orphan	_
-14	,	_	Punctuation	Punctuation	_	10	punct	10:punct	_
+12	,	_	Punctuation	Punctuation	_	10	U	10:U	_
+13	Marquesas	_	Word	Word	_	10	C	10:C	_
+14	,	_	Punctuation	Punctuation	_	10	U	10:U	_
 15	and	_	Word	Word	_	10	N	10:N	_
 16	Hawaiian	_	Word	Word	_	17	E	17:E	_
 17	Islands	_	Word	Word	_	4	orphan	4:orphan	_
-18	,	_	Punctuation	Punctuation	_	5	punct	5:punct	_
+18	,	_	Punctuation	Punctuation	_	5	U	5:U	_
 19	then	_	Word	Word	_	5	L	5:L	_
-20	cut	_	Word	Word	_	4	orphan	4:orphan	_
+20	cut	_	Word	Word	_	5	H	5:H	_
 21	the	_	Word	Word	_	22	E	22:E	_
-22	Tropic	_	Word	Word	_	4	orphan	4:orphan	_
+22	Tropic	_	Word	Word	_	20	A	20:A	_
 23	of	_	Word	Word	_	24	R	24:R	_
-24	Cancer	_	Word	Word	_	4	orphan	4:orphan	_
+24	Cancer	_	Word	Word	_	22	E	22:E	_
 25	at	_	Word	Word	_	27	R	27:R	_
 26	longitude	_	Word	Word	_	27	E	27:E	_
-27	132	_	Word	Word	_	4	orphan	4:orphan	_
-28	°	_	Punctuation	Punctuation	_	5	punct	5:punct	_
+27	132	_	Word	Word	_	20	A	20:A	_
+28	°	_	Punctuation	Punctuation	_	5	U	5:U	_
 29	and	_	Word	Word	_	5	L	5:L	_
-30	headed	_	Word	Word	_	4	orphan	4:orphan	_
+30	headed	_	Word	Word	_	5	H	5:H	_
 31	for	_	Word	Word	_	33	R	33:R	_
 32	the	_	Word	Word	_	33	E	33:E	_
-33	seas	_	Word	Word	_	4	orphan	4:orphan	_
+33	seas	_	Word	Word	_	30	A	30:A	_
 34	of	_	Word	Word	_	35	R	35:R	_
-35	China	_	Word	Word	_	4	orphan	4:orphan	_
-36	.	_	Punctuation	Punctuation	_	35	punct	35:punct	_
+35	China	_	Word	Word	_	33	E	33:E	_
+36	.	_	Punctuation	Punctuation	_	35	U	35:U	_
 

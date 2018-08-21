@@ -1,7 +1,7 @@
 # format = ucca
 # sent_id = 902002
 # text = " Because it takes incalculable strength just to live in those deep strata and withstand their pressure . "
-1	"	_	Punctuation	Punctuation	_	6	punct	6:punct	_
+1	"	_	Punctuation	Punctuation	_	6	U	6:U	_
 2	Because	_	Word	Word	_	6	L	6:L	_
 3	it	_	Word	Word	_	6	F	6:F	_
 4	takes	_	Word	Word	_	6	D	6:D	_
@@ -9,15 +9,15 @@
 6	strength	_	Word	Word	_	0	root	0:root	_
 7	just	_	Word	Word	_	9	D	9:D|15:D	_
 8	to	_	Word	Word	_	9	F	9:F	_
-9	live	_	Word	Word	_	6	orphan	6:orphan	_
+9	live	_	Word	Word	_	6	A	6:A	_
 10	in	_	Word	Word	_	13	R	13:R	_
 11	those	_	Word	Word	_	13	E	13:E	_
 12	deep	_	Word	Word	_	13	E	13:E	_
-13	strata	_	Word	Word	_	6	orphan	6:orphan	_
+13	strata	_	Word	Word	_	9	A	9:A	_
 14	and	_	Word	Word	_	9	L	9:L	_
-15	withstand	_	Word	Word	_	6	orphan	6:orphan	_
+15	withstand	_	Word	Word	_	9	H	9:H	_
 16	their	_	Word	Word	_	17	E	17:E	_
-17	pressure	_	Word	Word	_	6	orphan	6:orphan	_
-18	.	_	Punctuation	Punctuation	_	17	punct	17:punct	_
-19	"	_	Punctuation	Punctuation	_	17	punct	17:punct	_
+17	pressure	_	Word	Word	_	15	A	15:A	_
+18	.	_	Punctuation	Punctuation	_	17	U	17:U	_
+19	"	_	Punctuation	Punctuation	_	17	U	17:U	_
 

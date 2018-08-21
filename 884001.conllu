@@ -3,11 +3,11 @@
 # text = No whaling vessel could have been better armed .
 1	No	_	Word	Word	_	8	D	8:D	_
 2	whaling	_	Word	Word	_	3	E	3:E	_
-3	vessel	_	Word	Word	_	0	root	0:root	_
+3	vessel	_	Word	Word	_	8	A	8:A	_
 4	could	_	Word	Word	_	8	D	8:D	_
 5	have	_	Word	Word	_	8	F	8:F	_
 6	been	_	Word	Word	_	8	F	8:F	_
 7	better	_	Word	Word	_	8	D	8:D	_
-8	armed	_	Word	Word	_	3	orphan	3:orphan	_
-9	.	_	Punctuation	Punctuation	_	8	punct	8:punct	_
+8	armed	_	Word	Word	_	0	root	0:root	_
+9	.	_	Punctuation	Punctuation	_	8	U	8:U	_
 

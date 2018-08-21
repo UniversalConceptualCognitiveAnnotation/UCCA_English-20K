@@ -2,17 +2,17 @@
 # sent_id = 991000
 # text = At noon the next day , November 5 , the agreed-upon delay expired .
 1	At	_	Word	Word	_	2	R	2:R	_
-2	noon	_	Word	Word	_	0	root	0:root	_
+2	noon	_	Word	Word	_	13	T	13:T	_
 3	the	_	Word	Word	_	5	E	5:E	_
 4	next	_	Word	Word	_	5	E	5:E	_
-5	day	_	Word	Word	_	2	orphan	2:orphan	_
-6	,	_	Punctuation	Punctuation	_	2	punct	2:punct	_
+5	day	_	Word	Word	_	2	E	2:E	_
+6	,	_	Punctuation	Punctuation	_	2	U	2:U	_
 7	November	_	Word	Word	_	2	E	2:E	_
-8	5	_	Word	Word	_	7	flat	7:flat	_
-9	,	_	Punctuation	Punctuation	_	13	punct	13:punct	_
+8	5	_	Word	Word	_	7	Terminal	7:Terminal	_
+9	,	_	Punctuation	Punctuation	_	13	U	13:U	_
 10	the	_	Word	Word	_	12	E	12:E	_
-11	agreed-upon	_	Word	Word	_	2	orphan	2:orphan	_
-12	delay	_	Word	Word	_	2	orphan	2:orphan	_
-13	expired	_	Word	Word	_	2	orphan	2:orphan	_
-14	.	_	Punctuation	Punctuation	_	13	punct	13:punct	_
+11	agreed-upon	_	Word	Word	_	12	E	12:E	_
+12	delay	_	Word	Word	_	13	A	13:A	_
+13	expired	_	Word	Word	_	0	root	0:root	_
+14	.	_	Punctuation	Punctuation	_	13	U	13:U	_
 

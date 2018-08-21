@@ -3,16 +3,16 @@
 # text = To cast off , he needed only to fire and stoke his furnaces !
 1	To	_	Word	Word	_	2	L	2:L	_
 2	cast	_	Word	Word	_	0	root	0:root	_
-3	off	_	Word	Word	_	2	flat	2:flat	_
-4	,	_	Punctuation	Punctuation	_	2	punct	2:punct	_
+3	off	_	Word	Word	_	2	Terminal	2:Terminal	_
+4	,	_	Punctuation	Punctuation	_	2	U	2:U	_
 5	he	_	Word	Word	_	9	A	9:A|2:A	_
 6	needed	_	Word	Word	_	9	D	9:D	_
 7	only	_	Word	Word	_	9	D	9:D	_
 8	to	_	Word	Word	_	9	F	9:F	_
-9	fire	_	Word	Word	_	2	orphan	2:orphan	_
+9	fire	_	Word	Word	_	2	H	2:H	_
 10	and	_	Word	Word	_	9	N	9:N	_
 11	stoke	_	Word	Word	_	9	C	9:C	_
 12	his	_	Word	Word	_	13	E	13:E	_
-13	furnaces	_	Word	Word	_	2	orphan	2:orphan	_
-14	!	_	Punctuation	Punctuation	_	13	punct	13:punct	_
+13	furnaces	_	Word	Word	_	9	A	9:A	_
+14	!	_	Punctuation	Punctuation	_	13	U	13:U	_
 

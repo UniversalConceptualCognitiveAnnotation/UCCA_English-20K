@@ -2,17 +2,17 @@
 # sent_id = 979001
 # text = And yet the marvelous power of his vision could have performed yeoman service .
 1	And	_	Word	Word	_	11	L	11:L	_
-2	yet	_	Word	Word	_	1	flat	1:flat	_
+2	yet	_	Word	Word	_	1	Terminal	1:Terminal	_
 3	the	_	Word	Word	_	5	E	5:E	_
 4	marvelous	_	Word	Word	_	5	D	5:D	_
-5	power	_	Word	Word	_	0	root	0:root	_
+5	power	_	Word	Word	_	11	A	11:A	_
 6	of	_	Word	Word	_	8	R	8:R	_
 7	his	_	Word	Word	_	8	E	8:E	_
-8	vision	_	Word	Word	_	5	orphan	5:orphan	_
+8	vision	_	Word	Word	_	5	A	5:A	_
 9	could	_	Word	Word	_	11	D	11:D	_
 10	have	_	Word	Word	_	11	F	11:F	_
-11	performed	_	Word	Word	_	5	orphan	5:orphan	_
+11	performed	_	Word	Word	_	0	root	0:root	_
 12	yeoman	_	Word	Word	_	13	E	13:E	_
-13	service	_	Word	Word	_	5	orphan	5:orphan	_
-14	.	_	Punctuation	Punctuation	_	13	punct	13:punct	_
+13	service	_	Word	Word	_	11	A	11:A	_
+14	.	_	Punctuation	Punctuation	_	13	U	13:U	_
 

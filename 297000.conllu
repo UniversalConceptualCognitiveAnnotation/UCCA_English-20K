@@ -3,5 +3,5 @@
 # text = I complied .
 1	I	_	Word	Word	_	2	A	2:A	_
 2	complied	_	Word	Word	_	0	root	0:root	_
-3	.	_	Punctuation	Punctuation	_	2	punct	2:punct	_
+3	.	_	Punctuation	Punctuation	_	2	U	2:U	_
 

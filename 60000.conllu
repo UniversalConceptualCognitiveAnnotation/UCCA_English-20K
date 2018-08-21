@@ -2,20 +2,20 @@
 # sent_id = 60000
 # text = The engineers then proceeded to inspect the Scotia , which had been put in dry dock .
 1	The	_	Word	Word	_	2	E	2:E	_
-2	engineers	_	Word	Word	_	0	root	0:root	_
+2	engineers	_	Word	Word	_	6	A	6:A	_
 3	then	_	Word	Word	_	6	L	6:L	_
 4	proceeded	_	Word	Word	_	6	D	6:D	_
 5	to	_	Word	Word	_	6	F	6:F	_
-6	inspect	_	Word	Word	_	2	orphan	2:orphan	_
+6	inspect	_	Word	Word	_	0	root	0:root	_
 7	the	_	Word	Word	_	8	E	8:E	_
-8	Scotia	_	Word	Word	_	2	orphan	2:orphan	_
-9	,	_	Punctuation	Punctuation	_	8	punct	8:punct	_
+8	Scotia	_	Word	Word	_	6	A	6:A	_
+9	,	_	Punctuation	Punctuation	_	8	U	8:U	_
 10	which	_	Word	Word	_	13	R	13:R	_
 11	had	_	Word	Word	_	13	F	13:F	_
 12	been	_	Word	Word	_	13	F	13:F	_
-13	put	_	Word	Word	_	2	orphan	2:orphan	_
+13	put	_	Word	Word	_	8	E	8:E	_
 14	in	_	Word	Word	_	16	R	16:R	_
 15	dry	_	Word	Word	_	16	E	16:E	_
-16	dock	_	Word	Word	_	2	orphan	2:orphan	_
-17	.	_	Punctuation	Punctuation	_	16	punct	16:punct	_
+16	dock	_	Word	Word	_	13	A	13:A	_
+17	.	_	Punctuation	Punctuation	_	16	U	16:U	_
 
