@@ -18,7 +18,7 @@
 15	left	_	Word	Word	_	11	C	11:C	_
 16	shot	_	Word	Word	_	19	A	19:A	_
 17	,	_	Punctuation	Punctuation	_	19	U	19:U	_
-18	he	_	Word	Word	_	19	A	19:A|24:A|41:A|34:A|26:A	_
+18	he	_	Word	Word	_	19	A	19:A|26:A|34:A|24:A|41:A	_
 19	harpooned	_	Word	Word	_	7	H	7:H	_
 20	not	_	Word	Word	_	19	D	19:D	_
 21	one	_	Word	Word	_	22	E	22:E	_
