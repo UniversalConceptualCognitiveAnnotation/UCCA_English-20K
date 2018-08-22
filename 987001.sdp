@@ -1,6 +1,6 @@
 # format = ucca
 1	The	_	Word	-	-	_	E	_	_	_	_	_
-2	Abraham	_	Word	-	+	_	_	_	_	_	A	A
+2	Abraham	_	Word	-	+	_	_	_	_	_	A*	A*
 3	Lincoln	_	Word	-	-	_	Terminal	_	_	_	_	_
 4	had	_	Word	-	-	_	_	F	_	_	_	_
 5	done	_	Word	-	+	_	_	_	_	_	_	_

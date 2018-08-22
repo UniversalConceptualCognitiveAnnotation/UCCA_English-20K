@@ -13,7 +13,7 @@
 12	that	_	Word	-	-	_	_	_	_	_	_	R	_	_	_	_
 13	allowed	_	Word	-	+	_	_	_	_	_	E	_	_	_	_	_
 14	the	_	Word	-	-	_	_	_	_	_	_	_	E	_	_	_
-15	tension	_	Word	-	+	_	_	_	_	_	_	_	_	_	A	_
+15	tension	_	Word	-	+	_	_	_	_	_	_	_	_	_	A*	_
 16	of	_	Word	-	-	_	_	_	_	_	_	_	_	R	_	_
 17	its	_	Word	-	-	_	_	_	_	_	_	_	_	E	_	_
 18	steam	_	Word	-	+	_	_	_	_	_	_	_	A	_	_	_

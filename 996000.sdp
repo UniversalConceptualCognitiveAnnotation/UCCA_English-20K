@@ -13,7 +13,7 @@
 12	replied	_	Word	-	+	_	_	_	_	_	_	_	_	_
 13	,	_	Punctuation	-	-	_	_	_	U	_	_	_	_	_
 14	"	_	Punctuation	-	-	_	_	_	U	_	_	_	_	_
-15	I	_	Word	-	-	_	_	_	_	A	_	_	_	A
+15	I	_	Word	-	-	_	_	_	_	A	_	_	_	A*
 16	never	_	Word	-	-	_	_	_	_	T	_	_	_	_
 17	expected	_	Word	-	-	_	_	_	_	D	_	_	_	_
 18	to	_	Word	-	-	_	_	_	_	F	_	_	_	_

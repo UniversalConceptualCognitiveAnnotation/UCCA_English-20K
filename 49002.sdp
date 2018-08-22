@@ -8,7 +8,7 @@
 7	hull	_	Word	-	+	_	E	_	_	_	_	_	_	_	_
 8	,	_	Punctuation	-	-	_	_	_	_	U	_	_	_	_	_
 9	the	_	Word	-	-	_	_	_	E	_	_	_	_	_	_
-10	Moravian	_	Word	-	+	_	_	_	_	A	_	A	_	_	_
+10	Moravian	_	Word	-	+	_	_	_	_	A	_	A*	_	_	_
 11	would	_	Word	-	-	_	_	_	_	D	_	_	_	_	_
 12	surely	_	Word	-	-	_	_	_	_	G	_	_	_	_	_
 13	have	_	Word	-	-	_	_	_	_	F	_	_	_	_	_

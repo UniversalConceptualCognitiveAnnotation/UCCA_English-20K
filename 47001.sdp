@@ -11,7 +11,7 @@
 10	at	_	Word	-	-	_	_	_	_	R	_	_	_	_	_	_	_	_	_	_	_	_	_	_
 11	feature	_	Word	-	-	_	_	_	_	E	_	_	_	_	_	_	_	_	_	_	_	_	_	_
 12	articles	_	Word	-	+	_	_	_	A	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
-13	from	_	Word	-	-	_	_	_	_	_	R	R	_	R	_	_	_	_	_	_	_	_	_	_
+13	from	_	Word	-	-	_	_	_	_	_	R	R*	_	R*	_	_	_	_	_	_	_	_	_	_
 14	the	_	Word	-	+	_	_	_	_	E	_	_	_	_	_	_	_	_	_	_	_	_	_	_
 15	Geographic	_	Word	-	-	_	_	_	_	_	Terminal	_	_	_	_	_	_	_	_	_	_	_	_	_
 16	Institute	_	Word	-	-	_	_	_	_	_	Terminal	_	_	_	_	_	_	_	_	_	_	_	_	_

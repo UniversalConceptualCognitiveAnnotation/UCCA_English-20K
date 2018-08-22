@@ -17,7 +17,7 @@
 16	three	_	Word	-	-	_	_	_	_	_	_	_	E	_	_	_	_
 17	wooden	_	Word	-	-	_	_	_	_	_	_	_	E	_	_	_	_
 18	ships	_	Word	-	+	_	_	_	_	_	_	A	_	_	_	_	_
-19	with	_	Word	-	-	_	_	_	_	_	_	_	_	_	R	R	_
+19	with	_	Word	-	-	_	_	_	_	_	_	_	_	_	R	R*	_
 20	400	_	Word	-	-	_	_	_	_	_	_	_	_	E	_	_	_
 21	-	_	Punctuation	-	-	_	_	_	_	_	_	_	_	U	_	_	_
 22	horsepower	_	Word	-	+	_	_	_	_	_	_	_	_	_	E	_	_

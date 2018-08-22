@@ -17,7 +17,7 @@
 16	"	_	Punctuation	-	-	_	_	_	U	_	_	_	_
 17	Because	_	Word	-	-	_	L	_	_	_	_	_	_
 18	the	_	Word	-	-	_	_	_	_	_	E	_	_
-19	water	_	Word	-	+	_	_	_	_	_	_	_	A
+19	water	_	Word	-	+	_	_	_	_	_	_	_	A*
 20	surrounds	_	Word	-	+	_	H	_	_	_	_	_	_
 21	me	_	Word	-	-	_	_	_	_	_	_	A	_
 22	but	_	Word	-	-	_	L	_	_	_	_	_	_

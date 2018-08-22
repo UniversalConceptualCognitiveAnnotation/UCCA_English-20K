@@ -23,7 +23,7 @@
 22	after	_	Word	-	-	_	_	_	_	_	Terminal	_	_
 23	?	_	Punctuation	-	-	_	_	U	_	_	_	_	_
 24	Do	_	Word	-	-	_	_	_	_	_	_	F	_
-25	you	_	Word	-	-	_	_	_	_	_	_	A	A
+25	you	_	Word	-	-	_	_	_	_	_	_	A	A*
 26	have	_	Word	-	-	_	_	_	_	_	_	D	_
 27	any	_	Word	-	-	_	_	_	_	_	_	E	_
 28	particular	_	Word	-	-	_	_	_	_	_	_	D	_

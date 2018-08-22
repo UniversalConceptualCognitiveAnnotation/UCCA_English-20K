@@ -10,7 +10,7 @@
 9	English	_	Word	-	-	_	_	_	E	_	_	_	_	_	_	_
 10	feet	_	Word	-	+	_	_	E	_	_	_	_	_	_	_	_
 11	-	_	Punctuation	-	-	_	U	_	_	_	_	_	_	_	_	_
-12	he	_	Word	-	-	_	_	_	_	A	A	E	A	A	A	A
+12	he	_	Word	-	-	_	_	_	_	A	A*	E*	A*	A*	A*	A*
 13	was	_	Word	-	-	_	_	_	_	F	_	_	_	_	_	_
 14	powerfully	_	Word	-	-	_	_	_	_	D	_	_	_	_	_	_
 15	built	_	Word	-	+	_	H	_	_	_	_	_	_	_	_	_

@@ -2,7 +2,7 @@
 1	Could	_	Word	-	-	_	_	_	D	_	_	_	_	_	_	_
 2	n't	_	Word	-	-	_	_	_	D	_	_	_	_	_	_	_
 3	the	_	Word	-	-	_	E	_	_	_	_	_	_	_	_	_
-4	heart	_	Word	-	+	_	_	_	A	_	A	_	_	_	_	_
+4	heart	_	Word	-	+	_	_	_	A	_	A*	_	_	_	_	_
 5	of	_	Word	-	-	_	_	R	_	_	_	_	_	_	_	_
 6	the	_	Word	-	-	_	_	E	_	_	_	_	_	_	_	_
 7	ocean	_	Word	-	+	_	E	_	_	_	_	_	_	_	_	_

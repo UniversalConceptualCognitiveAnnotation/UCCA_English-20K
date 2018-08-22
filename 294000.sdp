@@ -4,7 +4,7 @@
 3	after	_	Word	-	-	_	L	_	_	_	_	_	_	_	_	_	_	_
 4	inquiries	_	Word	-	-	_	A	_	_	_	_	_	_	_	_	_	_	_
 5	conducted	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_
-6	in	_	Word	-	-	_	_	R	R	R	R	R	R	R	R	_	_	_
+6	in	_	Word	-	-	_	_	R	R*	R*	R*	R*	R*	R*	R*	_	_	_
 7	England	_	Word	-	+	_	A	_	_	_	_	_	_	_	_	_	_	_
 8	,	_	Punctuation	-	-	_	_	U	_	_	_	_	_	_	_	_	_	_
 9	France	_	Word	-	+	_	_	C	_	_	_	_	_	_	_	_	_	_

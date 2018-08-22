@@ -1,5 +1,5 @@
 # format = ucca
-1	I	_	Word	-	-	_	A	_	A	_	_	_	_
+1	I	_	Word	-	-	_	A	_	A*	_	_	_	_
 2	forgot	_	Word	-	+	_	_	_	_	_	_	_	_
 3	everything	_	Word	-	+	_	A	_	_	_	_	_	_
 4	else	_	Word	-	-	_	_	E	_	_	_	_	_

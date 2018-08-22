@@ -7,7 +7,7 @@
 6	my	_	Word	-	-	_	_	E	_	_	_	_	_
 7	cabin	_	Word	-	+	_	A	_	_	_	_	_	_
 8	,	_	Punctuation	-	-	_	_	U	_	_	_	_	_
-9	which	_	Word	-	-	_	_	_	R	_	R	_	_
+9	which	_	Word	-	-	_	_	_	R	_	R*	_	_
 10	was	_	Word	-	-	_	_	_	F	_	_	_	_
 11	located	_	Word	-	+	_	_	E	_	_	_	_	_
 12	in	_	Word	-	-	_	_	_	_	R	_	_	_

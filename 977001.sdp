@@ -1,6 +1,6 @@
 # format = ucca
 1	The	_	Word	-	-	_	E	_	_	_	_	_	_	_	_	_
-2	Abraham	_	Word	-	+	_	_	_	A	_	_	_	_	_	_	_
+2	Abraham	_	Word	-	+	_	_	_	A*	_	_	_	_	_	_	_
 3	Lincoln	_	Word	-	-	_	Terminal	_	_	_	_	_	_	_	_	_
 4	would	_	Word	-	-	_	_	F	_	_	_	_	_	_	_	_
 5	change	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_

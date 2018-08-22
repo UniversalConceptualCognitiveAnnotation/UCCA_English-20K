@@ -1,6 +1,6 @@
 # format = ucca
 1	Snatching	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_
-2	only	_	Word	-	-	_	D	_	_	D	_	_	_	_	_	_
+2	only	_	Word	-	-	_	D	_	_	D*	_	_	_	_	_	_
 3	a	_	Word	-	-	_	_	E	_	_	_	_	_	_	_	_
 4	few	_	Word	-	-	_	_	E	_	_	_	_	_	_	_	_
 5	minutes	_	Word	-	+	_	A	_	_	_	_	_	_	_	_	_

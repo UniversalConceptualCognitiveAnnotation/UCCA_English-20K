@@ -9,8 +9,8 @@
 8	believers	_	Word	-	+	_	_	A	_	_	_
 9	and	_	Word	-	-	_	_	_	N	_	_
 10	skeptics	_	Word	-	-	_	_	_	C	_	_
-11	in	_	Word	-	-	_	_	_	_	R	R
-12	the	_	Word	-	-	_	_	_	_	E	E
+11	in	_	Word	-	-	_	_	_	_	R	R*
+12	the	_	Word	-	-	_	_	_	_	E	E*
 13	scholarly	_	Word	-	-	_	_	_	_	E	_
 14	societies	_	Word	-	+	_	_	A	_	_	_
 15	and	_	Word	-	-	_	_	_	_	N	_

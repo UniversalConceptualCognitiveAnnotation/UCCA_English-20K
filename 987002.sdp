@@ -14,7 +14,7 @@
 13	and	_	Word	-	-	_	_	_	_	N	_	_	_	_
 14	zeal	_	Word	-	-	_	_	_	_	C	_	_	_	_
 15	;	_	Punctuation	-	-	_	_	_	U	_	_	_	_	_
-16	they	_	Word	-	-	_	_	_	_	_	A	_	A	A
+16	they	_	Word	-	-	_	_	_	_	_	A	_	A*	A*
 17	were	_	Word	-	-	_	_	_	_	_	F	_	_	_
 18	n't	_	Word	-	-	_	_	_	_	_	D	_	_	_
 19	responsible	_	Word	-	+	_	_	_	H	_	_	_	_	_

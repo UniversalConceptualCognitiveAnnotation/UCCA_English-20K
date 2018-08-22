@@ -8,7 +8,7 @@
 7	bulkheads	_	Word	-	+	_	A	_	_	_	_	_	_
 8	,	_	Punctuation	-	-	_	U	_	_	_	_	_	_
 9	the	_	Word	-	-	_	_	_	_	E	_	_	_
-10	Scotia	_	Word	-	+	_	A	_	_	_	A	_	_
+10	Scotia	_	Word	-	+	_	A*	_	_	_	A	_	_
 11	could	_	Word	-	-	_	_	_	_	_	D	_	_
 12	brave	_	Word	-	+	_	H	_	_	_	_	_	_
 13	any	_	Word	-	-	_	_	_	_	_	_	E	_

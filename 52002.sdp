@@ -6,7 +6,7 @@
 5	the	_	Word	-	-	_	_	E	_	_	_	_	_	_	_	_	_
 6	company	_	Word	-	+	_	_	_	E	_	_	_	_	_	_	_	_
 7	's	_	Word	-	-	_	_	R	_	_	_	_	_	_	_	_	_
-8	assets	_	Word	-	+	_	_	_	_	A	_	_	_	_	A	_	_
+8	assets	_	Word	-	+	_	_	_	_	A	_	_	_	_	A*	_	_
 9	were	_	Word	-	-	_	_	_	_	F	_	_	_	_	_	_	_
 10	increased	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_
 11	by	_	Word	-	-	_	_	_	_	_	_	R	_	_	_	_	_
@@ -30,9 +30,9 @@
 29	two	_	Word	-	-	_	_	_	_	_	_	_	_	_	E	_	_
 30	other	_	Word	-	-	_	_	_	_	_	_	_	_	_	E	_	_
 31	vessels	_	Word	-	+	_	_	_	_	H	_	_	_	_	_	_	_
-32	of	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	R	R
-33	still	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	E	E
-34	greater	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	E	E
+32	of	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	R	R*
+33	still	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	E	E*
+34	greater	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	E	E*
 35	power	_	Word	-	+	_	_	_	_	_	_	_	_	_	E	_	_
 36	and	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	N	_
 37	tonnage	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	C	_

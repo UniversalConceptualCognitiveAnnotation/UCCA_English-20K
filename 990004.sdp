@@ -7,7 +7,7 @@
 6	to	_	Word	-	-	_	_	Terminal	_	_	_	_	_	_	_
 7	,	_	Punctuation	-	-	_	_	U	_	_	_	_	_	_	_
 8	its	_	Word	-	-	_	_	_	E	_	_	_	_	_	_
-9	longboats	_	Word	-	+	_	_	_	_	_	_	_	_	_	A
+9	longboats	_	Word	-	+	_	_	_	_	_	_	_	_	_	A*
 10	radiated	_	Word	-	+	_	_	H	_	_	_	_	_	_	_
 11	in	_	Word	-	-	_	_	_	_	_	R	_	_	_	_
 12	every	_	Word	-	-	_	_	_	_	_	E	_	_	_	_

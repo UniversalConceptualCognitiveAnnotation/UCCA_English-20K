@@ -4,7 +4,7 @@
 3	the	_	Word	-	-	_	_	E	_	_	_	_	_
 4	frigate	_	Word	-	+	_	_	_	A	_	_	_	_
 5	lay	_	Word	-	+	_	_	_	_	_	_	_	_
-6	in	_	Word	-	-	_	_	_	_	_	R	_	R
+6	in	_	Word	-	-	_	_	_	_	_	R	_	R*
 7	latitude	_	Word	-	+	_	_	_	_	_	E	_	_
 8	31	_	Word	-	+	_	_	_	A	_	_	_	_
 9	°	_	Punctuation	-	-	_	_	_	_	_	U	_	_

@@ -1,7 +1,7 @@
 # format = ucca
 1	The	_	Word	-	-	_	E	_	_	_	_	_	_	_
 2	hypothesis	_	Word	-	+	_	_	_	_	_	_	_	_	A
-3	of	_	Word	-	-	_	_	R	R	_	_	_	_	_
+3	of	_	Word	-	-	_	_	R	R*	_	_	_	_	_
 4	a	_	Word	-	-	_	_	E	_	_	_	_	_	_
 5	drifting	_	Word	-	-	_	_	E	_	_	_	_	_	_
 6	islet	_	Word	-	+	_	E	_	_	_	_	_	_	_

@@ -18,9 +18,9 @@
 17	you	_	Word	-	+	_	_	H	_	_	_	_	_	_	_	_	_	_	_	_
 18	can	_	Word	-	-	_	_	_	_	_	_	D	_	_	_	_	_	_	_	_
 19	,	_	Punctuation	-	-	_	_	U	_	_	_	_	_	_	_	_	_	_	_	_
-20	my	_	Word	-	-	_	_	_	_	_	_	_	E	_	E	E	_	_	_	_
+20	my	_	Word	-	-	_	_	_	_	_	_	_	E	_	E*	E*	_	_	_	_
 21	traveling	_	Word	-	-	_	_	_	_	_	_	_	E	_	_	_	_	_	_	_
-22	kit	_	Word	-	+	_	_	_	A	_	_	_	_	_	_	_	A	_	_	_
+22	kit	_	Word	-	+	_	_	_	A	_	_	_	_	_	_	_	A*	_	_	_
 23	,	_	Punctuation	-	-	_	_	_	_	_	_	_	U	_	_	_	_	_	_	_
 24	my	_	Word	-	-	_	_	_	_	_	_	_	_	E	_	_	_	_	_	_
 25	suits	_	Word	-	+	_	_	_	_	_	_	_	C	_	_	_	_	_	_	_

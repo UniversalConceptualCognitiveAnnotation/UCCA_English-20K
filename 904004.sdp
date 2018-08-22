@@ -20,7 +20,7 @@
 19	dealing	_	Word	-	+	_	_	_	_	H	_	_	_	_
 20	with	_	Word	-	-	_	_	_	_	_	_	R	_	_
 21	salt	_	Word	-	-	_	_	_	_	_	_	E	_	_
-22	water	_	Word	-	+	_	_	_	_	_	A	_	A	_
+22	water	_	Word	-	+	_	_	_	_	_	A	_	A*	_
 23	,	_	Punctuation	-	-	_	_	_	_	U	_	_	_	_
 24	which	_	Word	-	-	_	_	_	_	L	_	_	_	_
 25	is	_	Word	-	-	_	_	_	_	_	_	_	F	_

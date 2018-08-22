@@ -16,11 +16,11 @@
 15	left	_	Word	-	-	_	_	_	C	_	_	_	_	_	_	_	_	_	_	_	_
 16	shot	_	Word	-	+	_	_	_	_	_	A	_	_	_	_	_	_	_	_	_	_
 17	,	_	Punctuation	-	-	_	_	_	_	_	U	_	_	_	_	_	_	_	_	_	_
-18	he	_	Word	-	-	_	_	_	_	_	A	_	A	A	_	_	A	_	_	_	A
+18	he	_	Word	-	-	_	_	_	_	_	A	_	A*	A*	_	_	A*	_	_	_	A*
 19	harpooned	_	Word	-	+	_	_	H	_	_	_	_	_	_	_	_	_	_	_	_	_
 20	not	_	Word	-	-	_	_	_	_	_	D	_	_	_	_	_	_	_	_	_	_
 21	one	_	Word	-	-	_	_	_	_	_	_	E	_	_	_	_	_	_	_	_	_
-22	whale	_	Word	-	+	_	_	_	_	_	_	_	A	_	C	_	_	C	_	_	A
+22	whale	_	Word	-	+	_	_	_	_	_	_	_	A*	_	C*	_	_	C*	_	_	A*
 23	but	_	Word	-	-	_	_	L	_	_	_	_	_	_	_	_	_	_	_	_	_
 24	two	_	Word	-	+	_	_	H	_	_	_	_	_	_	_	_	_	_	_	_	_
 25	,	_	Punctuation	-	-	_	_	U	_	_	_	_	_	_	_	_	_	_	_	_	_

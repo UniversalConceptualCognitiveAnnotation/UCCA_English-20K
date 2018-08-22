@@ -10,7 +10,7 @@
 9	promise	_	Word	-	+	_	_	_	A	_	_	_	_	_	_	_	_
 10	,	_	Punctuation	-	-	_	_	_	U	_	_	_	_	_	_	_	_
 11	Commander	_	Word	-	-	_	_	_	_	_	E	_	_	_	_	_	_
-12	Farragut	_	Word	-	+	_	_	A	_	_	_	_	_	_	_	_	_
+12	Farragut	_	Word	-	+	_	_	A*	_	_	_	_	_	_	_	_	_
 13	would	_	Word	-	-	_	_	_	_	_	_	_	F	_	_	_	_
 14	have	_	Word	-	+	_	_	_	_	_	_	_	D	_	_	_	_
 15	to	_	Word	-	-	_	_	_	_	_	_	Terminal	_	_	_	_	_

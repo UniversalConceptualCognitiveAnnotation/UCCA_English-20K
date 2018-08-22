@@ -5,7 +5,7 @@
 4	takes	_	Word	-	-	_	D	_	_	_	_
 5	incalculable	_	Word	-	-	_	D	_	_	_	_
 6	strength	_	Word	-	+	_	_	_	_	_	_
-7	just	_	Word	-	-	_	_	D	_	D	_
+7	just	_	Word	-	-	_	_	D	_	D*	_
 8	to	_	Word	-	-	_	_	F	_	_	_
 9	live	_	Word	-	+	_	A	_	_	_	_
 10	in	_	Word	-	-	_	_	_	R	_	_

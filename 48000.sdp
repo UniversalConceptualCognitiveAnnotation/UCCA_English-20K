@@ -16,7 +16,7 @@
 15	buried	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_
 16	,	_	Punctuation	-	-	_	_	_	_	_	U	_	_	_	_	_
 17	and	_	Word	-	-	_	_	_	_	_	L	_	_	_	_	_
-18	it	_	Word	-	-	_	_	_	_	_	_	A	A	_	_	_
+18	it	_	Word	-	-	_	_	_	_	_	_	A	A*	_	_	_
 19	did	_	Word	-	-	_	_	_	_	_	_	F	_	_	_	_
 20	n't	_	Word	-	-	_	_	_	_	_	_	D	_	_	_	_
 21	seem	_	Word	-	-	_	_	_	_	_	_	G	_	_	_	_

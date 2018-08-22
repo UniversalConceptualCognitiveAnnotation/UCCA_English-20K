@@ -1,7 +1,7 @@
 # format = ucca
 1	The	_	Word	-	-	_	E	_	_	_	_	_	_	_
 2	harbor	_	Word	-	-	_	E	_	_	_	_	_	_	_
-3	pilot	_	Word	-	+	_	_	_	_	A	_	_	_	_
+3	pilot	_	Word	-	+	_	_	_	_	A*	_	_	_	_
 4	went	_	Word	-	+	_	_	_	_	_	_	_	_	_
 5	down	_	Word	-	-	_	_	Terminal	_	_	_	_	_	_
 6	into	_	Word	-	-	_	_	_	R	_	_	_	_	_

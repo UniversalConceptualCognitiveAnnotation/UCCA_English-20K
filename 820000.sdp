@@ -14,7 +14,7 @@
 13	Gardens	_	Word	-	+	_	_	_	E	_	_	_	_
 14	,	_	Punctuation	-	-	_	U	_	_	_	_	_	_
 15	the	_	Word	-	-	_	_	_	_	_	E	_	_
-16	boy	_	Word	-	+	_	A	_	_	_	_	_	_
+16	boy	_	Word	-	+	_	A*	_	_	_	_	_	_
 17	had	_	Word	-	-	_	_	_	_	_	_	F	_
 18	come	_	Word	-	+	_	H	_	_	_	_	_	_
 19	to	_	Word	-	-	_	_	_	_	_	_	Terminal	_
