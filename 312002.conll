@@ -26,7 +26,7 @@
 24	devoted	_	Word	Word	_	23	E	_	_
 25	to	_	Word	Word	_	27	R	_	_
 26	insurance	_	Word	Word	_	27	E	_	_
-27	companies	_	Word	Word	_	32	A	_	_
+27	companies	_	Word	Word	_	32	A*	_	_
 28	-	_	Punctuation	Punctuation	_	32	U	_	_
 29	who	_	Word	Word	_	32	R	_	_
 30	threatened	_	Word	Word	_	32	D	_	_

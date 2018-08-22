@@ -40,7 +40,7 @@
 38	dangerous	_	Word	Word	_	15	H	_	_
 39	,	_	Punctuation	Punctuation	_	15	U	_	_
 40	the	_	Word	Word	_	41	E	_	_
-41	public	_	Word	Word	_	45	A	_	_
+41	public	_	Word	Word	_	45	A*	_	_
 42	spoke	_	Word	Word	_	15	H	_	_
 43	up	_	Word	Word	_	42	Terminal	_	_
 44	and	_	Word	Word	_	15	L	_	_

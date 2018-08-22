@@ -16,7 +16,7 @@
 14	,	_	Punctuation	Punctuation	_	2	U	_	_
 15	and	_	Word	Word	_	2	L	_	_
 16	the	_	Word	Word	_	17	E	_	_
-17	public	_	Word	Word	_	20	A	_	_
+17	public	_	Word	Word	_	20	A*	_	_
 18	accepted	_	Word	Word	_	2	H	_	_
 19	without	_	Word	Word	_	2	L	_	_
 20	argument	_	Word	Word	_	2	H	_	_

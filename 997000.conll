@@ -43,13 +43,13 @@
 41	months	_	Word	Word	_	47	T	_	_
 42	ago	_	Word	Word	_	41	R	_	_
 43	we	_	Word	Word	_	47	A	_	_
-43	we	_	Word	Word	_	64	D	_	_
-43	we	_	Word	Word	_	55	D	_	_
+43	we	_	Word	Word	_	55	D*	_	_
+43	we	_	Word	Word	_	64	D*	_	_
 44	could	_	Word	Word	_	47	D	_	_
 45	have	_	Word	Word	_	47	F	_	_
 46	been	_	Word	Word	_	47	F	_	_
-47	back	_	Word	Word	_	55	S	_	_
-47	back	_	Word	Word	_	64	S	_	_
+47	back	_	Word	Word	_	55	S*	_	_
+47	back	_	Word	Word	_	64	S*	_	_
 48	in	_	Word	Word	_	49	R	_	_
 49	France-	_	Word	Word	_	47	A	_	_
 50	"	_	Punctuation	Punctuation	_	4	U	_	_

@@ -24,7 +24,7 @@
 22	of	_	Word	Word	_	27	R	_	_
 23	such	_	Word	Word	_	25	E	_	_
 24	a	_	Word	Word	_	25	E	_	_
-25	monster	_	Word	Word	_	31	A	_	_
+25	monster	_	Word	Word	_	31	A*	_	_
 26	sight	_	Word	Word	_	27	A	_	_
 27	unseen	_	Word	Word	_	21	A	_	_
 28	-	_	Word	Word	_	27	F	_	_

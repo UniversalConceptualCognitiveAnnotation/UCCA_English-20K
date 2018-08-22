@@ -1,7 +1,7 @@
 # format = ucca
 # sent_id = 892002
 1	He	_	Word	Word	_	2	A	_	_
-1	He	_	Word	Word	_	4	A	_	_
+1	He	_	Word	Word	_	4	A*	_	_
 2	avoided	_	Word	Word	_	0	ROOT	_	_
 3	even	_	Word	Word	_	2	G	_	_
 4	dealing	_	Word	Word	_	2	A	_	_
