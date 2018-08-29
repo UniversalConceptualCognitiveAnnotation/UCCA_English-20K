@@ -5,14 +5,14 @@
 2	high	_	Word	Word	_	4	E	4:E	_
 3	-	_	Punctuation	Punctuation	_	4	U	4:U	_
 4	speed	_	Word	Word	_	5	E	5:E	_
-5	frigate	_	Word	Word	_	0	root	0:root	_
+5	frigate	_	Word	Word	_	0	C	0:C|15:A	_
 6	,	_	Punctuation	Punctuation	_	12	U	12:U	_
 7	the	_	Word	Word	_	8	E	8:E	_
 8	Abraham	_	Word	Word	_	12	A	12:A	_
 9	Lincoln	_	Word	Word	_	8	Terminal	8:Terminal	_
 10	,	_	Punctuation	Punctuation	_	12	U	12:U	_
 11	was	_	Word	Word	_	12	F	12:F	_
-12	fitted	_	Word	Word	_	5	orphan	5:orphan	_
+12	fitted	_	Word	Word	_	0	H	0:H	_
 13	out	_	Word	Word	_	12	Terminal	12:Terminal	_
 14	for	_	Word	Word	_	15	R	15:R	_
 15	putting	_	Word	Word	_	12	H	12:H	_

@@ -2,13 +2,13 @@
 # sent_id = 976006
 # text = With panting chests and anxious eyes , we each would observe the cetacean 's movements .
 1	With	_	Word	Word	_	2	L	2:L	_
-2	panting	_	Word	Word	_	0	root	0:root	_
+2	panting	_	Word	Word	_	0	H	0:H	_
 3	chests	_	Word	Word	_	2	A	2:A	_
 4	and	_	Word	Word	_	2	L	2:L	_
 5	anxious	_	Word	Word	_	2	H	2:H	_
 6	eyes	_	Word	Word	_	5	A	5:A	_
 7	,	_	Punctuation	Punctuation	_	5	U	5:U	_
-8	we	_	Word	Word	_	2	orphan	2:orphan	_
+8	we	_	Word	Word	_	0	C	0:C|2:A|5:A	_
 9	each	_	Word	Word	_	8	E	8:E	_
 10	would	_	Word	Word	_	11	F	11:F	_
 11	observe	_	Word	Word	_	2	H	2:H	_

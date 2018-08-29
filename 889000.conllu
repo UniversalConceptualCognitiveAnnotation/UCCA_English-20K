@@ -4,7 +4,7 @@
 1	To	_	Word	Word	_	2	F	2:F	_
 2	say	_	Word	Word	_	4	A	4:A	_
 3	Canadian	_	Word	Word	_	2	A	2:A	_
-4	is	_	Word	Word	_	0	root	0:root	_
+4	is	_	Word	Word	_	0	H	0:H	_
 5	to	_	Word	Word	_	6	F	6:F	_
 6	say	_	Word	Word	_	4	A	4:A	_
 7	French	_	Word	Word	_	6	A	6:A	_

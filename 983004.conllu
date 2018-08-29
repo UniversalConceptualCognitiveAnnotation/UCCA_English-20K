@@ -2,7 +2,7 @@
 # sent_id = 983004
 # text = Nobody ate , nobody slept .
 1	Nobody	_	Word	Word	_	2	A	2:A	_
-2	ate	_	Word	Word	_	0	root	0:root	_
+2	ate	_	Word	Word	_	0	H	0:H	_
 3	,	_	Punctuation	Punctuation	_	2	U	2:U	_
 4	nobody	_	Word	Word	_	5	A	5:A	_
 5	slept	_	Word	Word	_	2	H	2:H	_

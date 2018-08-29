@@ -2,7 +2,7 @@
 # sent_id = 880004
 # text = He believed in it as certain pious women believe in the leviathan from the Book of Job - out of faith , not reason .
 1	He	_	Word	Word	_	2	A	2:A	_
-2	believed	_	Word	Word	_	0	root	0:root	_
+2	believed	_	Word	Word	_	0	H	0:H	_
 3	in	_	Word	Word	_	4	R	4:R	_
 4	it	_	Word	Word	_	2	A	2:A	_
 5	as	_	Word	Word	_	2	L	2:L	_

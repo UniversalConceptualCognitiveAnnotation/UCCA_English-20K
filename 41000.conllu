@@ -25,7 +25,7 @@
 22	Co	_	Word	Word	_	17	Terminal	17:Terminal	_
 23	.	_	Punctuation	Punctuation	_	25	U	25:U	_
 24	,	_	Punctuation	Punctuation	_	25	U	25:U	_
-25	encountered	_	Word	Word	_	0	root	0:root	_
+25	encountered	_	Word	Word	_	0	H	0:H	_
 26	this	_	Word	Word	_	28	E	28:E	_
 27	moving	_	Word	Word	_	28	E	28:E	_
 28	mass	_	Word	Word	_	25	A	25:A	_

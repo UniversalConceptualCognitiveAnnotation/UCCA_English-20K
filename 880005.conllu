@@ -3,7 +3,7 @@
 # text = The monster existed , and he had vowed to rid the seas of it .
 1	The	_	Word	Word	_	2	E	2:E	_
 2	monster	_	Word	Word	_	3	A	3:A	_
-3	existed	_	Word	Word	_	0	root	0:root	_
+3	existed	_	Word	Word	_	0	H	0:H	_
 4	,	_	Punctuation	Punctuation	_	3	U	3:U	_
 5	and	_	Word	Word	_	3	L	3:L	_
 6	he	_	Word	Word	_	8	A	8:A|10:A	_

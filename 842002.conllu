@@ -3,8 +3,8 @@
 # text = Long horizontal pistons groaned and pushed the tie rods of the drive shaft .
 1	Long	_	Word	Word	_	3	E	3:E	_
 2	horizontal	_	Word	Word	_	3	E	3:E	_
-3	pistons	_	Word	Word	_	0	root	0:root	_
-4	groaned	_	Word	Word	_	3	orphan	3:orphan	_
+3	pistons	_	Word	Word	_	0	C	0:C|6:A	_
+4	groaned	_	Word	Word	_	0	H	0:H	_
 5	and	_	Word	Word	_	4	L	4:L	_
 6	pushed	_	Word	Word	_	4	H	4:H	_
 7	the	_	Word	Word	_	9	E	9:E	_

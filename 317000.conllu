@@ -2,7 +2,7 @@
 # sent_id = 317000
 # text = I received a letter three hours before the Abraham Lincoln left its Brooklyn pier ; 1 the letter read as follows :
 1	I	_	Word	Word	_	2	A	2:A	_
-2	received	_	Word	Word	_	0	root	0:root	_
+2	received	_	Word	Word	_	0	H	0:H	_
 3	a	_	Word	Word	_	4	E	4:E	_
 4	letter	_	Word	Word	_	2	A	2:A	_
 5	three	_	Word	Word	_	6	E	6:E	_

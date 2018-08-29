@@ -2,7 +2,7 @@
 # sent_id = 989004
 # text = Spyglasses functioned with feverish energy .
 1	Spyglasses	_	Word	Word	_	2	A	2:A|4:A	_
-2	functioned	_	Word	Word	_	0	root	0:root	_
+2	functioned	_	Word	Word	_	0	H	0:H	_
 3	with	_	Word	Word	_	4	R	4:R	_
 4	feverish	_	Word	Word	_	2	A	2:A	_
 5	energy	_	Word	Word	_	4	A	4:A	_

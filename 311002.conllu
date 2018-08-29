@@ -2,7 +2,7 @@
 # sent_id = 311002
 # text = I repeat : opinion had crystallized as to the nature of this phenomenon , and the public accepted without argument the existence of a prodigious creature that had nothing in common with the fabled sea serpent .
 1	I	_	Word	Word	_	2	A	2:A	_
-2	repeat	_	Word	Word	_	0	root	0:root	_
+2	repeat	_	Word	Word	_	0	H	0:H	_
 3	:	_	Punctuation	Punctuation	_	2	U	2:U	_
 4	opinion	_	Word	Word	_	6	A	6:A	_
 5	had	_	Word	Word	_	6	F	6:F	_
@@ -17,7 +17,7 @@
 14	,	_	Punctuation	Punctuation	_	2	U	2:U	_
 15	and	_	Word	Word	_	2	L	2:L	_
 16	the	_	Word	Word	_	17	E	17:E	_
-17	public	_	Word	Word	_	2	orphan	2:orphan	_
+17	public	_	Word	Word	_	0	C	0:C|20:A	_
 18	accepted	_	Word	Word	_	2	H	2:H	_
 19	without	_	Word	Word	_	2	L	2:L	_
 20	argument	_	Word	Word	_	2	H	2:H	_

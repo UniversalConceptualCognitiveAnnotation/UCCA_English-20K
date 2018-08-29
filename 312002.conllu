@@ -17,7 +17,7 @@
 14	Packetboat	_	Word	Word	_	12	Terminal	12:Terminal	_
 15	and	_	Word	Word	_	1	N	1:N	_
 16	Maritime	_	Word	Word	_	1	C	1:C	_
-17	&	_	Punctuation	Punctuation	_	1	U	1:U	_
+17	&	_	Punctuation	Punctuation	_	16	U	16:U	_
 18	Colonial	_	Word	Word	_	16	Terminal	16:Terminal	_
 19	Review	_	Word	Word	_	16	Terminal	16:Terminal	_
 20	,	_	Punctuation	Punctuation	_	1	U	1:U	_
@@ -27,7 +27,7 @@
 24	devoted	_	Word	Word	_	23	E	23:E	_
 25	to	_	Word	Word	_	27	R	27:R	_
 26	insurance	_	Word	Word	_	27	E	27:E	_
-27	companies	_	Word	Word	_	0	root	0:root	_
+27	companies	_	Word	Word	_	0	C	0:C|32:A	_
 28	-	_	Punctuation	Punctuation	_	32	U	32:U	_
 29	who	_	Word	Word	_	32	R	32:R	_
 30	threatened	_	Word	Word	_	32	D	32:D	_
@@ -38,7 +38,7 @@
 35	rates	_	Word	Word	_	32	A	32:A	_
 36	-	_	Punctuation	Punctuation	_	38	U	38:U	_
 37	were	_	Word	Word	_	38	F	38:F	_
-38	unanimous	_	Word	Word	_	27	orphan	27:orphan	_
+38	unanimous	_	Word	Word	_	0	H	0:H	_
 39	on	_	Word	Word	_	41	R	41:R	_
 40	this	_	Word	Word	_	41	E	41:E	_
 41	point	_	Word	Word	_	38	A	38:A	_

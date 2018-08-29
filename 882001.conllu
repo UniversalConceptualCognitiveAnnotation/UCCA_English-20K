@@ -2,7 +2,7 @@
 # sent_id = 882001
 # text = They surveyed the sea with scrupulous care .
 1	They	_	Word	Word	_	2	A	2:A	_
-2	surveyed	_	Word	Word	_	0	root	0:root	_
+2	surveyed	_	Word	Word	_	0	H	0:H	_
 3	the	_	Word	Word	_	4	E	4:E	_
 4	sea	_	Word	Word	_	2	A	2:A	_
 5	with	_	Word	Word	_	7	R	7:R	_

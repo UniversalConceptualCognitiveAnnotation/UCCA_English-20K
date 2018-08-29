@@ -2,7 +2,7 @@
 # sent_id = 892002
 # text = He avoided even dealing with the subject , for which one day I felt compelled to take him to task .
 1	He	_	Word	Word	_	2	A	2:A|4:A	_
-2	avoided	_	Word	Word	_	0	root	0:root	_
+2	avoided	_	Word	Word	_	0	H	0:H	_
 3	even	_	Word	Word	_	2	G	2:G	_
 4	dealing	_	Word	Word	_	2	A	2:A	_
 5	with	_	Word	Word	_	7	R	7:R	_

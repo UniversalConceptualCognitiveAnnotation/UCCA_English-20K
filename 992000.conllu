@@ -5,7 +5,7 @@
 2	then	_	Word	Word	_	1	Terminal	1:Terminal	_
 3	the	_	Word	Word	_	4	E	4:E	_
 4	frigate	_	Word	Word	_	5	A	5:A	_
-5	lay	_	Word	Word	_	0	root	0:root	_
+5	lay	_	Word	Word	_	0	H	0:H	_
 6	in	_	Word	Word	_	8	R	8:R|14:R	_
 7	latitude	_	Word	Word	_	8	E	8:E	_
 8	31	_	Word	Word	_	5	A	5:A	_

@@ -6,7 +6,7 @@
 3	monster	_	Word	Word	_	5	E	5:E	_
 4	's	_	Word	Word	_	5	R	5:R	_
 5	detractors	_	Word	Word	_	6	A	6:A	_
-6	cited	_	Word	Word	_	0	root	0:root	_
+6	cited	_	Word	Word	_	0	H	0:H	_
 7	a	_	Word	Word	_	8	E	8:E	_
 8	saying	_	Word	Word	_	6	A	6:A	_
 9	by	_	Word	Word	_	12	R	12:R	_
@@ -23,7 +23,7 @@
 20	,	_	Punctuation	Punctuation	_	6	U	6:U	_
 21	"	_	Punctuation	Punctuation	_	6	U	6:U	_
 22	witty	_	Word	Word	_	23	E	23:E	_
-23	writers	_	Word	Word	_	6	orphan	6:orphan	_
+23	writers	_	Word	Word	_	0	C	0:C|31:A	_
 24	in	_	Word	Word	_	27	R	27:R	_
 25	the	_	Word	Word	_	27	E	27:E	_
 26	popular	_	Word	Word	_	27	E	27:E	_

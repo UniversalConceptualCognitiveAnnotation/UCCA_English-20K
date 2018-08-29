@@ -5,12 +5,12 @@
 2	this	_	Word	Word	_	3	E	3:E	_
 3	pressure	_	Word	Word	_	7	A	7:A	_
 4	the	_	Word	Word	_	5	E	5:E	_
-5	Abraham	_	Word	Word	_	0	root	0:root	_
+5	Abraham	_	Word	Word	_	0	C	0:C|25:A|19:A	_
 6	Lincoln	_	Word	Word	_	5	Terminal	5:Terminal	_
-7	reached	_	Word	Word	_	5	orphan	5:orphan	_
+7	reached	_	Word	Word	_	0	H	0:H	_
 8	an	_	Word	Word	_	10	E	10:E	_
 9	average	_	Word	Word	_	10	E	10:E	_
-10	speed	_	Word	Word	_	5	orphan	5:orphan	_
+10	speed	_	Word	Word	_	0	C	0:C|23:A	_
 11	of	_	Word	Word	_	10	R	10:R	_
 12	18.3	_	Word	Word	_	13	E	13:E	_
 13	miles	_	Word	Word	_	7	A	7:A	_

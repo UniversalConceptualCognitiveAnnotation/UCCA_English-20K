@@ -2,7 +2,7 @@
 # sent_id = 296002
 # text = Well received in scholarly circles , this book had established me as a specialist in this pretty obscure field of natural history .
 1	Well	_	Word	Word	_	2	D	2:D	_
-2	received	_	Word	Word	_	0	root	0:root	_
+2	received	_	Word	Word	_	0	H	0:H	_
 3	in	_	Word	Word	_	5	R	5:R	_
 4	scholarly	_	Word	Word	_	5	E	5:E	_
 5	circles	_	Word	Word	_	2	A	2:A	_

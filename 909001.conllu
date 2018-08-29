@@ -46,7 +46,7 @@
 43	had	_	Word	Word	_	46	D	46:D	_
 44	to	_	Word	Word	_	43	Terminal	43:Terminal	_
 45	be	_	Word	Word	_	46	F	46:F	_
-46	left	_	Word	Word	_	0	root	0:root	_
+46	left	_	Word	Word	_	0	H	0:H	_
 47	for	_	Word	Word	_	48	R	48:R	_
 48	later	_	Word	Word	_	46	T	46:T	_
 49	.	_	Punctuation	Punctuation	_	48	U	48:U	_

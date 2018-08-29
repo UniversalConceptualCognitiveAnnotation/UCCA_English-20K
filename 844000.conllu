@@ -2,9 +2,9 @@
 # sent_id = 844000
 # text = The frigate then went along the New Jersey coast - the wonderful right bank of this river , all loaded down with country homes - and passed by the forts to salutes from their biggest cannons .
 1	The	_	Word	Word	_	2	E	2:E	_
-2	frigate	_	Word	Word	_	0	root	0:root	_
+2	frigate	_	Word	Word	_	0	C	0:C|27:A|32:A	_
 3	then	_	Word	Word	_	4	L	4:L	_
-4	went	_	Word	Word	_	2	orphan	2:orphan	_
+4	went	_	Word	Word	_	0	H	0:H	_
 5	along	_	Word	Word	_	9	R	9:R	_
 6	the	_	Word	Word	_	9	E	9:E	_
 7	New	_	Word	Word	_	9	E	9:E	_
@@ -30,7 +30,7 @@
 27	passed	_	Word	Word	_	4	H	4:H	_
 28	by	_	Word	Word	_	30	R	30:R	_
 29	the	_	Word	Word	_	30	E	30:E	_
-30	forts	_	Word	Word	_	2	orphan	2:orphan	_
+30	forts	_	Word	Word	_	0	C	0:C|32:A	_
 31	to	_	Word	Word	_	4	L	4:L	_
 32	salutes	_	Word	Word	_	4	H	4:H	_
 33	from	_	Word	Word	_	36	R	36:R	_

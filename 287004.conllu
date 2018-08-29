@@ -3,7 +3,7 @@
 # text = Something was out there , that much was certain , and any doubting Thomas was invited to place his finger on the Scotia 's wound .
 1	Something	_	Word	Word	_	3	A	3:A	_
 2	was	_	Word	Word	_	3	F	3:F	_
-3	out	_	Word	Word	_	0	root	0:root	_
+3	out	_	Word	Word	_	0	H	0:H	_
 4	there	_	Word	Word	_	3	Terminal	3:Terminal	_
 5	,	_	Punctuation	Punctuation	_	3	U	3:U	_
 6	that	_	Word	Word	_	3	G	3:G	_

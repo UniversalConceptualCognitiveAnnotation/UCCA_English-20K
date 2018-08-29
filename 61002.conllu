@@ -6,7 +6,7 @@
 3	animal	_	Word	Word	_	6	A	6:A	_
 4	had	_	Word	Word	_	6	D	6:D	_
 5	to	_	Word	Word	_	4	Terminal	4:Terminal	_
-6	shoulder	_	Word	Word	_	0	root	0:root	_
+6	shoulder	_	Word	Word	_	0	H	0:H	_
 7	responsibility	_	Word	Word	_	6	A	6:A	_
 8	for	_	Word	Word	_	11	R	11:R	_
 9	all	_	Word	Word	_	11	E	11:E	_
@@ -42,7 +42,7 @@
 39	steam	_	Word	Word	_	37	E	37:E	_
 40	or	_	Word	Word	_	39	N	39:N	_
 41	sailing	_	Word	Word	_	42	E	42:E	_
-42	ships	_	Word	Word	_	6	orphan	6:orphan	_
+42	ships	_	Word	Word	_	0	C	0:C|39:C	_
 43	supposedly	_	Word	Word	_	44	D	44:D	_
 44	lost	_	Word	Word	_	39	E	39:E	_
 45	with	_	Word	Word	_	46	R	46:R	_

@@ -3,7 +3,7 @@
 # text = I had read and reread every American and European newspaper without being any farther along .
 1	I	_	Word	Word	_	3	A	3:A|15:A	_
 2	had	_	Word	Word	_	3	F	3:F	_
-3	read	_	Word	Word	_	0	root	0:root	_
+3	read	_	Word	Word	_	0	H	0:H	_
 4	and	_	Word	Word	_	3	N	3:N	_
 5	reread	_	Word	Word	_	3	C	3:C	_
 6	every	_	Word	Word	_	10	E	10:E	_

@@ -3,8 +3,8 @@
 # text = The harbor pilot went down into his dinghy and rejoined a little schooner waiting for him to leeward .
 1	The	_	Word	Word	_	3	E	3:E	_
 2	harbor	_	Word	Word	_	3	E	3:E	_
-3	pilot	_	Word	Word	_	0	root	0:root	_
-4	went	_	Word	Word	_	3	orphan	3:orphan	_
+3	pilot	_	Word	Word	_	0	C	0:C|10:A	_
+4	went	_	Word	Word	_	0	H	0:H	_
 5	down	_	Word	Word	_	4	Terminal	4:Terminal	_
 6	into	_	Word	Word	_	8	R	8:R	_
 7	his	_	Word	Word	_	8	E	8:E	_

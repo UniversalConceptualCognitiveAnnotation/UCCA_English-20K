@@ -9,9 +9,9 @@
 6	the	_	Word	Word	_	7	E	7:E	_
 7	honor	_	Word	Word	_	9	D	9:D	_
 8	of	_	Word	Word	_	9	R	9:R	_
-9	being	_	Word	Word	_	0	root	0:root	_
+9	being	_	Word	Word	_	0	H	0:H	_
 10	an	_	Word	Word	_	11	E	11:E	_
-11	expert	_	Word	Word	_	9	orphan	9:orphan	_
+11	expert	_	Word	Word	_	0	C	0:C|14:A	_
 12	as	_	Word	Word	_	9	L	9:L	_
 13	master	_	Word	Word	_	14	A	14:A	_
 14	is	_	Word	Word	_	9	H	9:H	_

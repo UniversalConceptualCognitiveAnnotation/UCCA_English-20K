@@ -4,9 +4,9 @@
 1	Because	_	Word	Word	_	4	L	4:L	_
 2	we	_	Word	Word	_	4	A	4:A	_
 3	've	_	Word	Word	_	4	F	4:F	_
-4	become	_	Word	Word	_	0	root	0:root	_
+4	become	_	Word	Word	_	0	H	0:H	_
 5	old	_	Word	Word	_	6	E	6:E	_
-6	friends	_	Word	Word	_	4	orphan	4:orphan	_
+6	friends	_	Word	Word	_	0	C	0:C|8:A	_
 7	,	_	Punctuation	Punctuation	_	8	U	8:U	_
 8	united	_	Word	Word	_	4	H	4:H	_
 9	in	_	Word	Word	_	12	R	12:R	_

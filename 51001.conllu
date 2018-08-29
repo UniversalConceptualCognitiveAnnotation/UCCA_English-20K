@@ -32,7 +32,7 @@
 29	,	_	Punctuation	Punctuation	_	32	U	32:U	_
 30	the	_	Word	Word	_	31	E	31:E	_
 31	event	_	Word	Word	_	32	A	32:A	_
-32	caused	_	Word	Word	_	0	root	0:root	_
+32	caused	_	Word	Word	_	0	H	0:H	_
 33	an	_	Word	Word	_	35	E	35:E	_
 34	immense	_	Word	Word	_	35	D	35:D	_
 35	uproar	_	Word	Word	_	32	A	32:A	_

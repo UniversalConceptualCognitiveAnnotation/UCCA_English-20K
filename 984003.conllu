@@ -1,7 +1,7 @@
 # format = ucca
 # sent_id = 984003
 # text = Nothing except an immenseness of deserted waves !
-1	Nothing	_	Word	Word	_	0	root	0:root	_
+1	Nothing	_	Word	Word	_	0	H	0:H	_
 2	except	_	Word	Word	_	4	R	4:R	_
 3	an	_	Word	Word	_	4	E	4:E	_
 4	immenseness	_	Word	Word	_	1	A	1:A	_

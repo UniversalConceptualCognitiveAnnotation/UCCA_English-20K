@@ -3,7 +3,7 @@
 # text = Then , seeing that Ned just let me talk without saying much himself , I pressed him more closely .
 1	Then	_	Word	Word	_	3	L	3:L	_
 2	,	_	Punctuation	Punctuation	_	3	U	3:U	_
-3	seeing	_	Word	Word	_	0	root	0:root	_
+3	seeing	_	Word	Word	_	0	H	0:H	_
 4	that	_	Word	Word	_	9	R	9:R	_
 5	Ned	_	Word	Word	_	9	A	9:A|11:A	_
 6	just	_	Word	Word	_	9	D	9:D	_

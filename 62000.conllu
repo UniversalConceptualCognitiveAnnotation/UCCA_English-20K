@@ -15,7 +15,7 @@
 12	monster	_	Word	Word	_	15	A	15:A	_
 13	"	_	Punctuation	Punctuation	_	15	U	15:U	_
 14	who	_	Word	Word	_	8	Terminal	8:Terminal	_
-15	stood	_	Word	Word	_	0	root	0:root	_
+15	stood	_	Word	Word	_	0	H	0:H	_
 16	accused	_	Word	Word	_	15	Terminal	15:Terminal	_
 17	of	_	Word	Word	_	19	R	19:R	_
 18	their	_	Word	Word	_	19	E	19:E	_
@@ -41,7 +41,7 @@
 38	dangerous	_	Word	Word	_	15	H	15:H	_
 39	,	_	Punctuation	Punctuation	_	15	U	15:U	_
 40	the	_	Word	Word	_	41	E	41:E	_
-41	public	_	Word	Word	_	15	orphan	15:orphan	_
+41	public	_	Word	Word	_	0	C	0:C|45:A	_
 42	spoke	_	Word	Word	_	15	H	15:H	_
 43	up	_	Word	Word	_	42	Terminal	42:Terminal	_
 44	and	_	Word	Word	_	15	L	15:L	_

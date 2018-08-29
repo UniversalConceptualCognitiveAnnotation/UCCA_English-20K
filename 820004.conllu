@@ -2,7 +2,7 @@
 # sent_id = 820004
 # text = Well versed in the theory of classification , he was poorly versed in its practical application , and I doubt that he could tell a sperm whale from a baleen whale !
 1	Well	_	Word	Word	_	2	D	2:D	_
-2	versed	_	Word	Word	_	0	root	0:root	_
+2	versed	_	Word	Word	_	0	H	0:H	_
 3	in	_	Word	Word	_	5	R	5:R	_
 4	the	_	Word	Word	_	5	E	5:E	_
 5	theory	_	Word	Word	_	2	A	2:A	_

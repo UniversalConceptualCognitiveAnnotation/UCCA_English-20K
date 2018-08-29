@@ -6,7 +6,7 @@
 3	would	_	Word	Word	_	4	E	4:E	_
 4	like	_	Word	Word	_	6	D	6:D	_
 5	to	_	Word	Word	_	6	F	6:F	_
-6	join	_	Word	Word	_	0	root	0:root	_
+6	join	_	Word	Word	_	0	H	0:H	_
 7	the	_	Word	Word	_	8	E	8:E	_
 8	expedition	_	Word	Word	_	6	A	6:A	_
 9	on	_	Word	Word	_	11	R	11:R	_
@@ -47,11 +47,11 @@
 44	yours	_	Word	Word	_	42	Terminal	42:Terminal	_
 45	,	_	Punctuation	Punctuation	_	6	U	6:U	_
 46	J	_	Word	Word	_	6	H	6:H	_
-47	.	_	Punctuation	Punctuation	_	6	U	6:U	_
+47	.	_	Punctuation	Punctuation	_	46	U	46:U	_
 48	B	_	Word	Word	_	46	Terminal	46:Terminal	_
-49	.	_	Punctuation	Punctuation	_	6	U	6:U	_
+49	.	_	Punctuation	Punctuation	_	46	U	46:U	_
 50	HOBSON	_	Word	Word	_	46	Terminal	46:Terminal	_
-51	,	_	Punctuation	Punctuation	_	6	U	6:U	_
+51	,	_	Punctuation	Punctuation	_	46	U	46:U	_
 52	Secretary	_	Word	Word	_	46	Terminal	46:Terminal	_
 53	of	_	Word	Word	_	46	Terminal	46:Terminal	_
 54	the	_	Word	Word	_	46	Terminal	46:Terminal	_

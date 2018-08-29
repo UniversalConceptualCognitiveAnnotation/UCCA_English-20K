@@ -3,12 +3,12 @@
 # text = But Commander Farragut did n't want to waste a single day , or even a single hour , in making for those seas where the animal had just been sighted .
 1	But	_	Word	Word	_	8	L	8:L	_
 2	Commander	_	Word	Word	_	3	E	3:E	_
-3	Farragut	_	Word	Word	_	0	root	0:root	_
+3	Farragut	_	Word	Word	_	0	C	0:C|20:A	_
 4	did	_	Word	Word	_	8	F	8:F	_
 5	n't	_	Word	Word	_	8	D	8:D	_
 6	want	_	Word	Word	_	8	D	8:D	_
 7	to	_	Word	Word	_	8	F	8:F	_
-8	waste	_	Word	Word	_	3	orphan	3:orphan	_
+8	waste	_	Word	Word	_	0	H	0:H	_
 9	a	_	Word	Word	_	11	E	11:E	_
 10	single	_	Word	Word	_	11	E	11:E	_
 11	day	_	Word	Word	_	8	T	8:T	_

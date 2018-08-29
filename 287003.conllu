@@ -3,13 +3,13 @@
 # text = Finding it impossible to form any views , I drifted from one extreme to the other .
 1	Finding	_	Word	Word	_	3	D	3:D	_
 2	it	_	Word	Word	_	3	A	3:A	_
-3	impossible	_	Word	Word	_	0	root	0:root	_
+3	impossible	_	Word	Word	_	0	H	0:H	_
 4	to	_	Word	Word	_	5	F	5:F	_
 5	form	_	Word	Word	_	3	A	3:A	_
 6	any	_	Word	Word	_	7	E	7:E	_
 7	views	_	Word	Word	_	5	A	5:A	_
 8	,	_	Punctuation	Punctuation	_	5	U	5:U	_
-9	I	_	Word	Word	_	10	A	10:A|5:A|3:A	_
+9	I	_	Word	Word	_	10	A	10:A|3:A|5:A	_
 10	drifted	_	Word	Word	_	3	H	3:H	_
 11	from	_	Word	Word	_	13	R	13:R	_
 12	one	_	Word	Word	_	13	E	13:E	_

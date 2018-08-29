@@ -3,7 +3,7 @@
 # text = " You see , my friend , it 's an issue of the monster , the notorious narwhale . We 're going to rid the seas of it ! The author of a two - volume work , in quarto , on The Mysteries of the Great Ocean Depths has no excuse for not setting sail with Commander Farragut . It 's a glorious mission but also a dangerous one ! We do n't know where it will take us ! These beasts can be quite unpredictable ! But we 're going just the same ! We have a commander who 's game for anything ! "
 1	"	_	Punctuation	Punctuation	_	3	U	3:U	_
 2	You	_	Word	Word	_	3	A	3:A	_
-3	see	_	Word	Word	_	0	root	0:root	_
+3	see	_	Word	Word	_	0	H	0:H	_
 4	,	_	Punctuation	Punctuation	_	3	U	3:U	_
 5	my	_	Word	Word	_	3	G	3:G	_
 6	friend	_	Word	Word	_	5	Terminal	5:Terminal	_
@@ -65,7 +65,7 @@
 62	's	_	Word	Word	_	64	F	64:F	_
 63	a	_	Word	Word	_	65	E	65:E	_
 64	glorious	_	Word	Word	_	3	H	3:H	_
-65	mission	_	Word	Word	_	3	orphan	3:orphan	_
+65	mission	_	Word	Word	_	0	C	0:C|69:A	_
 66	but	_	Word	Word	_	3	L	3:L	_
 67	also	_	Word	Word	_	3	L	3:L	_
 68	a	_	Word	Word	_	70	E	70:E	_

@@ -3,7 +3,7 @@
 # text = Let 's accept that the pressure of one atmosphere is represented by the pressure of a column of water thirty-two feet high .
 1	Let	_	Word	Word	_	3	D	3:D	_
 2	's	_	Word	Word	_	3	A	3:A	_
-3	accept	_	Word	Word	_	0	root	0:root	_
+3	accept	_	Word	Word	_	0	H	0:H	_
 4	that	_	Word	Word	_	11	R	11:R	_
 5	the	_	Word	Word	_	6	E	6:E	_
 6	pressure	_	Word	Word	_	11	A	11:A	_

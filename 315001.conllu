@@ -3,7 +3,7 @@
 # text = And impatience grew until , on June 2 , word came that the Tampico , a steamer on the San Francisco line sailing from California to Shanghai , had sighted the animal again , three weeks before in the northerly seas of the Pacific .
 1	And	_	Word	Word	_	3	L	3:L	_
 2	impatience	_	Word	Word	_	3	A	3:A	_
-3	grew	_	Word	Word	_	0	root	0:root	_
+3	grew	_	Word	Word	_	0	H	0:H	_
 4	until	_	Word	Word	_	3	L	3:L	_
 5	,	_	Punctuation	Punctuation	_	3	U	3:U	_
 6	on	_	Word	Word	_	7	R	7:R	_

@@ -4,7 +4,7 @@
 1	After	_	Word	Word	_	4	L	4:L	_
 2	a	_	Word	Word	_	3	E	3:E	_
 3	position	_	Word	Word	_	4	A	4:A	_
-4	fix	_	Word	Word	_	0	root	0:root	_
+4	fix	_	Word	Word	_	0	H	0:H	_
 5	,	_	Punctuation	Punctuation	_	4	U	4:U	_
 6	true	_	Word	Word	_	16	A	16:A	_
 7	to	_	Word	Word	_	9	R	9:R	_
@@ -12,7 +12,7 @@
 9	promise	_	Word	Word	_	6	A	6:A	_
 10	,	_	Punctuation	Punctuation	_	6	U	6:U	_
 11	Commander	_	Word	Word	_	12	E	12:E	_
-12	Farragut	_	Word	Word	_	4	orphan	4:orphan	_
+12	Farragut	_	Word	Word	_	0	C	0:C|4:A	_
 13	would	_	Word	Word	_	16	F	16:F	_
 14	have	_	Word	Word	_	16	D	16:D	_
 15	to	_	Word	Word	_	14	Terminal	14:Terminal	_

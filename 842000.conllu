@@ -22,10 +22,10 @@
 19	,	_	Punctuation	Punctuation	_	22	U	22:U	_
 20	the	_	Word	Word	_	21	E	21:E	_
 21	mechanics	_	Word	Word	_	22	A	22:A	_
-22	activated	_	Word	Word	_	0	root	0:root	_
+22	activated	_	Word	Word	_	0	H	0:H	_
 23	the	_	Word	Word	_	27	E	27:E	_
 24	start	_	Word	Word	_	27	E	27:E	_
-25	-	_	Punctuation	Punctuation	_	27	U	27:U	_
+25	-	_	Punctuation	Punctuation	_	24	U	24:U	_
 26	up	_	Word	Word	_	24	Terminal	24:Terminal	_
 27	wheel	_	Word	Word	_	22	A	22:A	_
 28	.	_	Punctuation	Punctuation	_	27	U	27:U	_

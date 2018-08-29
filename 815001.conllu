@@ -2,7 +2,7 @@
 # sent_id = 815001
 # text = I wanted nothing more than to see my country again , my friends , my modest quarters by the Botanical Gardens , my dearly beloved collections !
 1	I	_	Word	Word	_	2	A	2:A|7:A	_
-2	wanted	_	Word	Word	_	0	root	0:root	_
+2	wanted	_	Word	Word	_	0	H	0:H	_
 3	nothing	_	Word	Word	_	2	D	2:D	_
 4	more	_	Word	Word	_	3	Terminal	3:Terminal	_
 5	than	_	Word	Word	_	2	F	2:F	_

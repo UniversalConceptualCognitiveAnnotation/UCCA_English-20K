@@ -3,7 +3,7 @@
 # text = The sea undulated placidly beneath the frigate's stempost .
 1	The	_	Word	Word	_	2	E	2:E	_
 2	sea	_	Word	Word	_	3	A	3:A	_
-3	undulated	_	Word	Word	_	0	root	0:root	_
+3	undulated	_	Word	Word	_	0	H	0:H	_
 4	placidly	_	Word	Word	_	3	D	3:D	_
 5	beneath	_	Word	Word	_	8	R	8:R	_
 6	the	_	Word	Word	_	7	E	7:E	_

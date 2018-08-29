@@ -8,14 +8,14 @@
 5	information	_	Word	Word	_	8	A	8:A	_
 6	becomes	_	Word	Word	_	8	D	8:D	_
 7	more	_	Word	Word	_	8	D	8:D	_
-8	abundant	_	Word	Word	_	0	root	0:root	_
+8	abundant	_	Word	Word	_	0	H	0:H	_
 9	,	_	Punctuation	Punctuation	_	8	U	8:U	_
 10	I	_	Word	Word	_	11	A	11:A	_
 11	plump	_	Word	Word	_	8	H	8:H	_
 12	for	_	Word	Word	_	15	R	15:R	_
 13	a	_	Word	Word	_	15	E	15:E	_
 14	sea	_	Word	Word	_	15	E	15:E	_
-15	unicorn	_	Word	Word	_	8	orphan	8:orphan	_
+15	unicorn	_	Word	Word	_	0	C	0:C|18:A|22:A|31:A	_
 16	of	_	Word	Word	_	18	R	18:R	_
 17	colossal	_	Word	Word	_	18	D	18:D	_
 18	dimensions	_	Word	Word	_	15	E	15:E	_

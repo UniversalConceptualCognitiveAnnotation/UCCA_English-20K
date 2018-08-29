@@ -5,11 +5,11 @@
 2	,	_	Punctuation	Punctuation	_	5	U	5:U	_
 3	the	_	Word	Word	_	4	E	4:E	_
 4	wags	_	Word	Word	_	5	A	5:A	_
-5	claimed	_	Word	Word	_	0	root	0:root	_
+5	claimed	_	Word	Word	_	0	H	0:H	_
 6	that	_	Word	Word	_	11	R	11:R	_
 7	this	_	Word	Word	_	9	E	9:E	_
 8	slippery	_	Word	Word	_	9	E	9:E	_
-9	rascal	_	Word	Word	_	5	orphan	5:orphan	_
+9	rascal	_	Word	Word	_	0	C	0:C|17:A	_
 10	had	_	Word	Word	_	11	F	11:F	_
 11	waylaid	_	Word	Word	_	5	A	5:A	_
 12	some	_	Word	Word	_	14	E	14:E	_

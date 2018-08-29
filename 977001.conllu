@@ -2,10 +2,10 @@
 # sent_id = 977001
 # text = The Abraham Lincoln would change course and race after the animal sighted , only to find an ordinary baleen whale or a common sperm whale that soon disappeared amid a chorus of curses !
 1	The	_	Word	Word	_	2	E	2:E	_
-2	Abraham	_	Word	Word	_	0	root	0:root	_
+2	Abraham	_	Word	Word	_	0	C	0:C|8:A	_
 3	Lincoln	_	Word	Word	_	2	Terminal	2:Terminal	_
 4	would	_	Word	Word	_	5	F	5:F	_
-5	change	_	Word	Word	_	2	orphan	2:orphan	_
+5	change	_	Word	Word	_	0	H	0:H	_
 6	course	_	Word	Word	_	5	A	5:A	_
 7	and	_	Word	Word	_	5	L	5:L	_
 8	race	_	Word	Word	_	5	H	5:H	_

@@ -3,7 +3,7 @@
 # text = " But think it over , because I do n't want to hide anything from you . This is one of those voyages from which people do n't always come back !
 1	"	_	Punctuation	Punctuation	_	3	U	3:U	_
 2	But	_	Word	Word	_	3	L	3:L	_
-3	think	_	Word	Word	_	0	root	0:root	_
+3	think	_	Word	Word	_	0	H	0:H	_
 4	it	_	Word	Word	_	3	A	3:A	_
 5	over	_	Word	Word	_	3	D	3:D	_
 6	,	_	Punctuation	Punctuation	_	3	U	3:U	_

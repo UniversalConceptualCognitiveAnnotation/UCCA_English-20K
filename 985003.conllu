@@ -2,8 +2,8 @@
 # sent_id = 985003
 # text = The crew called themselves "out-and-out fools " for being hoodwinked by a fairy tale , then grew steadily more furious !
 1	The	_	Word	Word	_	2	E	2:E	_
-2	crew	_	Word	Word	_	0	root	0:root	_
-3	called	_	Word	Word	_	2	orphan	2:orphan	_
+2	crew	_	Word	Word	_	0	C	0:C|10:A|20:A	_
+3	called	_	Word	Word	_	0	H	0:H	_
 4	themselves	_	Word	Word	_	3	A	3:A	_
 5	"out-and-out	_	Word	Word	_	6	E	6:E	_
 6	fools	_	Word	Word	_	3	A	3:A	_

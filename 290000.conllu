@@ -5,12 +5,12 @@
 2	only	_	Word	Word	_	5	D	5:D	_
 3	two	_	Word	Word	_	5	D	5:D	_
 4	possible	_	Word	Word	_	5	D	5:D	_
-5	solutions	_	Word	Word	_	0	root	0:root	_
+5	solutions	_	Word	Word	_	0	P	0:P|12:A	_
 6	to	_	Word	Word	_	8	R	8:R	_
 7	the	_	Word	Word	_	8	E	8:E	_
 8	question	_	Word	Word	_	5	A	5:A	_
 9	were	_	Word	Word	_	10	F	10:F	_
-10	left	_	Word	Word	_	5	orphan	5:orphan	_
+10	left	_	Word	Word	_	0	H	0:H	_
 11	,	_	Punctuation	Punctuation	_	10	U	10:U	_
 12	creating	_	Word	Word	_	10	H	10:H	_
 13	two	_	Word	Word	_	16	E	16:E	_

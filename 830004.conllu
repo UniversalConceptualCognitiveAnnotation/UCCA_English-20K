@@ -2,7 +2,7 @@
 # sent_id = 830004
 # text = I opened a line of credit sufficient to cover the babirusa and , Conseil at my heels , I jumped into a carriage .
 1	I	_	Word	Word	_	2	A	2:A	_
-2	opened	_	Word	Word	_	0	root	0:root	_
+2	opened	_	Word	Word	_	0	H	0:H	_
 3	a	_	Word	Word	_	4	E	4:E	_
 4	line	_	Word	Word	_	2	A	2:A	_
 5	of	_	Word	Word	_	6	R	6:R	_
@@ -20,7 +20,7 @@
 17	heels	_	Word	Word	_	14	A	14:A	_
 18	,	_	Punctuation	Punctuation	_	2	U	2:U	_
 19	I	_	Word	Word	_	20	A	20:A	_
-20	jumped	_	Word	Word	_	2	orphan	2:orphan	_
+20	jumped	_	Word	Word	_	0	P	0:P|14:P	_
 21	into	_	Word	Word	_	23	R	23:R	_
 22	a	_	Word	Word	_	23	E	23:E	_
 23	carriage	_	Word	Word	_	20	A	20:A	_

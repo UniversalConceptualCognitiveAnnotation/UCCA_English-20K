@@ -3,7 +3,7 @@
 # text = Our Creator cast them using a colossal mold that time has gradually made smaller .
 1	Our	_	Word	Word	_	2	E	2:E	_
 2	Creator	_	Word	Word	_	3	A	3:A|5:A	_
-3	cast	_	Word	Word	_	0	root	0:root	_
+3	cast	_	Word	Word	_	0	H	0:H	_
 4	them	_	Word	Word	_	3	A	3:A	_
 5	using	_	Word	Word	_	3	H	3:H	_
 6	a	_	Word	Word	_	8	E	8:E	_

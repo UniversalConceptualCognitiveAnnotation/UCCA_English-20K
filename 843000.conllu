@@ -18,7 +18,7 @@
 15	River	_	Word	Word	_	14	Terminal	14:Terminal	_
 16	,	_	Punctuation	Punctuation	_	18	U	18:U	_
 17	were	_	Word	Word	_	18	F	18:F	_
-18	crowded	_	Word	Word	_	0	root	0:root	_
+18	crowded	_	Word	Word	_	0	H	0:H	_
 19	with	_	Word	Word	_	21	R	21:R	_
 20	curiosity	_	Word	Word	_	21	A	21:A	_
 21	seekers	_	Word	Word	_	18	A	18:A	_

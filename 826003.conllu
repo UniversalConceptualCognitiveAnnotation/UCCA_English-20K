@@ -2,7 +2,7 @@
 # sent_id = 826003
 # text = " Yes , my boy . Get my things ready , get yours ready . We 're departing in two hours .
 1	"	_	Punctuation	Punctuation	_	2	U	2:U	_
-2	Yes	_	Word	Word	_	0	root	0:root	_
+2	Yes	_	Word	Word	_	0	H	0:H	_
 3	,	_	Punctuation	Punctuation	_	2	U	2:U	_
 4	my	_	Word	Word	_	2	G	2:G	_
 5	boy	_	Word	Word	_	4	Terminal	4:Terminal	_

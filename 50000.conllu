@@ -3,7 +3,7 @@
 # text = This accident happened around five o'clock in the morning , just as day was beginning to break .
 1	This	_	Word	Word	_	2	E	2:E	_
 2	accident	_	Word	Word	_	3	A	3:A	_
-3	happened	_	Word	Word	_	0	root	0:root	_
+3	happened	_	Word	Word	_	0	H	0:H	_
 4	around	_	Word	Word	_	5	R	5:R	_
 5	five	_	Word	Word	_	3	T	3:T	_
 6	o'clock	_	Word	Word	_	5	Terminal	5:Terminal	_

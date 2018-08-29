@@ -2,7 +2,7 @@
 # sent_id = 890001
 # text = He described his fishing trips and his battles with great natural lyricism .
 1	He	_	Word	Word	_	2	A	2:A	_
-2	described	_	Word	Word	_	0	root	0:root	_
+2	described	_	Word	Word	_	0	H	0:H	_
 3	his	_	Word	Word	_	5	E	5:E	_
 4	fishing	_	Word	Word	_	5	E	5:E	_
 5	trips	_	Word	Word	_	2	A	2:A	_

@@ -2,8 +2,8 @@
 # sent_id = 880006
 # text = The man was a sort of Knight of Rhodes , a latter - day Sir Dieudonné of Gozo , on his way to fight an encounter with the dragon devastating the island .
 1	The	_	Word	Word	_	2	E	2:E	_
-2	man	_	Word	Word	_	0	root	0:root	_
-3	was	_	Word	Word	_	2	orphan	2:orphan	_
+2	man	_	Word	Word	_	0	C	0:C|24:A	_
+3	was	_	Word	Word	_	0	H	0:H	_
 4	a	_	Word	Word	_	5	E	5:E	_
 5	sort	_	Word	Word	_	7	E	7:E	_
 6	of	_	Word	Word	_	5	R	5:R	_
@@ -13,7 +13,7 @@
 10	,	_	Punctuation	Punctuation	_	7	U	7:U	_
 11	a	_	Word	Word	_	15	E	15:E	_
 12	latter	_	Word	Word	_	15	E	15:E	_
-13	-	_	Punctuation	Punctuation	_	15	U	15:U	_
+13	-	_	Punctuation	Punctuation	_	12	U	12:U	_
 14	day	_	Word	Word	_	12	Terminal	12:Terminal	_
 15	Sir	_	Word	Word	_	7	C	7:C	_
 16	Dieudonné	_	Word	Word	_	15	Terminal	15:Terminal	_

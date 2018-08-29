@@ -3,13 +3,13 @@
 # text = So the frigate was equipped for a far - off voyage and armed with fearsome fishing gear , but nobody knew where to steer it .
 1	So	_	Word	Word	_	5	L	5:L	_
 2	the	_	Word	Word	_	3	E	3:E	_
-3	frigate	_	Word	Word	_	0	root	0:root	_
+3	frigate	_	Word	Word	_	0	C	0:C|13:A	_
 4	was	_	Word	Word	_	5	F	5:F	_
-5	equipped	_	Word	Word	_	3	orphan	3:orphan	_
+5	equipped	_	Word	Word	_	0	H	0:H	_
 6	for	_	Word	Word	_	11	R	11:R	_
 7	a	_	Word	Word	_	11	E	11:E	_
 8	far	_	Word	Word	_	11	E	11:E	_
-9	-	_	Punctuation	Punctuation	_	11	U	11:U	_
+9	-	_	Punctuation	Punctuation	_	8	U	8:U	_
 10	off	_	Word	Word	_	8	Terminal	8:Terminal	_
 11	voyage	_	Word	Word	_	5	A	5:A	_
 12	and	_	Word	Word	_	5	L	5:L	_

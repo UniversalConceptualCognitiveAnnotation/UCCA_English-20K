@@ -5,8 +5,8 @@
 2	then	_	Word	Word	_	1	Terminal	1:Terminal	_
 3	,	_	Punctuation	Punctuation	_	6	U	6:U	_
 4	the	_	Word	Word	_	5	E	5:E	_
-5	sea	_	Word	Word	_	0	root	0:root	_
-6	is	_	Word	Word	_	5	orphan	5:orphan	_
+5	sea	_	Word	Word	_	0	C	0:C|14:A	_
+6	is	_	Word	Word	_	0	H	0:H	_
 7	precisely	_	Word	Word	_	6	D	6:D	_
 8	their	_	Word	Word	_	10	E	10:E	_
 9	best	_	Word	Word	_	10	E	10:E	_

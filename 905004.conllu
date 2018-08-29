@@ -5,7 +5,7 @@
 2	"	_	Punctuation	Punctuation	_	5	U	5:U	_
 3	Without	_	Word	Word	_	0	root	0:root	_
 4	your	_	Word	Word	_	5	A	5:A	_
-5	noticing	_	Word	Word	_	3	orphan	3:orphan	_
+5	noticing	_	Word	Word	_	0	H	0:H	_
 6	it	_	Word	Word	_	5	A	5:A	_
 7	.	_	Punctuation	Punctuation	_	5	U	5:U	_
 8	And	_	Word	Word	_	5	L	5:L	_
@@ -39,7 +39,7 @@
 36	inside	_	Word	Word	_	35	E	35:E	_
 37	and	_	Word	Word	_	35	N	35:N	_
 38	outside	_	Word	Word	_	39	E	39:E	_
-39	pressures	_	Word	Word	_	3	orphan	3:orphan	_
+39	pressures	_	Word	Word	_	0	C	0:C|35:C	_
 40	are	_	Word	Word	_	43	F	43:F	_
 41	in	_	Word	Word	_	43	R	43:R	_
 42	perfect	_	Word	Word	_	43	D	43:D	_

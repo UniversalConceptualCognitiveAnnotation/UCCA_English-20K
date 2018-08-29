@@ -3,7 +3,7 @@
 # text = When I arrived in New York , the question was at the boiling point .
 1	When	_	Word	Word	_	3	L	3:L	_
 2	I	_	Word	Word	_	3	A	3:A	_
-3	arrived	_	Word	Word	_	0	root	0:root	_
+3	arrived	_	Word	Word	_	0	H	0:H	_
 4	in	_	Word	Word	_	5	R	5:R	_
 5	New	_	Word	Word	_	3	A	3:A	_
 6	York	_	Word	Word	_	5	Terminal	5:Terminal	_

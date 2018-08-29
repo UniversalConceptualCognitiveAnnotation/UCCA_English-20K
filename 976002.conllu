@@ -2,7 +2,7 @@
 # sent_id = 976002
 # text = Sometimes bending over the forecastle railings , sometimes leaning against the sternrail , I eagerly scoured that cotton - colored wake that whitened the ocean as far as the eye could see !
 1	Sometimes	_	Word	Word	_	2	T	2:T	_
-2	bending	_	Word	Word	_	0	root	0:root	_
+2	bending	_	Word	Word	_	0	H	0:H	_
 3	over	_	Word	Word	_	6	R	6:R	_
 4	the	_	Word	Word	_	6	E	6:E	_
 5	forecastle	_	Word	Word	_	6	E	6:E	_

@@ -3,7 +3,7 @@
 # text = " Oh really , and I can prove it to you with a few simple figures . "
 1	"	_	Punctuation	Punctuation	_	3	U	3:U	_
 2	Oh	_	Word	Word	_	3	F	3:F	_
-3	really	_	Word	Word	_	0	root	0:root	_
+3	really	_	Word	Word	_	0	H	0:H	_
 4	,	_	Punctuation	Punctuation	_	3	U	3:U	_
 5	and	_	Word	Word	_	3	L	3:L	_
 6	I	_	Word	Word	_	8	A	8:A	_

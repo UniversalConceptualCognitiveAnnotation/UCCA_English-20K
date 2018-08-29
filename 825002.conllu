@@ -6,7 +6,7 @@
 3	good	_	Word	Word	_	6	D	6:D	_
 4	reason	_	Word	Word	_	6	D	6:D	_
 5	to	_	Word	Word	_	6	R	6:R	_
-6	stop	_	Word	Word	_	0	root	0:root	_
+6	stop	_	Word	Word	_	0	H	0:H	_
 7	and	_	Word	Word	_	6	N	6:N	_
 8	think	_	Word	Word	_	6	C	6:C	_
 9	,	_	Punctuation	Punctuation	_	6	U	6:U	_

@@ -12,13 +12,13 @@
 9	journal	_	Word	Word	_	18	A	18:A	_
 10	,	_	Punctuation	Punctuation	_	18	U	18:U	_
 11	an	_	Word	Word	_	12	E	12:E	_
-12	article	_	Word	Word	_	0	root	0:root	_
+12	article	_	Word	Word	_	0	C	0:C|42:A|25:A	_
 13	by	_	Word	Word	_	17	R	17:R	_
 14	its	_	Word	Word	_	17	E	17:E	_
 15	most	_	Word	Word	_	17	E	17:E	_
 16	popular	_	Word	Word	_	17	E	17:E	_
 17	columnist	_	Word	Word	_	12	E	12:E	_
-18	finished	_	Word	Word	_	12	orphan	12:orphan	_
+18	finished	_	Word	Word	_	0	H	0:H	_
 19	off	_	Word	Word	_	18	Terminal	18:Terminal	_
 20	the	_	Word	Word	_	21	E	21:E	_
 21	monster	_	Word	Word	_	18	A	18:A	_

@@ -8,6 +8,6 @@
 5	came	_	Word	Word	_	8	D	8:D	_
 6	to	_	Word	Word	_	8	R	8:R	_
 7	a	_	Word	Word	_	8	E	8:E	_
-8	halt	_	Word	Word	_	0	root	0:root	_
+8	halt	_	Word	Word	_	0	H	0:H	_
 9	.	_	Punctuation	Punctuation	_	8	U	8:U	_
 

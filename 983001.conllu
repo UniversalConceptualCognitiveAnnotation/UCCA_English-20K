@@ -9,7 +9,7 @@
 6	shipboard	_	Word	Word	_	0	root	0:root	_
 7	conditions	_	Word	Word	_	9	A	9:A	_
 8	became	_	Word	Word	_	9	D	9:D	_
-9	life	_	Word	Word	_	6	orphan	6:orphan	_
+9	life	_	Word	Word	_	0	H	0:H	_
 10	-	_	Punctuation	Punctuation	_	9	U	9:U	_
 11	threatening	_	Word	Word	_	9	Terminal	9:Terminal	_
 12	.	_	Punctuation	Punctuation	_	9	U	9:U	_

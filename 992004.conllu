@@ -3,7 +3,7 @@
 # text = Huge clouds covered the moon's disk , then in its first quarter .
 1	Huge	_	Word	Word	_	2	E	2:E	_
 2	clouds	_	Word	Word	_	3	A	3:A	_
-3	covered	_	Word	Word	_	0	root	0:root	_
+3	covered	_	Word	Word	_	0	H	0:H	_
 4	the	_	Word	Word	_	5	E	5:E	_
 5	moon's	_	Word	Word	_	6	E	6:E	_
 6	disk	_	Word	Word	_	3	A	3:A	_

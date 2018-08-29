@@ -6,7 +6,7 @@
 3	could	_	Word	Word	_	6	D	6:D	_
 4	no	_	Word	Word	_	6	D	6:D	_
 5	longer	_	Word	Word	_	6	D	6:D	_
-6	hold	_	Word	Word	_	0	root	0:root	_
+6	hold	_	Word	Word	_	0	H	0:H	_
 7	my	_	Word	Word	_	6	Terminal	6:Terminal	_
 8	tongue	_	Word	Word	_	6	Terminal	6:Terminal	_
 9	,	_	Punctuation	Punctuation	_	6	U	6:U	_

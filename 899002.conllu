@@ -3,7 +3,7 @@
 # text = " " Listen to me , Ned - " " No , no , professor . I 'll go along with anything you want except that . Some gigantic devilfish maybe .
 1	"	_	Punctuation	Punctuation	_	11	U	11:U	_
 2	"	_	Punctuation	Punctuation	_	11	U	11:U	_
-3	Listen	_	Word	Word	_	0	root	0:root	_
+3	Listen	_	Word	Word	_	0	P	0:P|11:P	_
 4	to	_	Word	Word	_	5	R	5:R	_
 5	me	_	Word	Word	_	3	A	3:A	_
 6	,	_	Punctuation	Punctuation	_	3	U	3:U	_

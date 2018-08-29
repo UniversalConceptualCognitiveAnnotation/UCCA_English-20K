@@ -3,7 +3,7 @@
 # text = The commander stood his ground .
 1	The	_	Word	Word	_	2	E	2:E	_
 2	commander	_	Word	Word	_	3	A	3:A	_
-3	stood	_	Word	Word	_	0	root	0:root	_
+3	stood	_	Word	Word	_	0	H	0:H	_
 4	his	_	Word	Word	_	3	Terminal	3:Terminal	_
 5	ground	_	Word	Word	_	3	Terminal	3:Terminal	_
 6	.	_	Punctuation	Punctuation	_	3	U	3:U	_

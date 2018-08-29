@@ -2,9 +2,9 @@
 # sent_id = 844001
 # text = The Abraham Lincoln replied by three times lowering and hoisting the American flag , whose thirty-nine stars gleamed from the gaff of the mizzen sail ; then , changing speed to take the buoy - marked channel that curved into the inner bay formed by the spit of Sandy Hook , it hugged this sand - covered strip of land where thousands of spectators acclaimed us one more time .
 1	The	_	Word	Word	_	2	E	2:E	_
-2	Abraham	_	Word	Word	_	0	root	0:root	_
+2	Abraham	_	Word	Word	_	0	C	0:C|8:A	_
 3	Lincoln	_	Word	Word	_	2	Terminal	2:Terminal	_
-4	replied	_	Word	Word	_	2	orphan	2:orphan	_
+4	replied	_	Word	Word	_	0	H	0:H	_
 5	by	_	Word	Word	_	4	L	4:L	_
 6	three	_	Word	Word	_	7	E	7:E	_
 7	times	_	Word	Word	_	8	D	8:D	_

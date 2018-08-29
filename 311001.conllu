@@ -1,7 +1,7 @@
 # format = ucca
 # sent_id = 311001
 # text = Enough of these fairy tales that time has changed for me into harsh realities .
-1	Enough	_	Word	Word	_	0	root	0:root	_
+1	Enough	_	Word	Word	_	0	H	0:H	_
 2	of	_	Word	Word	_	5	R	5:R	_
 3	these	_	Word	Word	_	5	E	5:E	_
 4	fairy	_	Word	Word	_	5	E	5:E	_

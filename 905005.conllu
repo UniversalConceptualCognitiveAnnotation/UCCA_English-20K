@@ -10,7 +10,7 @@
 7	,	_	Punctuation	Punctuation	_	10	U	10:U	_
 8	"	_	Punctuation	Punctuation	_	10	U	10:U	_
 9	Ned	_	Word	Word	_	10	A	10:A	_
-10	replied	_	Word	Word	_	0	root	0:root	_
+10	replied	_	Word	Word	_	0	H	0:H	_
 11	,	_	Punctuation	Punctuation	_	10	U	10:U	_
 12	growing	_	Word	Word	_	14	D	14:D	_
 13	more	_	Word	Word	_	14	D	14:D	_
@@ -19,7 +19,7 @@
 16	"	_	Punctuation	Punctuation	_	10	U	10:U	_
 17	Because	_	Word	Word	_	6	L	6:L	_
 18	the	_	Word	Word	_	19	E	19:E	_
-19	water	_	Word	Word	_	10	orphan	10:orphan	_
+19	water	_	Word	Word	_	0	C	0:C|25:A	_
 20	surrounds	_	Word	Word	_	6	H	6:H	_
 21	me	_	Word	Word	_	20	A	20:A	_
 22	but	_	Word	Word	_	6	L	6:L	_

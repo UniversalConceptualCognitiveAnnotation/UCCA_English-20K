@@ -3,7 +3,7 @@
 # text = His looks caught the attention , and above all the strength of his gaze , which gave a unique emphasis to his facial appearance .
 1	His	_	Word	Word	_	2	E	2:E	_
 2	looks	_	Word	Word	_	3	A	3:A	_
-3	caught	_	Word	Word	_	0	root	0:root	_
+3	caught	_	Word	Word	_	0	H	0:H	_
 4	the	_	Word	Word	_	5	E	5:E	_
 5	attention	_	Word	Word	_	3	A	3:A|11:A	_
 6	,	_	Punctuation	Punctuation	_	3	U	3:U	_

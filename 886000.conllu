@@ -9,7 +9,7 @@
 6	,	_	Punctuation	Punctuation	_	1	U	1:U	_
 7	Ned	_	Word	Word	_	9	A	9:A	_
 8	Land	_	Word	Word	_	7	Terminal	7:Terminal	_
-9	was	_	Word	Word	_	0	root	0:root	_
+9	was	_	Word	Word	_	0	H	0:H	_
 10	a	_	Word	Word	_	11	E	11:E	_
 11	Canadian	_	Word	Word	_	9	A	9:A	_
 12	who	_	Word	Word	_	15	R	15:R	_

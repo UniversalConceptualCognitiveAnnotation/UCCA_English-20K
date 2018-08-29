@@ -2,8 +2,8 @@
 # sent_id = 896000
 # text = The harpooner stared at me awhile before replying , slapped his broad forehead in one of his standard gestures , closed his eyes as if to collect himself , and finally said : " Just maybe , Professor Aronnax . "
 1	The	_	Word	Word	_	2	E	2:E	_
-2	harpooner	_	Word	Word	_	0	root	0:root	_
-3	stared	_	Word	Word	_	2	orphan	2:orphan	_
+2	harpooner	_	Word	Word	_	0	C	0:C|27:A|8:A|21:A|10:A	_
+3	stared	_	Word	Word	_	0	H	0:H	_
 4	at	_	Word	Word	_	5	R	5:R	_
 5	me	_	Word	Word	_	3	A	3:A	_
 6	awhile	_	Word	Word	_	3	T	3:T	_

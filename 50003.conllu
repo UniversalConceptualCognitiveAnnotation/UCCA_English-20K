@@ -2,7 +2,7 @@
 # sent_id = 50003
 # text = They saw nothing except a strong eddy breaking three cable lengths out , as if those sheets of water had been violently churned .
 1	They	_	Word	Word	_	2	A	2:A	_
-2	saw	_	Word	Word	_	0	root	0:root	_
+2	saw	_	Word	Word	_	0	H	0:H	_
 3	nothing	_	Word	Word	_	2	A	2:A	_
 4	except	_	Word	Word	_	3	N	3:N	_
 5	a	_	Word	Word	_	7	E	7:E	_
