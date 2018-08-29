@@ -1,7 +1,7 @@
 # format = ucca
 # sent_id = 826003
 1	"	_	Punctuation	Punctuation	_	2	U	_	_
-2	Yes	_	Word	Word	_	0	ROOT	_	_
+2	Yes	_	Word	Word	_	0	H	_	_
 3	,	_	Punctuation	Punctuation	_	2	U	_	_
 4	my	_	Word	Word	_	2	G	_	_
 5	boy	_	Word	Word	_	4	Terminal	_	_

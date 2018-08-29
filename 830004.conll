@@ -1,7 +1,7 @@
 # format = ucca
 # sent_id = 830004
 1	I	_	Word	Word	_	2	A	_	_
-2	opened	_	Word	Word	_	0	ROOT	_	_
+2	opened	_	Word	Word	_	0	H	_	_
 3	a	_	Word	Word	_	4	E	_	_
 4	line	_	Word	Word	_	2	A	_	_
 5	of	_	Word	Word	_	6	R	_	_
@@ -19,6 +19,7 @@
 17	heels	_	Word	Word	_	14	A	_	_
 18	,	_	Punctuation	Punctuation	_	2	U	_	_
 19	I	_	Word	Word	_	20	A	_	_
+20	jumped	_	Word	Word	_	0	P	_	_
 20	jumped	_	Word	Word	_	14	P*	_	_
 21	into	_	Word	Word	_	23	R	_	_
 22	a	_	Word	Word	_	23	E	_	_

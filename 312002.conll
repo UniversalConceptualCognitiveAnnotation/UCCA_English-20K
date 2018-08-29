@@ -16,7 +16,7 @@
 14	Packetboat	_	Word	Word	_	12	Terminal	_	_
 15	and	_	Word	Word	_	1	N	_	_
 16	Maritime	_	Word	Word	_	1	C	_	_
-17	&	_	Punctuation	Punctuation	_	1	U	_	_
+17	&	_	Punctuation	Punctuation	_	16	U	_	_
 18	Colonial	_	Word	Word	_	16	Terminal	_	_
 19	Review	_	Word	Word	_	16	Terminal	_	_
 20	,	_	Punctuation	Punctuation	_	1	U	_	_
@@ -26,6 +26,7 @@
 24	devoted	_	Word	Word	_	23	E	_	_
 25	to	_	Word	Word	_	27	R	_	_
 26	insurance	_	Word	Word	_	27	E	_	_
+27	companies	_	Word	Word	_	0	C	_	_
 27	companies	_	Word	Word	_	32	A*	_	_
 28	-	_	Punctuation	Punctuation	_	32	U	_	_
 29	who	_	Word	Word	_	32	R	_	_
@@ -37,7 +38,7 @@
 35	rates	_	Word	Word	_	32	A	_	_
 36	-	_	Punctuation	Punctuation	_	38	U	_	_
 37	were	_	Word	Word	_	38	F	_	_
-38	unanimous	_	Word	Word	_	0	ROOT	_	_
+38	unanimous	_	Word	Word	_	0	H	_	_
 39	on	_	Word	Word	_	41	R	_	_
 40	this	_	Word	Word	_	41	E	_	_
 41	point	_	Word	Word	_	38	A	_	_

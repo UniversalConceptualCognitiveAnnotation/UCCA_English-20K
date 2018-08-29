@@ -4,7 +4,7 @@
 2	Scotia	_	Word	Word	_	5	A	_	_
 3	had	_	Word	Word	_	5	F	_	_
 4	n't	_	Word	Word	_	5	D	_	_
-5	run	_	Word	Word	_	0	ROOT	_	_
+5	run	_	Word	Word	_	0	H	_	_
 6	afoul	_	Word	Word	_	5	Terminal	_	_
 7	of	_	Word	Word	_	8	R	_	_
 8	something	_	Word	Word	_	5	A	_	_
@@ -22,6 +22,7 @@
 18	cutting	_	Word	Word	_	21	E	_	_
 19	or	_	Word	Word	_	18	N	_	_
 20	perforating	_	Word	Word	_	18	C	_	_
+21	instrument	_	Word	Word	_	0	C	_	_
 21	instrument	_	Word	Word	_	13	A*	_	_
 22	rather	_	Word	Word	_	21	R	_	_
 23	than	_	Word	Word	_	22	Terminal	_	_

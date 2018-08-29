@@ -1,6 +1,6 @@
 # format = ucca
 # sent_id = 318000
-1	Pierre	_	Word	Word	_	0	ROOT	_	_
+1	Pierre	_	Word	Word	_	0	H	_	_
 2	Aronnax	_	Word	Word	_	1	Terminal	_	_
 3	Professor	_	Word	Word	_	1	Terminal	_	_
 4	at	_	Word	Word	_	1	Terminal	_	_

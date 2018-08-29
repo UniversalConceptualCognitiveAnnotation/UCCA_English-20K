@@ -1,6 +1,6 @@
 # format = ucca
 # sent_id = 976001
-1	Snatching	_	Word	Word	_	0	ROOT	_	_
+1	Snatching	_	Word	Word	_	0	H	_	_
 2	only	_	Word	Word	_	1	D	_	_
 2	only	_	Word	Word	_	11	D*	_	_
 3	a	_	Word	Word	_	5	E	_	_

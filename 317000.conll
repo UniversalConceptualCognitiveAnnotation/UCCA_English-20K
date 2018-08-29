@@ -1,7 +1,7 @@
 # format = ucca
 # sent_id = 317000
 1	I	_	Word	Word	_	2	A	_	_
-2	received	_	Word	Word	_	0	ROOT	_	_
+2	received	_	Word	Word	_	0	H	_	_
 3	a	_	Word	Word	_	4	E	_	_
 4	letter	_	Word	Word	_	2	A	_	_
 5	three	_	Word	Word	_	6	E	_	_

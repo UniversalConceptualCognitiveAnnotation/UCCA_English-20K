@@ -7,7 +7,7 @@
 5	the	_	Word	Word	_	6	E	_	_
 6	narwhale	_	Word	Word	_	8	A	_	_
 7	is	_	Word	Word	_	8	F	_	_
-8	armed	_	Word	Word	_	0	ROOT	_	_
+8	armed	_	Word	Word	_	0	H	_	_
 9	with	_	Word	Word	_	14	R	_	_
 10	a	_	Word	Word	_	11	E	_	_
 11	sort	_	Word	Word	_	14	E	_	_
@@ -38,8 +38,9 @@
 36	Some	_	Word	Word	_	39	E	_	_
 37	of	_	Word	Word	_	36	R	_	_
 38	these	_	Word	Word	_	39	E	_	_
-39	teeth	_	Word	Word	_	43	A*	_	_
+39	teeth	_	Word	Word	_	0	C	_	_
 39	teeth	_	Word	Word	_	59	C*	_	_
+39	teeth	_	Word	Word	_	43	A*	_	_
 40	have	_	Word	Word	_	42	F	_	_
 41	been	_	Word	Word	_	42	F	_	_
 42	found	_	Word	Word	_	8	H	_	_

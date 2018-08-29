@@ -1,7 +1,7 @@
 # format = ucca
 # sent_id = 820003
 1	Classifying	_	Word	Word	_	2	A	_	_
-2	was	_	Word	Word	_	0	ROOT	_	_
+2	was	_	Word	Word	_	0	H	_	_
 3	everything	_	Word	Word	_	2	A	_	_
 4	to	_	Word	Word	_	5	R	_	_
 5	him	_	Word	Word	_	2	A	_	_

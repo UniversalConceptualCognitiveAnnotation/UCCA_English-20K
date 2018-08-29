@@ -12,7 +12,7 @@
 10	to	_	Word	Word	_	11	R	_	_
 11	me	_	Word	Word	_	9	A	_	_
 12	can	_	Word	Word	_	13	D	_	_
-13	take	_	Word	Word	_	0	ROOT	_	_
+13	take	_	Word	Word	_	0	H	_	_
 14	the	_	Word	Word	_	13	Terminal	_	_
 15	form	_	Word	Word	_	13	Terminal	_	_
 16	of	_	Word	Word	_	13	R	_	_
