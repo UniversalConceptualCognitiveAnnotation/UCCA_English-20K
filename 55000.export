@@ -1,8 +1,8 @@
 #BOS 55000
 At	Word	--	Terminal	500
-4	Word	--	Terminal	501
-:	Punctuation	--	Terminal	502
-17	Word	--	Terminal	501
+4	Word	--	Terminal	502
+:	Punctuation	--	Terminal	501
+17	Word	--	Terminal	502
 in	Word	--	Terminal	503
 the	Word	--	Terminal	504
 afternoon	Word	--	Terminal	505
@@ -47,8 +47,8 @@ paddle	Word	--	Terminal	543
 wheel	Word	--	Terminal	544
 .	Punctuation	--	Terminal	545
 #500	FN	--	R	555
-#501	FN	--	C	555
-#502	PNCT	--	U	555
+#501	PNCT	--	U	502
+#502	FN	--	C	555
 #503	FN	--	R	546
 #504	FN	--	E	546
 #505	FN	--	C	546

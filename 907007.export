@@ -3,7 +3,7 @@
 Go	Word	--	Terminal	501
 on	Word	--	Terminal	501
 !	Punctuation	--	Terminal	502
-#500	PNCT	--	U	504
+#500	PNCT	--	U	501
 #501	FN	--	P	504
 #502	PNCT	--	U	504
 #503	FN	--	A	504

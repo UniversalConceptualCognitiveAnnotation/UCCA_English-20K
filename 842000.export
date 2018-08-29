@@ -22,9 +22,9 @@ the	Word	--	Terminal	519
 mechanics	Word	--	Terminal	520
 activated	Word	--	Terminal	521
 the	Word	--	Terminal	522
-start	Word	--	Terminal	523
--	Punctuation	--	Terminal	524
-up	Word	--	Terminal	523
+start	Word	--	Terminal	524
+-	Punctuation	--	Terminal	523
+up	Word	--	Terminal	524
 wheel	Word	--	Terminal	525
 .	Punctuation	--	Terminal	526
 #500	FN	--	R	534
@@ -50,8 +50,8 @@ wheel	Word	--	Terminal	525
 #520	FN	--	C	531
 #521	FN	--	P	535
 #522	FN	--	E	532
-#523	FN	--	E	532
-#524	PNCT	--	U	532
+#523	PNCT	--	U	524
+#524	FN	--	E	532
 #525	FN	--	C	532
 #526	PNCT	--	U	532
 #527	FN	--	A	533

@@ -9,9 +9,9 @@ of	Word	--	Terminal	506
 one	Word	--	Terminal	507
 thing	Word	--	Terminal	508
 ,	Punctuation	--	Terminal	509
-Mr	Word	--	Terminal	510
-.	Punctuation	--	Terminal	511
-Naturalist	Word	--	Terminal	510
+Mr	Word	--	Terminal	511
+.	Punctuation	--	Terminal	510
+Naturalist	Word	--	Terminal	511
 .	Punctuation	--	Terminal	512
 That	Word	--	Terminal	513
 deep	Word	--	Terminal	514
@@ -46,8 +46,8 @@ exist	Word	--	Terminal	534
 #507	FN	--	E	536
 #508	FN	--	C	536
 #509	PNCT	--	U	537
-#510	FN	--	G	537
-#511	PNCT	--	U	537
+#510	PNCT	--	U	511
+#511	FN	--	G	537
 #512	PNCT	--	U	545
 #513	FN	--	L	545
 #514	FN	--	C	541

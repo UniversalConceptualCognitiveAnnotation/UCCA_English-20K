@@ -45,9 +45,9 @@ French	Word	--	Terminal	540
 frigate	Word	--	Terminal	541
 Normandy	Word	--	Terminal	542
 ,	Punctuation	--	Terminal	543
-dead	Word	--	Terminal	544
--	Punctuation	--	Terminal	545
-earnest	Word	--	Terminal	544
+dead	Word	--	Terminal	545
+-	Punctuation	--	Terminal	544
+earnest	Word	--	Terminal	545
 reckonings	Word	--	Terminal	546
 obtained	Word	--	Terminal	547
 by	Word	--	Terminal	548
@@ -106,8 +106,8 @@ Clyde	Word	--	Terminal	556
 #541	FN	--	C	567
 #542	FN	--	C	568
 #543	PNCT	--	U	579
-#544	FN	--	D	569
-#545	PNCT	--	U	569
+#544	PNCT	--	U	545
+#545	FN	--	D	569
 #546	FN	--	P	569
 #547	FN	--	P	576
 #548	FN	--	R	570

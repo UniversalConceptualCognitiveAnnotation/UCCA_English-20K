@@ -34,9 +34,9 @@ the	Word	--	Terminal	523
 Smithsonian	Word	--	Terminal	523
 Institution	Word	--	Terminal	523
 in	Word	--	Terminal	524
-Washington	Word	--	Terminal	525
-,	Punctuation	--	Terminal	526
-D.C	Word	--	Terminal	525
+Washington	Word	--	Terminal	526
+,	Punctuation	--	Terminal	525
+D.C	Word	--	Terminal	526
 .	Punctuation	--	Terminal	527
 ,	Punctuation	--	Terminal	528
 at	Word	--	Terminal	529
@@ -94,8 +94,8 @@ newspapers	Word	--	Terminal	552
 #522	PNCT	--	U	559
 #523	FN	--	C	558
 #524	FN	--	R	558
-#525	FN	--	E	558
-#526	PNCT	--	U	558
+#525	PNCT	--	U	526
+#526	FN	--	E	558
 #527	PNCT	--	U	569
 #528	PNCT	--	U	569
 #529	FN	--	R	568
