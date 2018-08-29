@@ -17,7 +17,7 @@
 16	that	_	Word	-	-	_	_	_	_	_	_	E	_	_
 17	old	_	Word	-	-	_	_	_	_	_	_	E	_	_
 18	Rabelaisian	_	Word	-	-	_	_	_	_	_	_	E	_	_
-19	dialect	_	Word	-	+	_	_	_	_	_	A*	_	_	_
+19	dialect	_	Word	-	+	_	_	_	_	_	A*	_	A*	_
 20	still	_	Word	-	-	_	_	_	_	_	_	_	T	_
 21	used	_	Word	-	+	_	_	_	_	_	_	E	_	_
 22	in	_	Word	-	-	_	_	_	_	_	_	_	_	R

@@ -23,7 +23,7 @@
 22	the	_	Word	-	-	_	_	_	_	_	_	_	E	_	_	_	_	_	_	_
 23	shouts	_	Word	-	+	_	_	H	_	_	_	_	_	_	_	_	_	_	_	_
 24	of	_	Word	-	-	_	_	_	_	_	_	_	_	R	_	_	_	_	_	_
-25	crewmen	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+25	crewmen	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	A*	_	A*	_	_
 26	in	_	Word	-	-	_	_	_	_	_	_	_	_	_	R	_	_	_	_	_
 27	the	_	Word	-	-	_	_	_	_	_	_	_	_	_	E	_	_	_	_	_
 28	hold	_	Word	-	+	_	_	_	_	_	_	_	_	E	_	_	_	_	_	_

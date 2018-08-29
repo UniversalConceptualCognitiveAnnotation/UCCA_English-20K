@@ -13,7 +13,7 @@
 12	for	_	Word	-	-	_	_	_	R	_	_	_	_	_	_	_	_	_	_	_
 13	a	_	Word	-	-	_	_	_	E	_	_	_	_	_	_	_	_	_	_	_
 14	sea	_	Word	-	-	_	_	_	E	_	_	_	_	_	_	_	_	_	_	_
-15	unicorn	_	Word	-	+	_	_	_	_	_	_	A*	_	A*	_	_	_	_	_	_
+15	unicorn	_	Word	-	+	_	_	_	_	A*	_	A*	_	A*	_	_	_	_	_	_
 16	of	_	Word	-	-	_	_	_	_	R	_	_	_	_	_	_	_	_	_	_
 17	colossal	_	Word	-	-	_	_	_	_	D	_	_	_	_	_	_	_	_	_	_
 18	dimensions	_	Word	-	+	_	_	_	E	_	_	_	_	_	_	_	_	_	_	_

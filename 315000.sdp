@@ -7,7 +7,7 @@
 6	for	_	Word	-	-	_	_	_	_	R	_	_	_	_
 7	a	_	Word	-	-	_	_	_	_	E	_	_	_	_
 8	far	_	Word	-	+	_	_	_	_	E	_	_	_	_
-9	-	_	Punctuation	-	-	_	_	_	_	U	_	_	_	_
+9	-	_	Punctuation	-	-	_	_	_	U	_	_	_	_	_
 10	off	_	Word	-	-	_	_	_	Terminal	_	_	_	_	_
 11	voyage	_	Word	-	+	_	_	A	_	_	_	_	_	_
 12	and	_	Word	-	-	_	_	L	_	_	_	_	_	_
