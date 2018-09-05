@@ -13,7 +13,7 @@
 10	at	_	Word	Word	_	12	R	12:R	_
 11	feature	_	Word	Word	_	12	E	12:E	_
 12	articles	_	Word	Word	_	9	A	9:A	_
-13	from	_	Word	Word	_	14	R	14:R|20:R|32:R	_
+13	from	_	Word	Word	_	14	R	14:R|32:R|20:R	_
 14	the	_	Word	Word	_	12	E	12:E	_
 15	Geographic	_	Word	Word	_	14	Terminal	14:Terminal	_
 16	Institute	_	Word	Word	_	14	Terminal	14:Terminal	_

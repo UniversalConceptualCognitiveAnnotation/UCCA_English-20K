@@ -39,7 +39,7 @@
 36	Some	_	Word	Word	_	39	E	39:E	_
 37	of	_	Word	Word	_	36	R	36:R	_
 38	these	_	Word	Word	_	39	E	39:E	_
-39	teeth	_	Word	Word	_	0	C	0:C|59:C|43:A	_
+39	teeth	_	Word	Word	_	0	C	0:C|43:A|59:C	_
 40	have	_	Word	Word	_	42	F	42:F	_
 41	been	_	Word	Word	_	42	F	42:F	_
 42	found	_	Word	Word	_	8	H	8:H	_

@@ -18,11 +18,11 @@
 15	left	_	Word	Word	_	11	C	11:C	_
 16	shot	_	Word	Word	_	19	A	19:A	_
 17	,	_	Punctuation	Punctuation	_	19	U	19:U	_
-18	he	_	Word	Word	_	19	A	19:A|34:A|26:A|41:A|24:A	_
+18	he	_	Word	Word	_	19	A	19:A|26:A|34:A|24:A|41:A	_
 19	harpooned	_	Word	Word	_	7	H	7:H	_
 20	not	_	Word	Word	_	19	D	19:D	_
 21	one	_	Word	Word	_	22	E	22:E	_
-22	whale	_	Word	Word	_	0	C	0:C|41:A|35:C|27:C|24:A	_
+22	whale	_	Word	Word	_	0	C	0:C|41:A|24:A|35:C|27:C	_
 23	but	_	Word	Word	_	7	L	7:L	_
 24	two	_	Word	Word	_	7	H	7:H	_
 25	,	_	Punctuation	Punctuation	_	7	U	7:U	_

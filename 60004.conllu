@@ -34,7 +34,7 @@
 31	iron	_	Word	Word	_	28	E	28:E	_
 32	,	_	Punctuation	Punctuation	_	26	U	26:U	_
 33	this	_	Word	Word	_	34	E	34:E	_
-34	tool	_	Word	Word	_	38	A	38:A|26:A|20:A	_
+34	tool	_	Word	Word	_	38	A	38:A|20:A|26:A	_
 35	had	_	Word	Word	_	38	F	38:F	_
 36	needed	_	Word	Word	_	38	D	38:D	_
 37	to	_	Word	Word	_	38	F	38:F	_
