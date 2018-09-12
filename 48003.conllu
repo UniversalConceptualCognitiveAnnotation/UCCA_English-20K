@@ -5,7 +5,7 @@
 2	monster	_	Word	Word	_	4	A	4:A	_
 3	again	_	Word	Word	_	4	D	4:D	_
 4	became	_	Word	Word	_	0	H	0:H	_
-5	an	_	Word	Word	_	6	E	6:E|11:E|8:E	_
+5	an	_	Word	Word	_	6	E	6:E|8:E|11:E	_
 6	islet	_	Word	Word	_	4	A	4:A	_
 7	,	_	Punctuation	Punctuation	_	6	U	6:U	_
 8	rock	_	Word	Word	_	6	C	6:C	_

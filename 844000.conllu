@@ -2,7 +2,7 @@
 # sent_id = 844000
 # text = The frigate then went along the New Jersey coast - the wonderful right bank of this river , all loaded down with country homes - and passed by the forts to salutes from their biggest cannons .
 1	The	_	Word	Word	_	2	E	2:E	_
-2	frigate	_	Word	Word	_	0	C	0:C|27:A|32:A	_
+2	frigate	_	Word	Word	_	0	C	0:C|32:A|27:A	_
 3	then	_	Word	Word	_	4	L	4:L	_
 4	went	_	Word	Word	_	0	H	0:H	_
 5	along	_	Word	Word	_	9	R	9:R	_

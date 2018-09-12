@@ -64,7 +64,7 @@
 61	chased	_	Word	Word	_	8	H	8:H	_
 62	plenty	_	Word	Word	_	64	E	64:E	_
 63	of	_	Word	Word	_	62	R	62:R|71:R	_
-64	cetaceans	_	Word	Word	_	0	C	0:C|76:C|71:C	_
+64	cetaceans	_	Word	Word	_	0	C	0:C|71:C|76:C	_
 65	,	_	Punctuation	Punctuation	_	68	U	68:U	_
 66	I	_	Word	Word	_	68	A	68:A	_
 67	've	_	Word	Word	_	68	F	68:F	_

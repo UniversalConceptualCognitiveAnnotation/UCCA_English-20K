@@ -43,11 +43,11 @@
 40	Six	_	Word	Word	_	41	E	41:E	_
 41	months	_	Word	Word	_	47	T	47:T	_
 42	ago	_	Word	Word	_	41	R	41:R	_
-43	we	_	Word	Word	_	47	A	47:A|64:D|55:D	_
+43	we	_	Word	Word	_	47	A	47:A|55:D|64:D	_
 44	could	_	Word	Word	_	47	D	47:D	_
 45	have	_	Word	Word	_	47	F	47:F	_
 46	been	_	Word	Word	_	47	F	47:F	_
-47	back	_	Word	Word	_	0	S	0:S|55:S|64:S	_
+47	back	_	Word	Word	_	0	S	0:S|64:S|55:S	_
 48	in	_	Word	Word	_	49	R	49:R	_
 49	France-	_	Word	Word	_	47	A	47:A	_
 50	"	_	Punctuation	Punctuation	_	4	U	4:U	_

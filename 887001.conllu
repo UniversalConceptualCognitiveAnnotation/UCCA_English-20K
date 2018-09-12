@@ -12,7 +12,7 @@
 9	English	_	Word	Word	_	10	E	10:E	_
 10	feet	_	Word	Word	_	5	E	5:E	_
 11	-	_	Punctuation	Punctuation	_	2	U	2:U	_
-12	he	_	Word	Word	_	15	A	15:A|17:A|26:A|34:A|23:A|32:A|19:E	_
+12	he	_	Word	Word	_	15	A	15:A|23:A|32:A|17:A|26:A|19:E|34:A	_
 13	was	_	Word	Word	_	15	F	15:F	_
 14	powerfully	_	Word	Word	_	15	D	15:D	_
 15	built	_	Word	Word	_	2	H	2:H	_
