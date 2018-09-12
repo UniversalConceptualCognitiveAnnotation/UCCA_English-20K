@@ -552,7 +552,7 @@
       <attributes paragraph="1" paragraph_position="183" text="France" />
     </node>
     <node ID="0.184" type="Punctuation">
-      <attributes paragraph="1" paragraph_position="184" text="'" />
+      <attributes paragraph="1" paragraph_position="184" text="&apos;" />
     </node>
     <node ID="0.185" type="Word">
       <attributes paragraph="1" paragraph_position="185" text="s" />

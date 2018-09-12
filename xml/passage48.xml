@@ -60,7 +60,7 @@
       <attributes paragraph="1" paragraph_position="19" text="did" />
     </node>
     <node ID="0.20" type="Word">
-      <attributes paragraph="1" paragraph_position="20" text="n't" />
+      <attributes paragraph="1" paragraph_position="20" text="n&apos;t" />
     </node>
     <node ID="0.21" type="Word">
       <attributes paragraph="1" paragraph_position="21" text="seem" />
@@ -102,7 +102,7 @@
       <attributes paragraph="1" paragraph_position="33" text="public" />
     </node>
     <node ID="0.34" type="Word">
-      <attributes paragraph="1" paragraph_position="34" text="'s" />
+      <attributes paragraph="1" paragraph_position="34" text="&apos;s" />
     </node>
     <node ID="0.35" type="Word">
       <attributes paragraph="1" paragraph_position="35" text="attention" />

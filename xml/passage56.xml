@@ -12,7 +12,7 @@
       <attributes paragraph="1" paragraph_position="3" text="had" />
     </node>
     <node ID="0.4" type="Word">
-      <attributes paragraph="1" paragraph_position="4" text="n't" />
+      <attributes paragraph="1" paragraph_position="4" text="n&apos;t" />
     </node>
     <node ID="0.5" type="Word">
       <attributes paragraph="1" paragraph_position="5" text="run" />
@@ -195,7 +195,7 @@
       <attributes paragraph="1" paragraph_position="64" text="We" />
     </node>
     <node ID="0.65" type="Word">
-      <attributes paragraph="1" paragraph_position="65" text="'re" />
+      <attributes paragraph="1" paragraph_position="65" text="&apos;re" />
     </node>
     <node ID="0.66" type="Word">
       <attributes paragraph="1" paragraph_position="66" text="sinking" />
@@ -207,7 +207,7 @@
       <attributes paragraph="1" paragraph_position="68" text="We" />
     </node>
     <node ID="0.69" type="Word">
-      <attributes paragraph="1" paragraph_position="69" text="'re" />
+      <attributes paragraph="1" paragraph_position="69" text="&apos;re" />
     </node>
     <node ID="0.70" type="Word">
       <attributes paragraph="1" paragraph_position="70" text="sinking" />

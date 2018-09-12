@@ -174,7 +174,7 @@
       <attributes paragraph="1" paragraph_position="57" text="north" />
     </node>
     <node ID="0.58" type="Punctuation">
-      <attributes paragraph="1" paragraph_position="58" text="'" />
+      <attributes paragraph="1" paragraph_position="58" text="&apos;" />
     </node>
     <node ID="0.59" type="Word">
       <attributes paragraph="1" paragraph_position="59" text="and" />
@@ -195,7 +195,7 @@
       <attributes paragraph="1" paragraph_position="64" text="west" />
     </node>
     <node ID="0.65" type="Punctuation">
-      <attributes paragraph="1" paragraph_position="65" text="'" />
+      <attributes paragraph="1" paragraph_position="65" text="&apos;" />
     </node>
     <node ID="0.66" type="Word">
       <attributes paragraph="1" paragraph_position="66" text="of" />
@@ -252,7 +252,7 @@
       <attributes paragraph="1" paragraph_position="83" text="mammal" />
     </node>
     <node ID="0.84" type="Word">
-      <attributes paragraph="1" paragraph_position="84" text="'s" />
+      <attributes paragraph="1" paragraph_position="84" text="&apos;s" />
     </node>
     <node ID="0.85" type="Word">
       <attributes paragraph="1" paragraph_position="85" text="minimum" />
