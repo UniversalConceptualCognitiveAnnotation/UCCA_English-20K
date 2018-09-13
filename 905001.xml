@@ -34,10 +34,10 @@
     </node>
     <node ID="1.2" type="FN">
       <attributes />
-      <edge toID="1.6" type="A">
+      <edge toID="1.6" type="P">
         <attributes />
       </edge>
-      <edge toID="1.7" type="P">
+      <edge toID="1.7" type="A">
         <attributes />
       </edge>
       <edge toID="1.8" type="A">
@@ -52,10 +52,10 @@
     </node>
     <node ID="1.8" type="FN">
       <attributes />
-      <edge toID="1.9" type="A">
+      <edge toID="1.9" type="S">
         <attributes />
       </edge>
-      <edge toID="1.10" type="S">
+      <edge toID="1.10" type="A">
         <attributes />
       </edge>
       <edge toID="1.11" type="D">

@@ -334,10 +334,10 @@
     </node>
     <node ID="1.25" type="FN">
       <attributes />
-      <edge toID="1.39" type="E">
+      <edge toID="1.39" type="C">
         <attributes />
       </edge>
-      <edge toID="1.40" type="C">
+      <edge toID="1.40" type="E">
         <attributes />
       </edge>
       <edge toID="1.41" type="E">
@@ -450,6 +450,9 @@
       </edge>
     </node>
     <node ID="1.39" type="FN">
+      <attributes implicit="True" />
+    </node>
+    <node ID="1.40" type="FN">
       <attributes />
       <edge toID="1.43" type="E">
         <attributes />
@@ -463,9 +466,6 @@
       <edge toID="1.46" type="R">
         <attributes />
       </edge>
-    </node>
-    <node ID="1.40" type="FN">
-      <attributes implicit="True" />
     </node>
     <node ID="1.41" type="FN">
       <attributes />

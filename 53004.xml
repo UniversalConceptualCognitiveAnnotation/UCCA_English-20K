@@ -135,7 +135,6 @@
     </node>
     <node ID="1.5" type="FN">
       <attributes />
-      <extra remarks="D" />
       <edge toID="0.4" type="Terminal">
         <attributes />
       </edge>

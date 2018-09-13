@@ -187,10 +187,10 @@
     </node>
     <node ID="1.2" type="FN">
       <attributes />
-      <edge toID="1.52" type="A">
+      <edge toID="1.52" type="P">
         <attributes />
       </edge>
-      <edge toID="1.53" type="P">
+      <edge toID="1.53" type="A">
         <attributes />
       </edge>
       <edge toID="1.54" type="A">
