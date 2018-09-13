@@ -39,91 +39,95 @@ those	Word	--	Terminal	535
 warships	Word	--	Terminal	536
 called	Word	--	Terminal	537
 '	Punctuation	--	Terminal	538
-rams,'	Word	--	Terminal	539
-whose	Word	--	Terminal	540
-mass	Word	--	Terminal	541
-and	Word	--	Terminal	542
-motor	Word	--	Terminal	543
-power	Word	--	Terminal	544
-it	Word	--	Terminal	545
-would	Word	--	Terminal	546
-possess	Word	--	Terminal	547
-simultaneously	Word	--	Terminal	548
-.	Punctuation	--	Terminal	549
-#500	PNCT	--	U	570
-#501	FN	--	L	570	LR	563
-#502	PNCT	--	U	570
-#503	FN	--	L	570	LR	559
-#504	FN	--	A	550
-#505	FN	--	D	550
-#506	FN	--	D	550
-#507	FN	--	S	550
-#508	PNCT	--	U	570
-#509	FN	--	A	561
-#510	FN	--	P	561
-#511	FN	--	R	560
-#512	FN	--	E	560
-#513	FN	--	E	560
-#514	FN	--	C	560	A*	558	A*	569	A*	551
-#515	FN	--	R	551
-#516	FN	--	D	551
-#517	FN	--	S	551
-#518	PNCT	--	U	570
-#519	FN	--	D	558
-#520	FN	--	S	558	S*	569
-#521	FN	--	R	552
-#522	FN	--	E	552
-#523	FN	--	E	552
-#524	FN	--	C	552
-#525	FN	--	L	570	LR	571
-#526	FN	--	R	568
-#527	FN	--	E	568
-#528	FN	--	E	568
-#529	FN	--	C	568
-#530	PNCT	--	U	568
-#531	FN	--	R	567
-#532	FN	--	E	553
-#533	FN	--	C	553
-#534	FN	--	N	566
-#535	FN	--	E	565
-#536	FN	--	C	565	A*	564	A*	557	E*	554	E*	555
-#537	FN	--	P	564
-#538	PNCT	--	U	564
-#539	FN	--	A	564
-#540	FN	--	R	557
-#541	FN	--	C	554
-#542	FN	--	N	556
-#543	FN	--	E	555
-#544	FN	--	C	555
-#545	FN	--	A	557
-#546	FN	--	D	557
-#547	FN	--	P	557
-#548	FN	--	D	557
-#549	PNCT	--	U	557
-#550	FN	--	H	570	LA	559
-#551	FN	--	E	560
-#552	FN	--	A	558
-#553	FN	--	C	566
-#554	FN	--	C	556
-#555	FN	--	C	556
-#556	FN	--	A	557
-#557	FN	--	E	565
-#558	FN	--	H	570	LA	571
-#559	LKG	--	--	0
-#560	FN	--	A	561
-#561	FN	--	H	570	LA	563
-#562	FN	--	A	564
-#563	LKG	--	--	0
-#564	FN	--	E	565
-#565	FN	--	C	566
-#566	FN	--	C	567
-#567	FN	--	E	568
-#568	FN	--	A	569
-#569	FN	--	H	570	LA	571
-#570	FN	--	A	574
-#571	LKG	--	--	0
-#572	FN	--	P	574
-#573	FN	--	A	574
-#574	FN	--	H	575
-#575	FN	--	--	0
+rams	Word	--	Terminal	539
+,	Punctuation	--	Terminal	540
+'	Punctuation	--	Terminal	541
+whose	Word	--	Terminal	542
+mass	Word	--	Terminal	543
+and	Word	--	Terminal	544
+motor	Word	--	Terminal	545
+power	Word	--	Terminal	546
+it	Word	--	Terminal	547
+would	Word	--	Terminal	548
+possess	Word	--	Terminal	549
+simultaneously	Word	--	Terminal	550
+.	Punctuation	--	Terminal	551
+#500	PNCT	--	U	572
+#501	FN	--	L	572	LR	567
+#502	PNCT	--	U	572
+#503	FN	--	L	572	LR	561
+#504	FN	--	A	552
+#505	FN	--	D	552
+#506	FN	--	D	552
+#507	FN	--	S	552
+#508	PNCT	--	U	572
+#509	FN	--	A	563
+#510	FN	--	P	563
+#511	FN	--	R	562
+#512	FN	--	E	562
+#513	FN	--	E	562
+#514	FN	--	C	562	A*	560	A*	571	A*	553
+#515	FN	--	R	553
+#516	FN	--	D	553
+#517	FN	--	S	553
+#518	PNCT	--	U	572
+#519	FN	--	D	560
+#520	FN	--	S	560	S*	571
+#521	FN	--	R	554
+#522	FN	--	E	554
+#523	FN	--	E	554
+#524	FN	--	C	554
+#525	FN	--	L	572	LR	573
+#526	FN	--	R	570
+#527	FN	--	E	570
+#528	FN	--	E	570
+#529	FN	--	C	570
+#530	PNCT	--	U	570
+#531	FN	--	R	569
+#532	FN	--	E	555
+#533	FN	--	C	555
+#534	FN	--	N	568
+#535	FN	--	E	566
+#536	FN	--	C	566	A*	565	A*	559	E*	556	E*	557
+#537	FN	--	P	565
+#538	PNCT	--	U	565
+#539	FN	--	A	565
+#540	PNCT	--	U	566
+#541	PNCT	--	U	566
+#542	FN	--	R	559
+#543	FN	--	C	556
+#544	FN	--	N	558
+#545	FN	--	E	557
+#546	FN	--	C	557
+#547	FN	--	A	559
+#548	FN	--	D	559
+#549	FN	--	P	559
+#550	FN	--	D	559
+#551	PNCT	--	U	559
+#552	FN	--	H	572	LA	561
+#553	FN	--	E	562
+#554	FN	--	A	560
+#555	FN	--	C	568
+#556	FN	--	C	558
+#557	FN	--	C	558
+#558	FN	--	A	559
+#559	FN	--	E	566
+#560	FN	--	H	572	LA	573
+#561	LKG	--	--	0
+#562	FN	--	A	563
+#563	FN	--	H	572	LA	567
+#564	FN	--	A	565
+#565	FN	--	E	566
+#566	FN	--	C	568
+#567	LKG	--	--	0
+#568	FN	--	C	569
+#569	FN	--	E	570
+#570	FN	--	A	571
+#571	FN	--	H	572	LA	573
+#572	FN	--	A	576
+#573	LKG	--	--	0
+#574	FN	--	A	576
+#575	FN	--	P	576
+#576	FN	--	H	577
+#577	FN	--	--	0
 #EOS 307000
