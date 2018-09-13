@@ -69,11 +69,13 @@
 65	,	_	Punctuation	Punctuation	_	57	U	_	_
 66	"	_	Punctuation	Punctuation	_	57	U	_	_
 67	and	_	Word	Word	_	57	N	_	_
-68	other	_	Word	Word	_	70	E	_	_
-69	all-out	_	Word	Word	_	70	E	_	_
-70	efforts	_	Word	Word	_	57	C	_	_
-71	from	_	Word	Word	_	73	R	_	_
-72	drunken	_	Word	Word	_	73	E	_	_
-73	seamen	_	Word	Word	_	70	E	_	_
-74	.	_	Punctuation	Punctuation	_	73	U	_	_
+68	other	_	Word	Word	_	72	E	_	_
+69	all	_	Word	Word	_	72	E	_	_
+70	-	_	Punctuation	Punctuation	_	69	U	_	_
+71	out	_	Word	Word	_	69	Terminal	_	_
+72	efforts	_	Word	Word	_	57	C	_	_
+73	from	_	Word	Word	_	75	R	_	_
+74	drunken	_	Word	Word	_	75	E	_	_
+75	seamen	_	Word	Word	_	72	E	_	_
+76	.	_	Punctuation	Punctuation	_	75	U	_	_
 

@@ -19,8 +19,10 @@
 17	column	_	Word	Word	_	14	A	_	_
 18	of	_	Word	Word	_	19	R	_	_
 19	water	_	Word	Word	_	17	E	_	_
-20	thirty-two	_	Word	Word	_	21	E	_	_
-21	feet	_	Word	Word	_	22	A	_	_
-22	high	_	Word	Word	_	17	E	_	_
-23	.	_	Punctuation	Punctuation	_	22	U	_	_
+20	thirty	_	Word	Word	_	23	E	_	_
+21	-	_	Punctuation	Punctuation	_	20	U	_	_
+22	two	_	Word	Word	_	20	Terminal	_	_
+23	feet	_	Word	Word	_	24	A	_	_
+24	high	_	Word	Word	_	17	E	_	_
+25	.	_	Punctuation	Punctuation	_	24	U	_	_
 
