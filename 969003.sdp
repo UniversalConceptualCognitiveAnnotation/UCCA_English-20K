@@ -38,7 +38,8 @@
 37	after	_	Word	-	-	_	_	L	_	_	_	_	_	_	_	_	_	_	_	_	_
 38	a	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_	E	_
 39	few	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	Terminal	_	_
-40	minutes'	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	T
-41	chase	_	Word	-	+	_	_	H	_	_	_	_	_	_	_	_	_	_	_	_	_
-42	!	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	U
+40	minutes	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	T
+41	'	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	U
+42	chase	_	Word	-	+	_	_	H	_	_	_	_	_	_	_	_	_	_	_	_	_
+43	!	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	U
 

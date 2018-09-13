@@ -8,13 +8,15 @@
 7	latitude	_	Word	-	+	_	_	_	_	_	E	_	_
 8	31	_	Word	-	+	_	_	_	A	_	_	_	_
 9	°	_	Punctuation	-	-	_	_	_	_	_	U	_	_
-10	15'	_	Word	-	-	_	_	_	_	_	Terminal	_	_
-11	north	_	Word	-	-	_	_	_	_	E	_	_	_
-12	and	_	Word	-	-	_	_	_	_	_	N	_	_
-13	longitude	_	Word	-	+	_	_	_	_	_	_	_	E
-14	136	_	Word	-	+	_	_	_	_	_	C	_	_
-15	°	_	Punctuation	-	-	_	_	_	_	_	_	_	U
-16	42'	_	Word	-	-	_	_	_	_	_	_	_	Terminal
-17	east	_	Word	-	-	_	_	_	_	_	_	E	_
-18	.	_	Punctuation	-	-	_	_	_	_	_	_	U	_
+10	15	_	Word	-	-	_	_	_	_	_	Terminal	_	_
+11	'	_	Punctuation	-	-	_	_	_	_	_	U	_	_
+12	north	_	Word	-	-	_	_	_	_	E	_	_	_
+13	and	_	Word	-	-	_	_	_	_	_	N	_	_
+14	longitude	_	Word	-	+	_	_	_	_	_	_	_	E
+15	136	_	Word	-	+	_	_	_	_	_	C	_	_
+16	°	_	Punctuation	-	-	_	_	_	_	_	_	_	U
+17	42	_	Word	-	-	_	_	_	_	_	_	_	Terminal
+18	'	_	Punctuation	-	-	_	_	_	_	_	_	_	U
+19	east	_	Word	-	-	_	_	_	_	_	_	E	_
+20	.	_	Punctuation	-	-	_	_	_	_	_	_	U	_
 

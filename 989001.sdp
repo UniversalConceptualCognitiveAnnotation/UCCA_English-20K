@@ -7,8 +7,9 @@
 6	of	_	Word	-	-	_	_	R	_	_
 7	reviving	_	Word	-	+	_	A	_	_	_
 8	the	_	Word	-	-	_	_	_	E	_
-9	crew's	_	Word	-	+	_	_	_	_	E
-10	failing	_	Word	-	-	_	_	_	_	E
-11	spirits	_	Word	-	+	_	_	A	_	_
-12	.	_	Punctuation	-	-	_	_	_	_	U
+9	crew	_	Word	-	+	_	_	_	_	E
+10	's	_	Word	-	-	_	_	_	R	_
+11	failing	_	Word	-	-	_	_	_	_	E
+12	spirits	_	Word	-	+	_	_	A	_	_
+13	.	_	Punctuation	-	-	_	_	_	_	U
 
