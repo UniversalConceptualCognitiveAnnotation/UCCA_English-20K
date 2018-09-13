@@ -1,6 +1,6 @@
 # format = ucca
 # sent_id = 47002
-# text = When the monster 's detractors cited a saying by the botanist Linnaeus that " nature does n't make leaps , " witty writers in the popular periodicals parodied it , maintaining in essence that " nature does n't make lunatics , " and ordering their contemporaries never to give the lie to nature by believing in krakens , sea serpents , " Moby Dicks , " and other all-out efforts from drunken seamen .
+# text = When the monster 's detractors cited a saying by the botanist Linnaeus that " nature does n't make leaps , " witty writers in the popular periodicals parodied it , maintaining in essence that " nature does n't make lunatics , " and ordering their contemporaries never to give the lie to nature by believing in krakens , sea serpents , " Moby Dicks , " and other all - out efforts from drunken seamen .
 1	When	_	Word	Word	_	6	L	6:L	_
 2	the	_	Word	Word	_	5	E	5:E	_
 3	monster	_	Word	Word	_	5	E	5:E	_
@@ -68,11 +68,13 @@
 65	,	_	Punctuation	Punctuation	_	57	U	57:U	_
 66	"	_	Punctuation	Punctuation	_	57	U	57:U	_
 67	and	_	Word	Word	_	57	N	57:N	_
-68	other	_	Word	Word	_	70	E	70:E	_
-69	all-out	_	Word	Word	_	70	E	70:E	_
-70	efforts	_	Word	Word	_	57	C	57:C	_
-71	from	_	Word	Word	_	73	R	73:R	_
-72	drunken	_	Word	Word	_	73	E	73:E	_
-73	seamen	_	Word	Word	_	70	E	70:E	_
-74	.	_	Punctuation	Punctuation	_	73	U	73:U	_
+68	other	_	Word	Word	_	72	E	72:E	_
+69	all	_	Word	Word	_	72	E	72:E	_
+70	-	_	Punctuation	Punctuation	_	69	U	69:U	_
+71	out	_	Word	Word	_	69	Terminal	69:Terminal	_
+72	efforts	_	Word	Word	_	57	C	57:C	_
+73	from	_	Word	Word	_	75	R	75:R	_
+74	drunken	_	Word	Word	_	75	E	75:E	_
+75	seamen	_	Word	Word	_	72	E	72:E	_
+76	.	_	Punctuation	Punctuation	_	75	U	75:U	_
 

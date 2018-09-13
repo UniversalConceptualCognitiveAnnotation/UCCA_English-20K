@@ -1,6 +1,6 @@
 # format = ucca
 # sent_id = 44000
-# text = One after another , reports arrived that would profoundly affect public opinion : new observations taken by the transatlantic liner Pereire , the Inman line 's Etna running afoul of the monster , an official report drawn up by officers on the French frigate Normandy , dead - earnest reckonings obtained by the general staff of Commodore Fitz-James aboard the Lord Clyde .
+# text = One after another , reports arrived that would profoundly affect public opinion : new observations taken by the transatlantic liner Pereire , the Inman line 's Etna running afoul of the monster , an official report drawn up by officers on the French frigate Normandy , dead - earnest reckonings obtained by the general staff of Commodore Fitz - James aboard the Lord Clyde .
 1	One	_	Word	Word	_	6	D	6:D	_
 2	after	_	Word	Word	_	1	R	1:R	_
 3	another	_	Word	Word	_	1	C	1:C	_
@@ -58,10 +58,12 @@
 55	staff	_	Word	Word	_	0	C	0:C|50:A	_
 56	of	_	Word	Word	_	55	R	55:R	_
 57	Commodore	_	Word	Word	_	55	E	55:E	_
-58	Fitz-James	_	Word	Word	_	57	Terminal	57:Terminal	_
-59	aboard	_	Word	Word	_	61	R	61:R	_
-60	the	_	Word	Word	_	61	E	61:E	_
-61	Lord	_	Word	Word	_	51	A	51:A	_
-62	Clyde	_	Word	Word	_	61	Terminal	61:Terminal	_
-63	.	_	Punctuation	Punctuation	_	61	U	61:U	_
+58	Fitz	_	Word	Word	_	57	Terminal	57:Terminal	_
+59	-	_	Punctuation	Punctuation	_	57	U	57:U	_
+60	James	_	Word	Word	_	57	Terminal	57:Terminal	_
+61	aboard	_	Word	Word	_	63	R	63:R	_
+62	the	_	Word	Word	_	63	E	63:E	_
+63	Lord	_	Word	Word	_	51	A	51:A	_
+64	Clyde	_	Word	Word	_	63	Terminal	63:Terminal	_
+65	.	_	Punctuation	Punctuation	_	63	U	63:U	_
 

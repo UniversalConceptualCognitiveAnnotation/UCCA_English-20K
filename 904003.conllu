@@ -1,6 +1,6 @@
 # format = ucca
 # sent_id = 904003
-# text = Let 's accept that the pressure of one atmosphere is represented by the pressure of a column of water thirty-two feet high .
+# text = Let 's accept that the pressure of one atmosphere is represented by the pressure of a column of water thirty - two feet high .
 1	Let	_	Word	Word	_	3	D	3:D	_
 2	's	_	Word	Word	_	3	A	3:A	_
 3	accept	_	Word	Word	_	0	H	0:H	_
@@ -20,8 +20,10 @@
 17	column	_	Word	Word	_	14	A	14:A	_
 18	of	_	Word	Word	_	19	R	19:R	_
 19	water	_	Word	Word	_	17	E	17:E	_
-20	thirty-two	_	Word	Word	_	21	E	21:E	_
-21	feet	_	Word	Word	_	22	A	22:A	_
-22	high	_	Word	Word	_	17	E	17:E	_
-23	.	_	Punctuation	Punctuation	_	22	U	22:U	_
+20	thirty	_	Word	Word	_	23	E	23:E	_
+21	-	_	Punctuation	Punctuation	_	20	U	20:U	_
+22	two	_	Word	Word	_	20	Terminal	20:Terminal	_
+23	feet	_	Word	Word	_	24	A	24:A	_
+24	high	_	Word	Word	_	17	E	17:E	_
+25	.	_	Punctuation	Punctuation	_	24	U	24:U	_
 

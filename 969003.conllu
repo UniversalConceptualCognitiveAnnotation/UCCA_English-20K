@@ -1,6 +1,6 @@
 # format = ucca
 # sent_id = 969003
-# text = And the Canadian had such good luck that with a right - and - left shot , he harpooned not one whale but two , striking the first straight to the heart and catching the other after a few minutes' chase !
+# text = And the Canadian had such good luck that with a right - and - left shot , he harpooned not one whale but two , striking the first straight to the heart and catching the other after a few minutes ' chase !
 1	And	_	Word	Word	_	7	L	7:L	_
 2	the	_	Word	Word	_	3	E	3:E	_
 3	Canadian	_	Word	Word	_	7	A	7:A	_
@@ -18,11 +18,11 @@
 15	left	_	Word	Word	_	11	C	11:C	_
 16	shot	_	Word	Word	_	19	A	19:A	_
 17	,	_	Punctuation	Punctuation	_	19	U	19:U	_
-18	he	_	Word	Word	_	19	A	19:A|24:A|41:A|26:A|34:A	_
+18	he	_	Word	Word	_	19	A	19:A|42:A|24:A|34:A|26:A	_
 19	harpooned	_	Word	Word	_	7	H	7:H	_
 20	not	_	Word	Word	_	19	D	19:D	_
 21	one	_	Word	Word	_	22	E	22:E	_
-22	whale	_	Word	Word	_	0	C	0:C|24:A|27:C|41:A|35:C	_
+22	whale	_	Word	Word	_	0	C	0:C|42:A|24:A|35:C|27:C	_
 23	but	_	Word	Word	_	7	L	7:L	_
 24	two	_	Word	Word	_	7	H	7:H	_
 25	,	_	Punctuation	Punctuation	_	7	U	7:U	_
@@ -40,7 +40,8 @@
 37	after	_	Word	Word	_	7	L	7:L	_
 38	a	_	Word	Word	_	40	E	40:E	_
 39	few	_	Word	Word	_	38	Terminal	38:Terminal	_
-40	minutes'	_	Word	Word	_	41	T	41:T	_
-41	chase	_	Word	Word	_	7	H	7:H	_
-42	!	_	Punctuation	Punctuation	_	41	U	41:U	_
+40	minutes	_	Word	Word	_	42	T	42:T	_
+41	'	_	Punctuation	Punctuation	_	42	U	42:U	_
+42	chase	_	Word	Word	_	7	H	7:H	_
+43	!	_	Punctuation	Punctuation	_	42	U	42:U	_
 

@@ -6,7 +6,7 @@
 3	after	_	Word	Word	_	5	L	5:L	_
 4	inquiries	_	Word	Word	_	5	A	5:A	_
 5	conducted	_	Word	Word	_	0	H	0:H	_
-6	in	_	Word	Word	_	7	R	7:R|15:R|13:R|11:R|9:R|23:R|19:R|17:R	_
+6	in	_	Word	Word	_	7	R	7:R|23:R|11:R|9:R|19:R|17:R|15:R|13:R	_
 7	England	_	Word	Word	_	5	A	5:A	_
 8	,	_	Punctuation	Punctuation	_	7	U	7:U	_
 9	France	_	Word	Word	_	7	C	7:C	_

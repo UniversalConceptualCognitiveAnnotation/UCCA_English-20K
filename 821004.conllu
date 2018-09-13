@@ -3,7 +3,7 @@
 # text = Moreover , he enjoyed excellent health that defied all ailments , owned solid muscles , but had n't a nerve in him , not a sign of nerves - the mental type , I mean .
 1	Moreover	_	Word	Word	_	4	L	4:L	_
 2	,	_	Punctuation	Punctuation	_	4	U	4:U	_
-3	he	_	Word	Word	_	4	A	4:A|12:A|17:A	_
+3	he	_	Word	Word	_	4	A	4:A|17:A|12:A	_
 4	enjoyed	_	Word	Word	_	0	H	0:H	_
 5	excellent	_	Word	Word	_	6	E	6:E	_
 6	health	_	Word	Word	_	4	A	4:A	_

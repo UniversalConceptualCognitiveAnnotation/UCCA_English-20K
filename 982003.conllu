@@ -4,7 +4,7 @@
 1	"	_	Punctuation	Punctuation	_	5	U	5:U	_
 2	So	_	Word	Word	_	5	L	5:L	_
 3	the	_	Word	Word	_	4	E	4:E	_
-4	frigate	_	Word	Word	_	0	C	0:C|30:A|20:A|9:A	_
+4	frigate	_	Word	Word	_	0	C	0:C|9:A|20:A|30:A	_
 5	kept	_	Word	Word	_	0	H	0:H	_
 6	well	_	Word	Word	_	5	D	5:D	_
 7	out	_	Word	Word	_	5	Terminal	5:Terminal	_

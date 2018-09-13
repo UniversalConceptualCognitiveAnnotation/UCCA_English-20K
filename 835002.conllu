@@ -5,7 +5,7 @@
 2	this	_	Word	Word	_	3	E	3:E	_
 3	pressure	_	Word	Word	_	7	A	7:A	_
 4	the	_	Word	Word	_	5	E	5:E	_
-5	Abraham	_	Word	Word	_	0	C	0:C|19:A|25:A	_
+5	Abraham	_	Word	Word	_	0	C	0:C|25:A|19:A	_
 6	Lincoln	_	Word	Word	_	5	Terminal	5:Terminal	_
 7	reached	_	Word	Word	_	0	H	0:H	_
 8	an	_	Word	Word	_	10	E	10:E	_

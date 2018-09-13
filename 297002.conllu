@@ -1,6 +1,6 @@
 # format = ucca
 # sent_id = 297002
-# text = I discussed the question in its every aspect , both political and scientific , and this is an excerpt from the well-padded article I published in the issue of April 30 .
+# text = I discussed the question in its every aspect , both political and scientific , and this is an excerpt from the well - padded article I published in the issue of April 30 .
 1	I	_	Word	Word	_	2	A	2:A	_
 2	discussed	_	Word	Word	_	0	H	0:H	_
 3	the	_	Word	Word	_	4	E	4:E	_
@@ -20,17 +20,19 @@
 17	is	_	Word	Word	_	19	F	19:F	_
 18	an	_	Word	Word	_	19	E	19:E	_
 19	excerpt	_	Word	Word	_	2	H	2:H	_
-20	from	_	Word	Word	_	23	R	23:R	_
-21	the	_	Word	Word	_	23	E	23:E	_
-22	well-padded	_	Word	Word	_	23	E	23:E	_
-23	article	_	Word	Word	_	19	A	19:A	_
-24	I	_	Word	Word	_	25	A	25:A	_
-25	published	_	Word	Word	_	23	E	23:E	_
-26	in	_	Word	Word	_	28	R	28:R	_
-27	the	_	Word	Word	_	28	E	28:E	_
-28	issue	_	Word	Word	_	25	A	25:A	_
-29	of	_	Word	Word	_	30	R	30:R	_
-30	April	_	Word	Word	_	28	E	28:E	_
-31	30	_	Word	Word	_	30	Terminal	30:Terminal	_
-32	.	_	Punctuation	Punctuation	_	30	U	30:U	_
+20	from	_	Word	Word	_	25	R	25:R	_
+21	the	_	Word	Word	_	25	E	25:E	_
+22	well	_	Word	Word	_	24	E	24:E	_
+23	-	_	Punctuation	Punctuation	_	24	U	24:U	_
+24	padded	_	Word	Word	_	25	E	25:E	_
+25	article	_	Word	Word	_	19	A	19:A	_
+26	I	_	Word	Word	_	27	A	27:A	_
+27	published	_	Word	Word	_	25	E	25:E	_
+28	in	_	Word	Word	_	30	R	30:R	_
+29	the	_	Word	Word	_	30	E	30:E	_
+30	issue	_	Word	Word	_	27	A	27:A	_
+31	of	_	Word	Word	_	32	R	32:R	_
+32	April	_	Word	Word	_	30	E	30:E	_
+33	30	_	Word	Word	_	32	Terminal	32:Terminal	_
+34	.	_	Punctuation	Punctuation	_	32	U	32:U	_
 

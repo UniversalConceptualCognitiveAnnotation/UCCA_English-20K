@@ -22,7 +22,7 @@
 19	lounge	_	Word	Word	_	15	A	15:A	_
 20	,	_	Punctuation	Punctuation	_	22	U	22:U	_
 21	a	_	Word	Word	_	22	E	22:E	_
-22	collision	_	Word	Word	_	0	C	0:C|31:A|26:A	_
+22	collision	_	Word	Word	_	0	C	0:C|26:A|31:A	_
 23	occurred	_	Word	Word	_	22	D	22:D	_
 24	,	_	Punctuation	Punctuation	_	22	U	22:U	_
 25	scarcely	_	Word	Word	_	26	D	26:D	_

@@ -22,7 +22,7 @@
 19	intransigence	_	Word	Word	_	5	H	5:H	_
 20	,	_	Punctuation	Punctuation	_	5	U	5:U	_
 21	Commander	_	Word	Word	_	22	E	22:E	_
-22	Farragut	_	Word	Word	_	0	C	0:C|19:A|33:A	_
+22	Farragut	_	Word	Word	_	0	C	0:C|33:A|19:A	_
 23	,	_	Punctuation	Punctuation	_	5	U	5:U	_
 24	like	_	Word	Word	_	5	L	5:L	_
 25	Christopher	_	Word	Word	_	5	H	5:H	_

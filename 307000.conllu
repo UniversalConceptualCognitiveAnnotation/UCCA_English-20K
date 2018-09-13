@@ -1,6 +1,6 @@
 # format = ucca
 # sent_id = 307000
-# text = " So , until information becomes more abundant , I plump for a sea unicorn of colossal dimensions , no longer armed with a mere lance but with an actual spur , like ironclad frigates or those warships called ' rams,' whose mass and motor power it would possess simultaneously .
+# text = " So , until information becomes more abundant , I plump for a sea unicorn of colossal dimensions , no longer armed with a mere lance but with an actual spur , like ironclad frigates or those warships called ' rams , ' whose mass and motor power it would possess simultaneously .
 1	"	_	Punctuation	Punctuation	_	8	U	8:U	_
 2	So	_	Word	Word	_	8	L	8:L	_
 3	,	_	Punctuation	Punctuation	_	8	U	8:U	_
@@ -15,7 +15,7 @@
 12	for	_	Word	Word	_	15	R	15:R	_
 13	a	_	Word	Word	_	15	E	15:E	_
 14	sea	_	Word	Word	_	15	E	15:E	_
-15	unicorn	_	Word	Word	_	0	C	0:C|31:A|22:A|18:A	_
+15	unicorn	_	Word	Word	_	0	C	0:C|18:A|22:A|31:A	_
 16	of	_	Word	Word	_	18	R	18:R	_
 17	colossal	_	Word	Word	_	18	D	18:D	_
 18	dimensions	_	Word	Word	_	15	E	15:E	_
@@ -41,15 +41,17 @@
 38	warships	_	Word	Word	_	35	C	35:C	_
 39	called	_	Word	Word	_	38	E	38:E	_
 40	'	_	Punctuation	Punctuation	_	39	U	39:U	_
-41	rams,'	_	Word	Word	_	39	A	39:A	_
-42	whose	_	Word	Word	_	49	R	49:R	_
-43	mass	_	Word	Word	_	49	A	49:A	_
-44	and	_	Word	Word	_	43	N	43:N	_
-45	motor	_	Word	Word	_	46	E	46:E	_
-46	power	_	Word	Word	_	43	C	43:C	_
-47	it	_	Word	Word	_	49	A	49:A	_
-48	would	_	Word	Word	_	49	D	49:D	_
-49	possess	_	Word	Word	_	38	E	38:E	_
-50	simultaneously	_	Word	Word	_	49	D	49:D	_
-51	.	_	Punctuation	Punctuation	_	49	U	49:U	_
+41	rams	_	Word	Word	_	39	A	39:A	_
+42	,	_	Punctuation	Punctuation	_	38	U	38:U	_
+43	'	_	Punctuation	Punctuation	_	38	U	38:U	_
+44	whose	_	Word	Word	_	51	R	51:R	_
+45	mass	_	Word	Word	_	51	A	51:A	_
+46	and	_	Word	Word	_	45	N	45:N	_
+47	motor	_	Word	Word	_	48	E	48:E	_
+48	power	_	Word	Word	_	45	C	45:C	_
+49	it	_	Word	Word	_	51	A	51:A	_
+50	would	_	Word	Word	_	51	D	51:D	_
+51	possess	_	Word	Word	_	38	E	38:E	_
+52	simultaneously	_	Word	Word	_	51	D	51:D	_
+53	.	_	Punctuation	Punctuation	_	51	U	51:U	_
 
