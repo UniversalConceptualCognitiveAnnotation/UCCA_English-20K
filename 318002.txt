@@ -1,14 +1,16 @@
 # ::id 318002
 # ::tok If you would like to join the expedition on the Abraham Lincoln , the government of the Union will be pleased to regard you as France 's representative in this undertaking . Commander Farragut has a cabin at your disposal . Very cordially yours , J . B . HOBSON , Secretary of the Navy .
-# ::alignments 0-1.1.3.1 1-1.1.3.2.1 2-1.1.3.2.2.1 3-1.1.3.2.2.2 5-1.1.3.2.4 6-1.1.3.2.5.1.1 7-1.1.3.2.5.1.2 8-1.1.3.2.5.2.1 9-1.1.3.2.5.2.2 10-1.1.3.2.5.2.3 11-1.1.3.2.5.2.3 13-1.1.3.3.1.1 14-1.1.3.3.1.2 15-1.1.3.3.1.3.1 16-1.1.3.3.1.3.2 17-1.1.3.3.1.3.3 18-1.1.3.3.2 20-1.1.3.3.4 22-1.1.3.3.6 23-1.1.3.3.7 24-1.1.3.3.8.1 25-1.1.3.3.8.2.1 26-1.1.3.3.8.2.2 27-1.1.3.3.8.3 28-1.1.3.3.9.2 29-1.1.3.3.9.3.1 30-1.1.3.3.9.3.2 32-1.1.3.4.1.1 33-1.1.3.4.1.2 34-1.1.3.4.2 35-1.1.3.4.3.1.1 36-1.1.3.4.3.1.2 37-1.1.3.4.3.2 38-1.1.3.4.3.2 39-1.1.3.4.3.2 41-1.1.3.5 42-1.1.3.5 43-1.1.3.5 45-1.1.3.6 47-1.1.3.6 49-1.1.3.6 51-1.1.3.6 52-1.1.3.6 53-1.1.3.6 54-1.1.3.6
+# ::alignments 0-1.1.3.3 1-1.1.3.5.1 2-1.1.3.5.2.1 3-1.1.3.5.2.2 5-1.1.3.5.4 6-1.1.3.5.5.1.1 7-1.1.3.5.5.1.2 8-1.1.3.5.5.2.1 9-1.1.3.5.5.2.2 10-1.1.3.5.5.2.3 11-1.1.3.5.5.2.3 13-1.1.3.10.1.1 14-1.1.3.10.1.2 15-1.1.3.10.1.3.1 16-1.1.3.10.1.3.2 17-1.1.3.10.1.3.3 18-1.1.3.10.2 20-1.1.3.10.4 22-1.1.3.10.6 23-1.1.3.10.7 24-1.1.3.10.8.1 25-1.1.3.10.8.2.1 26-1.1.3.10.8.2.2 27-1.1.3.10.8.3 28-1.1.3.10.9.2 29-1.1.3.10.9.3.1 30-1.1.3.10.9.3.2 32-1.1.3.11.1.1 33-1.1.3.11.1.2 34-1.1.3.11.2 35-1.1.3.11.3.1.1 36-1.1.3.11.3.1.2 37-1.1.3.11.3.2 38-1.1.3.11.3.2 39-1.1.3.11.3.2 41-1.1.3.1 42-1.1.3.1 43-1.1.3.1 45-1.1.3.2 47-1.1.3.2 49-1.1.3.2 51-1.1.3.2 52-1.1.3.2 53-1.1.3.2 54-1.1.3.2
 # ::format ucca
 (v1 / label
     :H (v2 / label
            :A (v3 / label)
            :P (v4 / label)
            :A (v5 / label
-                  :L (v6 / label~e.0)
-                  :H (v7 / label
+                  :H (v6 / label~e.41,42,43)
+                  :H (v7 / label~e.45,47,49,51,52,53,54)
+                  :L (v8 / label~e.0)
+                  :H (v9 / label
                          :A (v12 / label~e.1)
                          :D (v13 / label
                                  :E (v26 / label~e.2)
@@ -22,39 +24,37 @@
                                          :R (v45 / label~e.8)
                                          :E (v46 / label~e.9)
                                          :C (v47 / label~e.10,11))))
-                  :H (v8 / label
-                         :A (v16 / label
-                                 :E (v30 / label~e.13)
-                                 :C (v31 / label~e.14)
-                                 :E (v32 / label
-                                         :R (v48 / label~e.15)
-                                         :E (v49 / label~e.16)
-                                         :C (v50 / label~e.17)))
-                         :D (v17 / label~e.18)
-                         :D (v18 / label~e.20)
-                         :P (v19 / label~e.22)
-                         :A (v20 / label~e.23)
-                         :A (v21 / label
-                                 :R (v33 / label~e.24)
-                                 :A (v34 / label
-                                         :C (v51 / label~e.25)
-                                         :R (v52 / label~e.26))
-                                 :P (v35 / label~e.27))
-                         :A (v22 / label
-                                 :A (v36 / label)
-                                 :R (v37 / label~e.28)
-                                 :P (v38 / label
-                                         :E (v53 / label~e.29)
-                                         :C (v54 / label~e.30))))
-                  :H (v9 / label
-                         :A (v23 / label
-                                 :E (v39 / label~e.32)
-                                 :C (v40 / label~e.33))
-                         :S (v24 / label~e.34)
-                         :A (v25 / label
-                                 :A (v41 / label
-                                         :E (v55 / label~e.35)
-                                         :C (v56 / label~e.36))
-                                 :P (v42 / label~e.37,38,39)))
-                  :H (v10 / label~e.41,42,43)
-                  :H (v11 / label~e.45,47,49,51,52,53,54))))
+                  :H (v10 / label
+                          :A (v16 / label
+                                  :E (v30 / label~e.13)
+                                  :C (v31 / label~e.14)
+                                  :E (v32 / label
+                                          :R (v48 / label~e.15)
+                                          :E (v49 / label~e.16)
+                                          :C (v50 / label~e.17)))
+                          :D (v17 / label~e.18)
+                          :D (v18 / label~e.20)
+                          :P (v19 / label~e.22)
+                          :A (v20 / label~e.23)
+                          :A (v21 / label
+                                  :R (v33 / label~e.24)
+                                  :A (v34 / label
+                                          :C (v51 / label~e.25)
+                                          :R (v52 / label~e.26))
+                                  :P (v35 / label~e.27))
+                          :A (v22 / label
+                                  :A (v36 / label)
+                                  :R (v37 / label~e.28)
+                                  :P (v38 / label
+                                          :E (v53 / label~e.29)
+                                          :C (v54 / label~e.30))))
+                  :H (v11 / label
+                          :A (v23 / label
+                                  :E (v39 / label~e.32)
+                                  :C (v40 / label~e.33))
+                          :S (v24 / label~e.34)
+                          :A (v25 / label
+                                  :A (v41 / label
+                                          :E (v55 / label~e.35)
+                                          :C (v56 / label~e.36))
+                                  :P (v42 / label~e.37,38,39))))))

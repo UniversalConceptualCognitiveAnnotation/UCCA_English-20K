@@ -1,6 +1,6 @@
 # ::id 907007
 # ::tok " Go on !
-# ::alignments 1-1.1.3.2 2-1.1.3.2
+# ::alignments 1-1.1.3.3 2-1.1.3.3
 # ::format ucca
 (v1 / label
     :H (v2 / label

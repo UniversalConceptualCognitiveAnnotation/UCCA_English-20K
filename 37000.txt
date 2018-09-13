@@ -1,6 +1,6 @@
 # ::id 37000
-# ::tok In essence , over a period of time several ships had encountered " an enormous thing " at sea , a long spindle-shaped object , sometimes giving off a phosphorescent glow , infinitely bigger and faster than any whale .
-# ::alignments 0-1.1.1 1-1.1.1 3-1.1.2.1 4-1.1.2.2.1 5-1.1.2.2.2 6-1.1.2.2.3 7-1.1.2.3 8-1.1.3.1 9-1.1.3.2 11-1.1.5 13-1.1.6.1 14-1.1.6.2 15-1.1.6.3 17-1.1.7.1 18-1.1.7.2 20-1.1.6.4.1 21-1.1.6.4.2 22-1.1.6.4.3 23-1.1.6.4.4 25-1.1.6.4.5.2 26-1.1.6.4.5.3 27-1.1.6.4.5.3 28-1.1.6.4.5.4.1 29-1.1.6.4.5.4.2 30-1.1.6.4.5.4.3 32-1.1.6.4.6.2 33-1.1.6.4.6.3.1 34-1.1.6.4.6.3.2 35-1.1.6.4.6.3.3 36-1.1.6.4.6.4.1 37-1.1.6.4.6.4.2 38-1.1.6.4.6.4.3
+# ::tok In essence , over a period of time several ships had encountered " an enormous thing " at sea , a long spindle - shaped object , sometimes giving off a phosphorescent glow , infinitely bigger and faster than any whale .
+# ::alignments 0-1.1.1 1-1.1.1 3-1.1.2.1 4-1.1.2.2.1 5-1.1.2.2.2 6-1.1.2.2.3 7-1.1.2.3 8-1.1.3.1 9-1.1.3.2 11-1.1.9 13-1.1.10.1 14-1.1.10.2 15-1.1.10.3 17-1.1.11.1 18-1.1.11.2 20-1.1.10.4.1 21-1.1.10.4.2 22-1.1.10.4.3.1 24-1.1.10.4.3.2 25-1.1.10.4.4 27-1.1.10.4.5.2 28-1.1.10.4.5.3 29-1.1.10.4.5.3 30-1.1.10.4.5.4.1 31-1.1.10.4.5.4.2 32-1.1.10.4.5.4.3 34-1.1.10.4.6.2 35-1.1.10.4.6.3.1 36-1.1.10.4.6.3.2 37-1.1.10.4.6.3.3 38-1.1.10.4.6.4.1 39-1.1.10.4.6.4.2 40-1.1.10.4.6.4.3
 # ::format ucca
 (v1 / label
     :H (v2 / label
@@ -23,27 +23,29 @@
                   :E (v17 / label
                           :E (v23 / label~e.20)
                           :E (v24 / label~e.21)
-                          :E (v25 / label~e.22)
-                          :C (v26 / label~e.23)
+                          :E (v25 / label
+                                  :E (v29 / label~e.22)
+                                  :C (v30 / label~e.24))
+                          :C (v26 / label~e.25)
                           :E (v27 / label
                                   :A v26
-                                  :T (v29 / label~e.25)
-                                  :P (v30 / label~e.26,27)
-                                  :A (v31 / label
-                                          :E (v35 / label~e.28)
-                                          :E (v36 / label~e.29)
-                                          :C (v37 / label~e.30)))
+                                  :T (v31 / label~e.27)
+                                  :P (v32 / label~e.28,29)
+                                  :A (v33 / label
+                                          :E (v37 / label~e.30)
+                                          :E (v38 / label~e.31)
+                                          :C (v39 / label~e.32)))
                           :E (v28 / label
                                   :A v26
-                                  :D (v32 / label~e.32)
-                                  :S (v33 / label
-                                          :C (v38 / label~e.33)
-                                          :N (v39 / label~e.34)
-                                          :C (v40 / label~e.35))
-                                  :A (v34 / label
-                                          :R (v41 / label~e.36)
-                                          :E (v42 / label~e.37)
-                                          :C (v43 / label~e.38)))))
+                                  :D (v34 / label~e.34)
+                                  :S (v35 / label
+                                          :C (v40 / label~e.35)
+                                          :N (v41 / label~e.36)
+                                          :C (v42 / label~e.37))
+                                  :A (v36 / label
+                                          :R (v43 / label~e.38)
+                                          :E (v44 / label~e.39)
+                                          :C (v45 / label~e.40)))))
            :A (v8 / label
                   :R (v18 / label~e.17)
                   :C (v19 / label~e.18))))

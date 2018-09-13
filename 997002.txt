@@ -28,8 +28,8 @@
            :P (v6 / label~e.8)
            :D (v7 / label~e.9))
     :H (v3 / label
-           :P (v8 / label)
-           :A (v9 / label)
+           :A (v8 / label)
+           :P (v9 / label)
            :A (v10 / label
                    :A (v14 / label~e.33)
                    :D (v15 / label~e.34)

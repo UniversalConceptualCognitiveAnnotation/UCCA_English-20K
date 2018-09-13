@@ -1,6 +1,6 @@
 # ::id 993001
 # ::tok Conseil , stationed beside me , stared straight ahead .
-# ::alignments 0-1.1.1.1 2-1.1.1.2.2 3-1.1.1.2.3.1 4-1.1.1.2.3.2 6-1.1.2 7-1.1.3.1 8-1.1.3.2
+# ::alignments 0-1.1.2.1 2-1.1.2.2.2 3-1.1.2.2.3.1 4-1.1.2.2.3.2 6-1.1.3 7-1.1.4.2 8-1.1.4.3
 # ::format ucca
 (v1 / label
     :H (v2 / label

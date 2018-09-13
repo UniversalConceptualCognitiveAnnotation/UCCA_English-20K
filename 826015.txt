@@ -1,6 +1,6 @@
 # ::id 826015
 # ::tok " " As master thinks best , " Conseil replied placidly .
-# ::alignments 3-1.1.1.2 4-1.1.1.3 5-1.1.1.4.2 8-1.1.2 9-1.1.3 10-1.1.4
+# ::alignments 3-1.1.6.2 4-1.1.6.3 5-1.1.6.4.2 8-1.1.7 9-1.1.8 10-1.1.9
 # ::format ucca
 (v1 / label
     :H (v2 / label
