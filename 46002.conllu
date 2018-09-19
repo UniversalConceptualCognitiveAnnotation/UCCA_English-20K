@@ -6,7 +6,7 @@
 3	memorable	_	Word	Word	_	4	E	4:E	_
 4	campaign	_	Word	Word	_	12	A	12:A	_
 5	,	_	Punctuation	Punctuation	_	12	U	12:U	_
-6	journalists	_	Word	Word	_	0	C	0:C|21:A|14:C|15:A|7:A	_
+6	journalists	_	Word	Word	_	0	C	0:C|14:C|21:A|7:A|15:A	_
 7	making	_	Word	Word	_	6	E	6:E	_
 8	a	_	Word	Word	_	9	E	9:E	_
 9	profession	_	Word	Word	_	7	A	7:A	_

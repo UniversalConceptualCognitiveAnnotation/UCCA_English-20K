@@ -41,7 +41,7 @@
 38	Some	_	Word	Word	_	41	E	41:E	_
 39	of	_	Word	Word	_	38	R	38:R	_
 40	these	_	Word	Word	_	41	E	41:E	_
-41	teeth	_	Word	Word	_	0	C	0:C|61:C|45:A	_
+41	teeth	_	Word	Word	_	0	C	0:C|45:A|61:C	_
 42	have	_	Word	Word	_	44	F	44:F	_
 43	been	_	Word	Word	_	44	F	44:F	_
 44	found	_	Word	Word	_	8	H	8:H	_
