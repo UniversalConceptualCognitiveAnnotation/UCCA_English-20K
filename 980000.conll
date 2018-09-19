@@ -87,8 +87,8 @@
 84	personality	_	Word	Word	_	79	A	_	_
 85	,	_	Punctuation	Punctuation	_	2	U	_	_
 86	it	_	Word	Word	_	87	A	_	_
-86	it	_	Word	Word	_	89	A*	_	_
 86	it	_	Word	Word	_	91	A*	_	_
+86	it	_	Word	Word	_	89	A*	_	_
 87	hates	_	Word	Word	_	2	H	_	_
 88	growing	_	Word	Word	_	89	D	_	_
 89	moldy	_	Word	Word	_	87	A	_	_
