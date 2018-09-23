@@ -1,0 +1,36 @@
+#BOS 998001
+In	Word	--	Terminal	500
+the	Word	--	Terminal	501
+midst	Word	--	Terminal	502
+of	Word	--	Terminal	503
+the	Word	--	Terminal	504
+general	Word	--	Terminal	505
+silence	Word	--	Terminal	506
+,	Punctuation	--	Terminal	507
+a	Word	--	Terminal	508
+voice	Word	--	Terminal	509
+became	Word	--	Terminal	510
+audible	Word	--	Terminal	511
+.	Punctuation	--	Terminal	512
+#500	FN	--	R	513
+#501	FN	--	E	513
+#502	FN	--	C	513
+#503	FN	--	R	513
+#504	FN	--	E	518
+#505	FN	--	E	518
+#506	FN	--	S	517
+#507	PNCT	--	U	519
+#508	FN	--	E	514
+#509	FN	--	C	514
+#510	FN	--	D	519
+#511	FN	--	P	519
+#512	PNCT	--	U	519
+#513	FN	--	E	518
+#514	FN	--	A	519
+#515	FN	--	A	517
+#516	FN	--	A	519
+#517	FN	--	C	518
+#518	FN	--	A	519
+#519	FN	--	H	520
+#520	FN	--	--	0
+#EOS 998001

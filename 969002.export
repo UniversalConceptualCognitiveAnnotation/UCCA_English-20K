@@ -1,0 +1,47 @@
+#BOS 969002
+Anxious	Word	--	Terminal	500
+to	Word	--	Terminal	501
+see	Word	--	Terminal	502
+Ned	Word	--	Terminal	503
+Land	Word	--	Terminal	503
+at	Word	--	Terminal	504
+work	Word	--	Terminal	505
+,	Punctuation	--	Terminal	506
+Commander	Word	--	Terminal	507
+Farragut	Word	--	Terminal	508
+authorized	Word	--	Terminal	509
+him	Word	--	Terminal	510
+to	Word	--	Terminal	511
+make	Word	--	Terminal	512
+his	Word	--	Terminal	512
+way	Word	--	Terminal	512
+aboard	Word	--	Terminal	513
+the	Word	--	Terminal	514
+Monroe	Word	--	Terminal	515
+.	Punctuation	--	Terminal	516
+#500	FN	--	D	520
+#501	FN	--	F	520
+#502	FN	--	P	520
+#503	FN	--	A	519
+#504	FN	--	R	517
+#505	FN	--	C	517
+#506	PNCT	--	U	521
+#507	FN	--	E	521
+#508	FN	--	C	521	A*	520
+#509	FN	--	P	523
+#510	FN	--	A	523	A*	522
+#511	FN	--	F	522
+#512	FN	--	P	522
+#513	FN	--	R	518
+#514	FN	--	E	518
+#515	FN	--	C	518
+#516	PNCT	--	U	518
+#517	FN	--	P	519
+#518	FN	--	A	522
+#519	FN	--	A	520
+#520	FN	--	E	521
+#521	FN	--	A	523
+#522	FN	--	A	523
+#523	FN	--	H	524
+#524	FN	--	--	0
+#EOS 969002

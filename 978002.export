@@ -1,0 +1,94 @@
+#BOS 978002
+By	Word	--	Terminal	500
+then	Word	--	Terminal	501
+it	Word	--	Terminal	502
+was	Word	--	Terminal	503
+the	Word	--	Terminal	504
+bad	Word	--	Terminal	505
+season	Word	--	Terminal	506
+in	Word	--	Terminal	507
+these	Word	--	Terminal	508
+southernmost	Word	--	Terminal	509
+regions	Word	--	Terminal	510
+,	Punctuation	--	Terminal	511
+because	Word	--	Terminal	512
+July	Word	--	Terminal	513
+in	Word	--	Terminal	514
+this	Word	--	Terminal	515
+zone	Word	--	Terminal	516
+corresponds	Word	--	Terminal	517
+to	Word	--	Terminal	518
+our	Word	--	Terminal	519
+January	Word	--	Terminal	520
+in	Word	--	Terminal	521
+Europe	Word	--	Terminal	522
+;	Punctuation	--	Terminal	523
+but	Word	--	Terminal	524
+the	Word	--	Terminal	525
+sea	Word	--	Terminal	526
+remained	Word	--	Terminal	527
+smooth	Word	--	Terminal	528
+and	Word	--	Terminal	529
+easily	Word	--	Terminal	530
+visible	Word	--	Terminal	531
+over	Word	--	Terminal	532
+a	Word	--	Terminal	533
+vast	Word	--	Terminal	534
+perimeter	Word	--	Terminal	535
+.	Punctuation	--	Terminal	536
+#500	FN	--	R	537
+#501	FN	--	C	537
+#502	FN	--	F	545
+#503	FN	--	S	545
+#504	FN	--	E	538
+#505	FN	--	E	538
+#506	FN	--	C	538
+#507	FN	--	R	539
+#508	FN	--	E	539
+#509	FN	--	E	539
+#510	FN	--	C	539
+#511	PNCT	--	U	551
+#512	FN	--	L	551	LR	552
+#513	FN	--	C	546
+#514	FN	--	R	540
+#515	FN	--	E	540
+#516	FN	--	C	540
+#517	FN	--	P	548
+#518	FN	--	R	547
+#519	FN	--	E	547
+#520	FN	--	C	547
+#521	FN	--	R	541
+#522	FN	--	C	541
+#523	PNCT	--	U	551
+#524	FN	--	L	551	LR	554
+#525	FN	--	E	542
+#526	FN	--	C	542
+#527	FN	--	D	550
+#528	FN	--	C	549
+#529	FN	--	N	549
+#530	FN	--	E	543
+#531	FN	--	C	543
+#532	FN	--	R	544
+#533	FN	--	E	544
+#534	FN	--	E	544
+#535	FN	--	C	544
+#536	PNCT	--	U	544
+#537	FN	--	L	551	LR	553
+#538	FN	--	A	545
+#539	FN	--	A	545
+#540	FN	--	E	546
+#541	FN	--	E	547
+#542	FN	--	A	550
+#543	FN	--	C	549
+#544	FN	--	A	550
+#545	FN	--	H	551	LA	552	LA	553
+#546	FN	--	A	548
+#547	FN	--	A	548
+#548	FN	--	H	551	LA	554	LA	552
+#549	FN	--	S	550
+#550	FN	--	H	551	LA	554
+#551	FN	--	--	0
+#552	LKG	--	--	0
+#553	LKG	--	--	0
+#554	LKG	--	--	0
+#EOS 978002

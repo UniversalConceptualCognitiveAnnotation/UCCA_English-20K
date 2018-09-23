@@ -1,0 +1,38 @@
+#BOS 991000
+At	Word	--	Terminal	500
+noon	Word	--	Terminal	501
+the	Word	--	Terminal	502
+next	Word	--	Terminal	503
+day	Word	--	Terminal	504
+,	Punctuation	--	Terminal	505
+November	Word	--	Terminal	506
+5	Word	--	Terminal	506
+,	Punctuation	--	Terminal	507
+the	Word	--	Terminal	508
+agreed	Word	--	Terminal	510
+-	Punctuation	--	Terminal	509
+upon	Word	--	Terminal	510
+delay	Word	--	Terminal	511
+expired	Word	--	Terminal	512
+.	Punctuation	--	Terminal	513
+#500	FN	--	R	515
+#501	FN	--	C	515
+#502	FN	--	E	514
+#503	FN	--	E	514
+#504	FN	--	C	514
+#505	PNCT	--	U	515
+#506	FN	--	E	515
+#507	PNCT	--	U	518
+#508	FN	--	E	517
+#509	PNCT	--	U	510
+#510	FN	--	P	516
+#511	FN	--	C	517	A*	516
+#512	FN	--	P	518
+#513	PNCT	--	U	518
+#514	FN	--	E	515
+#515	FN	--	T	518
+#516	FN	--	E	517
+#517	FN	--	A	518
+#518	FN	--	H	519
+#519	FN	--	--	0
+#EOS 991000

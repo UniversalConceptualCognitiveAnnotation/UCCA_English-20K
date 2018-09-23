@@ -1,0 +1,48 @@
+#BOS 904008
+Now	Word	--	Terminal	500
+,	Punctuation	--	Terminal	501
+my	Word	--	Terminal	502
+gallant	Word	--	Terminal	502
+Ned	Word	--	Terminal	502
+,	Punctuation	--	Terminal	503
+do	Word	--	Terminal	504
+you	Word	--	Terminal	505
+know	Word	--	Terminal	506
+how	Word	--	Terminal	507
+many	Word	--	Terminal	507
+square	Word	--	Terminal	508
+centimeters	Word	--	Terminal	509
+you	Word	--	Terminal	510
+have	Word	--	Terminal	511
+on	Word	--	Terminal	512
+your	Word	--	Terminal	513
+bodily	Word	--	Terminal	514
+surface	Word	--	Terminal	515
+?	Punctuation	--	Terminal	516
+"	Punctuation	--	Terminal	517
+#500	FN	--	L	522	LR	523
+#501	PNCT	--	U	522
+#502	FN	--	G	521
+#503	PNCT	--	U	521
+#504	FN	--	F	521
+#505	FN	--	A	521
+#506	FN	--	P	521
+#507	FN	--	E	518
+#508	FN	--	E	518
+#509	FN	--	C	518
+#510	FN	--	A	520
+#511	FN	--	P	520
+#512	FN	--	R	519
+#513	FN	--	E	519
+#514	FN	--	E	519
+#515	FN	--	C	519
+#516	PNCT	--	U	519
+#517	PNCT	--	U	519
+#518	FN	--	A	520
+#519	FN	--	A	520
+#520	FN	--	A	521
+#521	FN	--	H	522	LA	523
+#522	FN	--	H	524
+#523	LKG	--	--	0
+#524	FN	--	--	0
+#EOS 904008

@@ -1,0 +1,17 @@
+#BOS 846000
+Three	Word	--	Terminal	500
+o'clock	Word	--	Terminal	501
+then	Word	--	Terminal	502
+sounded	Word	--	Terminal	503
+.	Punctuation	--	Terminal	504
+#500	FN	--	E	505
+#501	FN	--	C	505
+#502	FN	--	L	508	LR	509
+#503	FN	--	P	507
+#504	PNCT	--	U	507
+#505	FN	--	T	507
+#506	FN	--	A	507
+#507	FN	--	H	508	LA	509
+#508	FN	--	--	0
+#509	LKG	--	--	0
+#EOS 846000

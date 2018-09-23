@@ -1,0 +1,61 @@
+#BOS 823001
+He	Word	--	Terminal	500
+was	Word	--	Terminal	501
+a	Word	--	Terminal	502
+fanatic	Word	--	Terminal	503
+on	Word	--	Terminal	504
+formality	Word	--	Terminal	505
+,	Punctuation	--	Terminal	506
+and	Word	--	Terminal	507
+he	Word	--	Terminal	508
+only	Word	--	Terminal	509
+addressed	Word	--	Terminal	510
+me	Word	--	Terminal	511
+in	Word	--	Terminal	512
+the	Word	--	Terminal	513
+third	Word	--	Terminal	514
+person	Word	--	Terminal	515
+-	Punctuation	--	Terminal	516
+to	Word	--	Terminal	517
+the	Word	--	Terminal	518
+point	Word	--	Terminal	519
+where	Word	--	Terminal	520
+it	Word	--	Terminal	521
+got	Word	--	Terminal	522
+tiresome	Word	--	Terminal	523
+.	Punctuation	--	Terminal	524
+#500	FN	--	A	530
+#501	FN	--	F	530
+#502	FN	--	E	525
+#503	FN	--	C	525
+#504	FN	--	R	526
+#505	FN	--	C	526
+#506	PNCT	--	U	532
+#507	FN	--	L	532	LR	533
+#508	FN	--	A	531
+#509	FN	--	D	531
+#510	FN	--	P	531
+#511	FN	--	A	531
+#512	FN	--	R	527
+#513	FN	--	E	527
+#514	FN	--	E	527
+#515	FN	--	C	527
+#516	PNCT	--	U	532
+#517	FN	--	R	528
+#518	FN	--	E	528
+#519	FN	--	C	528
+#520	FN	--	R	529
+#521	FN	--	A	529
+#522	FN	--	D	529
+#523	FN	--	S	529
+#524	PNCT	--	U	529
+#525	FN	--	S	530
+#526	FN	--	A	530
+#527	FN	--	D	531
+#528	FN	--	L	532
+#529	FN	--	H	532
+#530	FN	--	H	532	LA	533
+#531	FN	--	H	532	LA	533
+#532	FN	--	--	0
+#533	LKG	--	--	0
+#EOS 823001

@@ -1,0 +1,75 @@
+#BOS 904004
+In	Word	--	Terminal	500
+reality	Word	--	Terminal	501
+,	Punctuation	--	Terminal	502
+such	Word	--	Terminal	503
+a	Word	--	Terminal	504
+column	Word	--	Terminal	505
+of	Word	--	Terminal	506
+water	Word	--	Terminal	507
+would	Word	--	Terminal	508
+n't	Word	--	Terminal	509
+be	Word	--	Terminal	510
+quite	Word	--	Terminal	511
+so	Word	--	Terminal	512
+high	Word	--	Terminal	513
+because	Word	--	Terminal	514
+here	Word	--	Terminal	515
+we	Word	--	Terminal	516
+'re	Word	--	Terminal	517
+dealing	Word	--	Terminal	518
+with	Word	--	Terminal	519
+salt	Word	--	Terminal	520
+water	Word	--	Terminal	521
+,	Punctuation	--	Terminal	522
+which	Word	--	Terminal	523
+is	Word	--	Terminal	524
+denser	Word	--	Terminal	525
+than	Word	--	Terminal	526
+fresh	Word	--	Terminal	527
+water	Word	--	Terminal	528
+.	Punctuation	--	Terminal	529
+#500	FN	--	R	530
+#501	FN	--	C	530
+#502	PNCT	--	U	539
+#503	FN	--	E	537
+#504	FN	--	E	537
+#505	FN	--	C	537
+#506	FN	--	R	531
+#507	FN	--	C	531
+#508	FN	--	D	538
+#509	FN	--	D	538
+#510	FN	--	F	538
+#511	FN	--	D	538
+#512	FN	--	D	538
+#513	FN	--	S	538
+#514	FN	--	L	539
+#515	FN	--	A	535
+#516	FN	--	A	535
+#517	FN	--	F	535
+#518	FN	--	P	535
+#519	FN	--	R	532
+#520	FN	--	E	532
+#521	FN	--	C	532
+#522	PNCT	--	U	539
+#523	FN	--	L	539	LR	540
+#524	FN	--	F	536
+#525	FN	--	S	536
+#526	FN	--	F	536
+#527	FN	--	S	533
+#528	FN	--	C	534	A*	533
+#529	PNCT	--	U	534
+#530	FN	--	L	539	LR	541
+#531	FN	--	E	537
+#532	FN	--	A	535	A*	536
+#533	FN	--	E	534
+#534	FN	--	A	536
+#535	FN	--	H	539	LA	540
+#536	FN	--	H	539	LA	540
+#537	FN	--	A	538
+#538	FN	--	H	539	LA	541
+#539	FN	--	H	542
+#540	LKG	--	--	0
+#541	LKG	--	--	0
+#542	FN	--	--	0
+#EOS 904004

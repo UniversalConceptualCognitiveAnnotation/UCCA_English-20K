@@ -1,0 +1,92 @@
+#BOS 996000
+"	Punctuation	--	Terminal	500
+If	Word	--	Terminal	501
+master	Word	--	Terminal	502
+will	Word	--	Terminal	503
+permit	Word	--	Terminal	504
+my	Word	--	Terminal	505
+saying	Word	--	Terminal	505
+so	Word	--	Terminal	505
+,	Punctuation	--	Terminal	506
+"	Punctuation	--	Terminal	507
+Conseil	Word	--	Terminal	508
+replied	Word	--	Terminal	509
+,	Punctuation	--	Terminal	510
+"	Punctuation	--	Terminal	511
+I	Word	--	Terminal	512
+never	Word	--	Terminal	513
+expected	Word	--	Terminal	514
+to	Word	--	Terminal	515
+win	Word	--	Terminal	516
+that	Word	--	Terminal	517
+prize	Word	--	Terminal	518
+,	Punctuation	--	Terminal	519
+and	Word	--	Terminal	520
+the	Word	--	Terminal	521
+Union	Word	--	Terminal	522
+government	Word	--	Terminal	523
+could	Word	--	Terminal	524
+have	Word	--	Terminal	525
+promised	Word	--	Terminal	526
+$	Punctuation	--	Terminal	527
+100,000.00	Word	--	Terminal	528
+and	Word	--	Terminal	529
+been	Word	--	Terminal	530
+none	Word	--	Terminal	531
+the	Word	--	Terminal	532
+poorer	Word	--	Terminal	533
+.	Punctuation	--	Terminal	534
+"	Punctuation	--	Terminal	535
+#500	PNCT	--	U	548
+#501	FN	--	L	548	LR	549
+#502	FN	--	G	547
+#503	FN	--	D	547
+#504	FN	--	P	547
+#505	FN	--	P	546
+#506	PNCT	--	U	550
+#507	PNCT	--	U	550
+#508	FN	--	A	550
+#509	FN	--	P	550
+#510	PNCT	--	U	550
+#511	PNCT	--	U	550
+#512	FN	--	A	540	A*	541
+#513	FN	--	T	540
+#514	FN	--	D	540
+#515	FN	--	F	540
+#516	FN	--	P	540
+#517	FN	--	E	536
+#518	FN	--	C	536
+#519	PNCT	--	U	548
+#520	FN	--	L	548	LR	545
+#521	FN	--	E	537
+#522	FN	--	E	537
+#523	FN	--	C	537
+#524	FN	--	D	538
+#525	FN	--	F	538
+#526	FN	--	P	538
+#527	PNCT	--	U	538
+#528	FN	--	A	538
+#529	FN	--	L	548	LR	544
+#530	FN	--	F	541
+#531	FN	--	D	541
+#532	FN	--	E	539
+#533	FN	--	C	539
+#534	PNCT	--	U	539
+#535	PNCT	--	U	539
+#536	FN	--	A	540
+#537	FN	--	A	538
+#538	FN	--	H	548	LA	544	LA	545
+#539	FN	--	S	541
+#540	FN	--	H	548	LA	545	LA	549
+#541	FN	--	H	548	LA	544
+#542	FN	--	A	547
+#543	FN	--	A	546
+#544	LKG	--	--	0
+#545	LKG	--	--	0
+#546	FN	--	A	547
+#547	FN	--	H	548	LA	549
+#548	FN	--	A	550
+#549	LKG	--	--	0
+#550	FN	--	H	551
+#551	FN	--	--	0
+#EOS 996000
