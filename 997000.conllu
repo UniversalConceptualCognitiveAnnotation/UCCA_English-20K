@@ -47,7 +47,7 @@
 44	could	_	Word	Word	_	47	D	47:D	_
 45	have	_	Word	Word	_	47	F	47:F	_
 46	been	_	Word	Word	_	47	F	47:F	_
-47	back	_	Word	Word	_	0	S	0:S|66:S|56:S	_
+47	back	_	Word	Word	_	0	S	0:S|56:S|66:S	_
 48	in	_	Word	Word	_	49	R	49:R	_
 49	France-	_	Word	Word	_	47	A	47:A	_
 50	"	_	Punctuation	Punctuation	_	4	U	4:U	_

@@ -20,11 +20,11 @@
 17	the	_	Word	Word	_	18	E	18:E	_
 18	sea	_	Word	Word	_	12	E	12:E	_
 19	,	_	Punctuation	Punctuation	_	22	U	22:U	_
-20	you	_	Word	Word	_	22	A	22:A|63:A|31:A|46:A	_
+20	you	_	Word	Word	_	22	A	22:A|31:A|46:A|63:A	_
 21	'll	_	Word	Word	_	22	F	22:F	_
 22	undergo	_	Word	Word	_	3	H	3:H	_
 23	a	_	Word	Word	_	24	E	24:E	_
-24	pressure	_	Word	Word	_	0	C	0:C|57:E|42:E	_
+24	pressure	_	Word	Word	_	0	C	0:C|42:E|57:E	_
 25	of	_	Word	Word	_	24	R	24:R	_
 26	17,568	_	Word	Word	_	27	E	27:E	_
 27	kilograms	_	Word	Word	_	22	A	22:A	_

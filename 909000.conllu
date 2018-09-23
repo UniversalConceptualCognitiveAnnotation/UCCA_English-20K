@@ -21,8 +21,8 @@
 18	was	_	Word	Word	_	20	F	20:F	_
 19	a	_	Word	Word	_	20	E	20:E	_
 20	member	_	Word	Word	_	14	A	14:A	_
-21	of	_	Word	Word	_	24	R	24:R|27:R|36:R|30:R	_
-22	the	_	Word	Word	_	23	E	23:E|26:E|35:E|29:E	_
+21	of	_	Word	Word	_	24	R	24:R|27:R|30:R|36:R	_
+22	the	_	Word	Word	_	23	E	23:E|26:E|29:E|35:E	_
 23	branch	_	Word	Word	_	24	E	24:E	_
 24	Vertebrata	_	Word	Word	_	20	A	20:A	_
 25	,	_	Punctuation	Punctuation	_	24	U	24:U	_

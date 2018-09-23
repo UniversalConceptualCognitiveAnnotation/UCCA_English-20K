@@ -15,7 +15,7 @@
 12	for	_	Word	Word	_	15	R	15:R	_
 13	a	_	Word	Word	_	15	E	15:E	_
 14	sea	_	Word	Word	_	15	E	15:E	_
-15	unicorn	_	Word	Word	_	0	C	0:C|18:A|31:A|22:A	_
+15	unicorn	_	Word	Word	_	0	C	0:C|18:A|22:A|31:A	_
 16	of	_	Word	Word	_	18	R	18:R	_
 17	colossal	_	Word	Word	_	18	D	18:D	_
 18	dimensions	_	Word	Word	_	15	E	15:E	_
