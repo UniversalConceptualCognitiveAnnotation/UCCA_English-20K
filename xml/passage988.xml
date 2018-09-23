@@ -63,7 +63,7 @@
       <attributes paragraph="1" paragraph_position="20" text="could" />
     </node>
     <node ID="0.21" type="Word">
-      <attributes paragraph="1" paragraph_position="21" text="n&apos;t" />
+      <attributes paragraph="1" paragraph_position="21" text="n't" />
     </node>
     <node ID="0.22" type="Word">
       <attributes paragraph="1" paragraph_position="22" text="hide" />
@@ -105,7 +105,7 @@
       <attributes paragraph="1" paragraph_position="34" text="I" />
     </node>
     <node ID="0.35" type="Word">
-      <attributes paragraph="1" paragraph_position="35" text="&apos;m" />
+      <attributes paragraph="1" paragraph_position="35" text="'m" />
     </node>
     <node ID="0.36" type="Word">
       <attributes paragraph="1" paragraph_position="36" text="unwilling" />
@@ -255,7 +255,7 @@
       <attributes paragraph="1" paragraph_position="84" text="had" />
     </node>
     <node ID="0.85" type="Word">
-      <attributes paragraph="1" paragraph_position="85" text="n&apos;t" />
+      <attributes paragraph="1" paragraph_position="85" text="n't" />
     </node>
     <node ID="0.86" type="Word">
       <attributes paragraph="1" paragraph_position="86" text="appeared" />

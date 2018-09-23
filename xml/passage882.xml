@@ -213,7 +213,7 @@
       <attributes paragraph="1" paragraph_position="70" text="I" />
     </node>
     <node ID="0.71" type="Punctuation">
-      <attributes paragraph="1" paragraph_position="71" text="&apos;" />
+      <attributes paragraph="1" paragraph_position="71" text="'" />
     </node>
     <node ID="0.72" type="Word">
       <attributes paragraph="1" paragraph_position="72" text="ll" />

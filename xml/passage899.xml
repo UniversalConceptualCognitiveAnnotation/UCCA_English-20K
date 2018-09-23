@@ -96,7 +96,7 @@
       <attributes paragraph="1" paragraph_position="31" text="I" />
     </node>
     <node ID="0.32" type="Word">
-      <attributes paragraph="1" paragraph_position="32" text="&apos;ve" />
+      <attributes paragraph="1" paragraph_position="32" text="'ve" />
     </node>
     <node ID="0.33" type="Word">
       <attributes paragraph="1" paragraph_position="33" text="never" />
@@ -144,7 +144,7 @@
       <attributes paragraph="1" paragraph_position="47" text="I" />
     </node>
     <node ID="0.48" type="Word">
-      <attributes paragraph="1" paragraph_position="48" text="&apos;ll" />
+      <attributes paragraph="1" paragraph_position="48" text="'ll" />
     </node>
     <node ID="0.49" type="Word">
       <attributes paragraph="1" paragraph_position="49" text="deny" />
@@ -246,7 +246,7 @@
       <attributes paragraph="1" paragraph_position="81" text="I" />
     </node>
     <node ID="0.82" type="Word">
-      <attributes paragraph="1" paragraph_position="82" text="&apos;ll" />
+      <attributes paragraph="1" paragraph_position="82" text="'ll" />
     </node>
     <node ID="0.83" type="Word">
       <attributes paragraph="1" paragraph_position="83" text="go" />
@@ -381,7 +381,7 @@
       <attributes paragraph="1" paragraph_position="126" text="it" />
     </node>
     <node ID="0.127" type="Word">
-      <attributes paragraph="1" paragraph_position="127" text="&apos;s" />
+      <attributes paragraph="1" paragraph_position="127" text="'s" />
     </node>
     <node ID="0.128" type="Word">
       <attributes paragraph="1" paragraph_position="128" text="Latin" />
@@ -408,7 +408,7 @@
       <attributes paragraph="1" paragraph_position="135" text="does" />
     </node>
     <node ID="0.136" type="Word">
-      <attributes paragraph="1" paragraph_position="136" text="n&apos;t" />
+      <attributes paragraph="1" paragraph_position="136" text="n't" />
     </node>
     <node ID="0.137" type="Word">
       <attributes paragraph="1" paragraph_position="137" text="belong" />

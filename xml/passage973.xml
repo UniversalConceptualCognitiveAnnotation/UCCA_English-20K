@@ -9,7 +9,7 @@
       <attributes paragraph="1" paragraph_position="2" text="three" />
     </node>
     <node ID="0.3" type="Word">
-      <attributes paragraph="1" paragraph_position="3" text="o&apos;clock" />
+      <attributes paragraph="1" paragraph_position="3" text="o'clock" />
     </node>
     <node ID="0.4" type="Word">
       <attributes paragraph="1" paragraph_position="4" text="in" />
@@ -186,7 +186,7 @@
       <attributes paragraph="1" paragraph_position="61" text="frigate" />
     </node>
     <node ID="0.62" type="Word">
-      <attributes paragraph="1" paragraph_position="62" text="&apos;s" />
+      <attributes paragraph="1" paragraph_position="62" text="'s" />
     </node>
     <node ID="0.63" type="Word">
       <attributes paragraph="1" paragraph_position="63" text="propeller" />

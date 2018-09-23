@@ -120,7 +120,7 @@
       <attributes paragraph="1" paragraph_position="39" text="called" />
     </node>
     <node ID="0.40" type="Punctuation">
-      <attributes paragraph="1" paragraph_position="40" text="&apos;" />
+      <attributes paragraph="1" paragraph_position="40" text="'" />
     </node>
     <node ID="0.41" type="Word">
       <attributes paragraph="1" paragraph_position="41" text="rams" />
@@ -129,7 +129,7 @@
       <attributes paragraph="1" paragraph_position="42" text="," />
     </node>
     <node ID="0.43" type="Punctuation">
-      <attributes paragraph="1" paragraph_position="43" text="&apos;" />
+      <attributes paragraph="1" paragraph_position="43" text="'" />
     </node>
     <node ID="0.44" type="Word">
       <attributes paragraph="1" paragraph_position="44" text="whose" />

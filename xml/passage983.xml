@@ -30,7 +30,7 @@
       <attributes paragraph="1" paragraph_position="9" text="monster" />
     </node>
     <node ID="0.10" type="Word">
-      <attributes paragraph="1" paragraph_position="10" text="&apos;s" />
+      <attributes paragraph="1" paragraph_position="10" text="'s" />
     </node>
     <node ID="0.11" type="Word">
       <attributes paragraph="1" paragraph_position="11" text="latest" />
@@ -150,7 +150,7 @@
       <attributes paragraph="1" paragraph_position="49" text="it" />
     </node>
     <node ID="0.50" type="Word">
-      <attributes paragraph="1" paragraph_position="50" text="&apos;s" />
+      <attributes paragraph="1" paragraph_position="50" text="'s" />
     </node>
     <node ID="0.51" type="Word">
       <attributes paragraph="1" paragraph_position="51" text="beyond" />

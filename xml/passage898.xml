@@ -9,7 +9,7 @@
       <attributes paragraph="1" paragraph_position="2" text="That" />
     </node>
     <node ID="0.3" type="Word">
-      <attributes paragraph="1" paragraph_position="3" text="&apos;s" />
+      <attributes paragraph="1" paragraph_position="3" text="'s" />
     </node>
     <node ID="0.4" type="Word">
       <attributes paragraph="1" paragraph_position="4" text="just" />
@@ -21,7 +21,7 @@
       <attributes paragraph="1" paragraph_position="6" text="you" />
     </node>
     <node ID="0.7" type="Word">
-      <attributes paragraph="1" paragraph_position="7" text="&apos;re" />
+      <attributes paragraph="1" paragraph_position="7" text="'re" />
     </node>
     <node ID="0.8" type="Word">
       <attributes paragraph="1" paragraph_position="8" text="mistaken" />
@@ -114,7 +114,7 @@
       <attributes paragraph="1" paragraph_position="37" text="earth" />
     </node>
     <node ID="0.38" type="Word">
-      <attributes paragraph="1" paragraph_position="38" text="&apos;s" />
+      <attributes paragraph="1" paragraph_position="38" text="'s" />
     </node>
     <node ID="0.39" type="Word">
       <attributes paragraph="1" paragraph_position="39" text="core" />
@@ -138,7 +138,7 @@
       <attributes paragraph="1" paragraph_position="45" text="do" />
     </node>
     <node ID="0.46" type="Word">
-      <attributes paragraph="1" paragraph_position="46" text="n&apos;t" />
+      <attributes paragraph="1" paragraph_position="46" text="n't" />
     </node>
     <node ID="0.47" type="Word">
       <attributes paragraph="1" paragraph_position="47" text="swallow" />
@@ -159,7 +159,7 @@
       <attributes paragraph="1" paragraph_position="52" text="It" />
     </node>
     <node ID="0.53" type="Word">
-      <attributes paragraph="1" paragraph_position="53" text="&apos;s" />
+      <attributes paragraph="1" paragraph_position="53" text="'s" />
     </node>
     <node ID="0.54" type="Word">
       <attributes paragraph="1" paragraph_position="54" text="the" />
@@ -180,7 +180,7 @@
       <attributes paragraph="1" paragraph_position="59" text="I" />
     </node>
     <node ID="0.60" type="Word">
-      <attributes paragraph="1" paragraph_position="60" text="&apos;ve" />
+      <attributes paragraph="1" paragraph_position="60" text="'ve" />
     </node>
     <node ID="0.61" type="Word">
       <attributes paragraph="1" paragraph_position="61" text="chased" />
@@ -201,7 +201,7 @@
       <attributes paragraph="1" paragraph_position="66" text="I" />
     </node>
     <node ID="0.67" type="Word">
-      <attributes paragraph="1" paragraph_position="67" text="&apos;ve" />
+      <attributes paragraph="1" paragraph_position="67" text="'ve" />
     </node>
     <node ID="0.68" type="Word">
       <attributes paragraph="1" paragraph_position="68" text="harpooned" />
@@ -222,7 +222,7 @@
       <attributes paragraph="1" paragraph_position="73" text="I" />
     </node>
     <node ID="0.74" type="Word">
-      <attributes paragraph="1" paragraph_position="74" text="&apos;ve" />
+      <attributes paragraph="1" paragraph_position="74" text="'ve" />
     </node>
     <node ID="0.75" type="Word">
       <attributes paragraph="1" paragraph_position="75" text="killed" />

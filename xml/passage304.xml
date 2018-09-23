@@ -147,7 +147,7 @@
       <attributes paragraph="1" paragraph_position="48" text="we" />
     </node>
     <node ID="0.49" type="Word">
-      <attributes paragraph="1" paragraph_position="49" text="&apos;re" />
+      <attributes paragraph="1" paragraph_position="49" text="'re" />
     </node>
     <node ID="0.50" type="Word">
       <attributes paragraph="1" paragraph_position="50" text="looking" />
@@ -243,7 +243,7 @@
       <attributes paragraph="1" paragraph_position="80" text="steamer" />
     </node>
     <node ID="0.81" type="Word">
-      <attributes paragraph="1" paragraph_position="81" text="&apos;s" />
+      <attributes paragraph="1" paragraph_position="81" text="'s" />
     </node>
     <node ID="0.82" type="Word">
       <attributes paragraph="1" paragraph_position="82" text="hull" />

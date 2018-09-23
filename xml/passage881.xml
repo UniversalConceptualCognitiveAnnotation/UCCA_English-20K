@@ -9,7 +9,7 @@
       <attributes paragraph="1" paragraph_position="2" text="ship" />
     </node>
     <node ID="0.3" type="Word">
-      <attributes paragraph="1" paragraph_position="3" text="&apos;s" />
+      <attributes paragraph="1" paragraph_position="3" text="'s" />
     </node>
     <node ID="0.4" type="Word">
       <attributes paragraph="1" paragraph_position="4" text="officers" />
@@ -267,7 +267,7 @@
       <attributes paragraph="1" paragraph_position="88" text="could" />
     </node>
     <node ID="0.89" type="Word">
-      <attributes paragraph="1" paragraph_position="89" text="n&apos;t" />
+      <attributes paragraph="1" paragraph_position="89" text="n't" />
     </node>
     <node ID="0.90" type="Word">
       <attributes paragraph="1" paragraph_position="90" text="hold" />
@@ -312,7 +312,7 @@
       <attributes paragraph="1" paragraph_position="103" text="Lincoln" />
     </node>
     <node ID="0.104" type="Word">
-      <attributes paragraph="1" paragraph_position="104" text="&apos;s" />
+      <attributes paragraph="1" paragraph_position="104" text="'s" />
     </node>
     <node ID="0.105" type="Word">
       <attributes paragraph="1" paragraph_position="105" text="stempost" />
@@ -321,7 +321,7 @@
       <attributes paragraph="1" paragraph_position="106" text="had" />
     </node>
     <node ID="0.107" type="Word">
-      <attributes paragraph="1" paragraph_position="107" text="n&apos;t" />
+      <attributes paragraph="1" paragraph_position="107" text="n't" />
     </node>
     <node ID="0.108" type="Word">
       <attributes paragraph="1" paragraph_position="108" text="even" />

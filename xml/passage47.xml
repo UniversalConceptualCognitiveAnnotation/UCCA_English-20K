@@ -192,7 +192,7 @@
       <attributes paragraph="1" paragraph_position="63" text="Petermann" />
     </node>
     <node ID="0.64" type="Word">
-      <attributes paragraph="1" paragraph_position="64" text="&apos;s" />
+      <attributes paragraph="1" paragraph_position="64" text="'s" />
     </node>
     <node ID="0.65" type="Word">
       <attributes paragraph="1" paragraph_position="65" text="Mittheilungen,2" />
@@ -243,7 +243,7 @@
       <attributes paragraph="1" paragraph_position="80" text="monster" />
     </node>
     <node ID="0.81" type="Word">
-      <attributes paragraph="1" paragraph_position="81" text="&apos;s" />
+      <attributes paragraph="1" paragraph_position="81" text="'s" />
     </node>
     <node ID="0.82" type="Word">
       <attributes paragraph="1" paragraph_position="82" text="detractors" />
@@ -282,7 +282,7 @@
       <attributes paragraph="1" paragraph_position="93" text="does" />
     </node>
     <node ID="0.94" type="Word">
-      <attributes paragraph="1" paragraph_position="94" text="n&apos;t" />
+      <attributes paragraph="1" paragraph_position="94" text="n't" />
     </node>
     <node ID="0.95" type="Word">
       <attributes paragraph="1" paragraph_position="95" text="make" />
@@ -345,7 +345,7 @@
       <attributes paragraph="1" paragraph_position="114" text="does" />
     </node>
     <node ID="0.115" type="Word">
-      <attributes paragraph="1" paragraph_position="115" text="n&apos;t" />
+      <attributes paragraph="1" paragraph_position="115" text="n't" />
     </node>
     <node ID="0.116" type="Word">
       <attributes paragraph="1" paragraph_position="116" text="make" />

@@ -9,7 +9,7 @@
       <attributes paragraph="1" paragraph_position="2" text="You" />
     </node>
     <node ID="0.3" type="Word">
-      <attributes paragraph="1" paragraph_position="3" text="&apos;re" />
+      <attributes paragraph="1" paragraph_position="3" text="'re" />
     </node>
     <node ID="0.4" type="Word">
       <attributes paragraph="1" paragraph_position="4" text="right" />
@@ -162,7 +162,7 @@
       <attributes paragraph="1" paragraph_position="53" text="master" />
     </node>
     <node ID="0.54" type="Word">
-      <attributes paragraph="1" paragraph_position="54" text="&apos;s" />
+      <attributes paragraph="1" paragraph_position="54" text="'s" />
     </node>
     <node ID="0.55" type="Word">
       <attributes paragraph="1" paragraph_position="55" text="little" />
@@ -195,7 +195,7 @@
       <attributes paragraph="1" paragraph_position="64" text="master" />
     </node>
     <node ID="0.65" type="Word">
-      <attributes paragraph="1" paragraph_position="65" text="&apos;s" />
+      <attributes paragraph="1" paragraph_position="65" text="'s" />
     </node>
     <node ID="0.66" type="Word">
       <attributes paragraph="1" paragraph_position="66" text="museum" />
@@ -228,7 +228,7 @@
       <attributes paragraph="1" paragraph_position="75" text="master" />
     </node>
     <node ID="0.76" type="Word">
-      <attributes paragraph="1" paragraph_position="76" text="&apos;s" />
+      <attributes paragraph="1" paragraph_position="76" text="'s" />
     </node>
     <node ID="0.77" type="Word">
       <attributes paragraph="1" paragraph_position="77" text="fossils" />
@@ -243,7 +243,7 @@
       <attributes paragraph="1" paragraph_position="80" text="master" />
     </node>
     <node ID="0.81" type="Word">
-      <attributes paragraph="1" paragraph_position="81" text="&apos;s" />
+      <attributes paragraph="1" paragraph_position="81" text="'s" />
     </node>
     <node ID="0.82" type="Word">
       <attributes paragraph="1" paragraph_position="82" text="babirusa" />
@@ -351,7 +351,7 @@
       <attributes paragraph="1" paragraph_position="116" text="what" />
     </node>
     <node ID="0.117" type="Word">
-      <attributes paragraph="1" paragraph_position="117" text="&apos;s" />
+      <attributes paragraph="1" paragraph_position="117" text="'s" />
     </node>
     <node ID="0.118" type="Word">
       <attributes paragraph="1" paragraph_position="118" text="more" />
@@ -444,7 +444,7 @@
       <attributes paragraph="1" paragraph_position="147" text="they" />
     </node>
     <node ID="0.148" type="Word">
-      <attributes paragraph="1" paragraph_position="148" text="&apos;ll" />
+      <attributes paragraph="1" paragraph_position="148" text="'ll" />
     </node>
     <node ID="0.149" type="Word">
       <attributes paragraph="1" paragraph_position="149" text="have" />
@@ -459,7 +459,7 @@
       <attributes paragraph="1" paragraph_position="152" text="master" />
     </node>
     <node ID="0.153" type="Word">
-      <attributes paragraph="1" paragraph_position="153" text="&apos;s" />
+      <attributes paragraph="1" paragraph_position="153" text="'s" />
     </node>
     <node ID="0.154" type="Word">
       <attributes paragraph="1" paragraph_position="154" text="expense" />
@@ -615,7 +615,7 @@
       <attributes paragraph="1" paragraph_position="204" text="must" />
     </node>
     <node ID="0.205" type="Word">
-      <attributes paragraph="1" paragraph_position="205" text="n&apos;t" />
+      <attributes paragraph="1" paragraph_position="205" text="n't" />
     </node>
     <node ID="0.206" type="Word">
       <attributes paragraph="1" paragraph_position="206" text="lay" />

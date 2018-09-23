@@ -138,7 +138,7 @@
       <attributes paragraph="1" paragraph_position="45" text="basically" />
     </node>
     <node ID="0.46" type="Punctuation">
-      <attributes paragraph="1" paragraph_position="46" text="&apos;" />
+      <attributes paragraph="1" paragraph_position="46" text="'" />
     </node>
     <node ID="0.47" type="Word">
       <attributes paragraph="1" paragraph_position="47" text="cast" />
@@ -150,7 +150,7 @@
       <attributes paragraph="1" paragraph_position="49" text="iron" />
     </node>
     <node ID="0.50" type="Punctuation">
-      <attributes paragraph="1" paragraph_position="50" text="&apos;" />
+      <attributes paragraph="1" paragraph_position="50" text="'" />
     </node>
     <node ID="0.51" type="Word">
       <attributes paragraph="1" paragraph_position="51" text="constitution" />

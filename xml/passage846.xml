@@ -6,7 +6,7 @@
       <attributes paragraph="1" paragraph_position="1" text="Three" />
     </node>
     <node ID="0.2" type="Word">
-      <attributes paragraph="1" paragraph_position="2" text="o&apos;clock" />
+      <attributes paragraph="1" paragraph_position="2" text="o'clock" />
     </node>
     <node ID="0.3" type="Word">
       <attributes paragraph="1" paragraph_position="3" text="then" />
@@ -159,7 +159,7 @@
       <attributes paragraph="1" paragraph_position="52" text="eight" />
     </node>
     <node ID="0.53" type="Word">
-      <attributes paragraph="1" paragraph_position="53" text="o&apos;clock" />
+      <attributes paragraph="1" paragraph_position="53" text="o'clock" />
     </node>
     <node ID="0.54" type="Word">
       <attributes paragraph="1" paragraph_position="54" text="in" />

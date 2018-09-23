@@ -18,7 +18,7 @@
       <attributes paragraph="1" paragraph_position="5" text="five" />
     </node>
     <node ID="0.6" type="Word">
-      <attributes paragraph="1" paragraph_position="6" text="o&apos;clock" />
+      <attributes paragraph="1" paragraph_position="6" text="o'clock" />
     </node>
     <node ID="0.7" type="Word">
       <attributes paragraph="1" paragraph_position="7" text="in" />
@@ -81,7 +81,7 @@
       <attributes paragraph="1" paragraph_position="26" text="craft" />
     </node>
     <node ID="0.27" type="Word">
-      <attributes paragraph="1" paragraph_position="27" text="&apos;s" />
+      <attributes paragraph="1" paragraph_position="27" text="'s" />
     </node>
     <node ID="0.28" type="Word">
       <attributes paragraph="1" paragraph_position="28" text="stern" />
@@ -198,7 +198,7 @@
       <attributes paragraph="1" paragraph_position="65" text="site" />
     </node>
     <node ID="0.66" type="Word">
-      <attributes paragraph="1" paragraph_position="66" text="&apos;s" />
+      <attributes paragraph="1" paragraph_position="66" text="'s" />
     </node>
     <node ID="0.67" type="Word">
       <attributes paragraph="1" paragraph_position="67" text="exact" />

@@ -24,7 +24,7 @@
       <attributes paragraph="1" paragraph_position="7" text="Land" />
     </node>
     <node ID="0.8" type="Word">
-      <attributes paragraph="1" paragraph_position="8" text="&apos;s" />
+      <attributes paragraph="1" paragraph_position="8" text="'s" />
     </node>
     <node ID="0.9" type="Word">
       <attributes paragraph="1" paragraph_position="9" text="views" />
@@ -75,7 +75,7 @@
       <attributes paragraph="1" paragraph_position="24" text="did" />
     </node>
     <node ID="0.25" type="Word">
-      <attributes paragraph="1" paragraph_position="25" text="n&apos;t" />
+      <attributes paragraph="1" paragraph_position="25" text="n't" />
     </node>
     <node ID="0.26" type="Word">
       <attributes paragraph="1" paragraph_position="26" text="believe" />
@@ -114,7 +114,7 @@
       <attributes paragraph="1" paragraph_position="37" text="did" />
     </node>
     <node ID="0.38" type="Word">
-      <attributes paragraph="1" paragraph_position="38" text="n&apos;t" />
+      <attributes paragraph="1" paragraph_position="38" text="n't" />
     </node>
     <node ID="0.39" type="Word">
       <attributes paragraph="1" paragraph_position="39" text="share" />

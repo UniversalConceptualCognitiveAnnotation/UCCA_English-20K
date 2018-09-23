@@ -9,7 +9,7 @@
       <attributes paragraph="1" paragraph_position="2" text="They" />
     </node>
     <node ID="0.3" type="Word">
-      <attributes paragraph="1" paragraph_position="3" text="&apos;d" />
+      <attributes paragraph="1" paragraph_position="3" text="'d" />
     </node>
     <node ID="0.4" type="Word">
       <attributes paragraph="1" paragraph_position="4" text="need" />
@@ -174,7 +174,7 @@
       <attributes paragraph="1" paragraph_position="57" text="ship" />
     </node>
     <node ID="0.58" type="Word">
-      <attributes paragraph="1" paragraph_position="58" text="&apos;s" />
+      <attributes paragraph="1" paragraph_position="58" text="'s" />
     </node>
     <node ID="0.59" type="Word">
       <attributes paragraph="1" paragraph_position="59" text="hull" />
@@ -303,7 +303,7 @@
       <attributes paragraph="1" paragraph_position="100" text="You" />
     </node>
     <node ID="0.101" type="Word">
-      <attributes paragraph="1" paragraph_position="101" text="&apos;ve" />
+      <attributes paragraph="1" paragraph_position="101" text="'ve" />
     </node>
     <node ID="0.102" type="Word">
       <attributes paragraph="1" paragraph_position="102" text="convinced" />
@@ -423,7 +423,7 @@
       <attributes paragraph="1" paragraph_position="140" text="do" />
     </node>
     <node ID="0.141" type="Word">
-      <attributes paragraph="1" paragraph_position="141" text="n&apos;t" />
+      <attributes paragraph="1" paragraph_position="141" text="n't" />
     </node>
     <node ID="0.142" type="Word">
       <attributes paragraph="1" paragraph_position="142" text="exist" />
@@ -489,7 +489,7 @@
       <attributes paragraph="1" paragraph_position="162" text="It" />
     </node>
     <node ID="0.163" type="Word">
-      <attributes paragraph="1" paragraph_position="163" text="&apos;s" />
+      <attributes paragraph="1" paragraph_position="163" text="'s" />
     </node>
     <node ID="0.164" type="Word">
       <attributes paragraph="1" paragraph_position="164" text="maybe" />
@@ -564,7 +564,7 @@
       <attributes paragraph="1" paragraph_position="187" text="could" />
     </node>
     <node ID="0.188" type="Word">
-      <attributes paragraph="1" paragraph_position="188" text="n&apos;t" />
+      <attributes paragraph="1" paragraph_position="188" text="n't" />
     </node>
     <node ID="0.189" type="Word">
       <attributes paragraph="1" paragraph_position="189" text="be" />

@@ -15,7 +15,7 @@
       <attributes paragraph="1" paragraph_position="4" text="was" />
     </node>
     <node ID="0.5" type="Word">
-      <attributes paragraph="1" paragraph_position="5" text="n&apos;t" />
+      <attributes paragraph="1" paragraph_position="5" text="n't" />
     </node>
     <node ID="0.6" type="Word">
       <attributes paragraph="1" paragraph_position="6" text="long" />
@@ -231,7 +231,7 @@
       <attributes paragraph="1" paragraph_position="76" text="did" />
     </node>
     <node ID="0.77" type="Word">
-      <attributes paragraph="1" paragraph_position="77" text="n&apos;t" />
+      <attributes paragraph="1" paragraph_position="77" text="n't" />
     </node>
     <node ID="0.78" type="Word">
       <attributes paragraph="1" paragraph_position="78" text="leave" />

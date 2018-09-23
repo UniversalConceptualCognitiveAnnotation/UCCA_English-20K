@@ -33,7 +33,7 @@
       <attributes paragraph="1" paragraph_position="10" text="15" />
     </node>
     <node ID="0.11" type="Punctuation">
-      <attributes paragraph="1" paragraph_position="11" text="&apos;" />
+      <attributes paragraph="1" paragraph_position="11" text="'" />
     </node>
     <node ID="0.12" type="Word">
       <attributes paragraph="1" paragraph_position="12" text="north" />
@@ -54,7 +54,7 @@
       <attributes paragraph="1" paragraph_position="17" text="42" />
     </node>
     <node ID="0.18" type="Punctuation">
-      <attributes paragraph="1" paragraph_position="18" text="&apos;" />
+      <attributes paragraph="1" paragraph_position="18" text="'" />
     </node>
     <node ID="0.19" type="Word">
       <attributes paragraph="1" paragraph_position="19" text="east" />
@@ -120,7 +120,7 @@
       <attributes paragraph="1" paragraph_position="39" text="Eight" />
     </node>
     <node ID="0.40" type="Word">
-      <attributes paragraph="1" paragraph_position="40" text="o&apos;clock" />
+      <attributes paragraph="1" paragraph_position="40" text="o'clock" />
     </node>
     <node ID="0.41" type="Word">
       <attributes paragraph="1" paragraph_position="41" text="had" />
@@ -150,7 +150,7 @@
       <attributes paragraph="1" paragraph_position="49" text="moon" />
     </node>
     <node ID="0.50" type="Word">
-      <attributes paragraph="1" paragraph_position="50" text="&apos;s" />
+      <attributes paragraph="1" paragraph_position="50" text="'s" />
     </node>
     <node ID="0.51" type="Word">
       <attributes paragraph="1" paragraph_position="51" text="disk" />
@@ -198,7 +198,7 @@
       <attributes paragraph="1" paragraph_position="65" text="frigate" />
     </node>
     <node ID="0.66" type="Word">
-      <attributes paragraph="1" paragraph_position="66" text="&apos;s" />
+      <attributes paragraph="1" paragraph_position="66" text="'s" />
     </node>
     <node ID="0.67" type="Word">
       <attributes paragraph="1" paragraph_position="67" text="stempost" />
