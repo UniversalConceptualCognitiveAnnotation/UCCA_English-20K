@@ -1,0 +1,25 @@
+# ::id 313001
+# ::tok In New York preparations were under way for an expedition designed to chase this narwhale .
+# ::alignments 0-1.1.1.1 1-1.1.1.2 2-1.1.1.2 3-1.1.2 5-1.1.4 6-1.1.4 7-1.1.5.4 8-1.1.5.1 9-1.1.5.2 10-1.1.5.3.3 12-1.1.5.3.4.3 13-1.1.5.3.4.4.1 14-1.1.5.3.4.4.2
+# ::format ucca
+(v1 / label
+    :H (v2 / label
+           :A (v3 / label
+                  :R (v7 / label~e.0)
+                  :C (v8 / label~e.1,2))
+           :P (v4 / label~e.3)
+           :D (v5 / label~e.5,6)
+           :A (v6 / label
+                  :E (v9 / label~e.8)
+                  :C (v10 / label~e.9)
+                  :E (v11 / label
+                          :A v10
+                          :A (v13 / label)
+                          :P (v14 / label~e.10)
+                          :A (v15 / label
+                                  :A (v16 / label)
+                                  :P (v17 / label~e.12)
+                                  :A (v18 / label
+                                          :E (v19 / label~e.13)
+                                          :C (v20 / label~e.14))))
+                  :R (v12 / label~e.7))))

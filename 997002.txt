@@ -1,0 +1,37 @@
+# ::id 997002
+# ::tok " " To be sure , " Conseil replied serenely , " I do think they 'll have fun at master 's expense . And must it be said ... ? " " It must be said , Conseil .
+# ::alignments 2-1.1.1.1.1 3-1.1.1.1.1 4-1.1.1.1.1 7-1.1.2 8-1.1.3 9-1.1.4 12-1.1.1.1.2 14-1.1.1.1.4 15-1.1.1.1.5.1 17-1.1.1.1.5.3 18-1.1.1.1.5.3 19-1.1.1.1.5.4.1 20-1.1.1.1.5.4.2.1 21-1.1.1.1.5.4.2.2 22-1.1.1.1.5.4.3 24-1.1.1.2 25-1.1.1.3.2 26-1.1.1.3.3 28-1.1.1.3.5 33-1.2.3.1 34-1.2.3.2 36-1.2.3.4 38-1.2.3.5
+# ::format ucca
+(v1 / label
+    :H (v2 / label
+           :A (v4 / label
+                  :H (v11 / label
+                          :G (v18 / label~e.2,3,4)
+                          :A (v19 / label~e.12)
+                          :P (v20 / label~e.14)
+                          :A (v21 / label
+                                  :A (v26 / label~e.15)
+                                  :P (v27 / label~e.17,18)
+                                  :A (v28 / label
+                                          :R (v29 / label~e.19)
+                                          :E (v30 / label
+                                                  :C (v32 / label~e.20)
+                                                  :R (v33 / label~e.21))
+                                          :C (v31 / label~e.22))))
+                  :L (v12 / label~e.24)
+                  :H (v13 / label
+                          :A (v22 / label)
+                          :D (v23 / label~e.25)
+                          :A (v24 / label~e.26)
+                          :P (v25 / label~e.28)))
+           :A (v5 / label~e.7)
+           :P (v6 / label~e.8)
+           :D (v7 / label~e.9))
+    :H (v3 / label
+           :A (v8 / label)
+           :P (v9 / label)
+           :A (v10 / label
+                   :A (v14 / label~e.33)
+                   :D (v15 / label~e.34)
+                   :P (v16 / label~e.36)
+                   :G (v17 / label~e.38))))

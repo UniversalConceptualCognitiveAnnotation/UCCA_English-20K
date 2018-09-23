@@ -1,0 +1,12 @@
+# ::id 994001
+# ::tok At least so I thought .
+# ::alignments 0-1.1.1 1-1.1.2 2-1.2.2 3-1.2.3 4-1.2.4
+# ::format ucca
+(v1 / label
+    :L (v2 / label
+           :R (v4 / label~e.0)
+           :C (v5 / label~e.1))
+    :H (v3 / label
+           :A (v6 / label~e.2)
+           :A (v7 / label~e.3)
+           :P (v8 / label~e.4)))

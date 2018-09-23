@@ -1,0 +1,63 @@
+# ::id 826005
+# ::tok " We have n't a moment to lose . Pack as much into my trunk as you can , my traveling kit , my suits , shirts , and socks , do n't bother counting , just squeeze it all in - and hurry !
+# ::alignments 1-1.1.3.12.1 2-1.1.3.12.2 3-1.1.3.12.3 4-1.1.3.12.4.1 5-1.1.3.12.4.2 7-1.1.3.12.6 9-1.1.3.2.3 10-1.1.3.1 11-1.1.3.1 12-1.1.3.13.3.1 13-1.1.3.13.3.2 14-1.1.3.13.3.3 15-1.1.3.1 16-1.1.3.2.1 17-1.1.3.2.2.1 19-1.1.3.3.6.1.1 20-1.1.3.3.6.1.2 21-1.1.3.3.6.1.3 23-1.1.3.3.6.2.1 24-1.1.3.3.6.2.2 26-1.1.3.3.6.3.1 28-1.1.3.3.6.4 29-1.1.3.3.6.5.1 32-1.1.3.3.2 33-1.1.3.3.3 34-1.1.3.3.4 36-1.1.3.4.1 37-1.1.3.4.2 38-1.1.3.4.3.1 39-1.1.3.4.3.2 40-1.1.3.4.2 42-1.1.3.5 43-1.1.3.6.1
+# ::format ucca
+(v1 / label
+    :H (v2 / label
+           :A (v3 / label)
+           :P (v4 / label)
+           :A (v5 / label
+                  :L (v6 / label~e.10,11,15)
+                  :H (v7 / label
+                         :A (v14 / label~e.16)
+                         :D (v15 / label
+                                 :E (v32 / label~e.17)
+                                 :C (v16 / label~e.9))
+                         :P v16)
+                  :H (v8 / label
+                         :D (v17 / label~e.32)
+                         :D (v18 / label~e.33)
+                         :P (v19 / label~e.34)
+                         :A v14
+                         :A (v20 / label
+                                 :C (v33 / label
+                                         :E (v45 / label~e.19)
+                                         :E (v46 / label~e.20)
+                                         :C (v47 / label~e.21))
+                                 :C (v34 / label
+                                         :E (v48 / label~e.23)
+                                         :C (v49 / label~e.24))
+                                 :C (v35 / label
+                                         :C (v50 / label~e.26)
+                                         :E v45)
+                                 :N (v36 / label~e.28)
+                                 :C (v37 / label
+                                         :C (v51 / label~e.29)
+                                         :E v45)))
+                  :H (v9 / label
+                         :D (v21 / label~e.36)
+                         :P (v22 / label~e.37,40)
+                         :A (v23 / label
+                                 :C (v38 / label~e.38)
+                                 :E (v39 / label~e.39))
+                         :A v14)
+                  :L (v10 / label~e.42)
+                  :H (v11 / label
+                          :P (v24 / label~e.43)
+                          :A v14)
+                  :H (v12 / label
+                          :A (v25 / label~e.1)
+                          :D (v26 / label~e.2)
+                          :D (v27 / label~e.3)
+                          :T (v28 / label
+                                  :E (v40 / label~e.4)
+                                  :C (v41 / label~e.5))
+                          :P (v29 / label~e.7))
+                  :H (v13 / label
+                          :P v16
+                          :A (v30 / label)
+                          :A (v31 / label
+                                  :R (v42 / label~e.12)
+                                  :E (v43 / label~e.13)
+                                  :C (v44 / label~e.14))
+                          :A v20))))

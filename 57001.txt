@@ -1,0 +1,12 @@
+# ::id 57001
+# ::tok In fact , there could be no immediate danger .
+# ::alignments 0-1.1.4 1-1.1.4 3-1.1.5 4-1.1.6 6-1.1.8 7-1.1.9 8-1.1.1
+# ::format ucca
+(v1 / label
+    :H (v2 / label
+           :S (v3 / label~e.8)
+           :G (v4 / label~e.0,1)
+           :A (v5 / label~e.3)
+           :D (v6 / label~e.4)
+           :D (v7 / label~e.6)
+           :D (v8 / label~e.7)))

@@ -1,0 +1,12 @@
+# ::id 846000
+# ::tok Three o'clock then sounded .
+# ::alignments 0-1.1.2.1 1-1.1.2.2 2-1.2 3-1.1.4
+# ::format ucca
+(v1 / label
+    :H (v2 / label
+           :T (v4 / label
+                  :E (v7 / label~e.0)
+                  :C (v8 / label~e.1))
+           :A (v5 / label)
+           :P (v6 / label~e.3))
+    :L (v3 / label~e.2))

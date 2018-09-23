@@ -1,0 +1,20 @@
+# ::id 286003
+# ::tok My departure for France was set for early May .
+# ::alignments 0-1.1.2.2.1 1-1.1.2.2.2 2-1.1.2.3.1 3-1.1.2.3.2 5-1.1.4 6-1.1.5.4 7-1.1.5.1 8-1.1.5.2
+# ::format ucca
+(v1 / label
+    :H (v2 / label
+           :A (v3 / label)
+           :A (v4 / label
+                  :A (v7 / label)
+                  :P (v8 / label
+                         :E (v13 / label~e.0)
+                         :C (v14 / label~e.1))
+                  :A (v9 / label
+                         :R (v15 / label~e.2)
+                         :C (v16 / label~e.3)))
+           :P (v5 / label~e.5)
+           :T (v6 / label
+                  :E (v10 / label~e.7)
+                  :C (v11 / label~e.8)
+                  :R (v12 / label~e.6))))

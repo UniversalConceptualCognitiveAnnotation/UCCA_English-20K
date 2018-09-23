@@ -1,0 +1,41 @@
+# ::id 36001
+# ::tok Without getting into those rumors that upset civilians in the seaports and deranged the public mind even far inland , it must be said that professional seamen were especially alarmed .
+# ::alignments 0-1.1 1-1.2.1 2-1.2.1 3-1.2.2.1 4-1.2.2.2 5-1.2.2.3.1 6-1.2.2.3.2.2 7-1.2.2.3.2.3 8-1.2.2.3.2.4.1 9-1.2.2.3.2.4.2 10-1.2.2.3.2.4.3 11-1.2.2.3.3 12-1.2.2.3.4.2 13-1.2.2.3.4.3.1 14-1.2.2.3.4.3.2 15-1.2.2.3.4.3.3 16-1.2.2.3.4.4 17-1.2.2.3.4.5.1 18-1.2.2.3.4.5.2 21-1.3.7 22-1.3.7 23-1.3.7 25-1.3.1.1 26-1.3.1.2 28-1.3.3 29-1.3.4
+# ::format ucca
+(v1 / label
+    :L (v2 / label~e.0)
+    :H (v3 / label
+           :P (v5 / label~e.1,2)
+           :A (v6 / label
+                  :E (v11 / label~e.3)
+                  :C (v12 / label~e.4)
+                  :E (v13 / label
+                          :R (v16 / label~e.5)
+                          :H (v17 / label
+                                  :A v12
+                                  :P (v20 / label~e.6)
+                                  :A (v21 / label~e.7)
+                                  :A (v22 / label
+                                          :R (v27 / label~e.8)
+                                          :E (v28 / label~e.9)
+                                          :C (v29 / label~e.10)))
+                          :L (v18 / label~e.11)
+                          :H (v19 / label
+                                  :A v12
+                                  :P (v23 / label~e.12)
+                                  :A (v24 / label
+                                          :E (v30 / label~e.13)
+                                          :E (v31 / label~e.14)
+                                          :C (v32 / label~e.15))
+                                  :G (v25 / label~e.16)
+                                  :A (v26 / label
+                                          :E (v33 / label~e.17)
+                                          :C (v34 / label~e.18)))))
+           :D v2)
+    :H (v4 / label
+           :A (v7 / label
+                  :E (v14 / label~e.25)
+                  :C (v15 / label~e.26))
+           :D (v8 / label~e.28)
+           :P (v9 / label~e.29)
+           :G (v10 / label~e.21,22,23)))
