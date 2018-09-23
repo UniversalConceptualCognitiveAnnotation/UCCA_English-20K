@@ -1,0 +1,26 @@
+# format = ucca
+# sent_id = 60002
+# text = Two and a half meters below its waterline , there gaped a symmetrical gash in the shape of an isosceles triangle .
+1	Two	_	Word	Word	_	5	E	5:E	_
+2	and	_	Word	Word	_	1	N	1:N	_
+3	a	_	Word	Word	_	4	E	4:E	_
+4	half	_	Word	Word	_	1	C	1:C	_
+5	meters	_	Word	Word	_	11	A	11:A	_
+6	below	_	Word	Word	_	8	R	8:R	_
+7	its	_	Word	Word	_	8	E	8:E	_
+8	waterline	_	Word	Word	_	5	E	5:E	_
+9	,	_	Punctuation	Punctuation	_	11	U	11:U	_
+10	there	_	Word	Word	_	11	F	11:F	_
+11	gaped	_	Word	Word	_	0	H	0:H	_
+12	a	_	Word	Word	_	14	E	14:E	_
+13	symmetrical	_	Word	Word	_	14	E	14:E	_
+14	gash	_	Word	Word	_	11	A	11:A	_
+15	in	_	Word	Word	_	21	R	21:R	_
+16	the	_	Word	Word	_	17	E	17:E	_
+17	shape	_	Word	Word	_	21	E	21:E	_
+18	of	_	Word	Word	_	17	R	17:R	_
+19	an	_	Word	Word	_	21	E	21:E	_
+20	isosceles	_	Word	Word	_	21	E	21:E	_
+21	triangle	_	Word	Word	_	14	E	14:E	_
+22	.	_	Punctuation	Punctuation	_	21	U	21:U	_
+

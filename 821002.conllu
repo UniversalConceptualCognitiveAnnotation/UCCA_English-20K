@@ -1,0 +1,31 @@
+# format = ucca
+# sent_id = 821002
+# text = Never did he object to buckling up his suitcase for any country whatever , China or the Congo , no matter how far off it was .
+1	Never	_	Word	Word	_	4	T	4:T	_
+2	did	_	Word	Word	_	4	F	4:F	_
+3	he	_	Word	Word	_	4	A	4:A|6:A	_
+4	object	_	Word	Word	_	0	H	0:H	_
+5	to	_	Word	Word	_	6	F	6:F	_
+6	buckling	_	Word	Word	_	4	A	4:A	_
+7	up	_	Word	Word	_	6	Terminal	6:Terminal	_
+8	his	_	Word	Word	_	9	E	9:E	_
+9	suitcase	_	Word	Word	_	6	A	6:A	_
+10	for	_	Word	Word	_	12	R	12:R	_
+11	any	_	Word	Word	_	12	E	12:E	_
+12	country	_	Word	Word	_	6	A	6:A	_
+13	whatever	_	Word	Word	_	12	E	12:E	_
+14	,	_	Punctuation	Punctuation	_	12	U	12:U	_
+15	China	_	Word	Word	_	12	E	12:E	_
+16	or	_	Word	Word	_	15	N	15:N	_
+17	the	_	Word	Word	_	18	E	18:E	_
+18	Congo	_	Word	Word	_	15	C	15:C	_
+19	,	_	Punctuation	Punctuation	_	12	U	12:U	_
+20	no	_	Word	Word	_	23	D	23:D	_
+21	matter	_	Word	Word	_	20	Terminal	20:Terminal	_
+22	how	_	Word	Word	_	23	D	23:D	_
+23	far	_	Word	Word	_	12	E	12:E	_
+24	off	_	Word	Word	_	23	Terminal	23:Terminal	_
+25	it	_	Word	Word	_	23	A	23:A	_
+26	was	_	Word	Word	_	23	F	23:F	_
+27	.	_	Punctuation	Punctuation	_	23	U	23:U	_
+

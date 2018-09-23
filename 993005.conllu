@@ -1,0 +1,14 @@
+# format = ucca
+# sent_id = 993005
+# text = Then all traces of light vanished into the darkness .
+1	Then	_	Word	Word	_	6	L	6:L	_
+2	all	_	Word	Word	_	3	E	3:E	_
+3	traces	_	Word	Word	_	6	A	6:A	_
+4	of	_	Word	Word	_	5	R	5:R	_
+5	light	_	Word	Word	_	3	E	3:E	_
+6	vanished	_	Word	Word	_	0	H	0:H	_
+7	into	_	Word	Word	_	9	R	9:R	_
+8	the	_	Word	Word	_	9	E	9:E	_
+9	darkness	_	Word	Word	_	6	A	6:A	_
+10	.	_	Punctuation	Punctuation	_	9	U	9:U	_
+

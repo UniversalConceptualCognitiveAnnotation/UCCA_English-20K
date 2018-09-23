@@ -1,0 +1,57 @@
+# format = ucca
+# sent_id = 307000
+# text = " So , until information becomes more abundant , I plump for a sea unicorn of colossal dimensions , no longer armed with a mere lance but with an actual spur , like ironclad frigates or those warships called ' rams , ' whose mass and motor power it would possess simultaneously .
+1	"	_	Punctuation	Punctuation	_	8	U	8:U	_
+2	So	_	Word	Word	_	8	L	8:L	_
+3	,	_	Punctuation	Punctuation	_	8	U	8:U	_
+4	until	_	Word	Word	_	8	L	8:L	_
+5	information	_	Word	Word	_	8	A	8:A	_
+6	becomes	_	Word	Word	_	8	D	8:D	_
+7	more	_	Word	Word	_	8	D	8:D	_
+8	abundant	_	Word	Word	_	0	H	0:H	_
+9	,	_	Punctuation	Punctuation	_	8	U	8:U	_
+10	I	_	Word	Word	_	11	A	11:A	_
+11	plump	_	Word	Word	_	8	H	8:H	_
+12	for	_	Word	Word	_	15	R	15:R	_
+13	a	_	Word	Word	_	15	E	15:E	_
+14	sea	_	Word	Word	_	15	E	15:E	_
+15	unicorn	_	Word	Word	_	0	C	0:C|18:A|22:A|31:A	_
+16	of	_	Word	Word	_	18	R	18:R	_
+17	colossal	_	Word	Word	_	18	D	18:D	_
+18	dimensions	_	Word	Word	_	15	E	15:E	_
+19	,	_	Punctuation	Punctuation	_	8	U	8:U	_
+20	no	_	Word	Word	_	22	D	22:D	_
+21	longer	_	Word	Word	_	20	Terminal	20:Terminal	_
+22	armed	_	Word	Word	_	8	H	8:H	_
+23	with	_	Word	Word	_	26	R	26:R	_
+24	a	_	Word	Word	_	26	E	26:E	_
+25	mere	_	Word	Word	_	26	E	26:E	_
+26	lance	_	Word	Word	_	22	A	22:A	_
+27	but	_	Word	Word	_	8	L	8:L	_
+28	with	_	Word	Word	_	31	R	31:R	_
+29	an	_	Word	Word	_	31	E	31:E	_
+30	actual	_	Word	Word	_	31	E	31:E	_
+31	spur	_	Word	Word	_	8	H	8:H	_
+32	,	_	Punctuation	Punctuation	_	31	U	31:U	_
+33	like	_	Word	Word	_	35	R	35:R	_
+34	ironclad	_	Word	Word	_	35	E	35:E	_
+35	frigates	_	Word	Word	_	31	E	31:E	_
+36	or	_	Word	Word	_	35	N	35:N	_
+37	those	_	Word	Word	_	38	E	38:E	_
+38	warships	_	Word	Word	_	35	C	35:C	_
+39	called	_	Word	Word	_	38	E	38:E	_
+40	'	_	Punctuation	Punctuation	_	39	U	39:U	_
+41	rams	_	Word	Word	_	39	A	39:A	_
+42	,	_	Punctuation	Punctuation	_	38	U	38:U	_
+43	'	_	Punctuation	Punctuation	_	38	U	38:U	_
+44	whose	_	Word	Word	_	51	R	51:R	_
+45	mass	_	Word	Word	_	51	A	51:A	_
+46	and	_	Word	Word	_	45	N	45:N	_
+47	motor	_	Word	Word	_	48	E	48:E	_
+48	power	_	Word	Word	_	45	C	45:C	_
+49	it	_	Word	Word	_	51	A	51:A	_
+50	would	_	Word	Word	_	51	D	51:D	_
+51	possess	_	Word	Word	_	38	E	38:E	_
+52	simultaneously	_	Word	Word	_	51	D	51:D	_
+53	.	_	Punctuation	Punctuation	_	51	U	51:U	_
+

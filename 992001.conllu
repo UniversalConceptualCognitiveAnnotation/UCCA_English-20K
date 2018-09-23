@@ -1,0 +1,17 @@
+# format = ucca
+# sent_id = 992001
+# text = The shores of Japan were less than 200 miles to our leeward .
+1	The	_	Word	Word	_	2	E	2:E	_
+2	shores	_	Word	Word	_	5	A	5:A	_
+3	of	_	Word	Word	_	4	R	4:R	_
+4	Japan	_	Word	Word	_	2	E	2:E	_
+5	were	_	Word	Word	_	0	H	0:H	_
+6	less	_	Word	Word	_	9	E	9:E	_
+7	than	_	Word	Word	_	6	F	6:F	_
+8	200	_	Word	Word	_	9	E	9:E	_
+9	miles	_	Word	Word	_	5	A	5:A	_
+10	to	_	Word	Word	_	12	R	12:R	_
+11	our	_	Word	Word	_	12	E	12:E	_
+12	leeward	_	Word	Word	_	9	E	9:E	_
+13	.	_	Punctuation	Punctuation	_	12	U	12:U	_
+

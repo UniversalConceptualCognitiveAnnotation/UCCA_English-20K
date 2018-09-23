@@ -1,0 +1,26 @@
+# format = ucca
+# sent_id = 843000
+# text = The wharves of Brooklyn , and every part of New York bordering the East River , were crowded with curiosity seekers .
+1	The	_	Word	Word	_	2	E	2:E	_
+2	wharves	_	Word	Word	_	18	A	18:A	_
+3	of	_	Word	Word	_	4	R	4:R	_
+4	Brooklyn	_	Word	Word	_	2	E	2:E	_
+5	,	_	Punctuation	Punctuation	_	2	U	2:U	_
+6	and	_	Word	Word	_	2	N	2:N	_
+7	every	_	Word	Word	_	8	E	8:E	_
+8	part	_	Word	Word	_	2	C	2:C	_
+9	of	_	Word	Word	_	10	R	10:R	_
+10	New	_	Word	Word	_	8	E	8:E	_
+11	York	_	Word	Word	_	10	Terminal	10:Terminal	_
+12	bordering	_	Word	Word	_	8	E	8:E	_
+13	the	_	Word	Word	_	14	E	14:E	_
+14	East	_	Word	Word	_	12	A	12:A	_
+15	River	_	Word	Word	_	14	Terminal	14:Terminal	_
+16	,	_	Punctuation	Punctuation	_	18	U	18:U	_
+17	were	_	Word	Word	_	18	F	18:F	_
+18	crowded	_	Word	Word	_	0	H	0:H	_
+19	with	_	Word	Word	_	21	R	21:R	_
+20	curiosity	_	Word	Word	_	21	A	21:A	_
+21	seekers	_	Word	Word	_	18	A	18:A	_
+22	.	_	Punctuation	Punctuation	_	21	U	21:U	_
+

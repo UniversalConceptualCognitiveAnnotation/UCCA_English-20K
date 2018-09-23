@@ -1,0 +1,49 @@
+# format = ucca
+# sent_id = 36002
+# text = Traders , shipowners , captains of vessels , skippers , and master mariners from Europe and America , naval officers from every country , and at their heels the various national governments on these two continents , were all extremely disturbed by the business .
+1	Traders	_	Word	Word	_	41	A	41:A	_
+2	,	_	Punctuation	Punctuation	_	1	U	1:U	_
+3	shipowners	_	Word	Word	_	1	C	1:C	_
+4	,	_	Punctuation	Punctuation	_	1	U	1:U	_
+5	captains	_	Word	Word	_	1	C	1:C	_
+6	of	_	Word	Word	_	5	R	5:R	_
+7	vessels	_	Word	Word	_	5	E	5:E	_
+8	,	_	Punctuation	Punctuation	_	1	U	1:U	_
+9	skippers	_	Word	Word	_	1	C	1:C	_
+10	,	_	Punctuation	Punctuation	_	1	U	1:U	_
+11	and	_	Word	Word	_	1	N	1:N	_
+12	master	_	Word	Word	_	13	E	13:E	_
+13	mariners	_	Word	Word	_	1	C	1:C	_
+14	from	_	Word	Word	_	15	R	15:R	_
+15	Europe	_	Word	Word	_	1	E	1:E	_
+16	and	_	Word	Word	_	15	N	15:N	_
+17	America	_	Word	Word	_	15	C	15:C	_
+18	,	_	Punctuation	Punctuation	_	1	U	1:U	_
+19	naval	_	Word	Word	_	20	E	20:E	_
+20	officers	_	Word	Word	_	1	C	1:C	_
+21	from	_	Word	Word	_	23	R	23:R	_
+22	every	_	Word	Word	_	23	E	23:E	_
+23	country	_	Word	Word	_	20	E	20:E	_
+24	,	_	Punctuation	Punctuation	_	1	U	1:U	_
+25	and	_	Word	Word	_	1	N	1:N	_
+26	at	_	Word	Word	_	1	C	1:C	_
+27	their	_	Word	Word	_	26	Terminal	26:Terminal	_
+28	heels	_	Word	Word	_	26	Terminal	26:Terminal	_
+29	the	_	Word	Word	_	32	E	32:E	_
+30	various	_	Word	Word	_	32	E	32:E	_
+31	national	_	Word	Word	_	32	E	32:E	_
+32	governments	_	Word	Word	_	26	A	26:A	_
+33	on	_	Word	Word	_	36	R	36:R	_
+34	these	_	Word	Word	_	36	E	36:E	_
+35	two	_	Word	Word	_	36	E	36:E	_
+36	continents	_	Word	Word	_	32	E	32:E	_
+37	,	_	Punctuation	Punctuation	_	41	U	41:U	_
+38	were	_	Word	Word	_	41	F	41:F	_
+39	all	_	Word	Word	_	41	F	41:F	_
+40	extremely	_	Word	Word	_	41	D	41:D	_
+41	disturbed	_	Word	Word	_	0	H	0:H	_
+42	by	_	Word	Word	_	44	R	44:R	_
+43	the	_	Word	Word	_	44	E	44:E	_
+44	business	_	Word	Word	_	41	A	41:A	_
+45	.	_	Punctuation	Punctuation	_	44	U	44:U	_
+

@@ -1,0 +1,19 @@
+# format = ucca
+# sent_id = 311001
+# text = Enough of these fairy tales that time has changed for me into harsh realities .
+1	Enough	_	Word	Word	_	0	H	0:H	_
+2	of	_	Word	Word	_	5	R	5:R	_
+3	these	_	Word	Word	_	5	E	5:E	_
+4	fairy	_	Word	Word	_	5	E	5:E	_
+5	tales	_	Word	Word	_	1	A	1:A	_
+6	that	_	Word	Word	_	9	R	9:R	_
+7	time	_	Word	Word	_	9	A	9:A	_
+8	has	_	Word	Word	_	9	F	9:F	_
+9	changed	_	Word	Word	_	5	E	5:E	_
+10	for	_	Word	Word	_	11	R	11:R	_
+11	me	_	Word	Word	_	9	A	9:A	_
+12	into	_	Word	Word	_	14	R	14:R	_
+13	harsh	_	Word	Word	_	14	E	14:E	_
+14	realities	_	Word	Word	_	9	A	9:A	_
+15	.	_	Punctuation	Punctuation	_	14	U	14:U	_
+

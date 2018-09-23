@@ -1,0 +1,18 @@
+# format = ucca
+# sent_id = 830000
+# text = The hotel elevator dropped us off in the main vestibule on the mezzanine .
+1	The	_	Word	Word	_	3	E	3:E	_
+2	hotel	_	Word	Word	_	3	E	3:E	_
+3	elevator	_	Word	Word	_	4	A	4:A	_
+4	dropped	_	Word	Word	_	0	H	0:H	_
+5	us	_	Word	Word	_	4	A	4:A	_
+6	off	_	Word	Word	_	4	Terminal	4:Terminal	_
+7	in	_	Word	Word	_	10	R	10:R	_
+8	the	_	Word	Word	_	10	E	10:E	_
+9	main	_	Word	Word	_	10	E	10:E	_
+10	vestibule	_	Word	Word	_	4	A	4:A	_
+11	on	_	Word	Word	_	13	R	13:R	_
+12	the	_	Word	Word	_	13	E	13:E	_
+13	mezzanine	_	Word	Word	_	10	E	10:E	_
+14	.	_	Punctuation	Punctuation	_	13	U	13:U	_
+

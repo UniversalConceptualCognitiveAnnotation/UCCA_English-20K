@@ -1,0 +1,40 @@
+# format = ucca
+# sent_id = 308000
+# text = " This inexplicable phenomenon is thus explained away - unless it 's something else entirely , which , despite everything that has been sighted , studied , explored and experienced , is still possible ! "
+1	"	_	Punctuation	Punctuation	_	7	U	7:U	_
+2	This	_	Word	Word	_	4	E	4:E	_
+3	inexplicable	_	Word	Word	_	4	E	4:E	_
+4	phenomenon	_	Word	Word	_	7	A	7:A	_
+5	is	_	Word	Word	_	7	F	7:F	_
+6	thus	_	Word	Word	_	7	L	7:L	_
+7	explained	_	Word	Word	_	0	H	0:H	_
+8	away	_	Word	Word	_	7	Terminal	7:Terminal	_
+9	-	_	Punctuation	Punctuation	_	7	U	7:U	_
+10	unless	_	Word	Word	_	7	L	7:L	_
+11	it	_	Word	Word	_	12	A	12:A	_
+12	's	_	Word	Word	_	7	H	7:H	_
+13	something	_	Word	Word	_	12	A	12:A	_
+14	else	_	Word	Word	_	13	Terminal	13:Terminal	_
+15	entirely	_	Word	Word	_	13	E	13:E	_
+16	,	_	Punctuation	Punctuation	_	7	U	7:U	_
+17	which	_	Word	Word	_	34	A	34:A	_
+18	,	_	Punctuation	Punctuation	_	7	U	7:U	_
+19	despite	_	Word	Word	_	7	L	7:L	_
+20	everything	_	Word	Word	_	24	A	24:A	_
+21	that	_	Word	Word	_	24	F	24:F	_
+22	has	_	Word	Word	_	24	F	24:F	_
+23	been	_	Word	Word	_	24	F	24:F	_
+24	sighted	_	Word	Word	_	7	H	7:H	_
+25	,	_	Punctuation	Punctuation	_	24	U	24:U	_
+26	studied	_	Word	Word	_	24	C	24:C	_
+27	,	_	Punctuation	Punctuation	_	24	U	24:U	_
+28	explored	_	Word	Word	_	24	C	24:C	_
+29	and	_	Word	Word	_	24	N	24:N	_
+30	experienced	_	Word	Word	_	24	C	24:C	_
+31	,	_	Punctuation	Punctuation	_	7	U	7:U	_
+32	is	_	Word	Word	_	34	F	34:F	_
+33	still	_	Word	Word	_	34	D	34:D	_
+34	possible	_	Word	Word	_	7	H	7:H	_
+35	!	_	Punctuation	Punctuation	_	34	U	34:U	_
+36	"	_	Punctuation	Punctuation	_	34	U	34:U	_
+

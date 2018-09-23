@@ -1,0 +1,12 @@
+# format = ucca
+# sent_id = 48002
+# text = The question took an entirely new turn .
+1	The	_	Word	Word	_	2	E	2:E	_
+2	question	_	Word	Word	_	3	A	3:A	_
+3	took	_	Word	Word	_	0	H	0:H	_
+4	an	_	Word	Word	_	3	Terminal	3:Terminal	_
+5	entirely	_	Word	Word	_	6	E	6:E	_
+6	new	_	Word	Word	_	3	D	3:D	_
+7	turn	_	Word	Word	_	3	Terminal	3:Terminal	_
+8	.	_	Punctuation	Punctuation	_	3	U	3:U	_
+

@@ -1,0 +1,52 @@
+# format = ucca
+# sent_id = 897000
+# text = " But Ned , you 're a professional whaler , a man familiar with all the great marine mammals - your mind should easily accept this hypothesis of an enormous cetacean , and you ought to be the last one to doubt it under these circumstances ! "
+1	"	_	Punctuation	Punctuation	_	6	U	6:U	_
+2	But	_	Word	Word	_	6	L	6:L	_
+3	Ned	_	Word	Word	_	6	G	6:G	_
+4	,	_	Punctuation	Punctuation	_	6	U	6:U	_
+5	you	_	Word	Word	_	6	A	6:A	_
+6	're	_	Word	Word	_	0	H	0:H	_
+7	a	_	Word	Word	_	9	E	9:E	_
+8	professional	_	Word	Word	_	9	E	9:E	_
+9	whaler	_	Word	Word	_	6	A	6:A	_
+10	,	_	Punctuation	Punctuation	_	9	U	9:U	_
+11	a	_	Word	Word	_	12	E	12:E	_
+12	man	_	Word	Word	_	9	C	9:C	_
+13	familiar	_	Word	Word	_	12	E	12:E	_
+14	with	_	Word	Word	_	19	R	19:R	_
+15	all	_	Word	Word	_	19	E	19:E	_
+16	the	_	Word	Word	_	19	E	19:E	_
+17	great	_	Word	Word	_	19	E	19:E	_
+18	marine	_	Word	Word	_	19	E	19:E	_
+19	mammals	_	Word	Word	_	13	A	13:A	_
+20	-	_	Punctuation	Punctuation	_	6	U	6:U	_
+21	your	_	Word	Word	_	22	E	22:E	_
+22	mind	_	Word	Word	_	25	A	25:A	_
+23	should	_	Word	Word	_	25	D	25:D	_
+24	easily	_	Word	Word	_	25	D	25:D	_
+25	accept	_	Word	Word	_	6	H	6:H	_
+26	this	_	Word	Word	_	27	E	27:E	_
+27	hypothesis	_	Word	Word	_	25	A	25:A	_
+28	of	_	Word	Word	_	31	R	31:R	_
+29	an	_	Word	Word	_	31	E	31:E	_
+30	enormous	_	Word	Word	_	31	E	31:E	_
+31	cetacean	_	Word	Word	_	27	E	27:E	_
+32	,	_	Punctuation	Punctuation	_	6	U	6:U	_
+33	and	_	Word	Word	_	6	L	6:L	_
+34	you	_	Word	Word	_	42	A	42:A	_
+35	ought	_	Word	Word	_	42	D	42:D	_
+36	to	_	Word	Word	_	35	Terminal	35:Terminal	_
+37	be	_	Word	Word	_	35	Terminal	35:Terminal	_
+38	the	_	Word	Word	_	40	E	40:E	_
+39	last	_	Word	Word	_	40	E	40:E	_
+40	one	_	Word	Word	_	42	A	42:A	_
+41	to	_	Word	Word	_	42	F	42:F	_
+42	doubt	_	Word	Word	_	6	H	6:H	_
+43	it	_	Word	Word	_	42	A	42:A	_
+44	under	_	Word	Word	_	46	R	46:R	_
+45	these	_	Word	Word	_	46	E	46:E	_
+46	circumstances	_	Word	Word	_	42	A	42:A	_
+47	!	_	Punctuation	Punctuation	_	46	U	46:U	_
+48	"	_	Punctuation	Punctuation	_	46	U	46:U	_
+

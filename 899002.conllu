@@ -1,0 +1,36 @@
+# format = ucca
+# sent_id = 899002
+# text = " " Listen to me , Ned - " " No , no , professor . I 'll go along with anything you want except that . Some gigantic devilfish maybe .
+1	"	_	Punctuation	Punctuation	_	11	U	11:U	_
+2	"	_	Punctuation	Punctuation	_	11	U	11:U	_
+3	Listen	_	Word	Word	_	0	P	0:P|11:P	_
+4	to	_	Word	Word	_	5	R	5:R	_
+5	me	_	Word	Word	_	3	A	3:A	_
+6	,	_	Punctuation	Punctuation	_	3	U	3:U	_
+7	Ned	_	Word	Word	_	3	G	3:G	_
+8	-	_	Punctuation	Punctuation	_	3	U	3:U	_
+9	"	_	Punctuation	Punctuation	_	3	U	3:U	_
+10	"	_	Punctuation	Punctuation	_	3	U	3:U	_
+11	No	_	Word	Word	_	3	H	3:H	_
+12	,	_	Punctuation	Punctuation	_	11	U	11:U	_
+13	no	_	Word	Word	_	11	D	11:D	_
+14	,	_	Punctuation	Punctuation	_	11	U	11:U	_
+15	professor	_	Word	Word	_	11	G	11:G	_
+16	.	_	Punctuation	Punctuation	_	11	U	11:U	_
+17	I	_	Word	Word	_	19	A	19:A	_
+18	'll	_	Word	Word	_	19	F	19:F	_
+19	go	_	Word	Word	_	11	H	11:H	_
+20	along	_	Word	Word	_	19	Terminal	19:Terminal	_
+21	with	_	Word	Word	_	24	R	24:R	_
+22	anything	_	Word	Word	_	24	A	24:A	_
+23	you	_	Word	Word	_	24	A	24:A	_
+24	want	_	Word	Word	_	19	A	19:A	_
+25	except	_	Word	Word	_	26	R	26:R	_
+26	that	_	Word	Word	_	24	E	24:E	_
+27	.	_	Punctuation	Punctuation	_	11	U	11:U	_
+28	Some	_	Word	Word	_	30	E	30:E	_
+29	gigantic	_	Word	Word	_	30	E	30:E	_
+30	devilfish	_	Word	Word	_	11	H	11:H	_
+31	maybe	_	Word	Word	_	30	D	30:D	_
+32	.	_	Punctuation	Punctuation	_	30	U	30:U	_
+

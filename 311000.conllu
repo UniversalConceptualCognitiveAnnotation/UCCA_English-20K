@@ -1,0 +1,16 @@
+# format = ucca
+# sent_id = 311000
+# text = But I must n't let these fantasies run away with me !
+1	But	_	Word	Word	_	5	L	5:L	_
+2	I	_	Word	Word	_	5	A	5:A	_
+3	must	_	Word	Word	_	5	D	5:D	_
+4	n't	_	Word	Word	_	5	D	5:D	_
+5	let	_	Word	Word	_	0	H	0:H	_
+6	these	_	Word	Word	_	7	E	7:E	_
+7	fantasies	_	Word	Word	_	8	A	8:A	_
+8	run	_	Word	Word	_	5	A	5:A	_
+9	away	_	Word	Word	_	8	Terminal	8:Terminal	_
+10	with	_	Word	Word	_	11	R	11:R	_
+11	me	_	Word	Word	_	8	A	8:A	_
+12	!	_	Punctuation	Punctuation	_	11	U	11:U	_
+

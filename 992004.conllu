@@ -1,0 +1,18 @@
+# format = ucca
+# sent_id = 992004
+# text = Huge clouds covered the moon 's disk , then in its first quarter .
+1	Huge	_	Word	Word	_	2	E	2:E	_
+2	clouds	_	Word	Word	_	3	A	3:A	_
+3	covered	_	Word	Word	_	0	H	0:H	_
+4	the	_	Word	Word	_	5	E	5:E	_
+5	moon	_	Word	Word	_	7	E	7:E	_
+6	's	_	Word	Word	_	5	R	5:R	_
+7	disk	_	Word	Word	_	3	A	3:A	_
+8	,	_	Punctuation	Punctuation	_	7	U	7:U	_
+9	then	_	Word	Word	_	7	N	7:N	_
+10	in	_	Word	Word	_	13	R	13:R	_
+11	its	_	Word	Word	_	13	E	13:E	_
+12	first	_	Word	Word	_	13	E	13:E	_
+13	quarter	_	Word	Word	_	7	C	7:C	_
+14	.	_	Punctuation	Punctuation	_	13	U	13:U	_
+

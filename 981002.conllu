@@ -1,0 +1,13 @@
+# format = ucca
+# sent_id = 981002
+# text = But how else could we go about it ?
+1	But	_	Word	Word	_	6	L	6:L	_
+2	how	_	Word	Word	_	6	D	6:D	_
+3	else	_	Word	Word	_	2	E	2:E	_
+4	could	_	Word	Word	_	6	D	6:D	_
+5	we	_	Word	Word	_	6	A	6:A	_
+6	go	_	Word	Word	_	0	H	0:H	_
+7	about	_	Word	Word	_	6	Terminal	6:Terminal	_
+8	it	_	Word	Word	_	6	A	6:A	_
+9	?	_	Punctuation	Punctuation	_	6	U	6:U	_
+

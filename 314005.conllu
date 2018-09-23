@@ -1,0 +1,26 @@
+# format = ucca
+# sent_id = 314005
+# text = Accordingly , the wags claimed that this slippery rascal had waylaid some passing telegram and was making the most of it .
+1	Accordingly	_	Word	Word	_	5	L	5:L	_
+2	,	_	Punctuation	Punctuation	_	5	U	5:U	_
+3	the	_	Word	Word	_	4	E	4:E	_
+4	wags	_	Word	Word	_	5	A	5:A	_
+5	claimed	_	Word	Word	_	0	H	0:H	_
+6	that	_	Word	Word	_	11	R	11:R	_
+7	this	_	Word	Word	_	9	E	9:E	_
+8	slippery	_	Word	Word	_	9	E	9:E	_
+9	rascal	_	Word	Word	_	0	C	0:C|17:A	_
+10	had	_	Word	Word	_	11	F	11:F	_
+11	waylaid	_	Word	Word	_	5	A	5:A	_
+12	some	_	Word	Word	_	14	E	14:E	_
+13	passing	_	Word	Word	_	14	E	14:E	_
+14	telegram	_	Word	Word	_	11	A	11:A	_
+15	and	_	Word	Word	_	11	L	11:L	_
+16	was	_	Word	Word	_	17	F	17:F	_
+17	making	_	Word	Word	_	11	H	11:H	_
+18	the	_	Word	Word	_	17	Terminal	17:Terminal	_
+19	most	_	Word	Word	_	17	Terminal	17:Terminal	_
+20	of	_	Word	Word	_	21	R	21:R	_
+21	it	_	Word	Word	_	17	A	17:A	_
+22	.	_	Punctuation	Punctuation	_	21	U	21:U	_
+

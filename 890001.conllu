@@ -1,0 +1,17 @@
+# format = ucca
+# sent_id = 890001
+# text = He described his fishing trips and his battles with great natural lyricism .
+1	He	_	Word	Word	_	2	A	2:A	_
+2	described	_	Word	Word	_	0	H	0:H	_
+3	his	_	Word	Word	_	5	E	5:E	_
+4	fishing	_	Word	Word	_	5	E	5:E	_
+5	trips	_	Word	Word	_	2	A	2:A	_
+6	and	_	Word	Word	_	5	N	5:N	_
+7	his	_	Word	Word	_	8	E	8:E	_
+8	battles	_	Word	Word	_	5	C	5:C	_
+9	with	_	Word	Word	_	12	R	12:R	_
+10	great	_	Word	Word	_	12	E	12:E	_
+11	natural	_	Word	Word	_	12	E	12:E	_
+12	lyricism	_	Word	Word	_	2	D	2:D	_
+13	.	_	Punctuation	Punctuation	_	12	U	12:U	_
+

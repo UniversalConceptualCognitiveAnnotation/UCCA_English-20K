@@ -1,0 +1,28 @@
+# format = ucca
+# sent_id = 289000
+# text = Also discredited was the idea of a floating hull or some other enormous wreckage , and again because of this speed of movement .
+1	Also	_	Word	Word	_	2	L	2:L	_
+2	discredited	_	Word	Word	_	0	H	0:H	_
+3	was	_	Word	Word	_	2	F	2:F	_
+4	the	_	Word	Word	_	5	E	5:E	_
+5	idea	_	Word	Word	_	2	A	2:A	_
+6	of	_	Word	Word	_	9	R	9:R	_
+7	a	_	Word	Word	_	9	E	9:E	_
+8	floating	_	Word	Word	_	9	E	9:E	_
+9	hull	_	Word	Word	_	5	E	5:E	_
+10	or	_	Word	Word	_	9	N	9:N	_
+11	some	_	Word	Word	_	14	E	14:E	_
+12	other	_	Word	Word	_	14	E	14:E	_
+13	enormous	_	Word	Word	_	14	E	14:E	_
+14	wreckage	_	Word	Word	_	9	C	9:C	_
+15	,	_	Punctuation	Punctuation	_	2	U	2:U	_
+16	and	_	Word	Word	_	2	L	2:L	_
+17	again	_	Word	Word	_	16	C	16:C	_
+18	because	_	Word	Word	_	21	R	21:R	_
+19	of	_	Word	Word	_	18	Terminal	18:Terminal	_
+20	this	_	Word	Word	_	21	E	21:E	_
+21	speed	_	Word	Word	_	2	H	2:H	_
+22	of	_	Word	Word	_	21	Terminal	21:Terminal	_
+23	movement	_	Word	Word	_	21	Terminal	21:Terminal	_
+24	.	_	Punctuation	Punctuation	_	21	U	21:U	_
+

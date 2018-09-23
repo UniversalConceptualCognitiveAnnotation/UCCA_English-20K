@@ -1,0 +1,50 @@
+# format = ucca
+# sent_id = 60004
+# text = Consequently , it must have been produced by a perforating tool of uncommon toughness - plus , after being launched with prodigious power and then piercing four centimeters of sheet iron , this tool had needed to withdraw itself by a backward motion truly inexplicable .
+1	Consequently	_	Word	Word	_	7	L	7:L	_
+2	,	_	Punctuation	Punctuation	_	7	U	7:U	_
+3	it	_	Word	Word	_	7	A	7:A	_
+4	must	_	Word	Word	_	7	D	7:D	_
+5	have	_	Word	Word	_	7	F	7:F	_
+6	been	_	Word	Word	_	7	F	7:F	_
+7	produced	_	Word	Word	_	0	H	0:H	_
+8	by	_	Word	Word	_	11	R	11:R	_
+9	a	_	Word	Word	_	11	E	11:E	_
+10	perforating	_	Word	Word	_	11	E	11:E	_
+11	tool	_	Word	Word	_	7	A	7:A	_
+12	of	_	Word	Word	_	14	R	14:R	_
+13	uncommon	_	Word	Word	_	14	D	14:D	_
+14	toughness	_	Word	Word	_	11	E	11:E	_
+15	-	_	Punctuation	Punctuation	_	7	U	7:U	_
+16	plus	_	Word	Word	_	7	L	7:L	_
+17	,	_	Punctuation	Punctuation	_	7	U	7:U	_
+18	after	_	Word	Word	_	7	L	7:L	_
+19	being	_	Word	Word	_	20	F	20:F	_
+20	launched	_	Word	Word	_	7	H	7:H	_
+21	with	_	Word	Word	_	23	R	23:R	_
+22	prodigious	_	Word	Word	_	23	E	23:E	_
+23	power	_	Word	Word	_	20	A	20:A	_
+24	and	_	Word	Word	_	7	L	7:L	_
+25	then	_	Word	Word	_	7	L	7:L	_
+26	piercing	_	Word	Word	_	7	H	7:H	_
+27	four	_	Word	Word	_	28	E	28:E	_
+28	centimeters	_	Word	Word	_	26	A	26:A	_
+29	of	_	Word	Word	_	31	R	31:R	_
+30	sheet	_	Word	Word	_	31	E	31:E	_
+31	iron	_	Word	Word	_	28	E	28:E	_
+32	,	_	Punctuation	Punctuation	_	26	U	26:U	_
+33	this	_	Word	Word	_	34	E	34:E	_
+34	tool	_	Word	Word	_	38	A	38:A|20:A|26:A	_
+35	had	_	Word	Word	_	38	F	38:F	_
+36	needed	_	Word	Word	_	38	D	38:D	_
+37	to	_	Word	Word	_	38	F	38:F	_
+38	withdraw	_	Word	Word	_	7	H	7:H	_
+39	itself	_	Word	Word	_	38	A	38:A	_
+40	by	_	Word	Word	_	43	R	43:R	_
+41	a	_	Word	Word	_	43	E	43:E	_
+42	backward	_	Word	Word	_	43	E	43:E	_
+43	motion	_	Word	Word	_	38	A	38:A	_
+44	truly	_	Word	Word	_	45	G	45:G	_
+45	inexplicable	_	Word	Word	_	43	E	43:E	_
+46	.	_	Punctuation	Punctuation	_	45	U	45:U	_
+

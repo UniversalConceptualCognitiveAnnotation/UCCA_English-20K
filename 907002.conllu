@@ -1,0 +1,33 @@
+# format = ucca
+# sent_id = 907002
+# text = " " Yes . . . indeed . . . maybe , " the Canadian replied , staggered by these figures but still not willing to give in .
+1	"	_	Punctuation	Punctuation	_	16	U	16:U	_
+2	"	_	Punctuation	Punctuation	_	16	U	16:U	_
+3	Yes	_	Word	Word	_	16	A	16:A	_
+4	.	_	Punctuation	Punctuation	_	3	U	3:U	_
+5	.	_	Punctuation	Punctuation	_	3	U	3:U	_
+6	.	_	Punctuation	Punctuation	_	3	U	3:U	_
+7	indeed	_	Word	Word	_	3	D	3:D	_
+8	.	_	Punctuation	Punctuation	_	3	U	3:U	_
+9	.	_	Punctuation	Punctuation	_	3	U	3:U	_
+10	.	_	Punctuation	Punctuation	_	3	U	3:U	_
+11	maybe	_	Word	Word	_	3	D	3:D	_
+12	,	_	Punctuation	Punctuation	_	16	U	16:U	_
+13	"	_	Punctuation	Punctuation	_	16	U	16:U	_
+14	the	_	Word	Word	_	15	E	15:E	_
+15	Canadian	_	Word	Word	_	16	A	16:A	_
+16	replied	_	Word	Word	_	0	H	0:H	_
+17	,	_	Punctuation	Punctuation	_	16	U	16:U	_
+18	staggered	_	Word	Word	_	15	E	15:E	_
+19	by	_	Word	Word	_	21	R	21:R	_
+20	these	_	Word	Word	_	21	E	21:E	_
+21	figures	_	Word	Word	_	18	A	18:A	_
+22	but	_	Word	Word	_	18	L	18:L	_
+23	still	_	Word	Word	_	27	D	27:D	_
+24	not	_	Word	Word	_	27	D	27:D	_
+25	willing	_	Word	Word	_	27	D	27:D	_
+26	to	_	Word	Word	_	27	F	27:F	_
+27	give	_	Word	Word	_	18	H	18:H	_
+28	in	_	Word	Word	_	27	Terminal	27:Terminal	_
+29	.	_	Punctuation	Punctuation	_	27	U	27:U	_
+
