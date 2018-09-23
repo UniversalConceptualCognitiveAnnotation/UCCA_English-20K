@@ -1,0 +1,32 @@
+# format = ucca
+# sent_id = 881001
+1	They	_	Word	Word	_	5	A	_	_
+1	They	_	Word	Word	_	11	A*	_	_
+1	They	_	Word	Word	_	20	A*	_	_
+2	could	_	Word	Word	_	4	D	_	_
+3	be	_	Word	Word	_	4	F	_	_
+4	heard	_	Word	Word	_	0	H	_	_
+5	chatting	_	Word	Word	_	4	A	_	_
+6	,	_	Punctuation	Punctuation	_	5	U	_	_
+7	discussing	_	Word	Word	_	5	C	_	_
+8	,	_	Punctuation	Punctuation	_	5	U	_	_
+9	arguing	_	Word	Word	_	5	C	_	_
+10	,	_	Punctuation	Punctuation	_	5	U	_	_
+11	calculating	_	Word	Word	_	5	H	_	_
+12	the	_	Word	Word	_	14	E	_	_
+13	different	_	Word	Word	_	14	E	_	_
+14	chances	_	Word	Word	_	11	A	_	_
+15	of	_	Word	Word	_	17	R	_	_
+16	an	_	Word	Word	_	17	E	_	_
+17	encounter	_	Word	Word	_	14	E	_	_
+18	,	_	Punctuation	Punctuation	_	5	U	_	_
+19	and	_	Word	Word	_	5	L	_	_
+20	observing	_	Word	Word	_	5	H	_	_
+21	the	_	Word	Word	_	23	E	_	_
+22	vast	_	Word	Word	_	23	E	_	_
+23	expanse	_	Word	Word	_	20	A	_	_
+24	of	_	Word	Word	_	26	R	_	_
+25	the	_	Word	Word	_	26	E	_	_
+26	ocean	_	Word	Word	_	23	E	_	_
+27	.	_	Punctuation	Punctuation	_	26	U	_	_
+

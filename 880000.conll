@@ -1,0 +1,19 @@
+# format = ucca
+# sent_id = 880000
+1	﻿	_	Punctuation	Punctuation	_	6	U	_	_
+2	Commander	_	Word	Word	_	3	E	_	_
+3	Farragut	_	Word	Word	_	0	C	_	_
+3	Farragut	_	Word	Word	_	9	A*	_	_
+4	was	_	Word	Word	_	6	F	_	_
+5	a	_	Word	Word	_	7	E	_	_
+6	good	_	Word	Word	_	0	H	_	_
+7	seaman	_	Word	Word	_	6	A	_	_
+8	,	_	Punctuation	Punctuation	_	6	U	_	_
+9	worthy	_	Word	Word	_	6	H	_	_
+10	of	_	Word	Word	_	12	R	_	_
+11	the	_	Word	Word	_	12	E	_	_
+12	frigate	_	Word	Word	_	9	A	_	_
+13	he	_	Word	Word	_	14	A	_	_
+14	commanded	_	Word	Word	_	12	E	_	_
+15	.	_	Punctuation	Punctuation	_	14	U	_	_
+

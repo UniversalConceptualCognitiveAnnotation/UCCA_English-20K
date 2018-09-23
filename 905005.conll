@@ -1,0 +1,31 @@
+# format = ucca
+# sent_id = 905005
+1	"	_	Punctuation	Punctuation	_	6	U	_	_
+2	"	_	Punctuation	Punctuation	_	6	U	_	_
+3	Yes	_	Word	Word	_	6	D	_	_
+4	,	_	Punctuation	Punctuation	_	6	U	_	_
+5	I	_	Word	Word	_	6	A	_	_
+6	see	_	Word	Word	_	10	A	_	_
+7	,	_	Punctuation	Punctuation	_	10	U	_	_
+8	"	_	Punctuation	Punctuation	_	10	U	_	_
+9	Ned	_	Word	Word	_	10	A	_	_
+10	replied	_	Word	Word	_	0	H	_	_
+11	,	_	Punctuation	Punctuation	_	10	U	_	_
+12	growing	_	Word	Word	_	14	D	_	_
+13	more	_	Word	Word	_	14	D	_	_
+14	interested	_	Word	Word	_	9	E	_	_
+15	.	_	Punctuation	Punctuation	_	10	U	_	_
+16	"	_	Punctuation	Punctuation	_	10	U	_	_
+17	Because	_	Word	Word	_	6	L	_	_
+18	the	_	Word	Word	_	19	E	_	_
+19	water	_	Word	Word	_	0	C	_	_
+19	water	_	Word	Word	_	25	A*	_	_
+20	surrounds	_	Word	Word	_	6	H	_	_
+21	me	_	Word	Word	_	20	A	_	_
+22	but	_	Word	Word	_	6	L	_	_
+23	does	_	Word	Word	_	25	F	_	_
+24	n't	_	Word	Word	_	25	D	_	_
+25	penetrate	_	Word	Word	_	6	H	_	_
+26	me	_	Word	Word	_	25	A	_	_
+27	.	_	Punctuation	Punctuation	_	25	U	_	_
+

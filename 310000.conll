@@ -1,0 +1,16 @@
+# format = ucca
+# sent_id = 310000
+1	My	_	Word	Word	_	2	E	_	_
+2	article	_	Word	Word	_	0	C	_	_
+2	article	_	Word	Word	_	7	A*	_	_
+3	was	_	Word	Word	_	5	F	_	_
+4	hotly	_	Word	Word	_	5	D	_	_
+5	debated	_	Word	Word	_	0	H	_	_
+6	,	_	Punctuation	Punctuation	_	5	U	_	_
+7	causing	_	Word	Word	_	5	H	_	_
+8	a	_	Word	Word	_	11	E	_	_
+9	fine	_	Word	Word	_	11	D	_	_
+10	old	_	Word	Word	_	9	Terminal	_	_
+11	uproar	_	Word	Word	_	7	A	_	_
+12	.	_	Punctuation	Punctuation	_	11	U	_	_
+

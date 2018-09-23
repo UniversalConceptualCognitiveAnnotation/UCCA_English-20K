@@ -1,0 +1,12 @@
+# format = ucca
+# sent_id = 820002
+1	But	_	Word	Word	_	8	L	_	_
+2	there	_	Word	Word	_	8	A	_	_
+3	his	_	Word	Word	_	4	E	_	_
+4	science	_	Word	Word	_	8	A	_	_
+5	came	_	Word	Word	_	8	D	_	_
+6	to	_	Word	Word	_	8	R	_	_
+7	a	_	Word	Word	_	8	E	_	_
+8	halt	_	Word	Word	_	0	H	_	_
+9	.	_	Punctuation	Punctuation	_	8	U	_	_
+

@@ -1,0 +1,19 @@
+# format = ucca
+# sent_id = 968000
+1	﻿	_	Punctuation	Punctuation	_	12	U	_	_
+2	For	_	Word	Word	_	4	R	_	_
+3	some	_	Word	Word	_	4	E	_	_
+4	while	_	Word	Word	_	12	T	_	_
+5	the	_	Word	Word	_	6	E	_	_
+6	voyage	_	Word	Word	_	12	A	_	_
+7	of	_	Word	Word	_	9	R	_	_
+8	the	_	Word	Word	_	9	E	_	_
+9	Abraham	_	Word	Word	_	6	A	_	_
+10	Lincoln	_	Word	Word	_	9	Terminal	_	_
+11	was	_	Word	Word	_	12	F	_	_
+12	marked	_	Word	Word	_	0	H	_	_
+13	by	_	Word	Word	_	15	R	_	_
+14	no	_	Word	Word	_	15	D	_	_
+15	incident	_	Word	Word	_	12	A	_	_
+16	.	_	Punctuation	Punctuation	_	15	U	_	_
+

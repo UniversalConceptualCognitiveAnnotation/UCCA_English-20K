@@ -1,0 +1,19 @@
+# format = ucca
+# sent_id = 57000
+1	At	_	Word	Word	_	2	R	_	_
+2	first	_	Word	Word	_	7	L	_	_
+3	the	_	Word	Word	_	4	E	_	_
+4	passengers	_	Word	Word	_	7	A	_	_
+5	were	_	Word	Word	_	7	F	_	_
+6	quite	_	Word	Word	_	7	D	_	_
+7	frightened	_	Word	Word	_	0	H	_	_
+8	,	_	Punctuation	Punctuation	_	7	U	_	_
+9	but	_	Word	Word	_	7	L	_	_
+10	Captain	_	Word	Word	_	11	E	_	_
+11	Anderson	_	Word	Word	_	14	A	_	_
+12	hastened	_	Word	Word	_	14	D	_	_
+13	to	_	Word	Word	_	14	F	_	_
+14	reassure	_	Word	Word	_	7	H	_	_
+15	them	_	Word	Word	_	14	A	_	_
+16	.	_	Punctuation	Punctuation	_	14	U	_	_
+
