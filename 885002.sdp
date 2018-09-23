@@ -1,0 +1,12 @@
+# format = ucca
+1	It	_	Word	-	-	_	A	_	_	_
+2	had	_	Word	-	+	_	_	_	_	_
+3	Ned	_	Word	-	+	_	A	_	_	_
+4	Land	_	Word	-	-	_	_	Terminal	_	_
+5	,	_	Punctuation	-	-	_	_	U	_	_
+6	the	_	Word	-	-	_	_	_	E	_
+7	King	_	Word	-	+	_	_	E	_	_
+8	of	_	Word	-	-	_	_	_	_	R
+9	Harpooners	_	Word	-	+	_	_	_	E	_
+10	.	_	Punctuation	-	-	_	_	_	_	U
+

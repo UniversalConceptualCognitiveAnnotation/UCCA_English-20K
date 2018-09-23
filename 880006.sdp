@@ -1,0 +1,35 @@
+# format = ucca
+1	The	_	Word	-	-	_	E	_	_	_	_	_	_	_	_	_	_	_
+2	man	_	Word	-	+	_	_	_	_	_	_	_	_	A*	_	_	_	_
+3	was	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_
+4	a	_	Word	-	-	_	_	_	E	_	_	_	_	_	_	_	_	_
+5	sort	_	Word	-	+	_	_	_	_	E	_	_	_	_	_	_	_	_
+6	of	_	Word	-	-	_	_	_	R	_	_	_	_	_	_	_	_	_
+7	Knight	_	Word	-	+	_	_	A	_	_	_	_	_	_	_	_	_	_
+8	of	_	Word	-	-	_	_	_	_	Terminal	_	_	_	_	_	_	_	_
+9	Rhodes	_	Word	-	-	_	_	_	_	Terminal	_	_	_	_	_	_	_	_
+10	,	_	Punctuation	-	-	_	_	_	_	U	_	_	_	_	_	_	_	_
+11	a	_	Word	-	-	_	_	_	_	_	_	E	_	_	_	_	_	_
+12	latter	_	Word	-	+	_	_	_	_	_	_	E	_	_	_	_	_	_
+13	-	_	Punctuation	-	-	_	_	_	_	_	U	_	_	_	_	_	_	_
+14	day	_	Word	-	-	_	_	_	_	_	Terminal	_	_	_	_	_	_	_
+15	Sir	_	Word	-	+	_	_	_	_	C	_	_	_	_	_	_	_	_
+16	Dieudonné	_	Word	-	-	_	_	_	_	_	_	Terminal	_	_	_	_	_	_
+17	of	_	Word	-	-	_	_	_	_	_	_	Terminal	_	_	_	_	_	_
+18	Gozo	_	Word	-	-	_	_	_	_	_	_	Terminal	_	_	_	_	_	_
+19	,	_	Punctuation	-	-	_	_	U	_	_	_	_	_	_	_	_	_	_
+20	on	_	Word	-	-	_	_	_	_	_	_	_	R	_	_	_	_	_
+21	his	_	Word	-	-	_	_	_	_	_	_	_	E	_	_	_	_	_
+22	way	_	Word	-	+	_	_	_	_	_	_	_	_	D	_	_	_	_
+23	to	_	Word	-	-	_	_	_	_	_	_	_	_	F	_	_	_	_
+24	fight	_	Word	-	+	_	_	H	_	_	_	_	_	_	_	_	_	_
+25	an	_	Word	-	-	_	_	_	_	_	_	_	_	_	E	_	_	_
+26	encounter	_	Word	-	+	_	_	_	_	_	_	_	_	A	_	_	_	_
+27	with	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	R	_	_
+28	the	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	E	_	_
+29	dragon	_	Word	-	+	_	_	_	_	_	_	_	_	_	A	_	_	_
+30	devastating	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	E	_	_
+31	the	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	E
+32	island	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	A	_
+33	.	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	_	_	_	U
+

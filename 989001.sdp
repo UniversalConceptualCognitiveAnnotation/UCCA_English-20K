@@ -1,0 +1,15 @@
+# format = ucca
+1	It	_	Word	-	-	_	A	_	_	_
+2	had	_	Word	-	-	_	F	_	_	_
+3	the	_	Word	-	-	_	E	_	_	_
+4	immediate	_	Word	-	-	_	T	_	_	_
+5	effect	_	Word	-	+	_	_	_	_	_
+6	of	_	Word	-	-	_	_	R	_	_
+7	reviving	_	Word	-	+	_	A	_	_	_
+8	the	_	Word	-	-	_	_	_	E	_
+9	crew	_	Word	-	+	_	_	_	_	E
+10	's	_	Word	-	-	_	_	_	R	_
+11	failing	_	Word	-	-	_	_	_	_	E
+12	spirits	_	Word	-	+	_	_	A	_	_
+13	.	_	Punctuation	-	-	_	_	_	_	U
+
