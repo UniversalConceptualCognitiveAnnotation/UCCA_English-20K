@@ -1,13 +1,13 @@
 # format = ucca
 # sent_id = 904007
 # text = Which is tantamount to saying that if you could reach such a depth in the ocean , each square centimeter on your body 's surface would be experiencing 1,000 kilograms of pressure .
-1	Which	_	Word	Word	_	5	L	5:L	_
+1	Which	_	Word	Word	_	10	L	10:L	_
 2	is	_	Word	Word	_	5	F	5:F	_
 3	tantamount	_	Word	Word	_	5	D	5:D	_
 4	to	_	Word	Word	_	5	F	5:F	_
 5	saying	_	Word	Word	_	0	H	0:H	_
-6	that	_	Word	Word	_	5	L	5:L	_
-7	if	_	Word	Word	_	5	L	5:L	_
+6	that	_	Word	Word	_	10	L	10:L	_
+7	if	_	Word	Word	_	10	L	10:L	_
 8	you	_	Word	Word	_	10	A	10:A	_
 9	could	_	Word	Word	_	10	D	10:D	_
 10	reach	_	Word	Word	_	5	H	5:H	_

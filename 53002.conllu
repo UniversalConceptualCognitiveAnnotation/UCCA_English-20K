@@ -13,7 +13,7 @@
 10	2,000	_	Word	Word	_	12	D	12:D	_
 11	Atlantic	_	Word	Word	_	12	D	12:D	_
 12	crossings	_	Word	Word	_	0	H	0:H	_
-13	without	_	Word	Word	_	12	L	12:L|19:D|23:D	_
+13	without	_	Word	Word	_	19	L	19:L|19:D|23:D	_
 14	so	_	Word	Word	_	19	F	19:F	_
 15	much	_	Word	Word	_	14	Terminal	14:Terminal	_
 16	as	_	Word	Word	_	14	Terminal	14:Terminal	_

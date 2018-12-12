@@ -2,7 +2,7 @@
 # sent_id = 996000
 # text = " If master will permit my saying so , " Conseil replied , " I never expected to win that prize , and the Union government could have promised $ 100,000.00 and been none the poorer . "
 1	"	_	Punctuation	Punctuation	_	5	U	5:U	_
-2	If	_	Word	Word	_	5	L	5:L	_
+2	If	_	Word	Word	_	19	L	19:L	_
 3	master	_	Word	Word	_	5	G	5:G	_
 4	will	_	Word	Word	_	5	D	5:D	_
 5	permit	_	Word	Word	_	12	A	12:A	_
@@ -23,7 +23,7 @@
 20	that	_	Word	Word	_	21	E	21:E	_
 21	prize	_	Word	Word	_	19	A	19:A	_
 22	,	_	Punctuation	Punctuation	_	5	U	5:U	_
-23	and	_	Word	Word	_	5	L	5:L	_
+23	and	_	Word	Word	_	29	L	29:L	_
 24	the	_	Word	Word	_	26	E	26:E	_
 25	Union	_	Word	Word	_	26	E	26:E	_
 26	government	_	Word	Word	_	29	A	29:A	_
@@ -32,7 +32,7 @@
 29	promised	_	Word	Word	_	5	H	5:H	_
 30	$	_	Punctuation	Punctuation	_	29	U	29:U	_
 31	100,000.00	_	Word	Word	_	29	A	29:A	_
-32	and	_	Word	Word	_	5	L	5:L	_
+32	and	_	Word	Word	_	36	L	36:L	_
 33	been	_	Word	Word	_	36	F	36:F	_
 34	none	_	Word	Word	_	36	D	36:D	_
 35	the	_	Word	Word	_	36	E	36:E	_

@@ -15,11 +15,11 @@
 12	this	_	Word	Word	_	13	E	13:E	_
 13	phenomenon	_	Word	Word	_	10	E	10:E	_
 14	,	_	Punctuation	Punctuation	_	2	U	2:U	_
-15	and	_	Word	Word	_	2	L	2:L	_
+15	and	_	Word	Word	_	18	L	18:L	_
 16	the	_	Word	Word	_	17	E	17:E	_
 17	public	_	Word	Word	_	0	C	0:C|20:A	_
 18	accepted	_	Word	Word	_	2	H	2:H	_
-19	without	_	Word	Word	_	2	L	2:L	_
+19	without	_	Word	Word	_	20	L	20:L	_
 20	argument	_	Word	Word	_	2	H	2:H	_
 21	the	_	Word	Word	_	22	E	22:E	_
 22	existence	_	Word	Word	_	18	A	18:A	_

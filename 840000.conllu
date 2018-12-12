@@ -1,7 +1,7 @@
 # format = ucca
 # sent_id = 840000
 # text = But Commander Farragut did n't want to waste a single day , or even a single hour , in making for those seas where the animal had just been sighted .
-1	But	_	Word	Word	_	8	L	8:L	_
+1	But	_	Word	Word	_	20	L	20:L	_
 2	Commander	_	Word	Word	_	3	E	3:E	_
 3	Farragut	_	Word	Word	_	0	C	0:C|20:A	_
 4	did	_	Word	Word	_	8	F	8:F	_

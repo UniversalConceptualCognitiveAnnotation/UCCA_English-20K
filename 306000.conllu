@@ -14,7 +14,7 @@
 11	ten	_	Word	Word	_	12	E	12:E	_
 12	times	_	Word	Word	_	13	D	13:D	_
 13	stronger	_	Word	Word	_	6	A	6:A	_
-14	and	_	Word	Word	_	6	L	6:L	_
+14	and	_	Word	Word	_	20	L	20:L	_
 15	the	_	Word	Word	_	16	E	16:E	_
 16	animal	_	Word	Word	_	20	A	20:A	_
 17	ten	_	Word	Word	_	18	E	18:E	_
@@ -40,7 +40,7 @@
 37	its	_	Word	Word	_	38	E	38:E	_
 38	velocity	_	Word	Word	_	35	C	35:C	_
 39	,	_	Punctuation	Punctuation	_	6	U	6:U	_
-40	and	_	Word	Word	_	6	L	6:L	_
+40	and	_	Word	Word	_	42	L	42:L	_
 41	you	_	Word	Word	_	42	A	42:A	_
 42	get	_	Word	Word	_	6	H	6:H	_
 43	just	_	Word	Word	_	42	D	42:D	_

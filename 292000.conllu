@@ -12,7 +12,7 @@
 9	of	_	Word	Word	_	10	R	10:R	_
 10	destruction	_	Word	Word	_	8	E	8:E	_
 11	,	_	Punctuation	Punctuation	_	5	U	5:U	_
-12	and	_	Word	Word	_	5	L	5:L	_
+12	and	_	Word	Word	_	22	L	22:L	_
 13	in	_	Word	Word	_	17	R	17:R	_
 14	these	_	Word	Word	_	18	E	18:E	_
 15	disaster	_	Word	Word	_	17	E	17:E	_
@@ -20,7 +20,7 @@
 17	filled	_	Word	Word	_	34	A	34:A	_
 18	times	_	Word	Word	_	17	A	17:A	_
 19	,	_	Punctuation	Punctuation	_	5	U	5:U	_
-20	when	_	Word	Word	_	5	L	5:L	_
+20	when	_	Word	Word	_	22	L	22:L	_
 21	men	_	Word	Word	_	22	A	22:A	_
 22	tax	_	Word	Word	_	5	H	5:H	_
 23	their	_	Word	Word	_	24	E	24:E	_

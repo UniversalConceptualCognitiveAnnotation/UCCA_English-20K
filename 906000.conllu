@@ -10,7 +10,7 @@
 7	fine	_	Word	Word	_	6	Terminal	6:Terminal	_
 8	harpooner	_	Word	Word	_	6	Terminal	6:Terminal	_
 9	,	_	Punctuation	Punctuation	_	20	U	20:U	_
-10	if	_	Word	Word	_	20	L	20:L	_
+10	if	_	Word	Word	_	28	L	28:L	_
 11	vertebrates	_	Word	Word	_	20	A	20:A	_
 12	several	_	Word	Word	_	13	E	13:E	_
 13	hundred	_	Word	Word	_	14	E	14:E	_
@@ -35,7 +35,7 @@
 32	square	_	Word	Word	_	33	E	33:E	_
 33	centimeters	_	Word	Word	_	28	A	28:A	_
 34	,	_	Punctuation	Punctuation	_	20	U	20:U	_
-35	and	_	Word	Word	_	20	L	20:L	_
+35	and	_	Word	Word	_	42	L	42:L	_
 36	the	_	Word	Word	_	37	E	37:E	_
 37	pressure	_	Word	Word	_	42	A	42:A	_
 38	they	_	Word	Word	_	39	A	39:A	_
@@ -50,7 +50,7 @@
 47	.	_	Punctuation	Punctuation	_	20	U	20:U	_
 48	Calculate	_	Word	Word	_	20	H	20:H	_
 49	,	_	Punctuation	Punctuation	_	20	U	20:U	_
-50	then	_	Word	Word	_	20	L	20:L	_
+50	then	_	Word	Word	_	68	L	68:L	_
 51	,	_	Punctuation	Punctuation	_	20	U	20:U	_
 52	how	_	Word	Word	_	54	E	54:E	_
 53	much	_	Word	Word	_	52	Terminal	52:Terminal	_
@@ -65,7 +65,7 @@
 62	they	_	Word	Word	_	64	A	64:A|68:A	_
 63	'd	_	Word	Word	_	64	D	64:D	_
 64	need	_	Word	Word	_	48	A	48:A	_
-65	in	_	Word	Word	_	20	L	20:L	_
+65	in	_	Word	Word	_	68	L	68:L	_
 66	order	_	Word	Word	_	65	Terminal	65:Terminal	_
 67	to	_	Word	Word	_	65	Terminal	65:Terminal	_
 68	withstand	_	Word	Word	_	20	H	20:H	_

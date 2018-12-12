@@ -14,7 +14,7 @@
 11	at	_	Word	Word	_	12	R	12:R	_
 12	once	_	Word	Word	_	9	D	9:D	_
 13	,	_	Punctuation	Punctuation	_	9	U	9:U	_
-14	and	_	Word	Word	_	9	L	9:L	_
+14	and	_	Word	Word	_	21	L	21:L	_
 15	each	_	Word	Word	_	16	E	16:E	_
 16	man	_	Word	Word	_	0	C	0:C|25:A|30:A	_
 17	now	_	Word	Word	_	21	T	21:T	_

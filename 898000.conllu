@@ -41,7 +41,7 @@
 38	's	_	Word	Word	_	37	R	37:R	_
 39	core	_	Word	Word	_	34	A	34:A	_
 40	,	_	Punctuation	Punctuation	_	8	U	8:U	_
-41	but	_	Word	Word	_	8	L	8:L	_
+41	but	_	Word	Word	_	47	L	47:L	_
 42	astronomers	_	Word	Word	_	47	A	47:A	_
 43	and	_	Word	Word	_	42	N	42:N	_
 44	geologists	_	Word	Word	_	42	C	42:C	_
@@ -78,7 +78,7 @@
 75	killed	_	Word	Word	_	8	H	8:H	_
 76	several	_	Word	Word	_	75	A	75:A	_
 77	.	_	Punctuation	Punctuation	_	8	U	8:U	_
-78	But	_	Word	Word	_	8	L	8:L	_
+78	But	_	Word	Word	_	82	L	82:L	_
 79	no	_	Word	Word	_	82	D	82:D	_
 80	matter	_	Word	Word	_	79	Terminal	79:Terminal	_
 81	how	_	Word	Word	_	82	D	82:D	_

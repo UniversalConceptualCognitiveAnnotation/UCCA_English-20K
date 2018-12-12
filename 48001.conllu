@@ -1,7 +1,7 @@
 # format = ucca
 # sent_id = 48001
 # text = But now it was no longer an issue of a scientific problem to be solved , but a quite real and serious danger to be avoided .
-1	But	_	Word	Word	_	8	L	8:L	_
+1	But	_	Word	Word	_	26	L	26:L	_
 2	now	_	Word	Word	_	8	T	8:T	_
 3	it	_	Word	Word	_	8	A	8:A|26:A	_
 4	was	_	Word	Word	_	8	F	8:F|26:S	_
@@ -17,7 +17,7 @@
 14	be	_	Word	Word	_	15	F	15:F	_
 15	solved	_	Word	Word	_	8	A	8:A	_
 16	,	_	Punctuation	Punctuation	_	8	U	8:U	_
-17	but	_	Word	Word	_	8	L	8:L	_
+17	but	_	Word	Word	_	26	L	26:L	_
 18	a	_	Word	Word	_	23	E	23:E	_
 19	quite	_	Word	Word	_	20	E	20:E|22:E	_
 20	real	_	Word	Word	_	23	E	23:E	_

@@ -13,7 +13,7 @@
 10	out	_	Word	Word	_	6	Terminal	6:Terminal	_
 11	fools	_	Word	Word	_	3	A	3:A	_
 12	"	_	Punctuation	Punctuation	_	3	U	3:U	_
-13	for	_	Word	Word	_	3	L	3:L	_
+13	for	_	Word	Word	_	15	L	15:L	_
 14	being	_	Word	Word	_	15	F	15:F	_
 15	hoodwinked	_	Word	Word	_	3	H	3:H	_
 16	by	_	Word	Word	_	18	R	18:R	_
@@ -21,7 +21,7 @@
 18	fairy	_	Word	Word	_	15	A	15:A	_
 19	tale	_	Word	Word	_	18	Terminal	18:Terminal	_
 20	,	_	Punctuation	Punctuation	_	3	U	3:U	_
-21	then	_	Word	Word	_	3	L	3:L	_
+21	then	_	Word	Word	_	25	L	25:L	_
 22	grew	_	Word	Word	_	25	D	25:D	_
 23	steadily	_	Word	Word	_	25	D	25:D	_
 24	more	_	Word	Word	_	25	D	25:D	_

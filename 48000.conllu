@@ -17,7 +17,7 @@
 14	be	_	Word	Word	_	15	F	15:F	_
 15	buried	_	Word	Word	_	0	H	0:H	_
 16	,	_	Punctuation	Punctuation	_	15	U	15:U	_
-17	and	_	Word	Word	_	15	L	15:L	_
+17	and	_	Word	Word	_	22	L	22:L	_
 18	it	_	Word	Word	_	22	A	22:A|24:A	_
 19	did	_	Word	Word	_	22	F	22:F	_
 20	n't	_	Word	Word	_	22	D	22:D	_
@@ -26,7 +26,7 @@
 23	for	_	Word	Word	_	24	R	24:R	_
 24	resurrection	_	Word	Word	_	22	A	22:A	_
 25	,	_	Punctuation	Punctuation	_	15	U	15:U	_
-26	when	_	Word	Word	_	15	L	15:L	_
+26	when	_	Word	Word	_	30	L	30:L	_
 27	new	_	Word	Word	_	28	E	28:E	_
 28	facts	_	Word	Word	_	30	A	30:A	_
 29	were	_	Word	Word	_	30	F	30:F	_

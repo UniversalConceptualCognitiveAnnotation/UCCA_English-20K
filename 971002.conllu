@@ -1,7 +1,7 @@
 # format = ucca
 # sent_id = 971002
 # text = But Commander Farragut was unwilling to attempt this tortuous passageway and maneuvered instead to double Cape Horn .
-1	But	_	Word	Word	_	7	L	7:L	_
+1	But	_	Word	Word	_	12	L	12:L	_
 2	Commander	_	Word	Word	_	3	E	3:E	_
 3	Farragut	_	Word	Word	_	7	A	7:A	_
 4	was	_	Word	Word	_	7	F	7:F	_
@@ -11,7 +11,7 @@
 8	this	_	Word	Word	_	10	E	10:E	_
 9	tortuous	_	Word	Word	_	10	E	10:E	_
 10	passageway	_	Word	Word	_	7	A	7:A	_
-11	and	_	Word	Word	_	7	L	7:L	_
+11	and	_	Word	Word	_	12	L	12:L	_
 12	maneuvered	_	Word	Word	_	7	H	7:H	_
 13	instead	_	Word	Word	_	12	D	12:D	_
 14	to	_	Word	Word	_	15	F	15:F	_

@@ -10,7 +10,7 @@
 7	to	_	Word	Word	_	8	F	8:F	_
 8	speak	_	Word	Word	_	0	H	0:H	_
 9	,	_	Punctuation	Punctuation	_	8	U	8:U	_
-10	and	_	Word	Word	_	8	L	8:L	_
+10	and	_	Word	Word	_	14	L	14:L	_
 11	for	_	Word	Word	_	12	R	12:R	_
 12	me	_	Word	Word	_	14	A	14:A	_
 13	to	_	Word	Word	_	14	F	14:F	_

@@ -1,9 +1,9 @@
 # format = ucca
 # sent_id = 294000
 # text = So , after inquiries conducted in England , France , Russia , Prussia , Spain , Italy , America , and even Turkey , the hypothesis of an underwater Monitor was ultimately rejected .
-1	So	_	Word	Word	_	5	L	5:L	_
+1	So	_	Word	Word	_	33	L	33:L	_
 2	,	_	Punctuation	Punctuation	_	5	U	5:U	_
-3	after	_	Word	Word	_	5	L	5:L	_
+3	after	_	Word	Word	_	33	L	33:L	_
 4	inquiries	_	Word	Word	_	5	A	5:A	_
 5	conducted	_	Word	Word	_	0	H	0:H	_
 6	in	_	Word	Word	_	7	R	7:R|9:R|11:R|13:R|15:R|17:R|19:R|23:R	_

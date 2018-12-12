@@ -6,11 +6,11 @@
 3	inexplicable	_	Word	Word	_	4	E	4:E	_
 4	phenomenon	_	Word	Word	_	7	A	7:A	_
 5	is	_	Word	Word	_	7	F	7:F	_
-6	thus	_	Word	Word	_	7	L	7:L	_
+6	thus	_	Word	Word	_	12	L	12:L	_
 7	explained	_	Word	Word	_	0	H	0:H	_
 8	away	_	Word	Word	_	7	Terminal	7:Terminal	_
 9	-	_	Punctuation	Punctuation	_	7	U	7:U	_
-10	unless	_	Word	Word	_	7	L	7:L	_
+10	unless	_	Word	Word	_	12	L	12:L	_
 11	it	_	Word	Word	_	12	A	12:A	_
 12	's	_	Word	Word	_	7	H	7:H	_
 13	something	_	Word	Word	_	12	A	12:A	_
@@ -19,7 +19,7 @@
 16	,	_	Punctuation	Punctuation	_	7	U	7:U	_
 17	which	_	Word	Word	_	34	A	34:A	_
 18	,	_	Punctuation	Punctuation	_	7	U	7:U	_
-19	despite	_	Word	Word	_	7	L	7:L	_
+19	despite	_	Word	Word	_	24	L	24:L	_
 20	everything	_	Word	Word	_	24	A	24:A	_
 21	that	_	Word	Word	_	24	F	24:F	_
 22	has	_	Word	Word	_	24	F	24:F	_

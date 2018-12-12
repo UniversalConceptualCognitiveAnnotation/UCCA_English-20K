@@ -1,7 +1,7 @@
 # format = ucca
 # sent_id = 969001
 # text = But one of them , the captain of the Monroe , knew that Ned Land had shipped aboard the Abraham Lincoln and asked his help in hunting a baleen whale that was in sight .
-1	But	_	Word	Word	_	12	L	12:L	_
+1	But	_	Word	Word	_	23	L	23:L	_
 2	one	_	Word	Word	_	0	C	0:C|23:A	_
 3	of	_	Word	Word	_	4	R	4:R	_
 4	them	_	Word	Word	_	2	E	2:E	_
@@ -22,7 +22,7 @@
 19	the	_	Word	Word	_	20	E	20:E	_
 20	Abraham	_	Word	Word	_	17	A	17:A	_
 21	Lincoln	_	Word	Word	_	20	Terminal	20:Terminal	_
-22	and	_	Word	Word	_	12	L	12:L	_
+22	and	_	Word	Word	_	23	L	23:L	_
 23	asked	_	Word	Word	_	12	H	12:H	_
 24	his	_	Word	Word	_	25	E	25:E	_
 25	help	_	Word	Word	_	23	A	23:A	_

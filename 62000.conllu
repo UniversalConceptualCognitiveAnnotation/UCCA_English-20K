@@ -1,7 +1,7 @@
 # format = ucca
 # sent_id = 62000
 # text = Now then , justly or unjustly , it was the " monster " who stood accused of their disappearance ; and since , thanks to it , travel between the various continents had become more and more dangerous , the public spoke up and demanded straight out that , at all cost , the seas be purged of this fearsome cetacean .
-1	Now	_	Word	Word	_	15	L	15:L	_
+1	Now	_	Word	Word	_	38	L	38:L	_
 2	then	_	Word	Word	_	1	Terminal	1:Terminal	_
 3	,	_	Punctuation	Punctuation	_	15	U	15:U	_
 4	justly	_	Word	Word	_	15	G	15:G	_
@@ -21,7 +21,7 @@
 18	their	_	Word	Word	_	19	E	19:E	_
 19	disappearance	_	Word	Word	_	15	A	15:A	_
 20	;	_	Punctuation	Punctuation	_	15	U	15:U	_
-21	and	_	Word	Word	_	15	L	15:L	_
+21	and	_	Word	Word	_	38	L	38:L	_
 22	since	_	Word	Word	_	21	Terminal	21:Terminal	_
 23	,	_	Punctuation	Punctuation	_	15	U	15:U	_
 24	thanks	_	Word	Word	_	38	G	38:G	_
@@ -44,7 +44,7 @@
 41	public	_	Word	Word	_	0	C	0:C|45:A	_
 42	spoke	_	Word	Word	_	15	H	15:H	_
 43	up	_	Word	Word	_	42	Terminal	42:Terminal	_
-44	and	_	Word	Word	_	15	L	15:L	_
+44	and	_	Word	Word	_	45	L	45:L	_
 45	demanded	_	Word	Word	_	15	H	15:H	_
 46	straight	_	Word	Word	_	45	D	45:D	_
 47	out	_	Word	Word	_	46	Terminal	46:Terminal	_

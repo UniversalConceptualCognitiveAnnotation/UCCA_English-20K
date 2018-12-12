@@ -13,7 +13,7 @@
 10	replied	_	Word	Word	_	0	H	0:H	_
 11	.	_	Punctuation	Punctuation	_	10	U	10:U	_
 12	"	_	Punctuation	Punctuation	_	10	U	10:U	_
-13	But	_	Word	Word	_	4	L	4:L	_
+13	But	_	Word	Word	_	17	L	17:L	_
 14	I	_	Word	Word	_	17	A	17:A	_
 15	've	_	Word	Word	_	17	F	17:F	_
 16	never	_	Word	Word	_	17	T	17:T	_
@@ -21,8 +21,8 @@
 18	the	_	Word	Word	_	17	A	17:A	_
 19	like	_	Word	Word	_	18	Terminal	18:Terminal	_
 20	.	_	Punctuation	Punctuation	_	4	U	4:U	_
-21	So	_	Word	Word	_	4	L	4:L	_
-22	till	_	Word	Word	_	4	L	4:L	_
+21	So	_	Word	Word	_	24	L	24:L	_
+22	till	_	Word	Word	_	24	L	24:L	_
 23	I	_	Word	Word	_	24	A	24:A	_
 24	have	_	Word	Word	_	4	H	4:H	_
 25	proof	_	Word	Word	_	24	A	24:A	_

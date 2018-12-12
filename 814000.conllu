@@ -2,7 +2,7 @@
 # sent_id = 814000
 # text = Three seconds before the arrival of J . B . Hobson 's letter , I no more dreamed of chasing the unicorn than of trying for the Northwest Passage .
 1	Three	_	Word	Word	_	2	E	2:E	_
-2	seconds	_	Word	Word	_	5	L	5:L	_
+2	seconds	_	Word	Word	_	18	L	18:L	_
 3	before	_	Word	Word	_	2	R	2:R	_
 4	the	_	Word	Word	_	5	E	5:E	_
 5	arrival	_	Word	Word	_	0	H	0:H	_

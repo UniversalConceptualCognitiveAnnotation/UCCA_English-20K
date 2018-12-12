@@ -2,7 +2,7 @@
 # sent_id = 816000
 # text = " Besides , " I mused , " all roads lead home to Europe , and our unicorn may be gracious enough to take me toward the coast of France ! That fine animal may even let itself be captured in European seas - as a personal favor to me - and I 'll bring back to the Museum of Natural History at least half a meter of its ivory lance ! "
 1	"	_	Punctuation	Punctuation	_	11	U	11:U	_
-2	Besides	_	Word	Word	_	11	L	11:L	_
+2	Besides	_	Word	Word	_	21	L	21:L	_
 3	,	_	Punctuation	Punctuation	_	6	U	6:U	_
 4	"	_	Punctuation	Punctuation	_	6	U	6:U	_
 5	I	_	Word	Word	_	6	A	6:A	_
@@ -16,7 +16,7 @@
 13	to	_	Word	Word	_	14	R	14:R	_
 14	Europe	_	Word	Word	_	11	A	11:A	_
 15	,	_	Punctuation	Punctuation	_	11	U	11:U	_
-16	and	_	Word	Word	_	11	L	11:L	_
+16	and	_	Word	Word	_	21	L	21:L	_
 17	our	_	Word	Word	_	18	E	18:E	_
 18	unicorn	_	Word	Word	_	21	A	21:A	_
 19	may	_	Word	Word	_	21	D	21:D	_
@@ -52,7 +52,7 @@
 49	to	_	Word	Word	_	45	Terminal	45:Terminal	_
 50	me	_	Word	Word	_	45	Terminal	45:Terminal	_
 51	-	_	Punctuation	Punctuation	_	11	U	11:U	_
-52	and	_	Word	Word	_	11	L	11:L	_
+52	and	_	Word	Word	_	55	L	55:L	_
 53	I	_	Word	Word	_	55	A	55:A	_
 54	'll	_	Word	Word	_	55	D	55:D	_
 55	bring	_	Word	Word	_	11	H	11:H	_

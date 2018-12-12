@@ -17,8 +17,8 @@
 14	Professor	_	Word	Word	_	10	G	10:G	_
 15	Aronnax	_	Word	Word	_	14	Terminal	14:Terminal	_
 16	,	_	Punctuation	Punctuation	_	2	U	2:U	_
-17	and	_	Word	Word	_	2	L	2:L	_
-18	if	_	Word	Word	_	2	L	2:L	_
+17	and	_	Word	Word	_	19	L	19:L	_
+18	if	_	Word	Word	_	19	L	19:L	_
 19	there	_	Word	Word	_	2	H	2:H	_
 20	is	_	Word	Word	_	19	Terminal	19:Terminal	_
 21	some	_	Word	Word	_	22	E	22:E	_
@@ -68,7 +68,7 @@
 65	believe	_	Word	Word	_	2	H	2:H	_
 66	it	_	Word	Word	_	65	A	65:A	_
 67	,	_	Punctuation	Punctuation	_	2	U	2:U	_
-68	but	_	Word	Word	_	2	L	2:L	_
+68	but	_	Word	Word	_	73	L	73:L	_
 69	two	_	Word	Word	_	70	E	70:E	_
 70	months	_	Word	Word	_	73	T	73:T	_
 71	have	_	Word	Word	_	73	F	73:F	_
@@ -78,7 +78,7 @@
 75	since	_	Word	Word	_	76	R	76:R	_
 76	then	_	Word	Word	_	73	D	73:D	_
 77	,	_	Punctuation	Punctuation	_	2	U	2:U	_
-78	and	_	Word	Word	_	2	L	2:L	_
+78	and	_	Word	Word	_	79	L	79:L	_
 79	judging	_	Word	Word	_	2	H	2:H	_
 80	by	_	Word	Word	_	84	R	84:R	_
 81	your	_	Word	Word	_	82	E	82:E	_
@@ -90,7 +90,7 @@
 87	hates	_	Word	Word	_	2	H	2:H	_
 88	growing	_	Word	Word	_	89	D	89:D	_
 89	moldy	_	Word	Word	_	87	A	87:A	_
-90	from	_	Word	Word	_	2	L	2:L	_
+90	from	_	Word	Word	_	91	L	91:L	_
 91	hanging	_	Word	Word	_	2	H	2:H	_
 92	out	_	Word	Word	_	91	Terminal	91:Terminal	_
 93	too	_	Word	Word	_	94	E	94:E	_
@@ -111,7 +111,7 @@
 108	getting	_	Word	Word	_	106	E	106:E	_
 109	around	_	Word	Word	_	108	Terminal	108:Terminal	_
 110	.	_	Punctuation	Punctuation	_	2	U	2:U	_
-111	Now	_	Word	Word	_	2	L	2:L	_
+111	Now	_	Word	Word	_	116	L	116:L	_
 112	,	_	Punctuation	Punctuation	_	2	U	2:U	_
 113	professor	_	Word	Word	_	116	G	116:G	_
 114	,	_	Punctuation	Punctuation	_	116	U	116:U	_
@@ -129,7 +129,7 @@
 126	good	_	Word	Word	_	127	E	127:E	_
 127	sense	_	Word	Word	_	125	A	125:A	_
 128	,	_	Punctuation	Punctuation	_	2	U	2:U	_
-129	and	_	Word	Word	_	2	L	2:L	_
+129	and	_	Word	Word	_	133	L	133:L	_
 130	she	_	Word	Word	_	133	A	133:A	_
 131	would	_	Word	Word	_	133	F	133:F	_
 132	n't	_	Word	Word	_	133	D	133:D	_
@@ -143,7 +143,7 @@
 140	to	_	Word	Word	_	141	F	141:F	_
 141	move	_	Word	Word	_	139	E	139:E	_
 142	swiftly	_	Word	Word	_	141	D	141:D	_
-143	if	_	Word	Word	_	2	L	2:L	_
+143	if	_	Word	Word	_	148	L	148:L	_
 144	it	_	Word	Word	_	148	A	148:A|150:A	_
 145	had	_	Word	Word	_	148	F	148:F	_
 146	n't	_	Word	Word	_	148	D	148:D	_
@@ -154,8 +154,8 @@
 151	that	_	Word	Word	_	152	E	152:E	_
 152	talent	_	Word	Word	_	150	A	150:A	_
 153	.	_	Punctuation	Punctuation	_	2	U	2:U	_
-154	So	_	Word	Word	_	2	L	2:L	_
-155	if	_	Word	Word	_	2	L	2:L	_
+154	So	_	Word	Word	_	159	L	159:L	_
+155	if	_	Word	Word	_	159	L	159:L	_
 156	the	_	Word	Word	_	157	E	157:E	_
 157	beast	_	Word	Word	_	159	A	159:A	_
 158	does	_	Word	Word	_	159	F	159:F	_

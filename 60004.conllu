@@ -1,7 +1,7 @@
 # format = ucca
 # sent_id = 60004
 # text = Consequently , it must have been produced by a perforating tool of uncommon toughness - plus , after being launched with prodigious power and then piercing four centimeters of sheet iron , this tool had needed to withdraw itself by a backward motion truly inexplicable .
-1	Consequently	_	Word	Word	_	7	L	7:L	_
+1	Consequently	_	Word	Word	_	20	L	20:L	_
 2	,	_	Punctuation	Punctuation	_	7	U	7:U	_
 3	it	_	Word	Word	_	7	A	7:A	_
 4	must	_	Word	Word	_	7	D	7:D	_
@@ -16,16 +16,16 @@
 13	uncommon	_	Word	Word	_	14	D	14:D	_
 14	toughness	_	Word	Word	_	11	E	11:E	_
 15	-	_	Punctuation	Punctuation	_	7	U	7:U	_
-16	plus	_	Word	Word	_	7	L	7:L	_
+16	plus	_	Word	Word	_	20	L	20:L	_
 17	,	_	Punctuation	Punctuation	_	7	U	7:U	_
-18	after	_	Word	Word	_	7	L	7:L	_
+18	after	_	Word	Word	_	20	L	20:L	_
 19	being	_	Word	Word	_	20	F	20:F	_
 20	launched	_	Word	Word	_	7	H	7:H	_
 21	with	_	Word	Word	_	23	R	23:R	_
 22	prodigious	_	Word	Word	_	23	E	23:E	_
 23	power	_	Word	Word	_	20	A	20:A	_
-24	and	_	Word	Word	_	7	L	7:L	_
-25	then	_	Word	Word	_	7	L	7:L	_
+24	and	_	Word	Word	_	26	L	26:L	_
+25	then	_	Word	Word	_	26	L	26:L	_
 26	piercing	_	Word	Word	_	7	H	7:H	_
 27	four	_	Word	Word	_	28	E	28:E	_
 28	centimeters	_	Word	Word	_	26	A	26:A	_

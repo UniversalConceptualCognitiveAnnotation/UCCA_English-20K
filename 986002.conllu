@@ -27,11 +27,11 @@
 24	general	_	Word	Word	_	25	E	25:E	_
 25	staff	_	Word	Word	_	21	E	21:E	_
 26	;	_	Punctuation	Punctuation	_	3	U	3:U	_
-27	and	_	Word	Word	_	3	L	3:L	_
+27	and	_	Word	Word	_	41	L	41:L	_
 28	for	_	Word	Word	_	48	G	48:G	_
 29	certain	_	Word	Word	_	28	Terminal	28:Terminal	_
 30	,	_	Punctuation	Punctuation	_	3	U	3:U	_
-31	if	_	Word	Word	_	3	L	3:L	_
+31	if	_	Word	Word	_	41	L	41:L	_
 32	it	_	Word	Word	_	41	F	41:F	_
 33	had	_	Word	Word	_	41	D	41:D	_
 34	n't	_	Word	Word	_	33	Terminal	33:Terminal	_

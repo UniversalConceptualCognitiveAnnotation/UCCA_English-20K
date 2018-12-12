@@ -1,7 +1,7 @@
 # format = ucca
 # sent_id = 286000
 # text = During the period in which these developments were occurring , I had returned from a scientific undertaking organized to explore the Nebraska badlands in the United States .
-1	During	_	Word	Word	_	3	L	3:L	_
+1	During	_	Word	Word	_	13	L	13:L	_
 2	the	_	Word	Word	_	3	E	3:E	_
 3	period	_	Word	Word	_	0	H	0:H	_
 4	in	_	Word	Word	_	9	R	9:R	_

@@ -1,7 +1,7 @@
 # format = ucca
 # sent_id = 990004
 # text = While the Abraham Lincoln heaved to , its longboats radiated in every direction around it and did n't leave a single point of the sea unexplored .
-1	While	_	Word	Word	_	5	L	5:L	_
+1	While	_	Word	Word	_	10	L	10:L	_
 2	the	_	Word	Word	_	3	E	3:E	_
 3	Abraham	_	Word	Word	_	5	A	5:A	_
 4	Lincoln	_	Word	Word	_	3	Terminal	3:Terminal	_
@@ -16,7 +16,7 @@
 13	direction	_	Word	Word	_	10	A	10:A	_
 14	around	_	Word	Word	_	15	R	15:R	_
 15	it	_	Word	Word	_	10	A	10:A	_
-16	and	_	Word	Word	_	5	L	5:L	_
+16	and	_	Word	Word	_	26	L	26:L	_
 17	did	_	Word	Word	_	26	F	26:F	_
 18	n't	_	Word	Word	_	26	D	26:D	_
 19	leave	_	Word	Word	_	26	D	26:D	_

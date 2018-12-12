@@ -1,7 +1,7 @@
 # format = ucca
 # sent_id = 42001
 # text = Consequently , this extraordinary cetacean could transfer itself from one locality to another with startling swiftness , since within an interval of just three days , the Governor Higginson and the Christopher Columbus had observed it at two positions on the charts separated by a distance of more than 700 nautical leagues .
-1	Consequently	_	Word	Word	_	7	L	7:L	_
+1	Consequently	_	Word	Word	_	35	L	35:L	_
 2	,	_	Punctuation	Punctuation	_	7	U	7:U	_
 3	this	_	Word	Word	_	5	E	5:E	_
 4	extraordinary	_	Word	Word	_	5	E	5:E	_
@@ -18,7 +18,7 @@
 15	startling	_	Word	Word	_	16	E	16:E	_
 16	swiftness	_	Word	Word	_	7	D	7:D	_
 17	,	_	Punctuation	Punctuation	_	7	U	7:U	_
-18	since	_	Word	Word	_	7	L	7:L	_
+18	since	_	Word	Word	_	35	L	35:L	_
 19	within	_	Word	Word	_	21	R	21:R	_
 20	an	_	Word	Word	_	21	E	21:E	_
 21	interval	_	Word	Word	_	35	T	35:T	_

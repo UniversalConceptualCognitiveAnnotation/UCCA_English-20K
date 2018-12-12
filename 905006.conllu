@@ -7,7 +7,7 @@
 4	,	_	Punctuation	Punctuation	_	3	U	3:U	_
 5	Ned	_	Word	Word	_	3	G	3:G	_
 6	.	_	Punctuation	Punctuation	_	3	U	3:U	_
-7	So	_	Word	Word	_	3	L	3:L	_
+7	So	_	Word	Word	_	22	L	22:L	_
 8	at	_	Word	Word	_	12	R	12:R	_
 9	thirty	_	Word	Word	_	12	E	12:E	_
 10	-	_	Punctuation	Punctuation	_	9	U	9:U	_
@@ -59,7 +59,7 @@
 56	1,756,800	_	Word	Word	_	57	E	57:E	_
 57	kilograms	_	Word	Word	_	46	A	46:A	_
 58	;	_	Punctuation	Punctuation	_	3	U	3:U	_
-59	finally	_	Word	Word	_	3	L	3:L	_
+59	finally	_	Word	Word	_	63	L	63:L	_
 60	,	_	Punctuation	Punctuation	_	3	U	3:U	_
 61	at	_	Word	Word	_	63	R	63:R	_
 62	32,000	_	Word	Word	_	63	E	63:E	_
@@ -78,7 +78,7 @@
 75	;	_	Punctuation	Punctuation	_	3	U	3:U	_
 76	in	_	Word	Word	_	78	R	78:R	_
 77	other	_	Word	Word	_	78	E	78:E	_
-78	words	_	Word	Word	_	3	L	3:L	_
+78	words	_	Word	Word	_	83	L	83:L	_
 79	,	_	Punctuation	Punctuation	_	3	U	3:U	_
 80	you	_	Word	Word	_	83	A	83:A	_
 81	'd	_	Word	Word	_	83	D	83:D	_
@@ -86,7 +86,7 @@
 83	squashed	_	Word	Word	_	3	H	3:H	_
 84	as	_	Word	Word	_	85	F	85:F	_
 85	flat	_	Word	Word	_	83	D	83:D	_
-86	as	_	Word	Word	_	3	L	3:L	_
+86	as	_	Word	Word	_	92	L	92:L	_
 87	if	_	Word	Word	_	86	Terminal	86:Terminal	_
 88	you	_	Word	Word	_	92	A	92:A	_
 89	'd	_	Word	Word	_	92	D	92:D	_

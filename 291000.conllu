@@ -1,10 +1,10 @@
 # format = ucca
 # sent_id = 291000
 # text = Now then , although the latter hypothesis was completely admissible , it could n't stand up to inquiries conducted in both the New World and the Old .
-1	Now	_	Word	Word	_	10	L	10:L	_
+1	Now	_	Word	Word	_	15	L	15:L	_
 2	then	_	Word	Word	_	1	Terminal	1:Terminal	_
 3	,	_	Punctuation	Punctuation	_	10	U	10:U	_
-4	although	_	Word	Word	_	10	L	10:L	_
+4	although	_	Word	Word	_	15	L	15:L	_
 5	the	_	Word	Word	_	7	E	7:E	_
 6	latter	_	Word	Word	_	7	E	7:E	_
 7	hypothesis	_	Word	Word	_	10	A	10:A	_
