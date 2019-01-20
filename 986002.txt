@@ -1,6 +1,7 @@
 # ::id 986002
 # ::tok This reaction mounted upward from the bowels of the ship , from the quarters of the bunker hands to the messroom of the general staff ; and for certain , if it had n’t been for Commander Farragut ’s characteristic stubbornness , the frigate would ultimately have put back to that cape in the south .
 # ::alignments 0-1.1.1.1 1-1.1.1.2 2-1.1.2 3-1.1.2 4-1.1.3.1 5-1.1.3.2.1 6-1.1.3.2.2 7-1.1.3.2.3.1 8-1.1.3.2.3.2 9-1.1.3.2.3.3 11-1.1.3.3 12-1.1.3.4.1 13-1.1.3.4.2 14-1.1.3.4.3.1 15-1.1.3.4.3.2 16-1.1.3.4.3.3 17-1.1.3.5 18-1.1.3.5 19-1.1.3.6.1 20-1.1.3.6.2 21-1.1.3.6.3.1 22-1.1.3.6.3.2 23-1.1.3.6.3.3 24-1.1.3.6.3.4 26-1.2 27-1.3.1 28-1.3.1 30-1.4 32-1.5.2 33-1.5.2 34-1.5.2 35-1.5.2 36-1.5.3.1 37-1.5.3.2 38-1.5.3.3 39-1.5.4 40-1.5.5 42-1.3.2.1 43-1.3.2.2 44-1.3.3 45-1.3.4 47-1.3.6 48-1.3.6 49-1.3.7.1 50-1.3.7.2 51-1.3.7.3 52-1.3.7.4.1 53-1.3.7.4.2 54-1.3.7.4.3
+# ::format ucca
 (v1 / label
     :H (v2 / label
            :A (v7 / label

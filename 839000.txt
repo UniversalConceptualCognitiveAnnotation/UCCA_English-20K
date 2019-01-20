@@ -1,6 +1,7 @@
 # ::id 839000
 # ::tok Just then Commander Farragut was giving orders to cast off the last moorings holding the Abraham Lincoln to its Brooklyn pier .
 # ::alignments 0-1.1.1 1-1.1.2 2-1.2.2.1 3-1.2.2.2 5-1.2.4 6-1.2.4 8-1.2.5.3 9-1.2.5.3 10-1.2.5.4.1 11-1.2.5.4.2 12-1.2.5.4.3 13-1.2.5.4.4.2 14-1.2.5.4.4.3.1 15-1.2.5.4.4.3.2 16-1.2.5.4.4.3.2 17-1.2.5.4.4.4.1 18-1.2.5.4.4.4.2 19-1.2.5.4.4.4.3 20-1.2.5.4.4.4.4
+# ::format ucca
 (v1 / label
     :L (v2 / label
            :E (v4 / label~e.0)

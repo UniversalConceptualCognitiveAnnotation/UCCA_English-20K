@@ -1,6 +1,7 @@
 # ::id 309002
 # ::tok Yet deep down , I had accepted the existence of “ the monster . ”
-# ::alignments 0-1.1 1-1.2.1 2-1.2.1 4-1.2.2 6-1.2.4 7-1.2.5.1.1 8-1.2.5.1.2 9-1.2.5.2.1 11-1.2.5.2.2 12-1.2.5.2.3
+# ::alignments 0-1.1 1-1.2.2 2-1.2.2 4-1.2.3 6-1.2.5 7-1.2.6.1.1 8-1.2.6.1.2 9-1.2.6.2.1 11-1.2.6.2.2 12-1.2.6.2.3
+# ::format ucca
 (v1 / label
     :L (v2 / label~e.0)
     :H (v3 / label

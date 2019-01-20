@@ -1,6 +1,7 @@
 # ::id 309000
 # ::tok These last words were cowardly of me ; but as far as I could , I wanted to protect my professorial dignity and not lay myself open to laughter from the Americans , who when they do laugh , laugh raucously .
 # ::alignments 0-1.1.1.1 1-1.1.1.2 2-1.1.1.3 4-1.1.3 5-1.1.4.1 6-1.1.4.2 8-1.2 9-1.3.1 10-1.3.2 11-1.3.3 12-1.4.3 13-1.4.4 15-1.5.1 16-1.5.2 18-1.4.1 19-1.5.5.1 20-1.5.5.2 21-1.4.2 22-1.6 23-1.7.1 24-1.7.2 25-1.7.3 26-1.7.2 27-1.7.4.1 28-1.7.4.2 29-1.7.4.3.1 30-1.7.4.3.2 31-1.7.4.3.3 33-1.7.4.3.4.1 34-1.7.4.3.4.2 35-1.7.4.3.4.3.1 36-1.7.4.3.4.3.2 37-1.7.4.3.4.3.3 39-1.7.4.3.4.4.1 40-1.7.4.3.4.4.2
+# ::format ucca
 (v1 / label
     :H (v2 / label
            :A (v9 / label

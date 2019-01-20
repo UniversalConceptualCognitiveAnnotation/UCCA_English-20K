@@ -1,6 +1,7 @@
 # ::id 881004
 # ::tok And the Abraham Lincoln ’s stempost had n’t even cut the suspected waters of the Pacific .
 # ::alignments 0-1.1 1-1.2.1.1.1 2-1.2.1.1.2 3-1.2.1.1.2 4-1.2.1.1.3 5-1.2.1.2 7-1.2.3 8-1.2.4 9-1.2.5 10-1.2.6.1 11-1.2.6.2 12-1.2.6.3 13-1.2.6.4.1 14-1.2.6.4.2 15-1.2.6.4.3
+# ::format ucca
 (v1 / label
     :L (v2 / label~e.0)
     :H (v3 / label

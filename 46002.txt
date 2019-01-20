@@ -1,6 +1,7 @@
 # ::id 46002
 # ::tok During this memorable campaign , journalists making a profession of science battled with those making a profession of wit , spilling waves of ink and some of them even two or three drops of blood , since they went from sea serpents to the most offensive personal remarks .
 # ::alignments 0-1.1.1.1 1-1.1.1.2 2-1.1.1.3 3-1.1.1.4 5-1.2.3 6-1.1.2.2.2 7-1.1.2.2.3.1 8-1.1.2.2.3.2 9-1.1.2.2.3.3 10-1.1.2.2.3.4 11-1.1.3 12-1.1.4.1 13-1.1.4.2 14-1.1.4.3.1 15-1.1.4.3.2.1 16-1.1.4.3.2.2 17-1.1.4.3.2.3 18-1.1.4.3.2.4 20-1.2.1 21-1.2.2.1 22-1.2.2.2 23-1.2.2.3 24-1.3 25-1.4.1.1 26-1.4.1.2 27-1.4.1.3 28-1.4.2 29-1.4.3.1.1 30-1.4.3.1.2 31-1.4.3.1.3 32-1.4.3.2 33-1.4.3.3 34-1.4.3.4 36-1.5 37-1.6.1 38-1.6.2 39-1.6.3.1 40-1.6.3.2 41-1.6.3.3 42-1.6.4.1 43-1.6.4.2 44-1.6.4.3 45-1.6.4.4 46-1.6.4.5 47-1.6.4.6
+# ::format ucca
 (v1 / label
     :H (v2 / label
            :A (v8 / label
