@@ -124,10 +124,10 @@ anything	Word	--	Terminal	593
 #515	FN	--	E	597
 #516	FN	--	C	597
 #517	PNCT	--	U	626
-#518	FN	--	A	613
-#519	FN	--	F	613
-#520	FN	--	F	613
-#521	FN	--	P	613
+#518	FN	--	A	614
+#519	FN	--	F	614
+#520	FN	--	F	614
+#521	FN	--	P	614
 #522	FN	--	E	598
 #523	FN	--	C	598
 #524	FN	--	R	599
@@ -168,10 +168,10 @@ anything	Word	--	Terminal	593
 #559	FN	--	S	607
 #560	FN	--	C	606
 #561	PNCT	--	U	626
-#562	FN	--	A	614
-#563	FN	--	F	614
-#564	FN	--	D	614
-#565	FN	--	P	614
+#562	FN	--	A	613
+#563	FN	--	F	613
+#564	FN	--	D	613
+#565	FN	--	P	613
 #566	FN	--	A	608
 #567	FN	--	A	608
 #568	FN	--	F	608
@@ -204,8 +204,8 @@ anything	Word	--	Terminal	593
 #595	PNCT	--	U	612
 #596	FN	--	S	616
 #597	FN	--	E	615
-#598	FN	--	A	613
-#599	FN	--	A	613
+#598	FN	--	A	614
+#599	FN	--	A	614
 #600	FN	--	E	618
 #601	FN	--	E	618
 #602	FN	--	E	618
@@ -214,7 +214,7 @@ anything	Word	--	Terminal	593
 #605	FN	--	H	626
 #606	FN	--	D	607
 #607	FN	--	H	626
-#608	FN	--	A	614
+#608	FN	--	A	613
 #609	FN	--	A	610
 #610	FN	--	H	626	LA	622
 #611	FN	--	H	626	LA	622

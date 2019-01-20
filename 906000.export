@@ -72,9 +72,9 @@ pressures	Word	--	Terminal	561
 !	Punctuation	--	Terminal	562
 ”	Punctuation	--	Terminal	563
 #500	PNCT	--	U	593
-#501	FN	--	G	589
-#502	PNCT	--	U	589
-#503	FN	--	G	589
+#501	FN	--	G	590
+#502	PNCT	--	U	590
+#503	FN	--	G	590
 #504	PNCT	--	U	593
 #505	FN	--	L	593
 #506	FN	--	C	587	A*	566	A*	580
@@ -86,7 +86,7 @@ pressures	Word	--	Terminal	561
 #512	FN	--	D	580
 #513	FN	--	R	567
 #514	FN	--	C	567
-#515	FN	--	P	589
+#515	FN	--	P	590
 #516	FN	--	R	568
 #517	FN	--	E	568
 #518	FN	--	C	568
@@ -94,7 +94,7 @@ pressures	Word	--	Terminal	561
 #520	FN	--	E	569
 #521	FN	--	E	569
 #522	FN	--	C	569
-#523	FN	--	P	578
+#523	FN	--	P	579
 #524	FN	--	C	570
 #525	FN	--	R	570
 #526	FN	--	E	571
@@ -117,7 +117,7 @@ pressures	Word	--	Terminal	561
 #543	PNCT	--	U	593
 #544	FN	--	L	593
 #545	PNCT	--	U	593
-#546	FN	--	E	590
+#546	FN	--	E	589
 #547	FN	--	C	584
 #548	FN	--	R	575
 #549	FN	--	E	575
@@ -126,11 +126,11 @@ pressures	Word	--	Terminal	561
 #552	FN	--	C	585
 #553	FN	--	R	576
 #554	FN	--	C	576
-#555	FN	--	A	591	A*	579
+#555	FN	--	A	591	A*	578
 #556	FN	--	D	591
 #557	FN	--	S	591
 #558	FN	--	L	593
-#559	FN	--	P	579
+#559	FN	--	P	578
 #560	FN	--	E	577
 #561	FN	--	C	577
 #562	PNCT	--	U	577
@@ -139,16 +139,16 @@ pressures	Word	--	Terminal	561
 #565	FN	--	A	566
 #566	FN	--	C	586
 #567	FN	--	S	580
-#568	FN	--	A	589
-#569	FN	--	A	578
+#568	FN	--	A	590
+#569	FN	--	A	579
 #570	FN	--	E	571
-#571	FN	--	A	578
+#571	FN	--	A	579
 #572	FN	--	E	581
 #573	FN	--	E	574
 #574	FN	--	A	583
 #575	FN	--	E	584
 #576	FN	--	E	585
-#577	FN	--	A	579
+#577	FN	--	A	578
 #578	FN	--	H	593
 #579	FN	--	H	593
 #580	FN	--	C	586
@@ -158,10 +158,10 @@ pressures	Word	--	Terminal	561
 #584	FN	--	C	588
 #585	FN	--	C	588
 #586	FN	--	E	587
-#587	FN	--	A	589
-#588	FN	--	C	590
-#589	FN	--	H	593
-#590	FN	--	A	591
+#587	FN	--	A	590
+#588	FN	--	C	589
+#589	FN	--	A	591
+#590	FN	--	H	593
 #591	FN	--	A	592
 #592	FN	--	H	593
 #593	FN	--	A	596

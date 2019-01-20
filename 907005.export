@@ -24,17 +24,17 @@ to	Word	--	Terminal	519
 the	Word	--	Terminal	520
 Scotia	Word	--	Terminal	521
 ?	Punctuation	--	Terminal	522
-#500	PNCT	--	U	528
-#501	PNCT	--	U	528
-#502	FN	--	L	528	LR	529
-#503	FN	--	L	528
+#500	PNCT	--	U	529
+#501	PNCT	--	U	529
+#502	FN	--	L	529	LR	528
+#503	FN	--	L	529
 #504	FN	--	A	523
 #505	FN	--	F	523
 #506	FN	--	D	523
 #507	FN	--	S	523
 #508	PNCT	--	U	523
 #509	FN	--	G	523
-#510	PNCT	--	U	528
+#510	PNCT	--	U	529
 #511	FN	--	D	527
 #512	FN	--	F	527
 #513	FN	--	A	527
@@ -47,13 +47,13 @@ Scotia	Word	--	Terminal	521
 #520	FN	--	E	524
 #521	FN	--	C	524
 #522	PNCT	--	U	524
-#523	FN	--	H	528
+#523	FN	--	H	529
 #524	FN	--	A	525
 #525	FN	--	E	526
 #526	FN	--	A	527
-#527	FN	--	H	528	LA	529
-#528	FN	--	A	532
-#529	LKG	--	--	0
+#527	FN	--	H	529	LA	528
+#528	LKG	--	--	0
+#529	FN	--	A	532
 #530	FN	--	A	532
 #531	FN	--	P	532
 #532	FN	--	H	533

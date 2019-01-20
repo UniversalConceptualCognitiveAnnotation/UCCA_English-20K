@@ -32,14 +32,14 @@ ship	Word	--	Terminal	529
 ’s	Word	--	Terminal	530
 hull	Word	--	Terminal	531
 .	Punctuation	--	Terminal	532
-#500	PNCT	--	U	547
-#501	PNCT	--	U	547
+#500	PNCT	--	U	550
+#501	PNCT	--	U	550
 #502	FN	--	S	538
 #503	PNCT	--	U	538
 #504	FN	--	G	538
-#505	PNCT	--	U	547
-#506	FN	--	L	547	LR	550
-#507	FN	--	L	547	LR	549
+#505	PNCT	--	U	550
+#506	FN	--	L	550	LR	549
+#507	FN	--	L	550	LR	548
 #508	FN	--	P	546
 #509	FN	--	E	544
 #510	FN	--	P	543
@@ -48,7 +48,7 @@ hull	Word	--	Terminal	531
 #513	FN	--	C	533
 #514	FN	--	D	545
 #515	FN	--	P	545
-#516	FN	--	L	547	LR	548
+#516	FN	--	L	550	LR	547
 #517	FN	--	A	542
 #518	FN	--	D	542
 #519	FN	--	P	542
@@ -70,19 +70,19 @@ hull	Word	--	Terminal	531
 #535	FN	--	E	536
 #536	FN	--	A	542
 #537	FN	--	A	538
-#538	FN	--	H	547	LA	550
+#538	FN	--	H	550	LA	549
 #539	FN	--	A	546
 #540	FN	--	A	543
 #541	FN	--	D	542
-#542	FN	--	H	547	LA	548
+#542	FN	--	H	550	LA	547
 #543	FN	--	C	544
 #544	FN	--	A	545
 #545	FN	--	A	546
-#546	FN	--	H	547	LA	548	LA	549	LA	550
-#547	FN	--	A	553
+#546	FN	--	H	550	LA	547	LA	548	LA	549
+#547	LKG	--	--	0
 #548	LKG	--	--	0
 #549	LKG	--	--	0
-#550	LKG	--	--	0
+#550	FN	--	A	553
 #551	FN	--	A	553
 #552	FN	--	P	553
 #553	FN	--	H	554

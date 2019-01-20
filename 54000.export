@@ -1,9 +1,9 @@
 #BOS 54000
 On	Word	--	Terminal	500
-April	Word	--	Terminal	501
-13	Word	--	Terminal	501
-,	Punctuation	--	Terminal	502
-1867	Word	--	Terminal	501
+April	Word	--	Terminal	502
+13	Word	--	Terminal	502
+,	Punctuation	--	Terminal	501
+1867	Word	--	Terminal	502
 ,	Punctuation	--	Terminal	503
 with	Word	--	Terminal	504
 a	Word	--	Terminal	505
@@ -50,8 +50,8 @@ horsepower	Word	--	Terminal	543
 engines	Word	--	Terminal	544
 .	Punctuation	--	Terminal	545
 #500	FN	--	R	546
-#501	FN	--	C	546
-#502	PNCT	--	U	546
+#501	PNCT	--	U	502
+#502	FN	--	C	546
 #503	PNCT	--	U	560
 #504	FN	--	R	559	R*	547
 #505	FN	--	E	548

@@ -98,13 +98,13 @@ a	Word	--	Terminal	591
 hydraulic	Word	--	Terminal	592
 press	Word	--	Terminal	593
 !	Punctuation	--	Terminal	594
-#500	PNCT	--	U	630
-#501	PNCT	--	U	630
+#500	PNCT	--	U	631
+#501	PNCT	--	U	631
 #502	FN	--	S	616
 #503	PNCT	--	U	616
 #504	FN	--	G	616
-#505	PNCT	--	U	630
-#506	FN	--	L	630	LR	628
+#505	PNCT	--	U	631
+#506	FN	--	L	631	LR	628
 #507	FN	--	R	617
 #508	FN	--	E	617
 #509	FN	--	C	617
@@ -123,7 +123,7 @@ press	Word	--	Terminal	593
 #522	FN	--	R	597
 #523	FN	--	E	600
 #524	FN	--	C	600
-#525	PNCT	--	U	630
+#525	PNCT	--	U	631
 #526	FN	--	R	618
 #527	FN	--	E	618
 #528	FN	--	C	618
@@ -137,7 +137,7 @@ press	Word	--	Terminal	593
 #536	FN	--	F	623
 #537	FN	--	E	599
 #538	FN	--	C	599
-#539	PNCT	--	U	630
+#539	PNCT	--	U	631
 #540	FN	--	E	619
 #541	FN	--	E	619
 #542	FN	--	C	619
@@ -151,9 +151,9 @@ press	Word	--	Terminal	593
 #550	FN	--	F	622
 #551	FN	--	E	598
 #552	FN	--	C	598
-#553	PNCT	--	U	630
-#554	FN	--	L	630	LR	627
-#555	PNCT	--	U	630
+#553	PNCT	--	U	631
+#554	FN	--	L	631	LR	627
+#555	PNCT	--	U	631
 #556	FN	--	R	620
 #557	FN	--	E	620
 #558	FN	--	C	620
@@ -167,18 +167,18 @@ press	Word	--	Terminal	593
 #566	FN	--	F	621
 #567	FN	--	E	610
 #568	FN	--	C	610
-#569	PNCT	--	U	630
+#569	PNCT	--	U	631
 #570	FN	--	R	611
 #571	FN	--	E	611
 #572	FN	--	C	611
-#573	PNCT	--	U	630
+#573	PNCT	--	U	631
 #574	FN	--	A	614
 #575	FN	--	D	614
 #576	FN	--	F	614
 #577	FN	--	P	614
 #578	FN	--	F	612
 #579	FN	--	C	612
-#580	FN	--	L	630	LR	631
+#580	FN	--	L	631	LR	630
 #581	FN	--	A	629
 #582	FN	--	D	629
 #583	FN	--	D	629
@@ -209,27 +209,27 @@ press	Word	--	Terminal	593
 #608	FN	--	E	609
 #609	FN	--	E	620
 #610	FN	--	A	621
-#611	FN	--	L	630	LR	625
+#611	FN	--	L	631	LR	625
 #612	FN	--	D	614
 #613	FN	--	E	626
-#614	FN	--	H	630	LA	631	LA	625
+#614	FN	--	H	631	LA	630	LA	625
 #615	FN	--	A	616
-#616	FN	--	H	630
+#616	FN	--	H	631
 #617	FN	--	A	624
 #618	FN	--	A	623
 #619	FN	--	A	622
 #620	FN	--	A	621
-#621	FN	--	H	630	LA	627	A*	624
-#622	FN	--	H	630
-#623	FN	--	H	630
-#624	FN	--	H	630	LA	628
+#621	FN	--	H	631	LA	627	A*	624
+#622	FN	--	H	631
+#623	FN	--	H	631
+#624	FN	--	H	631	LA	628
 #625	LKG	--	--	0
 #626	FN	--	A	629
 #627	LKG	--	--	0
 #628	LKG	--	--	0
-#629	FN	--	H	630	LA	631
-#630	FN	--	A	634
-#631	LKG	--	--	0
+#629	FN	--	H	631	LA	630
+#630	LKG	--	--	0
+#631	FN	--	A	634
 #632	FN	--	A	634
 #633	FN	--	P	634
 #634	FN	--	H	635

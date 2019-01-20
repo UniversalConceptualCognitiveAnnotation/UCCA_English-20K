@@ -17,11 +17,11 @@ simple	Word	--	Terminal	513
 figures	Word	--	Terminal	514
 .	Punctuation	--	Terminal	515
 ”	Punctuation	--	Terminal	516
-#500	PNCT	--	U	523
+#500	PNCT	--	U	524
 #501	FN	--	F	522
 #502	FN	--	D	522
-#503	PNCT	--	U	523
-#504	FN	--	L	523	LR	524
+#503	PNCT	--	U	524
+#504	FN	--	L	524	LR	523
 #505	FN	--	A	519
 #506	FN	--	D	519
 #507	FN	--	P	519
@@ -36,12 +36,12 @@ figures	Word	--	Terminal	514
 #516	PNCT	--	U	518
 #517	FN	--	A	519
 #518	FN	--	A	519
-#519	FN	--	H	523	LA	524
+#519	FN	--	H	524	LA	523
 #520	FN	--	A	522
 #521	FN	--	P	522
-#522	FN	--	H	523	LA	524
-#523	FN	--	A	527
-#524	LKG	--	--	0
+#522	FN	--	H	524	LA	523
+#523	LKG	--	--	0
+#524	FN	--	A	527
 #525	FN	--	A	527
 #526	FN	--	P	527
 #527	FN	--	H	528

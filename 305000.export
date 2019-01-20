@@ -122,8 +122,8 @@ centimeters	Word	--	Terminal	615
 #503	PNCT	--	U	669
 #504	FN	--	E	618
 #505	FN	--	C	618
-#506	FN	--	F	666
-#507	FN	--	S	666
+#506	FN	--	F	667
+#507	FN	--	S	667
 #508	FN	--	R	660
 #509	FN	--	E	619
 #510	FN	--	C	619
@@ -155,9 +155,9 @@ centimeters	Word	--	Terminal	615
 #536	FN	--	R	625
 #537	FN	--	E	626
 #538	FN	--	C	626	C*	627	A*	663
-#539	FN	--	F	667
-#540	FN	--	F	667
-#541	FN	--	P	667
+#539	FN	--	F	668
+#540	FN	--	F	668
+#541	FN	--	P	668
 #542	FN	--	P	663
 #543	FN	--	R	662
 #544	FN	--	E	662
@@ -175,9 +175,9 @@ centimeters	Word	--	Terminal	615
 #556	FN	--	C	629
 #557	PNCT	--	U	669
 #558	FN	--	E	627
-#559	FN	--	F	668
-#560	FN	--	F	668
-#561	FN	--	P	668	P*	651
+#559	FN	--	F	666
+#560	FN	--	F	666
+#561	FN	--	P	666	P*	651
 #562	PNCT	--	U	669
 #563	FN	--	C	630
 #564	FN	--	C	630
@@ -234,7 +234,7 @@ centimeters	Word	--	Terminal	615
 #615	FN	--	C	642
 #616	PNCT	--	U	642
 #617	FN	--	L	669	LR	670
-#618	FN	--	A	666
+#618	FN	--	A	667
 #619	FN	--	E	620
 #620	FN	--	C	659
 #621	FN	--	A	622
@@ -242,8 +242,8 @@ centimeters	Word	--	Terminal	615
 #623	FN	--	S	624
 #624	FN	--	E	645
 #625	FN	--	E	626
-#626	FN	--	A	667
-#627	FN	--	A	668
+#626	FN	--	A	668
+#627	FN	--	A	666
 #628	FN	--	A	649
 #629	FN	--	D	649
 #630	FN	--	L	669
@@ -264,7 +264,7 @@ centimeters	Word	--	Terminal	615
 #645	FN	--	A	646
 #646	FN	--	H	669
 #647	FN	--	A	663
-#648	FN	--	A	667
+#648	FN	--	A	668
 #649	FN	--	E	661
 #650	FN	--	A	651
 #651	FN	--	H	669
@@ -276,14 +276,14 @@ centimeters	Word	--	Terminal	615
 #657	FN	--	A	658
 #658	FN	--	H	669
 #659	FN	--	C	660
-#660	FN	--	A	666
+#660	FN	--	A	667
 #661	FN	--	E	662
 #662	FN	--	A	663
-#663	FN	--	A	667
+#663	FN	--	A	668
 #664	FN	--	E	665
-#665	FN	--	A	668
-#666	FN	--	H	669	LA	670
-#667	FN	--	H	669
+#665	FN	--	A	666
+#666	FN	--	H	669
+#667	FN	--	H	669	LA	670
 #668	FN	--	H	669
 #669	FN	--	A	673
 #670	LKG	--	--	0

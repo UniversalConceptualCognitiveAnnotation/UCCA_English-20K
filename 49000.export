@@ -1,9 +1,9 @@
 #BOS 49000
 On	Word	--	Terminal	500
-March	Word	--	Terminal	501
-5	Word	--	Terminal	501
-,	Punctuation	--	Terminal	502
-1867	Word	--	Terminal	501
+March	Word	--	Terminal	502
+5	Word	--	Terminal	502
+,	Punctuation	--	Terminal	501
+1867	Word	--	Terminal	502
 ,	Punctuation	--	Terminal	503
 the	Word	--	Terminal	504
 Moravian	Word	--	Terminal	505
@@ -48,8 +48,8 @@ these	Word	--	Terminal	538
 waterways	Word	--	Terminal	539
 .	Punctuation	--	Terminal	540
 #500	FN	--	R	541
-#501	FN	--	C	541
-#502	PNCT	--	U	541
+#501	PNCT	--	U	502
+#502	FN	--	C	541
 #503	PNCT	--	U	554
 #504	FN	--	E	550
 #505	FN	--	C	550	A*	549

@@ -2,9 +2,9 @@
 “	Punctuation	--	Terminal	500
 So	Word	--	Terminal	501
 ,	Punctuation	--	Terminal	502
-Mr	Word	--	Terminal	503
-.	Punctuation	--	Terminal	504
-Naturalist	Word	--	Terminal	503
+Mr	Word	--	Terminal	504
+.	Punctuation	--	Terminal	503
+Naturalist	Word	--	Terminal	504
 ,	Punctuation	--	Terminal	505
 ”	Punctuation	--	Terminal	506
 Ned	Word	--	Terminal	507
@@ -33,8 +33,8 @@ cetacean	Word	--	Terminal	526
 #500	PNCT	--	U	533
 #501	FN	--	D	533
 #502	PNCT	--	U	533
-#503	FN	--	G	533
-#504	PNCT	--	U	533
+#503	PNCT	--	U	504
+#504	FN	--	G	533
 #505	PNCT	--	U	534
 #506	PNCT	--	U	534
 #507	FN	--	A	534
