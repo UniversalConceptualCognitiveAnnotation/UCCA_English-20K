@@ -1,37 +1,36 @@
 # format = ucca
 # sent_id = 991001
 # text = After a position fix , true to his promise , Commander Farragut would have to set his course for the southeast and leave the northerly regions of the Pacific decisively behind .
-# doc_id = 
-1	After	_	Word	Word	_	4	L	4:L	_
+1	After	_	Word	Word	_	16	L	16:L	_
 2	a	_	Word	Word	_	3	E	3:E	_
-3	position	_	Word	Word	_	0	root	0:root	_
-4	fix	_	Word	Word	_	3	orphan	3:orphan	_
-5	,	_	Punctuation	Punctuation	_	4	punct	4:punct	_
-6	true	_	Word	Word	_	3	orphan	3:orphan	_
+3	position	_	Word	Word	_	4	A	4:A	_
+4	fix	_	Word	Word	_	0	H	0:H	_
+5	,	_	Punctuation	Punctuation	_	4	U	4:U	_
+6	true	_	Word	Word	_	16	A	16:A	_
 7	to	_	Word	Word	_	9	R	9:R	_
 8	his	_	Word	Word	_	9	E	9:E	_
-9	promise	_	Word	Word	_	3	orphan	3:orphan	_
-10	,	_	Punctuation	Punctuation	_	6	punct	6:punct	_
+9	promise	_	Word	Word	_	6	A	6:A	_
+10	,	_	Punctuation	Punctuation	_	6	U	6:U	_
 11	Commander	_	Word	Word	_	12	E	12:E	_
-12	Farragut	_	Word	Word	_	3	orphan	3:orphan	_
+12	Farragut	_	Word	Word	_	0	C	0:C|4:A	_
 13	would	_	Word	Word	_	16	F	16:F	_
 14	have	_	Word	Word	_	16	D	16:D	_
-15	to	_	Word	Word	_	14	flat	14:flat	_
-16	set	_	Word	Word	_	3	orphan	3:orphan	_
-17	his	_	Word	Word	_	16	flat	16:flat	_
-18	course	_	Word	Word	_	16	flat	16:flat	_
+15	to	_	Word	Word	_	14	Terminal	14:Terminal	_
+16	set	_	Word	Word	_	4	H	4:H	_
+17	his	_	Word	Word	_	16	Terminal	16:Terminal	_
+18	course	_	Word	Word	_	16	Terminal	16:Terminal	_
 19	for	_	Word	Word	_	21	R	21:R	_
 20	the	_	Word	Word	_	21	E	21:E	_
-21	southeast	_	Word	Word	_	3	orphan	3:orphan	_
-22	and	_	Word	Word	_	4	L	4:L	_
-23	leave	_	Word	Word	_	3	orphan	3:orphan	_
+21	southeast	_	Word	Word	_	16	A	16:A	_
+22	and	_	Word	Word	_	23	L	23:L	_
+23	leave	_	Word	Word	_	4	H	4:H	_
 24	the	_	Word	Word	_	26	E	26:E	_
 25	northerly	_	Word	Word	_	26	E	26:E	_
-26	regions	_	Word	Word	_	3	orphan	3:orphan	_
+26	regions	_	Word	Word	_	23	A	23:A	_
 27	of	_	Word	Word	_	29	R	29:R	_
 28	the	_	Word	Word	_	29	E	29:E	_
-29	Pacific	_	Word	Word	_	3	orphan	3:orphan	_
+29	Pacific	_	Word	Word	_	26	E	26:E	_
 30	decisively	_	Word	Word	_	23	D	23:D	_
-31	behind	_	Word	Word	_	23	flat	23:flat	_
-32	.	_	Punctuation	Punctuation	_	23	punct	23:punct	_
+31	behind	_	Word	Word	_	23	Terminal	23:Terminal	_
+32	.	_	Punctuation	Punctuation	_	23	U	23:U	_
 

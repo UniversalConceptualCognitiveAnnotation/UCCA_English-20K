@@ -1,17 +1,16 @@
 # format = ucca
 # sent_id = 820003
 # text = Classifying was everything to him , so he knew nothing else .
-# doc_id = 
-1	Classifying	_	Word	Word	_	0	root	0:root	_
-2	was	_	Word	Word	_	1	orphan	1:orphan	_
+1	Classifying	_	Word	Word	_	2	A	2:A	_
+2	was	_	Word	Word	_	0	H	0:H	_
 3	everything	_	Word	Word	_	2	A	2:A	_
 4	to	_	Word	Word	_	5	R	5:R	_
-5	him	_	Word	Word	_	1	orphan	1:orphan	_
-6	,	_	Punctuation	Punctuation	_	2	punct	2:punct	_
-7	so	_	Word	Word	_	2	L	2:L	_
+5	him	_	Word	Word	_	2	A	2:A	_
+6	,	_	Punctuation	Punctuation	_	2	U	2:U	_
+7	so	_	Word	Word	_	9	L	9:L	_
 8	he	_	Word	Word	_	9	A	9:A	_
-9	knew	_	Word	Word	_	1	orphan	1:orphan	_
-10	nothing	_	Word	Word	_	1	orphan	1:orphan	_
+9	knew	_	Word	Word	_	2	H	2:H	_
+10	nothing	_	Word	Word	_	9	A	9:A	_
 11	else	_	Word	Word	_	10	E	10:E	_
-12	.	_	Punctuation	Punctuation	_	10	punct	10:punct	_
+12	.	_	Punctuation	Punctuation	_	10	U	10:U	_
 

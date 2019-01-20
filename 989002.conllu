@@ -1,13 +1,12 @@
 # format = ucca
 # sent_id = 989002
 # text = The ocean was observed with renewed care .
-# doc_id = 
 1	The	_	Word	Word	_	2	E	2:E	_
-2	ocean	_	Word	Word	_	0	root	0:root	_
+2	ocean	_	Word	Word	_	4	A	4:A	_
 3	was	_	Word	Word	_	4	F	4:F	_
-4	observed	_	Word	Word	_	2	orphan	2:orphan	_
+4	observed	_	Word	Word	_	0	H	0:H	_
 5	with	_	Word	Word	_	7	R	7:R	_
 6	renewed	_	Word	Word	_	7	E	7:E	_
-7	care	_	Word	Word	_	2	orphan	2:orphan	_
-8	.	_	Punctuation	Punctuation	_	7	punct	7:punct	_
+7	care	_	Word	Word	_	4	D	4:D	_
+8	.	_	Punctuation	Punctuation	_	7	U	7:U	_
 

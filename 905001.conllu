@@ -1,10 +1,9 @@
 # format = ucca
 # sent_id = 905001
 # text = ” “ About 17,000 .
-# doc_id = 
-1	”	_	Punctuation	Punctuation	_	4	punct	4:punct	_
-2	“	_	Punctuation	Punctuation	_	4	punct	4:punct	_
+1	”	_	Punctuation	Punctuation	_	4	U	4:U	_
+2	“	_	Punctuation	Punctuation	_	4	U	4:U	_
 3	About	_	Word	Word	_	4	D	4:D	_
-4	17,000	_	Word	Word	_	0	root	0:root	_
-5	.	_	Punctuation	Punctuation	_	4	punct	4:punct	_
+4	17,000	_	Word	Word	_	0	H	0:H	_
+5	.	_	Punctuation	Punctuation	_	4	U	4:U	_
 

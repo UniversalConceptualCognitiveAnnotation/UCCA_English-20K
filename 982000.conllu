@@ -1,38 +1,37 @@
 # format = ucca
 # sent_id = 982000
 # text = On July 20 we cut the Tropic of Capricorn at longitude 105 ° , and by the 27th of the same month , we had cleared the equator on the 110th meridian .
-# doc_id = 
 1	On	_	Word	Word	_	2	R	2:R	_
-2	July	_	Word	Word	_	0	root	0:root	_
-3	20	_	Word	Word	_	2	flat	2:flat	_
+2	July	_	Word	Word	_	5	T	5:T	_
+3	20	_	Word	Word	_	2	Terminal	2:Terminal	_
 4	we	_	Word	Word	_	5	A	5:A	_
-5	cut	_	Word	Word	_	2	orphan	2:orphan	_
+5	cut	_	Word	Word	_	0	H	0:H	_
 6	the	_	Word	Word	_	7	E	7:E	_
-7	Tropic	_	Word	Word	_	2	orphan	2:orphan	_
+7	Tropic	_	Word	Word	_	5	A	5:A	_
 8	of	_	Word	Word	_	9	R	9:R	_
-9	Capricorn	_	Word	Word	_	2	orphan	2:orphan	_
+9	Capricorn	_	Word	Word	_	7	E	7:E	_
 10	at	_	Word	Word	_	12	R	12:R	_
 11	longitude	_	Word	Word	_	12	E	12:E	_
-12	105	_	Word	Word	_	2	orphan	2:orphan	_
-13	°	_	Punctuation	Punctuation	_	5	punct	5:punct	_
-14	,	_	Punctuation	Punctuation	_	5	punct	5:punct	_
-15	and	_	Word	Word	_	5	L	5:L	_
+12	105	_	Word	Word	_	5	A	5:A	_
+13	°	_	Punctuation	Punctuation	_	5	U	5:U	_
+14	,	_	Punctuation	Punctuation	_	5	U	5:U	_
+15	and	_	Word	Word	_	26	L	26:L	_
 16	by	_	Word	Word	_	18	R	18:R	_
 17	the	_	Word	Word	_	18	E	18:E	_
-18	27th	_	Word	Word	_	2	orphan	2:orphan	_
+18	27th	_	Word	Word	_	26	T	26:T	_
 19	of	_	Word	Word	_	22	R	22:R	_
 20	the	_	Word	Word	_	22	E	22:E	_
 21	same	_	Word	Word	_	22	E	22:E	_
-22	month	_	Word	Word	_	2	orphan	2:orphan	_
-23	,	_	Punctuation	Punctuation	_	26	punct	26:punct	_
+22	month	_	Word	Word	_	18	E	18:E	_
+23	,	_	Punctuation	Punctuation	_	26	U	26:U	_
 24	we	_	Word	Word	_	26	A	26:A	_
 25	had	_	Word	Word	_	26	F	26:F	_
-26	cleared	_	Word	Word	_	2	orphan	2:orphan	_
+26	cleared	_	Word	Word	_	5	H	5:H	_
 27	the	_	Word	Word	_	28	E	28:E	_
-28	equator	_	Word	Word	_	2	orphan	2:orphan	_
+28	equator	_	Word	Word	_	26	A	26:A	_
 29	on	_	Word	Word	_	32	R	32:R	_
 30	the	_	Word	Word	_	32	E	32:E	_
 31	110th	_	Word	Word	_	32	E	32:E	_
-32	meridian	_	Word	Word	_	2	orphan	2:orphan	_
-33	.	_	Punctuation	Punctuation	_	32	punct	32:punct	_
+32	meridian	_	Word	Word	_	26	A	26:A	_
+33	.	_	Punctuation	Punctuation	_	32	U	32:U	_
 

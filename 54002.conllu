@@ -1,19 +1,18 @@
 # format = ucca
 # sent_id = 54002
 # text = It was then drawing 6.7 meters of water and displacing 6,624 cubic meters .
-# doc_id = 
-1	It	_	Word	Word	_	4	A	4:A	_
+1	It	_	Word	Word	_	4	A	4:A|10:A	_
 2	was	_	Word	Word	_	4	F	4:F	_
 3	then	_	Word	Word	_	4	T	4:T	_
-4	drawing	_	Word	Word	_	0	root	0:root	_
+4	drawing	_	Word	Word	_	0	H	0:H	_
 5	6.7	_	Word	Word	_	6	E	6:E	_
-6	meters	_	Word	Word	_	4	orphan	4:orphan	_
+6	meters	_	Word	Word	_	8	E	8:E	_
 7	of	_	Word	Word	_	6	R	6:R	_
-8	water	_	Word	Word	_	4	orphan	4:orphan	_
-9	and	_	Word	Word	_	4	L	4:L	_
-10	displacing	_	Word	Word	_	4	orphan	4:orphan	_
+8	water	_	Word	Word	_	4	A	4:A	_
+9	and	_	Word	Word	_	10	L	10:L	_
+10	displacing	_	Word	Word	_	4	H	4:H	_
 11	6,624	_	Word	Word	_	13	E	13:E	_
 12	cubic	_	Word	Word	_	13	E	13:E	_
-13	meters	_	Word	Word	_	4	orphan	4:orphan	_
-14	.	_	Punctuation	Punctuation	_	13	punct	13:punct	_
+13	meters	_	Word	Word	_	10	A	10:A	_
+14	.	_	Punctuation	Punctuation	_	13	U	13:U	_
 

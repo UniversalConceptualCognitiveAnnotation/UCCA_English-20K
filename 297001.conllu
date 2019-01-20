@@ -1,19 +1,18 @@
 # format = ucca
 # sent_id = 297001
 # text = Since I could no longer hold my tongue , I let it wag .
-# doc_id = 
-1	Since	_	Word	Word	_	6	L	6:L	_
+1	Since	_	Word	Word	_	13	L	13:L	_
 2	I	_	Word	Word	_	6	A	6:A	_
 3	could	_	Word	Word	_	6	D	6:D	_
 4	no	_	Word	Word	_	6	D	6:D	_
 5	longer	_	Word	Word	_	6	D	6:D	_
-6	hold	_	Word	Word	_	0	root	0:root	_
-7	my	_	Word	Word	_	6	flat	6:flat	_
-8	tongue	_	Word	Word	_	6	flat	6:flat	_
-9	,	_	Punctuation	Punctuation	_	6	punct	6:punct	_
+6	hold	_	Word	Word	_	0	H	0:H	_
+7	my	_	Word	Word	_	6	Terminal	6:Terminal	_
+8	tongue	_	Word	Word	_	6	Terminal	6:Terminal	_
+9	,	_	Punctuation	Punctuation	_	6	U	6:U	_
 10	I	_	Word	Word	_	13	A	13:A	_
 11	let	_	Word	Word	_	13	D	13:D	_
 12	it	_	Word	Word	_	13	A	13:A	_
-13	wag	_	Word	Word	_	6	orphan	6:orphan	_
-14	.	_	Punctuation	Punctuation	_	13	punct	13:punct	_
+13	wag	_	Word	Word	_	6	H	6:H	_
+14	.	_	Punctuation	Punctuation	_	13	U	13:U	_
 

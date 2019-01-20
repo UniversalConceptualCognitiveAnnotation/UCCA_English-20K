@@ -1,19 +1,18 @@
 # format = ucca
 # sent_id = 310002
 # text = Moreover , the solution it proposed allowed for free play of the imagination .
-# doc_id = 
 1	Moreover	_	Word	Word	_	7	L	7:L	_
-2	,	_	Punctuation	Punctuation	_	7	punct	7:punct	_
+2	,	_	Punctuation	Punctuation	_	7	U	7:U	_
 3	the	_	Word	Word	_	4	E	4:E	_
-4	solution	_	Word	Word	_	0	root	0:root	_
+4	solution	_	Word	Word	_	7	A	7:A	_
 5	it	_	Word	Word	_	6	A	6:A	_
-6	proposed	_	Word	Word	_	4	orphan	4:orphan	_
-7	allowed	_	Word	Word	_	4	orphan	4:orphan	_
+6	proposed	_	Word	Word	_	4	E	4:E	_
+7	allowed	_	Word	Word	_	0	H	0:H	_
 8	for	_	Word	Word	_	10	R	10:R	_
 9	free	_	Word	Word	_	10	D	10:D	_
-10	play	_	Word	Word	_	4	orphan	4:orphan	_
+10	play	_	Word	Word	_	7	A	7:A	_
 11	of	_	Word	Word	_	13	R	13:R	_
 12	the	_	Word	Word	_	13	E	13:E	_
-13	imagination	_	Word	Word	_	4	orphan	4:orphan	_
-14	.	_	Punctuation	Punctuation	_	13	punct	13:punct	_
+13	imagination	_	Word	Word	_	10	A	10:A	_
+14	.	_	Punctuation	Punctuation	_	13	U	13:U	_
 

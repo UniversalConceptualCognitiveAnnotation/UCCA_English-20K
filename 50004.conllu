@@ -1,22 +1,21 @@
 # format = ucca
 # sent_id = 50004
 # text = The site 's exact bearings were taken , and the Moravian continued on course apparently undamaged .
-# doc_id = 
 1	The	_	Word	Word	_	2	E	2:E	_
-2	site	_	Word	Word	_	0	root	0:root	_
+2	site	_	Word	Word	_	5	E	5:E	_
 3	's	_	Word	Word	_	2	F	2:F	_
 4	exact	_	Word	Word	_	5	E	5:E	_
-5	bearings	_	Word	Word	_	2	orphan	2:orphan	_
+5	bearings	_	Word	Word	_	7	A	7:A	_
 6	were	_	Word	Word	_	7	F	7:F	_
-7	taken	_	Word	Word	_	2	orphan	2:orphan	_
-8	,	_	Punctuation	Punctuation	_	7	punct	7:punct	_
-9	and	_	Word	Word	_	7	L	7:L	_
+7	taken	_	Word	Word	_	0	H	0:H	_
+8	,	_	Punctuation	Punctuation	_	7	U	7:U	_
+9	and	_	Word	Word	_	12	L	12:L	_
 10	the	_	Word	Word	_	11	E	11:E	_
-11	Moravian	_	Word	Word	_	2	orphan	2:orphan	_
-12	continued	_	Word	Word	_	2	orphan	2:orphan	_
+11	Moravian	_	Word	Word	_	12	A	12:A|16:A	_
+12	continued	_	Word	Word	_	7	H	7:H	_
 13	on	_	Word	Word	_	14	R	14:R	_
-14	course	_	Word	Word	_	2	orphan	2:orphan	_
+14	course	_	Word	Word	_	12	A	12:A	_
 15	apparently	_	Word	Word	_	16	D	16:D	_
-16	undamaged	_	Word	Word	_	2	orphan	2:orphan	_
-17	.	_	Punctuation	Punctuation	_	16	punct	16:punct	_
+16	undamaged	_	Word	Word	_	12	A	12:A	_
+17	.	_	Punctuation	Punctuation	_	16	U	16:U	_
 

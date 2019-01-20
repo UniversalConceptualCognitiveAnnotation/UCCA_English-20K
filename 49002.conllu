@@ -1,38 +1,37 @@
 # format = ucca
 # sent_id = 49002
 # text = Without the high quality of its hull , the Moravian would surely have split open from this collision and gone down together with those 237 passengers it was bringing back from Canada .
-# doc_id = 
 1	Without	_	Word	Word	_	4	R	4:R	_
 2	the	_	Word	Word	_	4	E	4:E	_
 3	high	_	Word	Word	_	4	E	4:E	_
-4	quality	_	Word	Word	_	0	root	0:root	_
+4	quality	_	Word	Word	_	14	A	14:A	_
 5	of	_	Word	Word	_	7	R	7:R	_
 6	its	_	Word	Word	_	7	E	7:E	_
-7	hull	_	Word	Word	_	4	orphan	4:orphan	_
-8	,	_	Punctuation	Punctuation	_	14	punct	14:punct	_
+7	hull	_	Word	Word	_	4	E	4:E	_
+8	,	_	Punctuation	Punctuation	_	14	U	14:U	_
 9	the	_	Word	Word	_	10	E	10:E	_
-10	Moravian	_	Word	Word	_	4	orphan	4:orphan	_
+10	Moravian	_	Word	Word	_	14	A	14:A|20:A	_
 11	would	_	Word	Word	_	14	D	14:D	_
 12	surely	_	Word	Word	_	14	G	14:G	_
 13	have	_	Word	Word	_	14	F	14:F	_
-14	split	_	Word	Word	_	4	orphan	4:orphan	_
-15	open	_	Word	Word	_	14	flat	14:flat	_
+14	split	_	Word	Word	_	0	H	0:H	_
+15	open	_	Word	Word	_	14	Terminal	14:Terminal	_
 16	from	_	Word	Word	_	18	R	18:R	_
 17	this	_	Word	Word	_	18	E	18:E	_
-18	collision	_	Word	Word	_	4	orphan	4:orphan	_
-19	and	_	Word	Word	_	14	L	14:L	_
-20	gone	_	Word	Word	_	4	orphan	4:orphan	_
+18	collision	_	Word	Word	_	14	A	14:A	_
+19	and	_	Word	Word	_	20	L	20:L	_
+20	gone	_	Word	Word	_	14	H	14:H	_
 21	down	_	Word	Word	_	20	A	20:A	_
 22	together	_	Word	Word	_	26	D	26:D	_
 23	with	_	Word	Word	_	26	R	26:R	_
 24	those	_	Word	Word	_	26	E	26:E	_
 25	237	_	Word	Word	_	26	E	26:E	_
-26	passengers	_	Word	Word	_	4	orphan	4:orphan	_
+26	passengers	_	Word	Word	_	20	A	20:A	_
 27	it	_	Word	Word	_	29	A	29:A	_
 28	was	_	Word	Word	_	29	F	29:F	_
-29	bringing	_	Word	Word	_	4	orphan	4:orphan	_
-30	back	_	Word	Word	_	29	flat	29:flat	_
+29	bringing	_	Word	Word	_	26	E	26:E	_
+30	back	_	Word	Word	_	29	Terminal	29:Terminal	_
 31	from	_	Word	Word	_	32	R	32:R	_
-32	Canada	_	Word	Word	_	4	orphan	4:orphan	_
-33	.	_	Punctuation	Punctuation	_	32	punct	32:punct	_
+32	Canada	_	Word	Word	_	29	A	29:A	_
+33	.	_	Punctuation	Punctuation	_	32	U	32:U	_
 

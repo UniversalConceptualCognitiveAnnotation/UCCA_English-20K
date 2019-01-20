@@ -1,28 +1,27 @@
 # format = ucca
 # sent_id = 293001
 # text = Since the public interest was at stake and transoceanic travel was suffering , the sincerity of these governments could not be doubted .
-# doc_id = 
-1	Since	_	Word	Word	_	6	L	6:L	_
+1	Since	_	Word	Word	_	12	L	12:L	_
 2	the	_	Word	Word	_	4	E	4:E	_
 3	public	_	Word	Word	_	4	D	4:D	_
-4	interest	_	Word	Word	_	0	root	0:root	_
+4	interest	_	Word	Word	_	6	A	6:A	_
 5	was	_	Word	Word	_	6	F	6:F	_
-6	at	_	Word	Word	_	4	orphan	4:orphan	_
-7	stake	_	Word	Word	_	6	flat	6:flat	_
-8	and	_	Word	Word	_	6	L	6:L	_
+6	at	_	Word	Word	_	0	H	0:H	_
+7	stake	_	Word	Word	_	6	Terminal	6:Terminal	_
+8	and	_	Word	Word	_	12	L	12:L	_
 9	transoceanic	_	Word	Word	_	10	D	10:D	_
-10	travel	_	Word	Word	_	4	orphan	4:orphan	_
+10	travel	_	Word	Word	_	12	A	12:A	_
 11	was	_	Word	Word	_	12	F	12:F	_
-12	suffering	_	Word	Word	_	4	orphan	4:orphan	_
-13	,	_	Punctuation	Punctuation	_	6	punct	6:punct	_
+12	suffering	_	Word	Word	_	6	H	6:H	_
+13	,	_	Punctuation	Punctuation	_	6	U	6:U	_
 14	the	_	Word	Word	_	15	E	15:E	_
-15	sincerity	_	Word	Word	_	4	orphan	4:orphan	_
+15	sincerity	_	Word	Word	_	22	A	22:A	_
 16	of	_	Word	Word	_	18	R	18:R	_
 17	these	_	Word	Word	_	18	E	18:E	_
-18	governments	_	Word	Word	_	4	orphan	4:orphan	_
+18	governments	_	Word	Word	_	15	A	15:A	_
 19	could	_	Word	Word	_	22	D	22:D	_
 20	not	_	Word	Word	_	22	D	22:D	_
 21	be	_	Word	Word	_	22	F	22:F	_
-22	doubted	_	Word	Word	_	4	orphan	4:orphan	_
-23	.	_	Punctuation	Punctuation	_	22	punct	22:punct	_
+22	doubted	_	Word	Word	_	6	H	6:H	_
+23	.	_	Punctuation	Punctuation	_	22	U	22:U	_
 

@@ -1,38 +1,37 @@
 # format = ucca
 # sent_id = 880006
 # text = The man was a sort of Knight of Rhodes , a latter - day Sir Dieudonné of Gozo , on his way to fight an encounter with the dragon devastating the island .
-# doc_id = 
 1	The	_	Word	Word	_	2	E	2:E	_
-2	man	_	Word	Word	_	0	root	0:root	_
-3	was	_	Word	Word	_	2	orphan	2:orphan	_
+2	man	_	Word	Word	_	0	C	0:C|24:A	_
+3	was	_	Word	Word	_	0	H	0:H	_
 4	a	_	Word	Word	_	5	E	5:E	_
-5	sort	_	Word	Word	_	2	orphan	2:orphan	_
+5	sort	_	Word	Word	_	7	E	7:E	_
 6	of	_	Word	Word	_	5	R	5:R	_
-7	Knight	_	Word	Word	_	2	orphan	2:orphan	_
-8	of	_	Word	Word	_	7	flat	7:flat	_
-9	Rhodes	_	Word	Word	_	7	flat	7:flat	_
-10	,	_	Punctuation	Punctuation	_	7	punct	7:punct	_
+7	Knight	_	Word	Word	_	3	A	3:A	_
+8	of	_	Word	Word	_	7	Terminal	7:Terminal	_
+9	Rhodes	_	Word	Word	_	7	Terminal	7:Terminal	_
+10	,	_	Punctuation	Punctuation	_	7	U	7:U	_
 11	a	_	Word	Word	_	15	E	15:E	_
 12	latter	_	Word	Word	_	15	E	15:E	_
-13	-	_	Punctuation	Punctuation	_	15	punct	15:punct	_
-14	day	_	Word	Word	_	12	flat	12:flat	_
-15	Sir	_	Word	Word	_	2	orphan	2:orphan	_
-16	Dieudonné	_	Word	Word	_	15	flat	15:flat	_
-17	of	_	Word	Word	_	15	flat	15:flat	_
-18	Gozo	_	Word	Word	_	15	flat	15:flat	_
-19	,	_	Punctuation	Punctuation	_	3	punct	3:punct	_
+13	-	_	Punctuation	Punctuation	_	12	U	12:U	_
+14	day	_	Word	Word	_	12	Terminal	12:Terminal	_
+15	Sir	_	Word	Word	_	7	C	7:C	_
+16	Dieudonné	_	Word	Word	_	15	Terminal	15:Terminal	_
+17	of	_	Word	Word	_	15	Terminal	15:Terminal	_
+18	Gozo	_	Word	Word	_	15	Terminal	15:Terminal	_
+19	,	_	Punctuation	Punctuation	_	3	U	3:U	_
 20	on	_	Word	Word	_	22	R	22:R	_
 21	his	_	Word	Word	_	22	E	22:E	_
-22	way	_	Word	Word	_	2	orphan	2:orphan	_
+22	way	_	Word	Word	_	24	D	24:D	_
 23	to	_	Word	Word	_	24	F	24:F	_
-24	fight	_	Word	Word	_	2	orphan	2:orphan	_
+24	fight	_	Word	Word	_	3	H	3:H	_
 25	an	_	Word	Word	_	26	E	26:E	_
-26	encounter	_	Word	Word	_	2	orphan	2:orphan	_
+26	encounter	_	Word	Word	_	24	A	24:A	_
 27	with	_	Word	Word	_	29	R	29:R	_
 28	the	_	Word	Word	_	29	E	29:E	_
-29	dragon	_	Word	Word	_	2	orphan	2:orphan	_
-30	devastating	_	Word	Word	_	2	orphan	2:orphan	_
+29	dragon	_	Word	Word	_	26	A	26:A	_
+30	devastating	_	Word	Word	_	29	E	29:E	_
 31	the	_	Word	Word	_	32	E	32:E	_
-32	island	_	Word	Word	_	2	orphan	2:orphan	_
-33	.	_	Punctuation	Punctuation	_	32	punct	32:punct	_
+32	island	_	Word	Word	_	30	A	30:A	_
+33	.	_	Punctuation	Punctuation	_	32	U	32:U	_
 

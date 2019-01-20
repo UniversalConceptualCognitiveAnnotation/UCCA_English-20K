@@ -1,36 +1,35 @@
 # format = ucca
 # sent_id = 293003
 # text = Keeping a secret under such circumstances would be difficult enough for an individual , and certainly impossible for a nation whose every move is under constant surveillance by rival powers .
-# doc_id = 
-1	Keeping	_	Word	Word	_	0	root	0:root	_
+1	Keeping	_	Word	Word	_	9	A	9:A|17:A	_
 2	a	_	Word	Word	_	3	E	3:E	_
-3	secret	_	Word	Word	_	1	orphan	1:orphan	_
+3	secret	_	Word	Word	_	1	A	1:A	_
 4	under	_	Word	Word	_	6	R	6:R	_
 5	such	_	Word	Word	_	6	E	6:E	_
-6	circumstances	_	Word	Word	_	1	orphan	1:orphan	_
+6	circumstances	_	Word	Word	_	1	A	1:A	_
 7	would	_	Word	Word	_	9	D	9:D	_
 8	be	_	Word	Word	_	9	F	9:F	_
-9	difficult	_	Word	Word	_	1	orphan	1:orphan	_
+9	difficult	_	Word	Word	_	0	H	0:H	_
 10	enough	_	Word	Word	_	9	D	9:D	_
 11	for	_	Word	Word	_	13	R	13:R	_
 12	an	_	Word	Word	_	13	E	13:E	_
-13	individual	_	Word	Word	_	1	orphan	1:orphan	_
-14	,	_	Punctuation	Punctuation	_	9	punct	9:punct	_
-15	and	_	Word	Word	_	9	L	9:L	_
+13	individual	_	Word	Word	_	9	A	9:A	_
+14	,	_	Punctuation	Punctuation	_	9	U	9:U	_
+15	and	_	Word	Word	_	17	L	17:L	_
 16	certainly	_	Word	Word	_	17	G	17:G	_
-17	impossible	_	Word	Word	_	1	orphan	1:orphan	_
+17	impossible	_	Word	Word	_	9	H	9:H	_
 18	for	_	Word	Word	_	20	R	20:R	_
 19	a	_	Word	Word	_	20	E	20:E	_
-20	nation	_	Word	Word	_	1	orphan	1:orphan	_
+20	nation	_	Word	Word	_	17	A	17:A	_
 21	whose	_	Word	Word	_	27	R	27:R	_
 22	every	_	Word	Word	_	23	E	23:E	_
-23	move	_	Word	Word	_	1	orphan	1:orphan	_
+23	move	_	Word	Word	_	27	A	27:A	_
 24	is	_	Word	Word	_	27	F	27:F	_
 25	under	_	Word	Word	_	27	R	27:R	_
 26	constant	_	Word	Word	_	27	D	27:D	_
-27	surveillance	_	Word	Word	_	1	orphan	1:orphan	_
+27	surveillance	_	Word	Word	_	20	E	20:E	_
 28	by	_	Word	Word	_	30	R	30:R	_
 29	rival	_	Word	Word	_	30	E	30:E	_
-30	powers	_	Word	Word	_	1	orphan	1:orphan	_
-31	.	_	Punctuation	Punctuation	_	30	punct	30:punct	_
+30	powers	_	Word	Word	_	27	A	27:A	_
+31	.	_	Punctuation	Punctuation	_	30	U	30:U	_
 

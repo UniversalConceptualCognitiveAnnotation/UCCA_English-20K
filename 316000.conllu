@@ -1,11 +1,10 @@
 # format = ucca
 # sent_id = 316000
 # text = This news caused intense excitement .
-# doc_id = 
 1	This	_	Word	Word	_	2	E	2:E	_
-2	news	_	Word	Word	_	0	root	0:root	_
-3	caused	_	Word	Word	_	2	orphan	2:orphan	_
+2	news	_	Word	Word	_	3	A	3:A	_
+3	caused	_	Word	Word	_	0	H	0:H	_
 4	intense	_	Word	Word	_	5	D	5:D	_
-5	excitement	_	Word	Word	_	2	orphan	2:orphan	_
-6	.	_	Punctuation	Punctuation	_	5	punct	5:punct	_
+5	excitement	_	Word	Word	_	3	A	3:A	_
+6	.	_	Punctuation	Punctuation	_	5	U	5:U	_
 

@@ -1,11 +1,10 @@
 # format = ucca
 # sent_id = 985000
 # text = So the reaction set in .
-# doc_id = 
 1	So	_	Word	Word	_	4	L	4:L	_
 2	the	_	Word	Word	_	3	E	3:E	_
-3	reaction	_	Word	Word	_	0	root	0:root	_
-4	set	_	Word	Word	_	3	orphan	3:orphan	_
-5	in	_	Word	Word	_	4	flat	4:flat	_
-6	.	_	Punctuation	Punctuation	_	4	punct	4:punct	_
+3	reaction	_	Word	Word	_	4	A	4:A	_
+4	set	_	Word	Word	_	0	H	0:H	_
+5	in	_	Word	Word	_	4	Terminal	4:Terminal	_
+6	.	_	Punctuation	Punctuation	_	4	U	4:U	_
 

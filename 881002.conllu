@@ -1,31 +1,30 @@
 # format = ucca
 # sent_id = 881002
 # text = Voluntary watches from the crosstrees of the topgallant sail were self-imposed by more than one who would have cursed such toil under any other circumstances .
-# doc_id = 
 1	Voluntary	_	Word	Word	_	2	E	2:E	_
-2	watches	_	Word	Word	_	0	root	0:root	_
+2	watches	_	Word	Word	_	11	A	11:A	_
 3	from	_	Word	Word	_	5	R	5:R	_
 4	the	_	Word	Word	_	5	E	5:E	_
-5	crosstrees	_	Word	Word	_	2	orphan	2:orphan	_
+5	crosstrees	_	Word	Word	_	2	E	2:E	_
 6	of	_	Word	Word	_	9	R	9:R	_
 7	the	_	Word	Word	_	9	E	9:E	_
 8	topgallant	_	Word	Word	_	9	E	9:E	_
-9	sail	_	Word	Word	_	2	orphan	2:orphan	_
+9	sail	_	Word	Word	_	5	E	5:E	_
 10	were	_	Word	Word	_	11	F	11:F	_
-11	self-imposed	_	Word	Word	_	2	orphan	2:orphan	_
+11	self-imposed	_	Word	Word	_	0	H	0:H	_
 12	by	_	Word	Word	_	15	R	15:R	_
-13	more	_	Word	Word	_	2	orphan	2:orphan	_
+13	more	_	Word	Word	_	15	E	15:E	_
 14	than	_	Word	Word	_	13	F	13:F	_
-15	one	_	Word	Word	_	2	orphan	2:orphan	_
+15	one	_	Word	Word	_	11	A	11:A	_
 16	who	_	Word	Word	_	19	R	19:R	_
 17	would	_	Word	Word	_	19	D	19:D	_
 18	have	_	Word	Word	_	19	F	19:F	_
-19	cursed	_	Word	Word	_	2	orphan	2:orphan	_
+19	cursed	_	Word	Word	_	15	E	15:E	_
 20	such	_	Word	Word	_	21	E	21:E	_
-21	toil	_	Word	Word	_	2	orphan	2:orphan	_
+21	toil	_	Word	Word	_	19	A	19:A	_
 22	under	_	Word	Word	_	25	R	25:R	_
 23	any	_	Word	Word	_	25	E	25:E	_
 24	other	_	Word	Word	_	25	E	25:E	_
-25	circumstances	_	Word	Word	_	2	orphan	2:orphan	_
-26	.	_	Punctuation	Punctuation	_	25	punct	25:punct	_
+25	circumstances	_	Word	Word	_	19	A	19:A	_
+26	.	_	Punctuation	Punctuation	_	25	U	25:U	_
 

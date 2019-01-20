@@ -1,37 +1,36 @@
 # format = ucca
 # sent_id = 828001
 # text = “ But think it over , because I do n’t want to hide anything from you . This is one of those voyages from which people do n’t always come back !
-# doc_id = 
-1	“	_	Punctuation	Punctuation	_	3	punct	3:punct	_
-2	But	_	Word	Word	_	3	L	3:L	_
-3	think	_	Word	Word	_	0	root	0:root	_
+1	“	_	Punctuation	Punctuation	_	3	U	3:U	_
+2	But	_	Word	Word	_	13	L	13:L	_
+3	think	_	Word	Word	_	0	H	0:H	_
 4	it	_	Word	Word	_	3	A	3:A	_
 5	over	_	Word	Word	_	3	D	3:D	_
-6	,	_	Punctuation	Punctuation	_	3	punct	3:punct	_
-7	because	_	Word	Word	_	3	L	3:L	_
+6	,	_	Punctuation	Punctuation	_	3	U	3:U	_
+7	because	_	Word	Word	_	13	L	13:L	_
 8	I	_	Word	Word	_	13	A	13:A	_
 9	do	_	Word	Word	_	13	F	13:F	_
 10	n’t	_	Word	Word	_	13	D	13:D	_
 11	want	_	Word	Word	_	13	D	13:D	_
 12	to	_	Word	Word	_	13	F	13:F	_
-13	hide	_	Word	Word	_	3	orphan	3:orphan	_
+13	hide	_	Word	Word	_	3	H	3:H	_
 14	anything	_	Word	Word	_	13	A	13:A	_
 15	from	_	Word	Word	_	16	R	16:R	_
-16	you	_	Word	Word	_	3	orphan	3:orphan	_
-17	.	_	Punctuation	Punctuation	_	3	punct	3:punct	_
+16	you	_	Word	Word	_	13	A	13:A	_
+17	.	_	Punctuation	Punctuation	_	3	U	3:U	_
 18	This	_	Word	Word	_	19	A	19:A	_
-19	is	_	Word	Word	_	3	orphan	3:orphan	_
-20	one	_	Word	Word	_	3	orphan	3:orphan	_
+19	is	_	Word	Word	_	3	H	3:H	_
+20	one	_	Word	Word	_	23	E	23:E	_
 21	of	_	Word	Word	_	20	R	20:R	_
 22	those	_	Word	Word	_	23	E	23:E	_
-23	voyages	_	Word	Word	_	3	orphan	3:orphan	_
+23	voyages	_	Word	Word	_	19	A	19:A	_
 24	from	_	Word	Word	_	30	R	30:R	_
-25	which	_	Word	Word	_	24	flat	24:flat	_
+25	which	_	Word	Word	_	24	Terminal	24:Terminal	_
 26	people	_	Word	Word	_	30	A	30:A	_
 27	do	_	Word	Word	_	30	F	30:F	_
 28	n’t	_	Word	Word	_	30	D	30:D	_
 29	always	_	Word	Word	_	30	T	30:T	_
-30	come	_	Word	Word	_	3	orphan	3:orphan	_
-31	back	_	Word	Word	_	30	flat	30:flat	_
-32	!	_	Punctuation	Punctuation	_	30	punct	30:punct	_
+30	come	_	Word	Word	_	23	E	23:E	_
+31	back	_	Word	Word	_	30	Terminal	30:Terminal	_
+32	!	_	Punctuation	Punctuation	_	30	U	30:U	_
 

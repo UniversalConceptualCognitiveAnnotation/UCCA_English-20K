@@ -1,17 +1,16 @@
 # format = ucca
 # sent_id = 843001
 # text = Departing from 500,000 throats , three cheers burst forth in succession .
-# doc_id = 
-1	Departing	_	Word	Word	_	0	root	0:root	_
+1	Departing	_	Word	Word	_	7	E	7:E	_
 2	from	_	Word	Word	_	4	R	4:R	_
 3	500,000	_	Word	Word	_	4	E	4:E	_
-4	throats	_	Word	Word	_	1	orphan	1:orphan	_
-5	,	_	Punctuation	Punctuation	_	7	punct	7:punct	_
+4	throats	_	Word	Word	_	1	A	1:A	_
+5	,	_	Punctuation	Punctuation	_	7	U	7:U	_
 6	three	_	Word	Word	_	7	E	7:E	_
-7	cheers	_	Word	Word	_	1	orphan	1:orphan	_
-8	burst	_	Word	Word	_	1	orphan	1:orphan	_
-9	forth	_	Word	Word	_	8	flat	8:flat	_
+7	cheers	_	Word	Word	_	8	A	8:A	_
+8	burst	_	Word	Word	_	0	H	0:H	_
+9	forth	_	Word	Word	_	8	Terminal	8:Terminal	_
 10	in	_	Word	Word	_	11	R	11:R	_
-11	succession	_	Word	Word	_	1	orphan	1:orphan	_
-12	.	_	Punctuation	Punctuation	_	11	punct	11:punct	_
+11	succession	_	Word	Word	_	8	D	8:D	_
+12	.	_	Punctuation	Punctuation	_	11	U	11:U	_
 

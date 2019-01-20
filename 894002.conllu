@@ -1,25 +1,24 @@
 # format = ucca
 # sent_id = 894002
 # text = Then , seeing that Ned just let me talk without saying much himself , I pressed him more closely .
-# doc_id = 
-1	Then	_	Word	Word	_	3	L	3:L	_
-2	,	_	Punctuation	Punctuation	_	3	punct	3:punct	_
-3	seeing	_	Word	Word	_	0	root	0:root	_
+1	Then	_	Word	Word	_	16	L	16:L	_
+2	,	_	Punctuation	Punctuation	_	3	U	3:U	_
+3	seeing	_	Word	Word	_	0	H	0:H	_
 4	that	_	Word	Word	_	9	R	9:R	_
-5	Ned	_	Word	Word	_	9	A	9:A	_
+5	Ned	_	Word	Word	_	9	A	9:A|11:A	_
 6	just	_	Word	Word	_	9	D	9:D	_
 7	let	_	Word	Word	_	9	D	9:D	_
 8	me	_	Word	Word	_	9	A	9:A	_
-9	talk	_	Word	Word	_	3	orphan	3:orphan	_
-10	without	_	Word	Word	_	9	L	9:L	_
-11	saying	_	Word	Word	_	3	orphan	3:orphan	_
+9	talk	_	Word	Word	_	3	A	3:A	_
+10	without	_	Word	Word	_	11	L	11:L|11:D	_
+11	saying	_	Word	Word	_	9	H	9:H	_
 12	much	_	Word	Word	_	11	D	11:D	_
 13	himself	_	Word	Word	_	11	F	11:F	_
-14	,	_	Punctuation	Punctuation	_	3	punct	3:punct	_
-15	I	_	Word	Word	_	16	A	16:A	_
-16	pressed	_	Word	Word	_	3	orphan	3:orphan	_
+14	,	_	Punctuation	Punctuation	_	3	U	3:U	_
+15	I	_	Word	Word	_	16	A	16:A|3:A	_
+16	pressed	_	Word	Word	_	3	H	3:H	_
 17	him	_	Word	Word	_	16	A	16:A	_
 18	more	_	Word	Word	_	19	E	19:E	_
-19	closely	_	Word	Word	_	3	orphan	3:orphan	_
-20	.	_	Punctuation	Punctuation	_	19	punct	19:punct	_
+19	closely	_	Word	Word	_	16	D	16:D	_
+20	.	_	Punctuation	Punctuation	_	19	U	19:U	_
 

@@ -1,39 +1,38 @@
 # format = ucca
 # sent_id = 894000
 # text = Seated on the afterdeck , Ned Land and I chatted about one thing and another , staring at that mysterious sea whose depths to this day are beyond the reach of human eyes .
-# doc_id = 
-1	Seated	_	Word	Word	_	0	root	0:root	_
+1	Seated	_	Word	Word	_	6	E	6:E	_
 2	on	_	Word	Word	_	4	R	4:R	_
 3	the	_	Word	Word	_	4	E	4:E	_
-4	afterdeck	_	Word	Word	_	1	orphan	1:orphan	_
-5	,	_	Punctuation	Punctuation	_	1	punct	1:punct	_
-6	Ned	_	Word	Word	_	1	orphan	1:orphan	_
-7	Land	_	Word	Word	_	6	flat	6:flat	_
+4	afterdeck	_	Word	Word	_	1	A	1:A	_
+5	,	_	Punctuation	Punctuation	_	1	U	1:U	_
+6	Ned	_	Word	Word	_	10	A	10:A	_
+7	Land	_	Word	Word	_	6	Terminal	6:Terminal	_
 8	and	_	Word	Word	_	6	N	6:N	_
 9	I	_	Word	Word	_	6	C	6:C	_
-10	chatted	_	Word	Word	_	1	orphan	1:orphan	_
+10	chatted	_	Word	Word	_	0	H	0:H	_
 11	about	_	Word	Word	_	13	R	13:R	_
 12	one	_	Word	Word	_	13	E	13:E	_
-13	thing	_	Word	Word	_	1	orphan	1:orphan	_
+13	thing	_	Word	Word	_	10	A	10:A	_
 14	and	_	Word	Word	_	13	N	13:N	_
-15	another	_	Word	Word	_	1	orphan	1:orphan	_
-16	,	_	Punctuation	Punctuation	_	10	punct	10:punct	_
-17	staring	_	Word	Word	_	1	orphan	1:orphan	_
+15	another	_	Word	Word	_	13	C	13:C	_
+16	,	_	Punctuation	Punctuation	_	10	U	10:U	_
+17	staring	_	Word	Word	_	6	E	6:E	_
 18	at	_	Word	Word	_	21	R	21:R	_
 19	that	_	Word	Word	_	21	E	21:E	_
 20	mysterious	_	Word	Word	_	21	E	21:E	_
-21	sea	_	Word	Word	_	1	orphan	1:orphan	_
+21	sea	_	Word	Word	_	17	A	17:A	_
 22	whose	_	Word	Word	_	30	R	30:R	_
 23	depths	_	Word	Word	_	30	A	30:A	_
 24	to	_	Word	Word	_	26	R	26:R	_
 25	this	_	Word	Word	_	26	E	26:E	_
-26	day	_	Word	Word	_	1	orphan	1:orphan	_
+26	day	_	Word	Word	_	30	T	30:T	_
 27	are	_	Word	Word	_	30	F	30:F	_
 28	beyond	_	Word	Word	_	30	D	30:D	_
 29	the	_	Word	Word	_	30	E	30:E	_
-30	reach	_	Word	Word	_	1	orphan	1:orphan	_
+30	reach	_	Word	Word	_	21	E	21:E	_
 31	of	_	Word	Word	_	33	R	33:R	_
 32	human	_	Word	Word	_	33	E	33:E	_
-33	eyes	_	Word	Word	_	1	orphan	1:orphan	_
-34	.	_	Punctuation	Punctuation	_	33	punct	33:punct	_
+33	eyes	_	Word	Word	_	30	A	30:A	_
+34	.	_	Punctuation	Punctuation	_	33	U	33:U	_
 

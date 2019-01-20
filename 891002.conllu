@@ -1,26 +1,25 @@
 # format = ucca
 # sent_id = 891002
 # text = Ah , my gallant Ned ! I ask only to live 100 years more , the longer to remember you !
-# doc_id = 
 1	Ah	_	Word	Word	_	11	F	11:F	_
-2	,	_	Punctuation	Punctuation	_	11	punct	11:punct	_
+2	,	_	Punctuation	Punctuation	_	11	U	11:U	_
 3	my	_	Word	Word	_	11	G	11:G	_
-4	gallant	_	Word	Word	_	3	flat	3:flat	_
-5	Ned	_	Word	Word	_	3	flat	3:flat	_
-6	!	_	Punctuation	Punctuation	_	11	punct	11:punct	_
+4	gallant	_	Word	Word	_	3	Terminal	3:Terminal	_
+5	Ned	_	Word	Word	_	3	Terminal	3:Terminal	_
+6	!	_	Punctuation	Punctuation	_	11	U	11:U	_
 7	I	_	Word	Word	_	11	A	11:A	_
 8	ask	_	Word	Word	_	11	D	11:D	_
 9	only	_	Word	Word	_	11	D	11:D	_
 10	to	_	Word	Word	_	11	F	11:F	_
-11	live	_	Word	Word	_	0	root	0:root	_
+11	live	_	Word	Word	_	0	H	0:H	_
 12	100	_	Word	Word	_	13	E	13:E	_
-13	years	_	Word	Word	_	11	orphan	11:orphan	_
+13	years	_	Word	Word	_	11	T	11:T	_
 14	more	_	Word	Word	_	13	E	13:E	_
-15	,	_	Punctuation	Punctuation	_	11	punct	11:punct	_
+15	,	_	Punctuation	Punctuation	_	11	U	11:U	_
 16	the	_	Word	Word	_	17	E	17:E	_
-17	longer	_	Word	Word	_	11	orphan	11:orphan	_
+17	longer	_	Word	Word	_	19	D	19:D	_
 18	to	_	Word	Word	_	19	F	19:F	_
-19	remember	_	Word	Word	_	11	orphan	11:orphan	_
+19	remember	_	Word	Word	_	11	H	11:H	_
 20	you	_	Word	Word	_	19	A	19:A	_
-21	!	_	Punctuation	Punctuation	_	19	punct	19:punct	_
+21	!	_	Punctuation	Punctuation	_	19	U	19:U	_
 

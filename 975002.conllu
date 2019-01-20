@@ -1,45 +1,44 @@
 # format = ucca
 # sent_id = 975002
 # text = Day and night we observed the surface of the ocean , and those with nyctalopic eyes , whose ability to see in the dark increased their chances by fifty percent , had an excellent shot at winning the prize .
-# doc_id = 
-1	Day	_	Word	Word	_	0	root	0:root	_
+1	Day	_	Word	Word	_	5	T	5:T	_
 2	and	_	Word	Word	_	1	N	1:N	_
 3	night	_	Word	Word	_	1	C	1:C	_
 4	we	_	Word	Word	_	5	A	5:A	_
-5	observed	_	Word	Word	_	1	orphan	1:orphan	_
+5	observed	_	Word	Word	_	0	H	0:H	_
 6	the	_	Word	Word	_	7	E	7:E	_
-7	surface	_	Word	Word	_	1	orphan	1:orphan	_
+7	surface	_	Word	Word	_	5	A	5:A	_
 8	of	_	Word	Word	_	10	R	10:R	_
 9	the	_	Word	Word	_	10	E	10:E	_
-10	ocean	_	Word	Word	_	1	orphan	1:orphan	_
-11	,	_	Punctuation	Punctuation	_	5	punct	5:punct	_
-12	and	_	Word	Word	_	5	L	5:L	_
+10	ocean	_	Word	Word	_	7	E	7:E	_
+11	,	_	Punctuation	Punctuation	_	5	U	5:U	_
+12	and	_	Word	Word	_	37	L	37:L	_
 13	those	_	Word	Word	_	14	A	14:A	_
-14	with	_	Word	Word	_	1	orphan	1:orphan	_
+14	with	_	Word	Word	_	37	A	37:A	_
 15	nyctalopic	_	Word	Word	_	16	E	16:E	_
-16	eyes	_	Word	Word	_	1	orphan	1:orphan	_
-17	,	_	Punctuation	Punctuation	_	14	punct	14:punct	_
+16	eyes	_	Word	Word	_	14	A	14:A	_
+17	,	_	Punctuation	Punctuation	_	14	U	14:U	_
 18	whose	_	Word	Word	_	25	R	25:R	_
-19	ability	_	Word	Word	_	1	orphan	1:orphan	_
+19	ability	_	Word	Word	_	25	A	25:A	_
 20	to	_	Word	Word	_	21	F	21:F	_
-21	see	_	Word	Word	_	1	orphan	1:orphan	_
+21	see	_	Word	Word	_	19	A	19:A	_
 22	in	_	Word	Word	_	24	R	24:R	_
 23	the	_	Word	Word	_	24	E	24:E	_
-24	dark	_	Word	Word	_	1	orphan	1:orphan	_
-25	increased	_	Word	Word	_	1	orphan	1:orphan	_
+24	dark	_	Word	Word	_	21	A	21:A	_
+25	increased	_	Word	Word	_	14	E	14:E	_
 26	their	_	Word	Word	_	27	E	27:E	_
-27	chances	_	Word	Word	_	1	orphan	1:orphan	_
+27	chances	_	Word	Word	_	25	A	25:A	_
 28	by	_	Word	Word	_	30	R	30:R	_
 29	fifty	_	Word	Word	_	30	E	30:E	_
-30	percent	_	Word	Word	_	1	orphan	1:orphan	_
-31	,	_	Punctuation	Punctuation	_	37	punct	37:punct	_
+30	percent	_	Word	Word	_	25	D	25:D	_
+31	,	_	Punctuation	Punctuation	_	37	U	37:U	_
 32	had	_	Word	Word	_	37	D	37:D	_
-33	an	_	Word	Word	_	32	flat	32:flat	_
+33	an	_	Word	Word	_	32	Terminal	32:Terminal	_
 34	excellent	_	Word	Word	_	37	D	37:D	_
-35	shot	_	Word	Word	_	32	flat	32:flat	_
-36	at	_	Word	Word	_	32	flat	32:flat	_
-37	winning	_	Word	Word	_	1	orphan	1:orphan	_
+35	shot	_	Word	Word	_	32	Terminal	32:Terminal	_
+36	at	_	Word	Word	_	32	Terminal	32:Terminal	_
+37	winning	_	Word	Word	_	5	H	5:H	_
 38	the	_	Word	Word	_	39	E	39:E	_
-39	prize	_	Word	Word	_	1	orphan	1:orphan	_
-40	.	_	Punctuation	Punctuation	_	39	punct	39:punct	_
+39	prize	_	Word	Word	_	37	A	37:A	_
+40	.	_	Punctuation	Punctuation	_	39	U	39:U	_
 

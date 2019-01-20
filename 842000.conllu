@@ -1,33 +1,32 @@
 # format = ucca
 # sent_id = 842000
 # text = At this order , which was relayed to the engine by means of a compressed - air device , the mechanics activated the start - up wheel .
-# doc_id = 
 1	At	_	Word	Word	_	3	R	3:R	_
 2	this	_	Word	Word	_	3	E	3:E	_
-3	order	_	Word	Word	_	0	root	0:root	_
-4	,	_	Punctuation	Punctuation	_	3	punct	3:punct	_
+3	order	_	Word	Word	_	22	A	22:A	_
+4	,	_	Punctuation	Punctuation	_	3	U	3:U	_
 5	which	_	Word	Word	_	7	R	7:R	_
 6	was	_	Word	Word	_	7	F	7:F	_
-7	relayed	_	Word	Word	_	3	orphan	3:orphan	_
+7	relayed	_	Word	Word	_	3	E	3:E	_
 8	to	_	Word	Word	_	10	R	10:R	_
 9	the	_	Word	Word	_	10	E	10:E	_
-10	engine	_	Word	Word	_	3	orphan	3:orphan	_
+10	engine	_	Word	Word	_	7	A	7:A	_
 11	by	_	Word	Word	_	12	R	12:R	_
-12	means	_	Word	Word	_	3	orphan	3:orphan	_
+12	means	_	Word	Word	_	18	E	18:E	_
 13	of	_	Word	Word	_	12	R	12:R	_
 14	a	_	Word	Word	_	18	E	18:E	_
 15	compressed	_	Word	Word	_	17	E	17:E	_
-16	-	_	Punctuation	Punctuation	_	17	punct	17:punct	_
-17	air	_	Word	Word	_	3	orphan	3:orphan	_
-18	device	_	Word	Word	_	3	orphan	3:orphan	_
-19	,	_	Punctuation	Punctuation	_	22	punct	22:punct	_
+16	-	_	Punctuation	Punctuation	_	17	U	17:U	_
+17	air	_	Word	Word	_	18	E	18:E	_
+18	device	_	Word	Word	_	7	A	7:A	_
+19	,	_	Punctuation	Punctuation	_	22	U	22:U	_
 20	the	_	Word	Word	_	21	E	21:E	_
-21	mechanics	_	Word	Word	_	3	orphan	3:orphan	_
-22	activated	_	Word	Word	_	3	orphan	3:orphan	_
+21	mechanics	_	Word	Word	_	22	A	22:A	_
+22	activated	_	Word	Word	_	0	H	0:H	_
 23	the	_	Word	Word	_	27	E	27:E	_
 24	start	_	Word	Word	_	27	E	27:E	_
-25	-	_	Punctuation	Punctuation	_	27	punct	27:punct	_
-26	up	_	Word	Word	_	24	flat	24:flat	_
-27	wheel	_	Word	Word	_	3	orphan	3:orphan	_
-28	.	_	Punctuation	Punctuation	_	27	punct	27:punct	_
+25	-	_	Punctuation	Punctuation	_	24	U	24:U	_
+26	up	_	Word	Word	_	24	Terminal	24:Terminal	_
+27	wheel	_	Word	Word	_	22	A	22:A	_
+28	.	_	Punctuation	Punctuation	_	27	U	27:U	_
 

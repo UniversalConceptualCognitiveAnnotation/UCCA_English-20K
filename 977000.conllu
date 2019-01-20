@@ -1,12 +1,11 @@
 # format = ucca
 # sent_id = 977000
 # text = But what a waste of energy !
-# doc_id = 
 1	But	_	Word	Word	_	4	L	4:L	_
 2	what	_	Word	Word	_	4	D	4:D	_
 3	a	_	Word	Word	_	4	E	4:E	_
-4	waste	_	Word	Word	_	0	root	0:root	_
+4	waste	_	Word	Word	_	0	H	0:H	_
 5	of	_	Word	Word	_	6	R	6:R	_
-6	energy	_	Word	Word	_	4	orphan	4:orphan	_
-7	!	_	Punctuation	Punctuation	_	6	punct	6:punct	_
+6	energy	_	Word	Word	_	4	A	4:A	_
+7	!	_	Punctuation	Punctuation	_	6	U	6:U	_
 

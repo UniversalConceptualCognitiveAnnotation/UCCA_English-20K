@@ -1,11 +1,10 @@
 # format = ucca
 # sent_id = 885001
 # text = But it had better still .
-# doc_id = 
 1	But	_	Word	Word	_	4	L	4:L	_
 2	it	_	Word	Word	_	4	A	4:A	_
 3	had	_	Word	Word	_	4	F	4:F	_
-4	better	_	Word	Word	_	0	root	0:root	_
+4	better	_	Word	Word	_	0	H	0:H	_
 5	still	_	Word	Word	_	4	D	4:D	_
-6	.	_	Punctuation	Punctuation	_	4	punct	4:punct	_
+6	.	_	Punctuation	Punctuation	_	4	U	4:U	_
 

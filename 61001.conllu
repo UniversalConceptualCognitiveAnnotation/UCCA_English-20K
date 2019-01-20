@@ -1,27 +1,26 @@
 # format = ucca
 # sent_id = 61001
 # text = Indeed , from this moment on , any maritime casualty without an established cause was charged to the monster 's account .
-# doc_id = 
 1	Indeed	_	Word	Word	_	16	L	16:L	_
-2	,	_	Punctuation	Punctuation	_	16	punct	16:punct	_
+2	,	_	Punctuation	Punctuation	_	16	U	16:U	_
 3	from	_	Word	Word	_	5	R	5:R	_
 4	this	_	Word	Word	_	5	E	5:E	_
-5	moment	_	Word	Word	_	0	root	0:root	_
+5	moment	_	Word	Word	_	16	T	16:T	_
 6	on	_	Word	Word	_	5	R	5:R	_
-7	,	_	Punctuation	Punctuation	_	16	punct	16:punct	_
+7	,	_	Punctuation	Punctuation	_	16	U	16:U	_
 8	any	_	Word	Word	_	10	E	10:E	_
 9	maritime	_	Word	Word	_	10	E	10:E	_
-10	casualty	_	Word	Word	_	5	orphan	5:orphan	_
+10	casualty	_	Word	Word	_	16	A	16:A	_
 11	without	_	Word	Word	_	13	R	13:R	_
 12	an	_	Word	Word	_	13	E	13:E	_
-13	established	_	Word	Word	_	5	orphan	5:orphan	_
+13	established	_	Word	Word	_	10	E	10:E	_
 14	cause	_	Word	Word	_	13	A	13:A	_
 15	was	_	Word	Word	_	16	F	16:F	_
-16	charged	_	Word	Word	_	5	orphan	5:orphan	_
+16	charged	_	Word	Word	_	0	H	0:H	_
 17	to	_	Word	Word	_	21	R	21:R	_
 18	the	_	Word	Word	_	19	E	19:E	_
-19	monster	_	Word	Word	_	5	orphan	5:orphan	_
+19	monster	_	Word	Word	_	21	E	21:E	_
 20	's	_	Word	Word	_	19	R	19:R	_
-21	account	_	Word	Word	_	5	orphan	5:orphan	_
-22	.	_	Punctuation	Punctuation	_	21	punct	21:punct	_
+21	account	_	Word	Word	_	16	A	16:A	_
+22	.	_	Punctuation	Punctuation	_	21	U	21:U	_
 

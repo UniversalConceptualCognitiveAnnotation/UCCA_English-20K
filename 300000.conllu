@@ -1,27 +1,26 @@
 # format = ucca
 # sent_id = 300000
 # text = “ However , the solution to this problem submitted to me can take the form of a choice between two alternatives .
-# doc_id = 
-1	“	_	Punctuation	Punctuation	_	13	punct	13:punct	_
+1	“	_	Punctuation	Punctuation	_	13	U	13:U	_
 2	However	_	Word	Word	_	13	L	13:L	_
-3	,	_	Punctuation	Punctuation	_	13	punct	13:punct	_
+3	,	_	Punctuation	Punctuation	_	13	U	13:U	_
 4	the	_	Word	Word	_	5	E	5:E	_
-5	solution	_	Word	Word	_	0	root	0:root	_
+5	solution	_	Word	Word	_	13	A	13:A	_
 6	to	_	Word	Word	_	8	R	8:R	_
 7	this	_	Word	Word	_	8	E	8:E	_
-8	problem	_	Word	Word	_	5	orphan	5:orphan	_
-9	submitted	_	Word	Word	_	5	orphan	5:orphan	_
+8	problem	_	Word	Word	_	5	E	5:E	_
+9	submitted	_	Word	Word	_	8	E	8:E	_
 10	to	_	Word	Word	_	11	R	11:R	_
-11	me	_	Word	Word	_	5	orphan	5:orphan	_
+11	me	_	Word	Word	_	9	A	9:A	_
 12	can	_	Word	Word	_	13	D	13:D	_
-13	take	_	Word	Word	_	5	orphan	5:orphan	_
-14	the	_	Word	Word	_	13	flat	13:flat	_
-15	form	_	Word	Word	_	13	flat	13:flat	_
+13	take	_	Word	Word	_	0	H	0:H	_
+14	the	_	Word	Word	_	13	Terminal	13:Terminal	_
+15	form	_	Word	Word	_	13	Terminal	13:Terminal	_
 16	of	_	Word	Word	_	13	R	13:R	_
 17	a	_	Word	Word	_	18	E	18:E	_
-18	choice	_	Word	Word	_	5	orphan	5:orphan	_
+18	choice	_	Word	Word	_	13	A	13:A	_
 19	between	_	Word	Word	_	21	R	21:R	_
 20	two	_	Word	Word	_	21	E	21:E	_
-21	alternatives	_	Word	Word	_	5	orphan	5:orphan	_
-22	.	_	Punctuation	Punctuation	_	21	punct	21:punct	_
+21	alternatives	_	Word	Word	_	18	E	18:E	_
+22	.	_	Punctuation	Punctuation	_	21	U	21:U	_
 

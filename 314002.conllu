@@ -1,12 +1,11 @@
 # format = ucca
 # sent_id = 314002
 # text = Not a single ship encountered it .
-# doc_id = 
 1	Not	_	Word	Word	_	5	D	5:D	_
 2	a	_	Word	Word	_	4	E	4:E	_
 3	single	_	Word	Word	_	4	E	4:E	_
-4	ship	_	Word	Word	_	0	root	0:root	_
-5	encountered	_	Word	Word	_	4	orphan	4:orphan	_
+4	ship	_	Word	Word	_	5	A	5:A	_
+5	encountered	_	Word	Word	_	0	H	0:H	_
 6	it	_	Word	Word	_	5	A	5:A	_
-7	.	_	Punctuation	Punctuation	_	5	punct	5:punct	_
+7	.	_	Punctuation	Punctuation	_	5	U	5:U	_
 

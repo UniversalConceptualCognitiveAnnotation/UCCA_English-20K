@@ -1,10 +1,9 @@
 # format = ucca
 # sent_id = 846000
 # text = Three o’clock then sounded .
-# doc_id = 
 1	Three	_	Word	Word	_	2	E	2:E	_
-2	o’clock	_	Word	Word	_	0	root	0:root	_
+2	o’clock	_	Word	Word	_	4	T	4:T	_
 3	then	_	Word	Word	_	4	L	4:L	_
-4	sounded	_	Word	Word	_	2	orphan	2:orphan	_
-5	.	_	Punctuation	Punctuation	_	4	punct	4:punct	_
+4	sounded	_	Word	Word	_	0	H	0:H	_
+5	.	_	Punctuation	Punctuation	_	4	U	4:U	_
 
