@@ -18,13 +18,14 @@
 16	,	_	Punctuation	Punctuation	_	19	U	_	_
 17	would	_	Word	Word	_	19	D	_	_
 18	have	_	Word	Word	_	19	F	_	_
-19	accepted	_	Word	Word	_	0	ROOT	_	_
+19	accepted	_	Word	Word	_	0	H	_	_
 20	the	_	Word	Word	_	21	E	_	_
 21	existence	_	Word	Word	_	19	A	_	_
 22	of	_	Word	Word	_	27	R	_	_
 23	such	_	Word	Word	_	25	E	_	_
 24	a	_	Word	Word	_	25	E	_	_
-25	monster	_	Word	Word	_	31	A	_	_
+25	monster	_	Word	Word	_	0	C	_	_
+25	monster	_	Word	Word	_	31	A*	_	_
 26	sight	_	Word	Word	_	27	A	_	_
 27	unseen	_	Word	Word	_	21	A	_	_
 28	-	_	Word	Word	_	27	F	_	_

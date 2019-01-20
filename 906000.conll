@@ -19,7 +19,7 @@
 17	proportionate	_	Word	Word	_	19	D	_	_
 18	in	_	Word	Word	_	19	R	_	_
 19	bulk	_	Word	Word	_	15	C	_	_
-20	live	_	Word	Word	_	0	ROOT	_	_
+20	live	_	Word	Word	_	0	H	_	_
 21	at	_	Word	Word	_	23	R	_	_
 22	such	_	Word	Word	_	23	E	_	_
 23	depths	_	Word	Word	_	20	A	_	_
@@ -62,7 +62,7 @@
 60	of	_	Word	Word	_	61	R	_	_
 61	constitution	_	Word	Word	_	59	E	_	_
 62	they	_	Word	Word	_	64	A	_	_
-62	they	_	Word	Word	_	68	A	_	_
+62	they	_	Word	Word	_	68	A*	_	_
 63	’d	_	Word	Word	_	64	D	_	_
 64	need	_	Word	Word	_	48	A	_	_
 65	in	_	Word	Word	_	20	L	_	_

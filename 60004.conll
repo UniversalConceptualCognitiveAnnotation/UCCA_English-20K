@@ -6,7 +6,7 @@
 4	must	_	Word	Word	_	7	D	_	_
 5	have	_	Word	Word	_	7	F	_	_
 6	been	_	Word	Word	_	7	F	_	_
-7	produced	_	Word	Word	_	0	ROOT	_	_
+7	produced	_	Word	Word	_	0	H	_	_
 8	by	_	Word	Word	_	11	R	_	_
 9	a	_	Word	Word	_	11	E	_	_
 10	perforating	_	Word	Word	_	11	E	_	_
@@ -34,8 +34,8 @@
 32	,	_	Punctuation	Punctuation	_	26	U	_	_
 33	this	_	Word	Word	_	34	E	_	_
 34	tool	_	Word	Word	_	38	A	_	_
-34	tool	_	Word	Word	_	26	A	_	_
-34	tool	_	Word	Word	_	20	A	_	_
+34	tool	_	Word	Word	_	20	A*	_	_
+34	tool	_	Word	Word	_	26	A*	_	_
 35	had	_	Word	Word	_	38	F	_	_
 36	needed	_	Word	Word	_	38	D	_	_
 37	to	_	Word	Word	_	38	F	_	_

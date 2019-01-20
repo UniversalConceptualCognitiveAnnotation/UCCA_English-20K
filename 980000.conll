@@ -5,7 +5,7 @@
 3	!	_	Punctuation	Punctuation	_	6	U	_	_
 4	”	_	Punctuation	Punctuation	_	6	U	_	_
 5	he	_	Word	Word	_	6	A	_	_
-6	replied	_	Word	Word	_	0	ROOT	_	_
+6	replied	_	Word	Word	_	0	H	_	_
 7	.	_	Punctuation	Punctuation	_	6	U	_	_
 8	“	_	Punctuation	Punctuation	_	6	U	_	_
 9	Nothing	_	Word	Word	_	10	A	_	_
@@ -59,8 +59,8 @@
 57	high	_	Word	Word	_	58	E	_	_
 58	seas	_	Word	Word	_	49	A	_	_
 59	—	_	Punctuation	Punctuation	_	2	U	_	_
-60	I	_	Word	Word	_	79	A	_	_
 60	I	_	Word	Word	_	65	A	_	_
+60	I	_	Word	Word	_	79	A*	_	_
 61	’m	_	Word	Word	_	65	F	_	_
 62	truly	_	Word	Word	_	65	D	_	_
 63	willing	_	Word	Word	_	65	D	_	_
@@ -87,8 +87,8 @@
 84	personality	_	Word	Word	_	79	A	_	_
 85	,	_	Punctuation	Punctuation	_	2	U	_	_
 86	it	_	Word	Word	_	87	A	_	_
-86	it	_	Word	Word	_	89	A	_	_
-86	it	_	Word	Word	_	91	A	_	_
+86	it	_	Word	Word	_	89	A*	_	_
+86	it	_	Word	Word	_	91	A*	_	_
 87	hates	_	Word	Word	_	2	H	_	_
 88	growing	_	Word	Word	_	89	D	_	_
 89	moldy	_	Word	Word	_	87	A	_	_
@@ -103,7 +103,7 @@
 98	waterways	_	Word	Word	_	91	A	_	_
 99	!	_	Punctuation	Punctuation	_	2	U	_	_
 100	It	_	Word	Word	_	102	A	_	_
-100	It	_	Word	Word	_	108	A	_	_
+100	It	_	Word	Word	_	108	A*	_	_
 101	’s	_	Word	Word	_	102	F	_	_
 102	blessed	_	Word	Word	_	2	H	_	_
 103	with	_	Word	Word	_	106	R	_	_
@@ -147,8 +147,8 @@
 141	move	_	Word	Word	_	139	E	_	_
 142	swiftly	_	Word	Word	_	141	D	_	_
 143	if	_	Word	Word	_	2	L	_	_
-144	it	_	Word	Word	_	150	A	_	_
 144	it	_	Word	Word	_	148	A	_	_
+144	it	_	Word	Word	_	150	A*	_	_
 145	had	_	Word	Word	_	148	F	_	_
 146	n’t	_	Word	Word	_	148	D	_	_
 147	a	_	Word	Word	_	148	E	_	_

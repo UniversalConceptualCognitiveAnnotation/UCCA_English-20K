@@ -19,8 +19,8 @@
 17	during	_	Word	Word	_	19	R	_	_
 18	the	_	Word	Word	_	19	E	_	_
 19	night	_	Word	Word	_	16	T	_	_
-20	in	_	Word	Word	_	28	R	_	_
 20	in	_	Word	Word	_	22	R	_	_
+20	in	_	Word	Word	_	28	R*	_	_
 21	latitude	_	Word	Word	_	22	E	_	_
 22	27	_	Word	Word	_	16	A	_	_
 23	30	_	Word	Word	_	22	Terminal	_	_
@@ -33,7 +33,7 @@
 30	°	_	Punctuation	Punctuation	_	33	U	_	_
 31	'	_	Punctuation	Punctuation	_	33	U	_	_
 32	,	_	Punctuation	Punctuation	_	33	U	_	_
-33	ran	_	Word	Word	_	0	ROOT	_	_
+33	ran	_	Word	Word	_	0	H	_	_
 34	its	_	Word	Word	_	36	E	_	_
 35	starboard	_	Word	Word	_	36	E	_	_
 36	quarter	_	Word	Word	_	33	A	_	_

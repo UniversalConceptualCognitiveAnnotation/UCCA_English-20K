@@ -8,13 +8,13 @@
 6	popular	_	Word	Word	_	7	E	_	_
 7	press	_	Word	Word	_	9	A	_	_
 8	took	_	Word	Word	_	9	D	_	_
-9	potshots	_	Word	Word	_	0	ROOT	_	_
+9	potshots	_	Word	Word	_	0	H	_	_
 10	at	_	Word	Word	_	12	R	_	_
 11	feature	_	Word	Word	_	12	E	_	_
 12	articles	_	Word	Word	_	9	A	_	_
-13	from	_	Word	Word	_	20	R	_	_
 13	from	_	Word	Word	_	14	R	_	_
-13	from	_	Word	Word	_	32	R	_	_
+13	from	_	Word	Word	_	20	R*	_	_
+13	from	_	Word	Word	_	32	R*	_	_
 14	the	_	Word	Word	_	12	E	_	_
 15	Geographic	_	Word	Word	_	14	Terminal	_	_
 16	Institute	_	Word	Word	_	14	Terminal	_	_
@@ -38,7 +38,7 @@
 34	Institution	_	Word	Word	_	32	Terminal	_	_
 35	in	_	Word	Word	_	32	R	_	_
 36	Washington	_	Word	Word	_	32	E	_	_
-37	,	_	Punctuation	Punctuation	_	32	U	_	_
+37	,	_	Punctuation	Punctuation	_	36	U	_	_
 38	D.C	_	Word	Word	_	36	Terminal	_	_
 39	.	_	Punctuation	Punctuation	_	12	U	_	_
 40	,	_	Punctuation	Punctuation	_	12	U	_	_

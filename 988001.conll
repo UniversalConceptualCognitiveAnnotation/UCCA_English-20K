@@ -2,7 +2,7 @@
 # sent_id = 988001
 1	The	_	Word	Word	_	2	E	_	_
 2	commander	_	Word	Word	_	3	A	_	_
-3	stood	_	Word	Word	_	0	ROOT	_	_
+3	stood	_	Word	Word	_	0	H	_	_
 4	his	_	Word	Word	_	3	Terminal	_	_
 5	ground	_	Word	Word	_	3	Terminal	_	_
 6	.	_	Punctuation	Punctuation	_	3	U	_	_

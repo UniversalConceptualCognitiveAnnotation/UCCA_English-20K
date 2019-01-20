@@ -2,7 +2,7 @@
 # sent_id = 827000
 1	“	_	Punctuation	Punctuation	_	3	U	_	_
 2	You	_	Word	Word	_	3	A	_	_
-3	see	_	Word	Word	_	0	ROOT	_	_
+3	see	_	Word	Word	_	0	H	_	_
 4	,	_	Punctuation	Punctuation	_	3	U	_	_
 5	my	_	Word	Word	_	3	G	_	_
 6	friend	_	Word	Word	_	5	Terminal	_	_
@@ -64,7 +64,8 @@
 62	’s	_	Word	Word	_	64	F	_	_
 63	a	_	Word	Word	_	65	E	_	_
 64	glorious	_	Word	Word	_	3	H	_	_
-65	mission	_	Word	Word	_	69	A	_	_
+65	mission	_	Word	Word	_	0	C	_	_
+65	mission	_	Word	Word	_	69	A*	_	_
 66	but	_	Word	Word	_	3	L	_	_
 67	also	_	Word	Word	_	3	L	_	_
 68	a	_	Word	Word	_	70	E	_	_

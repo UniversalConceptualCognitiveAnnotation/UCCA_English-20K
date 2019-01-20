@@ -5,11 +5,12 @@
 3	offchance	_	Word	Word	_	9	L	_	_
 4	that	_	Word	Word	_	3	R	_	_
 5	the	_	Word	Word	_	6	E	_	_
-6	animal	_	Word	Word	_	22	A	_	_
-6	animal	_	Word	Word	_	28	A	_	_
+6	animal	_	Word	Word	_	0	C	_	_
+6	animal	_	Word	Word	_	22	A*	_	_
+6	animal	_	Word	Word	_	28	A*	_	_
 7	might	_	Word	Word	_	9	D	_	_
 8	be	_	Word	Word	_	9	F	_	_
-9	found	_	Word	Word	_	0	ROOT	_	_
+9	found	_	Word	Word	_	0	H	_	_
 10	in	_	Word	Word	_	12	R	_	_
 11	these	_	Word	Word	_	12	E	_	_
 12	waterways	_	Word	Word	_	9	A	_	_
