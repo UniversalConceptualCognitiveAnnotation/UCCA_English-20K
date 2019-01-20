@@ -6,7 +6,7 @@
 5	in	_	Word	-	-	_	_	_	R	_	_	_	_	_	_
 6	Nebraska	_	Word	-	+	_	A	_	_	_	_	_	_	_	_
 7	,	_	Punctuation	-	-	_	U	_	_	_	_	_	_	_	_
-8	I	_	Word	-	-	_	A	_	_	A	_	A	_	_	_
+8	I	_	Word	-	-	_	A*	_	_	A	_	A*	_	_	_
 9	arrived	_	Word	-	+	_	H	_	_	_	_	_	_	_	_
 10	in	_	Word	-	-	_	_	_	_	_	R	_	_	_	_
 11	New	_	Word	-	+	_	_	_	_	A	_	_	_	_	_

@@ -10,7 +10,7 @@
 9	Commander	_	Word	-	-	_	_	_	_	E	_	_	_
 10	Farragut	_	Word	-	+	_	_	_	_	_	A	_	_
 11	authorized	_	Word	-	+	_	_	_	_	_	_	_	_
-12	him	_	Word	-	-	_	_	_	_	_	A	A	_
+12	him	_	Word	-	-	_	_	_	_	_	A	A*	_
 13	to	_	Word	-	-	_	_	_	_	_	_	F	_
 14	make	_	Word	-	+	_	_	_	_	_	A	_	_
 15	his	_	Word	-	-	_	_	_	_	_	_	Terminal	_

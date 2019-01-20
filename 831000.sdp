@@ -7,7 +7,7 @@
 6	francs	_	Word	-	+	_	E	_	_	_	_	_	_	_	_
 7	,	_	Punctuation	-	-	_	_	_	_	U	_	_	_	_	_
 8	the	_	Word	-	-	_	_	_	E	_	_	_	_	_	_
-9	vehicle	_	Word	-	+	_	_	_	_	_	_	A	_	_	_
+9	vehicle	_	Word	-	+	_	_	_	_	_	_	A*	_	_	_
 10	went	_	Word	-	+	_	_	_	_	_	_	_	_	_	_
 11	down	_	Word	-	-	_	_	_	_	Terminal	_	_	_	_	_
 12	Broadway	_	Word	-	-	_	_	_	_	A	_	_	_	_	_

@@ -15,7 +15,7 @@
 14	had	_	Word	-	-	_	_	_	_	F	_	_	_	_	_
 15	n’t	_	Word	-	-	_	_	_	_	D	_	_	_	_	_
 16	resulted	_	Word	-	+	_	_	_	H	_	_	_	_	_	_
-17	from	_	Word	-	-	_	_	_	_	_	R	R	_	_	_
+17	from	_	Word	-	-	_	_	_	_	_	R	R*	_	_	_
 18	underwater	_	Word	-	-	_	_	_	_	_	E	_	_	_	_
 19	rocks	_	Word	-	+	_	_	_	_	A	_	_	_	_	_
 20	or	_	Word	-	-	_	_	_	_	_	N	_	_	_	_

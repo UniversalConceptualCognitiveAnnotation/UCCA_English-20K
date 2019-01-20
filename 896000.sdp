@@ -1,6 +1,6 @@
 # format = ucca
 1	The	_	Word	-	-	_	E	_	_	_	_	_	_	_	_	_	_	_	_	_	_
-2	harpooner	_	Word	-	+	_	_	_	_	A	A	_	_	_	A	_	_	A	_	_	_
+2	harpooner	_	Word	-	+	_	_	_	_	A*	A*	_	_	_	A*	_	_	A*	_	_	_
 3	stared	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
 4	at	_	Word	-	-	_	_	_	R	_	_	_	_	_	_	_	_	_	_	_	_
 5	me	_	Word	-	+	_	_	A	_	_	_	_	_	_	_	_	_	_	_	_	_

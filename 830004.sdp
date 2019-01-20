@@ -18,7 +18,7 @@
 17	heels	_	Word	-	+	_	_	_	_	_	_	A	_	_	_
 18	,	_	Punctuation	-	-	_	U	_	_	_	_	_	_	_	_
 19	I	_	Word	-	-	_	_	_	_	_	_	_	_	A	_
-20	jumped	_	Word	-	+	_	_	_	_	_	_	P	_	_	_
+20	jumped	_	Word	-	+	_	_	_	_	_	_	P*	_	_	_
 21	into	_	Word	-	-	_	_	_	_	_	_	_	_	_	R
 22	a	_	Word	-	-	_	_	_	_	_	_	_	_	_	E
 23	carriage	_	Word	-	+	_	_	_	_	_	_	_	_	A	_

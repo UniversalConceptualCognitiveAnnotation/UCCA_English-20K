@@ -11,7 +11,7 @@
 10	was	_	Word	-	-	_	_	_	F	_	_	_	_	_	_
 11	sure	_	Word	-	+	_	H	_	_	_	_	_	_	_	_
 12	the	_	Word	-	-	_	_	_	_	E	_	_	_	_	_
-13	lad	_	Word	-	+	_	_	_	_	_	_	_	_	_	A
+13	lad	_	Word	-	+	_	_	_	_	_	_	_	_	_	A*
 14	had	_	Word	-	-	_	_	_	_	_	F	_	_	_	_
 15	n’t	_	Word	-	-	_	_	_	_	_	D	_	_	_	_
 16	missed	_	Word	-	+	_	_	_	A	_	_	_	_	_	_
@@ -25,7 +25,7 @@
 24	and	_	Word	-	-	_	_	_	_	_	_	_	_	N	_
 25	suits	_	Word	-	-	_	_	_	_	_	_	_	_	C	_
 26	as	_	Word	-	-	_	_	_	_	_	_	_	_	_	F
-27	expertly	_	Word	-	-	_	_	_	_	_	_	_	D	_	D
+27	expertly	_	Word	-	-	_	_	_	_	_	_	_	D*	_	D
 28	as	_	Word	-	-	_	_	_	_	_	_	_	_	_	F
 29	birds	_	Word	-	+	_	H	_	_	_	_	_	_	_	_
 30	and	_	Word	-	-	_	_	_	_	_	_	_	_	_	N

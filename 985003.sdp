@@ -1,6 +1,6 @@
 # format = ucca
 1	The	_	Word	-	-	_	E	_	_	_	_	_
-2	crew	_	Word	-	+	_	_	_	_	A	_	A
+2	crew	_	Word	-	+	_	_	_	_	A*	_	A*
 3	called	_	Word	-	+	_	_	_	_	_	_	_
 4	themselves	_	Word	-	-	_	_	A	_	_	_	_
 5	“out-and-out	_	Word	-	-	_	_	_	E	_	_	_

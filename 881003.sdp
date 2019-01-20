@@ -17,7 +17,7 @@
 16	with	_	Word	-	-	_	_	_	_	_	_	_	R	_	_	_	_
 17	sailors	_	Word	-	+	_	_	_	_	_	_	A	_	_	_	_	_
 18	whose	_	Word	-	-	_	_	_	_	_	_	_	_	R	_	_	_
-19	feet	_	Word	-	-	_	_	_	_	_	_	_	_	A	A	_	_
+19	feet	_	Word	-	-	_	_	_	_	_	_	_	_	A	A*	_	_
 20	itched	_	Word	-	+	_	_	_	_	_	_	_	E	_	_	_	_
 21	and	_	Word	-	-	_	_	_	_	_	_	_	_	L	_	_	_
 22	could	_	Word	-	-	_	_	_	_	_	_	_	_	_	D	_	_

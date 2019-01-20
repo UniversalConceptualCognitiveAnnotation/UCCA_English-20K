@@ -6,7 +6,7 @@
 5	anxious	_	Word	-	+	_	H	_	_	_	_	_
 6	eyes	_	Word	-	-	_	_	A	_	_	_	_
 7	,	_	Punctuation	-	-	_	_	U	_	_	_	_
-8	we	_	Word	-	+	_	A	A	_	_	_	_
+8	we	_	Word	-	+	_	A*	A*	_	_	_	_
 9	each	_	Word	-	-	_	_	_	E	_	_	_
 10	would	_	Word	-	-	_	_	_	_	F	_	_
 11	observe	_	Word	-	+	_	H	_	_	_	_	_

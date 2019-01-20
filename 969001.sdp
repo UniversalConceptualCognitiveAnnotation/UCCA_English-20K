@@ -1,6 +1,6 @@
 # format = ucca
 1	But	_	Word	-	-	_	_	_	_	_	L	_	_	_	_	_	_	_	_
-2	one	_	Word	-	+	_	_	_	_	_	_	_	_	_	A	_	_	_	_
+2	one	_	Word	-	+	_	_	_	_	_	_	_	_	_	A*	_	_	_	_
 3	of	_	Word	-	-	_	_	R	_	_	_	_	_	_	_	_	_	_	_
 4	them	_	Word	-	+	_	E	_	_	_	_	_	_	_	_	_	_	_	_
 5	,	_	Punctuation	-	-	_	U	_	_	_	_	_	_	_	_	_	_	_	_

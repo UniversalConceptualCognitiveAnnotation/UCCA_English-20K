@@ -1,5 +1,5 @@
 # format = ucca
-1	They	_	Word	-	-	_	_	A	A	_	_	A	_	_
+1	They	_	Word	-	-	_	_	A	A*	_	_	A*	_	_
 2	could	_	Word	-	-	_	D	_	_	_	_	_	_	_
 3	be	_	Word	-	-	_	F	_	_	_	_	_	_	_
 4	heard	_	Word	-	+	_	_	_	_	_	_	_	_	_

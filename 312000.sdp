@@ -15,7 +15,7 @@
 14	,	_	Punctuation	-	-	_	_	U	_	_	_	_	_	_	_	_	_	_	_	_
 15	more	_	Word	-	-	_	_	_	_	_	E	_	_	_	_	_	_	_	_	_
 16	practical	_	Word	-	+	_	_	_	_	_	_	E	_	_	_	_	_	_	_	_
-17	people	_	Word	-	+	_	C	_	_	_	_	_	_	_	_	_	_	A	_	_
+17	people	_	Word	-	+	_	C*	_	_	_	_	_	_	_	_	_	_	A*	_	_
 18	,	_	Punctuation	-	-	_	_	_	_	_	_	U	_	_	_	_	_	_	_	_
 19	especially	_	Word	-	-	_	_	_	_	_	_	_	E	_	_	_	_	_	_	_
 20	in	_	Word	-	-	_	_	_	_	_	_	_	R	_	_	_	_	_	_	_

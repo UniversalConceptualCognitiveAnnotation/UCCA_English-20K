@@ -23,7 +23,7 @@
 22	activated	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_
 23	the	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	E
 24	start	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	E
-25	-	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	_	U
+25	-	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	U	_
 26	up	_	Word	-	-	_	_	_	_	_	_	_	_	_	Terminal	_
 27	wheel	_	Word	-	+	_	_	_	_	_	_	_	_	A	_	_
 28	.	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	_	U

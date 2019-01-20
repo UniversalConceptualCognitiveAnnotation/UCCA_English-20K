@@ -13,7 +13,7 @@
 12	’s	_	Word	-	-	_	_	_	R	_	_	_	_	_	_	_
 13	letter	_	Word	-	+	_	_	A	_	_	_	_	_	_	_	_
 14	,	_	Punctuation	-	-	_	_	U	_	_	_	_	_	_	_	_
-15	I	_	Word	-	-	_	_	_	_	_	_	A	A	_	A	_
+15	I	_	Word	-	-	_	_	_	_	_	_	A	A*	_	A*	_
 16	no	_	Word	-	+	_	_	_	_	_	_	D	_	_	_	_
 17	more	_	Word	-	-	_	_	_	_	_	Terminal	_	_	_	_	_
 18	dreamed	_	Word	-	+	_	_	H	_	_	_	_	_	_	_	_

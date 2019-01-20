@@ -1,5 +1,5 @@
 # format = ucca
-1	Without	_	Word	-	-	_	L	_	_	_	_	_	_	_	_	_
+1	Without	_	Word	-	-	_	D*	_	_	_	_	_	_	_	_	_
 2	getting	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_
 3	into	_	Word	-	-	_	Terminal	_	_	_	_	_	_	_	_	_
 4	those	_	Word	-	-	_	_	E	_	_	_	_	_	_	_	_

@@ -7,7 +7,7 @@
 6	any	_	Word	-	-	_	_	_	E	_	_	_
 7	views	_	Word	-	+	_	_	A	_	_	_	_
 8	,	_	Punctuation	-	-	_	_	U	_	_	_	_
-9	I	_	Word	-	-	_	A	A	_	A	_	_
+9	I	_	Word	-	-	_	A*	A*	_	A	_	_
 10	drifted	_	Word	-	+	_	H	_	_	_	_	_
 11	from	_	Word	-	-	_	_	_	_	_	R	_
 12	one	_	Word	-	-	_	_	_	_	_	E	_

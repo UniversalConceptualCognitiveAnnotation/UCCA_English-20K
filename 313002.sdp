@@ -3,7 +3,7 @@
 2	high	_	Word	-	-	_	E	_	_	_	_	_	_	_
 3	-	_	Punctuation	-	-	_	U	_	_	_	_	_	_	_
 4	speed	_	Word	-	+	_	_	E	_	_	_	_	_	_
-5	frigate	_	Word	-	+	_	_	_	_	_	A	_	_	_
+5	frigate	_	Word	-	+	_	_	_	_	_	A*	_	_	_
 6	,	_	Punctuation	-	-	_	_	_	_	U	_	_	_	_
 7	the	_	Word	-	-	_	_	_	E	_	_	_	_	_
 8	Abraham	_	Word	-	+	_	_	_	_	A	_	_	_	_
