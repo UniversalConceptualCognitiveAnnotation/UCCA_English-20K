@@ -1,7 +1,7 @@
 # format = ucca
 # sent_id = 981004
 # text = Yet everyone still felt confident of success , and not a sailor on board would have bet against the narwhale appearing , and soon .
-1	Yet	_	Word	Word	_	5	L	5:L	_
+1	Yet	_	Word	Word	_	17	L	17:L	_
 2	everyone	_	Word	Word	_	5	A	5:A	_
 3	still	_	Word	Word	_	5	D	5:D	_
 4	felt	_	Word	Word	_	5	D	5:D	_
@@ -9,7 +9,7 @@
 6	of	_	Word	Word	_	7	R	7:R	_
 7	success	_	Word	Word	_	5	A	5:A	_
 8	,	_	Punctuation	Punctuation	_	5	U	5:U	_
-9	and	_	Word	Word	_	5	L	5:L	_
+9	and	_	Word	Word	_	17	L	17:L	_
 10	not	_	Word	Word	_	17	D	17:D	_
 11	a	_	Word	Word	_	12	E	12:E	_
 12	sailor	_	Word	Word	_	17	A	17:A	_

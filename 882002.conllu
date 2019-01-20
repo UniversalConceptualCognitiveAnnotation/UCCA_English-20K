@@ -1,7 +1,7 @@
 # format = ucca
 # sent_id = 882002
 # text = Besides , Commander Farragut had mentioned that a certain sum of $ 2,000.00 was waiting for the man who first sighted the animal , be he cabin boy or sailor , mate or officer .
-1	Besides	_	Word	Word	_	6	L	6:L	_
+1	Besides	_	Word	Word	_	25	L	25:L	_
 2	,	_	Punctuation	Punctuation	_	6	U	6:U	_
 3	Commander	_	Word	Word	_	4	E	4:E	_
 4	Farragut	_	Word	Word	_	6	A	6:A	_

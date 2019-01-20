@@ -1,14 +1,14 @@
 # format = ucca
 # sent_id = 295000
 # text = And so the monster surfaced again , despite the endless witticisms heaped on it by the popular press , and the human imagination soon got caught up in the most ridiculous ichthyological fantasies .
-1	And	_	Word	Word	_	5	L	5:L	_
+1	And	_	Word	Word	_	12	L	12:L	_
 2	so	_	Word	Word	_	1	Terminal	1:Terminal	_
 3	the	_	Word	Word	_	4	E	4:E	_
 4	monster	_	Word	Word	_	5	A	5:A	_
 5	surfaced	_	Word	Word	_	0	H	0:H	_
 6	again	_	Word	Word	_	5	D	5:D	_
 7	,	_	Punctuation	Punctuation	_	5	U	5:U	_
-8	despite	_	Word	Word	_	5	L	5:L	_
+8	despite	_	Word	Word	_	12	L	12:L	_
 9	the	_	Word	Word	_	11	E	11:E	_
 10	endless	_	Word	Word	_	11	E	11:E	_
 11	witticisms	_	Word	Word	_	12	A	12:A	_
@@ -20,7 +20,7 @@
 17	popular	_	Word	Word	_	18	E	18:E	_
 18	press	_	Word	Word	_	12	A	12:A	_
 19	,	_	Punctuation	Punctuation	_	5	U	5:U	_
-20	and	_	Word	Word	_	5	L	5:L	_
+20	and	_	Word	Word	_	26	L	26:L	_
 21	the	_	Word	Word	_	23	E	23:E	_
 22	human	_	Word	Word	_	23	E	23:E	_
 23	imagination	_	Word	Word	_	26	A	26:A	_

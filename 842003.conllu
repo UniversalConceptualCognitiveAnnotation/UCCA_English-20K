@@ -13,7 +13,7 @@
 10	increasing	_	Word	Word	_	11	E	11:E	_
 11	speed	_	Word	Word	_	6	D	6:D	_
 12	,	_	Punctuation	Punctuation	_	6	U	6:U	_
-13	and	_	Word	Word	_	6	L	6:L	_
+13	and	_	Word	Word	_	17	L	17:L	_
 14	the	_	Word	Word	_	15	E	15:E	_
 15	Abraham	_	Word	Word	_	17	A	17:A	_
 16	Lincoln	_	Word	Word	_	15	Terminal	15:Terminal	_

@@ -17,12 +17,12 @@
 14	interested	_	Word	Word	_	9	E	9:E	_
 15	.	_	Punctuation	Punctuation	_	10	U	10:U	_
 16	"	_	Punctuation	Punctuation	_	10	U	10:U	_
-17	Because	_	Word	Word	_	6	L	6:L	_
+17	Because	_	Word	Word	_	20	L	20:L	_
 18	the	_	Word	Word	_	19	E	19:E	_
 19	water	_	Word	Word	_	0	C	0:C|25:A	_
 20	surrounds	_	Word	Word	_	6	H	6:H	_
 21	me	_	Word	Word	_	20	A	20:A	_
-22	but	_	Word	Word	_	6	L	6:L	_
+22	but	_	Word	Word	_	25	L	25:L	_
 23	does	_	Word	Word	_	25	F	25:F	_
 24	n't	_	Word	Word	_	25	D	25:D	_
 25	penetrate	_	Word	Word	_	6	H	6:H	_

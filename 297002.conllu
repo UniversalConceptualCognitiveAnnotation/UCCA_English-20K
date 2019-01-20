@@ -15,7 +15,7 @@
 12	and	_	Word	Word	_	11	N	11:N	_
 13	scientific	_	Word	Word	_	11	C	11:C	_
 14	,	_	Punctuation	Punctuation	_	2	U	2:U	_
-15	and	_	Word	Word	_	2	L	2:L	_
+15	and	_	Word	Word	_	19	L	19:L	_
 16	this	_	Word	Word	_	19	A	19:A	_
 17	is	_	Word	Word	_	19	F	19:F	_
 18	an	_	Word	Word	_	19	E	19:E	_

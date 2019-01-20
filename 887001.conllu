@@ -28,7 +28,7 @@
 25	sometimes	_	Word	Word	_	26	T	26:T	_
 26	headstrong	_	Word	Word	_	2	H	2:H	_
 27	,	_	Punctuation	Punctuation	_	2	U	2:U	_
-28	and	_	Word	Word	_	2	L	2:L	_
+28	and	_	Word	Word	_	32	L	32:L	_
 29	quite	_	Word	Word	_	32	D	32:D	_
 30	ill	_	Word	Word	_	32	E	32:E	_
 31	-	_	Punctuation	Punctuation	_	32	U	32:U	_

@@ -2,7 +2,7 @@
 # sent_id = 897000
 # text = " But Ned , you 're a professional whaler , a man familiar with all the great marine mammals - your mind should easily accept this hypothesis of an enormous cetacean , and you ought to be the last one to doubt it under these circumstances ! "
 1	"	_	Punctuation	Punctuation	_	6	U	6:U	_
-2	But	_	Word	Word	_	6	L	6:L	_
+2	But	_	Word	Word	_	25	L	25:L	_
 3	Ned	_	Word	Word	_	6	G	6:G	_
 4	,	_	Punctuation	Punctuation	_	6	U	6:U	_
 5	you	_	Word	Word	_	6	A	6:A	_
@@ -33,7 +33,7 @@
 30	enormous	_	Word	Word	_	31	E	31:E	_
 31	cetacean	_	Word	Word	_	27	E	27:E	_
 32	,	_	Punctuation	Punctuation	_	6	U	6:U	_
-33	and	_	Word	Word	_	6	L	6:L	_
+33	and	_	Word	Word	_	42	L	42:L	_
 34	you	_	Word	Word	_	42	A	42:A	_
 35	ought	_	Word	Word	_	42	D	42:D	_
 36	to	_	Word	Word	_	35	Terminal	35:Terminal	_

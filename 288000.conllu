@@ -1,7 +1,7 @@
 # format = ucca
 # sent_id = 288000
 # text = When I arrived in New York , the question was at the boiling point .
-1	When	_	Word	Word	_	3	L	3:L	_
+1	When	_	Word	Word	_	13	L	13:L	_
 2	I	_	Word	Word	_	3	A	3:A	_
 3	arrived	_	Word	Word	_	0	H	0:H	_
 4	in	_	Word	Word	_	5	R	5:R	_

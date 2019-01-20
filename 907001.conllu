@@ -7,8 +7,8 @@
 4	,	_	Punctuation	Punctuation	_	3	U	3:U	_
 5	Ned	_	Word	Word	_	3	G	3:G	_
 6	,	_	Punctuation	Punctuation	_	3	U	3:U	_
-7	and	_	Word	Word	_	3	L	3:L	_
-8	then	_	Word	Word	_	3	L	3:L	_
+7	and	_	Word	Word	_	9	L	9:L	_
+8	then	_	Word	Word	_	9	L	9:L	_
 9	picture	_	Word	Word	_	3	H	3:H	_
 10	the	_	Word	Word	_	11	E	11:E	_
 11	damage	_	Word	Word	_	16	A	16:A	_
@@ -17,7 +17,7 @@
 14	mass	_	Word	Word	_	16	A	16:A	_
 15	could	_	Word	Word	_	16	D	16:D	_
 16	inflict	_	Word	Word	_	9	A	9:A	_
-17	if	_	Word	Word	_	3	L	3:L	_
+17	if	_	Word	Word	_	20	L	20:L	_
 18	it	_	Word	Word	_	20	A	20:A	_
 19	were	_	Word	Word	_	20	D	20:D	_
 20	launched	_	Word	Word	_	3	H	3:H	_

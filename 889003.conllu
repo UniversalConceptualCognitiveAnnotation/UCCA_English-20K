@@ -9,7 +9,7 @@
 6	in	_	Word	Word	_	7	R	7:R	_
 7	Quebec	_	Word	Word	_	5	A	5:A	_
 8	,	_	Punctuation	Punctuation	_	5	U	5:U	_
-9	and	_	Word	Word	_	5	L	5:L	_
+9	and	_	Word	Word	_	11	L	11:L	_
 10	they	_	Word	Word	_	11	A	11:A	_
 11	were	_	Word	Word	_	5	H	5:H	_
 12	already	_	Word	Word	_	11	D	11:D	_

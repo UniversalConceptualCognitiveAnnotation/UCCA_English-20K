@@ -1,7 +1,7 @@
 # format = ucca
 # sent_id = 40000
 # text = Now then , it did exist , this was an undeniable fact ; and since the human mind dotes on objects of wonder , you can understand the worldwide excitement caused by this unearthly apparition .
-1	Now	_	Word	Word	_	6	L	6:L	_
+1	Now	_	Word	Word	_	12	L	12:L	_
 2	then	_	Word	Word	_	1	Terminal	1:Terminal	_
 3	,	_	Punctuation	Punctuation	_	6	U	6:U	_
 4	it	_	Word	Word	_	6	A	6:A	_
@@ -14,8 +14,8 @@
 11	undeniable	_	Word	Word	_	12	D	12:D	_
 12	fact	_	Word	Word	_	6	H	6:H	_
 13	;	_	Punctuation	Punctuation	_	6	U	6:U	_
-14	and	_	Word	Word	_	6	L	6:L	_
-15	since	_	Word	Word	_	6	L	6:L	_
+14	and	_	Word	Word	_	19	L	19:L	_
+15	since	_	Word	Word	_	19	L	19:L	_
 16	the	_	Word	Word	_	18	E	18:E	_
 17	human	_	Word	Word	_	18	E	18:E	_
 18	mind	_	Word	Word	_	19	A	19:A	_

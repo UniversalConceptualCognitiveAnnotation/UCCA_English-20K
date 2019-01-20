@@ -2,13 +2,13 @@
 # sent_id = 982003
 # text = " So the frigate kept well out when passing the Tuamotu , Marquesas , and Hawaiian Islands , then cut the Tropic of Cancer at longitude 132 ° and headed for the seas of China .
 1	"	_	Punctuation	Punctuation	_	5	U	5:U	_
-2	So	_	Word	Word	_	5	L	5:L	_
+2	So	_	Word	Word	_	9	L	9:L	_
 3	the	_	Word	Word	_	4	E	4:E	_
 4	frigate	_	Word	Word	_	0	C	0:C|9:A|20:A|30:A	_
 5	kept	_	Word	Word	_	0	H	0:H	_
 6	well	_	Word	Word	_	5	D	5:D	_
 7	out	_	Word	Word	_	5	Terminal	5:Terminal	_
-8	when	_	Word	Word	_	5	L	5:L	_
+8	when	_	Word	Word	_	9	L	9:L	_
 9	passing	_	Word	Word	_	5	H	5:H	_
 10	the	_	Word	Word	_	9	A	9:A	_
 11	Tuamotu	_	Word	Word	_	10	E	10:E	_
@@ -19,7 +19,7 @@
 16	Hawaiian	_	Word	Word	_	17	E	17:E	_
 17	Islands	_	Word	Word	_	0	C	0:C|10:C	_
 18	,	_	Punctuation	Punctuation	_	5	U	5:U	_
-19	then	_	Word	Word	_	5	L	5:L	_
+19	then	_	Word	Word	_	20	L	20:L	_
 20	cut	_	Word	Word	_	5	H	5:H	_
 21	the	_	Word	Word	_	22	E	22:E	_
 22	Tropic	_	Word	Word	_	20	A	20:A	_
@@ -29,7 +29,7 @@
 26	longitude	_	Word	Word	_	27	E	27:E	_
 27	132	_	Word	Word	_	20	A	20:A	_
 28	°	_	Punctuation	Punctuation	_	5	U	5:U	_
-29	and	_	Word	Word	_	5	L	5:L	_
+29	and	_	Word	Word	_	30	L	30:L	_
 30	headed	_	Word	Word	_	5	H	5:H	_
 31	for	_	Word	Word	_	33	R	33:R	_
 32	the	_	Word	Word	_	33	E	33:E	_

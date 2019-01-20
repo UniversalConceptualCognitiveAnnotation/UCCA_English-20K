@@ -2,9 +2,9 @@
 # sent_id = 307000
 # text = " So , until information becomes more abundant , I plump for a sea unicorn of colossal dimensions , no longer armed with a mere lance but with an actual spur , like ironclad frigates or those warships called ' rams , ' whose mass and motor power it would possess simultaneously .
 1	"	_	Punctuation	Punctuation	_	8	U	8:U	_
-2	So	_	Word	Word	_	8	L	8:L	_
+2	So	_	Word	Word	_	11	L	11:L	_
 3	,	_	Punctuation	Punctuation	_	8	U	8:U	_
-4	until	_	Word	Word	_	8	L	8:L	_
+4	until	_	Word	Word	_	11	L	11:L	_
 5	information	_	Word	Word	_	8	A	8:A	_
 6	becomes	_	Word	Word	_	8	D	8:D	_
 7	more	_	Word	Word	_	8	D	8:D	_
@@ -27,7 +27,7 @@
 24	a	_	Word	Word	_	26	E	26:E	_
 25	mere	_	Word	Word	_	26	E	26:E	_
 26	lance	_	Word	Word	_	22	A	22:A	_
-27	but	_	Word	Word	_	8	L	8:L	_
+27	but	_	Word	Word	_	31	L	31:L	_
 28	with	_	Word	Word	_	31	R	31:R	_
 29	an	_	Word	Word	_	31	E	31:E	_
 30	actual	_	Word	Word	_	31	E	31:E	_

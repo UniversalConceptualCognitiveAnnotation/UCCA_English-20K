@@ -1,7 +1,7 @@
 # format = ucca
 # sent_id = 40001
 # text = As for relegating it to the realm of fiction , that charge had to be dropped .
-1	As	_	Word	Word	_	3	L	3:L	_
+1	As	_	Word	Word	_	16	L	16:L	_
 2	for	_	Word	Word	_	1	Terminal	1:Terminal	_
 3	relegating	_	Word	Word	_	0	H	0:H	_
 4	it	_	Word	Word	_	3	A	3:A	_

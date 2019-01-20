@@ -19,7 +19,7 @@
 16	after	_	Word	Word	_	17	R	17:R	_
 17	all	_	Word	Word	_	9	D	9:D	_
 18	,	_	Punctuation	Punctuation	_	4	U	4:U	_
-19	and	_	Word	Word	_	4	L	4:L	_
+19	and	_	Word	Word	_	21	L	21:L	_
 20	we	_	Word	Word	_	21	A	21:A	_
 21	jumped	_	Word	Word	_	4	H	4:H	_
 22	into	_	Word	Word	_	23	R	23:R	_
@@ -68,7 +68,7 @@
 65	's	_	Word	Word	_	64	R	64:R	_
 66	museum	_	Word	Word	_	56	H	56:H	_
 67	!	_	Punctuation	Punctuation	_	56	U	56:U	_
-68	And	_	Word	Word	_	56	L	56:L	_
+68	And	_	Word	Word	_	74	L	74:L	_
 69	by	_	Word	Word	_	70	R	70:R	_
 70	now	_	Word	Word	_	74	T	74:T	_
 71	I	_	Word	Word	_	74	A	74:A	_
@@ -79,7 +79,7 @@
 76	's	_	Word	Word	_	75	R	75:R	_
 77	fossils	_	Word	Word	_	74	A	74:A	_
 78	.	_	Punctuation	Punctuation	_	56	U	56:U	_
-79	And	_	Word	Word	_	56	L	56:L	_
+79	And	_	Word	Word	_	85	L	85:L	_
 80	master	_	Word	Word	_	82	E	82:E	_
 81	's	_	Word	Word	_	80	R	80:R	_
 82	babirusa	_	Word	Word	_	85	A	85:A	_
@@ -97,7 +97,7 @@
 94	Botanical	_	Word	Word	_	95	E	95:E	_
 95	Gardens	_	Word	Word	_	91	E	91:E	_
 96	,	_	Punctuation	Punctuation	_	56	U	56:U	_
-97	and	_	Word	Word	_	56	L	56:L	_
+97	and	_	Word	Word	_	101	L	101:L	_
 98	it	_	Word	Word	_	101	A	101:A	_
 99	would	_	Word	Word	_	101	D	101:D	_
 100	have	_	Word	Word	_	101	F	101:F	_

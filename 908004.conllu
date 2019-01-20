@@ -1,7 +1,7 @@
 # format = ucca
 # sent_id = 908004
 # text = Now then , this hole did n't make itself , and since it had n't resulted from underwater rocks or underwater machines , it must have been caused by the perforating tool of some animal .
-1	Now	_	Word	Word	_	8	L	8:L	_
+1	Now	_	Word	Word	_	16	L	16:L	_
 2	then	_	Word	Word	_	1	Terminal	1:Terminal	_
 3	,	_	Punctuation	Punctuation	_	8	U	8:U	_
 4	this	_	Word	Word	_	5	E	5:E	_
@@ -11,8 +11,8 @@
 8	make	_	Word	Word	_	0	H	0:H	_
 9	itself	_	Word	Word	_	8	A	8:A	_
 10	,	_	Punctuation	Punctuation	_	8	U	8:U	_
-11	and	_	Word	Word	_	8	L	8:L	_
-12	since	_	Word	Word	_	8	L	8:L	_
+11	and	_	Word	Word	_	16	L	16:L	_
+12	since	_	Word	Word	_	16	L	16:L	_
 13	it	_	Word	Word	_	16	A	16:A	_
 14	had	_	Word	Word	_	16	F	16:F	_
 15	n't	_	Word	Word	_	16	D	16:D	_

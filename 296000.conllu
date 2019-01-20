@@ -1,7 +1,7 @@
 # format = ucca
 # sent_id = 296000
 # text = After I arrived in New York , several people did me the honor of consulting me on the phenomenon in question .
-1	After	_	Word	Word	_	3	L	3:L	_
+1	After	_	Word	Word	_	15	L	15:L	_
 2	I	_	Word	Word	_	3	A	3:A	_
 3	arrived	_	Word	Word	_	0	H	0:H	_
 4	in	_	Word	Word	_	5	R	5:R	_

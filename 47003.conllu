@@ -1,7 +1,7 @@
 # format = ucca
 # sent_id = 47003
 # text = Finally , in a much - feared satirical journal , an article by its most popular columnist finished off the monster for good , spurning it in the style of Hippolytus repulsing the amorous advances of his stepmother Phaedra , and giving the creature its quietus amid a universal burst of laughter .
-1	Finally	_	Word	Word	_	18	L	18:L	_
+1	Finally	_	Word	Word	_	25	L	25:L	_
 2	,	_	Punctuation	Punctuation	_	18	U	18:U	_
 3	in	_	Word	Word	_	9	R	9:R	_
 4	a	_	Word	Word	_	9	E	9:E	_
@@ -41,7 +41,7 @@
 38	stepmother	_	Word	Word	_	39	E	39:E	_
 39	Phaedra	_	Word	Word	_	35	E	35:E	_
 40	,	_	Punctuation	Punctuation	_	18	U	18:U	_
-41	and	_	Word	Word	_	18	L	18:L	_
+41	and	_	Word	Word	_	42	L	42:L	_
 42	giving	_	Word	Word	_	18	H	18:H	_
 43	the	_	Word	Word	_	44	E	44:E	_
 44	creature	_	Word	Word	_	42	A	42:A	_

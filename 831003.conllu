@@ -30,7 +30,7 @@
 27	East	_	Word	Word	_	20	A	20:A	_
 28	River	_	Word	Word	_	27	Terminal	27:Terminal	_
 29	,	_	Punctuation	Punctuation	_	5	U	5:U	_
-30	and	_	Word	Word	_	5	L	5:L	_
+30	and	_	Word	Word	_	36	L	36:L	_
 31	in	_	Word	Word	_	34	R	34:R	_
 32	a	_	Word	Word	_	34	E	34:E	_
 33	few	_	Word	Word	_	32	Terminal	32:Terminal	_

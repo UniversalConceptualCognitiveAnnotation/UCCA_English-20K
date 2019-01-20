@@ -7,7 +7,7 @@
 4	the	_	Word	Word	_	5	E	5:E	_
 5	attention	_	Word	Word	_	3	A	3:A|11:A	_
 6	,	_	Punctuation	Punctuation	_	3	U	3:U	_
-7	and	_	Word	Word	_	3	L	3:L	_
+7	and	_	Word	Word	_	11	L	11:L	_
 8	above	_	Word	Word	_	9	R	9:R	_
 9	all	_	Word	Word	_	11	D	11:D	_
 10	the	_	Word	Word	_	11	E	11:E	_

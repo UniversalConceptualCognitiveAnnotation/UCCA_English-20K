@@ -1,7 +1,7 @@
 # format = ucca
 # sent_id = 820000
 # text = From rubbing shoulders with scientists in our little universe by the Botanical Gardens , the boy had come to know a thing or two .
-1	From	_	Word	Word	_	2	L	2:L	_
+1	From	_	Word	Word	_	18	L	18:L	_
 2	rubbing	_	Word	Word	_	0	H	0:H	_
 3	shoulders	_	Word	Word	_	2	Terminal	2:Terminal	_
 4	with	_	Word	Word	_	5	R	5:R	_

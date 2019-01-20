@@ -22,7 +22,7 @@
 19	on	_	Word	Word	_	20	R	20:R	_
 20	board	_	Word	Word	_	17	A	17:A	_
 21	,	_	Punctuation	Punctuation	_	10	U	10:U	_
-22	and	_	Word	Word	_	10	L	10:L	_
+22	and	_	Word	Word	_	23	L	23:L	_
 23	carve	_	Word	Word	_	10	H	10:H	_
 24	it	_	Word	Word	_	23	A	23:A	_
 25	up	_	Word	Word	_	23	Terminal	23:Terminal	_

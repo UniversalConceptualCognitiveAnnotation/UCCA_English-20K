@@ -2,7 +2,7 @@
 # sent_id = 978002
 # text = By then it was the bad season in these southernmost regions , because July in this zone corresponds to our January in Europe ; but the sea remained smooth and easily visible over a vast perimeter .
 1	By	_	Word	Word	_	2	R	2:R	_
-2	then	_	Word	Word	_	4	L	4:L	_
+2	then	_	Word	Word	_	18	L	18:L	_
 3	it	_	Word	Word	_	4	F	4:F	_
 4	was	_	Word	Word	_	0	H	0:H	_
 5	the	_	Word	Word	_	7	E	7:E	_
@@ -13,7 +13,7 @@
 10	southernmost	_	Word	Word	_	11	E	11:E	_
 11	regions	_	Word	Word	_	4	A	4:A	_
 12	,	_	Punctuation	Punctuation	_	4	U	4:U	_
-13	because	_	Word	Word	_	4	L	4:L	_
+13	because	_	Word	Word	_	18	L	18:L	_
 14	July	_	Word	Word	_	18	A	18:A	_
 15	in	_	Word	Word	_	17	R	17:R	_
 16	this	_	Word	Word	_	17	E	17:E	_
@@ -25,7 +25,7 @@
 22	in	_	Word	Word	_	23	R	23:R	_
 23	Europe	_	Word	Word	_	21	E	21:E	_
 24	;	_	Punctuation	Punctuation	_	4	U	4:U	_
-25	but	_	Word	Word	_	4	L	4:L	_
+25	but	_	Word	Word	_	29	L	29:L	_
 26	the	_	Word	Word	_	27	E	27:E	_
 27	sea	_	Word	Word	_	29	A	29:A	_
 28	remained	_	Word	Word	_	29	D	29:D	_

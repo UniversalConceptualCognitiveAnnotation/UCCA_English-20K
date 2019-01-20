@@ -2,7 +2,7 @@
 # sent_id = 904004
 # text = In reality , such a column of water would n't be quite so high because here we 're dealing with salt water , which is denser than fresh water .
 1	In	_	Word	Word	_	2	R	2:R	_
-2	reality	_	Word	Word	_	14	L	14:L	_
+2	reality	_	Word	Word	_	19	L	19:L	_
 3	,	_	Punctuation	Punctuation	_	14	U	14:U	_
 4	such	_	Word	Word	_	6	E	6:E	_
 5	a	_	Word	Word	_	6	E	6:E	_
@@ -15,7 +15,7 @@
 12	quite	_	Word	Word	_	14	D	14:D	_
 13	so	_	Word	Word	_	14	D	14:D	_
 14	high	_	Word	Word	_	0	H	0:H	_
-15	because	_	Word	Word	_	14	L	14:L	_
+15	because	_	Word	Word	_	19	L	19:L	_
 16	here	_	Word	Word	_	19	A	19:A	_
 17	we	_	Word	Word	_	19	A	19:A	_
 18	're	_	Word	Word	_	19	F	19:F	_
@@ -24,7 +24,7 @@
 21	salt	_	Word	Word	_	22	E	22:E	_
 22	water	_	Word	Word	_	19	A	19:A|26:A	_
 23	,	_	Punctuation	Punctuation	_	14	U	14:U	_
-24	which	_	Word	Word	_	14	L	14:L	_
+24	which	_	Word	Word	_	26	L	26:L	_
 25	is	_	Word	Word	_	26	F	26:F	_
 26	denser	_	Word	Word	_	14	H	14:H	_
 27	than	_	Word	Word	_	26	F	26:F	_

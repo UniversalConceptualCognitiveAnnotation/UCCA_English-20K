@@ -6,7 +6,7 @@
 3	;	_	Punctuation	Punctuation	_	2	U	2:U	_
 4	I	_	Word	Word	_	5	A	5:A	_
 5	stared	_	Word	Word	_	2	H	2:H	_
-6	until	_	Word	Word	_	2	L	2:L	_
+6	until	_	Word	Word	_	10	L	10:L	_
 7	I	_	Word	Word	_	10	A	10:A	_
 8	nearly	_	Word	Word	_	10	D	10:D	_
 9	went	_	Word	Word	_	10	D	10:D	_
@@ -18,7 +18,7 @@
 15	out	_	Word	Word	_	13	Terminal	13:Terminal	_
 16	retina	_	Word	Word	_	10	A	10:A	_
 17	,	_	Punctuation	Punctuation	_	2	U	2:U	_
-18	while	_	Word	Word	_	2	L	2:L	_
+18	while	_	Word	Word	_	27	L	27:L	_
 19	Conseil	_	Word	Word	_	27	A	27:A	_
 20	,	_	Punctuation	Punctuation	_	19	U	19:U	_
 21	as	_	Word	Word	_	22	R	22:R	_
@@ -36,7 +36,7 @@
 33	tone	_	Word	Word	_	27	D	27:D	_
 34	:	_	Punctuation	Punctuation	_	27	U	27:U	_
 35	"	_	Punctuation	Punctuation	_	27	U	27:U	_
-36	If	_	Word	Word	_	43	L	43:L	_
+36	If	_	Word	Word	_	47	L	47:L	_
 37	master	_	Word	Word	_	39	E	39:E	_
 38	's	_	Word	Word	_	37	R	37:R	_
 39	eyes	_	Word	Word	_	43	A	43:A	_

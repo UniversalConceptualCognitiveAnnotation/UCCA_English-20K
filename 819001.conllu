@@ -21,7 +21,7 @@
 18	I	_	Word	Word	_	20	A	20:A|23:A	_
 19	genuinely	_	Word	Word	_	20	D	20:D	_
 20	liked	_	Word	Word	_	16	E	16:E	_
-21	and	_	Word	Word	_	20	L	20:L	_
+21	and	_	Word	Word	_	23	L	23:L	_
 22	who	_	Word	Word	_	23	R	23:R	_
 23	returned	_	Word	Word	_	20	H	20:H	_
 24	the	_	Word	Word	_	25	E	25:E	_
@@ -57,8 +57,8 @@
 54	every	_	Word	Word	_	55	E	55:E	_
 55	duty	_	Word	Word	_	51	A	51:A	_
 56	,	_	Punctuation	Punctuation	_	3	U	3:U	_
-57	and	_	Word	Word	_	3	L	3:L	_
-58	despite	_	Word	Word	_	3	L	3:L	_
+57	and	_	Word	Word	_	60	L	60:L	_
+58	despite	_	Word	Word	_	60	L	60:L	_
 59	his	_	Word	Word	_	60	F	60:F	_
 60	having	_	Word	Word	_	3	H	3:H	_
 61	a	_	Word	Word	_	62	E	62:E	_

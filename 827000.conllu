@@ -66,8 +66,8 @@
 63	a	_	Word	Word	_	65	E	65:E	_
 64	glorious	_	Word	Word	_	3	H	3:H	_
 65	mission	_	Word	Word	_	0	C	0:C|69:A	_
-66	but	_	Word	Word	_	3	L	3:L	_
-67	also	_	Word	Word	_	3	L	3:L	_
+66	but	_	Word	Word	_	69	L	69:L	_
+67	also	_	Word	Word	_	69	L	69:L	_
 68	a	_	Word	Word	_	70	E	70:E	_
 69	dangerous	_	Word	Word	_	3	H	3:H	_
 70	one	_	Word	Word	_	69	D	69:D	_
@@ -89,7 +89,7 @@
 86	quite	_	Word	Word	_	87	D	87:D	_
 87	unpredictable	_	Word	Word	_	3	H	3:H	_
 88	!	_	Punctuation	Punctuation	_	3	U	3:U	_
-89	But	_	Word	Word	_	3	L	3:L	_
+89	But	_	Word	Word	_	92	L	92:L	_
 90	we	_	Word	Word	_	92	A	92:A	_
 91	're	_	Word	Word	_	92	F	92:F	_
 92	going	_	Word	Word	_	3	H	3:H	_
