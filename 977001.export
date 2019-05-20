@@ -1,0 +1,90 @@
+#BOS 977001
+The	Word	--	Terminal	500
+Abraham	Word	--	Terminal	501
+Lincoln	Word	--	Terminal	501
+would	Word	--	Terminal	502
+change	Word	--	Terminal	503
+course	Word	--	Terminal	504
+and	Word	--	Terminal	505
+race	Word	--	Terminal	506
+after	Word	--	Terminal	507
+the	Word	--	Terminal	508
+animal	Word	--	Terminal	509
+sighted	Word	--	Terminal	510
+,	Punctuation	--	Terminal	511
+only	Word	--	Terminal	512
+to	Word	--	Terminal	513
+find	Word	--	Terminal	514
+an	Word	--	Terminal	515
+ordinary	Word	--	Terminal	516
+baleen	Word	--	Terminal	517
+whale	Word	--	Terminal	518
+or	Word	--	Terminal	519
+a	Word	--	Terminal	520
+common	Word	--	Terminal	521
+sperm	Word	--	Terminal	522
+whale	Word	--	Terminal	523
+that	Word	--	Terminal	524
+soon	Word	--	Terminal	525
+disappeared	Word	--	Terminal	526
+amid	Word	--	Terminal	527
+a	Word	--	Terminal	528
+chorus	Word	--	Terminal	529
+of	Word	--	Terminal	530
+curses	Word	--	Terminal	531
+!	Punctuation	--	Terminal	532
+#500	FN	--	E	533
+#501	FN	--	C	533	A*	547
+#502	FN	--	E	534
+#503	FN	--	E	534
+#504	FN	--	C	534
+#505	FN	--	L	553	LR	550
+#506	FN	--	P	547
+#507	FN	--	R	545
+#508	FN	--	E	545
+#509	FN	--	C	545	A*	544
+#510	FN	--	P	544
+#511	PNCT	--	U	553
+#512	FN	--	D	552
+#513	FN	--	F	535
+#514	FN	--	C	535
+#515	FN	--	E	536
+#516	FN	--	E	536
+#517	FN	--	E	536
+#518	FN	--	C	536
+#519	FN	--	N	541
+#520	FN	--	E	537
+#521	FN	--	E	537
+#522	FN	--	E	537
+#523	FN	--	C	537
+#524	FN	--	R	549
+#525	FN	--	D	549
+#526	FN	--	P	549
+#527	FN	--	R	548
+#528	FN	--	E	538
+#529	FN	--	C	538
+#530	FN	--	R	538
+#531	FN	--	P	546
+#532	PNCT	--	U	546
+#533	FN	--	A	539
+#534	FN	--	P	539
+#535	FN	--	P	552
+#536	FN	--	C	541
+#537	FN	--	C	541
+#538	FN	--	D	546
+#539	FN	--	H	553	LA	550
+#540	FN	--	A	544
+#541	FN	--	C	551	A*	549
+#542	FN	--	A	546
+#543	FN	--	A	546
+#544	FN	--	E	545
+#545	FN	--	A	547
+#546	FN	--	C	548
+#547	FN	--	H	553	LA	550
+#548	FN	--	A	549
+#549	FN	--	E	551
+#550	LKG	--	--	0
+#551	FN	--	A	552
+#552	FN	--	H	553
+#553	FN	--	--	0
+#EOS 977001

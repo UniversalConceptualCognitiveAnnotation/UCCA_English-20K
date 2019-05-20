@@ -1,0 +1,24 @@
+#BOS 902001
+”	Punctuation	--	Terminal	500
+“	Punctuation	--	Terminal	501
+And	Word	--	Terminal	502
+why	Word	--	Terminal	503
+this	Word	--	Terminal	504
+powerful	Word	--	Terminal	505
+constitution	Word	--	Terminal	506
+?	Punctuation	--	Terminal	507
+#500	PNCT	--	U	513
+#501	PNCT	--	U	513
+#502	FN	--	L	513	LR	508
+#503	FN	--	H	513	LA	508
+#504	FN	--	E	509
+#505	FN	--	E	509
+#506	FN	--	C	509
+#507	PNCT	--	U	509
+#508	LKG	--	--	0
+#509	FN	--	A	512
+#510	FN	--	A	512
+#511	FN	--	P	512
+#512	FN	--	H	513
+#513	FN	--	--	0
+#EOS 902001

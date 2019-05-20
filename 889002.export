@@ -1,0 +1,68 @@
+#BOS 889002
+It	Word	--	Terminal	500
+was	Word	--	Terminal	501
+an	Word	--	Terminal	502
+opportunity	Word	--	Terminal	503
+for	Word	--	Terminal	504
+him	Word	--	Terminal	505
+to	Word	--	Terminal	506
+speak	Word	--	Terminal	507
+,	Punctuation	--	Terminal	508
+and	Word	--	Terminal	509
+for	Word	--	Terminal	510
+me	Word	--	Terminal	511
+to	Word	--	Terminal	512
+hear	Word	--	Terminal	513
+,	Punctuation	--	Terminal	514
+that	Word	--	Terminal	515
+old	Word	--	Terminal	516
+Rabelaisian	Word	--	Terminal	517
+dialect	Word	--	Terminal	518
+still	Word	--	Terminal	519
+used	Word	--	Terminal	520
+in	Word	--	Terminal	521
+some	Word	--	Terminal	522
+Canadian	Word	--	Terminal	523
+provinces	Word	--	Terminal	524
+.	Punctuation	--	Terminal	525
+#500	FN	--	F	537
+#501	FN	--	F	526
+#502	FN	--	E	526
+#503	FN	--	C	526	S*	533
+#504	FN	--	R	527
+#505	FN	--	C	527
+#506	FN	--	F	528
+#507	FN	--	C	528
+#508	PNCT	--	U	538
+#509	FN	--	L	538	LR	539
+#510	FN	--	R	529
+#511	FN	--	C	529	A*	531
+#512	FN	--	F	530
+#513	FN	--	C	530
+#514	PNCT	--	U	538
+#515	FN	--	E	535
+#516	FN	--	E	535
+#517	FN	--	E	535
+#518	FN	--	C	535	A*	531	A*	534
+#519	FN	--	D	534
+#520	FN	--	P	534
+#521	FN	--	R	532
+#522	FN	--	E	532
+#523	FN	--	E	532
+#524	FN	--	C	532
+#525	PNCT	--	U	532
+#526	FN	--	S	537
+#527	FN	--	A	537
+#528	FN	--	P	536
+#529	FN	--	A	533
+#530	FN	--	P	531
+#531	FN	--	A	533
+#532	FN	--	A	534
+#533	FN	--	H	538	LA	539
+#534	FN	--	E	535
+#535	FN	--	A	536
+#536	FN	--	A	537
+#537	FN	--	H	538	LA	539
+#538	FN	--	--	0
+#539	LKG	--	--	0
+#EOS 889002

@@ -1,0 +1,25 @@
+#BOS 318004
+Very	Word	--	Terminal	500
+cordially	Word	--	Terminal	500
+yours	Word	--	Terminal	500
+,	Punctuation	--	Terminal	501
+J	Word	--	Terminal	505
+.	Punctuation	--	Terminal	502
+B	Word	--	Terminal	505
+.	Punctuation	--	Terminal	503
+HOBSON	Word	--	Terminal	505
+,	Punctuation	--	Terminal	504
+Secretary	Word	--	Terminal	505
+of	Word	--	Terminal	505
+the	Word	--	Terminal	505
+Navy	Word	--	Terminal	505
+.	Punctuation	--	Terminal	506
+#500	FN	--	H	507
+#501	PNCT	--	U	507
+#502	PNCT	--	U	505
+#503	PNCT	--	U	505
+#504	PNCT	--	U	505
+#505	FN	--	H	507
+#506	PNCT	--	U	507
+#507	FN	--	--	0
+#EOS 318004

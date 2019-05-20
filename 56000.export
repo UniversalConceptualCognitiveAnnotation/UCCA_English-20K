@@ -1,0 +1,66 @@
+#BOS 56000
+The	Word	--	Terminal	500
+Scotia	Word	--	Terminal	501
+hadn\u2019t	Word	--	Terminal	502
+run	Word	--	Terminal	503
+afoul	Word	--	Terminal	503
+of	Word	--	Terminal	504
+something	Word	--	Terminal	505
+,	Punctuation	--	Terminal	506
+it	Word	--	Terminal	507
+had	Word	--	Terminal	508
+been	Word	--	Terminal	509
+fouled	Word	--	Terminal	510
+,	Punctuation	--	Terminal	511
+and	Word	--	Terminal	512
+by	Word	--	Terminal	513
+a	Word	--	Terminal	514
+cutting	Word	--	Terminal	515
+or	Word	--	Terminal	516
+perforating	Word	--	Terminal	517
+instrument	Word	--	Terminal	518
+rather	Word	--	Terminal	519
+than	Word	--	Terminal	519
+a	Word	--	Terminal	520
+blunt	Word	--	Terminal	521
+one	Word	--	Terminal	522
+.	Punctuation	--	Terminal	523
+#500	FN	--	E	524
+#501	FN	--	C	524
+#502	FN	--	F	525
+#503	FN	--	C	525
+#504	FN	--	R	526
+#505	FN	--	C	526
+#506	PNCT	--	U	536
+#507	FN	--	A	532	A*	535
+#508	FN	--	F	527
+#509	FN	--	F	527
+#510	FN	--	C	527
+#511	PNCT	--	U	536
+#512	FN	--	L	536	LR	537
+#513	FN	--	R	534	R*	528
+#514	FN	--	E	529	E*	530
+#515	FN	--	E	529
+#516	FN	--	N	531
+#517	FN	--	E	530
+#518	FN	--	C	530	A*	532	C*	529
+#519	FN	--	R	535
+#520	FN	--	E	528
+#521	FN	--	E	528
+#522	FN	--	C	528
+#523	PNCT	--	U	528
+#524	FN	--	A	533
+#525	FN	--	P	533
+#526	FN	--	A	533
+#527	FN	--	P	532	P*	535
+#528	FN	--	A	535
+#529	FN	--	C	531
+#530	FN	--	C	531
+#531	FN	--	C	534
+#532	FN	--	H	536	LA	537
+#533	FN	--	H	536
+#534	FN	--	A	535
+#535	FN	--	H	536	LA	537
+#536	FN	--	--	0
+#537	LKG	--	--	0
+#EOS 56000

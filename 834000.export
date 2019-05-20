@@ -1,0 +1,67 @@
+#BOS 834000
+I	Word	--	Terminal	500
+bowed	Word	--	Terminal	501
+,	Punctuation	--	Terminal	502
+and	Word	--	Terminal	503
+letting	Word	--	Terminal	504
+the	Word	--	Terminal	505
+commander	Word	--	Terminal	506
+attend	Word	--	Terminal	507
+to	Word	--	Terminal	508
+getting	Word	--	Terminal	509
+under	Word	--	Terminal	509
+way	Word	--	Terminal	509
+,	Punctuation	--	Terminal	510
+I	Word	--	Terminal	511
+was	Word	--	Terminal	512
+taken	Word	--	Terminal	513
+to	Word	--	Terminal	514
+the	Word	--	Terminal	515
+cabin	Word	--	Terminal	516
+that	Word	--	Terminal	517
+had	Word	--	Terminal	518
+been	Word	--	Terminal	519
+set	Word	--	Terminal	520
+aside	Word	--	Terminal	520
+for	Word	--	Terminal	521
+me	Word	--	Terminal	522
+.	Punctuation	--	Terminal	523
+#500	FN	--	A	524
+#501	FN	--	P	524
+#502	PNCT	--	U	536
+#503	FN	--	L	536	LR	537
+#504	FN	--	P	531
+#505	FN	--	E	525
+#506	FN	--	C	525	A*	524	A*	530
+#507	FN	--	E	526
+#508	FN	--	F	526
+#509	FN	--	C	526
+#510	PNCT	--	U	536
+#511	FN	--	A	535
+#512	FN	--	F	527
+#513	FN	--	C	527
+#514	FN	--	R	534
+#515	FN	--	E	534
+#516	FN	--	C	534
+#517	FN	--	R	533
+#518	FN	--	F	528
+#519	FN	--	F	528
+#520	FN	--	C	528
+#521	FN	--	R	529
+#522	FN	--	C	529
+#523	PNCT	--	U	529
+#524	FN	--	H	536	LA	537
+#525	FN	--	A	531
+#526	FN	--	P	530
+#527	FN	--	P	535
+#528	FN	--	P	533
+#529	FN	--	A	533
+#530	FN	--	A	531
+#531	FN	--	H	536
+#532	FN	--	A	533
+#533	FN	--	E	534
+#534	FN	--	A	535
+#535	FN	--	H	536	LA	537
+#536	FN	--	--	0
+#537	LKG	--	--	0
+#EOS 834000

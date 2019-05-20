@@ -1,0 +1,41 @@
+#BOS 907007
+“	Punctuation	--	Terminal	500
+Go	Word	--	Terminal	501
+on	Word	--	Terminal	501
+!	Punctuation	--	Terminal	502
+”	Punctuation	--	Terminal	503
+“	Punctuation	--	Terminal	504
+Because	Word	--	Terminal	505
+.	Punctuation	--	Terminal	506
+.	Punctuation	--	Terminal	507
+.	Punctuation	--	Terminal	508
+it	Word	--	Terminal	509
+just	Word	--	Terminal	510
+couldn	Word	--	Terminal	511
+’t	Word	--	Terminal	512
+be	Word	--	Terminal	513
+true	Word	--	Terminal	514
+!	Punctuation	--	Terminal	515
+#500	PNCT	--	U	520
+#501	FN	--	P	519
+#502	PNCT	--	U	520
+#503	PNCT	--	U	520
+#504	PNCT	--	U	520
+#505	FN	--	L	520	LR	521
+#506	PNCT	--	U	520
+#507	PNCT	--	U	520
+#508	PNCT	--	U	520
+#509	FN	--	A	517
+#510	FN	--	D	517
+#511	FN	--	E	516
+#512	FN	--	D	517
+#513	FN	--	F	516
+#514	FN	--	C	516
+#515	PNCT	--	U	516
+#516	FN	--	S	517
+#517	FN	--	H	520	LA	521
+#518	FN	--	A	519
+#519	FN	--	H	520
+#520	FN	--	--	0
+#521	LKG	--	--	0
+#EOS 907007

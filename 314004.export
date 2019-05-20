@@ -1,0 +1,35 @@
+#BOS 314004
+People	Word	--	Terminal	500
+were	Word	--	Terminal	501
+constantly	Word	--	Terminal	502
+babbling	Word	--	Terminal	503
+about	Word	--	Terminal	504
+the	Word	--	Terminal	505
+creature	Word	--	Terminal	506
+,	Punctuation	--	Terminal	507
+even	Word	--	Terminal	508
+via	Word	--	Terminal	509
+the	Word	--	Terminal	510
+Atlantic	Word	--	Terminal	511
+Cable	Word	--	Terminal	512
+!	Punctuation	--	Terminal	513
+#500	FN	--	A	517
+#501	FN	--	F	514
+#502	FN	--	D	517
+#503	FN	--	C	514
+#504	FN	--	R	515
+#505	FN	--	E	515
+#506	FN	--	C	515
+#507	PNCT	--	U	517
+#508	FN	--	R	516
+#509	FN	--	R	516
+#510	FN	--	E	516
+#511	FN	--	E	516
+#512	FN	--	C	516
+#513	PNCT	--	U	516
+#514	FN	--	P	517
+#515	FN	--	A	517
+#516	FN	--	A	517
+#517	FN	--	H	518
+#518	FN	--	--	0
+#EOS 314004

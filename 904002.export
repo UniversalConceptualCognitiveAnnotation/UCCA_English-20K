@@ -1,0 +1,40 @@
+#BOS 904002
+”	Punctuation	--	Terminal	500
+“	Punctuation	--	Terminal	501
+In	Word	--	Terminal	502
+business	Word	--	Terminal	503
+,	Punctuation	--	Terminal	504
+Ned	Word	--	Terminal	505
+,	Punctuation	--	Terminal	506
+but	Word	--	Terminal	507
+not	Word	--	Terminal	508
+in	Word	--	Terminal	509
+mathematics	Word	--	Terminal	510
+.	Punctuation	--	Terminal	511
+#500	PNCT	--	U	524
+#501	PNCT	--	U	524
+#502	FN	--	R	512
+#503	FN	--	C	512
+#504	PNCT	--	U	524
+#505	FN	--	H	524
+#506	PNCT	--	U	524
+#507	FN	--	L	524	LR	525
+#508	FN	--	D	518
+#509	FN	--	R	513
+#510	FN	--	C	513
+#511	PNCT	--	U	513
+#512	FN	--	A	523
+#513	FN	--	A	518
+#514	FN	--	A	518
+#515	FN	--	P	518
+#516	FN	--	A	518
+#517	FN	--	A	518
+#518	FN	--	H	524	LA	525
+#519	FN	--	A	523
+#520	FN	--	P	523
+#521	FN	--	A	523
+#522	FN	--	A	523
+#523	FN	--	H	524	LA	525
+#524	FN	--	--	0
+#525	LKG	--	--	0
+#EOS 904002

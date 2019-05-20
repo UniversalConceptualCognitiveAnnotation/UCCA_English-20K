@@ -1,0 +1,64 @@
+#BOS 905004
+And	Word	--	Terminal	500
+if	Word	--	Terminal	501
+you	Word	--	Terminal	502
+aren	Word	--	Terminal	503
+’t	Word	--	Terminal	504
+crushed	Word	--	Terminal	505
+by	Word	--	Terminal	506
+so	Word	--	Terminal	507
+much	Word	--	Terminal	508
+pressure	Word	--	Terminal	509
+,	Punctuation	--	Terminal	510
+it	Word	--	Terminal	511
+’s	Word	--	Terminal	511
+because	Word	--	Terminal	512
+the	Word	--	Terminal	513
+air	Word	--	Terminal	514
+penetrates	Word	--	Terminal	515
+the	Word	--	Terminal	516
+interior	Word	--	Terminal	517
+of	Word	--	Terminal	518
+your	Word	--	Terminal	519
+body	Word	--	Terminal	520
+with	Word	--	Terminal	521
+equal	Word	--	Terminal	522
+pressure	Word	--	Terminal	523
+.	Punctuation	--	Terminal	524
+#500	FN	--	L	534
+#501	FN	--	L	534
+#502	FN	--	A	532
+#503	FN	--	F	525
+#504	FN	--	D	532
+#505	FN	--	C	525
+#506	FN	--	R	527
+#507	FN	--	E	526
+#508	FN	--	C	526
+#509	FN	--	C	527
+#510	PNCT	--	U	534
+#511	FN	--	F	534
+#512	FN	--	L	534	LR	535
+#513	FN	--	E	528
+#514	FN	--	C	528
+#515	FN	--	P	533
+#516	FN	--	E	529
+#517	FN	--	C	529
+#518	FN	--	R	529
+#519	FN	--	E	530
+#520	FN	--	C	530
+#521	FN	--	R	531
+#522	FN	--	E	531
+#523	FN	--	C	531
+#524	PNCT	--	U	531
+#525	FN	--	P	532
+#526	FN	--	E	527
+#527	FN	--	A	532
+#528	FN	--	A	533
+#529	FN	--	E	530
+#530	FN	--	A	533
+#531	FN	--	D	533
+#532	FN	--	H	534	LA	535
+#533	FN	--	H	534	LA	535
+#534	FN	--	--	0
+#535	LKG	--	--	0
+#EOS 905004

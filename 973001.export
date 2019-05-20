@@ -1,0 +1,63 @@
+#BOS 973001
+Our	Word	--	Terminal	500
+course	Word	--	Terminal	501
+was	Word	--	Terminal	502
+set	Word	--	Terminal	503
+for	Word	--	Terminal	504
+the	Word	--	Terminal	505
+northwest	Word	--	Terminal	506
+,	Punctuation	--	Terminal	507
+and	Word	--	Terminal	508
+the	Word	--	Terminal	509
+next	Word	--	Terminal	510
+day	Word	--	Terminal	511
+our	Word	--	Terminal	512
+frigate	Word	--	Terminal	513
+’s	Word	--	Terminal	514
+propeller	Word	--	Terminal	515
+finally	Word	--	Terminal	516
+churned	Word	--	Terminal	517
+the	Word	--	Terminal	518
+waters	Word	--	Terminal	519
+of	Word	--	Terminal	520
+the	Word	--	Terminal	521
+Pacific	Word	--	Terminal	522
+.	Punctuation	--	Terminal	523
+#500	FN	--	E	524
+#501	FN	--	C	524
+#502	FN	--	F	525
+#503	FN	--	C	525
+#504	FN	--	R	526
+#505	FN	--	E	526
+#506	FN	--	C	526
+#507	PNCT	--	U	535
+#508	FN	--	L	535	LR	536
+#509	FN	--	E	527
+#510	FN	--	E	527
+#511	FN	--	C	527
+#512	FN	--	E	528
+#513	FN	--	C	528
+#514	FN	--	R	528
+#515	FN	--	C	529
+#516	FN	--	D	533
+#517	FN	--	P	533
+#518	FN	--	E	531
+#519	FN	--	C	531
+#520	FN	--	R	530
+#521	FN	--	E	530
+#522	FN	--	C	530
+#523	PNCT	--	U	530
+#524	FN	--	A	534
+#525	FN	--	P	534
+#526	FN	--	A	534
+#527	FN	--	D	533
+#528	FN	--	E	529
+#529	FN	--	A	533
+#530	FN	--	E	531
+#531	FN	--	A	533
+#532	FN	--	A	534
+#533	FN	--	H	535	LA	536
+#534	FN	--	H	535	LA	536
+#535	FN	--	--	0
+#536	LKG	--	--	0
+#EOS 973001

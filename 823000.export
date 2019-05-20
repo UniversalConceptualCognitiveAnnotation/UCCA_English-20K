@@ -1,0 +1,18 @@
+#BOS 823000
+But	Word	--	Terminal	500
+Conseil	Word	--	Terminal	501
+had	Word	--	Terminal	502
+one	Word	--	Terminal	503
+flaw	Word	--	Terminal	504
+.	Punctuation	--	Terminal	505
+#500	FN	--	L	508	LR	509
+#501	FN	--	A	507
+#502	FN	--	P	507
+#503	FN	--	E	506
+#504	FN	--	C	506
+#505	PNCT	--	U	506
+#506	FN	--	A	507
+#507	FN	--	H	508	LA	509
+#508	FN	--	--	0
+#509	LKG	--	--	0
+#EOS 823000

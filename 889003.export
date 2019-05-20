@@ -1,0 +1,73 @@
+#BOS 889003
+The	Word	--	Terminal	500
+harpooner	Word	--	Terminal	501
+’s	Word	--	Terminal	502
+family	Word	--	Terminal	503
+originated	Word	--	Terminal	504
+in	Word	--	Terminal	505
+Quebec	Word	--	Terminal	506
+,	Punctuation	--	Terminal	507
+and	Word	--	Terminal	508
+they	Word	--	Terminal	509
+were	Word	--	Terminal	510
+already	Word	--	Terminal	511
+a	Word	--	Terminal	512
+line	Word	--	Terminal	513
+of	Word	--	Terminal	514
+bold	Word	--	Terminal	515
+fishermen	Word	--	Terminal	516
+back	Word	--	Terminal	517
+in	Word	--	Terminal	518
+the	Word	--	Terminal	519
+days	Word	--	Terminal	520
+when	Word	--	Terminal	521
+this	Word	--	Terminal	522
+town	Word	--	Terminal	523
+still	Word	--	Terminal	524
+belonged	Word	--	Terminal	525
+to	Word	--	Terminal	526
+France	Word	--	Terminal	527
+.	Punctuation	--	Terminal	528
+#500	FN	--	E	529
+#501	FN	--	C	529
+#502	FN	--	R	529
+#503	FN	--	C	530
+#504	FN	--	P	535
+#505	FN	--	R	531
+#506	FN	--	C	531
+#507	PNCT	--	U	540
+#508	FN	--	L	540	LR	541
+#509	FN	--	A	539
+#510	FN	--	S	539
+#511	FN	--	D	539
+#512	FN	--	E	536
+#513	FN	--	C	536
+#514	FN	--	R	532
+#515	FN	--	E	532
+#516	FN	--	C	532
+#517	FN	--	R	538
+#518	FN	--	R	538
+#519	FN	--	E	538
+#520	FN	--	C	538	A*	537
+#521	FN	--	R	537
+#522	FN	--	E	533
+#523	FN	--	C	533
+#524	FN	--	D	537
+#525	FN	--	P	537
+#526	FN	--	R	534
+#527	FN	--	C	534
+#528	PNCT	--	U	534
+#529	FN	--	E	530
+#530	FN	--	A	535
+#531	FN	--	A	535
+#532	FN	--	E	536
+#533	FN	--	A	537
+#534	FN	--	A	537
+#535	FN	--	H	540	LA	541
+#536	FN	--	A	539
+#537	FN	--	E	538
+#538	FN	--	D	539
+#539	FN	--	H	540	LA	541
+#540	FN	--	--	0
+#541	LKG	--	--	0
+#EOS 889003

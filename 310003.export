@@ -1,0 +1,27 @@
+#BOS 310003
+The	Word	--	Terminal	500
+human	Word	--	Terminal	501
+mind	Word	--	Terminal	502
+enjoys	Word	--	Terminal	503
+impressive	Word	--	Terminal	504
+visions	Word	--	Terminal	505
+of	Word	--	Terminal	506
+unearthly	Word	--	Terminal	507
+creatures	Word	--	Terminal	508
+.	Punctuation	--	Terminal	509
+#500	FN	--	E	510
+#501	FN	--	E	510
+#502	FN	--	C	510
+#503	FN	--	P	513
+#504	FN	--	E	512
+#505	FN	--	C	512
+#506	FN	--	R	511
+#507	FN	--	E	511
+#508	FN	--	C	511
+#509	PNCT	--	U	511
+#510	FN	--	A	513
+#511	FN	--	E	512
+#512	FN	--	A	513
+#513	FN	--	H	514
+#514	FN	--	--	0
+#EOS 310003

@@ -1,0 +1,74 @@
+#BOS 835002
+Under	Word	--	Terminal	500
+this	Word	--	Terminal	501
+pressure	Word	--	Terminal	502
+the	Word	--	Terminal	503
+Abraham	Word	--	Terminal	504
+Lincoln	Word	--	Terminal	504
+reached	Word	--	Terminal	505
+an	Word	--	Terminal	506
+average	Word	--	Terminal	507
+speed	Word	--	Terminal	508
+of	Word	--	Terminal	509
+18.3	Word	--	Terminal	510
+miles	Word	--	Terminal	511
+per	Word	--	Terminal	512
+hour	Word	--	Terminal	513
+,	Punctuation	--	Terminal	514
+a	Word	--	Terminal	515
+considerable	Word	--	Terminal	516
+speed	Word	--	Terminal	517
+but	Word	--	Terminal	518
+still	Word	--	Terminal	519
+not	Word	--	Terminal	520
+enough	Word	--	Terminal	521
+to	Word	--	Terminal	522
+cope	Word	--	Terminal	523
+with	Word	--	Terminal	524
+our	Word	--	Terminal	525
+gigantic	Word	--	Terminal	526
+cetacean	Word	--	Terminal	527
+.	Punctuation	--	Terminal	528
+#500	FN	--	R	529
+#501	FN	--	E	529
+#502	FN	--	C	529
+#503	FN	--	E	530
+#504	FN	--	C	530	A*	539
+#505	FN	--	P	538
+#506	FN	--	E	531
+#507	FN	--	E	531
+#508	FN	--	C	531	A*	532
+#509	FN	--	R	531
+#510	FN	--	E	537
+#511	FN	--	C	537
+#512	FN	--	R	533
+#513	FN	--	C	533
+#514	PNCT	--	U	537
+#515	FN	--	E	534
+#516	FN	--	E	534
+#517	FN	--	C	534
+#518	FN	--	L	540	LR	541
+#519	FN	--	D	532
+#520	FN	--	D	532
+#521	FN	--	S	532
+#522	FN	--	F	535
+#523	FN	--	C	535
+#524	FN	--	R	536
+#525	FN	--	E	536
+#526	FN	--	E	536
+#527	FN	--	C	536
+#528	PNCT	--	U	536
+#529	FN	--	A	538
+#530	FN	--	A	538
+#531	FN	--	E	537
+#532	FN	--	H	540	LA	541
+#533	FN	--	E	537
+#534	FN	--	E	537
+#535	FN	--	P	539
+#536	FN	--	A	539
+#537	FN	--	A	538
+#538	FN	--	H	540	LA	541
+#539	FN	--	H	540
+#540	FN	--	--	0
+#541	LKG	--	--	0
+#EOS 835002

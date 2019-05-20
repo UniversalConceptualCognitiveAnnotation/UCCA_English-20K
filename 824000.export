@@ -1,0 +1,38 @@
+#BOS 824000
+“	Punctuation	--	Terminal	500
+Conseil	Word	--	Terminal	501
+!	Punctuation	--	Terminal	502
+”	Punctuation	--	Terminal	503
+I	Word	--	Terminal	504
+repeated	Word	--	Terminal	505
+,	Punctuation	--	Terminal	506
+while	Word	--	Terminal	507
+feverishly	Word	--	Terminal	508
+beginning	Word	--	Terminal	509
+my	Word	--	Terminal	510
+preparations	Word	--	Terminal	511
+for	Word	--	Terminal	512
+departure	Word	--	Terminal	513
+.	Punctuation	--	Terminal	514
+#500	PNCT	--	U	519
+#501	FN	--	H	519	A*	515
+#502	PNCT	--	U	519
+#503	PNCT	--	U	519
+#504	FN	--	A	515	A*	518
+#505	FN	--	P	515
+#506	PNCT	--	U	519
+#507	FN	--	L	519	LR	520
+#508	FN	--	D	518
+#509	FN	--	P	518
+#510	FN	--	E	517
+#511	FN	--	C	517
+#512	FN	--	R	516
+#513	FN	--	C	516
+#514	PNCT	--	U	516
+#515	FN	--	H	519	LA	520
+#516	FN	--	E	517
+#517	FN	--	A	518
+#518	FN	--	H	519	LA	520
+#519	FN	--	--	0
+#520	LKG	--	--	0
+#EOS 824000

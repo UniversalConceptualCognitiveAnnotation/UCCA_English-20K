@@ -1,0 +1,72 @@
+#BOS 883002
+The	Word	--	Terminal	500
+lone	Word	--	Terminal	501
+rebel	Word	--	Terminal	502
+among	Word	--	Terminal	503
+us	Word	--	Terminal	504
+was	Word	--	Terminal	505
+Conseil	Word	--	Terminal	506
+,	Punctuation	--	Terminal	507
+who	Word	--	Terminal	508
+seemed	Word	--	Terminal	509
+utterly	Word	--	Terminal	510
+uninterested	Word	--	Terminal	511
+in	Word	--	Terminal	512
+the	Word	--	Terminal	513
+question	Word	--	Terminal	514
+exciting	Word	--	Terminal	515
+us	Word	--	Terminal	516
+and	Word	--	Terminal	517
+was	Word	--	Terminal	518
+out	Word	--	Terminal	519
+of	Word	--	Terminal	519
+step	Word	--	Terminal	519
+with	Word	--	Terminal	520
+the	Word	--	Terminal	521
+general	Word	--	Terminal	522
+enthusiasm	Word	--	Terminal	523
+on	Word	--	Terminal	524
+board	Word	--	Terminal	525
+.	Punctuation	--	Terminal	526
+#500	FN	--	E	532
+#501	FN	--	E	532
+#502	FN	--	C	532
+#503	FN	--	R	527
+#504	FN	--	C	527
+#505	FN	--	S	535
+#506	FN	--	A	535	A*	536	A*	537
+#507	PNCT	--	U	538
+#508	FN	--	L	538	LR	539
+#509	FN	--	E	528
+#510	FN	--	D	536
+#511	FN	--	C	528
+#512	FN	--	R	533
+#513	FN	--	E	533
+#514	FN	--	C	533	A*	529
+#515	FN	--	P	529
+#516	FN	--	A	529
+#517	FN	--	L	538	LR	540
+#518	FN	--	F	530
+#519	FN	--	C	530
+#520	FN	--	R	534
+#521	FN	--	E	534
+#522	FN	--	E	534
+#523	FN	--	C	534
+#524	FN	--	R	531
+#525	FN	--	C	531
+#526	PNCT	--	U	531
+#527	FN	--	E	532
+#528	FN	--	P	536
+#529	FN	--	E	533
+#530	FN	--	S	537
+#531	FN	--	E	534
+#532	FN	--	A	535
+#533	FN	--	A	536
+#534	FN	--	A	537
+#535	FN	--	H	538	LA	539
+#536	FN	--	H	538	LA	540	LA	539
+#537	FN	--	H	538	LA	540
+#538	FN	--	--	0
+#539	LKG	--	--	0
+#540	LKG	--	--	0
+#EOS 883002

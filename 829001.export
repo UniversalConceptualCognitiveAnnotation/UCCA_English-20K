@@ -1,0 +1,81 @@
+#BOS 829001
+Conseil	Word	--	Terminal	500
+did	Word	--	Terminal	501
+them	Word	--	Terminal	502
+in	Word	--	Terminal	503
+a	Word	--	Terminal	504
+flash	Word	--	Terminal	505
+,	Punctuation	--	Terminal	506
+and	Word	--	Terminal	507
+I	Word	--	Terminal	508
+was	Word	--	Terminal	509
+sure	Word	--	Terminal	510
+the	Word	--	Terminal	511
+lad	Word	--	Terminal	512
+hadn	Word	--	Terminal	513
+’t	Word	--	Terminal	514
+missed	Word	--	Terminal	515
+a	Word	--	Terminal	516
+thing	Word	--	Terminal	517
+,	Punctuation	--	Terminal	518
+because	Word	--	Terminal	519
+he	Word	--	Terminal	520
+classified	Word	--	Terminal	521
+shirts	Word	--	Terminal	522
+and	Word	--	Terminal	523
+suits	Word	--	Terminal	524
+as	Word	--	Terminal	525
+expertly	Word	--	Terminal	526
+as	Word	--	Terminal	527
+birds	Word	--	Terminal	528
+and	Word	--	Terminal	529
+mammals	Word	--	Terminal	530
+.	Punctuation	--	Terminal	531
+#500	FN	--	A	539
+#501	FN	--	P	539
+#502	FN	--	A	539
+#503	FN	--	R	532
+#504	FN	--	E	532
+#505	FN	--	C	532
+#506	PNCT	--	U	544
+#507	FN	--	L	544	LR	545
+#508	FN	--	A	543
+#509	FN	--	F	533
+#510	FN	--	C	533
+#511	FN	--	E	534
+#512	FN	--	C	534	A*	541
+#513	FN	--	F	535
+#514	FN	--	D	542
+#515	FN	--	C	535
+#516	FN	--	E	536
+#517	FN	--	C	536
+#518	PNCT	--	U	544
+#519	FN	--	L	544	LR	546
+#520	FN	--	A	540
+#521	FN	--	P	540	P*	541
+#522	FN	--	C	537
+#523	FN	--	N	537
+#524	FN	--	C	537
+#525	FN	--	F	541
+#526	FN	--	D	541
+#527	FN	--	F	541
+#528	FN	--	C	538
+#529	FN	--	N	538
+#530	FN	--	C	538
+#531	PNCT	--	U	538
+#532	FN	--	D	539
+#533	FN	--	S	543
+#534	FN	--	A	542
+#535	FN	--	P	542
+#536	FN	--	A	542
+#537	FN	--	A	540
+#538	FN	--	A	541
+#539	FN	--	H	544	LA	545
+#540	FN	--	H	544	LA	546
+#541	FN	--	H	544
+#542	FN	--	A	543
+#543	FN	--	H	544	LA	546	LA	545
+#544	FN	--	--	0
+#545	LKG	--	--	0
+#546	LKG	--	--	0
+#EOS 829001

@@ -1,0 +1,83 @@
+#BOS 976001
+Snatching	Word	--	Terminal	500
+only	Word	--	Terminal	501
+a	Word	--	Terminal	502
+few	Word	--	Terminal	503
+minutes	Word	--	Terminal	504
+for	Word	--	Terminal	505
+meals	Word	--	Terminal	506
+and	Word	--	Terminal	507
+a	Word	--	Terminal	508
+few	Word	--	Terminal	509
+hours	Word	--	Terminal	510
+for	Word	--	Terminal	511
+sleep	Word	--	Terminal	512
+,	Punctuation	--	Terminal	513
+come	Word	--	Terminal	514
+rain	Word	--	Terminal	515
+or	Word	--	Terminal	516
+come	Word	--	Terminal	517
+shine	Word	--	Terminal	518
+,	Punctuation	--	Terminal	519
+I	Word	--	Terminal	520
+no	Word	--	Terminal	521
+longer	Word	--	Terminal	522
+left	Word	--	Terminal	523
+the	Word	--	Terminal	524
+ship	Word	--	Terminal	525
+’s	Word	--	Terminal	526
+deck	Word	--	Terminal	527
+.	Punctuation	--	Terminal	528
+#500	FN	--	P	548	P*	549
+#501	FN	--	D	548	D*	549
+#502	FN	--	E	529
+#503	FN	--	E	529
+#504	FN	--	C	529
+#505	FN	--	R	545
+#506	FN	--	P	543
+#507	FN	--	L	550	LR	551
+#508	FN	--	E	530
+#509	FN	--	E	530
+#510	FN	--	C	530
+#511	FN	--	R	546
+#512	FN	--	P	544
+#513	PNCT	--	U	550
+#514	FN	--	E	531
+#515	FN	--	C	531
+#516	FN	--	L	550	LR	547
+#517	FN	--	E	532
+#518	FN	--	C	532
+#519	PNCT	--	U	550
+#520	FN	--	A	539
+#521	FN	--	E	533
+#522	FN	--	C	533
+#523	FN	--	P	539
+#524	FN	--	E	534
+#525	FN	--	C	534
+#526	FN	--	R	534
+#527	FN	--	C	535
+#528	PNCT	--	U	535
+#529	FN	--	A	548
+#530	FN	--	A	549
+#531	FN	--	S	540
+#532	FN	--	S	541
+#533	FN	--	D	539
+#534	FN	--	E	535
+#535	FN	--	A	539
+#536	FN	--	A	548
+#537	FN	--	A	549
+#538	FN	--	A	543
+#539	FN	--	H	550
+#540	FN	--	H	550	LA	547
+#541	FN	--	H	550	LA	547
+#542	FN	--	A	544
+#543	FN	--	C	545
+#544	FN	--	C	546
+#545	FN	--	A	548
+#546	FN	--	A	549
+#547	LKG	--	--	0
+#548	FN	--	H	550	LA	551
+#549	FN	--	H	550	LA	551
+#550	FN	--	--	0
+#551	LKG	--	--	0
+#EOS 976001

@@ -1,0 +1,15 @@
+#BOS 825003
+What	Word	--	Terminal	500
+would	Word	--	Terminal	501
+Conseil	Word	--	Terminal	502
+say	Word	--	Terminal	503
+?	Punctuation	--	Terminal	504
+#500	FN	--	A	506
+#501	FN	--	E	505
+#502	FN	--	A	506
+#503	FN	--	C	505
+#504	PNCT	--	U	505
+#505	FN	--	P	506
+#506	FN	--	H	507
+#507	FN	--	--	0
+#EOS 825003

@@ -1,0 +1,41 @@
+#BOS 907008
+”	Punctuation	--	Terminal	500
+the	Word	--	Terminal	501
+Canadian	Word	--	Terminal	502
+replied	Word	--	Terminal	503
+,	Punctuation	--	Terminal	504
+unconsciously	Word	--	Terminal	505
+echoing	Word	--	Terminal	506
+a	Word	--	Terminal	507
+famous	Word	--	Terminal	508
+catchphrase	Word	--	Terminal	509
+of	Word	--	Terminal	510
+the	Word	--	Terminal	511
+scientist	Word	--	Terminal	512
+Arago	Word	--	Terminal	513
+.	Punctuation	--	Terminal	514
+#500	PNCT	--	U	523
+#501	FN	--	E	515
+#502	FN	--	C	515	A*	522
+#503	FN	--	P	521
+#504	PNCT	--	U	523
+#505	FN	--	D	522
+#506	FN	--	P	522
+#507	FN	--	E	518
+#508	FN	--	E	518
+#509	FN	--	C	518
+#510	FN	--	R	517
+#511	FN	--	E	516
+#512	FN	--	C	516
+#513	FN	--	C	517
+#514	PNCT	--	U	517
+#515	FN	--	A	521
+#516	FN	--	E	517
+#517	FN	--	E	518
+#518	FN	--	A	522
+#519	FN	--	A	521
+#520	FN	--	A	521
+#521	FN	--	H	523
+#522	FN	--	H	523
+#523	FN	--	--	0
+#EOS 907008

@@ -1,0 +1,37 @@
+#BOS 822001
+Please	Word	--	Terminal	500
+forgive	Word	--	Terminal	501
+me	Word	--	Terminal	502
+for	Word	--	Terminal	503
+this	Word	--	Terminal	504
+underhanded	Word	--	Terminal	505
+way	Word	--	Terminal	506
+of	Word	--	Terminal	507
+admitting	Word	--	Terminal	508
+I	Word	--	Terminal	509
+had	Word	--	Terminal	510
+turned	Word	--	Terminal	511
+forty	Word	--	Terminal	512
+.	Punctuation	--	Terminal	513
+#500	FN	--	F	519
+#501	FN	--	P	519
+#502	FN	--	A	519	A*	517
+#503	FN	--	R	518
+#504	FN	--	E	518
+#505	FN	--	E	518
+#506	FN	--	C	518
+#507	FN	--	R	517
+#508	FN	--	P	517
+#509	FN	--	A	516
+#510	FN	--	F	514
+#511	FN	--	F	514
+#512	FN	--	C	514
+#513	PNCT	--	U	514
+#514	FN	--	S	516
+#515	FN	--	A	519
+#516	FN	--	A	517
+#517	FN	--	E	518
+#518	FN	--	A	519
+#519	FN	--	H	520
+#520	FN	--	--	0
+#EOS 822001

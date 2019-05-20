@@ -1,0 +1,67 @@
+#BOS 981004
+Yet	Word	--	Terminal	500
+everyone	Word	--	Terminal	501
+still	Word	--	Terminal	502
+felt	Word	--	Terminal	503
+confident	Word	--	Terminal	504
+of	Word	--	Terminal	505
+success	Word	--	Terminal	506
+,	Punctuation	--	Terminal	507
+and	Word	--	Terminal	508
+not	Word	--	Terminal	509
+a	Word	--	Terminal	510
+sailor	Word	--	Terminal	511
+on	Word	--	Terminal	512
+board	Word	--	Terminal	513
+would	Word	--	Terminal	514
+have	Word	--	Terminal	515
+bet	Word	--	Terminal	516
+against	Word	--	Terminal	517
+the	Word	--	Terminal	518
+narwhale	Word	--	Terminal	519
+appearing	Word	--	Terminal	520
+,	Punctuation	--	Terminal	521
+and	Word	--	Terminal	522
+soon	Word	--	Terminal	523
+.	Punctuation	--	Terminal	524
+#500	FN	--	L	537	LR	539
+#501	FN	--	A	536
+#502	FN	--	D	536
+#503	FN	--	E	525
+#504	FN	--	C	525
+#505	FN	--	R	534
+#506	FN	--	P	533
+#507	PNCT	--	U	537
+#508	FN	--	L	537	LR	538
+#509	FN	--	E	531
+#510	FN	--	E	531
+#511	FN	--	C	531
+#512	FN	--	R	526
+#513	FN	--	C	526
+#514	FN	--	E	527
+#515	FN	--	F	527
+#516	FN	--	C	527
+#517	FN	--	R	532
+#518	FN	--	E	528
+#519	FN	--	C	528
+#520	FN	--	P	529
+#521	PNCT	--	U	529
+#522	FN	--	F	529
+#523	FN	--	D	529
+#524	PNCT	--	U	529
+#525	FN	--	S	536
+#526	FN	--	E	531
+#527	FN	--	P	535
+#528	FN	--	A	529
+#529	FN	--	C	532
+#530	FN	--	A	533
+#531	FN	--	A	535
+#532	FN	--	A	535
+#533	FN	--	C	534
+#534	FN	--	A	536
+#535	FN	--	H	537	LA	538
+#536	FN	--	H	537	LA	538	LA	539
+#537	FN	--	--	0
+#538	LKG	--	--	0
+#539	LKG	--	--	0
+#EOS 981004

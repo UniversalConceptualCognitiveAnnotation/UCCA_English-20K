@@ -1,0 +1,56 @@
+#BOS 982001
+These	Word	--	Terminal	500
+bearings	Word	--	Terminal	501
+determined	Word	--	Terminal	502
+,	Punctuation	--	Terminal	503
+the	Word	--	Terminal	504
+frigate	Word	--	Terminal	505
+took	Word	--	Terminal	506
+a	Word	--	Terminal	507
+more	Word	--	Terminal	508
+decisive	Word	--	Terminal	509
+westward	Word	--	Terminal	510
+heading	Word	--	Terminal	511
+and	Word	--	Terminal	512
+tackled	Word	--	Terminal	513
+the	Word	--	Terminal	514
+seas	Word	--	Terminal	515
+of	Word	--	Terminal	516
+the	Word	--	Terminal	517
+central	Word	--	Terminal	518
+Pacific	Word	--	Terminal	519
+.	Punctuation	--	Terminal	520
+#500	FN	--	E	521
+#501	FN	--	C	521
+#502	FN	--	P	527
+#503	PNCT	--	U	531
+#504	FN	--	E	522
+#505	FN	--	C	522	A*	530
+#506	FN	--	F	524
+#507	FN	--	E	524
+#508	FN	--	E	523
+#509	FN	--	C	523
+#510	FN	--	E	524
+#511	FN	--	C	524
+#512	FN	--	L	531	LR	532
+#513	FN	--	P	530
+#514	FN	--	E	529
+#515	FN	--	C	529
+#516	FN	--	R	525
+#517	FN	--	E	525
+#518	FN	--	E	525
+#519	FN	--	C	525
+#520	PNCT	--	U	525
+#521	FN	--	A	527
+#522	FN	--	A	528
+#523	FN	--	E	524
+#524	FN	--	P	528
+#525	FN	--	E	529
+#526	FN	--	A	527
+#527	FN	--	H	531
+#528	FN	--	H	531	LA	532
+#529	FN	--	A	530
+#530	FN	--	H	531	LA	532
+#531	FN	--	--	0
+#532	LKG	--	--	0
+#EOS 982001

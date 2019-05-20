@@ -1,0 +1,63 @@
+#BOS 287004
+Something	Word	--	Terminal	500
+was	Word	--	Terminal	501
+out	Word	--	Terminal	502
+there	Word	--	Terminal	503
+,	Punctuation	--	Terminal	504
+that	Word	--	Terminal	505
+much	Word	--	Terminal	505
+was	Word	--	Terminal	505
+certain	Word	--	Terminal	505
+,	Punctuation	--	Terminal	506
+and	Word	--	Terminal	507
+any	Word	--	Terminal	508
+doubting	Word	--	Terminal	509
+Thomas	Word	--	Terminal	510
+was	Word	--	Terminal	511
+invited	Word	--	Terminal	512
+to	Word	--	Terminal	513
+place	Word	--	Terminal	514
+his	Word	--	Terminal	515
+finger	Word	--	Terminal	516
+on	Word	--	Terminal	517
+the	Word	--	Terminal	518
+Scotia	Word	--	Terminal	519
+’s	Word	--	Terminal	520
+wound	Word	--	Terminal	521
+.	Punctuation	--	Terminal	522
+#500	FN	--	A	524
+#501	FN	--	F	523
+#502	FN	--	C	523
+#503	FN	--	A	524
+#504	PNCT	--	U	533
+#505	FN	--	G	533
+#506	PNCT	--	U	533
+#507	FN	--	L	533	LR	534
+#508	FN	--	E	525
+#509	FN	--	E	525
+#510	FN	--	C	525	A*	531
+#511	FN	--	F	526
+#512	FN	--	C	526
+#513	FN	--	R	527
+#514	FN	--	C	527
+#515	FN	--	E	528
+#516	FN	--	C	528
+#517	FN	--	R	530
+#518	FN	--	E	529
+#519	FN	--	C	529
+#520	FN	--	R	529
+#521	FN	--	C	530
+#522	PNCT	--	U	530
+#523	FN	--	S	524
+#524	FN	--	H	533	LA	534
+#525	FN	--	A	532
+#526	FN	--	P	532
+#527	FN	--	P	531
+#528	FN	--	A	531
+#529	FN	--	E	530
+#530	FN	--	A	531
+#531	FN	--	A	532
+#532	FN	--	H	533	LA	534
+#533	FN	--	--	0
+#534	LKG	--	--	0
+#EOS 287004

@@ -1,0 +1,41 @@
+#BOS 826014
+Anyhow	Word	--	Terminal	500
+,	Punctuation	--	Terminal	501
+we	Word	--	Terminal	502
+’ll	Word	--	Terminal	503
+leave	Word	--	Terminal	504
+instructions	Word	--	Terminal	505
+to	Word	--	Terminal	506
+ship	Word	--	Terminal	507
+the	Word	--	Terminal	508
+whole	Word	--	Terminal	509
+menagerie	Word	--	Terminal	510
+to	Word	--	Terminal	511
+France	Word	--	Terminal	512
+.	Punctuation	--	Terminal	513
+#500	FN	--	L	523	LR	524
+#501	PNCT	--	U	523
+#502	FN	--	A	522	A*	521
+#503	FN	--	F	514
+#504	FN	--	C	514
+#505	FN	--	P	521
+#506	FN	--	F	515
+#507	FN	--	C	515
+#508	FN	--	E	516
+#509	FN	--	E	516
+#510	FN	--	C	516
+#511	FN	--	R	517
+#512	FN	--	C	517
+#513	PNCT	--	U	517
+#514	FN	--	P	522
+#515	FN	--	P	520
+#516	FN	--	A	520
+#517	FN	--	A	520
+#518	FN	--	A	521
+#519	FN	--	A	520
+#520	FN	--	A	521
+#521	FN	--	A	522
+#522	FN	--	H	523	LA	524
+#523	FN	--	--	0
+#524	LKG	--	--	0
+#EOS 826014

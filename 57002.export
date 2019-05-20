@@ -1,0 +1,45 @@
+#BOS 57002
+Divided	Word	--	Terminal	500
+into	Word	--	Terminal	501
+seven	Word	--	Terminal	502
+compartments	Word	--	Terminal	503
+by	Word	--	Terminal	504
+watertight	Word	--	Terminal	505
+bulkheads	Word	--	Terminal	506
+,	Punctuation	--	Terminal	507
+the	Word	--	Terminal	508
+Scotia	Word	--	Terminal	509
+could	Word	--	Terminal	510
+brave	Word	--	Terminal	511
+any	Word	--	Terminal	512
+leak	Word	--	Terminal	513
+with	Word	--	Terminal	514
+impunity	Word	--	Terminal	515
+.	Punctuation	--	Terminal	516
+#500	FN	--	P	523
+#501	FN	--	R	517
+#502	FN	--	E	517
+#503	FN	--	C	517
+#504	FN	--	R	518
+#505	FN	--	E	518
+#506	FN	--	C	518
+#507	PNCT	--	U	523
+#508	FN	--	E	519
+#509	FN	--	C	519
+#510	FN	--	E	520
+#511	FN	--	C	520
+#512	FN	--	E	521
+#513	FN	--	C	521
+#514	FN	--	R	522
+#515	FN	--	C	522
+#516	PNCT	--	U	522
+#517	FN	--	A	523
+#518	FN	--	A	523
+#519	FN	--	A	524	A*	523
+#520	FN	--	P	524
+#521	FN	--	A	524
+#522	FN	--	D	524
+#523	FN	--	H	525
+#524	FN	--	H	525
+#525	FN	--	--	0
+#EOS 57002

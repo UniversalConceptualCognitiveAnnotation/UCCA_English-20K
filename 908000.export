@@ -1,0 +1,40 @@
+#BOS 908000
+But	Word	--	Terminal	500
+this	Word	--	Terminal	501
+reply	Word	--	Terminal	502
+proved	Word	--	Terminal	503
+nothing	Word	--	Terminal	504
+,	Punctuation	--	Terminal	505
+other	Word	--	Terminal	506
+than	Word	--	Terminal	507
+how	Word	--	Terminal	508
+bullheaded	Word	--	Terminal	509
+the	Word	--	Terminal	510
+harpooner	Word	--	Terminal	511
+could	Word	--	Terminal	512
+be	Word	--	Terminal	513
+.	Punctuation	--	Terminal	514
+#500	FN	--	L	521	LR	522
+#501	FN	--	E	515
+#502	FN	--	C	515
+#503	FN	--	P	520
+#504	FN	--	C	519
+#505	PNCT	--	U	519
+#506	FN	--	R	518
+#507	FN	--	F	518
+#508	FN	--	D	518
+#509	FN	--	C	516
+#510	FN	--	E	517
+#511	FN	--	C	517
+#512	FN	--	E	516
+#513	FN	--	F	516
+#514	PNCT	--	U	516
+#515	FN	--	A	520
+#516	FN	--	S	518
+#517	FN	--	A	518
+#518	FN	--	E	519
+#519	FN	--	A	520
+#520	FN	--	H	521	LA	522
+#521	FN	--	--	0
+#522	LKG	--	--	0
+#EOS 908000

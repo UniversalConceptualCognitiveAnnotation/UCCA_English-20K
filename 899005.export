@@ -1,0 +1,23 @@
+#BOS 899005
+Some	Word	--	Terminal	500
+gigantic	Word	--	Terminal	501
+devilfish	Word	--	Terminal	502
+maybe	Word	--	Terminal	503
+.	Punctuation	--	Terminal	504
+.	Punctuation	--	Terminal	505
+.	Punctuation	--	Terminal	506
+?	Punctuation	--	Terminal	507
+#500	FN	--	E	508
+#501	FN	--	E	508
+#502	FN	--	C	508
+#503	FN	--	D	511
+#504	PNCT	--	U	511
+#505	PNCT	--	U	511
+#506	PNCT	--	U	511
+#507	PNCT	--	U	511
+#508	FN	--	A	511
+#509	FN	--	A	511
+#510	FN	--	P	511
+#511	FN	--	H	512
+#512	FN	--	--	0
+#EOS 899005

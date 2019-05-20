@@ -1,0 +1,30 @@
+#BOS 311000
+But	Word	--	Terminal	500
+I	Word	--	Terminal	501
+mustn	Word	--	Terminal	502
+’t	Word	--	Terminal	503
+let	Word	--	Terminal	504
+these	Word	--	Terminal	505
+fantasies	Word	--	Terminal	506
+run	Word	--	Terminal	507
+away	Word	--	Terminal	507
+with	Word	--	Terminal	508
+me	Word	--	Terminal	509
+!	Punctuation	--	Terminal	510
+#500	FN	--	L	515
+#501	FN	--	A	514
+#502	FN	--	E	511
+#503	FN	--	D	514
+#504	FN	--	E	511
+#505	FN	--	E	512
+#506	FN	--	C	512
+#507	FN	--	C	511
+#508	FN	--	R	513
+#509	FN	--	C	513
+#510	PNCT	--	U	513
+#511	FN	--	P	514
+#512	FN	--	A	514
+#513	FN	--	A	514
+#514	FN	--	H	515
+#515	FN	--	--	0
+#EOS 311000

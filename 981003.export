@@ -1,0 +1,27 @@
+#BOS 981003
+All	Word	--	Terminal	500
+the	Word	--	Terminal	500
+same	Word	--	Terminal	500
+,	Punctuation	--	Terminal	501
+our	Word	--	Terminal	502
+chances	Word	--	Terminal	503
+were	Word	--	Terminal	504
+automatically	Word	--	Terminal	505
+pretty	Word	--	Terminal	506
+limited	Word	--	Terminal	507
+.	Punctuation	--	Terminal	508
+#500	FN	--	L	512	LR	513
+#501	PNCT	--	U	512
+#502	FN	--	E	509
+#503	FN	--	C	509
+#504	FN	--	F	510
+#505	FN	--	D	511
+#506	FN	--	E	510
+#507	FN	--	C	510
+#508	PNCT	--	U	510
+#509	FN	--	A	511
+#510	FN	--	S	511
+#511	FN	--	H	512	LA	513
+#512	FN	--	--	0
+#513	LKG	--	--	0
+#EOS 981003

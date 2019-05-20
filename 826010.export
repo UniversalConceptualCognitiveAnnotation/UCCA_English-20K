@@ -1,0 +1,22 @@
+#BOS 826010
+“	Punctuation	--	Terminal	500
+We	Word	--	Terminal	501
+’ll	Word	--	Terminal	502
+deal	Word	--	Terminal	503
+with	Word	--	Terminal	504
+them	Word	--	Terminal	505
+later	Word	--	Terminal	506
+.	Punctuation	--	Terminal	507
+#500	PNCT	--	U	510
+#501	FN	--	A	510
+#502	FN	--	E	508
+#503	FN	--	C	508
+#504	FN	--	R	509
+#505	FN	--	C	509
+#506	FN	--	D	510
+#507	PNCT	--	U	510
+#508	FN	--	P	510
+#509	FN	--	A	510
+#510	FN	--	H	511
+#511	FN	--	--	0
+#EOS 826010

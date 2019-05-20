@@ -1,0 +1,31 @@
+#BOS 899001
+”	Punctuation	--	Terminal	500
+“	Punctuation	--	Terminal	501
+Wooden	Word	--	Terminal	502
+ships	Word	--	Terminal	503
+maybe	Word	--	Terminal	504
+,	Punctuation	--	Terminal	505
+”	Punctuation	--	Terminal	506
+the	Word	--	Terminal	507
+Canadian	Word	--	Terminal	508
+replied	Word	--	Terminal	509
+.	Punctuation	--	Terminal	510
+#500	PNCT	--	U	516
+#501	PNCT	--	U	516
+#502	FN	--	E	511
+#503	FN	--	C	511
+#504	FN	--	D	515
+#505	PNCT	--	U	517
+#506	PNCT	--	U	517
+#507	FN	--	E	512
+#508	FN	--	C	512
+#509	FN	--	P	516
+#510	PNCT	--	U	516
+#511	FN	--	A	515
+#512	FN	--	A	516
+#513	FN	--	A	515
+#514	FN	--	P	515
+#515	FN	--	H	517	A*	516
+#516	FN	--	H	517
+#517	FN	--	--	0
+#EOS 899001

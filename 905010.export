@@ -1,0 +1,23 @@
+#BOS 905010
+”	Punctuation	--	Terminal	500
+“	Punctuation	--	Terminal	501
+Fire	Word	--	Terminal	502
+and	Word	--	Terminal	502
+brimstone	Word	--	Terminal	502
+!	Punctuation	--	Terminal	503
+”	Punctuation	--	Terminal	504
+Ned	Word	--	Terminal	505
+put	Word	--	Terminal	506
+in	Word	--	Terminal	506
+.	Punctuation	--	Terminal	507
+#500	PNCT	--	U	508
+#501	PNCT	--	U	508
+#502	FN	--	H	509	A*	508
+#503	PNCT	--	U	509
+#504	PNCT	--	U	509
+#505	FN	--	A	508
+#506	FN	--	P	508
+#507	PNCT	--	U	508
+#508	FN	--	H	509
+#509	FN	--	--	0
+#EOS 905010

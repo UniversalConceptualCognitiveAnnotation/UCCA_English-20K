@@ -1,0 +1,23 @@
+#BOS 292002
+At	Word	--	Terminal	500
+least	Word	--	Terminal	501
+I	Word	--	Terminal	502
+hope	Word	--	Terminal	503
+it	Word	--	Terminal	504
+will	Word	--	Terminal	505
+.	Punctuation	--	Terminal	506
+#500	FN	--	R	507
+#501	FN	--	C	507
+#502	FN	--	A	511
+#503	FN	--	P	511
+#504	FN	--	A	510
+#505	FN	--	E	509
+#506	PNCT	--	U	509
+#507	FN	--	L	512	LR	513
+#508	FN	--	C	509
+#509	FN	--	P	510
+#510	FN	--	A	511
+#511	FN	--	H	512	LA	513
+#512	FN	--	--	0
+#513	LKG	--	--	0
+#EOS 292002

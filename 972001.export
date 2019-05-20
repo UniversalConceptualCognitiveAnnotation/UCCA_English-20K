@@ -1,0 +1,38 @@
+#BOS 972001
+Indeed	Word	--	Terminal	500
+,	Punctuation	--	Terminal	501
+were	Word	--	Terminal	502
+we	Word	--	Terminal	503
+likely	Word	--	Terminal	504
+to	Word	--	Terminal	505
+encounter	Word	--	Terminal	506
+the	Word	--	Terminal	507
+narwhale	Word	--	Terminal	508
+in	Word	--	Terminal	509
+such	Word	--	Terminal	510
+a	Word	--	Terminal	511
+cramped	Word	--	Terminal	512
+strait	Word	--	Terminal	513
+?	Punctuation	--	Terminal	514
+#500	FN	--	L	519	LR	520
+#501	PNCT	--	U	519
+#502	FN	--	F	515
+#503	FN	--	A	518
+#504	FN	--	E	515
+#505	FN	--	F	515
+#506	FN	--	C	515
+#507	FN	--	E	516
+#508	FN	--	C	516
+#509	FN	--	R	517
+#510	FN	--	E	517
+#511	FN	--	E	517
+#512	FN	--	E	517
+#513	FN	--	C	517
+#514	PNCT	--	U	517
+#515	FN	--	P	518
+#516	FN	--	A	518
+#517	FN	--	A	518
+#518	FN	--	H	519	LA	520
+#519	FN	--	--	0
+#520	LKG	--	--	0
+#EOS 972001

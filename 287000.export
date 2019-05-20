@@ -1,0 +1,62 @@
+#BOS 287000
+I	Word	--	Terminal	500
+was	Word	--	Terminal	501
+perfectly	Word	--	Terminal	502
+abreast	Word	--	Terminal	503
+of	Word	--	Terminal	504
+this	Word	--	Terminal	505
+question	Word	--	Terminal	506
+,	Punctuation	--	Terminal	507
+which	Word	--	Terminal	508
+was	Word	--	Terminal	509
+the	Word	--	Terminal	510
+big	Word	--	Terminal	511
+news	Word	--	Terminal	512
+of	Word	--	Terminal	513
+the	Word	--	Terminal	514
+day	Word	--	Terminal	515
+,	Punctuation	--	Terminal	516
+and	Word	--	Terminal	517
+how	Word	--	Terminal	518
+could	Word	--	Terminal	519
+I	Word	--	Terminal	520
+not	Word	--	Terminal	521
+have	Word	--	Terminal	522
+been	Word	--	Terminal	523
+?	Punctuation	--	Terminal	524
+#500	FN	--	A	532
+#501	FN	--	F	525
+#502	FN	--	D	532
+#503	FN	--	C	525
+#504	FN	--	R	531
+#505	FN	--	E	531
+#506	FN	--	C	531	A*	530
+#507	PNCT	--	U	531
+#508	FN	--	R	530
+#509	FN	--	S	530
+#510	FN	--	E	529
+#511	FN	--	E	529
+#512	FN	--	C	529
+#513	FN	--	R	526
+#514	FN	--	E	526
+#515	FN	--	C	526
+#516	PNCT	--	U	533
+#517	FN	--	L	533	LR	534
+#518	FN	--	F	528
+#519	FN	--	E	527
+#520	FN	--	A	528
+#521	FN	--	D	528
+#522	FN	--	F	527
+#523	FN	--	F	527
+#524	PNCT	--	U	527
+#525	FN	--	S	532
+#526	FN	--	E	529
+#527	FN	--	P	528
+#528	FN	--	H	533	LA	534
+#529	FN	--	A	530
+#530	FN	--	E	531
+#531	FN	--	A	532
+#532	FN	--	H	533	LA	534
+#533	FN	--	--	0
+#534	LKG	--	--	0
+#EOS 287000

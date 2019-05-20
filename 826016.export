@@ -1,0 +1,14 @@
+#BOS 826016
+”	Punctuation	--	Terminal	500
+Conseil	Word	--	Terminal	501
+asked	Word	--	Terminal	502
+.	Punctuation	--	Terminal	503
+#500	PNCT	--	U	506
+#501	FN	--	A	506
+#502	FN	--	P	506
+#503	PNCT	--	U	506
+#504	FN	--	A	506
+#505	FN	--	A	506
+#506	FN	--	H	507
+#507	FN	--	--	0
+#EOS 826016

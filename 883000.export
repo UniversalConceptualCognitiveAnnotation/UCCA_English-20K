@@ -1,0 +1,60 @@
+#BOS 883000
+As	Word	--	Terminal	500
+for	Word	--	Terminal	501
+me	Word	--	Terminal	502
+,	Punctuation	--	Terminal	503
+I	Word	--	Terminal	504
+didn	Word	--	Terminal	505
+’t	Word	--	Terminal	506
+lag	Word	--	Terminal	507
+behind	Word	--	Terminal	507
+the	Word	--	Terminal	508
+others	Word	--	Terminal	509
+and	Word	--	Terminal	510
+I	Word	--	Terminal	511
+yielded	Word	--	Terminal	512
+to	Word	--	Terminal	513
+no	Word	--	Terminal	514
+one	Word	--	Terminal	515
+my	Word	--	Terminal	516
+share	Word	--	Terminal	517
+in	Word	--	Terminal	518
+these	Word	--	Terminal	519
+daily	Word	--	Terminal	520
+observations	Word	--	Terminal	521
+.	Punctuation	--	Terminal	522
+#500	FN	--	R	523
+#501	FN	--	R	523
+#502	FN	--	C	523
+#503	PNCT	--	U	531
+#504	FN	--	A	529
+#505	FN	--	F	524
+#506	FN	--	D	529
+#507	FN	--	C	524
+#508	FN	--	E	525
+#509	FN	--	C	525
+#510	FN	--	L	531	LR	532
+#511	FN	--	A	530
+#512	FN	--	E	526
+#513	FN	--	R	527
+#514	FN	--	E	527
+#515	FN	--	C	527
+#516	FN	--	E	526
+#517	FN	--	C	526
+#518	FN	--	R	528
+#519	FN	--	E	528
+#520	FN	--	E	528
+#521	FN	--	C	528
+#522	PNCT	--	U	528
+#523	FN	--	L	531	LR	533
+#524	FN	--	P	529
+#525	FN	--	A	529
+#526	FN	--	P	530
+#527	FN	--	A	530
+#528	FN	--	A	530
+#529	FN	--	H	531	LA	532	LA	533
+#530	FN	--	H	531	LA	532
+#531	FN	--	--	0
+#532	LKG	--	--	0
+#533	LKG	--	--	0
+#EOS 883000

@@ -1,0 +1,72 @@
+#BOS 291000
+Now	Word	--	Terminal	500
+then	Word	--	Terminal	500
+,	Punctuation	--	Terminal	501
+although	Word	--	Terminal	502
+the	Word	--	Terminal	503
+latter	Word	--	Terminal	504
+hypothesis	Word	--	Terminal	505
+was	Word	--	Terminal	506
+completely	Word	--	Terminal	507
+admissible	Word	--	Terminal	508
+,	Punctuation	--	Terminal	509
+it	Word	--	Terminal	510
+couldn	Word	--	Terminal	511
+’t	Word	--	Terminal	512
+stand	Word	--	Terminal	513
+up	Word	--	Terminal	513
+to	Word	--	Terminal	514
+inquiries	Word	--	Terminal	515
+conducted	Word	--	Terminal	516
+in	Word	--	Terminal	517
+both	Word	--	Terminal	518
+the	Word	--	Terminal	519
+New	Word	--	Terminal	520
+World	Word	--	Terminal	521
+and	Word	--	Terminal	522
+the	Word	--	Terminal	523
+Old	Word	--	Terminal	524
+.	Punctuation	--	Terminal	525
+#500	FN	--	L	540	LR	541
+#501	PNCT	--	U	540
+#502	FN	--	L	540	LR	536
+#503	FN	--	E	526
+#504	FN	--	E	526
+#505	FN	--	C	526
+#506	FN	--	F	527
+#507	FN	--	D	533
+#508	FN	--	C	527
+#509	PNCT	--	U	540
+#510	FN	--	A	539
+#511	FN	--	E	528
+#512	FN	--	D	539
+#513	FN	--	C	528
+#514	FN	--	R	538
+#515	FN	--	C	538	A*	537
+#516	FN	--	P	537
+#517	FN	--	R	535
+#518	FN	--	E	535
+#519	FN	--	E	529
+#520	FN	--	E	529
+#521	FN	--	C	529	C*	530
+#522	FN	--	N	531
+#523	FN	--	E	530
+#524	FN	--	E	530
+#525	PNCT	--	U	530
+#526	FN	--	A	533
+#527	FN	--	P	533
+#528	FN	--	P	539
+#529	FN	--	C	531
+#530	FN	--	C	531
+#531	FN	--	C	535
+#532	FN	--	A	533
+#533	FN	--	H	540	LA	536
+#534	FN	--	A	537
+#535	FN	--	A	537
+#536	LKG	--	--	0
+#537	FN	--	E	538
+#538	FN	--	A	539
+#539	FN	--	H	540	LA	541
+#540	FN	--	--	0
+#541	LKG	--	--	0
+#EOS 291000

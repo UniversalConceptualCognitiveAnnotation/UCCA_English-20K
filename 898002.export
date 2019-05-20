@@ -1,0 +1,20 @@
+#BOS 898002
+It	Word	--	Terminal	500
+’s	Word	--	Terminal	501
+the	Word	--	Terminal	502
+same	Word	--	Terminal	503
+with	Word	--	Terminal	504
+whalers	Word	--	Terminal	505
+.	Punctuation	--	Terminal	506
+#500	FN	--	F	509
+#501	FN	--	F	507
+#502	FN	--	E	507
+#503	FN	--	C	507
+#504	FN	--	R	508
+#505	FN	--	C	508
+#506	PNCT	--	U	508
+#507	FN	--	S	509
+#508	FN	--	A	509
+#509	FN	--	H	510
+#510	FN	--	--	0
+#EOS 898002

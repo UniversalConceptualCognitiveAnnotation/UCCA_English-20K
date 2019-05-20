@@ -1,0 +1,70 @@
+#BOS 310009
+Couldn	Word	--	Terminal	500
+’t	Word	--	Terminal	501
+the	Word	--	Terminal	502
+heart	Word	--	Terminal	503
+of	Word	--	Terminal	504
+the	Word	--	Terminal	505
+ocean	Word	--	Terminal	506
+hide	Word	--	Terminal	507
+the	Word	--	Terminal	508
+last	Word	--	Terminal	509
+-	Punctuation	--	Terminal	510
+remaining	Word	--	Terminal	511
+varieties	Word	--	Terminal	512
+of	Word	--	Terminal	513
+these	Word	--	Terminal	514
+titanic	Word	--	Terminal	515
+species	Word	--	Terminal	516
+,	Punctuation	--	Terminal	517
+for	Word	--	Terminal	518
+whom	Word	--	Terminal	519
+years	Word	--	Terminal	520
+are	Word	--	Terminal	521
+centuries	Word	--	Terminal	522
+and	Word	--	Terminal	523
+centuries	Word	--	Terminal	524
+millennia	Word	--	Terminal	525
+?	Punctuation	--	Terminal	526
+#500	FN	--	E	527
+#501	FN	--	D	536
+#502	FN	--	E	535
+#503	FN	--	C	535
+#504	FN	--	R	528
+#505	FN	--	E	528
+#506	FN	--	C	528
+#507	FN	--	C	527
+#508	FN	--	E	529
+#509	FN	--	C	529
+#510	PNCT	--	U	540
+#511	FN	--	P	539
+#512	FN	--	C	538
+#513	FN	--	R	537
+#514	FN	--	E	537
+#515	FN	--	E	537
+#516	FN	--	C	537	A*	530	C*	531
+#517	PNCT	--	U	537
+#518	FN	--	R	531
+#519	FN	--	R	532	R*	530
+#520	FN	--	A	532
+#521	FN	--	S	532	S*	530
+#522	FN	--	A	532
+#523	FN	--	L	533	LR	534
+#524	FN	--	A	530
+#525	FN	--	A	530
+#526	PNCT	--	U	530
+#527	FN	--	P	536
+#528	FN	--	E	535
+#529	FN	--	A	536
+#530	FN	--	H	533	LA	534
+#531	FN	--	A	532
+#532	FN	--	H	533	LA	534
+#533	FN	--	E	537
+#534	LKG	--	--	0
+#535	FN	--	A	536	A*	539
+#536	FN	--	H	540
+#537	FN	--	E	538
+#538	FN	--	A	539
+#539	FN	--	H	540
+#540	FN	--	--	0
+#EOS 310009

@@ -1,0 +1,36 @@
+#BOS 898000
+“	Punctuation	--	Terminal	500
+That	Word	--	Terminal	501
+’s	Word	--	Terminal	502
+just	Word	--	Terminal	503
+where	Word	--	Terminal	502
+you	Word	--	Terminal	504
+’re	Word	--	Terminal	505
+mistaken	Word	--	Terminal	506
+,	Punctuation	--	Terminal	507
+professor	Word	--	Terminal	508
+,	Punctuation	--	Terminal	509
+”	Punctuation	--	Terminal	510
+Ned	Word	--	Terminal	511
+replied	Word	--	Terminal	512
+.	Punctuation	--	Terminal	513
+#500	PNCT	--	U	517
+#501	FN	--	A	515
+#502	FN	--	F	515
+#503	FN	--	D	515
+#504	FN	--	F	515
+#505	FN	--	F	514
+#506	FN	--	C	514
+#507	PNCT	--	U	515
+#508	FN	--	A	515
+#509	PNCT	--	U	518
+#510	PNCT	--	U	518
+#511	FN	--	A	517
+#512	FN	--	P	517
+#513	PNCT	--	U	517
+#514	FN	--	P	515
+#515	FN	--	H	518	A*	517
+#516	FN	--	A	517
+#517	FN	--	H	518
+#518	FN	--	--	0
+#EOS 898000

@@ -1,0 +1,41 @@
+#BOS 880005
+The	Word	--	Terminal	500
+monster	Word	--	Terminal	501
+existed	Word	--	Terminal	502
+,	Punctuation	--	Terminal	503
+and	Word	--	Terminal	504
+he	Word	--	Terminal	505
+had	Word	--	Terminal	506
+vowed	Word	--	Terminal	507
+to	Word	--	Terminal	508
+rid	Word	--	Terminal	509
+the	Word	--	Terminal	510
+seas	Word	--	Terminal	511
+of	Word	--	Terminal	512
+it	Word	--	Terminal	513
+.	Punctuation	--	Terminal	514
+#500	FN	--	E	515
+#501	FN	--	C	515
+#502	FN	--	P	516
+#503	PNCT	--	U	523
+#504	FN	--	L	523
+#505	FN	--	A	522	A*	521
+#506	FN	--	F	517
+#507	FN	--	C	517
+#508	FN	--	F	518
+#509	FN	--	C	518
+#510	FN	--	E	519
+#511	FN	--	C	519
+#512	FN	--	R	520
+#513	FN	--	C	520
+#514	PNCT	--	U	520
+#515	FN	--	A	516
+#516	FN	--	H	523
+#517	FN	--	P	522
+#518	FN	--	P	521
+#519	FN	--	A	521
+#520	FN	--	A	521
+#521	FN	--	A	522
+#522	FN	--	H	523
+#523	FN	--	--	0
+#EOS 880005

@@ -1,0 +1,45 @@
+#BOS 830002
+I	Word	--	Terminal	500
+settled	Word	--	Terminal	501
+my	Word	--	Terminal	502
+bill	Word	--	Terminal	503
+at	Word	--	Terminal	504
+that	Word	--	Terminal	505
+huge	Word	--	Terminal	506
+counter	Word	--	Terminal	507
+that	Word	--	Terminal	508
+was	Word	--	Terminal	509
+always	Word	--	Terminal	510
+under	Word	--	Terminal	511
+siege	Word	--	Terminal	512
+by	Word	--	Terminal	513
+a	Word	--	Terminal	514
+considerable	Word	--	Terminal	515
+crowd	Word	--	Terminal	516
+.	Punctuation	--	Terminal	517
+#500	FN	--	A	523
+#501	FN	--	P	523
+#502	FN	--	E	518
+#503	FN	--	C	518
+#504	FN	--	R	522
+#505	FN	--	E	522
+#506	FN	--	E	522
+#507	FN	--	C	522	A*	521
+#508	FN	--	R	521
+#509	FN	--	F	519
+#510	FN	--	D	521
+#511	FN	--	R	519
+#512	FN	--	C	519
+#513	FN	--	R	520
+#514	FN	--	E	520
+#515	FN	--	E	520
+#516	FN	--	C	520
+#517	PNCT	--	U	520
+#518	FN	--	A	523
+#519	FN	--	P	521
+#520	FN	--	A	521
+#521	FN	--	E	522
+#522	FN	--	A	523
+#523	FN	--	H	524
+#524	FN	--	--	0
+#EOS 830002

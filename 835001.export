@@ -1,0 +1,63 @@
+#BOS 835001
+It	Word	--	Terminal	500
+was	Word	--	Terminal	501
+a	Word	--	Terminal	502
+high	Word	--	Terminal	503
+-	Punctuation	--	Terminal	504
+speed	Word	--	Terminal	505
+frigate	Word	--	Terminal	506
+furnished	Word	--	Terminal	507
+with	Word	--	Terminal	508
+superheating	Word	--	Terminal	509
+equipment	Word	--	Terminal	510
+that	Word	--	Terminal	511
+allowed	Word	--	Terminal	512
+the	Word	--	Terminal	513
+tension	Word	--	Terminal	514
+of	Word	--	Terminal	515
+its	Word	--	Terminal	516
+steam	Word	--	Terminal	517
+to	Word	--	Terminal	518
+build	Word	--	Terminal	519
+to	Word	--	Terminal	520
+seven	Word	--	Terminal	521
+atmospheres	Word	--	Terminal	522
+.	Punctuation	--	Terminal	523
+#500	FN	--	A	535
+#501	FN	--	S	535
+#502	FN	--	E	534
+#503	FN	--	E	524
+#504	PNCT	--	U	524
+#505	FN	--	C	524
+#506	FN	--	C	534	A*	533
+#507	FN	--	P	533
+#508	FN	--	R	532
+#509	FN	--	E	532
+#510	FN	--	C	532	A*	531
+#511	FN	--	R	531
+#512	FN	--	P	531
+#513	FN	--	E	529
+#514	FN	--	C	529	A*	530
+#515	FN	--	R	525
+#516	FN	--	E	525
+#517	FN	--	C	525
+#518	FN	--	F	526
+#519	FN	--	C	526
+#520	FN	--	R	527
+#521	FN	--	E	527
+#522	FN	--	C	527
+#523	PNCT	--	U	527
+#524	FN	--	E	534
+#525	FN	--	E	529
+#526	FN	--	P	530
+#527	FN	--	A	530
+#528	FN	--	A	533
+#529	FN	--	A	531
+#530	FN	--	A	531
+#531	FN	--	E	532
+#532	FN	--	A	533
+#533	FN	--	E	534
+#534	FN	--	A	535
+#535	FN	--	H	536
+#536	FN	--	--	0
+#EOS 835001
