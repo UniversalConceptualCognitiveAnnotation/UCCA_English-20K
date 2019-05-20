@@ -1,0 +1,11 @@
+# format = ucca
+1	No	_	Word	-	-	_	E	_
+2	whaling	_	Word	-	-	_	E	_
+3	vessel	_	Word	-	+	_	_	A
+4	could	_	Word	-	-	_	_	E
+5	have	_	Word	-	-	_	_	F
+6	been	_	Word	-	-	_	_	F
+7	better	_	Word	-	-	_	_	D
+8	armed	_	Word	-	+	_	_	_
+9	.	_	Punctuation	-	-	_	_	U
+

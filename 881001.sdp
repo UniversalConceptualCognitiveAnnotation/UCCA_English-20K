@@ -1,0 +1,29 @@
+# format = ucca
+1	They	_	Word	-	-	_	_	A	A*	_	_	A*	_	_
+2	could	_	Word	-	-	_	E	_	_	_	_	_	_	_
+3	be	_	Word	-	-	_	F	_	_	_	_	_	_	_
+4	heard	_	Word	-	+	_	_	_	_	_	_	_	_	_
+5	chatting	_	Word	-	+	_	A	_	_	_	_	_	_	_
+6	,	_	Punctuation	-	-	_	_	U	_	_	_	_	_	_
+7	discussing	_	Word	-	-	_	_	C	_	_	_	_	_	_
+8	,	_	Punctuation	-	-	_	_	U	_	_	_	_	_	_
+9	arguing	_	Word	-	-	_	_	C	_	_	_	_	_	_
+10	,	_	Punctuation	-	-	_	_	U	_	_	_	_	_	_
+11	calculating	_	Word	-	+	_	_	H	_	_	_	_	_	_
+12	the	_	Word	-	-	_	_	_	_	E	_	_	_	_
+13	different	_	Word	-	-	_	_	_	_	E	_	_	_	_
+14	chances	_	Word	-	+	_	_	_	A	_	_	_	_	_
+15	of	_	Word	-	-	_	_	_	_	_	R	_	_	_
+16	an	_	Word	-	-	_	_	_	_	_	E	_	_	_
+17	encounter	_	Word	-	+	_	_	_	_	E	_	_	_	_
+18	,	_	Punctuation	-	-	_	_	U	_	_	_	_	_	_
+19	and	_	Word	-	-	_	_	L	_	_	_	_	_	_
+20	observing	_	Word	-	+	_	_	H	_	_	_	_	_	_
+21	the	_	Word	-	-	_	_	_	_	_	_	_	E	_
+22	vast	_	Word	-	-	_	_	_	_	_	_	_	E	_
+23	expanse	_	Word	-	+	_	_	_	_	_	_	A	_	_
+24	of	_	Word	-	-	_	_	_	_	_	_	_	_	R
+25	the	_	Word	-	-	_	_	_	_	_	_	_	_	E
+26	ocean	_	Word	-	+	_	_	_	_	_	_	_	E	_
+27	.	_	Punctuation	-	-	_	_	_	_	_	_	_	_	U
+

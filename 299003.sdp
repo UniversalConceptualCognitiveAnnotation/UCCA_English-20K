@@ -1,0 +1,23 @@
+# format = ucca
+1	What	_	Word	-	-	_	E	_	_	_	_	_	_	_
+2	creatures	_	Word	-	+	_	_	A	_	_	_	_	_	_
+3	inhabit	_	Word	-	+	_	_	_	_	_	_	_	_	_
+4	,	_	Punctuation	-	-	_	_	U	_	_	_	_	_	_
+5	or	_	Word	-	-	_	_	N	_	_	_	_	_	_
+6	could	_	Word	-	-	_	_	_	E	_	_	_	_	_
+7	inhabit	_	Word	-	+	_	_	C	_	_	_	_	_	_
+8	,	_	Punctuation	-	-	_	_	U	_	_	_	_	_	_
+9	those	_	Word	-	-	_	_	_	_	E	_	_	_	_
+10	regions	_	Word	-	+	_	_	A	_	_	_	_	_	_
+11	twelve	_	Word	-	+	_	_	_	_	E	_	_	_	_
+12	or	_	Word	-	-	_	_	_	_	_	N	_	_	_
+13	fifteen	_	Word	-	-	_	_	_	_	_	_	E	_	_
+14	miles	_	Word	-	+	_	_	_	_	_	C*	_	_	_
+15	beneath	_	Word	-	-	_	_	_	_	_	_	_	_	R
+16	the	_	Word	-	-	_	_	_	_	_	_	_	E	_
+17	surface	_	Word	-	+	_	_	_	_	_	_	_	_	E
+18	of	_	Word	-	-	_	_	_	_	_	_	_	R	_
+19	the	_	Word	-	-	_	_	_	_	_	_	_	_	E
+20	water	_	Word	-	+	_	_	_	_	_	E	_	_	_
+21	?	_	Punctuation	-	-	_	_	_	_	_	_	_	_	U
+

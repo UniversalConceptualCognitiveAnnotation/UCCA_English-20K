@@ -1,0 +1,25 @@
+# format = ucca
+1	And	_	Word	-	-	_	_	L	_	_	_	_
+2	indeed	_	Word	-	-	_	_	L	_	_	_	_
+3	,	_	Punctuation	-	-	_	_	U	_	_	_	_
+4	unless	_	Word	-	-	_	_	L	_	_	_	_
+5	this	_	Word	-	-	_	E	_	_	_	_	_
+6	reef	_	Word	-	+	_	_	A	_	_	_	_
+7	had	_	Word	-	+	_	_	_	_	_	_	_
+8	an	_	Word	-	-	_	_	_	E	_	_	_
+9	engine	_	Word	-	+	_	_	A	_	_	_	_
+10	in	_	Word	-	-	_	_	_	_	R	_	_
+11	its	_	Word	-	-	_	_	_	_	E	_	_
+12	belly	_	Word	-	+	_	_	A	_	_	_	_
+13	,	_	Punctuation	-	-	_	_	U	_	_	_	_
+14	how	_	Word	-	-	_	_	_	_	_	F	_
+15	could	_	Word	-	-	_	_	_	_	_	E	_
+16	it	_	Word	-	-	_	_	_	_	_	A	_
+17	move	_	Word	-	+	_	_	H	_	_	_	_
+18	about	_	Word	-	-	_	_	_	_	_	Terminal	_
+19	with	_	Word	-	-	_	_	_	_	_	_	R
+20	such	_	Word	-	-	_	_	_	_	_	_	E
+21	prodigious	_	Word	-	-	_	_	_	_	_	_	E
+22	speed	_	Word	-	+	_	_	_	_	_	A	_
+23	?	_	Punctuation	-	-	_	_	_	_	_	_	U
+

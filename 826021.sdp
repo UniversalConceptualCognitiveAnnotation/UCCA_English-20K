@@ -1,0 +1,10 @@
+# format = ucca
+1	We	_	Word	-	-	_	A	_
+2	’re	_	Word	-	-	_	F	_
+3	leaving	_	Word	-	+	_	_	_
+4	on	_	Word	-	-	_	_	R
+5	the	_	Word	-	-	_	_	E
+6	Abraham	_	Word	-	+	_	A	_
+7	Lincoln	_	Word	-	-	_	_	Terminal
+8	.	_	Punctuation	-	-	_	_	U
+

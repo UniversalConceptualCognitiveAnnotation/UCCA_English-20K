@@ -1,0 +1,11 @@
+# format = ucca
+1	And	_	Word	-	-	_	_	L
+2	this	_	Word	-	-	_	E	_
+3	reaction	_	Word	-	+	_	_	A
+4	wasn	_	Word	-	-	_	_	F
+5	’t	_	Word	-	-	_	_	D
+6	long	_	Word	-	-	_	_	E
+7	in	_	Word	-	-	_	_	R
+8	coming	_	Word	-	+	_	_	_
+9	.	_	Punctuation	-	-	_	_	U
+

@@ -1,0 +1,31 @@
+# format = ucca
+1	One	_	Word	-	+	_	_	E	_	_	_	_	_	_	_	_
+2	of	_	Word	-	-	_	R	_	_	_	_	_	_	_	_	_
+3	the	_	Word	-	-	_	_	E	_	_	_	_	_	_	_	_
+4	sailors	_	Word	-	+	_	_	_	A	_	_	_	_	_	_	_
+5	led	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_
+6	me	_	Word	-	-	_	_	_	A	_	_	_	_	_	_	_
+7	to	_	Word	-	-	_	_	_	_	R	_	_	_	_	_	_
+8	the	_	Word	-	-	_	_	_	_	E	_	_	_	_	_	_
+9	afterdeck	_	Word	-	+	_	_	_	A	_	_	_	_	_	_	_
+10	,	_	Punctuation	-	-	_	_	_	U	_	_	_	_	_	_	_
+11	where	_	Word	-	-	_	_	_	L	_	_	_	_	_	_	_
+12	I	_	Word	-	-	_	_	_	_	_	A	_	_	_	_	_
+13	stood	_	Word	-	-	_	_	_	_	_	E	_	_	_	_	_
+14	in	_	Word	-	-	_	_	_	_	_	R	_	_	_	_	_
+15	the	_	Word	-	-	_	_	_	_	_	E	_	_	_	_	_
+16	presence	_	Word	-	+	_	_	_	H	_	_	_	_	_	_	_
+17	of	_	Word	-	-	_	_	_	_	_	_	_	R	_	_	_
+18	a	_	Word	-	-	_	_	_	_	_	_	_	E	_	_	_
+19	smart	_	Word	-	+	_	_	_	_	_	_	_	E	_	_	_
+20	-	_	Punctuation	-	-	_	_	_	_	_	_	U	_	_	_	_
+21	looking	_	Word	-	-	_	_	_	_	_	_	Terminal	_	_	_	_
+22	officer	_	Word	-	+	_	_	_	_	_	A	_	_	_	_	_
+23	who	_	Word	-	-	_	_	_	_	_	_	_	_	R	_	_
+24	extended	_	Word	-	+	_	_	_	_	_	_	_	E	_	_	_
+25	his	_	Word	-	-	_	_	_	_	_	_	_	_	_	E	_
+26	hand	_	Word	-	+	_	_	_	_	_	_	_	_	A	_	_
+27	to	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	R
+28	me	_	Word	-	+	_	_	_	_	_	_	_	_	A	_	_
+29	.	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	_	U
+

@@ -1,0 +1,35 @@
+# format = ucca
+1	Sometimes	_	Word	-	-	_	D	_	_	_	_	_	_	_	_	_	_	_
+2	bending	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_
+3	over	_	Word	-	-	_	_	R	_	_	_	_	_	_	_	_	_	_
+4	the	_	Word	-	-	_	_	E	_	_	_	_	_	_	_	_	_	_
+5	forecastle	_	Word	-	-	_	_	E	_	_	_	_	_	_	_	_	_	_
+6	railings	_	Word	-	+	_	A	_	_	_	_	_	_	_	_	_	_	_
+7	,	_	Punctuation	-	-	_	U	_	_	_	_	_	_	_	_	_	_	_
+8	sometimes	_	Word	-	-	_	_	_	D	_	_	_	_	_	_	_	_	_
+9	leaning	_	Word	-	+	_	H	_	_	_	_	_	_	_	_	_	_	_
+10	against	_	Word	-	-	_	_	_	_	R	_	_	_	_	_	_	_	_
+11	the	_	Word	-	-	_	_	_	_	E	_	_	_	_	_	_	_	_
+12	sternrail	_	Word	-	+	_	_	_	A	_	_	_	_	_	_	_	_	_
+13	,	_	Punctuation	-	-	_	_	_	U	_	_	_	_	_	_	_	_	_
+14	I	_	Word	-	-	_	_	_	A*	_	A	_	_	_	_	_	_	_
+15	eagerly	_	Word	-	-	_	_	_	_	_	D	_	_	_	_	_	_	_
+16	scoured	_	Word	-	+	_	H	_	_	_	_	_	_	_	_	_	_	_
+17	that	_	Word	-	-	_	_	_	_	_	_	_	E	_	_	_	_	_
+18	cotton	_	Word	-	+	_	_	_	_	_	_	_	E	_	_	_	_	_
+19	-	_	Punctuation	-	-	_	_	_	_	_	_	U	_	_	_	_	_	_
+20	colored	_	Word	-	-	_	_	_	_	_	_	E	_	_	_	_	_	_
+21	wake	_	Word	-	+	_	_	_	_	_	A	_	_	_	_	_	_	_
+22	that	_	Word	-	-	_	_	_	_	_	_	_	_	R	_	_	_	_
+23	whitened	_	Word	-	+	_	_	_	_	_	_	_	E	_	_	_	_	_
+24	the	_	Word	-	-	_	_	_	_	_	_	_	_	_	E	_	_	_
+25	ocean	_	Word	-	+	_	_	_	_	_	_	_	_	A	_	_	_	_
+26	as	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	R	_	_
+27	far	_	Word	-	+	_	L	_	_	_	_	_	_	_	_	_	_	_
+28	as	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	R	_	_
+29	the	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	E	_
+30	eye	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	A
+31	could	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	E
+32	see	_	Word	-	+	_	H	_	_	_	_	_	_	_	_	_	_	_
+33	!	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	_	_	_	U
+

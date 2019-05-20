@@ -1,0 +1,26 @@
+# format = ucca
+1	I	_	Word	-	-	_	_	_	A	_	_	_	_
+2	can	_	Word	-	-	_	E	_	_	_	_	_	_
+3	do	_	Word	-	+	_	_	E	_	_	_	_	_
+4	no	_	Word	-	-	_	_	E	_	_	_	_	_
+5	better	_	Word	-	+	_	_	_	E	_	_	_	_
+6	than	_	Word	-	-	_	_	_	F	_	_	_	_
+7	to	_	Word	-	-	_	_	_	F	_	_	_	_
+8	compare	_	Word	-	+	_	_	_	_	_	_	_	_
+9	him	_	Word	-	-	_	_	_	A	_	_	_	_
+10	with	_	Word	-	-	_	_	_	_	R	_	_	_
+11	a	_	Word	-	-	_	_	_	_	E	_	_	_
+12	powerful	_	Word	-	-	_	_	_	_	E	_	_	_
+13	telescope	_	Word	-	+	_	_	_	A	_	_	_	_
+14	that	_	Word	-	-	_	_	_	_	_	R	_	_
+15	could	_	Word	-	-	_	_	_	_	_	E	_	_
+16	double	_	Word	-	+	_	_	_	_	E	_	_	_
+17	as	_	Word	-	-	_	_	_	_	_	_	R	_
+18	a	_	Word	-	-	_	_	_	_	_	_	E	_
+19	cannon	_	Word	-	+	_	_	_	_	_	A	_	_
+20	always	_	Word	-	-	_	_	_	_	_	_	_	D
+21	ready	_	Word	-	-	_	_	_	_	_	_	_	E
+22	to	_	Word	-	-	_	_	_	_	_	_	_	F
+23	fire	_	Word	-	+	_	_	_	_	_	_	E	_
+24	.	_	Punctuation	-	-	_	_	_	_	_	_	_	U
+

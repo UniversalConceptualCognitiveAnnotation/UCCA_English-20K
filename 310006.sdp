@@ -1,0 +1,29 @@
+# format = ucca
+1	Why	_	Word	-	+	_	_	_	_	_	_	_
+2	not	_	Word	-	-	_	Terminal	_	_	_	_	_
+3	?	_	Punctuation	-	-	_	U	_	_	_	_	_
+4	Formerly	_	Word	-	-	_	_	_	_	_	D	_
+5	,	_	Punctuation	-	-	_	_	_	_	_	U	_
+6	in	_	Word	-	-	_	_	R	_	_	_	_
+7	prehistoric	_	Word	-	-	_	_	E	_	_	_	_
+8	days	_	Word	-	+	_	_	_	_	_	D	_
+9	,	_	Punctuation	-	-	_	_	_	_	_	U	_
+10	land	_	Word	-	-	_	_	_	E	_	_	_
+11	animals	_	Word	-	+	_	_	_	_	_	A	_
+12	(	_	Punctuation	-	-	_	_	_	U	_	_	_
+13	quadrupeds	_	Word	-	+	_	_	_	E	_	_	_
+14	,	_	Punctuation	-	-	_	_	_	_	U	_	_
+15	apes	_	Word	-	-	_	_	_	_	C	_	_
+16	,	_	Punctuation	-	-	_	_	_	_	U	_	_
+17	reptiles	_	Word	-	-	_	_	_	_	C	_	_
+18	,	_	Punctuation	-	-	_	_	_	_	U	_	_
+19	birds	_	Word	-	-	_	_	_	_	C	_	_
+20	)	_	Punctuation	-	-	_	_	_	_	_	U	_
+21	were	_	Word	-	-	_	_	_	_	_	F	_
+22	built	_	Word	-	+	_	H	_	_	_	_	_
+23	on	_	Word	-	-	_	_	_	_	_	_	R
+24	a	_	Word	-	-	_	_	_	_	_	_	E
+25	gigantic	_	Word	-	-	_	_	_	_	_	_	E
+26	scale	_	Word	-	+	_	_	_	_	_	A	_
+27	.	_	Punctuation	-	-	_	_	_	_	_	_	U
+

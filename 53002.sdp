@@ -1,0 +1,36 @@
+# format = ucca
+1	In	_	Word	-	-	_	R	_	_	_	_	_	_	_	_	_	_
+2	twenty-six	_	Word	-	-	_	E	_	_	_	_	_	_	_	_	_	_
+3	years	_	Word	-	+	_	_	_	D	_	_	_	_	_	_	_	_
+4	Cunard	_	Word	-	-	_	_	E	_	_	_	_	_	_	_	_	_
+5	ships	_	Word	-	+	_	_	_	A	_	_	_	_	_	_	_	_
+6	have	_	Word	-	-	_	_	_	F	_	_	_	_	_	_	_	_
+7	made	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_
+8	2,000	_	Word	-	-	_	_	_	_	E	_	_	_	_	_	_	_
+9	Atlantic	_	Word	-	-	_	_	_	_	E	_	_	_	_	_	_	_
+10	crossings	_	Word	-	+	_	_	_	A	_	_	_	_	_	_	_	_
+11	without	_	Word	-	-	_	_	_	_	_	_	R	_	_	_	_	_
+12	so	_	Word	-	+	_	_	_	_	_	_	E	_	_	_	_	_
+13	much	_	Word	-	-	_	_	_	_	_	Terminal	_	_	_	_	_	_
+14	as	_	Word	-	-	_	_	_	_	_	Terminal	_	_	_	_	_	_
+15	a	_	Word	-	-	_	_	_	_	_	_	E	_	_	_	_	_
+16	voyage	_	Word	-	+	_	_	_	A	_	_	_	_	_	_	_	_
+17	canceled	_	Word	-	-	_	_	_	_	_	_	E	_	_	_	_	_
+18	,	_	Punctuation	-	-	_	_	_	_	_	_	U	_	_	_	_	_
+19	a	_	Word	-	-	_	_	_	_	_	_	_	E	_	_	_	_
+20	delay	_	Word	-	+	_	_	_	_	_	_	C	_	_	_	_	_
+21	recorded	_	Word	-	-	_	_	_	_	_	_	_	E	_	_	_	_
+22	,	_	Punctuation	-	-	_	_	_	_	_	_	U	_	_	_	_	_
+23	a	_	Word	-	-	_	_	_	_	_	_	_	_	E	_	_	_
+24	man	_	Word	-	+	_	_	_	_	_	_	C	_	_	_	_	_
+25	,	_	Punctuation	-	-	_	_	_	_	_	_	_	_	U	_	_	_
+26	a	_	Word	-	-	_	_	_	_	_	_	_	_	_	E	_	_
+27	craft	_	Word	-	+	_	_	_	_	_	_	_	_	C	_	_	_
+28	,	_	Punctuation	-	-	_	_	_	_	_	_	_	_	U	_	_	_
+29	or	_	Word	-	-	_	_	_	_	_	_	_	_	N	_	_	_
+30	even	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	E	_
+31	a	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	E	_
+32	letter	_	Word	-	+	_	_	_	_	_	_	_	_	C	_	_	_
+33	lost	_	Word	-	+	_	_	_	_	_	_	_	_	E	_	_	_
+34	.	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	_	_	U
+

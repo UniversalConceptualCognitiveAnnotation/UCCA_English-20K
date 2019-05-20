@@ -1,0 +1,24 @@
+# format = ucca
+1	Consequently	_	Word	-	-	_	_	_	_	_	L	_	_
+2	,	_	Punctuation	-	-	_	_	_	_	_	U	_	_
+3	the	_	Word	-	-	_	E	_	_	_	_	_	_
+4	feats	_	Word	-	+	_	_	_	_	_	A	_	_
+5	of	_	Word	-	-	_	_	R	R*	_	_	_	_
+6	krakens	_	Word	-	+	_	E	_	_	_	_	_	_
+7	or	_	Word	-	-	_	_	N	_	_	_	_	_
+8	other	_	Word	-	-	_	_	_	E	_	_	_	_
+9	monsters	_	Word	-	+	_	_	C	_	_	_	_	_
+10	of	_	Word	-	-	_	_	_	_	R	_	_	_
+11	that	_	Word	-	-	_	_	_	_	E	_	_	_
+12	ilk	_	Word	-	+	_	_	_	E	_	_	_	_
+13	must	_	Word	-	-	_	_	_	_	_	E	_	_
+14	be	_	Word	-	-	_	_	_	_	_	F	_	_
+15	relegated	_	Word	-	+	_	_	_	_	_	_	_	_
+16	to	_	Word	-	-	_	_	_	_	_	_	R	_
+17	the	_	Word	-	-	_	_	_	_	_	_	E	_
+18	realm	_	Word	-	+	_	_	_	_	_	_	_	E
+19	of	_	Word	-	-	_	_	_	_	_	_	R	_
+20	fiction	_	Word	-	+	_	_	_	_	_	A	_	_
+21	.	_	Punctuation	-	-	_	_	_	_	_	_	_	U
+22	”	_	Punctuation	-	-	_	_	_	_	_	_	_	U
+

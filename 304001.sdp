@@ -1,0 +1,37 @@
+# format = ucca
+1	Increase	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+2	its	_	Word	-	-	_	_	E	_	_	_	_	_	_	_	_	_	_	_	_
+3	dimensions	_	Word	-	+	_	A	_	_	_	_	_	_	_	_	_	_	_	_	_
+4	fivefold	_	Word	-	+	_	A	_	_	_	_	_	_	_	_	_	_	_	_	_
+5	or	_	Word	-	-	_	_	_	N	_	_	_	_	_	_	_	_	_	_	_
+6	even	_	Word	-	-	_	_	_	_	E	_	_	_	_	_	_	_	_	_	_
+7	tenfold	_	Word	-	+	_	_	_	C	_	_	_	_	_	_	_	_	_	_	_
+8	,	_	Punctuation	-	-	_	U	_	_	_	_	_	_	_	_	_	_	_	_	_
+9	then	_	Word	-	-	_	L	_	_	_	_	_	_	_	_	_	_	_	_	_
+10	give	_	Word	-	+	_	H	_	_	_	_	_	_	_	_	_	_	_	_	_
+11	this	_	Word	-	-	_	_	_	_	_	_	E	_	_	_	_	_	_	_	_
+12	cetacean	_	Word	-	+	_	_	_	_	_	A	_	_	_	_	_	_	_	_	_
+13	a	_	Word	-	-	_	_	_	_	_	_	_	E	_	_	_	_	_	_	_
+14	strength	_	Word	-	+	_	_	_	_	_	A	_	_	_	_	_	_	_	_	_
+15	in	_	Word	-	-	_	_	_	_	_	_	_	_	R	_	_	_	_	_	_
+16	proportion	_	Word	-	+	_	_	_	_	_	_	_	_	_	E	_	_	_	_	_
+17	to	_	Word	-	-	_	_	_	_	_	_	_	_	R	_	_	_	_	_	_
+18	its	_	Word	-	-	_	_	_	_	_	_	_	_	_	E	_	_	_	_	_
+19	size	_	Word	-	+	_	_	_	_	_	_	_	E	_	_	_	_	_	_	_
+20	while	_	Word	-	-	_	L	_	_	_	_	_	_	_	_	_	_	_	_	_
+21	enlarging	_	Word	-	+	_	H	_	_	_	_	_	_	_	_	_	_	_	_	_
+22	its	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	E	_	_	_
+23	offensive	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	E	_	_	_
+24	weapons	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	A	_	_	_	_
+25	,	_	Punctuation	-	-	_	U	_	_	_	_	_	_	_	_	_	_	_	_	_
+26	and	_	Word	-	-	_	L	_	_	_	_	_	_	_	_	_	_	_	_	_
+27	you	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	A	_	_
+28	have	_	Word	-	+	_	H	_	_	_	_	_	_	_	_	_	_	_	_	_
+29	the	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	E	_
+30	animal	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	A	_	_
+31	we	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	A
+32	’re	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	F
+33	looking	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	E	_
+34	for	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	Terminal
+35	.	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	U
+
