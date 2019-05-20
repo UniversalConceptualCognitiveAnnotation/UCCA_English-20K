@@ -1,0 +1,48 @@
+# format = ucca
+# sent_id = 49000
+# text = On March 5 , 1867 , the Moravian from the Montreal Ocean Co . , lying during the night in latitude 27° 30\u2032 and longitude 72° 15\u2032 , ran its starboard quarter afoul of a rock marked on no charts of these waterways .
+1	On	_	Word	Word	_	2	R	2:R	_
+2	March	_	Word	Word	_	29	D	29:D	_
+3	5	_	Word	Word	_	2	Terminal	2:Terminal	_
+4	,	_	Punctuation	Punctuation	_	2	U	2:U	_
+5	1867	_	Word	Word	_	2	Terminal	2:Terminal	_
+6	,	_	Punctuation	Punctuation	_	29	U	29:U	_
+7	the	_	Word	Word	_	8	E	8:E	_
+8	Moravian	_	Word	Word	_	0	C	0:C|16:A	_
+9	from	_	Word	Word	_	11	R	11:R	_
+10	the	_	Word	Word	_	11	E	11:E	_
+11	Montreal	_	Word	Word	_	8	E	8:E	_
+12	Ocean	_	Word	Word	_	11	Terminal	11:Terminal	_
+13	Co	_	Word	Word	_	11	Terminal	11:Terminal	_
+14	.	_	Punctuation	Punctuation	_	29	U	29:U	_
+15	,	_	Punctuation	Punctuation	_	29	U	29:U	_
+16	lying	_	Word	Word	_	29	H	29:H	_
+17	during	_	Word	Word	_	19	R	19:R	_
+18	the	_	Word	Word	_	19	E	19:E	_
+19	night	_	Word	Word	_	16	D	16:D	_
+20	in	_	Word	Word	_	22	R	22:R|26:R	_
+21	latitude	_	Word	Word	_	22	E	22:E	_
+22	27°	_	Word	Word	_	16	A	16:A	_
+23	30\u2032	_	Word	Word	_	22	Terminal	22:Terminal	_
+24	and	_	Word	Word	_	22	N	22:N	_
+25	longitude	_	Word	Word	_	26	E	26:E	_
+26	72°	_	Word	Word	_	22	C	22:C	_
+27	15\u2032	_	Word	Word	_	26	Terminal	26:Terminal	_
+28	,	_	Punctuation	Punctuation	_	29	U	29:U	_
+29	ran	_	Word	Word	_	0	H	0:H	_
+30	its	_	Word	Word	_	32	E	32:E	_
+31	starboard	_	Word	Word	_	32	E	32:E	_
+32	quarter	_	Word	Word	_	29	A	29:A	_
+33	afoul	_	Word	Word	_	29	Terminal	29:Terminal	_
+34	of	_	Word	Word	_	36	R	36:R	_
+35	a	_	Word	Word	_	36	E	36:E	_
+36	rock	_	Word	Word	_	29	A	29:A	_
+37	marked	_	Word	Word	_	36	E	36:E	_
+38	on	_	Word	Word	_	40	R	40:R	_
+39	no	_	Word	Word	_	40	E	40:E	_
+40	charts	_	Word	Word	_	37	A	37:A	_
+41	of	_	Word	Word	_	43	R	43:R	_
+42	these	_	Word	Word	_	43	E	43:E	_
+43	waterways	_	Word	Word	_	40	E	40:E	_
+44	.	_	Punctuation	Punctuation	_	43	U	43:U	_
+

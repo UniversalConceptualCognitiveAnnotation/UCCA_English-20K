@@ -1,0 +1,13 @@
+# format = ucca
+# sent_id = 974002
+# text = ” repeated the sailors of the Abraham Lincoln .
+1	”	_	Punctuation	Punctuation	_	2	U	2:U	_
+2	repeated	_	Word	Word	_	0	H	0:H	_
+3	the	_	Word	Word	_	4	E	4:E	_
+4	sailors	_	Word	Word	_	2	A	2:A	_
+5	of	_	Word	Word	_	7	R	7:R	_
+6	the	_	Word	Word	_	7	E	7:E	_
+7	Abraham	_	Word	Word	_	4	E	4:E	_
+8	Lincoln	_	Word	Word	_	7	Terminal	7:Terminal	_
+9	.	_	Punctuation	Punctuation	_	7	U	7:U	_
+

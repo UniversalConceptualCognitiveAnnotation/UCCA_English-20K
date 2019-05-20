@@ -1,0 +1,32 @@
+# format = ucca
+# sent_id = 975001
+# text = Eyes and spyglasses ( a bit dazzled , it is true , by the vista of $ 2,000.00 ) didn ’t remain at rest for an instant .
+1	Eyes	_	Word	Word	_	24	A	24:A	_
+2	and	_	Word	Word	_	1	N	1:N	_
+3	spyglasses	_	Word	Word	_	1	C	1:C	_
+4	(	_	Punctuation	Punctuation	_	24	U	24:U	_
+5	a	_	Word	Word	_	7	D	7:D	_
+6	bit	_	Word	Word	_	5	Terminal	5:Terminal	_
+7	dazzled	_	Word	Word	_	24	H	24:H	_
+8	,	_	Punctuation	Punctuation	_	24	U	24:U	_
+9	it	_	Word	Word	_	24	G	24:G	_
+10	is	_	Word	Word	_	9	Terminal	9:Terminal	_
+11	true	_	Word	Word	_	9	Terminal	9:Terminal	_
+12	,	_	Punctuation	Punctuation	_	24	U	24:U	_
+13	by	_	Word	Word	_	15	R	15:R	_
+14	the	_	Word	Word	_	15	E	15:E	_
+15	vista	_	Word	Word	_	18	E	18:E	_
+16	of	_	Word	Word	_	15	R	15:R	_
+17	$	_	Punctuation	Punctuation	_	18	U	18:U	_
+18	2,000.00	_	Word	Word	_	7	A	7:A	_
+19	)	_	Punctuation	Punctuation	_	24	U	24:U	_
+20	didn	_	Word	Word	_	24	F	24:F	_
+21	’t	_	Word	Word	_	24	D	24:D	_
+22	remain	_	Word	Word	_	24	E	24:E	_
+23	at	_	Word	Word	_	24	R	24:R	_
+24	rest	_	Word	Word	_	0	H	0:H	_
+25	for	_	Word	Word	_	27	R	27:R	_
+26	an	_	Word	Word	_	27	E	27:E	_
+27	instant	_	Word	Word	_	24	D	24:D	_
+28	.	_	Punctuation	Punctuation	_	27	U	27:U	_
+

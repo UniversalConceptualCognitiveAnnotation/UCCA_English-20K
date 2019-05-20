@@ -1,0 +1,12 @@
+# format = ucca
+# sent_id = 899005
+# text = Some gigantic devilfish maybe . . . ?
+1	Some	_	Word	Word	_	3	E	3:E	_
+2	gigantic	_	Word	Word	_	3	E	3:E	_
+3	devilfish	_	Word	Word	_	0	H	0:H	_
+4	maybe	_	Word	Word	_	3	D	3:D	_
+5	.	_	Punctuation	Punctuation	_	3	U	3:U	_
+6	.	_	Punctuation	Punctuation	_	3	U	3:U	_
+7	.	_	Punctuation	Punctuation	_	3	U	3:U	_
+8	?	_	Punctuation	Punctuation	_	3	U	3:U	_
+

@@ -1,0 +1,18 @@
+# format = ucca
+# sent_id = 995000
+# text = “Come on, Conseil!” I told him. “Here’s your last chance to pocket that $2,000.00!”
+1	“Come	_	Word	Word	_	0	H	0:H|5:A	_
+2	on,	_	Word	Word	_	1	Terminal	1:Terminal	_
+3	Conseil!”	_	Word	Word	_	1	A	1:A	_
+4	I	_	Word	Word	_	5	A	5:A	_
+5	told	_	Word	Word	_	1	H	1:H	_
+6	him.	_	Word	Word	_	5	A	5:A	_
+7	“Here’s	_	Word	Word	_	1	H	1:H	_
+8	your	_	Word	Word	_	10	E	10:E|12:A	_
+9	last	_	Word	Word	_	10	E	10:E	_
+10	chance	_	Word	Word	_	7	A	7:A	_
+11	to	_	Word	Word	_	12	F	12:F	_
+12	pocket	_	Word	Word	_	1	H	1:H	_
+13	that	_	Word	Word	_	14	E	14:E	_
+14	$2,000.00!”	_	Word	Word	_	12	A	12:A	_
+

@@ -1,0 +1,26 @@
+# format = ucca
+# sent_id = 50007
+# text = But when they examined its undersides in the service yard , they discovered that part of its keel had been smashed .
+1	But	_	Word	Word	_	13	L	13:L	_
+2	when	_	Word	Word	_	13	L	13:L	_
+3	they	_	Word	Word	_	4	A	4:A	_
+4	examined	_	Word	Word	_	0	H	0:H	_
+5	its	_	Word	Word	_	6	E	6:E	_
+6	undersides	_	Word	Word	_	4	A	4:A	_
+7	in	_	Word	Word	_	10	R	10:R	_
+8	the	_	Word	Word	_	10	E	10:E	_
+9	service	_	Word	Word	_	10	E	10:E	_
+10	yard	_	Word	Word	_	4	A	4:A	_
+11	,	_	Punctuation	Punctuation	_	4	U	4:U	_
+12	they	_	Word	Word	_	13	A	13:A	_
+13	discovered	_	Word	Word	_	4	H	4:H	_
+14	that	_	Word	Word	_	21	F	21:F	_
+15	part	_	Word	Word	_	18	E	18:E	_
+16	of	_	Word	Word	_	15	R	15:R	_
+17	its	_	Word	Word	_	18	E	18:E	_
+18	keel	_	Word	Word	_	21	A	21:A	_
+19	had	_	Word	Word	_	21	F	21:F	_
+20	been	_	Word	Word	_	21	F	21:F	_
+21	smashed	_	Word	Word	_	13	A	13:A	_
+22	.	_	Punctuation	Punctuation	_	21	U	21:U	_
+

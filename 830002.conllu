@@ -1,0 +1,22 @@
+# format = ucca
+# sent_id = 830002
+# text = I settled my bill at that huge counter that was always under siege by a considerable crowd .
+1	I	_	Word	Word	_	2	A	2:A	_
+2	settled	_	Word	Word	_	0	H	0:H	_
+3	my	_	Word	Word	_	4	E	4:E	_
+4	bill	_	Word	Word	_	2	A	2:A	_
+5	at	_	Word	Word	_	8	R	8:R	_
+6	that	_	Word	Word	_	8	E	8:E	_
+7	huge	_	Word	Word	_	8	E	8:E	_
+8	counter	_	Word	Word	_	2	A	2:A	_
+9	that	_	Word	Word	_	13	R	13:R	_
+10	was	_	Word	Word	_	13	F	13:F	_
+11	always	_	Word	Word	_	13	D	13:D	_
+12	under	_	Word	Word	_	13	R	13:R	_
+13	siege	_	Word	Word	_	8	E	8:E	_
+14	by	_	Word	Word	_	17	R	17:R	_
+15	a	_	Word	Word	_	17	E	17:E	_
+16	considerable	_	Word	Word	_	17	E	17:E	_
+17	crowd	_	Word	Word	_	13	A	13:A	_
+18	.	_	Punctuation	Punctuation	_	17	U	17:U	_
+

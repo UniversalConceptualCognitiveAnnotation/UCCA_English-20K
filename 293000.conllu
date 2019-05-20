@@ -1,0 +1,23 @@
+# format = ucca
+# sent_id = 293000
+# text = But this hypothesis of a war machine collapsed in the face of formal denials from the various governments .
+1	But	_	Word	Word	_	8	L	8:L	_
+2	this	_	Word	Word	_	3	E	3:E	_
+3	hypothesis	_	Word	Word	_	8	A	8:A	_
+4	of	_	Word	Word	_	7	R	7:R	_
+5	a	_	Word	Word	_	7	E	7:E	_
+6	war	_	Word	Word	_	7	E	7:E	_
+7	machine	_	Word	Word	_	3	E	3:E	_
+8	collapsed	_	Word	Word	_	0	H	0:H	_
+9	in	_	Word	Word	_	11	R	11:R	_
+10	the	_	Word	Word	_	11	E	11:E	_
+11	face	_	Word	Word	_	14	E	14:E	_
+12	of	_	Word	Word	_	11	R	11:R	_
+13	formal	_	Word	Word	_	14	D	14:D	_
+14	denials	_	Word	Word	_	8	A	8:A	_
+15	from	_	Word	Word	_	18	R	18:R	_
+16	the	_	Word	Word	_	18	E	18:E	_
+17	various	_	Word	Word	_	18	E	18:E	_
+18	governments	_	Word	Word	_	14	A	14:A	_
+19	.	_	Punctuation	Punctuation	_	18	U	18:U	_
+

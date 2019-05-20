@@ -1,0 +1,20 @@
+# format = ucca
+# sent_id = 313001
+# text = In New York preparations were under way for an expedition designed to chase this narwhale .
+1	In	_	Word	Word	_	2	R	2:R	_
+2	New	_	Word	Word	_	6	A	6:A	_
+3	York	_	Word	Word	_	2	Terminal	2:Terminal	_
+4	preparations	_	Word	Word	_	6	A	6:A	_
+5	were	_	Word	Word	_	6	F	6:F	_
+6	under	_	Word	Word	_	0	H	0:H	_
+7	way	_	Word	Word	_	6	Terminal	6:Terminal	_
+8	for	_	Word	Word	_	10	R	10:R	_
+9	an	_	Word	Word	_	10	E	10:E	_
+10	expedition	_	Word	Word	_	6	A	6:A	_
+11	designed	_	Word	Word	_	10	E	10:E	_
+12	to	_	Word	Word	_	13	F	13:F	_
+13	chase	_	Word	Word	_	11	A	11:A	_
+14	this	_	Word	Word	_	15	E	15:E	_
+15	narwhale	_	Word	Word	_	13	A	13:A	_
+16	.	_	Punctuation	Punctuation	_	15	U	15:U	_
+

@@ -1,0 +1,46 @@
+# format = ucca
+# sent_id = 312002
+# text = The Shipping & Mercantile Gazette , the Lloyd ’s List , France ’s Packetboat and Maritime & Colonial Review , all the rags devoted to insurance companies — who threatened to raise their premium rates — were unanimous on this point .
+1	The	_	Word	Word	_	5	E	5:E	_
+2	Shipping	_	Word	Word	_	5	E	5:E	_
+3	&	_	Punctuation	Punctuation	_	2	U	2:U	_
+4	Mercantile	_	Word	Word	_	2	C	2:C	_
+5	Gazette	_	Word	Word	_	38	A	38:A	_
+6	,	_	Punctuation	Punctuation	_	5	U	5:U	_
+7	the	_	Word	Word	_	8	E	8:E	_
+8	Lloyd	_	Word	Word	_	10	E	10:E	_
+9	’s	_	Word	Word	_	8	R	8:R	_
+10	List	_	Word	Word	_	5	C	5:C	_
+11	,	_	Punctuation	Punctuation	_	5	U	5:U	_
+12	France	_	Word	Word	_	14	E	14:E	_
+13	’s	_	Word	Word	_	12	R	12:R	_
+14	Packetboat	_	Word	Word	_	5	C	5:C	_
+15	and	_	Word	Word	_	5	N	5:N	_
+16	Maritime	_	Word	Word	_	19	E	19:E	_
+17	&	_	Punctuation	Punctuation	_	16	U	16:U	_
+18	Colonial	_	Word	Word	_	16	C	16:C	_
+19	Review	_	Word	Word	_	5	C	5:C	_
+20	,	_	Punctuation	Punctuation	_	5	U	5:U	_
+21	all	_	Word	Word	_	23	E	23:E	_
+22	the	_	Word	Word	_	23	E	23:E	_
+23	rags	_	Word	Word	_	5	E	5:E	_
+24	devoted	_	Word	Word	_	23	E	23:E	_
+25	to	_	Word	Word	_	27	R	27:R	_
+26	insurance	_	Word	Word	_	27	E	27:E	_
+27	companies	_	Word	Word	_	24	A	24:A	_
+28	—	_	Punctuation	Punctuation	_	5	U	5:U	_
+29	who	_	Word	Word	_	32	R	32:R	_
+30	threatened	_	Word	Word	_	32	E	32:E	_
+31	to	_	Word	Word	_	32	F	32:F	_
+32	raise	_	Word	Word	_	5	E	5:E	_
+33	their	_	Word	Word	_	35	E	35:E	_
+34	premium	_	Word	Word	_	35	E	35:E	_
+35	rates	_	Word	Word	_	32	A	32:A	_
+36	—	_	Punctuation	Punctuation	_	38	U	38:U	_
+37	were	_	Word	Word	_	38	F	38:F	_
+38	unanimous	_	Word	Word	_	0	H	0:H	_
+39	on	_	Word	Word	_	41	R	41:R	_
+40	this	_	Word	Word	_	41	E	41:E	_
+41	point	_	Word	Word	_	38	A	38:A	_
+42	.	_	Punctuation	Punctuation	_	41	U	41:U	_
+

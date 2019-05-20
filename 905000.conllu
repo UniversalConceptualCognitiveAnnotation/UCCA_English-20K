@@ -1,0 +1,20 @@
+# format = ucca
+# sent_id = 905000
+# text = “ I haven ’t the foggiest notion , Professor Aronnax . ” “ About 17,000 .
+1	“	_	Punctuation	Punctuation	_	7	U	7:U	_
+2	I	_	Word	Word	_	7	A	7:A	_
+3	haven	_	Word	Word	_	7	F	7:F	_
+4	’t	_	Word	Word	_	7	D	7:D	_
+5	the	_	Word	Word	_	7	E	7:E	_
+6	foggiest	_	Word	Word	_	7	E	7:E	_
+7	notion	_	Word	Word	_	0	H	0:H	_
+8	,	_	Punctuation	Punctuation	_	7	U	7:U	_
+9	Professor	_	Word	Word	_	7	H	7:H	_
+10	Aronnax	_	Word	Word	_	9	Terminal	9:Terminal	_
+11	.	_	Punctuation	Punctuation	_	7	U	7:U	_
+12	”	_	Punctuation	Punctuation	_	7	U	7:U	_
+13	“	_	Punctuation	Punctuation	_	7	U	7:U	_
+14	About	_	Word	Word	_	7	H	7:H	_
+15	17,000	_	Word	Word	_	14	E	14:E	_
+16	.	_	Punctuation	Punctuation	_	14	U	14:U	_
+

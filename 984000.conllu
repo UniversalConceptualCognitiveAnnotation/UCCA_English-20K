@@ -1,0 +1,13 @@
+# format = ucca
+# sent_id = 984000
+# text = And this reaction wasn ’t long in coming .
+1	And	_	Word	Word	_	8	L	8:L	_
+2	this	_	Word	Word	_	3	E	3:E	_
+3	reaction	_	Word	Word	_	8	A	8:A	_
+4	wasn	_	Word	Word	_	8	F	8:F	_
+5	’t	_	Word	Word	_	8	D	8:D	_
+6	long	_	Word	Word	_	8	E	8:E	_
+7	in	_	Word	Word	_	8	R	8:R	_
+8	coming	_	Word	Word	_	0	H	0:H	_
+9	.	_	Punctuation	Punctuation	_	8	U	8:U	_
+

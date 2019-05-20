@@ -1,0 +1,14 @@
+# format = ucca
+# sent_id = 836000
+# text = The frigate ’s interior accommodations complemented its nautical virtues .
+1	The	_	Word	Word	_	2	E	2:E	_
+2	frigate	_	Word	Word	_	5	E	5:E	_
+3	’s	_	Word	Word	_	2	R	2:R	_
+4	interior	_	Word	Word	_	5	E	5:E	_
+5	accommodations	_	Word	Word	_	6	A	6:A	_
+6	complemented	_	Word	Word	_	0	H	0:H	_
+7	its	_	Word	Word	_	9	E	9:E	_
+8	nautical	_	Word	Word	_	9	E	9:E	_
+9	virtues	_	Word	Word	_	6	A	6:A	_
+10	.	_	Punctuation	Punctuation	_	9	U	9:U	_
+

@@ -1,0 +1,20 @@
+# format = ucca
+# sent_id = 287001
+# text = I had read and reread every American and European newspaper without being any farther along .
+1	I	_	Word	Word	_	3	A	3:A|15:A	_
+2	had	_	Word	Word	_	3	F	3:F	_
+3	read	_	Word	Word	_	0	H	0:H	_
+4	and	_	Word	Word	_	3	N	3:N	_
+5	reread	_	Word	Word	_	3	C	3:C	_
+6	every	_	Word	Word	_	3	A	3:A	_
+7	American	_	Word	Word	_	6	E	6:E	_
+8	and	_	Word	Word	_	6	N	6:N	_
+9	European	_	Word	Word	_	10	E	10:E	_
+10	newspaper	_	Word	Word	_	0	C	0:C|6:C	_
+11	without	_	Word	Word	_	15	L	15:L	_
+12	being	_	Word	Word	_	15	F	15:F	_
+13	any	_	Word	Word	_	15	E	15:E	_
+14	farther	_	Word	Word	_	15	E	15:E	_
+15	along	_	Word	Word	_	3	H	3:H	_
+16	.	_	Punctuation	Punctuation	_	15	U	15:U	_
+

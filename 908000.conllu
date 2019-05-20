@@ -1,0 +1,19 @@
+# format = ucca
+# sent_id = 908000
+# text = But this reply proved nothing , other than how bullheaded the harpooner could be .
+1	But	_	Word	Word	_	4	L	4:L	_
+2	this	_	Word	Word	_	3	E	3:E	_
+3	reply	_	Word	Word	_	4	A	4:A	_
+4	proved	_	Word	Word	_	0	H	0:H	_
+5	nothing	_	Word	Word	_	4	A	4:A	_
+6	,	_	Punctuation	Punctuation	_	5	U	5:U	_
+7	other	_	Word	Word	_	10	R	10:R	_
+8	than	_	Word	Word	_	10	F	10:F	_
+9	how	_	Word	Word	_	10	D	10:D	_
+10	bullheaded	_	Word	Word	_	5	E	5:E	_
+11	the	_	Word	Word	_	12	E	12:E	_
+12	harpooner	_	Word	Word	_	10	A	10:A	_
+13	could	_	Word	Word	_	10	E	10:E	_
+14	be	_	Word	Word	_	10	F	10:F	_
+15	.	_	Punctuation	Punctuation	_	10	U	10:U	_
+

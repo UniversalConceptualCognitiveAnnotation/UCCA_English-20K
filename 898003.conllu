@@ -1,0 +1,23 @@
+# format = ucca
+# sent_id = 898003
+# text = I ’ve chased plenty of cetaceans , I ’ve harpooned a good number , I ’ve killed several .
+1	I	_	Word	Word	_	3	A	3:A	_
+2	’ve	_	Word	Word	_	3	F	3:F	_
+3	chased	_	Word	Word	_	0	H	0:H	_
+4	plenty	_	Word	Word	_	6	E	6:E	_
+5	of	_	Word	Word	_	4	R	4:R|13:R	_
+6	cetaceans	_	Word	Word	_	0	C	0:C|13:C|18:C	_
+7	,	_	Punctuation	Punctuation	_	10	U	10:U	_
+8	I	_	Word	Word	_	10	A	10:A	_
+9	’ve	_	Word	Word	_	10	F	10:F	_
+10	harpooned	_	Word	Word	_	3	H	3:H	_
+11	a	_	Word	Word	_	13	E	13:E	_
+12	good	_	Word	Word	_	13	E	13:E	_
+13	number	_	Word	Word	_	10	A	10:A	_
+14	,	_	Punctuation	Punctuation	_	3	U	3:U	_
+15	I	_	Word	Word	_	17	A	17:A	_
+16	’ve	_	Word	Word	_	17	F	17:F	_
+17	killed	_	Word	Word	_	3	H	3:H	_
+18	several	_	Word	Word	_	17	A	17:A	_
+19	.	_	Punctuation	Punctuation	_	18	U	18:U	_
+

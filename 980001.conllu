@@ -1,0 +1,29 @@
+# format = ucca
+# sent_id = 980001
+# text = “ Nothing ’s out there , Professor Aronnax , and if there is some animal , what chance would we have of spotting it ?
+1	“	_	Punctuation	Punctuation	_	3	U	3:U	_
+2	Nothing	_	Word	Word	_	3	A	3:A	_
+3	’s	_	Word	Word	_	0	H	0:H	_
+4	out	_	Word	Word	_	3	A	3:A	_
+5	there	_	Word	Word	_	4	Terminal	4:Terminal	_
+6	,	_	Punctuation	Punctuation	_	3	U	3:U	_
+7	Professor	_	Word	Word	_	3	H	3:H	_
+8	Aronnax	_	Word	Word	_	7	Terminal	7:Terminal	_
+9	,	_	Punctuation	Punctuation	_	3	U	3:U	_
+10	and	_	Word	Word	_	12	L	12:L	_
+11	if	_	Word	Word	_	12	L	12:L	_
+12	there	_	Word	Word	_	3	H	3:H	_
+13	is	_	Word	Word	_	12	Terminal	12:Terminal	_
+14	some	_	Word	Word	_	15	E	15:E	_
+15	animal	_	Word	Word	_	12	A	12:A	_
+16	,	_	Punctuation	Punctuation	_	3	U	3:U	_
+17	what	_	Word	Word	_	18	E	18:E	_
+18	chance	_	Word	Word	_	23	E	23:E	_
+19	would	_	Word	Word	_	23	E	23:E	_
+20	we	_	Word	Word	_	23	A	23:A	_
+21	have	_	Word	Word	_	23	F	23:F	_
+22	of	_	Word	Word	_	23	R	23:R	_
+23	spotting	_	Word	Word	_	3	H	3:H	_
+24	it	_	Word	Word	_	23	A	23:A	_
+25	?	_	Punctuation	Punctuation	_	23	U	23:U	_
+

@@ -1,0 +1,28 @@
+# format = ucca
+# sent_id = 905005
+# text = When the inside and outside pressures are in perfect balance , they neutralize each other and allow you to tolerate them without discomfort .
+1	When	_	Word	Word	_	13	L	13:L	_
+2	the	_	Word	Word	_	10	A	10:A	_
+3	inside	_	Word	Word	_	2	E	2:E	_
+4	and	_	Word	Word	_	2	N	2:N	_
+5	outside	_	Word	Word	_	6	E	6:E	_
+6	pressures	_	Word	Word	_	0	C	0:C|2:C	_
+7	are	_	Word	Word	_	10	F	10:F	_
+8	in	_	Word	Word	_	10	R	10:R	_
+9	perfect	_	Word	Word	_	10	E	10:E	_
+10	balance	_	Word	Word	_	0	H	0:H	_
+11	,	_	Punctuation	Punctuation	_	10	U	10:U	_
+12	they	_	Word	Word	_	13	A	13:A	_
+13	neutralize	_	Word	Word	_	10	H	10:H	_
+14	each	_	Word	Word	_	13	D	13:D	_
+15	other	_	Word	Word	_	14	Terminal	14:Terminal	_
+16	and	_	Word	Word	_	20	L	20:L	_
+17	allow	_	Word	Word	_	20	E	20:E	_
+18	you	_	Word	Word	_	20	A	20:A	_
+19	to	_	Word	Word	_	20	F	20:F	_
+20	tolerate	_	Word	Word	_	10	H	10:H	_
+21	them	_	Word	Word	_	20	A	20:A	_
+22	without	_	Word	Word	_	23	R	23:R	_
+23	discomfort	_	Word	Word	_	20	D	20:D	_
+24	.	_	Punctuation	Punctuation	_	23	U	23:U	_
+

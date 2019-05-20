@@ -1,0 +1,17 @@
+# format = ucca
+# sent_id = 903000
+# text = “ Oh really ? ” Ned said , tipping me a wink .
+1	“	_	Punctuation	Punctuation	_	2	U	2:U	_
+2	Oh	_	Word	Word	_	0	H	0:H|7:A	_
+3	really	_	Word	Word	_	2	Terminal	2:Terminal	_
+4	?	_	Punctuation	Punctuation	_	2	U	2:U	_
+5	”	_	Punctuation	Punctuation	_	2	U	2:U	_
+6	Ned	_	Word	Word	_	7	A	7:A	_
+7	said	_	Word	Word	_	2	H	2:H	_
+8	,	_	Punctuation	Punctuation	_	2	U	2:U	_
+9	tipping	_	Word	Word	_	12	E	12:E	_
+10	me	_	Word	Word	_	12	A	12:A	_
+11	a	_	Word	Word	_	12	E	12:E	_
+12	wink	_	Word	Word	_	2	H	2:H	_
+13	.	_	Punctuation	Punctuation	_	12	U	12:U	_
+

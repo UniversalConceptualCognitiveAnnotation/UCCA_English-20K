@@ -1,0 +1,16 @@
+# format = ucca
+# sent_id = 983001
+# text = And in all honesty , shipboard conditions became life - threatening .
+1	And	_	Word	Word	_	11	L	11:L	_
+2	in	_	Word	Word	_	4	R	4:R	_
+3	all	_	Word	Word	_	4	E	4:E	_
+4	honesty	_	Word	Word	_	11	G	11:G	_
+5	,	_	Punctuation	Punctuation	_	11	U	11:U	_
+6	shipboard	_	Word	Word	_	7	E	7:E	_
+7	conditions	_	Word	Word	_	11	A	11:A	_
+8	became	_	Word	Word	_	11	E	11:E	_
+9	life	_	Word	Word	_	11	E	11:E	_
+10	-	_	Punctuation	Punctuation	_	11	U	11:U	_
+11	threatening	_	Word	Word	_	0	H	0:H	_
+12	.	_	Punctuation	Punctuation	_	11	U	11:U	_
+

@@ -1,0 +1,42 @@
+# format = ucca
+# sent_id = 998000
+# text = Conseil didn’t have time to complete the compliment. In the midst of the general silence, a voice became audible. It was Ned Land’s voice, and it shouted: “Ahoy! There’s the thing in question, abreast of us to leeward!”
+1	Conseil	_	Word	Word	_	6	A	6:A	_
+2	didn’t	_	Word	Word	_	6	D	6:D	_
+3	have	_	Word	Word	_	6	E	6:E	_
+4	time	_	Word	Word	_	3	Terminal	3:Terminal	_
+5	to	_	Word	Word	_	6	F	6:F	_
+6	complete	_	Word	Word	_	0	H	0:H	_
+7	the	_	Word	Word	_	8	E	8:E	_
+8	compliment.	_	Word	Word	_	6	A	6:A	_
+9	In	_	Word	Word	_	11	R	11:R	_
+10	the	_	Word	Word	_	11	E	11:E	_
+11	midst	_	Word	Word	_	15	E	15:E	_
+12	of	_	Word	Word	_	11	R	11:R	_
+13	the	_	Word	Word	_	15	E	15:E	_
+14	general	_	Word	Word	_	15	E	15:E	_
+15	silence,	_	Word	Word	_	19	A	19:A	_
+16	a	_	Word	Word	_	17	E	17:E	_
+17	voice	_	Word	Word	_	19	A	19:A	_
+18	became	_	Word	Word	_	19	E	19:E	_
+19	audible.	_	Word	Word	_	6	H	6:H	_
+20	It	_	Word	Word	_	21	A	21:A	_
+21	was	_	Word	Word	_	6	H	6:H	_
+22	Ned	_	Word	Word	_	24	E	24:E	_
+23	Land’s	_	Word	Word	_	22	Terminal	22:Terminal	_
+24	voice,	_	Word	Word	_	21	A	21:A	_
+25	and	_	Word	Word	_	27	L	27:L	_
+26	it	_	Word	Word	_	27	A	27:A	_
+27	shouted:	_	Word	Word	_	6	H	6:H	_
+28	“Ahoy!	_	Word	Word	_	29	F	29:F	_
+29	There’s	_	Word	Word	_	6	H	6:H|27:A	_
+30	the	_	Word	Word	_	31	E	31:E	_
+31	thing	_	Word	Word	_	29	A	29:A	_
+32	in	_	Word	Word	_	33	R	33:R	_
+33	question,	_	Word	Word	_	31	E	31:E	_
+34	abreast	_	Word	Word	_	36	R	36:R	_
+35	of	_	Word	Word	_	34	R	34:R	_
+36	us	_	Word	Word	_	29	A	29:A	_
+37	to	_	Word	Word	_	38	R	38:R	_
+38	leeward!”	_	Word	Word	_	36	E	36:E	_
+

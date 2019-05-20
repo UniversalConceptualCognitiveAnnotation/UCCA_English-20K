@@ -1,0 +1,12 @@
+# format = ucca
+# sent_id = 826010
+# text = “ We ’ll deal with them later .
+1	“	_	Punctuation	Punctuation	_	4	U	4:U	_
+2	We	_	Word	Word	_	4	A	4:A	_
+3	’ll	_	Word	Word	_	4	E	4:E	_
+4	deal	_	Word	Word	_	0	H	0:H	_
+5	with	_	Word	Word	_	6	R	6:R	_
+6	them	_	Word	Word	_	4	A	4:A	_
+7	later	_	Word	Word	_	4	D	4:D	_
+8	.	_	Punctuation	Punctuation	_	4	U	4:U	_
+

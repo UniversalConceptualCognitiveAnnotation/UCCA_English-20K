@@ -1,0 +1,31 @@
+# format = ucca
+# sent_id = 54000
+# text = On April 13 , 1867 , with a smooth sea and a moderate breeze , the Scotia lay in longitude 15° 12\u2032 and latitude 45° 37\u2032 .
+1	On	_	Word	Word	_	2	R	2:R	_
+2	April	_	Word	Word	_	18	D	18:D	_
+3	13	_	Word	Word	_	2	Terminal	2:Terminal	_
+4	,	_	Punctuation	Punctuation	_	2	U	2:U	_
+5	1867	_	Word	Word	_	2	Terminal	2:Terminal	_
+6	,	_	Punctuation	Punctuation	_	18	U	18:U	_
+7	with	_	Word	Word	_	10	R	10:R|14:R	_
+8	a	_	Word	Word	_	10	E	10:E	_
+9	smooth	_	Word	Word	_	10	E	10:E	_
+10	sea	_	Word	Word	_	18	A	18:A	_
+11	and	_	Word	Word	_	10	N	10:N	_
+12	a	_	Word	Word	_	14	E	14:E	_
+13	moderate	_	Word	Word	_	14	E	14:E	_
+14	breeze	_	Word	Word	_	10	C	10:C	_
+15	,	_	Punctuation	Punctuation	_	18	U	18:U	_
+16	the	_	Word	Word	_	17	E	17:E	_
+17	Scotia	_	Word	Word	_	18	A	18:A	_
+18	lay	_	Word	Word	_	0	H	0:H	_
+19	in	_	Word	Word	_	21	R	21:R|25:R	_
+20	longitude	_	Word	Word	_	21	E	21:E	_
+21	15°	_	Word	Word	_	18	A	18:A	_
+22	12\u2032	_	Word	Word	_	21	Terminal	21:Terminal	_
+23	and	_	Word	Word	_	21	N	21:N	_
+24	latitude	_	Word	Word	_	25	E	25:E	_
+25	45°	_	Word	Word	_	21	C	21:C	_
+26	37\u2032	_	Word	Word	_	25	Terminal	25:Terminal	_
+27	.	_	Punctuation	Punctuation	_	25	U	25:U	_
+

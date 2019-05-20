@@ -1,0 +1,33 @@
+# format = ucca
+# sent_id = 305003
+# text = Others have been wrenched , not without difficulty , from the undersides of vessels that narwhales have pierced clean through , as a gimlet pierces a wine barrel .
+1	Others	_	Word	Word	_	4	A	4:A	_
+2	have	_	Word	Word	_	4	F	4:F	_
+3	been	_	Word	Word	_	4	F	4:F	_
+4	wrenched	_	Word	Word	_	0	H	0:H	_
+5	,	_	Punctuation	Punctuation	_	4	U	4:U	_
+6	not	_	Word	Word	_	8	E	8:E	_
+7	without	_	Word	Word	_	8	R	8:R	_
+8	difficulty	_	Word	Word	_	4	D	4:D	_
+9	,	_	Punctuation	Punctuation	_	4	U	4:U	_
+10	from	_	Word	Word	_	12	R	12:R	_
+11	the	_	Word	Word	_	12	E	12:E	_
+12	undersides	_	Word	Word	_	4	A	4:A	_
+13	of	_	Word	Word	_	14	R	14:R	_
+14	vessels	_	Word	Word	_	12	E	12:E	_
+15	that	_	Word	Word	_	18	R	18:R	_
+16	narwhales	_	Word	Word	_	18	A	18:A	_
+17	have	_	Word	Word	_	18	F	18:F	_
+18	pierced	_	Word	Word	_	14	E	14:E	_
+19	clean	_	Word	Word	_	18	D	18:D	_
+20	through	_	Word	Word	_	19	E	19:E	_
+21	,	_	Punctuation	Punctuation	_	4	U	4:U	_
+22	as	_	Word	Word	_	25	L	25:L	_
+23	a	_	Word	Word	_	24	E	24:E	_
+24	gimlet	_	Word	Word	_	25	A	25:A	_
+25	pierces	_	Word	Word	_	4	H	4:H	_
+26	a	_	Word	Word	_	28	E	28:E	_
+27	wine	_	Word	Word	_	28	E	28:E	_
+28	barrel	_	Word	Word	_	25	A	25:A	_
+29	.	_	Punctuation	Punctuation	_	28	U	28:U	_
+

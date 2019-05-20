@@ -1,0 +1,10 @@
+# format = ucca
+# sent_id = 826009
+# text = ” Conseil ventured to observe .
+1	”	_	Punctuation	Punctuation	_	5	U	5:U	_
+2	Conseil	_	Word	Word	_	5	A	5:A	_
+3	ventured	_	Word	Word	_	5	E	5:E	_
+4	to	_	Word	Word	_	5	F	5:F	_
+5	observe	_	Word	Word	_	0	H	0:H	_
+6	.	_	Punctuation	Punctuation	_	5	U	5:U	_
+

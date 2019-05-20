@@ -1,0 +1,19 @@
+# format = ucca
+# sent_id = 907008
+# text = ” the Canadian replied , unconsciously echoing a famous catchphrase of the scientist Arago .
+1	”	_	Punctuation	Punctuation	_	4	U	4:U	_
+2	the	_	Word	Word	_	3	E	3:E	_
+3	Canadian	_	Word	Word	_	0	C	0:C|7:A	_
+4	replied	_	Word	Word	_	0	H	0:H	_
+5	,	_	Punctuation	Punctuation	_	4	U	4:U	_
+6	unconsciously	_	Word	Word	_	7	D	7:D	_
+7	echoing	_	Word	Word	_	4	H	4:H	_
+8	a	_	Word	Word	_	10	E	10:E	_
+9	famous	_	Word	Word	_	10	E	10:E	_
+10	catchphrase	_	Word	Word	_	7	A	7:A	_
+11	of	_	Word	Word	_	14	R	14:R	_
+12	the	_	Word	Word	_	13	E	13:E	_
+13	scientist	_	Word	Word	_	14	E	14:E	_
+14	Arago	_	Word	Word	_	10	E	10:E	_
+15	.	_	Punctuation	Punctuation	_	14	U	14:U	_
+

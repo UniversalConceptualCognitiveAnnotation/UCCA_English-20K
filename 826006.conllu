@@ -1,0 +1,13 @@
+# format = ucca
+# sent_id = 826006
+# text = “ We haven ’t a moment to lose .
+1	“	_	Punctuation	Punctuation	_	8	U	8:U	_
+2	We	_	Word	Word	_	3	A	3:A|8:A	_
+3	haven	_	Word	Word	_	0	H	0:H	_
+4	’t	_	Word	Word	_	3	D	3:D	_
+5	a	_	Word	Word	_	6	E	6:E	_
+6	moment	_	Word	Word	_	3	A	3:A	_
+7	to	_	Word	Word	_	8	F	8:F	_
+8	lose	_	Word	Word	_	6	E	6:E	_
+9	.	_	Punctuation	Punctuation	_	8	U	8:U	_
+

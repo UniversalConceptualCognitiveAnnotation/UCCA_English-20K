@@ -1,0 +1,12 @@
+# format = ucca
+# sent_id = 826008
+# text = ” “ What about master ’s collections ?
+1	”	_	Punctuation	Punctuation	_	3	U	3:U	_
+2	“	_	Punctuation	Punctuation	_	3	U	3:U	_
+3	What	_	Word	Word	_	0	H	0:H	_
+4	about	_	Word	Word	_	3	Terminal	3:Terminal	_
+5	master	_	Word	Word	_	7	E	7:E	_
+6	’s	_	Word	Word	_	5	R	5:R	_
+7	collections	_	Word	Word	_	3	A	3:A	_
+8	?	_	Punctuation	Punctuation	_	7	U	7:U	_
+

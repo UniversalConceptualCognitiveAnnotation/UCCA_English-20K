@@ -1,0 +1,10 @@
+# format = ucca
+# sent_id = 832002
+# text = I asked for Commander Farragut .
+1	I	_	Word	Word	_	2	A	2:A	_
+2	asked	_	Word	Word	_	0	H	0:H	_
+3	for	_	Word	Word	_	2	Terminal	2:Terminal	_
+4	Commander	_	Word	Word	_	5	E	5:E	_
+5	Farragut	_	Word	Word	_	2	A	2:A	_
+6	.	_	Punctuation	Punctuation	_	5	U	5:U	_
+

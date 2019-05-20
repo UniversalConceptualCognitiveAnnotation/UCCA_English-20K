@@ -1,0 +1,22 @@
+# format = ucca
+# sent_id = 825002
+# text = There was good reason to stop and think , even for the world ’s most emotionless man .
+1	There	_	Word	Word	_	0	H	0:H	_
+2	was	_	Word	Word	_	1	Terminal	1:Terminal	_
+3	good	_	Word	Word	_	4	E	4:E	_
+4	reason	_	Word	Word	_	1	A	1:A	_
+5	to	_	Word	Word	_	6	F	6:F	_
+6	stop	_	Word	Word	_	4	E	4:E	_
+7	and	_	Word	Word	_	6	N	6:N	_
+8	think	_	Word	Word	_	6	C	6:C	_
+9	,	_	Punctuation	Punctuation	_	1	U	1:U	_
+10	even	_	Word	Word	_	17	R	17:R	_
+11	for	_	Word	Word	_	17	R	17:R	_
+12	the	_	Word	Word	_	13	E	13:E	_
+13	world	_	Word	Word	_	17	E	17:E	_
+14	’s	_	Word	Word	_	13	R	13:R	_
+15	most	_	Word	Word	_	16	E	16:E	_
+16	emotionless	_	Word	Word	_	17	E	17:E	_
+17	man	_	Word	Word	_	1	A	1:A	_
+18	.	_	Punctuation	Punctuation	_	17	U	17:U	_
+

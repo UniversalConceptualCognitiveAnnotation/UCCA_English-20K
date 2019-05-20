@@ -1,0 +1,21 @@
+# format = ucca
+# sent_id = 58002
+# text = Fortunately this compartment didn\u2019t contain the boilers , because their furnaces would have been abruptly extinguished .
+1	Fortunately	_	Word	Word	_	5	D	5:D	_
+2	this	_	Word	Word	_	3	E	3:E	_
+3	compartment	_	Word	Word	_	5	A	5:A	_
+4	didn\u2019t	_	Word	Word	_	5	F	5:F	_
+5	contain	_	Word	Word	_	0	H	0:H	_
+6	the	_	Word	Word	_	7	E	7:E	_
+7	boilers	_	Word	Word	_	5	A	5:A	_
+8	,	_	Punctuation	Punctuation	_	5	U	5:U	_
+9	because	_	Word	Word	_	16	L	16:L	_
+10	their	_	Word	Word	_	11	E	11:E	_
+11	furnaces	_	Word	Word	_	16	A	16:A	_
+12	would	_	Word	Word	_	16	E	16:E	_
+13	have	_	Word	Word	_	16	F	16:F	_
+14	been	_	Word	Word	_	16	F	16:F	_
+15	abruptly	_	Word	Word	_	16	D	16:D	_
+16	extinguished	_	Word	Word	_	5	H	5:H	_
+17	.	_	Punctuation	Punctuation	_	16	U	16:U	_
+

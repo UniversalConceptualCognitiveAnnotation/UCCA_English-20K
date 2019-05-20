@@ -1,0 +1,35 @@
+# format = ucca
+# sent_id = 840000
+# text = But Commander Farragut didn ’t want to waste a single day , or even a single hour , in making for those seas where the animal had just been sighted .
+1	But	_	Word	Word	_	20	L	20:L	_
+2	Commander	_	Word	Word	_	3	E	3:E	_
+3	Farragut	_	Word	Word	_	0	C	0:C|20:A	_
+4	didn	_	Word	Word	_	8	F	8:F	_
+5	’t	_	Word	Word	_	8	D	8:D	_
+6	want	_	Word	Word	_	8	E	8:E	_
+7	to	_	Word	Word	_	8	F	8:F	_
+8	waste	_	Word	Word	_	0	H	0:H	_
+9	a	_	Word	Word	_	11	E	11:E	_
+10	single	_	Word	Word	_	11	E	11:E	_
+11	day	_	Word	Word	_	8	A	8:A	_
+12	,	_	Punctuation	Punctuation	_	11	U	11:U	_
+13	or	_	Word	Word	_	11	N	11:N	_
+14	even	_	Word	Word	_	17	E	17:E	_
+15	a	_	Word	Word	_	17	E	17:E	_
+16	single	_	Word	Word	_	17	E	17:E	_
+17	hour	_	Word	Word	_	11	C	11:C	_
+18	,	_	Punctuation	Punctuation	_	8	U	8:U	_
+19	in	_	Word	Word	_	20	F	20:F	_
+20	making	_	Word	Word	_	8	H	8:H	_
+21	for	_	Word	Word	_	23	R	23:R	_
+22	those	_	Word	Word	_	23	E	23:E	_
+23	seas	_	Word	Word	_	20	A	20:A	_
+24	where	_	Word	Word	_	30	R	30:R	_
+25	the	_	Word	Word	_	26	E	26:E	_
+26	animal	_	Word	Word	_	30	A	30:A	_
+27	had	_	Word	Word	_	30	F	30:F	_
+28	just	_	Word	Word	_	30	D	30:D	_
+29	been	_	Word	Word	_	30	F	30:F	_
+30	sighted	_	Word	Word	_	23	E	23:E	_
+31	.	_	Punctuation	Punctuation	_	30	U	30:U	_
+

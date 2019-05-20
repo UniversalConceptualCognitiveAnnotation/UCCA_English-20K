@@ -1,0 +1,26 @@
+# format = ucca
+# sent_id = 907003
+# text = “ Well , have I convinced you ? ” “ You ’ve convinced me of one thing , Mr . Naturalist .
+1	“	_	Punctuation	Punctuation	_	6	U	6:U	_
+2	Well	_	Word	Word	_	6	F	6:F	_
+3	,	_	Punctuation	Punctuation	_	6	U	6:U	_
+4	have	_	Word	Word	_	6	F	6:F	_
+5	I	_	Word	Word	_	6	A	6:A	_
+6	convinced	_	Word	Word	_	0	H	0:H	_
+7	you	_	Word	Word	_	6	A	6:A	_
+8	?	_	Punctuation	Punctuation	_	6	U	6:U	_
+9	”	_	Punctuation	Punctuation	_	6	U	6:U	_
+10	“	_	Punctuation	Punctuation	_	6	U	6:U	_
+11	You	_	Word	Word	_	13	A	13:A	_
+12	’ve	_	Word	Word	_	13	F	13:F	_
+13	convinced	_	Word	Word	_	6	H	6:H	_
+14	me	_	Word	Word	_	13	A	13:A	_
+15	of	_	Word	Word	_	17	R	17:R	_
+16	one	_	Word	Word	_	17	E	17:E	_
+17	thing	_	Word	Word	_	13	A	13:A	_
+18	,	_	Punctuation	Punctuation	_	13	U	13:U	_
+19	Mr	_	Word	Word	_	21	E	21:E	_
+20	.	_	Punctuation	Punctuation	_	21	U	21:U	_
+21	Naturalist	_	Word	Word	_	11	E	11:E	_
+22	.	_	Punctuation	Punctuation	_	21	U	21:U	_
+

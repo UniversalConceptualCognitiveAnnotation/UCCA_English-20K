@@ -1,0 +1,38 @@
+# format = ucca
+# sent_id = 900000
+# text = “ So , Mr . Naturalist , ” Ned Land continued in a bantering tone , “ you ’ll just keep on believing in the existence of some enormous cetacean . . . ?
+1	“	_	Punctuation	Punctuation	_	4	U	4:U	_
+2	So	_	Word	Word	_	11	L	11:L	_
+3	,	_	Punctuation	Punctuation	_	4	U	4:U	_
+4	Mr	_	Word	Word	_	0	H	0:H	_
+5	.	_	Punctuation	Punctuation	_	4	U	4:U	_
+6	Naturalist	_	Word	Word	_	4	Terminal	4:Terminal	_
+7	,	_	Punctuation	Punctuation	_	4	U	4:U	_
+8	”	_	Punctuation	Punctuation	_	4	U	4:U	_
+9	Ned	_	Word	Word	_	11	A	11:A	_
+10	Land	_	Word	Word	_	9	Terminal	9:Terminal	_
+11	continued	_	Word	Word	_	4	H	4:H	_
+12	in	_	Word	Word	_	15	R	15:R	_
+13	a	_	Word	Word	_	15	E	15:E	_
+14	bantering	_	Word	Word	_	15	E	15:E	_
+15	tone	_	Word	Word	_	11	D	11:D	_
+16	,	_	Punctuation	Punctuation	_	4	U	4:U	_
+17	“	_	Punctuation	Punctuation	_	4	U	4:U	_
+18	you	_	Word	Word	_	23	A	23:A	_
+19	’ll	_	Word	Word	_	23	E	23:E	_
+20	just	_	Word	Word	_	23	D	23:D	_
+21	keep	_	Word	Word	_	23	E	23:E	_
+22	on	_	Word	Word	_	23	F	23:F	_
+23	believing	_	Word	Word	_	4	H	4:H	_
+24	in	_	Word	Word	_	26	R	26:R	_
+25	the	_	Word	Word	_	26	E	26:E	_
+26	existence	_	Word	Word	_	23	A	23:A	_
+27	of	_	Word	Word	_	30	R	30:R	_
+28	some	_	Word	Word	_	30	E	30:E	_
+29	enormous	_	Word	Word	_	30	E	30:E	_
+30	cetacean	_	Word	Word	_	26	E	26:E	_
+31	.	_	Punctuation	Punctuation	_	30	U	30:U	_
+32	.	_	Punctuation	Punctuation	_	30	U	30:U	_
+33	.	_	Punctuation	Punctuation	_	30	U	30:U	_
+34	?	_	Punctuation	Punctuation	_	30	U	30:U	_
+

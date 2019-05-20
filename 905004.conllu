@@ -1,0 +1,30 @@
+# format = ucca
+# sent_id = 905004
+# text = And if you aren ’t crushed by so much pressure , it ’s because the air penetrates the interior of your body with equal pressure .
+1	And	_	Word	Word	_	17	L	17:L	_
+2	if	_	Word	Word	_	17	L	17:L	_
+3	you	_	Word	Word	_	6	A	6:A	_
+4	aren	_	Word	Word	_	6	F	6:F	_
+5	’t	_	Word	Word	_	6	D	6:D	_
+6	crushed	_	Word	Word	_	0	H	0:H	_
+7	by	_	Word	Word	_	10	R	10:R	_
+8	so	_	Word	Word	_	9	E	9:E	_
+9	much	_	Word	Word	_	10	E	10:E	_
+10	pressure	_	Word	Word	_	6	A	6:A	_
+11	,	_	Punctuation	Punctuation	_	6	U	6:U	_
+12	it	_	Word	Word	_	6	F	6:F	_
+13	’s	_	Word	Word	_	12	Terminal	12:Terminal	_
+14	because	_	Word	Word	_	17	L	17:L	_
+15	the	_	Word	Word	_	16	E	16:E	_
+16	air	_	Word	Word	_	17	A	17:A	_
+17	penetrates	_	Word	Word	_	6	H	6:H	_
+18	the	_	Word	Word	_	19	E	19:E	_
+19	interior	_	Word	Word	_	22	E	22:E	_
+20	of	_	Word	Word	_	19	R	19:R	_
+21	your	_	Word	Word	_	22	E	22:E	_
+22	body	_	Word	Word	_	17	A	17:A	_
+23	with	_	Word	Word	_	25	R	25:R	_
+24	equal	_	Word	Word	_	25	E	25:E	_
+25	pressure	_	Word	Word	_	17	D	17:D	_
+26	.	_	Punctuation	Punctuation	_	25	U	25:U	_
+

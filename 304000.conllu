@@ -1,0 +1,21 @@
+# format = ucca
+# sent_id = 304000
+# text = “ The common narwhale , or sea unicorn , often reaches a length of sixty feet .
+1	“	_	Punctuation	Punctuation	_	11	U	11:U	_
+2	The	_	Word	Word	_	4	E	4:E|8:E	_
+3	common	_	Word	Word	_	4	E	4:E	_
+4	narwhale	_	Word	Word	_	11	A	11:A	_
+5	,	_	Punctuation	Punctuation	_	4	U	4:U	_
+6	or	_	Word	Word	_	4	N	4:N	_
+7	sea	_	Word	Word	_	8	E	8:E	_
+8	unicorn	_	Word	Word	_	4	C	4:C	_
+9	,	_	Punctuation	Punctuation	_	11	U	11:U	_
+10	often	_	Word	Word	_	11	D	11:D	_
+11	reaches	_	Word	Word	_	0	H	0:H	_
+12	a	_	Word	Word	_	13	E	13:E	_
+13	length	_	Word	Word	_	16	E	16:E	_
+14	of	_	Word	Word	_	13	R	13:R	_
+15	sixty	_	Word	Word	_	16	E	16:E	_
+16	feet	_	Word	Word	_	11	A	11:A	_
+17	.	_	Punctuation	Punctuation	_	16	U	16:U	_
+

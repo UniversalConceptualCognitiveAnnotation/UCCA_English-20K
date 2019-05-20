@@ -1,0 +1,8 @@
+# format = ucca
+# sent_id = 826016
+# text = ” Conseil asked .
+1	”	_	Punctuation	Punctuation	_	3	U	3:U	_
+2	Conseil	_	Word	Word	_	3	A	3:A	_
+3	asked	_	Word	Word	_	0	H	0:H	_
+4	.	_	Punctuation	Punctuation	_	3	U	3:U	_
+

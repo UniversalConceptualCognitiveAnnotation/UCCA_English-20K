@@ -1,0 +1,9 @@
+# format = ucca
+# sent_id = 974000
+# text = “ Open your eyes !
+1	“	_	Punctuation	Punctuation	_	2	U	2:U	_
+2	Open	_	Word	Word	_	0	H	0:H	_
+3	your	_	Word	Word	_	4	E	4:E	_
+4	eyes	_	Word	Word	_	2	A	2:A	_
+5	!	_	Punctuation	Punctuation	_	4	U	4:U	_
+

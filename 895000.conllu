@@ -1,0 +1,27 @@
+# format = ucca
+# sent_id = 895000
+# text = “ Ned , ” I asked him , “ how can you still doubt the reality of this cetacean we ’re after ?
+1	“	_	Punctuation	Punctuation	_	14	U	14:U	_
+2	Ned	_	Word	Word	_	14	A	14:A	_
+3	,	_	Punctuation	Punctuation	_	14	U	14:U	_
+4	”	_	Punctuation	Punctuation	_	14	U	14:U	_
+5	I	_	Word	Word	_	6	A	6:A	_
+6	asked	_	Word	Word	_	14	H	14:H	_
+7	him	_	Word	Word	_	6	A	6:A	_
+8	,	_	Punctuation	Punctuation	_	14	U	14:U	_
+9	“	_	Punctuation	Punctuation	_	14	U	14:U	_
+10	how	_	Word	Word	_	14	F	14:F	_
+11	can	_	Word	Word	_	14	E	14:E	_
+12	you	_	Word	Word	_	14	F	14:F	_
+13	still	_	Word	Word	_	14	D	14:D	_
+14	doubt	_	Word	Word	_	0	H	0:H	_
+15	the	_	Word	Word	_	16	E	16:E	_
+16	reality	_	Word	Word	_	14	A	14:A	_
+17	of	_	Word	Word	_	19	R	19:R	_
+18	this	_	Word	Word	_	19	E	19:E	_
+19	cetacean	_	Word	Word	_	16	E	16:E	_
+20	we	_	Word	Word	_	22	A	22:A	_
+21	’re	_	Word	Word	_	22	F	22:F	_
+22	after	_	Word	Word	_	19	E	19:E	_
+23	?	_	Punctuation	Punctuation	_	22	U	22:U	_
+

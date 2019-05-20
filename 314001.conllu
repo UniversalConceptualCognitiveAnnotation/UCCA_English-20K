@@ -1,0 +1,14 @@
+# format = ucca
+# sent_id = 314001
+# text = For two months nobody heard a word about it .
+1	For	_	Word	Word	_	3	R	3:R	_
+2	two	_	Word	Word	_	3	E	3:E	_
+3	months	_	Word	Word	_	5	D	5:D	_
+4	nobody	_	Word	Word	_	5	A	5:A	_
+5	heard	_	Word	Word	_	0	H	0:H	_
+6	a	_	Word	Word	_	7	E	7:E	_
+7	word	_	Word	Word	_	5	E	5:E	_
+8	about	_	Word	Word	_	9	R	9:R	_
+9	it	_	Word	Word	_	5	A	5:A	_
+10	.	_	Punctuation	Punctuation	_	9	U	9:U	_
+

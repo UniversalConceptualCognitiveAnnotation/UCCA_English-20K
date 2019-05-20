@@ -1,0 +1,21 @@
+# format = ucca
+# sent_id = 301000
+# text = “ Either we know every variety of creature populating our planet , or we do not .
+1	“	_	Punctuation	Punctuation	_	4	U	4:U	_
+2	Either	_	Word	Word	_	15	L	15:L	_
+3	we	_	Word	Word	_	4	A	4:A	_
+4	know	_	Word	Word	_	0	H	0:H	_
+5	every	_	Word	Word	_	6	E	6:E	_
+6	variety	_	Word	Word	_	4	A	4:A|15:A	_
+7	of	_	Word	Word	_	8	R	8:R	_
+8	creature	_	Word	Word	_	6	E	6:E	_
+9	populating	_	Word	Word	_	8	E	8:E	_
+10	our	_	Word	Word	_	11	E	11:E	_
+11	planet	_	Word	Word	_	9	A	9:A	_
+12	,	_	Punctuation	Punctuation	_	4	U	4:U	_
+13	or	_	Word	Word	_	15	L	15:L	_
+14	we	_	Word	Word	_	15	A	15:A	_
+15	do	_	Word	Word	_	4	H	4:H	_
+16	not	_	Word	Word	_	15	D	15:D	_
+17	.	_	Punctuation	Punctuation	_	15	U	15:U	_
+
