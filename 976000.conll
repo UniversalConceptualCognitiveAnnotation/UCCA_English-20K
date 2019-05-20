@@ -1,0 +1,28 @@
+# format = ucca
+# sent_id = 976000
+1	As	_	Word	Word	_	3	R	_	_
+2	for	_	Word	Word	_	3	R	_	_
+3	me	_	Word	Word	_	8	L	_	_
+4	,	_	Punctuation	Punctuation	_	8	U	_	_
+5	I	_	Word	Word	_	8	A	_	_
+5	I	_	Word	Word	_	21	A*	_	_
+6	was	_	Word	Word	_	8	F	_	_
+7	hardly	_	Word	Word	_	8	D	_	_
+8	drawn	_	Word	Word	_	0	H	_	_
+9	by	_	Word	Word	_	11	R	_	_
+10	the	_	Word	Word	_	11	E	_	_
+11	lure	_	Word	Word	_	8	A	_	_
+12	of	_	Word	Word	_	13	R	_	_
+13	money	_	Word	Word	_	11	E	_	_
+14	and	_	Word	Word	_	8	L	_	_
+15	yet	_	Word	Word	_	14	Terminal	_	_
+16	was	_	Word	Word	_	17	F	_	_
+17	far	_	Word	Word	_	21	E	_	_
+18	from	_	Word	Word	_	17	R	_	_
+19	the	_	Word	Word	_	21	E	_	_
+20	least	_	Word	Word	_	21	E	_	_
+21	attentive	_	Word	Word	_	8	H	_	_
+22	on	_	Word	Word	_	23	R	_	_
+23	board	_	Word	Word	_	21	A	_	_
+24	.	_	Punctuation	Punctuation	_	23	U	_	_
+

@@ -1,0 +1,18 @@
+# format = ucca
+# sent_id = 828002
+1	This	_	Word	Word	_	2	A	_	_
+2	is	_	Word	Word	_	0	H	_	_
+3	one	_	Word	Word	_	6	E	_	_
+4	of	_	Word	Word	_	3	R	_	_
+5	those	_	Word	Word	_	6	E	_	_
+6	voyages	_	Word	Word	_	2	A	_	_
+7	from	_	Word	Word	_	13	A	_	_
+8	which	_	Word	Word	_	13	R	_	_
+9	people	_	Word	Word	_	13	A	_	_
+10	don	_	Word	Word	_	13	F	_	_
+11	’t	_	Word	Word	_	13	D	_	_
+12	always	_	Word	Word	_	13	D	_	_
+13	come	_	Word	Word	_	6	E	_	_
+14	back	_	Word	Word	_	13	Terminal	_	_
+15	!	_	Punctuation	Punctuation	_	13	U	_	_
+

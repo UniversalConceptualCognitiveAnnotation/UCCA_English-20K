@@ -1,0 +1,13 @@
+# format = ucca
+# sent_id = 826006
+1	“	_	Punctuation	Punctuation	_	8	U	_	_
+2	We	_	Word	Word	_	3	A	_	_
+2	We	_	Word	Word	_	8	A*	_	_
+3	haven	_	Word	Word	_	0	H	_	_
+4	’t	_	Word	Word	_	3	D	_	_
+5	a	_	Word	Word	_	6	E	_	_
+6	moment	_	Word	Word	_	3	A	_	_
+7	to	_	Word	Word	_	8	F	_	_
+8	lose	_	Word	Word	_	6	E	_	_
+9	.	_	Punctuation	Punctuation	_	8	U	_	_
+

@@ -1,0 +1,32 @@
+# format = ucca
+# sent_id = 832003
+1	One	_	Word	Word	_	4	E	_	_
+2	of	_	Word	Word	_	1	R	_	_
+3	the	_	Word	Word	_	4	E	_	_
+4	sailors	_	Word	Word	_	5	A	_	_
+5	led	_	Word	Word	_	0	H	_	_
+6	me	_	Word	Word	_	5	A	_	_
+7	to	_	Word	Word	_	9	R	_	_
+8	the	_	Word	Word	_	9	E	_	_
+9	afterdeck	_	Word	Word	_	5	A	_	_
+10	,	_	Punctuation	Punctuation	_	5	U	_	_
+11	where	_	Word	Word	_	5	L	_	_
+12	I	_	Word	Word	_	16	A	_	_
+13	stood	_	Word	Word	_	16	E	_	_
+14	in	_	Word	Word	_	16	R	_	_
+15	the	_	Word	Word	_	16	E	_	_
+16	presence	_	Word	Word	_	5	H	_	_
+17	of	_	Word	Word	_	22	R	_	_
+18	a	_	Word	Word	_	22	E	_	_
+19	smart	_	Word	Word	_	22	E	_	_
+20	-	_	Punctuation	Punctuation	_	19	U	_	_
+21	looking	_	Word	Word	_	19	Terminal	_	_
+22	officer	_	Word	Word	_	16	A	_	_
+23	who	_	Word	Word	_	24	R	_	_
+24	extended	_	Word	Word	_	22	E	_	_
+25	his	_	Word	Word	_	26	E	_	_
+26	hand	_	Word	Word	_	24	A	_	_
+27	to	_	Word	Word	_	28	R	_	_
+28	me	_	Word	Word	_	24	A	_	_
+29	.	_	Punctuation	Punctuation	_	28	U	_	_
+

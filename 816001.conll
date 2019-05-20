@@ -1,0 +1,44 @@
+# format = ucca
+# sent_id = 816001
+1	That	_	Word	Word	_	3	E	_	_
+2	fine	_	Word	Word	_	3	E	_	_
+3	animal	_	Word	Word	_	9	A	_	_
+4	may	_	Word	Word	_	6	E	_	_
+5	even	_	Word	Word	_	9	D	_	_
+6	let	_	Word	Word	_	9	E	_	_
+7	itself	_	Word	Word	_	6	E	_	_
+8	be	_	Word	Word	_	9	F	_	_
+9	captured	_	Word	Word	_	0	H	_	_
+10	in	_	Word	Word	_	12	R	_	_
+11	European	_	Word	Word	_	12	E	_	_
+12	seas	_	Word	Word	_	9	A	_	_
+13	—	_	Punctuation	Punctuation	_	9	U	_	_
+14	as	_	Word	Word	_	9	G	_	_
+15	a	_	Word	Word	_	14	Terminal	_	_
+16	personal	_	Word	Word	_	14	Terminal	_	_
+17	favor	_	Word	Word	_	14	Terminal	_	_
+18	to	_	Word	Word	_	14	Terminal	_	_
+19	me	_	Word	Word	_	14	Terminal	_	_
+20	—	_	Punctuation	Punctuation	_	9	U	_	_
+21	and	_	Word	Word	_	9	L	_	_
+22	I’ll	_	Word	Word	_	23	A	_	_
+23	bring	_	Word	Word	_	9	H	_	_
+24	back	_	Word	Word	_	23	Terminal	_	_
+25	to	_	Word	Word	_	27	R	_	_
+26	the	_	Word	Word	_	27	E	_	_
+27	Museum	_	Word	Word	_	23	A	_	_
+28	of	_	Word	Word	_	30	R	_	_
+29	Natural	_	Word	Word	_	30	E	_	_
+30	History	_	Word	Word	_	27	E	_	_
+31	at	_	Word	Word	_	32	R	_	_
+32	least	_	Word	Word	_	35	E	_	_
+33	half	_	Word	Word	_	35	E	_	_
+34	a	_	Word	Word	_	35	E	_	_
+35	meter	_	Word	Word	_	39	E	_	_
+36	of	_	Word	Word	_	35	R	_	_
+37	its	_	Word	Word	_	39	E	_	_
+38	ivory	_	Word	Word	_	39	E	_	_
+39	lance	_	Word	Word	_	23	A	_	_
+40	!	_	Punctuation	Punctuation	_	39	U	_	_
+41	”	_	Punctuation	Punctuation	_	39	U	_	_
+

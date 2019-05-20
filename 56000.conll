@@ -1,0 +1,33 @@
+# format = ucca
+# sent_id = 56000
+1	The	_	Word	Word	_	2	E	_	_
+2	Scotia	_	Word	Word	_	4	A	_	_
+3	hadn\u2019t	_	Word	Word	_	4	F	_	_
+4	run	_	Word	Word	_	0	H	_	_
+5	afoul	_	Word	Word	_	4	Terminal	_	_
+6	of	_	Word	Word	_	7	R	_	_
+7	something	_	Word	Word	_	4	A	_	_
+8	,	_	Punctuation	Punctuation	_	4	U	_	_
+9	it	_	Word	Word	_	12	A	_	_
+9	it	_	Word	Word	_	16	A*	_	_
+10	had	_	Word	Word	_	12	F	_	_
+11	been	_	Word	Word	_	12	F	_	_
+12	fouled	_	Word	Word	_	4	H	_	_
+13	,	_	Punctuation	Punctuation	_	4	U	_	_
+14	and	_	Word	Word	_	4	L	_	_
+15	by	_	Word	Word	_	16	R	_	_
+15	by	_	Word	Word	_	25	R*	_	_
+16	a	_	Word	Word	_	4	H	_	_
+17	cutting	_	Word	Word	_	16	E	_	_
+18	or	_	Word	Word	_	16	N	_	_
+19	perforating	_	Word	Word	_	20	E	_	_
+20	instrument	_	Word	Word	_	0	C	_	_
+20	instrument	_	Word	Word	_	12	A*	_	_
+20	instrument	_	Word	Word	_	16	C*	_	_
+21	rather	_	Word	Word	_	16	R	_	_
+22	than	_	Word	Word	_	21	Terminal	_	_
+23	a	_	Word	Word	_	25	E	_	_
+24	blunt	_	Word	Word	_	25	E	_	_
+25	one	_	Word	Word	_	16	A	_	_
+26	.	_	Punctuation	Punctuation	_	25	U	_	_
+

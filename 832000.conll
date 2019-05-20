@@ -1,0 +1,15 @@
+# format = ucca
+# sent_id = 832000
+1	Our	_	Word	Word	_	2	E	_	_
+2	baggage	_	Word	Word	_	5	A	_	_
+3	was	_	Word	Word	_	5	F	_	_
+4	immediately	_	Word	Word	_	5	D	_	_
+5	carried	_	Word	Word	_	0	H	_	_
+6	to	_	Word	Word	_	8	R	_	_
+7	the	_	Word	Word	_	8	E	_	_
+8	deck	_	Word	Word	_	11	E	_	_
+9	of	_	Word	Word	_	8	R	_	_
+10	the	_	Word	Word	_	11	E	_	_
+11	frigate	_	Word	Word	_	5	A	_	_
+12	.	_	Punctuation	Punctuation	_	11	U	_	_
+

@@ -1,0 +1,28 @@
+# format = ucca
+# sent_id = 287000
+1	I	_	Word	Word	_	4	A	_	_
+2	was	_	Word	Word	_	4	F	_	_
+3	perfectly	_	Word	Word	_	4	D	_	_
+4	abreast	_	Word	Word	_	0	H	_	_
+5	of	_	Word	Word	_	7	R	_	_
+6	this	_	Word	Word	_	7	E	_	_
+7	question	_	Word	Word	_	4	A	_	_
+8	,	_	Punctuation	Punctuation	_	7	U	_	_
+9	which	_	Word	Word	_	10	R	_	_
+10	was	_	Word	Word	_	7	E	_	_
+11	the	_	Word	Word	_	13	E	_	_
+12	big	_	Word	Word	_	13	E	_	_
+13	news	_	Word	Word	_	10	A	_	_
+14	of	_	Word	Word	_	16	R	_	_
+15	the	_	Word	Word	_	16	E	_	_
+16	day	_	Word	Word	_	13	E	_	_
+17	,	_	Punctuation	Punctuation	_	4	U	_	_
+18	and	_	Word	Word	_	4	L	_	_
+19	how	_	Word	Word	_	20	F	_	_
+20	could	_	Word	Word	_	4	H	_	_
+21	I	_	Word	Word	_	20	A	_	_
+22	not	_	Word	Word	_	20	D	_	_
+23	have	_	Word	Word	_	20	F	_	_
+24	been	_	Word	Word	_	20	F	_	_
+25	?	_	Punctuation	Punctuation	_	20	U	_	_
+

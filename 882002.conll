@@ -1,0 +1,38 @@
+# format = ucca
+# sent_id = 882002
+1	Besides	_	Word	Word	_	6	L	_	_
+2	,	_	Punctuation	Punctuation	_	6	U	_	_
+3	Commander	_	Word	Word	_	4	E	_	_
+4	Farragut	_	Word	Word	_	6	A	_	_
+5	had	_	Word	Word	_	6	F	_	_
+6	mentioned	_	Word	Word	_	0	H	_	_
+7	that	_	Word	Word	_	6	F	_	_
+8	a	_	Word	Word	_	10	E	_	_
+9	certain	_	Word	Word	_	10	E	_	_
+10	sum	_	Word	Word	_	15	A	_	_
+11	of	_	Word	Word	_	10	R	_	_
+12	$	_	Punctuation	Punctuation	_	10	U	_	_
+13	2,000.00	_	Word	Word	_	10	E	_	_
+14	was	_	Word	Word	_	15	F	_	_
+15	waiting	_	Word	Word	_	6	A	_	_
+16	for	_	Word	Word	_	18	R	_	_
+17	the	_	Word	Word	_	18	E	_	_
+18	man	_	Word	Word	_	15	A	_	_
+19	who	_	Word	Word	_	21	R	_	_
+20	first	_	Word	Word	_	21	D	_	_
+21	sighted	_	Word	Word	_	18	E	_	_
+22	the	_	Word	Word	_	23	E	_	_
+23	animal	_	Word	Word	_	21	A	_	_
+24	,	_	Punctuation	Punctuation	_	6	U	_	_
+25	be	_	Word	Word	_	6	H	_	_
+26	he	_	Word	Word	_	25	A	_	_
+27	cabin	_	Word	Word	_	28	E	_	_
+28	boy	_	Word	Word	_	25	A	_	_
+29	or	_	Word	Word	_	28	N	_	_
+30	sailor	_	Word	Word	_	28	C	_	_
+31	,	_	Punctuation	Punctuation	_	28	U	_	_
+32	mate	_	Word	Word	_	28	C	_	_
+33	or	_	Word	Word	_	32	N	_	_
+34	officer	_	Word	Word	_	32	C	_	_
+35	.	_	Punctuation	Punctuation	_	32	U	_	_
+

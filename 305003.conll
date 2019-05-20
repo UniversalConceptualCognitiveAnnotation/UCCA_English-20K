@@ -1,0 +1,32 @@
+# format = ucca
+# sent_id = 305003
+1	Others	_	Word	Word	_	4	A	_	_
+2	have	_	Word	Word	_	4	F	_	_
+3	been	_	Word	Word	_	4	F	_	_
+4	wrenched	_	Word	Word	_	0	H	_	_
+5	,	_	Punctuation	Punctuation	_	4	U	_	_
+6	not	_	Word	Word	_	8	E	_	_
+7	without	_	Word	Word	_	8	R	_	_
+8	difficulty	_	Word	Word	_	4	D	_	_
+9	,	_	Punctuation	Punctuation	_	4	U	_	_
+10	from	_	Word	Word	_	12	R	_	_
+11	the	_	Word	Word	_	12	E	_	_
+12	undersides	_	Word	Word	_	4	A	_	_
+13	of	_	Word	Word	_	14	R	_	_
+14	vessels	_	Word	Word	_	12	E	_	_
+15	that	_	Word	Word	_	18	R	_	_
+16	narwhales	_	Word	Word	_	18	A	_	_
+17	have	_	Word	Word	_	18	F	_	_
+18	pierced	_	Word	Word	_	14	E	_	_
+19	clean	_	Word	Word	_	18	D	_	_
+20	through	_	Word	Word	_	19	E	_	_
+21	,	_	Punctuation	Punctuation	_	4	U	_	_
+22	as	_	Word	Word	_	4	L	_	_
+23	a	_	Word	Word	_	24	E	_	_
+24	gimlet	_	Word	Word	_	25	A	_	_
+25	pierces	_	Word	Word	_	4	H	_	_
+26	a	_	Word	Word	_	28	E	_	_
+27	wine	_	Word	Word	_	28	E	_	_
+28	barrel	_	Word	Word	_	25	A	_	_
+29	.	_	Punctuation	Punctuation	_	28	U	_	_
+

@@ -1,0 +1,40 @@
+# format = ucca
+# sent_id = 308000
+1	“	_	Punctuation	Punctuation	_	7	U	_	_
+2	This	_	Word	Word	_	4	E	_	_
+3	inexplicable	_	Word	Word	_	4	E	_	_
+4	phenomenon	_	Word	Word	_	7	A	_	_
+5	is	_	Word	Word	_	7	F	_	_
+6	thus	_	Word	Word	_	7	L	_	_
+7	explained	_	Word	Word	_	0	H	_	_
+8	away	_	Word	Word	_	7	Terminal	_	_
+9	—	_	Punctuation	Punctuation	_	7	U	_	_
+10	unless	_	Word	Word	_	7	L	_	_
+11	it	_	Word	Word	_	12	A	_	_
+12	’s	_	Word	Word	_	7	H	_	_
+13	something	_	Word	Word	_	12	A	_	_
+13	something	_	Word	Word	_	34	A*	_	_
+14	else	_	Word	Word	_	13	E	_	_
+15	entirely	_	Word	Word	_	14	E	_	_
+16	,	_	Punctuation	Punctuation	_	7	U	_	_
+17	which	_	Word	Word	_	7	F	_	_
+18	,	_	Punctuation	Punctuation	_	7	U	_	_
+19	despite	_	Word	Word	_	7	L	_	_
+20	everything	_	Word	Word	_	24	A	_	_
+21	that	_	Word	Word	_	24	F	_	_
+22	has	_	Word	Word	_	24	F	_	_
+23	been	_	Word	Word	_	24	F	_	_
+24	sighted	_	Word	Word	_	7	H	_	_
+25	,	_	Punctuation	Punctuation	_	24	U	_	_
+26	studied	_	Word	Word	_	24	C	_	_
+27	,	_	Punctuation	Punctuation	_	24	U	_	_
+28	explored	_	Word	Word	_	24	C	_	_
+29	and	_	Word	Word	_	24	N	_	_
+30	experienced	_	Word	Word	_	24	C	_	_
+31	,	_	Punctuation	Punctuation	_	7	U	_	_
+32	is	_	Word	Word	_	34	F	_	_
+33	still	_	Word	Word	_	34	D	_	_
+34	possible	_	Word	Word	_	7	H	_	_
+35	!	_	Punctuation	Punctuation	_	34	U	_	_
+36	”	_	Punctuation	Punctuation	_	34	U	_	_
+

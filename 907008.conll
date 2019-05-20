@@ -1,0 +1,19 @@
+# format = ucca
+# sent_id = 907008
+1	”	_	Punctuation	Punctuation	_	4	U	_	_
+2	the	_	Word	Word	_	3	E	_	_
+3	Canadian	_	Word	Word	_	0	C	_	_
+3	Canadian	_	Word	Word	_	7	A*	_	_
+4	replied	_	Word	Word	_	0	H	_	_
+5	,	_	Punctuation	Punctuation	_	4	U	_	_
+6	unconsciously	_	Word	Word	_	7	D	_	_
+7	echoing	_	Word	Word	_	4	H	_	_
+8	a	_	Word	Word	_	10	E	_	_
+9	famous	_	Word	Word	_	10	E	_	_
+10	catchphrase	_	Word	Word	_	7	A	_	_
+11	of	_	Word	Word	_	14	R	_	_
+12	the	_	Word	Word	_	13	E	_	_
+13	scientist	_	Word	Word	_	14	E	_	_
+14	Arago	_	Word	Word	_	10	E	_	_
+15	.	_	Punctuation	Punctuation	_	14	U	_	_
+

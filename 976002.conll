@@ -1,0 +1,37 @@
+# format = ucca
+# sent_id = 976002
+1	Sometimes	_	Word	Word	_	2	D	_	_
+2	bending	_	Word	Word	_	0	H	_	_
+3	over	_	Word	Word	_	6	R	_	_
+4	the	_	Word	Word	_	6	E	_	_
+5	forecastle	_	Word	Word	_	6	E	_	_
+6	railings	_	Word	Word	_	2	A	_	_
+7	,	_	Punctuation	Punctuation	_	2	U	_	_
+8	sometimes	_	Word	Word	_	9	D	_	_
+9	leaning	_	Word	Word	_	2	H	_	_
+10	against	_	Word	Word	_	12	R	_	_
+11	the	_	Word	Word	_	12	E	_	_
+12	sternrail	_	Word	Word	_	9	A	_	_
+13	,	_	Punctuation	Punctuation	_	9	U	_	_
+14	I	_	Word	Word	_	16	A	_	_
+14	I	_	Word	Word	_	9	A*	_	_
+15	eagerly	_	Word	Word	_	16	D	_	_
+16	scoured	_	Word	Word	_	2	H	_	_
+17	that	_	Word	Word	_	21	E	_	_
+18	cotton	_	Word	Word	_	21	E	_	_
+19	-	_	Punctuation	Punctuation	_	18	U	_	_
+20	colored	_	Word	Word	_	18	E	_	_
+21	wake	_	Word	Word	_	16	A	_	_
+22	that	_	Word	Word	_	23	R	_	_
+23	whitened	_	Word	Word	_	21	E	_	_
+24	the	_	Word	Word	_	25	E	_	_
+25	ocean	_	Word	Word	_	23	A	_	_
+26	as	_	Word	Word	_	27	R	_	_
+27	far	_	Word	Word	_	2	L	_	_
+28	as	_	Word	Word	_	27	R	_	_
+29	the	_	Word	Word	_	30	E	_	_
+30	eye	_	Word	Word	_	32	A	_	_
+31	could	_	Word	Word	_	32	E	_	_
+32	see	_	Word	Word	_	2	H	_	_
+33	!	_	Punctuation	Punctuation	_	32	U	_	_
+

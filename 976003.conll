@@ -1,0 +1,29 @@
+# format = ucca
+# sent_id = 976003
+1	And	_	Word	Word	_	8	L	_	_
+2	how	_	Word	Word	_	4	E	_	_
+3	many	_	Word	Word	_	2	Terminal	_	_
+4	times	_	Word	Word	_	8	D	_	_
+5	I	_	Word	Word	_	8	A	_	_
+6	shared	_	Word	Word	_	8	E	_	_
+7	the	_	Word	Word	_	8	E	_	_
+8	excitement	_	Word	Word	_	0	H	_	_
+9	of	_	Word	Word	_	11	R	_	_
+9	of	_	Word	Word	_	13	R*	_	_
+10	general	_	Word	Word	_	11	E	_	_
+11	staff	_	Word	Word	_	8	A	_	_
+12	and	_	Word	Word	_	11	N	_	_
+13	crew	_	Word	Word	_	11	C	_	_
+14	when	_	Word	Word	_	8	L	_	_
+15	some	_	Word	Word	_	17	E	_	_
+16	unpredictable	_	Word	Word	_	17	E	_	_
+17	whale	_	Word	Word	_	18	A	_	_
+18	lifted	_	Word	Word	_	8	H	_	_
+19	its	_	Word	Word	_	21	E	_	_
+20	blackish	_	Word	Word	_	21	E	_	_
+21	back	_	Word	Word	_	18	A	_	_
+22	above	_	Word	Word	_	24	R	_	_
+23	the	_	Word	Word	_	24	E	_	_
+24	waves	_	Word	Word	_	18	A	_	_
+25	.	_	Punctuation	Punctuation	_	24	U	_	_
+

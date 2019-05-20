@@ -1,0 +1,35 @@
+# format = ucca
+# sent_id = 840000
+1	But	_	Word	Word	_	8	L	_	_
+2	Commander	_	Word	Word	_	3	E	_	_
+3	Farragut	_	Word	Word	_	0	C	_	_
+3	Farragut	_	Word	Word	_	20	A*	_	_
+4	didn	_	Word	Word	_	8	F	_	_
+5	’t	_	Word	Word	_	8	D	_	_
+6	want	_	Word	Word	_	8	E	_	_
+7	to	_	Word	Word	_	8	F	_	_
+8	waste	_	Word	Word	_	0	H	_	_
+9	a	_	Word	Word	_	11	E	_	_
+10	single	_	Word	Word	_	11	E	_	_
+11	day	_	Word	Word	_	8	A	_	_
+12	,	_	Punctuation	Punctuation	_	11	U	_	_
+13	or	_	Word	Word	_	11	N	_	_
+14	even	_	Word	Word	_	17	E	_	_
+15	a	_	Word	Word	_	17	E	_	_
+16	single	_	Word	Word	_	17	E	_	_
+17	hour	_	Word	Word	_	11	C	_	_
+18	,	_	Punctuation	Punctuation	_	8	U	_	_
+19	in	_	Word	Word	_	20	F	_	_
+20	making	_	Word	Word	_	8	H	_	_
+21	for	_	Word	Word	_	23	R	_	_
+22	those	_	Word	Word	_	23	E	_	_
+23	seas	_	Word	Word	_	20	A	_	_
+24	where	_	Word	Word	_	30	R	_	_
+25	the	_	Word	Word	_	26	E	_	_
+26	animal	_	Word	Word	_	30	A	_	_
+27	had	_	Word	Word	_	30	F	_	_
+28	just	_	Word	Word	_	30	D	_	_
+29	been	_	Word	Word	_	30	F	_	_
+30	sighted	_	Word	Word	_	23	E	_	_
+31	.	_	Punctuation	Punctuation	_	30	U	_	_
+

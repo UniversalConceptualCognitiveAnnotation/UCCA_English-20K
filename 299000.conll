@@ -1,0 +1,16 @@
+# format = ucca
+# sent_id = 299000
+1	“	_	Punctuation	Punctuation	_	10	U	_	_
+2	The	_	Word	Word	_	4	E	_	_
+3	deepest	_	Word	Word	_	4	E	_	_
+4	parts	_	Word	Word	_	7	E	_	_
+5	of	_	Word	Word	_	4	R	_	_
+6	the	_	Word	Word	_	7	E	_	_
+7	ocean	_	Word	Word	_	10	A	_	_
+8	are	_	Word	Word	_	10	F	_	_
+9	totally	_	Word	Word	_	10	D	_	_
+10	unknown	_	Word	Word	_	0	H	_	_
+11	to	_	Word	Word	_	12	R	_	_
+12	us	_	Word	Word	_	10	A	_	_
+13	.	_	Punctuation	Punctuation	_	12	U	_	_
+
