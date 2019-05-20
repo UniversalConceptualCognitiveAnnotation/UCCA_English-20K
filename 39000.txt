@@ -1,0 +1,96 @@
+# ::id 39000
+# ::tok Striking an average of observations taken at different times \u2014 rejecting those timid estimates that gave the object a length of 200 feet , and ignoring those exaggerated views that saw it as a mile wide and three long \u2014 you could still assert that this phenomenal creature greatly exceeded the dimensions of anything then known to ichthyologists , if it existed at all .
+# ::alignments 0-1.1.2 1-1.1.3.1 2-1.1.3.2 3-1.1.3.3 4-1.1.3.4.1 5-1.1.3.4.2.2 6-1.1.3.4.2.3.1 7-1.1.3.4.2.3.2 8-1.1.3.4.2.3.3 10-1.3.2 11-1.3.3.1 12-1.3.3.2 13-1.3.3.3 15-1.3.3.4.3 16-1.3.3.4.4.1 17-1.3.3.4.4.2 18-1.3.3.4.5.1.1 19-1.3.3.4.5.1.2 20-1.3.3.4.5.2 21-1.3.3.4.5.3 22-1.3.3.4.5.4 24-1.4 25-1.5.2 26-1.5.3.1 27-1.5.3.2 28-1.5.3.3 30-1.5.3.4.3 31-1.5.3.4.4 32-1.5.3.4.5.1 33-1.5.3.4.5.2.1.2 34-1.5.3.4.5.2.1.3 35-1.5.3.4.5.2.1.1 36-1.5.3.4.5.2.2 37-1.5.3.4.5.2.3.2 38-1.5.3.4.5.2.3.1 40-1.7.1 41-1.7.2.1 42-1.7.3 43-1.7.2.2 45-1.7.4.2.1 46-1.7.4.2.2 47-1.7.4.2.3 48-1.7.4.3 49-1.7.4.4 50-1.7.4.5.1 51-1.7.4.5.2 52-1.7.4.5.3 53-1.7.4.5.4.1 54-1.7.4.5.4.2.2 55-1.7.4.5.4.2.3 56-1.7.4.5.4.2.4.1 57-1.7.4.5.4.2.4.2 59-1.8 60-1.9.2 61-1.9.3 62-1.9.4 63-1.9.4
+# ::format ucca
+(v1 / label
+    :H (v2 / label
+           :A (v9 / label)
+           :P (v10 / label~e.0)
+           :A (v11 / label
+                   :E (v25 / label~e.1)
+                   :C (v26 / label~e.2)
+                   :R (v27 / label~e.3)
+                   :E (v28 / label
+                           :C (v43 / label~e.4)
+                           :E (v44 / label
+                                   :A v43
+                                   :P (v58 / label~e.5)
+                                   :A (v59 / label
+                                           :R (v70 / label~e.6)
+                                           :E (v71 / label~e.7)
+                                           :C (v72 / label~e.8))))))
+    :H (v3 / label
+           :A (v12 / label)
+           :P (v13 / label~e.10)
+           :A (v14 / label
+                   :E (v29 / label~e.11)
+                   :E (v30 / label~e.12)
+                   :C (v31 / label~e.13)
+                   :E (v32 / label
+                           :A v31
+                           :P (v45 / label~e.15)
+                           :A (v46 / label
+                                   :E (v60 / label~e.16)
+                                   :C (v61 / label~e.17))
+                           :A (v47 / label
+                                   :E (v62 / label
+                                           :E (v73 / label~e.18)
+                                           :C (v74 / label~e.19))
+                                   :R (v63 / label~e.20)
+                                   :E (v64 / label~e.21)
+                                   :C (v65 / label~e.22)))))
+    :L (v4 / label~e.24)
+    :H (v5 / label
+           :A (v15 / label)
+           :P (v16 / label~e.25)
+           :A (v17 / label
+                   :E (v33 / label~e.26)
+                   :E (v34 / label~e.27)
+                   :C (v35 / label~e.28)
+                   :E (v36 / label
+                           :A v35
+                           :P (v48 / label~e.30)
+                           :A (v49 / label~e.31)
+                           :A (v50 / label
+                                   :R (v66 / label~e.32)
+                                   :C (v67 / label
+                                           :C (v75 / label
+                                                   :E (v81 / label~e.35)
+                                                   :E (v82 / label~e.33)
+                                                   :C (v83 / label~e.34))
+                                           :N (v76 / label~e.36)
+                                           :C (v77 / label
+                                                   :E (v84 / label~e.38)
+                                                   :E (v85 / label~e.37)
+                                                   :C v83))))))
+    :H (v6 / label
+           :A (v18 / label~e.40)
+           :P (v19 / label
+                   :E (v37 / label~e.41)
+                   :C (v38 / label~e.43))
+           :D (v20 / label~e.42)
+           :A (v21 / label
+                   :A (v39 / label
+                           :E (v51 / label~e.45)
+                           :E (v52 / label~e.46)
+                           :C (v53 / label~e.47))
+                   :D (v40 / label~e.48)
+                   :P (v41 / label~e.49)
+                   :A (v42 / label
+                           :E (v54 / label~e.50)
+                           :C (v55 / label~e.51)
+                           :R (v56 / label~e.52)
+                           :E (v57 / label
+                                   :C (v68 / label~e.53)
+                                   :E (v69 / label
+                                           :A v68
+                                           :D (v78 / label~e.54)
+                                           :P (v79 / label~e.55)
+                                           :A (v80 / label
+                                                   :R (v86 / label~e.56)
+                                                   :C (v87 / label~e.57)))))))
+    :L (v7 / label~e.59)
+    :H (v8 / label
+           :A (v22 / label~e.60)
+           :P (v23 / label~e.61)
+           :G (v24 / label~e.62,63)))

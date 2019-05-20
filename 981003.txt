@@ -1,0 +1,14 @@
+# ::id 981003
+# ::tok All the same , our chances were automatically pretty limited .
+# ::alignments 0-1.1 1-1.1 2-1.1 4-1.2.1.1 5-1.2.1.2 7-1.2.3 8-1.2.2.1 9-1.2.2.2
+# ::format ucca
+(v1 / label
+    :L (v2 / label~e.0,1,2)
+    :H (v3 / label
+           :A (v4 / label
+                  :E (v7 / label~e.4)
+                  :C (v8 / label~e.5))
+           :S (v5 / label
+                  :E (v9 / label~e.8)
+                  :C (v10 / label~e.9))
+           :D (v6 / label~e.7)))

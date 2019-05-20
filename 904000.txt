@@ -1,0 +1,11 @@
+# ::id 904000
+# ::tok “ Bosh ! ” Ned replied .
+# ::alignments 1-1.1 4-1.2.4 5-1.2.5
+# ::format ucca
+(v1 / label
+    :H (v2 / label~e.1)
+    :H (v3 / label
+           :A v2
+           :A (v4 / label)
+           :A (v5 / label~e.4)
+           :P (v6 / label~e.5)))

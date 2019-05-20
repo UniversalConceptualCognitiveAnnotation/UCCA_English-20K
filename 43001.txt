@@ -1,0 +1,61 @@
+# ::id 43001
+# ::tok From their simultaneous observations , they were able to estimate the mammal \u2019s minimum length at more than 350 English feet ; this was because both the Shannon and the Helvetia were of smaller dimensions , although each measured 100 meters stem to stern .
+# ::alignments 0-1.1.1.1 1-1.1.1.2 2-1.1.1.3 3-1.1.1.4 5-1.1.2 7-1.1.3.2 9-1.1.3.4 10-1.1.4.1 11-1.1.4.2 13-1.1.4.4 14-1.1.4.5 15-1.1.5.1 16-1.1.5.2.1 17-1.1.5.2.2 18-1.1.5.3 19-1.1.5.4 20-1.1.5.5 22-1.2.1 24-1.2.2.2 25-1.2.3.1.1 26-1.2.3.1.2.1.1 27-1.2.3.1.2.1.2 28-1.2.3.1.2.2 29-1.2.3.1.2.3.1 30-1.2.3.1.2.3.2 32-1.2.3.2.2 33-1.2.3.2.3 34-1.2.3.2.4 36-1.3 37-1.4.3.2 38-1.4.1 39-1.4.2.2 40-1.4.2.3 41-1.4.2.1.2 42-1.4.2.1.3 43-1.4.2.1.4
+# ::format ucca
+(v1 / label
+    :H (v2 / label
+           :A (v6 / label
+                  :R (v17 / label~e.0)
+                  :E (v18 / label~e.1)
+                  :E (v19 / label~e.2)
+                  :C (v20 / label~e.3))
+           :A (v7 / label~e.5)
+           :P (v8 / label
+                  :E (v21 / label~e.7)
+                  :C (v22 / label~e.9))
+           :A (v9 / label
+                  :E (v23 / label~e.10)
+                  :E (v24 / label~e.11)
+                  :E (v25 / label~e.13)
+                  :C (v26 / label~e.14))
+           :A (v10 / label
+                   :R (v27 / label~e.15)
+                   :E (v28 / label
+                           :C (v40 / label~e.16)
+                           :R (v41 / label~e.17))
+                   :E (v29 / label~e.18)
+                   :E (v30 / label~e.19)
+                   :C (v31 / label~e.20)))
+    :H (v3 / label
+           :A (v11 / label~e.22)
+           :S (v12 / label
+                   :C (v32 / label~e.24))
+           :A (v13 / label
+                   :A (v33 / label
+                           :E (v42 / label~e.25)
+                           :C (v43 / label
+                                   :C (v51 / label
+                                           :E (v54 / label~e.26)
+                                           :C (v55 / label~e.27))
+                                   :N (v52 / label~e.28)
+                                   :C (v53 / label
+                                           :E (v56 / label~e.29)
+                                           :C (v57 / label~e.30))))
+                   :S (v34 / label
+                           :R (v44 / label~e.32)
+                           :E (v45 / label~e.33)
+                           :C (v46 / label~e.34))))
+    :L (v4 / label~e.36)
+    :H (v5 / label
+           :P (v14 / label~e.38)
+           :A (v15 / label
+                   :E (v35 / label
+                           :R (v47 / label)
+                           :C (v48 / label~e.41)
+                           :R (v49 / label~e.42)
+                           :C (v50 / label~e.43))
+                   :E (v36 / label~e.39)
+                   :C (v37 / label~e.40))
+           :A (v16 / label
+                   :C (v38 / label)
+                   :E (v39 / label~e.37))))

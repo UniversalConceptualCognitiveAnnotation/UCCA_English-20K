@@ -1,0 +1,53 @@
+# ::id 884003
+# ::tok On the forecastle was mounted the latest model breech - loading cannon , very heavy of barrel and narrow of bore , a weapon that would figure in the Universal Exhibition of 1867 .
+# ::alignments 0-1.1.2.1 1-1.1.2.2 2-1.1.2.3 4-1.1.3.2 5-1.1.4.8 6-1.1.4.9 7-1.1.4.1 8-1.1.4.2.3 10-1.1.4.2.4 11-1.1.4.3 13-1.1.4.4.1.1 14-1.1.4.4.1.2 15-1.1.4.4.1.3.1 16-1.1.4.4.1.3.2 17-1.1.4.4.2 18-1.1.4.4.3.1 19-1.1.4.4.3.2.1 20-1.1.4.4.3.2.2 22-1.1.4.5.1 23-1.1.4.5.2 24-1.1.4.5.3.1 25-1.1.4.5.3.2.1 26-1.1.4.5.3.2.2 27-1.1.4.5.3.3.1 28-1.1.4.5.3.3.2 29-1.1.4.5.3.3.4 30-1.1.4.5.3.3.5 31-1.1.4.5.3.3.3.1 32-1.1.4.5.3.3.3.2
+# ::format ucca
+(v1 / label
+    :H (v2 / label
+           :A (v3 / label)
+           :A (v4 / label
+                  :R (v7 / label~e.0)
+                  :E (v8 / label~e.1)
+                  :C (v9 / label~e.2))
+           :P (v5 / label
+                  :C (v10 / label~e.4))
+           :A (v6 / label
+                  :E (v11 / label~e.7)
+                  :E (v12 / label
+                          :A (v13 / label~e.11)
+                          :A (v18 / label)
+                          :D (v19 / label~e.8)
+                          :P (v20 / label~e.10))
+                  :C v13
+                  :E (v14 / label
+                          :C (v21 / label
+                                  :D (v27 / label~e.13)
+                                  :S (v28 / label~e.14)
+                                  :A (v29 / label
+                                          :R (v35 / label~e.15)
+                                          :C (v36 / label~e.16)))
+                          :N (v22 / label~e.17)
+                          :C (v23 / label
+                                  :S (v30 / label~e.18)
+                                  :A (v31 / label
+                                          :R (v37 / label~e.19)
+                                          :C (v38 / label~e.20))
+                                  :D v27))
+                  :E (v15 / label
+                          :E (v24 / label~e.22)
+                          :C (v25 / label~e.23)
+                          :E (v26 / label
+                                  :R (v32 / label~e.24)
+                                  :P (v33 / label
+                                          :E (v39 / label~e.25)
+                                          :C (v40 / label~e.26))
+                                  :A (v34 / label
+                                          :R (v41 / label~e.27)
+                                          :E (v42 / label~e.28)
+                                          :E (v43 / label
+                                                  :R (v46 / label~e.31)
+                                                  :C (v47 / label~e.32))
+                                          :E (v44 / label~e.29)
+                                          :C (v45 / label~e.30))))
+                  :E (v16 / label~e.5)
+                  :E (v17 / label~e.6))))

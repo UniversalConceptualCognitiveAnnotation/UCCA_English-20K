@@ -1,0 +1,36 @@
+# ::id 53004
+# ::tok Given this , no one will be astonished at the uproar provoked by this accident involving one of its finest steamers .
+# ::alignments 0-1.1.1 1-1.1.2 3-1.2.1.1 4-1.2.1.2 5-1.2.2.1 7-1.2.2.3 8-1.2.3.4 9-1.2.3.1 10-1.2.3.2 11-1.2.3.3.2 12-1.2.3.3.3.1 13-1.2.3.3.3.2 14-1.2.3.3.3.3 15-1.2.3.3.3.4.2 16-1.2.3.3.3.4.3.1.1 17-1.2.3.3.3.4.3.1.2 18-1.2.3.3.3.4.3.2 19-1.2.3.3.3.4.3.3 20-1.2.3.3.3.4.3.4
+# ::format ucca
+(v1 / label
+    :L (v2 / label
+           :E (v4 / label~e.0)
+           :C (v5 / label~e.1))
+    :H (v3 / label
+           :A (v6 / label
+                  :E (v9 / label~e.3)
+                  :C (v10 / label~e.4))
+           :P (v7 / label
+                  :E (v11 / label~e.5)
+                  :C (v12 / label~e.7))
+           :A (v8 / label
+                  :E (v13 / label~e.9)
+                  :C (v14 / label~e.10)
+                  :E (v15 / label
+                          :A v14
+                          :P (v17 / label~e.11)
+                          :A (v18 / label
+                                  :R (v19 / label~e.12)
+                                  :E (v20 / label~e.13)
+                                  :C (v21 / label~e.14)
+                                  :E (v22 / label
+                                          :A v21
+                                          :P (v23 / label~e.15)
+                                          :A (v24 / label
+                                                  :E (v25 / label
+                                                          :C (v29 / label~e.16)
+                                                          :R (v30 / label~e.17))
+                                                  :E (v26 / label~e.18)
+                                                  :E (v27 / label~e.19)
+                                                  :C (v28 / label~e.20)))))
+                  :R (v16 / label~e.8))))

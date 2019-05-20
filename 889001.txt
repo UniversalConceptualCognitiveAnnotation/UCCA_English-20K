@@ -1,0 +1,14 @@
+# ::id 889001
+# ::tok No doubt it was my nationality that attracted him .
+# ::alignments 0-1.1.1 1-1.1.2 4-1.2.5.1 5-1.2.5.2 7-1.2.7 8-1.2.1
+# ::format ucca
+(v1 / label
+    :G (v2 / label
+           :E (v4 / label~e.0)
+           :C (v5 / label~e.1))
+    :H (v3 / label
+           :A (v6 / label~e.8)
+           :A (v7 / label
+                  :E (v9 / label~e.4)
+                  :C (v10 / label~e.5))
+           :P (v8 / label~e.7)))

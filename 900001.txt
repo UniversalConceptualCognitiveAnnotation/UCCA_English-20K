@@ -1,0 +1,22 @@
+# ::id 900001
+# ::tok ” “ Yes , Ned , I repeat it with a conviction backed by factual logic .
+# ::alignments 2-1.1 4-1.1 6-1.2.5 7-1.2.1 8-1.2.2 9-1.2.3.1 10-1.2.3.2 11-1.2.3.3 12-1.2.3.4.2 13-1.2.3.4.3.1 14-1.2.3.4.3.2 15-1.2.3.4.3.3
+# ::format ucca
+(v1 / label
+    :H (v2 / label~e.2,4)
+    :H (v3 / label
+           :P (v4 / label~e.7)
+           :A (v5 / label~e.8)
+           :D (v6 / label
+                  :R (v9 / label~e.9)
+                  :E (v10 / label~e.10)
+                  :C (v11 / label~e.11)
+                  :E (v12 / label
+                          :A v11
+                          :P (v13 / label~e.12)
+                          :A (v14 / label
+                                  :R (v15 / label~e.13)
+                                  :E (v16 / label~e.14)
+                                  :C (v17 / label~e.15))))
+           :A (v7 / label)
+           :A (v8 / label~e.6)))

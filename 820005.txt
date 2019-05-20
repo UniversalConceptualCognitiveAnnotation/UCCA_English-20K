@@ -1,0 +1,14 @@
+# ::id 820005
+# ::tok And yet , what a fine , gallant lad !
+# ::alignments 0-1.1 1-1.1 4-1.2.4.1 5-1.2.4.2 7-1.2.4.3 8-1.2.4.4
+# ::format ucca
+(v1 / label
+    :L (v2 / label~e.0,1)
+    :H (v3 / label
+           :A (v4 / label)
+           :S (v5 / label)
+           :A (v6 / label
+                  :E (v7 / label~e.4)
+                  :E (v8 / label~e.5)
+                  :E (v9 / label~e.7)
+                  :C (v10 / label~e.8))))

@@ -1,0 +1,16 @@
+# ::id 827004
+# ::tok We don ’t know where it will take us !
+# ::alignments 0-1.1.1 2-1.1.3 3-1.1.2.2 4-1.1.4.4 5-1.1.4.5 7-1.1.4.1.2 8-1.1.4.2
+# ::format ucca
+(v1 / label
+    :H (v2 / label
+           :A (v3 / label~e.0)
+           :P (v4 / label
+                  :C (v7 / label~e.3))
+           :D (v5 / label~e.2)
+           :A (v6 / label
+                  :P (v8 / label
+                         :C (v12 / label~e.7))
+                  :A (v9 / label~e.8)
+                  :A (v10 / label~e.4)
+                  :A (v11 / label~e.5))))

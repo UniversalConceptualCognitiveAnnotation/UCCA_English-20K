@@ -1,0 +1,16 @@
+# ::id 842001
+# ::tok Steam rushed whistling into the gaping valves .
+# ::alignments 0-1.1.1 1-1.1.2 2-1.2.2 3-1.2.3.2 4-1.2.3.3 5-1.2.3.4 6-1.2.3.5
+# ::format ucca
+(v1 / label
+    :H (v2 / label
+           :A (v4 / label~e.0)
+           :P (v5 / label~e.1))
+    :H (v3 / label
+           :A v4
+           :P (v6 / label~e.2)
+           :A (v7 / label
+                  :R (v8 / label~e.3)
+                  :E (v9 / label~e.4)
+                  :E (v10 / label~e.5)
+                  :C (v11 / label~e.6))))

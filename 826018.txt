@@ -1,0 +1,15 @@
+# ::id 826018
+# ::tok ” “ Whatever detour master wishes .
+# ::alignments 2-1.1.3.5 3-1.1.3.1 4-1.1.3.2.2 5-1.1.3.2.3
+# ::format ucca
+(v1 / label
+    :H (v2 / label
+           :A (v3 / label)
+           :P (v4 / label)
+           :A (v5 / label
+                  :C (v6 / label~e.3)
+                  :E (v7 / label
+                         :A v6
+                         :A (v9 / label~e.4)
+                         :P (v10 / label~e.5))
+                  :E (v8 / label~e.2))))
