@@ -1,6 +1,6 @@
 # format = ucca
 # sent_id = 899000
-# text = " Even so , Ned , people mention vessels that narwhale tusks have run clean through .
+# text = " Even so , Ned , people mention vessels that narwhale tusks have run clean through . "
 1	"	_	Punctuation	Punctuation	_	8	U	8:U	_
 2	Even	_	Word	Word	_	8	L	8:L	_
 3	so	_	Word	Word	_	2	Terminal	2:Terminal	_
@@ -18,4 +18,5 @@
 15	clean	_	Word	Word	_	14	D	14:D	_
 16	through	_	Word	Word	_	14	Terminal	14:Terminal	_
 17	.	_	Punctuation	Punctuation	_	14	U	14:U	_
+18	"	_	Punctuation	Punctuation	_	14	U	14:U	_
 

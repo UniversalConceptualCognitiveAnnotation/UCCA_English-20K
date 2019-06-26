@@ -1,6 +1,6 @@
 # format = ucca
 # sent_id = 900000
-# text = " So , Mr . Naturalist , " Ned Land continued in a bantering tone , " you 'll just keep on believing in the existence of some enormous cetacean .
+# text = " So , Mr . Naturalist , " Ned Land continued in a bantering tone , " you 'll just keep on believing in the existence of some enormous cetacean . . . ? "
 1	"	_	Punctuation	Punctuation	_	23	U	23:U	_
 2	So	_	Word	Word	_	23	D	23:D	_
 3	,	_	Punctuation	Punctuation	_	23	U	23:U	_
@@ -32,4 +32,8 @@
 29	enormous	_	Word	Word	_	30	E	30:E	_
 30	cetacean	_	Word	Word	_	26	A	26:A	_
 31	.	_	Punctuation	Punctuation	_	30	U	30:U	_
+32	.	_	Punctuation	Punctuation	_	30	U	30:U	_
+33	.	_	Punctuation	Punctuation	_	30	U	30:U	_
+34	?	_	Punctuation	Punctuation	_	30	U	30:U	_
+35	"	_	Punctuation	Punctuation	_	30	U	30:U	_
 

@@ -1,10 +1,9 @@
 # format = ucca
 # sent_id = 831001
-# text = , turned into Katrin St .
-1	,	_	Punctuation	Punctuation	_	2	U	2:U	_
-2	turned	_	Word	Word	_	0	H	0:H	_
-3	into	_	Word	Word	_	4	R	4:R	_
-4	Katrin	_	Word	Word	_	2	A	2:A	_
-5	St	_	Word	Word	_	4	Terminal	4:Terminal	_
-6	.	_	Punctuation	Punctuation	_	4	U	4:U	_
+# text = turned into Katrin St .
+1	turned	_	Word	Word	_	0	H	0:H	_
+2	into	_	Word	Word	_	3	R	3:R	_
+3	Katrin	_	Word	Word	_	1	A	1:A	_
+4	St	_	Word	Word	_	3	Terminal	3:Terminal	_
+5	.	_	Punctuation	Punctuation	_	3	U	3:U	_
 

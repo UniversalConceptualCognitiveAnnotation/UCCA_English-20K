@@ -1,6 +1,6 @@
 # format = ucca
 # sent_id = 831000
-# text = For a fare of twenty francs , the vehicle went down Broadway to Union Square , took Fourth Ave . to its junction with Bowery St .
+# text = For a fare of twenty francs , the vehicle went down Broadway to Union Square , took Fourth Ave . to its junction with Bowery St . ,
 1	For	_	Word	Word	_	3	R	3:R	_
 2	a	_	Word	Word	_	3	E	3:E	_
 3	fare	_	Word	Word	_	10	A	10:A	_
@@ -28,4 +28,5 @@
 25	Bowery	_	Word	Word	_	23	E	23:E	_
 26	St	_	Word	Word	_	25	Terminal	25:Terminal	_
 27	.	_	Punctuation	Punctuation	_	25	U	25:U	_
+28	,	_	Punctuation	Punctuation	_	25	U	25:U	_
 

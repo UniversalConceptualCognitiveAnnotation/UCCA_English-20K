@@ -1,8 +1,8 @@
 # format = ucca
 # sent_id = 907007
-# text = " Go on !
-1	"	_	Punctuation	Punctuation	_	2	U	2:U	_
-2	Go	_	Word	Word	_	0	H	0:H	_
-3	on	_	Word	Word	_	2	Terminal	2:Terminal	_
-4	!	_	Punctuation	Punctuation	_	2	U	2:U	_
+# text = Go on ! "
+1	Go	_	Word	Word	_	0	H	0:H	_
+2	on	_	Word	Word	_	1	Terminal	1:Terminal	_
+3	!	_	Punctuation	Punctuation	_	1	U	1:U	_
+4	"	_	Punctuation	Punctuation	_	1	U	1:U	_
 

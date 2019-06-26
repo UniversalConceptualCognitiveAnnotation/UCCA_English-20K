@@ -1,6 +1,6 @@
 # format = ucca
 # sent_id = 982002
-# text = Commander Farragut felt , and with good reason , that it was best to stay in deep waters and keep his distance from continents or islands , whose neighborhoods the animal always seemed to avoid - " No doubt , " our bosun said , " because there is n't enough water for him !
+# text = Commander Farragut felt , and with good reason , that it was best to stay in deep waters and keep his distance from continents or islands , whose neighborhoods the animal always seemed to avoid - " No doubt , " our bosun said , " because there is n't enough water for him ! "
 1	Commander	_	Word	Word	_	2	E	2:E	_
 2	Farragut	_	Word	Word	_	3	A	3:A	_
 3	felt	_	Word	Word	_	0	H	0:H	_
@@ -56,4 +56,5 @@
 53	for	_	Word	Word	_	54	R	54:R	_
 54	him	_	Word	Word	_	51	A	51:A	_
 55	!	_	Punctuation	Punctuation	_	54	U	54:U	_
+56	"	_	Punctuation	Punctuation	_	54	U	54:U	_
 

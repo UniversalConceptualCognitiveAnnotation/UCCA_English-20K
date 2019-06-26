@@ -1,6 +1,6 @@
 # format = ucca
 # sent_id = 907000
-# text = " They 'd need to be manufactured , " Ned Land replied , " from sheet - iron plates eight inches thick , like ironclad frigates .
+# text = " They 'd need to be manufactured , " Ned Land replied , " from sheet - iron plates eight inches thick , like ironclad frigates . "
 1	"	_	Punctuation	Punctuation	_	7	U	7:U	_
 2	They	_	Word	Word	_	7	A	7:A	_
 3	'd	_	Word	Word	_	7	D	7:D	_
@@ -28,4 +28,5 @@
 25	ironclad	_	Word	Word	_	26	E	26:E	_
 26	frigates	_	Word	Word	_	7	A	7:A	_
 27	.	_	Punctuation	Punctuation	_	26	U	26:U	_
+28	"	_	Punctuation	Punctuation	_	26	U	26:U	_
 

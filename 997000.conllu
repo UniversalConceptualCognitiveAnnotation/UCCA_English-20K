@@ -1,6 +1,6 @@
 # format = ucca
 # sent_id = 997000
-# text = " You 're right , Conseil , it turned out to be a foolish business after all , and we jumped into it too hastily . What a waste of time , what a futile expense of emotion ! Six months ago we could have been back in France- " " In master 's little apartment , " Conseil answered . " In master 's museum ! And by now I would have classified master 's fossils . And master 's babirusa would be ensconced in its cage at the zoo in the Botanical Gardens , and it would have attracted every curiosity seeker in town !
+# text = " You 're right , Conseil , it turned out to be a foolish business after all , and we jumped into it too hastily . What a waste of time , what a futile expense of emotion ! Six months ago we could have been back in France- " " In master 's little apartment , " Conseil answered . " In master 's museum ! And by now I would have classified master 's fossils . And master 's babirusa would be ensconced in its cage at the zoo in the Botanical Gardens , and it would have attracted every curiosity seeker in town ! "
 1	"	_	Punctuation	Punctuation	_	4	U	4:U	_
 2	You	_	Word	Word	_	4	A	4:A	_
 3	're	_	Word	Word	_	4	F	4:F	_
@@ -108,4 +108,5 @@
 105	in	_	Word	Word	_	106	R	106:R	_
 106	town	_	Word	Word	_	101	A	101:A	_
 107	!	_	Punctuation	Punctuation	_	106	U	106:U	_
+108	"	_	Punctuation	Punctuation	_	106	U	106:U	_
 
