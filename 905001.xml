@@ -7,20 +7,20 @@
       <attributes paragraph="1" paragraph_position="1" text="&quot;" />
       <extra orig_paragraph="1" />
     </node>
-    <node ID="0.2" type="Punctuation">
-      <attributes paragraph="1" paragraph_position="2" text="&quot;" />
+    <node ID="0.2" type="Word">
+      <attributes paragraph="1" paragraph_position="2" text="About" />
       <extra orig_paragraph="1" />
     </node>
     <node ID="0.3" type="Word">
-      <attributes paragraph="1" paragraph_position="3" text="About" />
+      <attributes paragraph="1" paragraph_position="3" text="17,000" />
       <extra orig_paragraph="1" />
     </node>
-    <node ID="0.4" type="Word">
-      <attributes paragraph="1" paragraph_position="4" text="17,000" />
+    <node ID="0.4" type="Punctuation">
+      <attributes paragraph="1" paragraph_position="4" text="." />
       <extra orig_paragraph="1" />
     </node>
     <node ID="0.5" type="Punctuation">
-      <attributes paragraph="1" paragraph_position="5" text="." />
+      <attributes paragraph="1" paragraph_position="5" text="&quot;" />
       <extra orig_paragraph="1" />
     </node>
   </layer>
@@ -93,14 +93,14 @@
     </node>
     <node ID="1.11" type="FN">
       <attributes />
-      <edge toID="0.3" type="Terminal">
+      <edge toID="0.2" type="Terminal">
         <attributes />
         <category tag="Terminal" />
       </edge>
     </node>
     <node ID="1.12" type="FN">
       <attributes />
-      <edge toID="0.4" type="Terminal">
+      <edge toID="0.3" type="Terminal">
         <attributes />
         <category tag="Terminal" />
       </edge>
@@ -114,7 +114,7 @@
     </node>
     <node ID="1.14" type="PNCT">
       <attributes />
-      <edge toID="0.2" type="Terminal">
+      <edge toID="0.4" type="Terminal">
         <attributes />
         <category tag="Terminal" />
       </edge>
