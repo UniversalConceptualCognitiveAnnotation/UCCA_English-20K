@@ -1,15 +1,15 @@
 # ::id 826015
-# ::tok " " As master thinks best , " Conseil replied placidly .
-# ::alignments 3-1.1.6.2 4-1.1.6.3 5-1.1.6.4.2 8-1.1.7 9-1.1.8 10-1.1.9
+# ::tok " As master thinks best , " Conseil replied placidly .
+# ::alignments 2-1.1.5.2 3-1.1.5.3 4-1.1.5.4.2 7-1.1.6 8-1.1.7 9-1.1.8
 # ::format ucca
 (v1 / label
     :H (v2 / label
            :A (v3 / label
-                  :G (v7 / label~e.3)
-                  :P (v8 / label~e.4)
+                  :G (v7 / label~e.2)
+                  :P (v8 / label~e.3)
                   :A (v9 / label
                          :A (v10 / label)
-                         :S (v11 / label~e.5)))
-           :A (v4 / label~e.8)
-           :P (v5 / label~e.9)
-           :D (v6 / label~e.10)))
+                         :S (v11 / label~e.4)))
+           :A (v4 / label~e.7)
+           :P (v5 / label~e.8)
+           :D (v6 / label~e.9)))

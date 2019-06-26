@@ -1,15 +1,15 @@
 # ::id 841001
-# ::tok " Aye , sir , " the engineer replied .
-# ::alignments 1-1.1.5.3 3-1.1.5.4 6-1.1.6.1 7-1.1.6.2 8-1.1.7
+# ::tok Aye , sir , " the engineer replied . "
+# ::alignments 0-1.1.5.3 2-1.1.5.4 5-1.1.6.1 6-1.1.6.2 7-1.1.7
 # ::format ucca
 (v1 / label
     :H (v2 / label
            :A (v3 / label
                   :A (v6 / label)
                   :S (v7 / label)
-                  :D (v8 / label~e.1)
-                  :G (v9 / label~e.3))
+                  :D (v8 / label~e.0)
+                  :G (v9 / label~e.2))
            :A (v4 / label
-                  :E (v10 / label~e.6)
-                  :C (v11 / label~e.7))
-           :P (v5 / label~e.8)))
+                  :E (v10 / label~e.5)
+                  :C (v11 / label~e.6))
+           :P (v5 / label~e.7)))
