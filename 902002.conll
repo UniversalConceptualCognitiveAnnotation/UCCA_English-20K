@@ -1,23 +1,22 @@
 # format = ucca
 # sent_id = 902002
-1	"	_	Punctuation	Punctuation	_	6	U	_	_
-2	Because	_	Word	Word	_	6	L	_	_
-3	it	_	Word	Word	_	6	F	_	_
-4	takes	_	Word	Word	_	6	D	_	_
-5	incalculable	_	Word	Word	_	6	D	_	_
-6	strength	_	Word	Word	_	0	H	_	_
-7	just	_	Word	Word	_	9	D	_	_
-7	just	_	Word	Word	_	15	D*	_	_
-8	to	_	Word	Word	_	9	F	_	_
-9	live	_	Word	Word	_	6	A	_	_
-10	in	_	Word	Word	_	13	R	_	_
-11	those	_	Word	Word	_	13	E	_	_
-12	deep	_	Word	Word	_	13	E	_	_
-13	strata	_	Word	Word	_	9	A	_	_
-14	and	_	Word	Word	_	9	L	_	_
-15	withstand	_	Word	Word	_	9	H	_	_
-16	their	_	Word	Word	_	17	E	_	_
-17	pressure	_	Word	Word	_	15	A	_	_
-18	.	_	Punctuation	Punctuation	_	17	U	_	_
-19	"	_	Punctuation	Punctuation	_	17	U	_	_
+1	Because	_	Word	Word	_	5	L	_	_
+2	it	_	Word	Word	_	5	F	_	_
+3	takes	_	Word	Word	_	5	D	_	_
+4	incalculable	_	Word	Word	_	5	D	_	_
+5	strength	_	Word	Word	_	0	H	_	_
+6	just	_	Word	Word	_	8	D	_	_
+6	just	_	Word	Word	_	14	D*	_	_
+7	to	_	Word	Word	_	8	F	_	_
+8	live	_	Word	Word	_	5	A	_	_
+9	in	_	Word	Word	_	12	R	_	_
+10	those	_	Word	Word	_	12	E	_	_
+11	deep	_	Word	Word	_	12	E	_	_
+12	strata	_	Word	Word	_	8	A	_	_
+13	and	_	Word	Word	_	8	L	_	_
+14	withstand	_	Word	Word	_	8	H	_	_
+15	their	_	Word	Word	_	16	E	_	_
+16	pressure	_	Word	Word	_	14	A	_	_
+17	.	_	Punctuation	Punctuation	_	16	U	_	_
+18	"	_	Punctuation	Punctuation	_	16	U	_	_
 

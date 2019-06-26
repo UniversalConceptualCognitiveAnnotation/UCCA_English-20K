@@ -111,4 +111,5 @@
 105	in	_	Word	Word	_	106	R	_	_
 106	town	_	Word	Word	_	101	A	_	_
 107	!	_	Punctuation	Punctuation	_	106	U	_	_
+108	"	_	Punctuation	Punctuation	_	106	U	_	_
 

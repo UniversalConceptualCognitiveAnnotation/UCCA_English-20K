@@ -57,4 +57,5 @@
 55	all	_	Word	Word	_	56	E	_	_
 56	comparison	_	Word	Word	_	54	A	_	_
 57	.	_	Punctuation	Punctuation	_	56	U	_	_
+58	"	_	Punctuation	Punctuation	_	56	U	_	_
 
