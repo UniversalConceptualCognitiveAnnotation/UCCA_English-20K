@@ -1,20 +1,20 @@
 #BOS 826009
 "	Punctuation	--	Terminal	500
-"	Punctuation	--	Terminal	501
-What	Word	--	Terminal	502
-about	Word	--	Terminal	502
-master	Word	--	Terminal	503
-'s	Word	--	Terminal	504
-live	Word	--	Terminal	505
-babirusa	Word	--	Terminal	506
-?	Punctuation	--	Terminal	507
+What	Word	--	Terminal	501
+about	Word	--	Terminal	501
+master	Word	--	Terminal	502
+'s	Word	--	Terminal	503
+live	Word	--	Terminal	504
+babirusa	Word	--	Terminal	505
+?	Punctuation	--	Terminal	506
+"	Punctuation	--	Terminal	507
 #500	PNCT	--	U	511
-#501	PNCT	--	U	511
-#502	FN	--	S	511
-#503	FN	--	C	508
-#504	FN	--	R	508
-#505	FN	--	S	509
-#506	FN	--	C	510	A*	509
+#501	FN	--	S	511
+#502	FN	--	C	508
+#503	FN	--	R	508
+#504	FN	--	S	509
+#505	FN	--	C	510	A*	509
+#506	PNCT	--	U	510
 #507	PNCT	--	U	510
 #508	FN	--	E	510
 #509	FN	--	E	510

@@ -1,54 +1,52 @@
 #BOS 902002
-"	Punctuation	--	Terminal	500
-Because	Word	--	Terminal	501
-it	Word	--	Terminal	502
-takes	Word	--	Terminal	503
-incalculable	Word	--	Terminal	504
-strength	Word	--	Terminal	505
-just	Word	--	Terminal	506
-to	Word	--	Terminal	507
-live	Word	--	Terminal	508
-in	Word	--	Terminal	509
-those	Word	--	Terminal	510
-deep	Word	--	Terminal	511
-strata	Word	--	Terminal	512
-and	Word	--	Terminal	513
-withstand	Word	--	Terminal	514
-their	Word	--	Terminal	515
-pressure	Word	--	Terminal	516
-.	Punctuation	--	Terminal	517
-"	Punctuation	--	Terminal	518
-#500	PNCT	--	U	528
-#501	FN	--	L	528
-#502	FN	--	F	527
-#503	FN	--	D	527
-#504	FN	--	D	527
-#505	FN	--	S	527
-#506	FN	--	D	523	D*	524
-#507	FN	--	F	523
-#508	FN	--	P	523
-#509	FN	--	R	519
-#510	FN	--	E	519
-#511	FN	--	E	519
-#512	FN	--	C	519
-#513	FN	--	L	525	LR	526
-#514	FN	--	P	524
-#515	FN	--	E	520
-#516	FN	--	C	520
-#517	PNCT	--	U	520
-#518	PNCT	--	U	520
+Because	Word	--	Terminal	500
+it	Word	--	Terminal	501
+takes	Word	--	Terminal	502
+incalculable	Word	--	Terminal	503
+strength	Word	--	Terminal	504
+just	Word	--	Terminal	505
+to	Word	--	Terminal	506
+live	Word	--	Terminal	507
+in	Word	--	Terminal	508
+those	Word	--	Terminal	509
+deep	Word	--	Terminal	510
+strata	Word	--	Terminal	511
+and	Word	--	Terminal	512
+withstand	Word	--	Terminal	513
+their	Word	--	Terminal	514
+pressure	Word	--	Terminal	515
+.	Punctuation	--	Terminal	516
+"	Punctuation	--	Terminal	517
+#500	FN	--	L	527
+#501	FN	--	F	526
+#502	FN	--	D	526
+#503	FN	--	D	526
+#504	FN	--	S	526
+#505	FN	--	D	522	D*	523
+#506	FN	--	F	522
+#507	FN	--	P	522
+#508	FN	--	R	518
+#509	FN	--	E	518
+#510	FN	--	E	518
+#511	FN	--	C	518
+#512	FN	--	L	524	LR	525
+#513	FN	--	P	523
+#514	FN	--	E	519
+#515	FN	--	C	519
+#516	PNCT	--	U	519
+#517	PNCT	--	U	519
+#518	FN	--	A	522
 #519	FN	--	A	523
-#520	FN	--	A	524
+#520	FN	--	A	522
 #521	FN	--	A	523
-#522	FN	--	A	524
-#523	FN	--	H	525	LA	526
-#524	FN	--	H	525	LA	526
-#525	FN	--	A	527
-#526	LKG	--	--	0
-#527	FN	--	H	528
-#528	FN	--	A	531
-#529	FN	--	A	531
-#530	FN	--	P	531
-#531	FN	--	H	532
-#532	FN	--	--	0
+#522	FN	--	H	524	LA	525
+#523	FN	--	H	524	LA	525
+#524	FN	--	A	526
+#525	LKG	--	--	0
+#526	FN	--	H	527
+#527	FN	--	A	530
+#528	FN	--	A	530
+#529	FN	--	P	530
+#530	FN	--	H	531
+#531	FN	--	--	0
 #EOS 902002
