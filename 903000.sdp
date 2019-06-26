@@ -12,4 +12,5 @@
 11	a	_	Word	-	-	_	_	_	_	Terminal
 12	wink	_	Word	-	-	_	_	_	_	Terminal
 13	.	_	Punctuation	-	-	_	_	_	_	U
+14	"	_	Punctuation	-	-	_	_	_	_	U
 

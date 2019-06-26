@@ -30,4 +30,8 @@
 29	enormous	_	Word	-	-	_	_	_	_	_	_	_	_	E
 30	cetacean	_	Word	-	+	_	_	_	_	_	_	_	A	_
 31	.	_	Punctuation	-	-	_	_	_	_	_	_	_	_	U
+32	.	_	Punctuation	-	-	_	_	_	_	_	_	_	_	U
+33	.	_	Punctuation	-	-	_	_	_	_	_	_	_	_	U
+34	?	_	Punctuation	-	-	_	_	_	_	_	_	_	_	U
+35	"	_	Punctuation	-	-	_	_	_	_	_	_	_	_	U
 

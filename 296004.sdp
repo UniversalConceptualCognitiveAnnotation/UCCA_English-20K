@@ -21,4 +21,5 @@
 20	no	_	Word	-	-	_	_	_	_	_	_	D
 21	comment	_	Word	-	+	_	_	_	_	_	A	_
 22	.	_	Punctuation	-	-	_	_	_	_	_	_	U
+23	"	_	Punctuation	-	-	_	_	_	_	_	_	U
 
