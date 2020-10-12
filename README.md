@@ -10,10 +10,22 @@ This corpus contains 492 sentences, which correspond to 12574 tokens.
 
 
 The users of this dataset are kindly requested to cite [the following publication](http://www.aclweb.org/anthology/W15-3502):
-
-    Conceptual Annotations Preserve Structure Across Translations: A French-English Case Study.
-    Elior Sulem, Omri Abend and Ari Rappoport,
-    ACL 2015 Workshop on Semantics-Driven Statistical Machine Translation (S2MT)
+```
+@inproceedings{sulem-etal-2015-conceptual,
+    title = "Conceptual Annotations Preserve Structure Across Translations: A {F}rench-{E}nglish Case Study",
+    author = "Sulem, Elior  and
+      Abend, Omri  and
+      Rappoport, Ari",
+    booktitle = "Proc. of S2MT",
+    month = jul,
+    year = "2015",
+    address = "Beijing, China",
+    publisher = "Association for Computational Linguistics",
+    url = "https://www.aclweb.org/anthology/W15-3502",
+    doi = "10.18653/v1/W15-3502",
+    pages = "11--22",
+}
+```
 
 
 Corpus:
