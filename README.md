@@ -1,6 +1,6 @@
 UCCA-Annotated French-English Parallel Corpus
 =============================================
-Version 1.2.2 (September 23, 2018)
+Version 2.0 (February 8, 2021)
 ----------------------------------
 
 This bundle and [its French counterpart](https://github.com/UniversalConceptualCognitiveAnnotation/UCCA_French-20K)
