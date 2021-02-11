@@ -1,0 +1,13 @@
+# ::id 2927002
+# ::tok and halted at Pier 34 .
+# ::alignments 0-1.1 1-1.2.2 2-1.2.3.3 3-1.2.3.4 4-1.2.3.1
+# ::format ucca
+(v1 / label
+    :L (v2 / label~e.0)
+    :H (v3 / label
+           :A (v4 / label)
+           :P (v5 / label~e.1)
+           :A (v6 / label
+                  :E (v7 / label~e.4)
+                  :R (v8 / label~e.2)
+                  :C (v9 / label~e.3))))

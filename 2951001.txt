@@ -1,0 +1,29 @@
+# ::id 2951001
+# ::tok With his eye and his throwing arm , he was worth the whole crew all by himself .
+# ::alignments 0-1.1.1.1 1-1.1.1.2.1.1 2-1.1.1.2.1.2 3-1.1.1.2.2 4-1.1.1.2.3.1 5-1.1.1.2.3.2.2 6-1.1.1.2.3.3 8-1.1.2 10-1.1.4 12-1.1.5.2 13-1.1.5.3 14-1.1.6.1 15-1.1.6.2 16-1.1.6.3
+# ::format ucca
+(v1 / label
+    :H (v2 / label
+           :A (v3 / label
+                  :R (v8 / label~e.0)
+                  :C (v9 / label
+                         :C (v15 / label
+                                 :E (v18 / label~e.1)
+                                 :C (v19 / label~e.2))
+                         :N (v16 / label~e.3)
+                         :C (v17 / label
+                                 :E (v20 / label~e.4)
+                                 :E (v21 / label
+                                         :A (v22 / label~e.6)
+                                         :P (v23 / label~e.5)
+                                         :A (v4 / label~e.8))
+                                 :C v22)))
+           :A v4
+           :S (v5 / label~e.10)
+           :A (v6 / label
+                  :E (v10 / label~e.12)
+                  :C (v11 / label~e.13))
+           :D (v7 / label
+                  :E (v12 / label~e.14)
+                  :R (v13 / label~e.15)
+                  :C (v14 / label~e.16))))

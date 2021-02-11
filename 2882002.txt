@@ -1,0 +1,18 @@
+# ::id 2882002
+# ::tok Very cordially yours , J . B . HOBSON , Secretary of the Navy .
+# ::alignments 0-1.1.1.1 1-1.1.1.2 2-1.1.2 4-1.2.2 6-1.2.2 8-1.2.2 10-1.2.3.2 11-1.2.3.3.1 13-1.2.3.3.3
+# ::format ucca
+(v1 / label
+    :H (v2 / label
+           :E (v4 / label
+                  :E (v8 / label~e.0)
+                  :C (v9 / label~e.1))
+           :C (v5 / label~e.2))
+    :H (v3 / label
+           :C (v6 / label~e.4,6,8)
+           :E (v7 / label
+                  :A v6
+                  :P (v10 / label~e.10)
+                  :A (v11 / label
+                          :R (v12 / label~e.11)
+                          :C (v13 / label~e.13)))))

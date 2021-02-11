@@ -1,0 +1,79 @@
+# ::id 2972002
+# ::tok To answer them called for dissecting this unknown monster ; to dissect it called for catching it ; to catch it called for harpooning it - which was Ned Land 's business ; to harpoon it called for sighting it - which was the crew 's business ; and to sight it called for encountering it - which was a chancy business .
+# ::alignments 0-1.1 1-1.2.2 2-1.2.3 3-1.3.2 4-1.3.2 5-1.3.3 6-1.3.4.1 7-1.3.4.2.2 8-1.3.4.3 10-1.4 11-1.5.2 12-1.5.3 13-1.6.2 14-1.6.2 15-1.6.3 16-1.6.4 18-1.7 19-1.8.2 20-1.8.3 21-1.9.2 22-1.9.2 23-1.9.3 24-1.9.4 26-1.10 28-1.11.2 29-1.11.2 30-1.11.3 31-1.11.4 33-1.12 34-1.13.2 35-1.13.3 36-1.14.2 37-1.14.2 38-1.14.3 39-1.14.4 41-1.15 44-1.16.2.2 45-1.16.3 46-1.16.4 48-1.17 49-1.18 50-1.19.2 51-1.19.3 52-1.20.2 53-1.20.2 54-1.20.3 55-1.20.4 57-1.21 60-1.22.3 61-1.22.2.2
+# ::format ucca
+(v1 / label
+    :L (v2 / label~e.0)
+    :H (v3 / label
+           :A (v24 / label)
+           :P (v25 / label~e.1)
+           :A (v26 / label~e.2))
+    :H (v4 / label
+           :A (v27 / label)
+           :D (v28 / label~e.3,4)
+           :P (v29 / label~e.5)
+           :A (v30 / label
+                   :E (v67 / label~e.6)
+                   :E (v68 / label
+                           :A (v69 / label~e.8)
+                           :S (v72 / label~e.7))
+                   :C v69))
+    :L (v5 / label~e.10)
+    :H (v6 / label
+           :A (v31 / label)
+           :P (v32 / label~e.11)
+           :A (v33 / label~e.12))
+    :H (v7 / label
+           :A (v34 / label)
+           :D (v35 / label~e.13,14)
+           :P (v36 / label~e.15)
+           :A (v37 / label~e.16))
+    :L (v8 / label~e.18)
+    :H (v9 / label
+           :A (v38 / label)
+           :P (v39 / label~e.19)
+           :A (v40 / label~e.20))
+    :H (v10 / label
+            :A (v41 / label)
+            :D (v42 / label~e.21,22)
+            :P (v43 / label~e.23)
+            :A (v44 / label~e.24))
+    :L (v11 / label~e.26)
+    :H (v12 / label
+            :A (v45 / label~e.28,29)
+            :R (v46 / label~e.30)
+            :S (v47 / label~e.31)
+            :A v43)
+    :L (v13 / label~e.33)
+    :H (v14 / label
+            :A (v48 / label)
+            :P (v49 / label~e.34)
+            :A (v50 / label~e.35))
+    :H (v15 / label
+            :A (v51 / label)
+            :D (v52 / label~e.36,37)
+            :P (v53 / label~e.38)
+            :A (v54 / label~e.39))
+    :L (v16 / label~e.41)
+    :H (v17 / label
+            :A (v55 / label
+                    :A (v70 / label~e.44))
+            :R (v56 / label~e.45)
+            :S (v57 / label~e.46)
+            :A v53)
+    :L (v18 / label~e.48)
+    :L (v19 / label~e.49)
+    :H (v20 / label
+            :A (v58 / label)
+            :P (v59 / label~e.50)
+            :A (v60 / label~e.51))
+    :H (v21 / label
+            :A (v61 / label)
+            :D (v62 / label~e.52,53)
+            :P (v63 / label~e.54)
+            :A (v64 / label~e.55))
+    :L (v22 / label~e.57)
+    :H (v23 / label
+            :A (v65 / label
+                    :C (v71 / label~e.61))
+            :S (v66 / label~e.60)))

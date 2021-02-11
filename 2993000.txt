@@ -1,0 +1,14 @@
+# ::id 2993000
+# ::tok A request to this effect was presented to the commander .
+# ::alignments 1-1.1.2.2 2-1.1.2.3 3-1.1.2.3 4-1.1.2.3 6-1.1.4 7-1.1.5.4 9-1.1.5.2
+# ::format ucca
+(v1 / label
+    :H (v2 / label
+           :A (v3 / label)
+           :A (v4 / label
+                  :C (v7 / label~e.1)
+                  :E (v8 / label~e.2,3,4))
+           :P (v5 / label~e.6)
+           :A (v6 / label
+                  :A (v9 / label~e.9)
+                  :R (v10 / label~e.7))))

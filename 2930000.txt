@@ -1,0 +1,32 @@
+# ::id 2930000
+# ::tok I bowed , and letting the commander attend to getting under way , I was taken to the cabin that had been set aside for me .
+# ::alignments 0-1.1.1 1-1.1.2 3-1.2 4-1.3.1 6-1.3.2.2 7-1.3.3 8-1.3.3 9-1.3.4.2 10-1.3.4.2 11-1.3.4.2 13-1.4.5 15-1.4.2 16-1.4.3.1 18-1.4.3.3 19-1.4.3.4.2 22-1.4.3.4.5 23-1.4.3.4.5 24-1.4.3.4.6.1 25-1.4.3.4.6.2
+# ::format ucca
+(v1 / label
+    :H (v2 / label
+           :A (v6 / label~e.0)
+           :P (v7 / label~e.1))
+    :L (v3 / label~e.3)
+    :H (v4 / label
+           :D (v8 / label~e.4)
+           :A (v9 / label
+                  :A (v16 / label~e.6))
+           :P (v10 / label~e.7,8)
+           :A (v11 / label
+                   :A (v17 / label)
+                   :P (v18 / label~e.9,10,11))
+           :A v6)
+    :H (v5 / label
+           :P (v12 / label~e.15)
+           :A (v13 / label
+                   :R (v19 / label~e.16)
+                   :C (v20 / label~e.18)
+                   :E (v21 / label
+                           :A v20
+                           :R (v22 / label~e.19)
+                           :P (v23 / label~e.22,23)
+                           :A (v24 / label
+                                   :R (v25 / label~e.24)
+                                   :C (v26 / label~e.25))))
+           :A (v14 / label)
+           :A (v15 / label~e.13)))

@@ -1,0 +1,75 @@
+# ::id 2893002
+# ::tok During this memorable campaign , journalists making a profession of science battled with those making a profession of wit , spilling waves of ink and some of them even two or three drops of blood , since they went from sea serpents to the most offensive personal remarks .
+# ::alignments 0-1.1.1.1 1-1.1.1.2 2-1.1.1.3.2 3-1.1.1.4 5-1.1.4.4 8-1.1.2.2.2.3 9-1.1.2.2.3.1 10-1.1.2.2.3.2 11-1.1.3 12-1.1.4.1 13-1.1.4.2 16-1.1.4.3.1.3 17-1.1.4.3.2.1 18-1.1.4.3.2.2 20-1.2.1 21-1.2.2.1 22-1.2.2.2 23-1.2.2.3 24-1.3 25-1.4.1.1 26-1.4.1.2 27-1.4.1.3 28-1.4.2.1 29-1.4.2.2.1.1 30-1.4.2.2.1.2 31-1.4.2.2.1.3 32-1.4.2.2.2 33-1.4.2.3 34-1.4.2.4 36-1.5 37-1.6.1 38-1.6.2 39-1.6.3.1 40-1.6.3.2 41-1.6.3.3 42-1.6.4.1 44-1.6.4.3.2 45-1.6.4.3.3 46-1.6.4.4 47-1.6.4.5
+# ::format ucca
+(v1 / label
+    :H (v2 / label
+           :A (v8 / label
+                  :R (v21 / label~e.0)
+                  :E (v22 / label~e.1)
+                  :E (v23 / label
+                          :A (v24 / label~e.3)
+                          :S (v47 / label~e.2))
+                  :C v24)
+           :A (v9 / label
+                  :C (v14 / label
+                          :A (v29 / label~e.5))
+                  :E (v25 / label
+                          :A v14
+                          :P (v48 / label
+                                  :C (v56 / label~e.8))
+                          :A (v49 / label
+                                  :R (v57 / label~e.9)
+                                  :C (v58 / label~e.10))))
+           :P (v10 / label~e.11)
+           :A (v11 / label
+                   :R (v26 / label~e.12)
+                   :E (v27 / label~e.13)
+                   :E (v28 / label
+                           :P (v50 / label
+                                   :C (v59 / label~e.16))
+                           :A (v51 / label
+                                   :R (v60 / label~e.17)
+                                   :C (v61 / label~e.18))
+                           :A v14)
+                   :C v29))
+    :H (v3 / label
+           :P (v12 / label~e.20)
+           :A (v13 / label
+                   :Q (v30 / label~e.21)
+                   :R (v31 / label~e.22)
+                   :C (v32 / label~e.23))
+           :A v14)
+    :L (v4 / label~e.24)
+    :H (v5 / label
+           :A (v15 / label
+                   :Q (v33 / label~e.25)
+                   :R (v34 / label~e.26)
+                   :C (v35 / label~e.27))
+           :A (v16 / label
+                   :E (v36 / label~e.28)
+                   :Q (v37 / label
+                           :Q (v52 / label
+                                   :C (v62 / label~e.29)
+                                   :N (v63 / label~e.30)
+                                   :C (v64 / label~e.31))
+                           :C (v53 / label~e.32))
+                   :R (v38 / label~e.33)
+                   :C (v39 / label~e.34))
+           :P v12)
+    :L (v6 / label~e.36)
+    :H (v7 / label
+           :A (v17 / label~e.37)
+           :P (v18 / label~e.38)
+           :A (v19 / label
+                   :R (v40 / label~e.39)
+                   :E (v41 / label~e.40)
+                   :C (v42 / label~e.41))
+           :A (v20 / label
+                   :R (v43 / label~e.42)
+                   :E (v44 / label
+                           :A (v46 / label~e.47)
+                           :D (v54 / label~e.44)
+                           :P (v55 / label~e.45))
+                   :E (v45 / label~e.46)
+                   :C v46)))

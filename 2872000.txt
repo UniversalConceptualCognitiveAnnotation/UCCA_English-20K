@@ -1,0 +1,51 @@
+# ::id 2872000
+# ::tok " This inexplicable phenomenon is thus explained away - unless it 's something else entirely , which , despite everything that has been sighted , studied , explored and experienced , is still possible ! "
+# ::alignments 1-1.1.3.12.2.1 2-1.1.3.12.2.2.2 3-1.1.3.12.2.3 5-1.1.3.16 6-1.1.3.12.4.1 9-1.1.3.17 10-1.1.3.18.1 11-1.1.3.18.2 12-1.1.3.18.3.1 13-1.1.3.18.3.2.1 14-1.1.3.18.3.2.2 16-1.1.3.1.1 18-1.1.3.2 19-1.1.3.4.2 23-1.1.3.4.6 25-1.1.3.5.1 27-1.1.3.6.1 28-1.1.3.3 29-1.1.3.7.1 32-1.1.3.1.3 33-1.1.3.1.4
+# ::format ucca
+(v1 / label
+    :H (v2 / label
+           :A (v3 / label)
+           :P (v4 / label)
+           :A (v5 / label
+                  :H (v6 / label
+                         :A (v17 / label~e.16)
+                         :D (v18 / label~e.32)
+                         :S (v19 / label~e.33))
+                  :L (v7 / label~e.18)
+                  :L (v8 / label~e.28)
+                  :H (v9 / label
+                         :A (v20 / label)
+                         :A (v21 / label~e.19)
+                         :P (v22 / label~e.23))
+                  :H (v10 / label
+                          :P (v23 / label~e.25)
+                          :A v20
+                          :A v21)
+                  :H (v11 / label
+                          :P (v24 / label~e.27)
+                          :A v20
+                          :A v21)
+                  :H (v12 / label
+                          :P (v25 / label~e.29)
+                          :A v20
+                          :A v21)
+                  :H (v13 / label
+                          :A (v26 / label)
+                          :A (v27 / label
+                                  :E (v32 / label~e.1)
+                                  :E (v33 / label
+                                          :A (v34 / label~e.3)
+                                          :S (v38 / label~e.2))
+                                  :C v34)
+                          :P (v28 / label
+                                  :C (v35 / label~e.6)))
+                  :L (v14 / label~e.5)
+                  :L (v15 / label~e.9)
+                  :H (v16 / label
+                          :A (v29 / label~e.10)
+                          :S (v30 / label~e.11)
+                          :A (v31 / label
+                                  :C (v36 / label~e.12)
+                                  :E (v37 / label
+                                          :C (v39 / label~e.13)
+                                          :E (v40 / label~e.14)))))))

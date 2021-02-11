@@ -1,0 +1,21 @@
+# ::id 2971000
+# ::tok But this reply proved nothing , other than how bullheaded the harpooner could be .
+# ::alignments 0-1.1 1-1.2.2.1 2-1.2.2.2 3-1.2.3 4-1.2.4 6-1.2.5.1 7-1.2.5.2 8-1.2.5.3 9-1.2.5.4 10-1.2.5.5.1 11-1.2.5.5.2 12-1.2.5.6
+# ::format ucca
+(v1 / label
+    :L (v2 / label~e.0)
+    :H (v3 / label
+           :A (v4 / label
+                  :E (v8 / label~e.1)
+                  :C (v9 / label~e.2))
+           :P (v5 / label~e.3)
+           :D (v6 / label~e.4)
+           :A (v7 / label
+                  :R (v10 / label~e.6)
+                  :R (v11 / label~e.7)
+                  :D (v12 / label~e.8)
+                  :S (v13 / label~e.9)
+                  :A (v14 / label
+                          :E (v16 / label~e.10)
+                          :C (v17 / label~e.11))
+                  :D (v15 / label~e.12))))

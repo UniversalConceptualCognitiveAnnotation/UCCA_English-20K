@@ -1,0 +1,21 @@
+# ::id 3000000
+# ::tok " Come on , Conseil ! " I told him . " Here 's your last chance to pocket that $ 2,000.00 ! "
+# ::alignments 1-1.1.5.1 2-1.1.5.1 4-1.1.5.2 7-1.1.6 8-1.1.7 9-1.1.8 12-1.1.5.3 14-1.1.5.5 15-1.1.5.6 16-1.1.5.7 18-1.1.5.9 19-1.1.5.10.1 20-1.1.5.10.2 21-1.1.5.10.3
+# ::format ucca
+(v1 / label
+    :H (v2 / label
+           :A (v3 / label
+                  :G (v7 / label~e.1,2)
+                  :G (v8 / label~e.4)
+                  :A (v9 / label~e.12)
+                  :A (v10 / label~e.14)
+                  :D (v11 / label~e.15)
+                  :D (v12 / label~e.16)
+                  :P (v13 / label~e.18)
+                  :A (v14 / label
+                          :E (v15 / label~e.19)
+                          :C (v16 / label~e.20)
+                          :Q (v17 / label~e.21)))
+           :A (v4 / label~e.7)
+           :P (v5 / label~e.8)
+           :A (v6 / label~e.9)))

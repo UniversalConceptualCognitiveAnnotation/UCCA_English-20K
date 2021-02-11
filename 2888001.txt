@@ -1,0 +1,62 @@
+# ::id 2888001
+# ::tok Captain Baker at first thought he was in the presence of an unknown reef ; he was even about to fix its exact position when two waterspouts shot out of this inexplicable object and sprang hissing into the air some 150 feet .
+# ::alignments 0-1.1.1.1 1-1.1.1.2 2-1.1.2.1 3-1.1.2.2 4-1.1.3 5-1.1.4.1 7-1.1.4.3.1 9-1.1.4.3.3 10-1.1.4.4.1 12-1.1.4.4.3 13-1.1.4.4.4 15-1.2.1 17-1.2.3 18-1.2.4 20-1.2.6 21-1.2.7.1 22-1.2.7.2 23-1.2.7.3 24-1.3 25-1.4.1.1 26-1.6.4 27-1.4.2 28-1.4.3.1 29-1.4.3.2 30-1.4.3.3 31-1.4.3.4.2 32-1.4.3.5 33-1.5 34-1.6.1 35-1.7.1 36-1.6.2.1 38-1.6.2.3 39-1.6.3.1.1 40-1.6.3.1.2 41-1.6.3.2
+# ::format ucca
+(v1 / label
+    :H (v2 / label
+           :A (v9 / label
+                  :E (v26 / label~e.0)
+                  :C (v27 / label~e.1))
+           :D (v10 / label
+                   :R (v28 / label~e.2)
+                   :C (v29 / label~e.3))
+           :P (v11 / label~e.4)
+           :A (v12 / label
+                   :A (v30 / label~e.5)
+                   :S (v31 / label
+                           :R (v46 / label~e.7)
+                           :C (v47 / label~e.9))
+                   :A (v32 / label
+                           :R (v48 / label~e.10)
+                           :E (v49 / label~e.12)
+                           :C (v50 / label~e.13))))
+    :H (v3 / label
+           :A (v13 / label~e.15)
+           :D (v14 / label~e.17)
+           :D (v15 / label~e.18)
+           :P (v16 / label~e.20)
+           :A (v17 / label
+                   :A (v33 / label~e.21)
+                   :D (v34 / label~e.22)
+                   :S (v35 / label~e.23)))
+    :L (v4 / label~e.24)
+    :H (v5 / label
+           :A (v18 / label
+                   :Q (v36 / label~e.25)
+                   :C (v24 / label~e.26))
+           :P (v19 / label~e.27)
+           :A (v20 / label
+                   :R (v37 / label~e.28)
+                   :R (v38 / label~e.29)
+                   :E (v39 / label~e.30)
+                   :E (v40 / label
+                           :A (v41 / label~e.32)
+                           :P (v51 / label~e.31))
+                   :C v41))
+    :L (v6 / label~e.33)
+    :H (v7 / label
+           :P (v21 / label~e.34)
+           :A (v22 / label
+                   :R (v42 / label~e.36)
+                   :C (v43 / label~e.38))
+           :A (v23 / label
+                   :Q (v44 / label
+                           :E (v52 / label~e.39)
+                           :C (v53 / label~e.40))
+                   :C (v45 / label~e.41))
+           :A v24)
+    :H (v8 / label
+           :P (v25 / label~e.35)
+           :A v22
+           :A v23
+           :A v24))

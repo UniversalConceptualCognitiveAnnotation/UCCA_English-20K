@@ -1,0 +1,38 @@
+# ::id 2888000
+# ::tok In essence , on July 20 , 1866 , the steamer Governor Higginson , from the Calcutta & Burnach Steam Navigation Co . , encountered this moving mass five miles off the eastern shores of Australia .
+# ::alignments 0-1.1.1 1-1.1.2 3-1.2.5.1 4-1.2.5.2 5-1.2.5.3 7-1.2.5.4 10-1.2.6.1.2 11-1.2.6.2 12-1.2.6.2 14-1.2.6.3.1 16-1.2.6.3.3 17-1.2.6.3.3 18-1.2.6.3.3 19-1.2.6.3.3 20-1.2.6.3.3 21-1.2.6.3.3 24-1.2.7 25-1.2.8.1 26-1.2.8.2.2 27-1.2.8.3 28-1.2.1.1.1 29-1.2.1.1.2 30-1.2.1.2 32-1.2.1.4 33-1.2.1.5 34-1.2.1.6.1 35-1.2.1.6.2
+# ::format ucca
+(v1 / label
+    :L (v2 / label
+           :R (v4 / label~e.0)
+           :C (v5 / label~e.1))
+    :H (v3 / label
+           :A (v6 / label
+                  :Q (v11 / label
+                          :Q (v26 / label~e.28)
+                          :C (v27 / label~e.29))
+                  :R (v12 / label~e.30)
+                  :E (v13 / label~e.32)
+                  :C (v14 / label~e.33)
+                  :E (v15 / label
+                          :R (v28 / label~e.34)
+                          :C (v29 / label~e.35)))
+           :T (v7 / label
+                  :R (v16 / label~e.3)
+                  :C (v17 / label~e.4)
+                  :C (v18 / label~e.5)
+                  :C (v19 / label~e.7))
+           :A (v8 / label
+                  :E (v20 / label
+                          :C (v30 / label~e.10))
+                  :C (v21 / label~e.11,12)
+                  :E (v22 / label
+                          :R (v31 / label~e.14)
+                          :C (v32 / label~e.16,17,18,19,20,21)))
+           :P (v9 / label~e.24)
+           :A (v10 / label
+                   :E (v23 / label~e.25)
+                   :E (v24 / label
+                           :A (v25 / label~e.27)
+                           :P (v33 / label~e.26))
+                   :C v25)))

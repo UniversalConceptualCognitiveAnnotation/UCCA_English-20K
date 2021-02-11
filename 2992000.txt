@@ -1,0 +1,19 @@
+# ::id 2992000
+# ::tok But this futile search could n't drag on much longer .
+# ::alignments 0-1.1 1-1.2.6.1 2-1.2.7 3-1.2.6.2 4-1.2.8 5-1.2.1 6-1.2.2 7-1.2.2 8-1.2.3.1 9-1.2.3.2
+# ::format ucca
+(v1 / label
+    :L (v2 / label~e.0)
+    :H (v3 / label
+           :D (v4 / label~e.5)
+           :D (v5 / label~e.6,7)
+           :T (v6 / label
+                  :E (v12 / label~e.8)
+                  :C (v13 / label~e.9))
+           :A (v7 / label)
+           :A (v8 / label)
+           :P (v9 / label
+                  :E (v14 / label~e.1)
+                  :C (v15 / label~e.3))
+           :D (v10 / label~e.2)
+           :D (v11 / label~e.4)))

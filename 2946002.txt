@@ -1,0 +1,39 @@
+# ::id 2946002
+# ::tok The lone rebel among us was Conseil , who seemed utterly uninterested in the question exciting us and was out of step with the general enthusiasm on board .
+# ::alignments 1-1.1.2 2-1.1.1.2 3-1.1.3.1 4-1.1.3.2 6-1.1.5.2 8-1.1.5.3.1 9-1.1.5.3.2.1 10-1.1.5.3.2.2 11-1.1.5.3.2.3 12-1.1.5.3.2.4.1 14-1.1.5.3.2.4.3 15-1.1.5.3.2.4.4.2 16-1.1.5.3.2.4.4.3 17-1.1.5.3.3 19-1.1.5.3.4.2 20-1.1.5.3.4.2 21-1.1.5.3.4.2 22-1.1.5.3.4.3.1 24-1.1.5.3.4.3.3 25-1.1.5.3.4.3.4 26-1.1.5.3.4.3.5.1 27-1.1.5.3.4.3.5.2
+# ::format ucca
+(v1 / label
+    :H (v2 / label
+           :S (v3 / label
+                  :C (v7 / label~e.2))
+           :D (v4 / label~e.1)
+           :A (v5 / label
+                  :R (v8 / label~e.3)
+                  :C (v9 / label~e.4))
+           :A (v6 / label
+                  :C (v10 / label~e.6)
+                  :E (v11 / label
+                          :R (v12 / label~e.8)
+                          :H (v13 / label
+                                  :G (v16 / label~e.9)
+                                  :D (v17 / label~e.10)
+                                  :S (v18 / label~e.11)
+                                  :A (v19 / label
+                                          :R (v22 / label~e.12)
+                                          :C (v23 / label~e.14)
+                                          :E (v24 / label
+                                                  :A v23
+                                                  :P (v29 / label~e.15)
+                                                  :A (v30 / label~e.16)))
+                                  :A v10)
+                          :L (v14 / label~e.17)
+                          :H (v15 / label
+                                  :S (v20 / label~e.19,20,21)
+                                  :A (v21 / label
+                                          :R (v25 / label~e.22)
+                                          :A (v26 / label~e.24)
+                                          :P (v27 / label~e.25)
+                                          :A (v28 / label
+                                                  :R (v31 / label~e.26)
+                                                  :C (v32 / label~e.27)))
+                                  :A v10)))))

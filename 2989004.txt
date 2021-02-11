@@ -1,0 +1,46 @@
+# ::id 2989004
+# ::tok Nothing remotely resembling a gigantic narwhale , or an underwater islet , or a derelict shipwreck , or a runaway reef , or anything the least bit unearthly !
+# ::alignments 0-1.1.3.1 1-1.1.3.2.5 2-1.1.3.2.1 4-1.1.3.2.2.1.2.2 5-1.1.3.2.2.1.3 7-1.1.3.2.2.2 9-1.1.3.2.2.3.2 10-1.1.3.2.2.3.3 12-1.1.3.2.2.4 14-1.1.3.2.2.5.2.2 15-1.1.3.2.2.5.3 17-1.1.3.2.2.6 19-1.1.3.2.2.7.2.2 20-1.1.3.2.2.7.3 22-1.1.3.2.2.8 23-1.1.3.2.2.9.1 25-1.1.3.2.2.9.2.2.2 26-1.1.3.2.2.9.2.2.3 27-1.1.3.2.2.9.2.3
+# ::format ucca
+(v1 / label
+    :H (v2 / label
+           :A (v3 / label)
+           :P (v4 / label)
+           :A (v5 / label
+                  :C (v6 / label~e.0)
+                  :E (v7 / label
+                         :S (v8 / label~e.2)
+                         :A (v9 / label
+                                :C (v12 / label
+                                        :E (v21 / label
+                                                :A (v22 / label~e.5)
+                                                :S (v31 / label~e.4))
+                                        :C v22)
+                                :N (v13 / label~e.7)
+                                :C (v14 / label
+                                        :E (v23 / label~e.9)
+                                        :C (v24 / label~e.10))
+                                :N (v15 / label~e.12)
+                                :C (v16 / label
+                                        :E (v25 / label
+                                                :A (v26 / label~e.15)
+                                                :S (v32 / label~e.14))
+                                        :C v26)
+                                :N (v17 / label~e.17)
+                                :C (v18 / label
+                                        :E (v27 / label
+                                                :A (v28 / label~e.20)
+                                                :S (v33 / label~e.19))
+                                        :C v28)
+                                :N (v19 / label~e.22)
+                                :C (v20 / label
+                                        :C (v29 / label~e.23)
+                                        :E (v30 / label
+                                                :A v29
+                                                :D (v34 / label
+                                                        :E (v36 / label~e.25)
+                                                        :C (v37 / label~e.26))
+                                                :S (v35 / label~e.27))))
+                         :A v6
+                         :D (v10 / label)
+                         :D (v11 / label~e.1)))))

@@ -1,0 +1,20 @@
+# ::id 2857002
+# ::tok Besides , how could the assembly of this underwater boat have escaped public notice ?
+# ::alignments 0-1.1 2-1.2.5 3-1.2.6 5-1.2.7.1.2 6-1.2.7.2.1 7-1.2.7.2.2 8-1.2.7.2.3 9-1.2.7.2.4 11-1.2.1 12-1.2.2 13-1.2.3
+# ::format ucca
+(v1 / label
+    :L (v2 / label~e.0)
+    :H (v3 / label
+           :D (v4 / label~e.11)
+           :A (v5 / label~e.12)
+           :P (v6 / label~e.13)
+           :D (v7 / label~e.2)
+           :D (v8 / label~e.3)
+           :A (v9 / label
+                  :P (v10 / label
+                          :C (v12 / label~e.5))
+                  :A (v11 / label
+                          :R (v13 / label~e.6)
+                          :E (v14 / label~e.7)
+                          :E (v15 / label~e.8)
+                          :C (v16 / label~e.9)))))

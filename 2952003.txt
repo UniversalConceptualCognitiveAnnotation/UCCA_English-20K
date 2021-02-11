@@ -1,0 +1,43 @@
+# ::id 2952003
+# ::tok The harpooner 's family originated in Quebec , and they were already a line of bold fishermen back in the days when this town still belonged to France .
+# ::alignments 1-1.1.1.1.2 2-1.1.1.1.3 3-1.1.1.2 4-1.1.2 5-1.1.3.1 6-1.1.3.2 8-1.2 9-1.3.2 10-1.3.3 11-1.3.4 13-1.3.5.2 14-1.3.5.3.1 15-1.3.5.3.2.2 16-1.3.5.3.3.1 17-1.3.1.1 18-1.3.1.2 20-1.3.1.4 21-1.3.1.5.1 22-1.3.1.5.2.1 23-1.3.1.5.2.2 24-1.3.1.5.3 25-1.3.1.5.4 26-1.3.1.5.5.1 27-1.3.1.5.5.2
+# ::format ucca
+(v1 / label
+    :H (v2 / label
+           :A (v5 / label
+                  :E (v13 / label
+                          :C (v23 / label~e.1)
+                          :R (v24 / label~e.2))
+                  :C (v14 / label~e.3))
+           :S (v6 / label~e.4)
+           :A (v7 / label
+                  :R (v15 / label~e.5)
+                  :C (v16 / label~e.6)))
+    :L (v3 / label~e.8)
+    :H (v4 / label
+           :T (v8 / label
+                  :R (v17 / label~e.17)
+                  :R (v18 / label~e.18)
+                  :C (v19 / label~e.20)
+                  :E (v20 / label
+                          :R (v25 / label~e.21)
+                          :A (v26 / label
+                                  :E (v33 / label~e.22)
+                                  :C (v34 / label~e.23))
+                          :D (v27 / label~e.24)
+                          :S (v28 / label~e.25)
+                          :A (v29 / label
+                                  :R (v35 / label~e.26)
+                                  :C (v36 / label~e.27))))
+           :A (v9 / label~e.9)
+           :S (v10 / label~e.10)
+           :D (v11 / label~e.11)
+           :A (v12 / label
+                   :C (v21 / label~e.13)
+                   :E (v22 / label
+                           :R (v30 / label~e.14)
+                           :E (v31 / label
+                                   :A (v32 / label
+                                           :A (v38 / label~e.16))
+                                   :S (v37 / label~e.15))
+                           :C v32))))

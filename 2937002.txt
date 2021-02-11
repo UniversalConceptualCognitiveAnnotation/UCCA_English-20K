@@ -1,0 +1,15 @@
+# ::id 2937002
+# ::tok Go ahead , then ! " Commander Farragut called .
+# ::alignments 0-1.1.4.1.2 1-1.1.4.1.2 3-1.1.4.2 6-1.1.5.2 7-1.1.5.1 8-1.1.6
+# ::format ucca
+(v1 / label
+    :H (v2 / label
+           :A (v3 / label
+                  :H (v6 / label
+                         :A (v10 / label)
+                         :P (v11 / label~e.0,1))
+                  :L (v7 / label~e.3))
+           :A (v4 / label
+                  :C (v8 / label~e.7)
+                  :E (v9 / label~e.6))
+           :P (v5 / label~e.8)))

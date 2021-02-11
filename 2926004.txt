@@ -1,0 +1,30 @@
+# ::id 2926004
+# ::tok I opened a line of credit sufficient to cover the babirusa and , Conseil at my heels , I jumped into a carriage .
+# ::alignments 0-1.1.1 1-1.1.2 3-1.1.3.2 4-1.1.3.3.1 5-1.1.3.3.2 6-1.1.3.4.2 8-1.1.3.4.4 10-1.1.3.4.5.2 11-1.2 13-1.3.1 14-1.3.2 15-1.3.3 16-1.3.2 18-1.4.2 19-1.4.3 20-1.4.1.1 22-1.4.1.3
+# ::format ucca
+(v1 / label
+    :H (v2 / label
+           :A (v6 / label~e.0)
+           :P (v7 / label~e.1)
+           :A (v8 / label
+                  :C (v15 / label~e.3)
+                  :E (v16 / label
+                          :R (v20 / label~e.4)
+                          :C (v21 / label~e.5))
+                  :E (v17 / label
+                          :A v15
+                          :D (v22 / label~e.6)
+                          :P (v23 / label~e.8)
+                          :A (v24 / label
+                                  :C (v25 / label~e.10)))))
+    :L (v3 / label~e.11)
+    :H (v4 / label
+           :A (v9 / label~e.13)
+           :S (v10 / label~e.14,16)
+           :A (v11 / label~e.15))
+    :H (v5 / label
+           :A (v12 / label
+                   :R (v18 / label~e.20)
+                   :C (v19 / label~e.22))
+           :A (v13 / label~e.18)
+           :P (v14 / label~e.19)))
