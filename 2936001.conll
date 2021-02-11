@@ -1,0 +1,9 @@
+# format = ucca
+# sent_id = 2936001
+1	He	_	Word	Word	_	2	A	_	_
+2	summoned	_	Word	Word	_	0	H	_	_
+3	his	_	Word	Word	_	4	E	_	_
+4	engineer	_	Word	Word	_	0	A	_	_
+4	engineer	_	Word	Word	_	3	A*	_	_
+5	.	_	Punctuation	Punctuation	_	3	U	_	_
+

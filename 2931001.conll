@@ -1,0 +1,27 @@
+# format = ucca
+# sent_id = 2931001
+1	It	_	Word	Word	_	2	A	_	_
+2	was	_	Word	Word	_	0	H	_	_
+3	a	_	Word	Word	_	7	F	_	_
+4	high	_	Word	Word	_	6	D	_	_
+5	-	_	Punctuation	Punctuation	_	6	U	_	_
+6	speed	_	Word	Word	_	7	E	_	_
+7	frigate	_	Word	Word	_	2	A	_	_
+8	furnished	_	Word	Word	_	7	E	_	_
+9	with	_	Word	Word	_	11	R	_	_
+10	superheating	_	Word	Word	_	11	E	_	_
+11	equipment	_	Word	Word	_	8	A	_	_
+12	that	_	Word	Word	_	20	R	_	_
+13	allowed	_	Word	Word	_	20	D	_	_
+14	the	_	Word	Word	_	15	F	_	_
+15	tension	_	Word	Word	_	20	A	_	_
+16	of	_	Word	Word	_	18	R	_	_
+17	its	_	Word	Word	_	18	E	_	_
+18	steam	_	Word	Word	_	15	A	_	_
+19	to	_	Word	Word	_	20	F	_	_
+20	build	_	Word	Word	_	11	E	_	_
+21	to	_	Word	Word	_	23	R	_	_
+22	seven	_	Word	Word	_	23	Q	_	_
+23	atmospheres	_	Word	Word	_	20	A	_	_
+24	.	_	Punctuation	Punctuation	_	23	U	_	_
+

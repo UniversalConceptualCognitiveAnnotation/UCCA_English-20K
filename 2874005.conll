@@ -1,0 +1,44 @@
+# format = ucca
+# sent_id = 2874005
+1	The	_	Word	Word	_	3	F	_	_
+2	liquid	_	Word	Word	_	3	E	_	_
+3	masses	_	Word	Word	_	0	C	_	_
+3	masses	_	Word	Word	_	13	A*	_	_
+4	support	_	Word	Word	_	0	H	_	_
+5	the	_	Word	Word	_	8	F	_	_
+6	largest	_	Word	Word	_	8	E	_	_
+7	known	_	Word	Word	_	8	E	_	_
+8	species	_	Word	Word	_	4	A	_	_
+9	of	_	Word	Word	_	10	R	_	_
+10	mammals	_	Word	Word	_	8	E	_	_
+11	and	_	Word	Word	_	4	L	_	_
+12	perhaps	_	Word	Word	_	13	D	_	_
+13	conceal	_	Word	Word	_	4	H	_	_
+14	mollusks	_	Word	Word	_	13	A	_	_
+15	of	_	Word	Word	_	17	R	_	_
+16	incomparable	_	Word	Word	_	17	D	_	_
+17	size	_	Word	Word	_	14	E	_	_
+18	or	_	Word	Word	_	14	N	_	_
+19	crustaceans	_	Word	Word	_	14	C	_	_
+20	too	_	Word	Word	_	21	D	_	_
+21	frightful	_	Word	Word	_	19	E	_	_
+22	to	_	Word	Word	_	23	F	_	_
+23	contemplate	_	Word	Word	_	21	A	_	_
+24	,	_	Punctuation	Punctuation	_	19	U	_	_
+25	such	_	Word	Word	_	30	R	_	_
+26	as	_	Word	Word	_	25	Terminal	_	_
+27	100	_	Word	Word	_	29	Q	_	_
+28	-	_	Punctuation	Punctuation	_	29	U	_	_
+29	meter	_	Word	Word	_	30	E	_	_
+30	lobsters	_	Word	Word	_	19	E	_	_
+31	or	_	Word	Word	_	30	N	_	_
+32	crabs	_	Word	Word	_	30	C	_	_
+33	weighing	_	Word	Word	_	32	E	_	_
+34	200	_	Word	Word	_	36	Q	_	_
+35	metric	_	Word	Word	_	36	E	_	_
+36	tons	_	Word	Word	_	33	A	_	_
+37	!	_	Punctuation	Punctuation	_	13	U	_	_
+38	Why	_	Word	Word	_	13	G	_	_
+39	not	_	Word	Word	_	38	Terminal	_	_
+40	?	_	Punctuation	Punctuation	_	13	U	_	_
+

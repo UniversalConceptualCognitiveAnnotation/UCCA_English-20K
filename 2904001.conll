@@ -1,0 +1,13 @@
+# format = ucca
+# sent_id = 2904001
+1	In	_	Word	Word	_	9	G	_	_
+2	fact	_	Word	Word	_	1	Terminal	_	_
+3	,	_	Punctuation	Punctuation	_	9	U	_	_
+4	there	_	Word	Word	_	9	F	_	_
+5	could	_	Word	Word	_	9	D	_	_
+6	be	_	Word	Word	_	9	F	_	_
+7	no	_	Word	Word	_	9	D	_	_
+8	immediate	_	Word	Word	_	9	D	_	_
+9	danger	_	Word	Word	_	0	H	_	_
+10	.	_	Punctuation	Punctuation	_	9	U	_	_
+

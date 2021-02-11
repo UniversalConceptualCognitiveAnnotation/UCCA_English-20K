@@ -1,0 +1,39 @@
+# format = ucca
+# sent_id = 2898001
+1	Only	_	Word	Word	_	35	L	_	_
+2	,	_	Punctuation	Punctuation	_	35	U	_	_
+3	thanks	_	Word	Word	_	6	R	_	_
+4	to	_	Word	Word	_	3	Terminal	_	_
+5	the	_	Word	Word	_	6	F	_	_
+6	nationality	_	Word	Word	_	35	A	_	_
+7	of	_	Word	Word	_	9	R	_	_
+8	the	_	Word	Word	_	9	F	_	_
+9	ship	_	Word	Word	_	6	A	_	_
+10	victimized	_	Word	Word	_	9	E	_	_
+11	by	_	Word	Word	_	14	R	_	_
+12	this	_	Word	Word	_	14	E	_	_
+13	new	_	Word	Word	_	14	D	_	_
+14	ramming	_	Word	Word	_	10	A	_	_
+15	,	_	Punctuation	Punctuation	_	6	U	_	_
+16	and	_	Word	Word	_	6	N	_	_
+17	thanks	_	Word	Word	_	20	R	_	_
+18	to	_	Word	Word	_	17	Terminal	_	_
+19	the	_	Word	Word	_	20	F	_	_
+20	reputation	_	Word	Word	_	6	C	_	_
+21	of	_	Word	Word	_	23	R	_	_
+22	the	_	Word	Word	_	23	F	_	_
+23	company	_	Word	Word	_	20	A	_	_
+24	to	_	Word	Word	_	28	A	_	_
+25	which	_	Word	Word	_	28	R	_	_
+26	this	_	Word	Word	_	27	E	_	_
+27	ship	_	Word	Word	_	28	A	_	_
+28	belonged	_	Word	Word	_	23	E	_	_
+29	,	_	Punctuation	Punctuation	_	35	U	_	_
+30	the	_	Word	Word	_	31	F	_	_
+31	event	_	Word	Word	_	35	A	_	_
+32	caused	_	Word	Word	_	35	D	_	_
+33	an	_	Word	Word	_	35	F	_	_
+34	immense	_	Word	Word	_	35	D	_	_
+35	uproar	_	Word	Word	_	0	H	_	_
+36	.	_	Punctuation	Punctuation	_	35	U	_	_
+

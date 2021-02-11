@@ -1,0 +1,27 @@
+# format = ucca
+# sent_id = 2926004
+1	I	_	Word	Word	_	2	A	_	_
+2	opened	_	Word	Word	_	0	H	_	_
+3	a	_	Word	Word	_	4	F	_	_
+4	line	_	Word	Word	_	2	A	_	_
+5	of	_	Word	Word	_	6	R	_	_
+6	credit	_	Word	Word	_	4	E	_	_
+7	sufficient	_	Word	Word	_	9	D	_	_
+8	to	_	Word	Word	_	9	F	_	_
+9	cover	_	Word	Word	_	4	E	_	_
+10	the	_	Word	Word	_	11	F	_	_
+11	babirusa	_	Word	Word	_	9	A	_	_
+12	and	_	Word	Word	_	2	L	_	_
+13	,	_	Punctuation	Punctuation	_	2	U	_	_
+14	Conseil	_	Word	Word	_	15	A	_	_
+15	at	_	Word	Word	_	2	H	_	_
+16	my	_	Word	Word	_	15	A	_	_
+17	heels	_	Word	Word	_	15	Terminal	_	_
+18	,	_	Punctuation	Punctuation	_	2	U	_	_
+19	I	_	Word	Word	_	20	A	_	_
+20	jumped	_	Word	Word	_	2	H	_	_
+21	into	_	Word	Word	_	23	R	_	_
+22	a	_	Word	Word	_	23	F	_	_
+23	carriage	_	Word	Word	_	20	A	_	_
+24	.	_	Punctuation	Punctuation	_	23	U	_	_
+

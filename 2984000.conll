@@ -1,0 +1,42 @@
+# format = ucca
+# sent_id = 2984000
+1	Ned	_	Word	Word	_	9	A	_	_
+2	Land	_	Word	Word	_	1	Terminal	_	_
+3	still	_	Word	Word	_	9	D	_	_
+4	kept	_	Word	Word	_	9	D	_	_
+5	up	_	Word	Word	_	4	Terminal	_	_
+6	the	_	Word	Word	_	9	F	_	_
+7	most	_	Word	Word	_	8	E	_	_
+8	tenacious	_	Word	Word	_	9	D	_	_
+9	skepticism	_	Word	Word	_	0	H	_	_
+10	;	_	Punctuation	Punctuation	_	9	U	_	_
+11	beyond	_	Word	Word	_	9	L	_	_
+12	his	_	Word	Word	_	15	A	_	_
+13	spells	_	Word	Word	_	15	T	_	_
+14	on	_	Word	Word	_	15	R	_	_
+15	watch	_	Word	Word	_	9	H	_	_
+16	,	_	Punctuation	Punctuation	_	9	U	_	_
+17	he	_	Word	Word	_	18	A	_	_
+18	pretended	_	Word	Word	_	9	H	_	_
+19	that	_	Word	Word	_	23	R	_	_
+20	he	_	Word	Word	_	23	A	_	_
+21	never	_	Word	Word	_	23	D	_	_
+22	even	_	Word	Word	_	23	D	_	_
+23	looked	_	Word	Word	_	18	A	_	_
+24	at	_	Word	Word	_	26	R	_	_
+25	the	_	Word	Word	_	26	F	_	_
+26	surface	_	Word	Word	_	23	A	_	_
+27	of	_	Word	Word	_	29	R	_	_
+28	the	_	Word	Word	_	29	F	_	_
+29	waves	_	Word	Word	_	26	E	_	_
+30	,	_	Punctuation	Punctuation	_	23	U	_	_
+31	at	_	Word	Word	_	32	R	_	_
+32	least	_	Word	Word	_	33	E	_	_
+33	while	_	Word	Word	_	23	L	_	_
+34	no	_	Word	Word	_	38	D	_	_
+35	whales	_	Word	Word	_	38	A	_	_
+36	were	_	Word	Word	_	38	F	_	_
+37	in	_	Word	Word	_	38	R	_	_
+38	sight	_	Word	Word	_	23	H	_	_
+39	.	_	Punctuation	Punctuation	_	38	U	_	_
+

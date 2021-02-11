@@ -1,0 +1,25 @@
+# format = ucca
+# sent_id = 2922003
+1	Yes	_	Word	Word	_	0	H	_	_
+2	,	_	Punctuation	Punctuation	_	1	U	_	_
+3	my	_	Word	Word	_	1	G	_	_
+4	boy	_	Word	Word	_	3	Terminal	_	_
+5	.	_	Punctuation	Punctuation	_	1	U	_	_
+6	Get	_	Word	Word	_	1	H	_	_
+7	my	_	Word	Word	_	8	E	_	_
+8	things	_	Word	Word	_	6	A	_	_
+9	ready	_	Word	Word	_	6	Terminal	_	_
+10	,	_	Punctuation	Punctuation	_	1	U	_	_
+11	get	_	Word	Word	_	1	H	_	_
+12	yours	_	Word	Word	_	11	A	_	_
+13	ready	_	Word	Word	_	11	Terminal	_	_
+14	.	_	Punctuation	Punctuation	_	1	U	_	_
+15	We	_	Word	Word	_	17	A	_	_
+16	're	_	Word	Word	_	17	F	_	_
+17	departing	_	Word	Word	_	1	H	_	_
+18	in	_	Word	Word	_	20	R	_	_
+19	two	_	Word	Word	_	20	Q	_	_
+20	hours	_	Word	Word	_	17	T	_	_
+21	.	_	Punctuation	Punctuation	_	20	U	_	_
+22	"	_	Punctuation	Punctuation	_	20	U	_	_
+

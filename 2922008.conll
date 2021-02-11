@@ -1,0 +1,23 @@
+# format = ucca
+# sent_id = 2922008
+1	"	_	Punctuation	Punctuation	_	5	U	_	_
+2	What	_	Word	Word	_	5	G	_	_
+3	!	_	Punctuation	Punctuation	_	5	U	_	_
+4	The	_	Word	Word	_	5	F	_	_
+5	archaeotherium	_	Word	Word	_	0	H	_	_
+6	,	_	Punctuation	Punctuation	_	5	U	_	_
+7	hyracotherium	_	Word	Word	_	5	C	_	_
+8	,	_	Punctuation	Punctuation	_	5	U	_	_
+9	oreodonts	_	Word	Word	_	5	C	_	_
+10	,	_	Punctuation	Punctuation	_	5	U	_	_
+11	cheiropotamus	_	Word	Word	_	5	C	_	_
+12	,	_	Punctuation	Punctuation	_	5	U	_	_
+13	and	_	Word	Word	_	5	N	_	_
+14	master	_	Word	Word	_	18	E	_	_
+15	's	_	Word	Word	_	14	R	_	_
+16	other	_	Word	Word	_	18	E	_	_
+17	fossil	_	Word	Word	_	18	E	_	_
+18	skeletons	_	Word	Word	_	5	C	_	_
+19	?	_	Punctuation	Punctuation	_	18	U	_	_
+20	"	_	Punctuation	Punctuation	_	18	U	_	_
+

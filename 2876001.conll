@@ -1,0 +1,17 @@
+# format = ucca
+# sent_id = 2876001
+1	The	_	Word	Word	_	5	F	_	_
+2	industrial	_	Word	Word	_	5	E	_	_
+3	and	_	Word	Word	_	2	N	_	_
+4	commercial	_	Word	Word	_	2	C	_	_
+5	newspapers	_	Word	Word	_	6	A	_	_
+6	dealt	_	Word	Word	_	0	H	_	_
+7	with	_	Word	Word	_	9	R	_	_
+8	the	_	Word	Word	_	9	F	_	_
+9	question	_	Word	Word	_	6	A	_	_
+10	chiefly	_	Word	Word	_	13	E	_	_
+11	from	_	Word	Word	_	13	R	_	_
+12	this	_	Word	Word	_	13	E	_	_
+13	viewpoint	_	Word	Word	_	6	A	_	_
+14	.	_	Punctuation	Punctuation	_	13	U	_	_
+

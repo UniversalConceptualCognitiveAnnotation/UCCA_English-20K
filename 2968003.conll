@@ -1,0 +1,37 @@
+# format = ucca
+# sent_id = 2968003
+1	"	_	Punctuation	Punctuation	_	2	U	_	_
+2	Yes	_	Word	Word	_	0	H	_	_
+3	,	_	Punctuation	Punctuation	_	2	U	_	_
+4	and	_	Word	Word	_	2	L	_	_
+5	since	_	Word	Word	_	2	L	_	_
+6	the	_	Word	Word	_	9	F	_	_
+7	atmosphere	_	Word	Word	_	9	E	_	_
+8	's	_	Word	Word	_	7	R	_	_
+9	pressure	_	Word	Word	_	11	A	_	_
+10	actually	_	Word	Word	_	11	D	_	_
+11	weighs	_	Word	Word	_	2	H	_	_
+12	slightly	_	Word	Word	_	13	E	_	_
+13	more	_	Word	Word	_	15	E	_	_
+14	than	_	Word	Word	_	15	R	_	_
+15	one	_	Word	Word	_	16	Q	_	_
+16	kilogram	_	Word	Word	_	11	A	_	_
+17	per	_	Word	Word	_	19	R	_	_
+18	square	_	Word	Word	_	19	E	_	_
+19	centimeter	_	Word	Word	_	15	E	_	_
+20	,	_	Punctuation	Punctuation	_	2	U	_	_
+21	your	_	Word	Word	_	24	E	_	_
+22	17,000	_	Word	Word	_	24	Q	_	_
+23	square	_	Word	Word	_	24	E	_	_
+24	centimeters	_	Word	Word	_	26	A	_	_
+25	are	_	Word	Word	_	26	F	_	_
+26	tolerating	_	Word	Word	_	2	H	_	_
+27	17,568	_	Word	Word	_	28	Q	_	_
+28	kilograms	_	Word	Word	_	26	A	_	_
+29	at	_	Word	Word	_	32	R	_	_
+30	this	_	Word	Word	_	32	E	_	_
+31	very	_	Word	Word	_	32	F	_	_
+32	moment	_	Word	Word	_	26	T	_	_
+33	.	_	Punctuation	Punctuation	_	32	U	_	_
+34	"	_	Punctuation	Punctuation	_	32	U	_	_
+
