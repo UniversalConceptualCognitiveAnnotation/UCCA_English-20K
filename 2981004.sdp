@@ -1,0 +1,14 @@
+# format = ucca
+1	In	_	Word	-	-	_	R	_	_	_
+2	an	_	Word	-	-	_	F	_	_	_
+3	instant	_	Word	-	+	_	_	_	_	T
+4	the	_	Word	-	-	_	_	F	_	_
+5	frigate	_	Word	-	+	_	_	_	E	_
+6	's	_	Word	-	-	_	_	R	_	_
+7	deck	_	Word	-	+	_	_	_	_	A
+8	would	_	Word	-	-	_	_	_	_	F
+9	become	_	Word	-	-	_	_	_	_	D
+10	densely	_	Word	-	-	_	_	_	_	D
+11	populated	_	Word	-	+	_	_	_	_	_
+12	.	_	Punctuation	-	-	_	_	_	_	U
+

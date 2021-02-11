@@ -1,0 +1,28 @@
+# format = ucca
+1	Yes	_	Word	-	-	_	D	_	_
+2	,	_	Punctuation	-	-	_	U	_	_
+3	we	_	Word	-	+	_	_	A	_
+4	are	_	Word	-	-	_	F	_	_
+5	.	_	Punctuation	-	-	_	U	_	_
+6	.	_	Punctuation	-	-	_	U	_	_
+7	.	_	Punctuation	-	-	_	U	_	_
+8	certainly	_	Word	-	-	_	D	_	_
+9	.	_	Punctuation	-	-	_	_	U	_
+10	.	_	Punctuation	-	-	_	_	U	_
+11	.	_	Punctuation	-	-	_	_	U	_
+12	,	_	Punctuation	-	-	_	_	U	_
+13	"	_	Punctuation	-	-	_	_	U	_
+14	I	_	Word	-	-	_	_	A	_
+15	replied	_	Word	-	+	_	_	_	_
+16	evasively	_	Word	-	-	_	_	D	_
+17	,	_	Punctuation	-	-	_	_	U	_
+18	"	_	Punctuation	-	-	_	_	U	_
+19	but	_	Word	-	-	_	L	_	_
+20	after	_	Word	-	-	_	L	_	_
+21	we	_	Word	-	-	_	_	_	A
+22	make	_	Word	-	-	_	_	_	F
+23	a	_	Word	-	-	_	_	_	F
+24	detour	_	Word	-	+	_	H	_	_
+25	.	_	Punctuation	-	-	_	_	_	U
+26	"	_	Punctuation	-	-	_	_	_	U
+

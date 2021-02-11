@@ -1,0 +1,12 @@
+# format = ucca
+1	Aye	_	Word	-	+	_	_	_	A
+2	,	_	Punctuation	-	-	_	U	_	_
+3	sir	_	Word	-	-	_	G	_	_
+4	,	_	Punctuation	-	-	_	_	_	U
+5	"	_	Punctuation	-	-	_	_	_	U
+6	the	_	Word	-	-	_	_	F	_
+7	engineer	_	Word	-	+	_	_	_	A
+8	replied	_	Word	-	+	_	_	_	_
+9	.	_	Punctuation	-	-	_	_	_	U
+10	"	_	Punctuation	-	-	_	_	_	U
+

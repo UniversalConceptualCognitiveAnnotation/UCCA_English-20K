@@ -1,0 +1,8 @@
+# format = ucca
+1	This	_	Word	-	-	_	E	_
+2	news	_	Word	-	+	_	_	A
+3	caused	_	Word	-	-	_	_	D
+4	intense	_	Word	-	-	_	_	D
+5	excitement	_	Word	-	+	_	_	_
+6	.	_	Punctuation	-	-	_	_	U
+

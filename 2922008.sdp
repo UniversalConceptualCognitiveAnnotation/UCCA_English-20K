@@ -1,0 +1,22 @@
+# format = ucca
+1	"	_	Punctuation	-	-	_	U	_	_
+2	What	_	Word	-	-	_	G	_	_
+3	!	_	Punctuation	-	-	_	U	_	_
+4	The	_	Word	-	-	_	F	_	_
+5	archaeotherium	_	Word	-	+	_	_	_	_
+6	,	_	Punctuation	-	-	_	U	_	_
+7	hyracotherium	_	Word	-	-	_	C	_	_
+8	,	_	Punctuation	-	-	_	U	_	_
+9	oreodonts	_	Word	-	-	_	C	_	_
+10	,	_	Punctuation	-	-	_	U	_	_
+11	cheiropotamus	_	Word	-	-	_	C	_	_
+12	,	_	Punctuation	-	-	_	U	_	_
+13	and	_	Word	-	-	_	N	_	_
+14	master	_	Word	-	+	_	_	_	E
+15	's	_	Word	-	-	_	_	R	_
+16	other	_	Word	-	-	_	_	_	E
+17	fossil	_	Word	-	-	_	_	_	E
+18	skeletons	_	Word	-	+	_	C	_	_
+19	?	_	Punctuation	-	-	_	_	_	U
+20	"	_	Punctuation	-	-	_	_	_	U
+

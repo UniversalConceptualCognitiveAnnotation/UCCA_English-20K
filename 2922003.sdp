@@ -1,0 +1,24 @@
+# format = ucca
+1	Yes	_	Word	-	+	_	_	_	_	_	_	_	_
+2	,	_	Punctuation	-	-	_	U	_	_	_	_	_	_
+3	my	_	Word	-	+	_	G	_	_	_	_	_	_
+4	boy	_	Word	-	-	_	_	Terminal	_	_	_	_	_
+5	.	_	Punctuation	-	-	_	U	_	_	_	_	_	_
+6	Get	_	Word	-	+	_	H	_	_	_	_	_	_
+7	my	_	Word	-	-	_	_	_	_	E	_	_	_
+8	things	_	Word	-	+	_	_	_	A	_	_	_	_
+9	ready	_	Word	-	-	_	_	_	Terminal	_	_	_	_
+10	,	_	Punctuation	-	-	_	U	_	_	_	_	_	_
+11	get	_	Word	-	+	_	H	_	_	_	_	_	_
+12	yours	_	Word	-	-	_	_	_	_	_	A	_	_
+13	ready	_	Word	-	-	_	_	_	_	_	Terminal	_	_
+14	.	_	Punctuation	-	-	_	U	_	_	_	_	_	_
+15	We	_	Word	-	-	_	_	_	_	_	_	A	_
+16	're	_	Word	-	-	_	_	_	_	_	_	F	_
+17	departing	_	Word	-	+	_	H	_	_	_	_	_	_
+18	in	_	Word	-	-	_	_	_	_	_	_	_	R
+19	two	_	Word	-	-	_	_	_	_	_	_	_	Q
+20	hours	_	Word	-	+	_	_	_	_	_	_	T	_
+21	.	_	Punctuation	-	-	_	_	_	_	_	_	_	U
+22	"	_	Punctuation	-	-	_	_	_	_	_	_	_	U
+

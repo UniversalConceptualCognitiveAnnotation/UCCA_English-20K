@@ -1,0 +1,28 @@
+# format = ucca
+1	Made	_	Word	-	+	_	_	_	_	E	_	_	_	_	_	_
+2	in	_	Word	-	-	_	_	R	_	_	_	_	_	_	_	_
+3	America	_	Word	-	+	_	A	_	_	_	_	_	_	_	_	_
+4	,	_	Punctuation	-	-	_	_	_	_	U	_	_	_	_	_	_
+5	this	_	Word	-	-	_	_	_	_	E	_	_	_	_	_	_
+6	valuable	_	Word	-	+	_	_	_	_	E	_	_	_	_	_	_
+7	instrument	_	Word	-	+	_	A*	_	A*	_	_	_	_	_	_	A*
+8	could	_	Word	-	-	_	_	_	_	_	D	_	_	_	_	_
+9	fire	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_
+10	a	_	Word	-	-	_	_	_	_	_	_	_	F	_	_	_
+11	four	_	Word	-	-	_	_	_	_	_	_	Q	_	_	_	_
+12	-	_	Punctuation	-	-	_	_	_	_	_	_	U	_	_	_	_
+13	kilogram	_	Word	-	+	_	_	_	_	_	_	_	Q	_	_	_
+14	conical	_	Word	-	-	_	_	_	_	_	_	_	E	_	_	_
+15	projectile	_	Word	-	+	_	_	_	_	_	A	_	_	_	_	_
+16	an	_	Word	-	-	_	_	_	_	_	_	_	_	F	_	_
+17	average	_	Word	-	-	_	_	_	_	_	_	_	_	E	_	_
+18	distance	_	Word	-	+	_	_	_	_	_	A	_	_	_	_	_
+19	of	_	Word	-	-	_	_	_	_	_	_	_	_	_	R	_
+20	sixteen	_	Word	-	-	_	_	_	_	_	_	_	_	_	Q	_
+21	kilometers	_	Word	-	+	_	_	_	_	_	_	_	_	E	_	_
+22	without	_	Word	-	-	_	_	_	_	_	L	_	_	_	_	D*
+23	the	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	F
+24	least	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	D
+25	bother	_	Word	-	+	_	_	_	_	_	H	_	_	_	_	_
+26	.	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	_	U
+

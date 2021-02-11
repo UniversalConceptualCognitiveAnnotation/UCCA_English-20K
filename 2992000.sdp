@@ -1,0 +1,13 @@
+# format = ucca
+1	But	_	Word	-	-	_	L	_	_
+2	this	_	Word	-	-	_	E	_	_
+3	futile	_	Word	-	-	_	D	_	_
+4	search	_	Word	-	+	_	_	_	_
+5	could	_	Word	-	-	_	D	_	_
+6	n't	_	Word	-	-	_	D	_	_
+7	drag	_	Word	-	+	_	D	_	_
+8	on	_	Word	-	-	_	_	Terminal	_
+9	much	_	Word	-	-	_	_	_	E
+10	longer	_	Word	-	+	_	T	_	_
+11	.	_	Punctuation	-	-	_	_	_	U
+

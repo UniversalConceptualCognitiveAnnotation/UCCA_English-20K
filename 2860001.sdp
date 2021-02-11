@@ -1,0 +1,25 @@
+# format = ucca
+1	In	_	Word	-	-	_	R	_	_	_	_	_	_
+2	France	_	Word	-	+	_	_	A	_	_	_	_	_
+3	I	_	Word	-	-	_	_	A	_	_	_	_	_
+4	had	_	Word	-	-	_	_	F	_	_	_	_	_
+5	published	_	Word	-	+	_	_	_	_	_	_	_	_
+6	a	_	Word	-	-	_	_	_	_	F	_	_	_
+7	two	_	Word	-	-	_	_	_	Q	_	_	_	_
+8	-	_	Punctuation	-	-	_	_	_	U	_	_	_	_
+9	volume	_	Word	-	+	_	_	_	_	E	_	_	_
+10	work	_	Word	-	+	_	_	A	_	_	_	_	_
+11	,	_	Punctuation	-	-	_	_	_	_	U	_	_	_
+12	in	_	Word	-	-	_	_	_	_	_	R	_	_
+13	quarto	_	Word	-	+	_	_	_	_	E	_	_	_
+14	,	_	Punctuation	-	-	_	_	_	_	U	_	_	_
+15	entitled	_	Word	-	+	_	_	_	_	E	_	_	_
+16	The	_	Word	-	+	_	_	_	_	_	_	A	_
+17	Mysteries	_	Word	-	-	_	_	_	_	_	_	_	Terminal
+18	of	_	Word	-	-	_	_	_	_	_	_	_	Terminal
+19	the	_	Word	-	-	_	_	_	_	_	_	_	Terminal
+20	Great	_	Word	-	-	_	_	_	_	_	_	_	Terminal
+21	Ocean	_	Word	-	-	_	_	_	_	_	_	_	Terminal
+22	Depths	_	Word	-	-	_	_	_	_	_	_	_	Terminal
+23	.	_	Punctuation	-	-	_	_	_	_	_	_	U	_
+

@@ -1,0 +1,21 @@
+# format = ucca
+1	Roosting	_	Word	-	+	_	_	_	E	_	_	_	_
+2	in	_	Word	-	-	_	_	R	_	_	_	_	_
+3	the	_	Word	-	-	_	_	F	_	_	_	_	_
+4	shrouds	_	Word	-	+	_	A	_	_	_	_	_	_
+5	,	_	Punctuation	-	-	_	_	_	U	_	_	_	_
+6	the	_	Word	-	-	_	_	_	F	_	_	_	_
+7	crew	_	Word	-	+	_	_	_	_	A	_	_	_
+8	examined	_	Word	-	+	_	_	_	_	_	_	_	_
+9	the	_	Word	-	-	_	_	_	_	_	F	_	_
+10	horizon	_	Word	-	+	_	_	_	_	A	_	_	_
+11	,	_	Punctuation	-	-	_	_	_	_	_	U	_	_
+12	which	_	Word	-	-	_	_	_	_	_	_	R	_
+13	shrank	_	Word	-	+	_	_	_	_	_	E	_	_
+14	and	_	Word	-	-	_	_	_	_	_	_	N	_
+15	darkened	_	Word	-	-	_	_	_	_	_	_	C	_
+16	little	_	Word	-	+	_	_	_	_	_	_	D	_
+17	by	_	Word	-	-	_	_	_	_	_	_	_	R
+18	little	_	Word	-	-	_	_	_	_	_	_	_	C
+19	.	_	Punctuation	-	-	_	_	_	_	_	_	_	U
+

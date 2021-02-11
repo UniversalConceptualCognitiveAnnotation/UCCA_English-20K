@@ -1,0 +1,35 @@
+# format = ucca
+1	And	_	Word	-	-	_	L	_	_	_	_	_	_	_	_
+2	in	_	Word	-	-	_	L	_	_	_	_	_	_	_	_
+3	this	_	Word	-	-	_	E	_	_	_	_	_	_	_	_
+4	vein	_	Word	-	+	_	_	_	_	_	_	_	_	_	_
+5	,	_	Punctuation	-	-	_	U	_	_	_	_	_	_	_	_
+6	"	_	Punctuation	-	-	_	U	_	_	_	_	_	_	_	_
+7	the	_	Word	-	-	_	_	F	_	_	_	_	_	_	_
+8	honorable	_	Word	-	-	_	_	E	_	_	_	_	_	_	_
+9	Pierre	_	Word	-	+	_	_	_	A*	_	_	_	A*	_	_
+10	Aronnax	_	Word	-	-	_	_	Terminal	_	_	_	_	_	_	_
+11	,	_	Punctuation	-	-	_	_	U	_	_	_	_	_	_	_
+12	Professor	_	Word	-	+	_	_	E	_	_	_	_	_	_	_
+13	at	_	Word	-	-	_	_	_	_	R	_	_	_	_	_
+14	the	_	Word	-	-	_	_	_	_	F	_	_	_	_	_
+15	Paris	_	Word	-	-	_	_	_	_	E	_	_	_	_	_
+16	Museum	_	Word	-	+	_	_	_	A	_	_	_	_	_	_
+17	,	_	Punctuation	-	-	_	_	_	_	_	U	_	_	_	_
+18	"	_	Punctuation	-	-	_	_	_	_	_	U	_	_	_	_
+19	was	_	Word	-	-	_	_	_	_	_	F	_	_	_	_
+20	summoned	_	Word	-	+	_	H	_	_	_	_	_	_	_	_
+21	by	_	Word	-	-	_	_	_	_	_	_	R	_	_	_
+22	The	_	Word	-	+	_	_	_	_	_	A	_	_	_	_
+23	New	_	Word	-	-	_	_	_	_	_	_	Terminal	_	_	_
+24	York	_	Word	-	-	_	_	_	_	_	_	Terminal	_	_	_
+25	Herald	_	Word	-	-	_	_	_	_	_	_	Terminal	_	_	_
+26	to	_	Word	-	-	_	L	_	_	_	_	_	_	_	_
+27	formulate	_	Word	-	+	_	H	_	_	_	_	_	_	_	_
+28	his	_	Word	-	-	_	_	_	_	_	_	_	_	E	_
+29	views	_	Word	-	+	_	_	_	_	_	_	_	A	_	_
+30	no	_	Word	-	+	_	_	_	_	_	_	_	D	_	_
+31	matter	_	Word	-	-	_	_	_	_	_	_	_	_	_	Terminal
+32	what	_	Word	-	-	_	_	_	_	_	_	_	_	_	Terminal
+33	.	_	Punctuation	-	-	_	_	_	_	_	_	_	U	_	_
+

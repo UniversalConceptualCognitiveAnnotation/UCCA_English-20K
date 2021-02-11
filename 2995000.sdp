@@ -1,0 +1,6 @@
+# format = ucca
+1	Two	_	Word	-	-	_	Q	_
+2	days	_	Word	-	+	_	_	T
+3	passed	_	Word	-	+	_	_	_
+4	.	_	Punctuation	-	-	_	_	U
+

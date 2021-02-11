@@ -1,0 +1,29 @@
+# format = ucca
+1	But	_	Word	-	-	_	L	_	_	_	_	_	_	_	_
+2	now	_	Word	-	-	_	T	_	_	_	_	_	_	_	_
+3	it	_	Word	-	-	_	A	_	_	_	_	_	_	A*	_
+4	was	_	Word	-	+	_	_	_	_	_	_	_	_	_	_
+5	no	_	Word	-	-	_	_	E	_	_	_	_	_	_	_
+6	longer	_	Word	-	+	_	D	_	_	_	_	_	_	_	_
+7	an	_	Word	-	-	_	_	_	F	_	_	_	_	_	_
+8	issue	_	Word	-	+	_	A	_	_	_	_	_	_	_	_
+9	of	_	Word	-	-	_	_	_	_	R	_	_	_	_	_
+10	a	_	Word	-	-	_	_	_	_	F	_	_	_	_	_
+11	scientific	_	Word	-	-	_	_	_	_	E	_	_	_	_	_
+12	problem	_	Word	-	+	_	_	_	E	_	_	_	_	_	_
+13	to	_	Word	-	-	_	_	_	_	_	R	_	_	_	_
+14	be	_	Word	-	-	_	_	_	_	_	F	_	_	_	_
+15	solved	_	Word	-	+	_	_	_	_	E	_	_	_	_	_
+16	,	_	Punctuation	-	-	_	U	_	_	_	_	_	_	_	_
+17	but	_	Word	-	-	_	L	_	_	_	_	_	_	_	_
+18	a	_	Word	-	-	_	_	_	_	_	_	_	_	F	_
+19	quite	_	Word	-	-	_	_	_	_	_	_	D	D*	_	_
+20	real	_	Word	-	+	_	_	_	_	_	_	_	_	E	_
+21	and	_	Word	-	-	_	_	_	_	_	_	L	_	_	_
+22	serious	_	Word	-	+	_	_	_	_	_	_	H	_	_	_
+23	danger	_	Word	-	+	_	H	_	_	_	_	_	_	_	_
+24	to	_	Word	-	-	_	_	_	_	_	_	_	_	_	R
+25	be	_	Word	-	-	_	_	_	_	_	_	_	_	_	F
+26	avoided	_	Word	-	+	_	_	_	_	_	_	_	_	E	_
+27	.	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	U
+

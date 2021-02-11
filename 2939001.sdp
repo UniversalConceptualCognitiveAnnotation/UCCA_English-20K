@@ -1,0 +1,14 @@
+# format = ucca
+1	Departing	_	Word	-	+	_	_	_	E	_	_
+2	from	_	Word	-	-	_	_	R	_	_	_
+3	500,000	_	Word	-	-	_	_	Q	_	_	_
+4	throats	_	Word	-	+	_	A	_	_	_	_
+5	,	_	Punctuation	-	-	_	_	_	U	_	_
+6	three	_	Word	-	-	_	_	_	Q	_	_
+7	cheers	_	Word	-	+	_	_	_	_	A	_
+8	burst	_	Word	-	+	_	_	_	_	_	_
+9	forth	_	Word	-	-	_	_	_	_	Terminal	_
+10	in	_	Word	-	-	_	_	_	_	_	R
+11	succession	_	Word	-	+	_	_	_	_	D	_
+12	.	_	Punctuation	-	-	_	_	_	_	_	U
+

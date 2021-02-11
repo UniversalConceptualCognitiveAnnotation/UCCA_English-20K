@@ -1,0 +1,11 @@
+# format = ucca
+1	The	_	Word	-	-	_	F	_	_
+2	"	_	Punctuation	-	-	_	U	_	_
+3	monster	_	Word	-	-	_	E	_	_
+4	question	_	Word	-	+	_	_	A	_
+5	"	_	Punctuation	-	-	_	_	U	_
+6	inflamed	_	Word	-	+	_	_	_	_
+7	all	_	Word	-	-	_	_	_	Q
+8	minds	_	Word	-	+	_	_	A	_
+9	.	_	Punctuation	-	-	_	_	_	U
+
