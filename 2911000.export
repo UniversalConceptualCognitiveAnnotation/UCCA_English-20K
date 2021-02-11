@@ -1,0 +1,46 @@
+#BOS 2911000
+Even	Word	--	Terminal	500
+so	Word	--	Terminal	500
+,	Punctuation	--	Terminal	501
+I	Word	--	Terminal	502
+had	Word	--	Terminal	503
+just	Word	--	Terminal	504
+returned	Word	--	Terminal	505
+from	Word	--	Terminal	506
+an	Word	--	Terminal	507
+arduous	Word	--	Terminal	508
+journey	Word	--	Terminal	509
+,	Punctuation	--	Terminal	510
+exhausted	Word	--	Terminal	511
+and	Word	--	Terminal	512
+badly	Word	--	Terminal	513
+needing	Word	--	Terminal	514
+a	Word	--	Terminal	515
+rest	Word	--	Terminal	516
+.	Punctuation	--	Terminal	517
+#500	FN	--	L	524
+#501	PNCT	--	U	524
+#502	FN	--	A	519	A*	520	A*	523	A*	518
+#503	FN	--	F	519
+#504	FN	--	T	519
+#505	FN	--	P	519
+#506	FN	--	R	518
+#507	FN	--	F	518
+#508	FN	--	D	518
+#509	FN	--	P	518
+#510	PNCT	--	U	524
+#511	FN	--	S	520
+#512	FN	--	L	524
+#513	FN	--	E	521
+#514	FN	--	C	521
+#515	FN	--	F	522
+#516	FN	--	C	522
+#517	PNCT	--	U	522
+#518	FN	--	A	519
+#519	FN	--	H	524
+#520	FN	--	H	524
+#521	FN	--	D	523
+#522	FN	--	S	523
+#523	FN	--	H	524
+#524	FN	--	--	0
+#EOS 2911000

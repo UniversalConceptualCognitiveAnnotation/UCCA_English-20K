@@ -1,0 +1,26 @@
+#BOS 2882001
+Commander	Word	--	Terminal	500
+Farragut	Word	--	Terminal	501
+has	Word	--	Terminal	502
+a	Word	--	Terminal	503
+cabin	Word	--	Terminal	504
+at	Word	--	Terminal	505
+your	Word	--	Terminal	506
+disposal	Word	--	Terminal	507
+.	Punctuation	--	Terminal	508
+#500	FN	--	E	509
+#501	FN	--	C	509
+#502	FN	--	S	513
+#503	FN	--	F	512
+#504	FN	--	C	512	A*	511
+#505	FN	--	R	510
+#506	FN	--	A	511
+#507	FN	--	C	510
+#508	PNCT	--	U	510
+#509	FN	--	A	513
+#510	FN	--	S	511
+#511	FN	--	E	512
+#512	FN	--	A	513
+#513	FN	--	H	514
+#514	FN	--	--	0
+#EOS 2882001

@@ -1,0 +1,33 @@
+#BOS 2988000
+We	Word	--	Terminal	500
+were	Word	--	Terminal	501
+finally	Word	--	Terminal	502
+in	Word	--	Terminal	503
+the	Word	--	Terminal	504
+area	Word	--	Terminal	505
+of	Word	--	Terminal	506
+the	Word	--	Terminal	507
+monster	Word	--	Terminal	508
+'s	Word	--	Terminal	509
+latest	Word	--	Terminal	510
+antics	Word	--	Terminal	511
+!	Punctuation	--	Terminal	512
+#500	FN	--	A	516
+#501	FN	--	S	516
+#502	FN	--	D	516
+#503	FN	--	R	515
+#504	FN	--	F	515
+#505	FN	--	C	515	A*	514
+#506	FN	--	R	514
+#507	FN	--	F	513
+#508	FN	--	C	513
+#509	FN	--	R	513
+#510	FN	--	D	514
+#511	FN	--	P	514
+#512	PNCT	--	U	514
+#513	FN	--	A	514
+#514	FN	--	E	515
+#515	FN	--	A	516
+#516	FN	--	H	517
+#517	FN	--	--	0
+#EOS 2988000

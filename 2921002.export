@@ -1,0 +1,45 @@
+#BOS 2921002
+There	Word	--	Terminal	500
+was	Word	--	Terminal	501
+good	Word	--	Terminal	502
+reason	Word	--	Terminal	503
+to	Word	--	Terminal	504
+stop	Word	--	Terminal	505
+and	Word	--	Terminal	506
+think	Word	--	Terminal	507
+,	Punctuation	--	Terminal	508
+even	Word	--	Terminal	509
+for	Word	--	Terminal	510
+the	Word	--	Terminal	511
+world	Word	--	Terminal	512
+'s	Word	--	Terminal	513
+most	Word	--	Terminal	514
+emotionless	Word	--	Terminal	515
+man	Word	--	Terminal	516
+.	Punctuation	--	Terminal	517
+#500	FN	--	F	522
+#501	FN	--	F	522
+#502	FN	--	E	518
+#503	FN	--	C	518
+#504	FN	--	F	522
+#505	FN	--	P	522
+#506	FN	--	L	524
+#507	FN	--	P	523
+#508	PNCT	--	U	523
+#509	FN	--	E	521
+#510	FN	--	R	521
+#511	FN	--	F	519
+#512	FN	--	C	519
+#513	FN	--	R	519
+#514	FN	--	D	520
+#515	FN	--	S	520
+#516	FN	--	C	521	A*	520
+#517	PNCT	--	U	521
+#518	FN	--	D	522	D*	523
+#519	FN	--	A	520
+#520	FN	--	E	521
+#521	FN	--	A	522	A*	523
+#522	FN	--	H	524
+#523	FN	--	H	524
+#524	FN	--	--	0
+#EOS 2921002

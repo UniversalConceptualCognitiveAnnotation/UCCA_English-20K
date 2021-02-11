@@ -1,0 +1,42 @@
+#BOS 2928000
+Our	Word	--	Terminal	500
+baggage	Word	--	Terminal	501
+was	Word	--	Terminal	502
+immediately	Word	--	Terminal	503
+carried	Word	--	Terminal	504
+to	Word	--	Terminal	505
+the	Word	--	Terminal	506
+deck	Word	--	Terminal	507
+of	Word	--	Terminal	508
+the	Word	--	Terminal	509
+frigate	Word	--	Terminal	510
+.	Punctuation	--	Terminal	511
+I	Word	--	Terminal	512
+rushed	Word	--	Terminal	513
+aboard	Word	--	Terminal	514
+.	Punctuation	--	Terminal	515
+#500	FN	--	E	516
+#501	FN	--	C	516
+#502	FN	--	F	522
+#503	FN	--	T	522
+#504	FN	--	P	522
+#505	FN	--	R	521
+#506	FN	--	F	521
+#507	FN	--	C	521
+#508	FN	--	R	517
+#509	FN	--	F	517
+#510	FN	--	C	517	C*	518
+#511	PNCT	--	U	519
+#512	FN	--	A	519
+#513	FN	--	P	519
+#514	FN	--	R	518
+#515	PNCT	--	U	518
+#516	FN	--	A	522
+#517	FN	--	E	521
+#518	FN	--	A	519
+#519	FN	--	H	523
+#520	FN	--	A	522
+#521	FN	--	A	522
+#522	FN	--	H	523
+#523	FN	--	--	0
+#EOS 2928000

@@ -1,0 +1,20 @@
+#BOS 2977000
+The	Word	--	Terminal	500
+crew	Word	--	Terminal	501
+sided	Word	--	Terminal	502
+with	Word	--	Terminal	503
+him	Word	--	Terminal	504
+unanimously	Word	--	Terminal	505
+.	Punctuation	--	Terminal	506
+#500	FN	--	F	507
+#501	FN	--	A	507
+#502	FN	--	P	509
+#503	FN	--	R	508
+#504	FN	--	C	508
+#505	FN	--	D	509
+#506	PNCT	--	U	509
+#507	FN	--	A	509
+#508	FN	--	A	509
+#509	FN	--	H	510
+#510	FN	--	--	0
+#EOS 2977000

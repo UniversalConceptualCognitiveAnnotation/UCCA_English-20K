@@ -1,0 +1,24 @@
+#BOS 2893001
+The	Word	--	Terminal	500
+"	Punctuation	--	Terminal	501
+monster	Word	--	Terminal	502
+question	Word	--	Terminal	503
+"	Punctuation	--	Terminal	504
+inflamed	Word	--	Terminal	505
+all	Word	--	Terminal	506
+minds	Word	--	Terminal	507
+.	Punctuation	--	Terminal	508
+#500	FN	--	F	509
+#501	PNCT	--	U	509
+#502	FN	--	E	509
+#503	FN	--	C	509
+#504	PNCT	--	U	511
+#505	FN	--	P	511
+#506	FN	--	Q	510
+#507	FN	--	C	510
+#508	PNCT	--	U	510
+#509	FN	--	A	511
+#510	FN	--	A	511
+#511	FN	--	H	512
+#512	FN	--	--	0
+#EOS 2893001

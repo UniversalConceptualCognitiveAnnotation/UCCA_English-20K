@@ -1,0 +1,22 @@
+#BOS 2968001
+"	Punctuation	--	Terminal	500
+About	Word	--	Terminal	501
+17,000	Word	--	Terminal	502
+.	Punctuation	--	Terminal	503
+"	Punctuation	--	Terminal	504
+#500	PNCT	--	U	505
+#501	FN	--	E	505
+#502	FN	--	C	505
+#503	PNCT	--	U	505
+#504	PNCT	--	U	505
+#505	FN	--	Q	507
+#506	FN	--	C	507
+#507	FN	--	A	510
+#508	FN	--	A	510
+#509	FN	--	S	510
+#510	FN	--	A	513
+#511	FN	--	P	513
+#512	FN	--	A	513
+#513	FN	--	H	514
+#514	FN	--	--	0
+#EOS 2968001

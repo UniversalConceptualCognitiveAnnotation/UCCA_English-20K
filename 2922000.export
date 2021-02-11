@@ -1,0 +1,26 @@
+#BOS 2922000
+"	Punctuation	--	Terminal	500
+Conseil	Word	--	Terminal	501
+!	Punctuation	--	Terminal	502
+"	Punctuation	--	Terminal	503
+I	Word	--	Terminal	504
+called	Word	--	Terminal	505
+a	Word	--	Terminal	506
+third	Word	--	Terminal	507
+time	Word	--	Terminal	508
+.	Punctuation	--	Terminal	509
+#500	PNCT	--	U	512
+#501	FN	--	G	510
+#502	PNCT	--	U	512
+#503	PNCT	--	U	512
+#504	FN	--	A	512
+#505	FN	--	P	512
+#506	FN	--	F	511
+#507	FN	--	Q	511
+#508	FN	--	C	511
+#509	PNCT	--	U	511
+#510	FN	--	A	512
+#511	FN	--	D	512
+#512	FN	--	H	513
+#513	FN	--	--	0
+#EOS 2922000

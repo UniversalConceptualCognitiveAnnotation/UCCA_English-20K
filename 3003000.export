@@ -1,0 +1,27 @@
+#BOS 3003000
+Conseil	Word	--	Terminal	500
+did	Word	--	Terminal	501
+n't	Word	--	Terminal	502
+have	Word	--	Terminal	503
+time	Word	--	Terminal	504
+to	Word	--	Terminal	505
+complete	Word	--	Terminal	506
+the	Word	--	Terminal	507
+compliment	Word	--	Terminal	508
+.	Punctuation	--	Terminal	509
+#500	FN	--	A	513
+#501	FN	--	F	513
+#502	FN	--	D	513
+#503	FN	--	F	510
+#504	FN	--	C	510
+#505	FN	--	R	511
+#506	FN	--	C	511
+#507	FN	--	F	512
+#508	FN	--	C	512
+#509	PNCT	--	U	512
+#510	FN	--	D	513
+#511	FN	--	P	513
+#512	FN	--	A	513
+#513	FN	--	H	514
+#514	FN	--	--	0
+#EOS 3003000

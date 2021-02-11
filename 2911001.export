@@ -1,0 +1,68 @@
+#BOS 2911001
+I	Word	--	Terminal	500
+wanted	Word	--	Terminal	501
+nothing	Word	--	Terminal	502
+more	Word	--	Terminal	502
+than	Word	--	Terminal	502
+to	Word	--	Terminal	503
+see	Word	--	Terminal	504
+my	Word	--	Terminal	505
+country	Word	--	Terminal	506
+again	Word	--	Terminal	507
+,	Punctuation	--	Terminal	508
+my	Word	--	Terminal	509
+friends	Word	--	Terminal	510
+,	Punctuation	--	Terminal	511
+my	Word	--	Terminal	512
+modest	Word	--	Terminal	513
+quarters	Word	--	Terminal	514
+by	Word	--	Terminal	515
+the	Word	--	Terminal	516
+Botanical	Word	--	Terminal	517
+Gardens	Word	--	Terminal	518
+,	Punctuation	--	Terminal	519
+my	Word	--	Terminal	520
+dearly	Word	--	Terminal	521
+beloved	Word	--	Terminal	522
+collections	Word	--	Terminal	523
+!	Punctuation	--	Terminal	524
+#500	FN	--	A	537	A*	535
+#501	FN	--	P	537
+#502	FN	--	E	536
+#503	FN	--	F	535
+#504	FN	--	P	535
+#505	FN	--	E	525
+#506	FN	--	C	525
+#507	FN	--	D	535
+#508	PNCT	--	U	535
+#509	FN	--	A	526
+#510	FN	--	A	526
+#511	PNCT	--	U	534
+#512	FN	--	A	527
+#513	FN	--	S	528
+#514	FN	--	C	533	A*	527	A*	528
+#515	FN	--	R	529
+#516	FN	--	F	529
+#517	FN	--	E	529
+#518	FN	--	C	529
+#519	PNCT	--	U	534
+#520	FN	--	A	530	A*	531
+#521	FN	--	D	531
+#522	FN	--	P	531
+#523	FN	--	C	532	A*	530	A*	531
+#524	PNCT	--	U	532
+#525	FN	--	C	534
+#526	FN	--	C	534
+#527	FN	--	E	533
+#528	FN	--	E	533
+#529	FN	--	E	533
+#530	FN	--	E	532
+#531	FN	--	E	532
+#532	FN	--	C	534
+#533	FN	--	C	534
+#534	FN	--	A	535
+#535	FN	--	C	536
+#536	FN	--	A	537
+#537	FN	--	H	538
+#538	FN	--	--	0
+#EOS 2911001

@@ -1,0 +1,57 @@
+#BOS 2860002
+Well	Word	--	Terminal	500
+received	Word	--	Terminal	501
+in	Word	--	Terminal	502
+scholarly	Word	--	Terminal	503
+circles	Word	--	Terminal	504
+,	Punctuation	--	Terminal	505
+this	Word	--	Terminal	506
+book	Word	--	Terminal	507
+had	Word	--	Terminal	508
+established	Word	--	Terminal	509
+me	Word	--	Terminal	510
+as	Word	--	Terminal	511
+a	Word	--	Terminal	512
+specialist	Word	--	Terminal	513
+in	Word	--	Terminal	514
+this	Word	--	Terminal	515
+pretty	Word	--	Terminal	516
+obscure	Word	--	Terminal	517
+field	Word	--	Terminal	518
+of	Word	--	Terminal	519
+natural	Word	--	Terminal	520
+history	Word	--	Terminal	521
+.	Punctuation	--	Terminal	522
+#500	FN	--	D	525
+#501	FN	--	P	525
+#502	FN	--	R	523
+#503	FN	--	E	523
+#504	FN	--	C	523
+#505	PNCT	--	U	531
+#506	FN	--	E	524
+#507	FN	--	C	524	A*	525
+#508	FN	--	F	530
+#509	FN	--	P	530
+#510	FN	--	A	530	A*	529
+#511	FN	--	R	529
+#512	FN	--	F	529
+#513	FN	--	P	529
+#514	FN	--	R	528
+#515	FN	--	E	528
+#516	FN	--	E	526
+#517	FN	--	C	526
+#518	FN	--	C	528
+#519	FN	--	R	527
+#520	FN	--	E	527
+#521	FN	--	C	527
+#522	PNCT	--	U	527
+#523	FN	--	A	525
+#524	FN	--	A	530
+#525	FN	--	H	531
+#526	FN	--	E	528
+#527	FN	--	E	528
+#528	FN	--	A	529
+#529	FN	--	A	530
+#530	FN	--	H	531
+#531	FN	--	--	0
+#EOS 2860002

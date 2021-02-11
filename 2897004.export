@@ -1,0 +1,45 @@
+#BOS 2897004
+The	Word	--	Terminal	500
+site	Word	--	Terminal	501
+'s	Word	--	Terminal	502
+exact	Word	--	Terminal	503
+bearings	Word	--	Terminal	504
+were	Word	--	Terminal	505
+taken	Word	--	Terminal	506
+,	Punctuation	--	Terminal	507
+and	Word	--	Terminal	508
+the	Word	--	Terminal	509
+Moravian	Word	--	Terminal	510
+continued	Word	--	Terminal	511
+on	Word	--	Terminal	512
+course	Word	--	Terminal	513
+apparently	Word	--	Terminal	514
+undamaged	Word	--	Terminal	515
+.	Punctuation	--	Terminal	516
+#500	FN	--	F	517
+#501	FN	--	C	517
+#502	FN	--	R	517
+#503	FN	--	E	518
+#504	FN	--	C	518
+#505	FN	--	F	523
+#506	FN	--	P	523
+#507	PNCT	--	U	525
+#508	FN	--	L	525
+#509	FN	--	F	519
+#510	FN	--	C	519	A*	520
+#511	FN	--	P	524
+#512	FN	--	R	521
+#513	FN	--	C	521
+#514	FN	--	D	520
+#515	FN	--	P	520
+#516	PNCT	--	U	520
+#517	FN	--	E	518
+#518	FN	--	A	523
+#519	FN	--	A	524
+#520	FN	--	H	525
+#521	FN	--	A	524
+#522	FN	--	A	523
+#523	FN	--	H	525
+#524	FN	--	H	525
+#525	FN	--	--	0
+#EOS 2897004

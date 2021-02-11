@@ -1,0 +1,26 @@
+#BOS 2989003
+Nothing	Word	--	Terminal	500
+except	Word	--	Terminal	501
+an	Word	--	Terminal	502
+immenseness	Word	--	Terminal	503
+of	Word	--	Terminal	504
+deserted	Word	--	Terminal	505
+waves	Word	--	Terminal	506
+!	Punctuation	--	Terminal	507
+#500	FN	--	C	511
+#501	FN	--	N	511
+#502	FN	--	F	510
+#503	FN	--	S	510
+#504	FN	--	R	509
+#505	FN	--	S	508
+#506	FN	--	C	509	A*	508
+#507	PNCT	--	U	509
+#508	FN	--	E	509
+#509	FN	--	A	510
+#510	FN	--	C	511
+#511	FN	--	A	514
+#512	FN	--	A	514
+#513	FN	--	P	514
+#514	FN	--	H	515
+#515	FN	--	--	0
+#EOS 2989003

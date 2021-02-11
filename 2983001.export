@@ -1,0 +1,26 @@
+#BOS 2983001
+Our	Word	--	Terminal	500
+voyage	Word	--	Terminal	501
+was	Word	--	Terminal	502
+proceeding	Word	--	Terminal	503
+under	Word	--	Terminal	504
+the	Word	--	Terminal	505
+most	Word	--	Terminal	506
+favorable	Word	--	Terminal	507
+conditions	Word	--	Terminal	508
+.	Punctuation	--	Terminal	509
+#500	FN	--	A	512
+#501	FN	--	P	512
+#502	FN	--	F	512
+#503	FN	--	D	512
+#504	FN	--	R	511
+#505	FN	--	F	511
+#506	FN	--	D	510
+#507	FN	--	S	510
+#508	FN	--	C	511	A*	510
+#509	PNCT	--	U	511
+#510	FN	--	E	511
+#511	FN	--	A	512
+#512	FN	--	H	513
+#513	FN	--	--	0
+#EOS 2983001

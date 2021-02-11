@@ -1,0 +1,35 @@
+#BOS 2922012
+"	Punctuation	--	Terminal	500
+Then	Word	--	Terminal	501
+we	Word	--	Terminal	502
+are	Word	--	Terminal	503
+n't	Word	--	Terminal	504
+returning	Word	--	Terminal	505
+to	Word	--	Terminal	506
+Paris	Word	--	Terminal	507
+?	Punctuation	--	Terminal	508
+"	Punctuation	--	Terminal	509
+Conseil	Word	--	Terminal	510
+asked	Word	--	Terminal	511
+.	Punctuation	--	Terminal	512
+"	Punctuation	--	Terminal	513
+#500	PNCT	--	U	517
+#501	FN	--	L	516
+#502	FN	--	A	515
+#503	FN	--	F	515
+#504	FN	--	D	515
+#505	FN	--	P	515
+#506	FN	--	R	514
+#507	FN	--	C	514
+#508	PNCT	--	U	517
+#509	PNCT	--	U	517
+#510	FN	--	A	517
+#511	FN	--	P	517
+#512	PNCT	--	U	517
+#513	PNCT	--	U	517
+#514	FN	--	A	515
+#515	FN	--	H	516
+#516	FN	--	A	517
+#517	FN	--	H	518
+#518	FN	--	--	0
+#EOS 2922012

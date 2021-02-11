@@ -1,0 +1,36 @@
+#BOS 2847000
+When	Word	--	Terminal	500
+I	Word	--	Terminal	501
+arrived	Word	--	Terminal	502
+in	Word	--	Terminal	503
+New	Word	--	Terminal	504
+York	Word	--	Terminal	504
+,	Punctuation	--	Terminal	505
+the	Word	--	Terminal	506
+question	Word	--	Terminal	507
+was	Word	--	Terminal	508
+at	Word	--	Terminal	509
+the	Word	--	Terminal	510
+boiling	Word	--	Terminal	511
+point	Word	--	Terminal	511
+.	Punctuation	--	Terminal	512
+#500	FN	--	L	518
+#501	FN	--	A	516
+#502	FN	--	P	516
+#503	FN	--	R	513
+#504	FN	--	C	513
+#505	PNCT	--	U	518
+#506	FN	--	F	514
+#507	FN	--	C	514
+#508	FN	--	F	517
+#509	FN	--	R	515
+#510	FN	--	F	515
+#511	FN	--	C	515
+#512	PNCT	--	U	515
+#513	FN	--	A	516
+#514	FN	--	A	517
+#515	FN	--	S	517
+#516	FN	--	H	518
+#517	FN	--	H	518
+#518	FN	--	--	0
+#EOS 2847000

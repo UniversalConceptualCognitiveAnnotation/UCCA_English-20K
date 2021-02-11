@@ -1,0 +1,31 @@
+#BOS 2926001
+I	Word	--	Terminal	500
+went	Word	--	Terminal	501
+down	Word	--	Terminal	501
+a	Word	--	Terminal	502
+short	Word	--	Terminal	503
+stair	Word	--	Terminal	504
+leading	Word	--	Terminal	505
+to	Word	--	Terminal	506
+the	Word	--	Terminal	507
+ground	Word	--	Terminal	508
+floor	Word	--	Terminal	509
+.	Punctuation	--	Terminal	510
+#500	FN	--	A	515
+#501	FN	--	P	515
+#502	FN	--	F	514
+#503	FN	--	S	511
+#504	FN	--	C	514	A*	511	A*	513
+#505	FN	--	P	513
+#506	FN	--	R	512
+#507	FN	--	F	512
+#508	FN	--	E	512
+#509	FN	--	C	512
+#510	PNCT	--	U	512
+#511	FN	--	E	514
+#512	FN	--	A	513
+#513	FN	--	E	514
+#514	FN	--	A	515
+#515	FN	--	H	516
+#516	FN	--	--	0
+#EOS 2926001

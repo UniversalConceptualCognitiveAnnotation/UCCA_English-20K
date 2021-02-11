@@ -1,0 +1,30 @@
+#BOS 2922002
+Did	Word	--	Terminal	500
+master	Word	--	Terminal	501
+summon	Word	--	Terminal	502
+me	Word	--	Terminal	503
+?	Punctuation	--	Terminal	504
+"	Punctuation	--	Terminal	505
+he	Word	--	Terminal	506
+said	Word	--	Terminal	507
+,	Punctuation	--	Terminal	508
+entering	Word	--	Terminal	509
+.	Punctuation	--	Terminal	510
+"	Punctuation	--	Terminal	511
+#500	FN	--	F	512
+#501	FN	--	A	512
+#502	FN	--	P	512
+#503	FN	--	A	512
+#504	PNCT	--	U	513
+#505	PNCT	--	U	513
+#506	FN	--	A	513	A*	514
+#507	FN	--	P	513
+#508	PNCT	--	U	515
+#509	FN	--	P	514
+#510	PNCT	--	U	514
+#511	PNCT	--	U	514
+#512	FN	--	A	513
+#513	FN	--	H	515
+#514	FN	--	H	515
+#515	FN	--	--	0
+#EOS 2922002

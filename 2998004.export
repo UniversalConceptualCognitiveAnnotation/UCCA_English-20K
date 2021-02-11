@@ -1,0 +1,42 @@
+#BOS 2998004
+Sometimes	Word	--	Terminal	500
+the	Word	--	Terminal	501
+murky	Word	--	Terminal	502
+ocean	Word	--	Terminal	503
+sparkled	Word	--	Terminal	504
+beneath	Word	--	Terminal	505
+moonbeams	Word	--	Terminal	506
+that	Word	--	Terminal	507
+darted	Word	--	Terminal	508
+between	Word	--	Terminal	509
+the	Word	--	Terminal	510
+fringes	Word	--	Terminal	511
+of	Word	--	Terminal	512
+two	Word	--	Terminal	513
+clouds	Word	--	Terminal	514
+.	Punctuation	--	Terminal	515
+#500	FN	--	T	522
+#501	FN	--	F	517
+#502	FN	--	S	516
+#503	FN	--	C	517	A*	516
+#504	FN	--	P	522
+#505	FN	--	R	521
+#506	FN	--	C	521	A*	520
+#507	FN	--	R	520
+#508	FN	--	P	520
+#509	FN	--	R	519
+#510	FN	--	F	519
+#511	FN	--	C	519
+#512	FN	--	R	518
+#513	FN	--	Q	518
+#514	FN	--	C	518
+#515	PNCT	--	U	518
+#516	FN	--	E	517
+#517	FN	--	A	522
+#518	FN	--	E	519
+#519	FN	--	A	520
+#520	FN	--	E	521
+#521	FN	--	A	522
+#522	FN	--	H	523
+#523	FN	--	--	0
+#EOS 2998004

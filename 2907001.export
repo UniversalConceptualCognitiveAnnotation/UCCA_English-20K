@@ -1,0 +1,15 @@
+#BOS 2907001
+They	Word	--	Terminal	500
+could	Word	--	Terminal	501
+n't	Word	--	Terminal	501
+believe	Word	--	Terminal	501
+their	Word	--	Terminal	502
+eyes	Word	--	Terminal	501
+.	Punctuation	--	Terminal	503
+#500	FN	--	A	504
+#501	FN	--	S	504
+#502	FN	--	F	504
+#503	PNCT	--	U	504
+#504	FN	--	H	505
+#505	FN	--	--	0
+#EOS 2907001

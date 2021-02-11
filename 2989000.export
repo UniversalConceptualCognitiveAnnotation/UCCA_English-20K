@@ -1,0 +1,23 @@
+#BOS 2989000
+And	Word	--	Terminal	500
+this	Word	--	Terminal	501
+reaction	Word	--	Terminal	502
+was	Word	--	Terminal	503
+n't	Word	--	Terminal	504
+long	Word	--	Terminal	505
+in	Word	--	Terminal	505
+coming	Word	--	Terminal	505
+.	Punctuation	--	Terminal	506
+#500	FN	--	L	511
+#501	FN	--	E	509
+#502	FN	--	P	508
+#503	FN	--	F	510
+#504	FN	--	D	510
+#505	FN	--	S	510
+#506	PNCT	--	U	510
+#507	FN	--	A	508
+#508	FN	--	C	509
+#509	FN	--	A	510
+#510	FN	--	H	511
+#511	FN	--	--	0
+#EOS 2989000

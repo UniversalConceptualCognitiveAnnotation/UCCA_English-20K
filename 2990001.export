@@ -1,0 +1,40 @@
+#BOS 2990001
+At	Word	--	Terminal	500
+first	Word	--	Terminal	501
+,	Punctuation	--	Terminal	502
+discouragement	Word	--	Terminal	503
+took	Word	--	Terminal	504
+hold	Word	--	Terminal	504
+of	Word	--	Terminal	505
+people	Word	--	Terminal	506
+'s	Word	--	Terminal	507
+minds	Word	--	Terminal	508
+,	Punctuation	--	Terminal	509
+opening	Word	--	Terminal	510
+the	Word	--	Terminal	510
+door	Word	--	Terminal	510
+to	Word	--	Terminal	511
+disbelief	Word	--	Terminal	512
+.	Punctuation	--	Terminal	513
+#500	FN	--	R	514
+#501	FN	--	C	514
+#502	PNCT	--	U	520
+#503	FN	--	S	518	A*	519
+#504	FN	--	D	518
+#505	FN	--	R	516
+#506	FN	--	C	515
+#507	FN	--	R	515
+#508	FN	--	C	516
+#509	PNCT	--	U	520
+#510	FN	--	P	519
+#511	FN	--	R	517
+#512	FN	--	S	517
+#513	PNCT	--	U	517
+#514	FN	--	L	520
+#515	FN	--	E	516
+#516	FN	--	A	518
+#517	FN	--	A	519
+#518	FN	--	H	520
+#519	FN	--	H	520
+#520	FN	--	--	0
+#EOS 2990001

@@ -1,0 +1,26 @@
+#BOS 2880006
+Half	Word	--	Terminal	500
+a	Word	--	Terminal	501
+day	Word	--	Terminal	502
+'s	Word	--	Terminal	503
+delay	Word	--	Terminal	504
+would	Word	--	Terminal	505
+have	Word	--	Terminal	506
+been	Word	--	Terminal	507
+unforgivable	Word	--	Terminal	508
+!	Punctuation	--	Terminal	509
+#500	FN	--	Q	510
+#501	FN	--	F	510
+#502	FN	--	C	510
+#503	FN	--	R	510
+#504	FN	--	S	511
+#505	FN	--	F	512
+#506	FN	--	F	512
+#507	FN	--	F	512
+#508	FN	--	S	512
+#509	PNCT	--	U	512
+#510	FN	--	T	511
+#511	FN	--	A	512
+#512	FN	--	H	513
+#513	FN	--	--	0
+#EOS 2880006

@@ -1,0 +1,22 @@
+#BOS 2968009
+"	Punctuation	--	Terminal	500
+Fire	Word	--	Terminal	501
+and	Word	--	Terminal	501
+brimstone	Word	--	Terminal	501
+!	Punctuation	--	Terminal	502
+"	Punctuation	--	Terminal	503
+Ned	Word	--	Terminal	504
+put	Word	--	Terminal	505
+in	Word	--	Terminal	505
+.	Punctuation	--	Terminal	506
+#500	PNCT	--	U	508
+#501	FN	--	G	507
+#502	PNCT	--	U	508
+#503	PNCT	--	U	508
+#504	FN	--	A	508
+#505	FN	--	P	508
+#506	PNCT	--	U	508
+#507	FN	--	A	508
+#508	FN	--	H	509
+#509	FN	--	--	0
+#EOS 2968009

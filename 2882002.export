@@ -1,0 +1,36 @@
+#BOS 2882002
+Very	Word	--	Terminal	500
+cordially	Word	--	Terminal	501
+yours	Word	--	Terminal	502
+,	Punctuation	--	Terminal	503
+J	Word	--	Terminal	506
+.	Punctuation	--	Terminal	504
+B	Word	--	Terminal	506
+.	Punctuation	--	Terminal	505
+HOBSON	Word	--	Terminal	506
+,	Punctuation	--	Terminal	507
+Secretary	Word	--	Terminal	508
+of	Word	--	Terminal	509
+the	Word	--	Terminal	510
+Navy	Word	--	Terminal	511
+.	Punctuation	--	Terminal	512
+#500	FN	--	E	513
+#501	FN	--	C	513
+#502	FN	--	C	514
+#503	PNCT	--	U	518
+#504	PNCT	--	U	506
+#505	PNCT	--	U	506
+#506	FN	--	C	517	A*	516
+#507	PNCT	--	U	517
+#508	FN	--	P	516
+#509	FN	--	R	515
+#510	FN	--	F	515
+#511	FN	--	C	515
+#512	PNCT	--	U	515
+#513	FN	--	E	514
+#514	FN	--	H	518
+#515	FN	--	A	516
+#516	FN	--	E	517
+#517	FN	--	H	518
+#518	FN	--	--	0
+#EOS 2882002

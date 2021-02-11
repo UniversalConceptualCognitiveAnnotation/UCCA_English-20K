@@ -1,0 +1,57 @@
+#BOS 3002005
+"	Punctuation	--	Terminal	500
+When	Word	--	Terminal	501
+one	Word	--	Terminal	502
+has	Word	--	Terminal	503
+the	Word	--	Terminal	504
+honor	Word	--	Terminal	505
+of	Word	--	Terminal	506
+being	Word	--	Terminal	507
+an	Word	--	Terminal	508
+expert	Word	--	Terminal	509
+as	Word	--	Terminal	510
+master	Word	--	Terminal	511
+is	Word	--	Terminal	512
+,	Punctuation	--	Terminal	513
+one	Word	--	Terminal	514
+must	Word	--	Terminal	515
+n't	Word	--	Terminal	516
+lay	Word	--	Terminal	517
+himself	Word	--	Terminal	518
+open	Word	--	Terminal	517
+to-	Word	--	Terminal	517
+"	Punctuation	--	Terminal	519
+#500	PNCT	--	U	528
+#501	FN	--	L	528
+#502	FN	--	A	525	A*	523
+#503	FN	--	F	520
+#504	FN	--	F	520
+#505	FN	--	C	520
+#506	FN	--	R	524
+#507	FN	--	F	523
+#508	FN	--	F	521
+#509	FN	--	C	521	S*	522
+#510	FN	--	L	524
+#511	FN	--	A	522
+#512	FN	--	F	522
+#513	PNCT	--	U	528
+#514	FN	--	A	527
+#515	FN	--	D	527
+#516	FN	--	D	527
+#517	FN	--	P	527
+#518	FN	--	A	527
+#519	PNCT	--	U	527
+#520	FN	--	S	525
+#521	FN	--	S	523
+#522	FN	--	H	524
+#523	FN	--	H	524
+#524	FN	--	A	525
+#525	FN	--	H	528
+#526	FN	--	A	527
+#527	FN	--	H	528
+#528	FN	--	A	531
+#529	FN	--	A	531
+#530	FN	--	P	531
+#531	FN	--	H	532
+#532	FN	--	--	0
+#EOS 3002005

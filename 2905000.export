@@ -1,0 +1,27 @@
+#BOS 2905000
+Captain	Word	--	Terminal	500
+Anderson	Word	--	Terminal	501
+immediately	Word	--	Terminal	502
+made	Word	--	Terminal	503
+his	Word	--	Terminal	504
+way	Word	--	Terminal	505
+into	Word	--	Terminal	506
+the	Word	--	Terminal	507
+hold	Word	--	Terminal	508
+.	Punctuation	--	Terminal	509
+#500	FN	--	E	510
+#501	FN	--	C	510
+#502	FN	--	D	513
+#503	FN	--	F	511
+#504	FN	--	F	513
+#505	FN	--	C	511
+#506	FN	--	R	512
+#507	FN	--	F	512
+#508	FN	--	C	512
+#509	PNCT	--	U	512
+#510	FN	--	A	513
+#511	FN	--	P	513
+#512	FN	--	A	513
+#513	FN	--	H	514
+#514	FN	--	--	0
+#EOS 2905000

@@ -1,0 +1,91 @@
+#BOS 2874004
+Now	Word	--	Terminal	500
+then	Word	--	Terminal	500
+,	Punctuation	--	Terminal	501
+the	Word	--	Terminal	502
+sea	Word	--	Terminal	503
+is	Word	--	Terminal	504
+precisely	Word	--	Terminal	505
+their	Word	--	Terminal	506
+best	Word	--	Terminal	507
+medium	Word	--	Terminal	508
+,	Punctuation	--	Terminal	509
+the	Word	--	Terminal	510
+only	Word	--	Terminal	511
+setting	Word	--	Terminal	512
+suitable	Word	--	Terminal	513
+for	Word	--	Terminal	514
+the	Word	--	Terminal	515
+breeding	Word	--	Terminal	516
+and	Word	--	Terminal	517
+growing	Word	--	Terminal	518
+of	Word	--	Terminal	519
+such	Word	--	Terminal	520
+giants	Word	--	Terminal	521
+-	Punctuation	--	Terminal	522
+next	Word	--	Terminal	523
+to	Word	--	Terminal	523
+which	Word	--	Terminal	524
+such	Word	--	Terminal	525
+land	Word	--	Terminal	526
+animals	Word	--	Terminal	527
+as	Word	--	Terminal	525
+elephants	Word	--	Terminal	528
+or	Word	--	Terminal	529
+rhinoceroses	Word	--	Terminal	530
+are	Word	--	Terminal	531
+mere	Word	--	Terminal	532
+dwarves	Word	--	Terminal	533
+.	Punctuation	--	Terminal	534
+#500	FN	--	L	550
+#501	PNCT	--	U	550
+#502	FN	--	F	535
+#503	FN	--	C	535	A*	549
+#504	FN	--	S	539	S*	549
+#505	FN	--	D	539
+#506	FN	--	E	536
+#507	FN	--	E	536
+#508	FN	--	C	536
+#509	PNCT	--	U	550
+#510	FN	--	F	548
+#511	FN	--	E	548
+#512	FN	--	C	548	A*	547
+#513	FN	--	S	547
+#514	FN	--	R	544	R*	545
+#515	FN	--	F	544
+#516	FN	--	P	544
+#517	FN	--	L	546
+#518	FN	--	P	545
+#519	FN	--	R	543
+#520	FN	--	E	543
+#521	FN	--	C	543	C*	537
+#522	PNCT	--	U	543
+#523	FN	--	R	537
+#524	FN	--	R	542
+#525	FN	--	R	540
+#526	FN	--	E	541
+#527	FN	--	C	541
+#528	FN	--	C	538
+#529	FN	--	N	538
+#530	FN	--	C	538
+#531	FN	--	F	542
+#532	FN	--	D	542
+#533	FN	--	S	542
+#534	PNCT	--	U	542
+#535	FN	--	A	539
+#536	FN	--	A	539
+#537	FN	--	A	542
+#538	FN	--	C	540
+#539	FN	--	H	550
+#540	FN	--	E	541
+#541	FN	--	A	542
+#542	FN	--	E	543
+#543	FN	--	A	544	A*	545
+#544	FN	--	H	546
+#545	FN	--	H	546
+#546	FN	--	A	547
+#547	FN	--	E	548
+#548	FN	--	A	549
+#549	FN	--	H	550
+#550	FN	--	--	0
+#EOS 2874004

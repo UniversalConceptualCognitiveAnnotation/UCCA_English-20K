@@ -1,0 +1,50 @@
+#BOS 2957002
+Then	Word	--	Terminal	500
+,	Punctuation	--	Terminal	501
+seeing	Word	--	Terminal	502
+that	Word	--	Terminal	503
+Ned	Word	--	Terminal	504
+just	Word	--	Terminal	505
+let	Word	--	Terminal	506
+me	Word	--	Terminal	507
+talk	Word	--	Terminal	508
+without	Word	--	Terminal	509
+saying	Word	--	Terminal	510
+much	Word	--	Terminal	511
+himself	Word	--	Terminal	512
+,	Punctuation	--	Terminal	513
+I	Word	--	Terminal	514
+pressed	Word	--	Terminal	515
+him	Word	--	Terminal	516
+more	Word	--	Terminal	517
+closely	Word	--	Terminal	518
+.	Punctuation	--	Terminal	519
+#500	FN	--	L	527
+#501	PNCT	--	U	527
+#502	FN	--	P	526
+#503	FN	--	R	525
+#504	FN	--	A	520	C*	521
+#505	FN	--	D	520
+#506	FN	--	D	520
+#507	FN	--	A	520
+#508	FN	--	P	520
+#509	FN	--	L	525	D*	522
+#510	FN	--	P	522
+#511	FN	--	D	522
+#512	FN	--	E	521
+#513	PNCT	--	U	526
+#514	FN	--	A	524	A*	526
+#515	FN	--	P	524
+#516	FN	--	A	524
+#517	FN	--	E	523
+#518	FN	--	C	523
+#519	PNCT	--	U	523
+#520	FN	--	H	525
+#521	FN	--	A	522
+#522	FN	--	H	525
+#523	FN	--	D	524
+#524	FN	--	H	527
+#525	FN	--	A	526
+#526	FN	--	H	527
+#527	FN	--	--	0
+#EOS 2957002

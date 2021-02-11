@@ -1,0 +1,77 @@
+#BOS 2992002
+Never	Word	--	Terminal	500
+had	Word	--	Terminal	501
+the	Word	--	Terminal	502
+crew	Word	--	Terminal	503
+of	Word	--	Terminal	504
+an	Word	--	Terminal	505
+American	Word	--	Terminal	506
+naval	Word	--	Terminal	507
+craft	Word	--	Terminal	508
+shown	Word	--	Terminal	509
+more	Word	--	Terminal	510
+patience	Word	--	Terminal	511
+and	Word	--	Terminal	512
+zeal	Word	--	Terminal	513
+;	Punctuation	--	Terminal	514
+they	Word	--	Terminal	515
+were	Word	--	Terminal	516
+n't	Word	--	Terminal	517
+responsible	Word	--	Terminal	518
+for	Word	--	Terminal	519
+this	Word	--	Terminal	520
+failure	Word	--	Terminal	521
+;	Punctuation	--	Terminal	522
+there	Word	--	Terminal	523
+was	Word	--	Terminal	524
+nothing	Word	--	Terminal	525
+to	Word	--	Terminal	526
+do	Word	--	Terminal	527
+but	Word	--	Terminal	528
+go	Word	--	Terminal	529
+home	Word	--	Terminal	530
+.	Punctuation	--	Terminal	531
+#500	FN	--	T	536	T*	537
+#501	FN	--	F	536
+#502	FN	--	F	534
+#503	FN	--	A	534
+#504	FN	--	R	532
+#505	FN	--	F	532
+#506	FN	--	E	532
+#507	FN	--	E	532
+#508	FN	--	C	532
+#509	FN	--	D	536	D*	537
+#510	FN	--	D	536	D*	537
+#511	FN	--	S	536
+#512	FN	--	L	542
+#513	FN	--	S	537
+#514	PNCT	--	U	542
+#515	FN	--	A	541	A*	535
+#516	FN	--	F	541
+#517	FN	--	D	541
+#518	FN	--	S	541
+#519	FN	--	R	540
+#520	FN	--	E	540
+#521	FN	--	S	539
+#522	PNCT	--	U	542
+#523	FN	--	F	535
+#524	FN	--	F	535
+#525	FN	--	A	535
+#526	FN	--	F	535
+#527	FN	--	P	535
+#528	FN	--	R	533
+#529	FN	--	P	533
+#530	FN	--	A	533
+#531	PNCT	--	U	533
+#532	FN	--	A	534
+#533	FN	--	A	535
+#534	FN	--	A	536	A*	537
+#535	FN	--	H	542
+#536	FN	--	H	542
+#537	FN	--	H	542
+#538	FN	--	A	539
+#539	FN	--	C	540
+#540	FN	--	A	541
+#541	FN	--	H	542
+#542	FN	--	--	0
+#EOS 2992002

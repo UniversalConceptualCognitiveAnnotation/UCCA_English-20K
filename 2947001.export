@@ -1,0 +1,23 @@
+#BOS 2947001
+No	Word	--	Terminal	500
+whaling	Word	--	Terminal	501
+vessel	Word	--	Terminal	502
+could	Word	--	Terminal	503
+have	Word	--	Terminal	504
+been	Word	--	Terminal	505
+better	Word	--	Terminal	506
+armed	Word	--	Terminal	507
+.	Punctuation	--	Terminal	508
+#500	FN	--	D	510
+#501	FN	--	E	509
+#502	FN	--	C	509
+#503	FN	--	D	510
+#504	FN	--	F	510
+#505	FN	--	F	510
+#506	FN	--	D	510
+#507	FN	--	S	510
+#508	PNCT	--	U	510
+#509	FN	--	A	510
+#510	FN	--	H	511
+#511	FN	--	--	0
+#EOS 2947001

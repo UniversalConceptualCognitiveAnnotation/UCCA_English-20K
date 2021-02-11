@@ -1,0 +1,36 @@
+#BOS 2874002
+Moreover	Word	--	Terminal	500
+,	Punctuation	--	Terminal	501
+the	Word	--	Terminal	502
+solution	Word	--	Terminal	503
+it	Word	--	Terminal	504
+proposed	Word	--	Terminal	505
+allowed	Word	--	Terminal	506
+for	Word	--	Terminal	507
+free	Word	--	Terminal	508
+play	Word	--	Terminal	509
+of	Word	--	Terminal	510
+the	Word	--	Terminal	511
+imagination	Word	--	Terminal	512
+.	Punctuation	--	Terminal	513
+#500	FN	--	L	519
+#501	PNCT	--	U	519
+#502	FN	--	F	515
+#503	FN	--	C	515	A*	514
+#504	FN	--	A	514
+#505	FN	--	P	514
+#506	FN	--	D	518
+#507	FN	--	R	516
+#508	FN	--	D	518
+#509	FN	--	C	516
+#510	FN	--	R	517
+#511	FN	--	F	517
+#512	FN	--	C	517
+#513	PNCT	--	U	517
+#514	FN	--	E	515
+#515	FN	--	A	518
+#516	FN	--	P	518
+#517	FN	--	A	518
+#518	FN	--	H	519
+#519	FN	--	--	0
+#EOS 2874002

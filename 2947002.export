@@ -1,0 +1,73 @@
+#BOS 2947002
+We	Word	--	Terminal	500
+had	Word	--	Terminal	501
+every	Word	--	Terminal	502
+known	Word	--	Terminal	503
+mechanism	Word	--	Terminal	504
+,	Punctuation	--	Terminal	505
+from	Word	--	Terminal	506
+the	Word	--	Terminal	507
+hand	Word	--	Terminal	508
+-	Punctuation	--	Terminal	509
+hurled	Word	--	Terminal	510
+harpoon	Word	--	Terminal	511
+,	Punctuation	--	Terminal	512
+to	Word	--	Terminal	513
+the	Word	--	Terminal	514
+blunderbuss	Word	--	Terminal	515
+firing	Word	--	Terminal	516
+barbed	Word	--	Terminal	517
+arrows	Word	--	Terminal	518
+,	Punctuation	--	Terminal	519
+to	Word	--	Terminal	520
+the	Word	--	Terminal	521
+duck	Word	--	Terminal	522
+gun	Word	--	Terminal	523
+with	Word	--	Terminal	524
+exploding	Word	--	Terminal	525
+bullets	Word	--	Terminal	526
+.	Punctuation	--	Terminal	527
+#500	FN	--	A	541
+#501	FN	--	S	541
+#502	FN	--	Q	540
+#503	FN	--	P	535
+#504	FN	--	C	540	A*	535
+#505	PNCT	--	U	540
+#506	FN	--	R	539
+#507	FN	--	F	529
+#508	FN	--	A	528
+#509	PNCT	--	U	528
+#510	FN	--	P	528
+#511	FN	--	C	529	A*	528
+#512	PNCT	--	U	539
+#513	FN	--	R	539
+#514	FN	--	F	538
+#515	FN	--	C	538	A*	537
+#516	FN	--	P	537
+#517	FN	--	S	530
+#518	FN	--	C	531	A*	530
+#519	PNCT	--	U	539
+#520	FN	--	R	539
+#521	FN	--	F	536
+#522	FN	--	E	536
+#523	FN	--	C	536
+#524	FN	--	R	533
+#525	FN	--	P	532
+#526	FN	--	C	533	A*	532
+#527	PNCT	--	U	533
+#528	FN	--	E	529
+#529	FN	--	C	539
+#530	FN	--	E	531
+#531	FN	--	A	537
+#532	FN	--	E	533
+#533	FN	--	E	536
+#534	FN	--	A	535
+#535	FN	--	E	540
+#536	FN	--	C	539
+#537	FN	--	E	538
+#538	FN	--	C	539
+#539	FN	--	E	540
+#540	FN	--	A	541
+#541	FN	--	H	542
+#542	FN	--	--	0
+#EOS 2947002

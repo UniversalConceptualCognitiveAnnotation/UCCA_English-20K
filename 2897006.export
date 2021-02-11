@@ -1,0 +1,17 @@
+#BOS 2897006
+They	Word	--	Terminal	500
+were	Word	--	Terminal	501
+unable	Word	--	Terminal	502
+to	Word	--	Terminal	503
+say	Word	--	Terminal	504
+.	Punctuation	--	Terminal	505
+#500	FN	--	A	507
+#501	FN	--	F	507
+#502	FN	--	D	507
+#503	FN	--	F	507
+#504	FN	--	P	507
+#505	PNCT	--	U	507
+#506	FN	--	A	507
+#507	FN	--	H	508
+#508	FN	--	--	0
+#EOS 2897006

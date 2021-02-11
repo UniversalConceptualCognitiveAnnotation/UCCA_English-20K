@@ -1,0 +1,12 @@
+#BOS 2922001
+Conseil	Word	--	Terminal	500
+appeared	Word	--	Terminal	501
+.	Punctuation	--	Terminal	502
+"	Punctuation	--	Terminal	503
+#500	FN	--	A	504
+#501	FN	--	P	504
+#502	PNCT	--	U	504
+#503	PNCT	--	U	504
+#504	FN	--	H	505
+#505	FN	--	--	0
+#EOS 2922001

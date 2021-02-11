@@ -1,0 +1,37 @@
+#BOS 2968006
+"	Punctuation	--	Terminal	500
+Yes	Word	--	Terminal	501
+,	Punctuation	--	Terminal	502
+I	Word	--	Terminal	503
+see	Word	--	Terminal	504
+,	Punctuation	--	Terminal	505
+"	Punctuation	--	Terminal	506
+Ned	Word	--	Terminal	507
+replied	Word	--	Terminal	508
+,	Punctuation	--	Terminal	509
+growing	Word	--	Terminal	510
+more	Word	--	Terminal	511
+interested	Word	--	Terminal	512
+.	Punctuation	--	Terminal	513
+"	Punctuation	--	Terminal	514
+#500	PNCT	--	U	519
+#501	FN	--	D	515
+#502	PNCT	--	U	515
+#503	FN	--	A	515
+#504	FN	--	P	515
+#505	PNCT	--	U	518
+#506	PNCT	--	U	518
+#507	FN	--	A	518	A*	516
+#508	FN	--	P	518
+#509	PNCT	--	U	519
+#510	FN	--	D	516
+#511	FN	--	D	516
+#512	FN	--	P	516
+#513	PNCT	--	U	516
+#514	PNCT	--	U	516
+#515	FN	--	H	517
+#516	FN	--	H	519
+#517	FN	--	A	518
+#518	FN	--	H	519
+#519	FN	--	--	0
+#EOS 2968006

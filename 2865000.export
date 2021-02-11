@@ -1,0 +1,47 @@
+#BOS 2865000
+"	Punctuation	--	Terminal	500
+Either	Word	--	Terminal	501
+we	Word	--	Terminal	502
+know	Word	--	Terminal	503
+every	Word	--	Terminal	504
+variety	Word	--	Terminal	505
+of	Word	--	Terminal	506
+creature	Word	--	Terminal	507
+populating	Word	--	Terminal	508
+our	Word	--	Terminal	509
+planet	Word	--	Terminal	510
+,	Punctuation	--	Terminal	511
+or	Word	--	Terminal	512
+we	Word	--	Terminal	513
+do	Word	--	Terminal	514
+not	Word	--	Terminal	515
+.	Punctuation	--	Terminal	516
+#500	PNCT	--	U	523
+#501	FN	--	L	523
+#502	FN	--	A	521
+#503	FN	--	P	521	P*	522
+#504	FN	--	Q	520
+#505	FN	--	C	520
+#506	FN	--	R	519
+#507	FN	--	C	519	A*	518
+#508	FN	--	P	518
+#509	FN	--	E	517
+#510	FN	--	C	517
+#511	PNCT	--	U	523
+#512	FN	--	L	523
+#513	FN	--	A	522
+#514	FN	--	F	522
+#515	FN	--	D	522
+#516	PNCT	--	U	522
+#517	FN	--	A	518
+#518	FN	--	E	519
+#519	FN	--	E	520
+#520	FN	--	A	521	A*	522
+#521	FN	--	H	523
+#522	FN	--	H	523
+#523	FN	--	A	526
+#524	FN	--	A	526
+#525	FN	--	P	526
+#526	FN	--	H	527
+#527	FN	--	--	0
+#EOS 2865000

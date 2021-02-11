@@ -1,0 +1,37 @@
+#BOS 2920000
+"	Punctuation	--	Terminal	500
+Conseil	Word	--	Terminal	501
+!	Punctuation	--	Terminal	502
+"	Punctuation	--	Terminal	503
+I	Word	--	Terminal	504
+repeated	Word	--	Terminal	505
+,	Punctuation	--	Terminal	506
+while	Word	--	Terminal	507
+feverishly	Word	--	Terminal	508
+beginning	Word	--	Terminal	509
+my	Word	--	Terminal	510
+preparations	Word	--	Terminal	511
+for	Word	--	Terminal	512
+departure	Word	--	Terminal	513
+.	Punctuation	--	Terminal	514
+#500	PNCT	--	U	519
+#501	FN	--	G	515
+#502	PNCT	--	U	516
+#503	PNCT	--	U	516
+#504	FN	--	A	516
+#505	FN	--	P	516
+#506	PNCT	--	U	519
+#507	FN	--	L	519
+#508	FN	--	D	518
+#509	FN	--	D	518
+#510	FN	--	A	518	A*	517
+#511	FN	--	P	518
+#512	FN	--	R	517
+#513	FN	--	P	517
+#514	PNCT	--	U	517
+#515	FN	--	A	516
+#516	FN	--	H	519
+#517	FN	--	A	518
+#518	FN	--	H	519
+#519	FN	--	--	0
+#EOS 2920000

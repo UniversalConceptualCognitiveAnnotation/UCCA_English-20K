@@ -1,0 +1,30 @@
+#BOS 2917003
+He	Word	--	Terminal	500
+went	Word	--	Terminal	501
+here	Word	--	Terminal	502
+,	Punctuation	--	Terminal	503
+there	Word	--	Terminal	504
+,	Punctuation	--	Terminal	505
+and	Word	--	Terminal	506
+everywhere	Word	--	Terminal	507
+in	Word	--	Terminal	508
+perfect	Word	--	Terminal	509
+contentment	Word	--	Terminal	510
+.	Punctuation	--	Terminal	511
+#500	FN	--	A	514	A*	512
+#501	FN	--	P	514
+#502	FN	--	C	513
+#503	PNCT	--	U	513
+#504	FN	--	C	513
+#505	PNCT	--	U	513
+#506	FN	--	N	513
+#507	FN	--	C	513
+#508	FN	--	L	515
+#509	FN	--	D	512
+#510	FN	--	S	512
+#511	PNCT	--	U	512
+#512	FN	--	H	515
+#513	FN	--	A	514
+#514	FN	--	H	515
+#515	FN	--	--	0
+#EOS 2917003

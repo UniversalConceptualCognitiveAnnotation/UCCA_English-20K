@@ -1,0 +1,55 @@
+#BOS 2947000
+As	Word	--	Terminal	500
+I	Word	--	Terminal	500
+said	Word	--	Terminal	500
+,	Punctuation	--	Terminal	501
+Commander	Word	--	Terminal	502
+Farragut	Word	--	Terminal	503
+had	Word	--	Terminal	504
+carefully	Word	--	Terminal	505
+equipped	Word	--	Terminal	506
+his	Word	--	Terminal	507
+ship	Word	--	Terminal	508
+with	Word	--	Terminal	509
+all	Word	--	Terminal	510
+the	Word	--	Terminal	511
+gear	Word	--	Terminal	512
+needed	Word	--	Terminal	513
+to	Word	--	Terminal	514
+fish	Word	--	Terminal	515
+for	Word	--	Terminal	516
+a	Word	--	Terminal	517
+gigantic	Word	--	Terminal	518
+cetacean	Word	--	Terminal	519
+.	Punctuation	--	Terminal	520
+#500	FN	--	G	528
+#501	PNCT	--	U	528
+#502	FN	--	E	521
+#503	FN	--	C	521
+#504	FN	--	F	528
+#505	FN	--	D	528
+#506	FN	--	P	528
+#507	FN	--	E	522
+#508	FN	--	C	522
+#509	FN	--	R	527
+#510	FN	--	Q	527
+#511	FN	--	F	527
+#512	FN	--	C	527	A*	526
+#513	FN	--	D	526
+#514	FN	--	F	526
+#515	FN	--	P	526
+#516	FN	--	R	524
+#517	FN	--	F	524
+#518	FN	--	S	523
+#519	FN	--	C	524	A*	523
+#520	PNCT	--	U	524
+#521	FN	--	A	528
+#522	FN	--	A	528
+#523	FN	--	E	524
+#524	FN	--	A	526
+#525	FN	--	A	526
+#526	FN	--	E	527
+#527	FN	--	A	528
+#528	FN	--	H	529
+#529	FN	--	--	0
+#EOS 2947000

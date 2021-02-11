@@ -1,0 +1,36 @@
+#BOS 2999002
+Perhaps	Word	--	Terminal	500
+his	Word	--	Terminal	501
+nerves	Word	--	Terminal	502
+were	Word	--	Terminal	503
+twitching	Word	--	Terminal	504
+with	Word	--	Terminal	505
+curiosity	Word	--	Terminal	506
+for	Word	--	Terminal	507
+the	Word	--	Terminal	508
+first	Word	--	Terminal	509
+time	Word	--	Terminal	510
+in	Word	--	Terminal	511
+history	Word	--	Terminal	512
+.	Punctuation	--	Terminal	513
+#500	FN	--	D	518
+#501	FN	--	E	514
+#502	FN	--	C	514
+#503	FN	--	F	518
+#504	FN	--	P	518
+#505	FN	--	R	515
+#506	FN	--	C	515
+#507	FN	--	R	517
+#508	FN	--	F	517
+#509	FN	--	Q	517
+#510	FN	--	C	517
+#511	FN	--	R	516
+#512	FN	--	C	516
+#513	PNCT	--	U	516
+#514	FN	--	A	518
+#515	FN	--	D	518
+#516	FN	--	E	517
+#517	FN	--	T	518
+#518	FN	--	H	519
+#519	FN	--	--	0
+#EOS 2999002

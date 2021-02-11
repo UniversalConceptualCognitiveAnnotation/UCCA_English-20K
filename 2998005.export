@@ -1,0 +1,27 @@
+#BOS 2998005
+Then	Word	--	Terminal	500
+all	Word	--	Terminal	501
+traces	Word	--	Terminal	502
+of	Word	--	Terminal	503
+light	Word	--	Terminal	504
+vanished	Word	--	Terminal	505
+into	Word	--	Terminal	506
+the	Word	--	Terminal	507
+darkness	Word	--	Terminal	508
+.	Punctuation	--	Terminal	509
+#500	FN	--	L	514
+#501	FN	--	Q	512
+#502	FN	--	C	512
+#503	FN	--	R	510
+#504	FN	--	C	510
+#505	FN	--	P	513
+#506	FN	--	R	511
+#507	FN	--	F	511
+#508	FN	--	C	511
+#509	PNCT	--	U	511
+#510	FN	--	E	512
+#511	FN	--	A	513
+#512	FN	--	A	513
+#513	FN	--	H	514
+#514	FN	--	--	0
+#EOS 2998005

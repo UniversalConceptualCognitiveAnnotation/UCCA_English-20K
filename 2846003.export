@@ -1,0 +1,44 @@
+#BOS 2846003
+Finding	Word	--	Terminal	500
+it	Word	--	Terminal	501
+impossible	Word	--	Terminal	502
+to	Word	--	Terminal	503
+form	Word	--	Terminal	504
+any	Word	--	Terminal	505
+views	Word	--	Terminal	506
+,	Punctuation	--	Terminal	507
+I	Word	--	Terminal	508
+drifted	Word	--	Terminal	509
+from	Word	--	Terminal	510
+one	Word	--	Terminal	511
+extreme	Word	--	Terminal	512
+to	Word	--	Terminal	513
+the	Word	--	Terminal	514
+other	Word	--	Terminal	515
+.	Punctuation	--	Terminal	516
+#500	FN	--	P	523
+#501	FN	--	F	523
+#502	FN	--	D	521
+#503	FN	--	F	521
+#504	FN	--	P	521
+#505	FN	--	E	517
+#506	FN	--	C	517
+#507	PNCT	--	U	523
+#508	FN	--	A	522	A*	523
+#509	FN	--	P	522
+#510	FN	--	R	520
+#511	FN	--	F	518
+#512	FN	--	C	518	C*	519
+#513	FN	--	R	520
+#514	FN	--	F	519
+#515	FN	--	E	519
+#516	PNCT	--	U	519
+#517	FN	--	A	521
+#518	FN	--	C	520
+#519	FN	--	C	520
+#520	FN	--	A	522
+#521	FN	--	A	523
+#522	FN	--	H	524
+#523	FN	--	H	524
+#524	FN	--	--	0
+#EOS 2846003

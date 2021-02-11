@@ -1,0 +1,27 @@
+#BOS 2897002
+They	Word	--	Terminal	500
+examined	Word	--	Terminal	501
+the	Word	--	Terminal	502
+ocean	Word	--	Terminal	503
+with	Word	--	Terminal	504
+the	Word	--	Terminal	505
+most	Word	--	Terminal	506
+scrupulous	Word	--	Terminal	507
+care	Word	--	Terminal	508
+.	Punctuation	--	Terminal	509
+#500	FN	--	A	513
+#501	FN	--	P	513
+#502	FN	--	F	510
+#503	FN	--	C	510
+#504	FN	--	R	512
+#505	FN	--	F	512
+#506	FN	--	E	511
+#507	FN	--	C	511
+#508	FN	--	C	512
+#509	PNCT	--	U	512
+#510	FN	--	A	513
+#511	FN	--	D	512
+#512	FN	--	A	513
+#513	FN	--	H	514
+#514	FN	--	--	0
+#EOS 2897002
