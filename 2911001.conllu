@@ -1,0 +1,31 @@
+# format = ucca
+# sent_id = 2911001
+# text = I wanted nothing more than to see my country again , my friends , my modest quarters by the Botanical Gardens , my dearly beloved collections !
+1	I	_	Word	Word	_	2	A	2:A|7:A	_
+2	wanted	_	Word	Word	_	0	H	0:H	_
+3	nothing	_	Word	Word	_	7	E	7:E	_
+4	more	_	Word	Word	_	3	Terminal	3:Terminal	_
+5	than	_	Word	Word	_	3	Terminal	3:Terminal	_
+6	to	_	Word	Word	_	7	F	7:F	_
+7	see	_	Word	Word	_	2	A	2:A	_
+8	my	_	Word	Word	_	9	E	9:E	_
+9	country	_	Word	Word	_	7	A	7:A	_
+10	again	_	Word	Word	_	7	D	7:D	_
+11	,	_	Punctuation	Punctuation	_	7	U	7:U	_
+12	my	_	Word	Word	_	9	C	9:C	_
+13	friends	_	Word	Word	_	12	A	12:A	_
+14	,	_	Punctuation	Punctuation	_	9	U	9:U	_
+15	my	_	Word	Word	_	17	E	17:E	_
+16	modest	_	Word	Word	_	17	E	17:E	_
+17	quarters	_	Word	Word	_	9	C	9:C	_
+18	by	_	Word	Word	_	21	R	21:R	_
+19	the	_	Word	Word	_	21	F	21:F	_
+20	Botanical	_	Word	Word	_	21	E	21:E	_
+21	Gardens	_	Word	Word	_	17	E	17:E	_
+22	,	_	Punctuation	Punctuation	_	9	U	9:U	_
+23	my	_	Word	Word	_	26	E	26:E	_
+24	dearly	_	Word	Word	_	25	D	25:D	_
+25	beloved	_	Word	Word	_	26	E	26:E	_
+26	collections	_	Word	Word	_	9	C	9:C	_
+27	!	_	Punctuation	Punctuation	_	26	U	26:U	_
+

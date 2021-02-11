@@ -1,0 +1,23 @@
+# format = ucca
+# sent_id = 2942001
+# text = The harbor pilot went down into his dinghy and rejoined a little schooner waiting for him to leeward .
+1	The	_	Word	Word	_	2	F	2:F	_
+2	harbor	_	Word	Word	_	4	A	4:A	_
+3	pilot	_	Word	Word	_	2	A	2:A|10:A	_
+4	went	_	Word	Word	_	0	H	0:H	_
+5	down	_	Word	Word	_	4	Terminal	4:Terminal	_
+6	into	_	Word	Word	_	8	R	8:R	_
+7	his	_	Word	Word	_	8	E	8:E	_
+8	dinghy	_	Word	Word	_	4	A	4:A	_
+9	and	_	Word	Word	_	10	L	10:L	_
+10	rejoined	_	Word	Word	_	4	H	4:H	_
+11	a	_	Word	Word	_	13	F	13:F	_
+12	little	_	Word	Word	_	13	E	13:E	_
+13	schooner	_	Word	Word	_	10	A	10:A	_
+14	waiting	_	Word	Word	_	13	E	13:E	_
+15	for	_	Word	Word	_	16	R	16:R	_
+16	him	_	Word	Word	_	14	A	14:A	_
+17	to	_	Word	Word	_	18	R	18:R	_
+18	leeward	_	Word	Word	_	14	A	14:A	_
+19	.	_	Punctuation	Punctuation	_	18	U	18:U	_
+

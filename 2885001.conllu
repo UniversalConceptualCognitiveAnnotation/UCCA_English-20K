@@ -1,0 +1,21 @@
+# format = ucca
+# sent_id = 2885001
+# text = If it was a cetacean , it exceeded in bulk any whale previously classified by science .
+1	If	_	Word	Word	_	8	L	8:L	_
+2	it	_	Word	Word	_	3	A	3:A	_
+3	was	_	Word	Word	_	0	H	0:H	_
+4	a	_	Word	Word	_	5	F	5:F	_
+5	cetacean	_	Word	Word	_	3	A	3:A	_
+6	,	_	Punctuation	Punctuation	_	3	U	3:U	_
+7	it	_	Word	Word	_	8	A	8:A	_
+8	exceeded	_	Word	Word	_	3	H	3:H	_
+9	in	_	Word	Word	_	8	D	8:D	_
+10	bulk	_	Word	Word	_	9	Terminal	9:Terminal	_
+11	any	_	Word	Word	_	12	Q	12:Q	_
+12	whale	_	Word	Word	_	8	A	8:A	_
+13	previously	_	Word	Word	_	14	T	14:T	_
+14	classified	_	Word	Word	_	12	E	12:E	_
+15	by	_	Word	Word	_	16	R	16:R	_
+16	science	_	Word	Word	_	14	A	14:A	_
+17	.	_	Punctuation	Punctuation	_	16	U	16:U	_
+

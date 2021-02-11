@@ -1,0 +1,28 @@
+# format = ucca
+# sent_id = 3000000
+# text = " Come on , Conseil ! " I told him . " Here 's your last chance to pocket that $ 2,000.00 ! "
+1	"	_	Punctuation	Punctuation	_	19	U	19:U	_
+2	Come	_	Word	Word	_	19	G	19:G	_
+3	on	_	Word	Word	_	2	Terminal	2:Terminal	_
+4	,	_	Punctuation	Punctuation	_	19	U	19:U	_
+5	Conseil	_	Word	Word	_	19	G	19:G	_
+6	!	_	Punctuation	Punctuation	_	9	U	9:U	_
+7	"	_	Punctuation	Punctuation	_	9	U	9:U	_
+8	I	_	Word	Word	_	9	A	9:A	_
+9	told	_	Word	Word	_	0	H	0:H	_
+10	him	_	Word	Word	_	9	A	9:A	_
+11	.	_	Punctuation	Punctuation	_	9	U	9:U	_
+12	"	_	Punctuation	Punctuation	_	9	U	9:U	_
+13	Here	_	Word	Word	_	19	A	19:A	_
+14	's	_	Word	Word	_	19	F	19:F	_
+15	your	_	Word	Word	_	19	A	19:A	_
+16	last	_	Word	Word	_	19	D	19:D	_
+17	chance	_	Word	Word	_	19	D	19:D	_
+18	to	_	Word	Word	_	19	F	19:F	_
+19	pocket	_	Word	Word	_	9	A	9:A	_
+20	that	_	Word	Word	_	21	E	21:E	_
+21	$	_	Word	Word	_	19	A	19:A	_
+22	2,000.00	_	Word	Word	_	21	Q	21:Q	_
+23	!	_	Punctuation	Punctuation	_	21	U	21:U	_
+24	"	_	Punctuation	Punctuation	_	21	U	21:U	_
+

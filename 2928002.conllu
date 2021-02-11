@@ -1,0 +1,33 @@
+# format = ucca
+# sent_id = 2928002
+# text = One of the sailors led me to the afterdeck , where I stood in the presence of a smart - looking officer who extended his hand to me .
+1	One	_	Word	Word	_	4	Q	4:Q	_
+2	of	_	Word	Word	_	4	R	4:R	_
+3	the	_	Word	Word	_	4	F	4:F	_
+4	sailors	_	Word	Word	_	5	A	5:A	_
+5	led	_	Word	Word	_	0	H	0:H	_
+6	me	_	Word	Word	_	5	A	5:A	_
+7	to	_	Word	Word	_	9	R	9:R	_
+8	the	_	Word	Word	_	9	F	9:F	_
+9	afterdeck	_	Word	Word	_	5	A	5:A	_
+10	,	_	Punctuation	Punctuation	_	9	U	9:U	_
+11	where	_	Word	Word	_	13	R	13:R	_
+12	I	_	Word	Word	_	13	A	13:A	_
+13	stood	_	Word	Word	_	9	E	9:E	_
+14	in	_	Word	Word	_	16	L	16:L	_
+15	the	_	Word	Word	_	16	F	16:F	_
+16	presence	_	Word	Word	_	13	H	13:H	_
+17	of	_	Word	Word	_	22	R	22:R	_
+18	a	_	Word	Word	_	22	F	22:F	_
+19	smart	_	Word	Word	_	22	E	22:E	_
+20	-	_	Punctuation	Punctuation	_	19	U	19:U	_
+21	looking	_	Word	Word	_	19	G	19:G	_
+22	officer	_	Word	Word	_	16	A	16:A	_
+23	who	_	Word	Word	_	24	R	24:R	_
+24	extended	_	Word	Word	_	22	E	22:E	_
+25	his	_	Word	Word	_	26	E	26:E	_
+26	hand	_	Word	Word	_	24	A	24:A	_
+27	to	_	Word	Word	_	28	R	28:R	_
+28	me	_	Word	Word	_	24	A	24:A	_
+29	.	_	Punctuation	Punctuation	_	28	U	28:U	_
+

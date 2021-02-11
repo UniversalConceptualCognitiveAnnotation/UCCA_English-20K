@@ -1,0 +1,31 @@
+# format = ucca
+# sent_id = 2878000
+# text = But , as it always happens , just when a decision had been made to chase the monster , the monster put in no further appearances .
+1	But	_	Word	Word	_	11	L	11:L	_
+2	,	_	Punctuation	Punctuation	_	6	U	6:U	_
+3	as	_	Word	Word	_	11	L	11:L	_
+4	it	_	Word	Word	_	6	A	6:A	_
+5	always	_	Word	Word	_	6	D	6:D	_
+6	happens	_	Word	Word	_	0	H	0:H	_
+7	,	_	Punctuation	Punctuation	_	6	U	6:U	_
+8	just	_	Word	Word	_	9	E	9:E	_
+9	when	_	Word	Word	_	11	L	11:L	_
+10	a	_	Word	Word	_	11	F	11:F	_
+11	decision	_	Word	Word	_	6	H	6:H	_
+12	had	_	Word	Word	_	11	F	11:F	_
+13	been	_	Word	Word	_	11	F	11:F	_
+14	made	_	Word	Word	_	11	F	11:F	_
+15	to	_	Word	Word	_	16	F	16:F	_
+16	chase	_	Word	Word	_	11	A	11:A	_
+17	the	_	Word	Word	_	18	F	18:F	_
+18	monster	_	Word	Word	_	16	A	16:A	_
+19	,	_	Punctuation	Punctuation	_	6	U	6:U	_
+20	the	_	Word	Word	_	21	F	21:F	_
+21	monster	_	Word	Word	_	26	A	26:A	_
+22	put	_	Word	Word	_	26	F	26:F	_
+23	in	_	Word	Word	_	26	F	26:F	_
+24	no	_	Word	Word	_	26	D	26:D	_
+25	further	_	Word	Word	_	26	D	26:D	_
+26	appearances	_	Word	Word	_	6	H	6:H	_
+27	.	_	Punctuation	Punctuation	_	26	U	26:U	_
+

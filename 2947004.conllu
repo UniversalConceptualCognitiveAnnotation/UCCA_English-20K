@@ -1,0 +1,30 @@
+# format = ucca
+# sent_id = 2947004
+# text = Made in America , this valuable instrument could fire a four - kilogram conical projectile an average distance of sixteen kilometers without the least bother .
+1	Made	_	Word	Word	_	7	E	7:E	_
+2	in	_	Word	Word	_	3	R	3:R	_
+3	America	_	Word	Word	_	1	A	1:A	_
+4	,	_	Punctuation	Punctuation	_	7	U	7:U	_
+5	this	_	Word	Word	_	7	E	7:E	_
+6	valuable	_	Word	Word	_	7	E	7:E	_
+7	instrument	_	Word	Word	_	0	C	0:C|1:A|6:A|25:A	_
+8	could	_	Word	Word	_	9	D	9:D	_
+9	fire	_	Word	Word	_	0	H	0:H	_
+10	a	_	Word	Word	_	15	F	15:F	_
+11	four	_	Word	Word	_	13	Q	13:Q	_
+12	-	_	Punctuation	Punctuation	_	13	U	13:U	_
+13	kilogram	_	Word	Word	_	15	Q	15:Q	_
+14	conical	_	Word	Word	_	15	E	15:E	_
+15	projectile	_	Word	Word	_	9	A	9:A	_
+16	an	_	Word	Word	_	18	F	18:F	_
+17	average	_	Word	Word	_	18	E	18:E	_
+18	distance	_	Word	Word	_	9	A	9:A	_
+19	of	_	Word	Word	_	21	R	21:R	_
+20	sixteen	_	Word	Word	_	21	Q	21:Q	_
+21	kilometers	_	Word	Word	_	18	E	18:E	_
+22	without	_	Word	Word	_	25	L	25:L|25:D	_
+23	the	_	Word	Word	_	25	F	25:F	_
+24	least	_	Word	Word	_	25	D	25:D	_
+25	bother	_	Word	Word	_	9	H	9:H	_
+26	.	_	Punctuation	Punctuation	_	25	U	25:U	_
+

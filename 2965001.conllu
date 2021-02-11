@@ -1,0 +1,16 @@
+# format = ucca
+# sent_id = 2965001
+# text = " And why this powerful constitution ? " Ned asked . "
+1	"	_	Punctuation	Punctuation	_	10	U	10:U	_
+2	And	_	Word	Word	_	6	L	6:L	_
+3	why	_	Word	Word	_	10	A	10:A	_
+4	this	_	Word	Word	_	6	E	6:E	_
+5	powerful	_	Word	Word	_	6	D	6:D	_
+6	constitution	_	Word	Word	_	3	H	3:H	_
+7	?	_	Punctuation	Punctuation	_	10	U	10:U	_
+8	"	_	Punctuation	Punctuation	_	10	U	10:U	_
+9	Ned	_	Word	Word	_	10	A	10:A	_
+10	asked	_	Word	Word	_	0	H	0:H	_
+11	.	_	Punctuation	Punctuation	_	10	U	10:U	_
+12	"	_	Punctuation	Punctuation	_	10	U	10:U	_
+

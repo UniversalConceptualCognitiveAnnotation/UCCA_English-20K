@@ -1,0 +1,30 @@
+# format = ucca
+# sent_id = 2957001
+# text = Quite naturally , I led our conversation around to the giant unicorn , and I weighed our expedition 's various chances for success or failure .
+1	Quite	_	Word	Word	_	2	E	2:E	_
+2	naturally	_	Word	Word	_	5	D	5:D	_
+3	,	_	Punctuation	Punctuation	_	5	U	5:U	_
+4	I	_	Word	Word	_	5	A	5:A	_
+5	led	_	Word	Word	_	0	H	0:H	_
+6	our	_	Word	Word	_	7	A	7:A	_
+7	conversation	_	Word	Word	_	5	A	5:A	_
+8	around	_	Word	Word	_	12	R	12:R	_
+9	to	_	Word	Word	_	12	R	12:R	_
+10	the	_	Word	Word	_	12	F	12:F	_
+11	giant	_	Word	Word	_	12	E	12:E	_
+12	unicorn	_	Word	Word	_	5	A	5:A	_
+13	,	_	Punctuation	Punctuation	_	5	U	5:U	_
+14	and	_	Word	Word	_	16	L	16:L	_
+15	I	_	Word	Word	_	16	A	16:A	_
+16	weighed	_	Word	Word	_	5	H	5:H	_
+17	our	_	Word	Word	_	18	A	18:A	_
+18	expedition	_	Word	Word	_	23	A	23:A	_
+19	's	_	Word	Word	_	18	R	18:R	_
+20	various	_	Word	Word	_	21	E	21:E	_
+21	chances	_	Word	Word	_	23	D	23:D	_
+22	for	_	Word	Word	_	23	R	23:R	_
+23	success	_	Word	Word	_	16	A	16:A	_
+24	or	_	Word	Word	_	23	N	23:N	_
+25	failure	_	Word	Word	_	23	C	23:C	_
+26	.	_	Punctuation	Punctuation	_	23	U	23:U	_
+

@@ -1,0 +1,16 @@
+# format = ucca
+# sent_id = 2917003
+# text = He went here , there , and everywhere in perfect contentment .
+1	He	_	Word	Word	_	2	A	2:A|11:A	_
+2	went	_	Word	Word	_	0	H	0:H	_
+3	here	_	Word	Word	_	2	A	2:A	_
+4	,	_	Punctuation	Punctuation	_	3	U	3:U	_
+5	there	_	Word	Word	_	3	C	3:C	_
+6	,	_	Punctuation	Punctuation	_	3	U	3:U	_
+7	and	_	Word	Word	_	3	N	3:N	_
+8	everywhere	_	Word	Word	_	3	C	3:C	_
+9	in	_	Word	Word	_	11	L	11:L	_
+10	perfect	_	Word	Word	_	11	D	11:D	_
+11	contentment	_	Word	Word	_	2	H	2:H	_
+12	.	_	Punctuation	Punctuation	_	11	U	11:U	_
+

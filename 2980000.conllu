@@ -1,0 +1,10 @@
+# format = ucca
+# sent_id = 2980000
+# text = And they opened amazingly wide .
+1	And	_	Word	Word	_	3	L	3:L	_
+2	they	_	Word	Word	_	3	A	3:A	_
+3	opened	_	Word	Word	_	0	H	0:H	_
+4	amazingly	_	Word	Word	_	5	E	5:E	_
+5	wide	_	Word	Word	_	3	D	3:D	_
+6	.	_	Punctuation	Punctuation	_	5	U	5:U	_
+

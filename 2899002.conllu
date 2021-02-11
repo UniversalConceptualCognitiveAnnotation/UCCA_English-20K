@@ -1,0 +1,42 @@
+# format = ucca
+# sent_id = 2899002
+# text = Eight years later , the company 's assets were increased by four 650 - horsepower ships at 1,820 metric tons , and in two more years , by two other vessels of still greater power and tonnage .
+1	Eight	_	Word	Word	_	2	Q	2:Q	_
+2	years	_	Word	Word	_	10	T	10:T	_
+3	later	_	Word	Word	_	2	R	2:R	_
+4	,	_	Punctuation	Punctuation	_	10	U	10:U	_
+5	the	_	Word	Word	_	7	F	7:F	_
+6	company	_	Word	Word	_	7	A	7:A	_
+7	's	_	Word	Word	_	8	E	8:E	_
+8	assets	_	Word	Word	_	0	C	0:C|7:A|31:A	_
+9	were	_	Word	Word	_	10	F	10:F	_
+10	increased	_	Word	Word	_	0	H	0:H	_
+11	by	_	Word	Word	_	16	R	16:R	_
+12	four	_	Word	Word	_	16	Q	16:Q	_
+13	650	_	Word	Word	_	15	Q	15:Q	_
+14	-	_	Punctuation	Punctuation	_	15	U	15:U	_
+15	horsepower	_	Word	Word	_	16	E	16:E	_
+16	ships	_	Word	Word	_	10	A	10:A	_
+17	at	_	Word	Word	_	20	R	20:R	_
+18	1,820	_	Word	Word	_	20	Q	20:Q	_
+19	metric	_	Word	Word	_	20	E	20:E	_
+20	tons	_	Word	Word	_	16	E	16:E	_
+21	,	_	Punctuation	Punctuation	_	10	U	10:U	_
+22	and	_	Word	Word	_	31	L	31:L	_
+23	in	_	Word	Word	_	26	R	26:R	_
+24	two	_	Word	Word	_	26	Q	26:Q	_
+25	more	_	Word	Word	_	24	E	24:E	_
+26	years	_	Word	Word	_	31	T	31:T	_
+27	,	_	Punctuation	Punctuation	_	31	U	31:U	_
+28	by	_	Word	Word	_	31	R	31:R	_
+29	two	_	Word	Word	_	31	Q	31:Q	_
+30	other	_	Word	Word	_	31	E	31:E	_
+31	vessels	_	Word	Word	_	10	H	10:H	_
+32	of	_	Word	Word	_	35	R	35:R	_
+33	still	_	Word	Word	_	34	D	34:D	_
+34	greater	_	Word	Word	_	35	E	35:E	_
+35	power	_	Word	Word	_	31	E	31:E	_
+36	and	_	Word	Word	_	35	N	35:N	_
+37	tonnage	_	Word	Word	_	35	C	35:C	_
+38	.	_	Punctuation	Punctuation	_	35	U	35:U	_
+

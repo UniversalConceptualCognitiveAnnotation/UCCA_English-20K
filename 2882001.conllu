@@ -1,0 +1,13 @@
+# format = ucca
+# sent_id = 2882001
+# text = Commander Farragut has a cabin at your disposal .
+1	Commander	_	Word	Word	_	2	E	2:E	_
+2	Farragut	_	Word	Word	_	3	A	3:A	_
+3	has	_	Word	Word	_	0	H	0:H	_
+4	a	_	Word	Word	_	5	F	5:F	_
+5	cabin	_	Word	Word	_	3	A	3:A	_
+6	at	_	Word	Word	_	8	R	8:R	_
+7	your	_	Word	Word	_	8	A	8:A	_
+8	disposal	_	Word	Word	_	5	E	5:E	_
+9	.	_	Punctuation	Punctuation	_	8	U	8:U	_
+

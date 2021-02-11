@@ -1,0 +1,36 @@
+# format = ucca
+# sent_id = 2916004
+# text = Well versed in the theory of classification , he was poorly versed in its practical application , and I doubt that he could tell a sperm whale from a baleen whale !
+1	Well	_	Word	Word	_	2	D	2:D	_
+2	versed	_	Word	Word	_	0	H	0:H	_
+3	in	_	Word	Word	_	5	R	5:R	_
+4	the	_	Word	Word	_	5	F	5:F	_
+5	theory	_	Word	Word	_	2	A	2:A	_
+6	of	_	Word	Word	_	7	R	7:R	_
+7	classification	_	Word	Word	_	5	E	5:E	_
+8	,	_	Punctuation	Punctuation	_	2	U	2:U	_
+9	he	_	Word	Word	_	12	A	12:A|2:A	_
+10	was	_	Word	Word	_	12	F	12:F	_
+11	poorly	_	Word	Word	_	12	D	12:D	_
+12	versed	_	Word	Word	_	2	H	2:H	_
+13	in	_	Word	Word	_	16	R	16:R	_
+14	its	_	Word	Word	_	16	E	16:E	_
+15	practical	_	Word	Word	_	16	E	16:E	_
+16	application	_	Word	Word	_	12	A	12:A	_
+17	,	_	Punctuation	Punctuation	_	2	U	2:U	_
+18	and	_	Word	Word	_	20	L	20:L	_
+19	I	_	Word	Word	_	20	A	20:A	_
+20	doubt	_	Word	Word	_	2	H	2:H	_
+21	that	_	Word	Word	_	24	R	24:R	_
+22	he	_	Word	Word	_	24	A	24:A	_
+23	could	_	Word	Word	_	24	D	24:D	_
+24	tell	_	Word	Word	_	20	A	20:A	_
+25	a	_	Word	Word	_	27	F	27:F	_
+26	sperm	_	Word	Word	_	27	E	27:E	_
+27	whale	_	Word	Word	_	24	A	24:A	_
+28	from	_	Word	Word	_	31	R	31:R	_
+29	a	_	Word	Word	_	31	F	31:F	_
+30	baleen	_	Word	Word	_	31	E	31:E	_
+31	whale	_	Word	Word	_	24	A	24:A	_
+32	!	_	Punctuation	Punctuation	_	31	U	31:U	_
+

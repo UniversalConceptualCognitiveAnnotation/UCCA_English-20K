@@ -1,0 +1,11 @@
+# format = ucca
+# sent_id = 2894000
+# text = For six months the war seesawed .
+1	For	_	Word	Word	_	3	R	3:R	_
+2	six	_	Word	Word	_	3	Q	3:Q	_
+3	months	_	Word	Word	_	5	T	5:T	_
+4	the	_	Word	Word	_	5	F	5:F	_
+5	war	_	Word	Word	_	0	H	0:H	_
+6	seesawed	_	Word	Word	_	5	D	5:D	_
+7	.	_	Punctuation	Punctuation	_	5	U	5:U	_
+

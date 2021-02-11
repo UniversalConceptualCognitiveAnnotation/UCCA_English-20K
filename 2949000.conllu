@@ -1,0 +1,24 @@
+# format = ucca
+# sent_id = 2949000
+# text = Gifted with uncommon manual ability , Ned Land was a Canadian who had no equal in his dangerous trade .
+1	Gifted	_	Word	Word	_	7	E	7:E	_
+2	with	_	Word	Word	_	5	R	5:R	_
+3	uncommon	_	Word	Word	_	5	D	5:D	_
+4	manual	_	Word	Word	_	5	A	5:A	_
+5	ability	_	Word	Word	_	1	A	1:A	_
+6	,	_	Punctuation	Punctuation	_	5	U	5:U	_
+7	Ned	_	Word	Word	_	9	A	9:A	_
+8	Land	_	Word	Word	_	7	Terminal	7:Terminal	_
+9	was	_	Word	Word	_	0	H	0:H	_
+10	a	_	Word	Word	_	11	F	11:F	_
+11	Canadian	_	Word	Word	_	9	A	9:A	_
+12	who	_	Word	Word	_	13	R	13:R	_
+13	had	_	Word	Word	_	11	E	11:E	_
+14	no	_	Word	Word	_	13	D	13:D	_
+15	equal	_	Word	Word	_	13	A	13:A	_
+16	in	_	Word	Word	_	19	R	19:R	_
+17	his	_	Word	Word	_	19	A	19:A	_
+18	dangerous	_	Word	Word	_	19	D	19:D	_
+19	trade	_	Word	Word	_	13	A	13:A	_
+20	.	_	Punctuation	Punctuation	_	19	U	19:U	_
+

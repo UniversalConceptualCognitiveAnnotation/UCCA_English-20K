@@ -1,0 +1,14 @@
+# format = ucca
+# sent_id = 2968009
+# text = " Fire and brimstone ! " Ned put in .
+1	"	_	Punctuation	Punctuation	_	8	U	8:U	_
+2	Fire	_	Word	Word	_	8	A	8:A	_
+3	and	_	Word	Word	_	2	Terminal	2:Terminal	_
+4	brimstone	_	Word	Word	_	2	Terminal	2:Terminal	_
+5	!	_	Punctuation	Punctuation	_	8	U	8:U	_
+6	"	_	Punctuation	Punctuation	_	8	U	8:U	_
+7	Ned	_	Word	Word	_	8	A	8:A	_
+8	put	_	Word	Word	_	0	H	0:H	_
+9	in	_	Word	Word	_	8	Terminal	8:Terminal	_
+10	.	_	Punctuation	Punctuation	_	8	U	8:U	_
+

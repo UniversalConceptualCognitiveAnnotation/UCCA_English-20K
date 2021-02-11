@@ -1,0 +1,51 @@
+# format = ucca
+# sent_id = 2962001
+# text = " Wooden ships maybe , " the Canadian replied . " But I 've never seen the like . So till I have proof to the contrary , I 'll deny that baleen whales , sperm whales , or unicorns can do any such thing . "
+1	"	_	Punctuation	Punctuation	_	3	U	3:U	_
+2	Wooden	_	Word	Word	_	3	E	3:E	_
+3	ships	_	Word	Word	_	9	A	9:A	_
+4	maybe	_	Word	Word	_	3	D	3:D	_
+5	,	_	Punctuation	Punctuation	_	9	U	9:U	_
+6	"	_	Punctuation	Punctuation	_	9	U	9:U	_
+7	the	_	Word	Word	_	8	E	8:E	_
+8	Canadian	_	Word	Word	_	9	A	9:A	_
+9	replied	_	Word	Word	_	0	H	0:H	_
+10	.	_	Punctuation	Punctuation	_	9	U	9:U	_
+11	"	_	Punctuation	Punctuation	_	9	U	9:U	_
+12	But	_	Word	Word	_	16	L	16:L	_
+13	I	_	Word	Word	_	16	A	16:A	_
+14	've	_	Word	Word	_	16	F	16:F	_
+15	never	_	Word	Word	_	16	T	16:T	_
+16	seen	_	Word	Word	_	3	H	3:H	_
+17	the	_	Word	Word	_	16	A	16:A	_
+18	like	_	Word	Word	_	17	Terminal	17:Terminal	_
+19	.	_	Punctuation	Punctuation	_	3	U	3:U	_
+20	So	_	Word	Word	_	23	L	23:L	_
+21	till	_	Word	Word	_	23	L	23:L	_
+22	I	_	Word	Word	_	23	A	23:A	_
+23	have	_	Word	Word	_	3	H	3:H	_
+24	proof	_	Word	Word	_	23	A	23:A	_
+25	to	_	Word	Word	_	27	R	27:R	_
+26	the	_	Word	Word	_	27	F	27:F	_
+27	contrary	_	Word	Word	_	24	A	24:A	_
+28	,	_	Punctuation	Punctuation	_	3	U	3:U	_
+29	I	_	Word	Word	_	31	A	31:A	_
+30	'll	_	Word	Word	_	31	F	31:F	_
+31	deny	_	Word	Word	_	3	H	3:H	_
+32	that	_	Word	Word	_	42	R	42:R	_
+33	baleen	_	Word	Word	_	34	E	34:E	_
+34	whales	_	Word	Word	_	42	A	42:A	_
+35	,	_	Punctuation	Punctuation	_	34	U	34:U	_
+36	sperm	_	Word	Word	_	37	E	37:E	_
+37	whales	_	Word	Word	_	34	C	34:C	_
+38	,	_	Punctuation	Punctuation	_	34	U	34:U	_
+39	or	_	Word	Word	_	34	N	34:N	_
+40	unicorns	_	Word	Word	_	34	C	34:C	_
+41	can	_	Word	Word	_	42	D	42:D	_
+42	do	_	Word	Word	_	31	A	31:A	_
+43	any	_	Word	Word	_	45	E	45:E	_
+44	such	_	Word	Word	_	45	E	45:E	_
+45	thing	_	Word	Word	_	42	A	42:A	_
+46	.	_	Punctuation	Punctuation	_	45	U	45:U	_
+47	"	_	Punctuation	Punctuation	_	45	U	45:U	_
+

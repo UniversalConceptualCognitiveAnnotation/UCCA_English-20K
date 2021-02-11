@@ -1,0 +1,30 @@
+# format = ucca
+# sent_id = 2933001
+# text = With all due respect to master , " Conseil replied , " as comfortable as a hermit crab inside the shell of a whelk . "
+1	With	_	Word	Word	_	10	A	10:A	_
+2	all	_	Word	Word	_	1	Terminal	1:Terminal	_
+3	due	_	Word	Word	_	1	Terminal	1:Terminal	_
+4	respect	_	Word	Word	_	1	Terminal	1:Terminal	_
+5	to	_	Word	Word	_	6	R	6:R	_
+6	master	_	Word	Word	_	1	A	1:A	_
+7	,	_	Punctuation	Punctuation	_	10	U	10:U	_
+8	"	_	Punctuation	Punctuation	_	10	U	10:U	_
+9	Conseil	_	Word	Word	_	10	A	10:A	_
+10	replied	_	Word	Word	_	0	H	0:H	_
+11	,	_	Punctuation	Punctuation	_	10	U	10:U	_
+12	"	_	Punctuation	Punctuation	_	10	U	10:U	_
+13	as	_	Word	Word	_	14	D	14:D	_
+14	comfortable	_	Word	Word	_	1	H	1:H	_
+15	as	_	Word	Word	_	18	L	18:L	_
+16	a	_	Word	Word	_	18	F	18:F	_
+17	hermit	_	Word	Word	_	18	E	18:E	_
+18	crab	_	Word	Word	_	1	H	1:H	_
+19	inside	_	Word	Word	_	21	R	21:R	_
+20	the	_	Word	Word	_	21	F	21:F	_
+21	shell	_	Word	Word	_	18	A	18:A	_
+22	of	_	Word	Word	_	24	R	24:R	_
+23	a	_	Word	Word	_	24	F	24:F	_
+24	whelk	_	Word	Word	_	21	E	21:E	_
+25	.	_	Punctuation	Punctuation	_	24	U	24:U	_
+26	"	_	Punctuation	Punctuation	_	24	U	24:U	_
+

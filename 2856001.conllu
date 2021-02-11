@@ -1,0 +1,43 @@
+# format = ucca
+# sent_id = 2856001
+# text = The Chassepot rifle led to the torpedo , and the torpedo has led to this underwater battering ram , which in turn will lead to the world putting its foot down . At least I hope it will .
+1	The	_	Word	Word	_	2	F	2:F	_
+2	Chassepot	_	Word	Word	_	4	A	4:A	_
+3	rifle	_	Word	Word	_	2	E	2:E	_
+4	led	_	Word	Word	_	0	H	0:H	_
+5	to	_	Word	Word	_	7	R	7:R	_
+6	the	_	Word	Word	_	7	F	7:F	_
+7	torpedo	_	Word	Word	_	4	A	4:A	_
+8	,	_	Punctuation	Punctuation	_	4	U	4:U	_
+9	and	_	Word	Word	_	13	L	13:L	_
+10	the	_	Word	Word	_	11	F	11:F	_
+11	torpedo	_	Word	Word	_	13	A	13:A	_
+12	has	_	Word	Word	_	13	F	13:F	_
+13	led	_	Word	Word	_	4	H	4:H	_
+14	to	_	Word	Word	_	18	R	18:R	_
+15	this	_	Word	Word	_	18	E	18:E	_
+16	underwater	_	Word	Word	_	18	E	18:E	_
+17	battering	_	Word	Word	_	18	E	18:E	_
+18	ram	_	Word	Word	_	13	A	13:A	_
+19	,	_	Punctuation	Punctuation	_	18	U	18:U	_
+20	which	_	Word	Word	_	24	R	24:R	_
+21	in	_	Word	Word	_	22	R	22:R	_
+22	turn	_	Word	Word	_	24	D	24:D	_
+23	will	_	Word	Word	_	24	F	24:F	_
+24	lead	_	Word	Word	_	18	E	18:E	_
+25	to	_	Word	Word	_	28	R	28:R	_
+26	the	_	Word	Word	_	27	F	27:F	_
+27	world	_	Word	Word	_	28	A	28:A	_
+28	putting	_	Word	Word	_	0	P	0:P|37:P	_
+29	its	_	Word	Word	_	28	F	28:F	_
+30	foot	_	Word	Word	_	28	Terminal	28:Terminal	_
+31	down	_	Word	Word	_	28	Terminal	28:Terminal	_
+32	.	_	Punctuation	Punctuation	_	36	U	36:U	_
+33	At	_	Word	Word	_	36	G	36:G	_
+34	least	_	Word	Word	_	33	Terminal	33:Terminal	_
+35	I	_	Word	Word	_	36	A	36:A	_
+36	hope	_	Word	Word	_	4	H	4:H	_
+37	it	_	Word	Word	_	36	A	36:A	_
+38	will	_	Word	Word	_	37	F	37:F	_
+39	.	_	Punctuation	Punctuation	_	37	U	37:U	_
+

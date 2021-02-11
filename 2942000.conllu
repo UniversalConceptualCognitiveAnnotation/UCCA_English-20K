@@ -1,0 +1,9 @@
+# format = ucca
+# sent_id = 2942000
+# text = Three o'clock then sounded .
+1	Three	_	Word	Word	_	2	Q	2:Q	_
+2	o'clock	_	Word	Word	_	4	A	4:A	_
+3	then	_	Word	Word	_	4	L	4:L	_
+4	sounded	_	Word	Word	_	0	H	0:H	_
+5	.	_	Punctuation	Punctuation	_	4	U	4:U	_
+

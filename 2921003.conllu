@@ -1,0 +1,9 @@
+# format = ucca
+# sent_id = 2921003
+# text = What would Conseil say ?
+1	What	_	Word	Word	_	4	A	4:A	_
+2	would	_	Word	Word	_	4	F	4:F	_
+3	Conseil	_	Word	Word	_	4	A	4:A	_
+4	say	_	Word	Word	_	0	H	0:H	_
+5	?	_	Punctuation	Punctuation	_	4	U	4:U	_
+

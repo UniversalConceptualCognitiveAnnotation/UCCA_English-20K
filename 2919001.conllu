@@ -1,0 +1,29 @@
+# format = ucca
+# sent_id = 2919001
+# text = He was a fanatic on formality , and he only addressed me in the third person - to the point where it got tiresome .
+1	He	_	Word	Word	_	4	A	4:A	_
+2	was	_	Word	Word	_	4	F	4:F	_
+3	a	_	Word	Word	_	4	F	4:F	_
+4	fanatic	_	Word	Word	_	0	H	0:H	_
+5	on	_	Word	Word	_	6	R	6:R	_
+6	formality	_	Word	Word	_	4	A	4:A	_
+7	,	_	Punctuation	Punctuation	_	4	U	4:U	_
+8	and	_	Word	Word	_	11	L	11:L	_
+9	he	_	Word	Word	_	11	A	11:A	_
+10	only	_	Word	Word	_	16	E	16:E	_
+11	addressed	_	Word	Word	_	4	H	4:H	_
+12	me	_	Word	Word	_	11	A	11:A	_
+13	in	_	Word	Word	_	16	R	16:R	_
+14	the	_	Word	Word	_	16	F	16:F	_
+15	third	_	Word	Word	_	16	E	16:E	_
+16	person	_	Word	Word	_	11	A	11:A	_
+17	-	_	Punctuation	Punctuation	_	4	U	4:U	_
+18	to	_	Word	Word	_	20	R	20:R	_
+19	the	_	Word	Word	_	20	F	20:F	_
+20	point	_	Word	Word	_	24	L	24:L	_
+21	where	_	Word	Word	_	24	R	24:R	_
+22	it	_	Word	Word	_	24	A	24:A	_
+23	got	_	Word	Word	_	24	D	24:D	_
+24	tiresome	_	Word	Word	_	4	H	4:H	_
+25	.	_	Punctuation	Punctuation	_	24	U	24:U	_
+

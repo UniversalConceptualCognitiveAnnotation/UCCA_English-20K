@@ -1,0 +1,28 @@
+# format = ucca
+# sent_id = 2922011
+# text = " They 'll feed it during our absence . Anyhow , we 'll leave instructions to ship the whole menagerie to France . "
+1	"	_	Punctuation	Punctuation	_	4	U	4:U	_
+2	They	_	Word	Word	_	4	A	4:A	_
+3	'll	_	Word	Word	_	4	F	4:F	_
+4	feed	_	Word	Word	_	0	H	0:H	_
+5	it	_	Word	Word	_	4	A	4:A	_
+6	during	_	Word	Word	_	8	L	8:L	_
+7	our	_	Word	Word	_	8	A	8:A	_
+8	absence	_	Word	Word	_	4	H	4:H	_
+9	.	_	Punctuation	Punctuation	_	4	U	4:U	_
+10	Anyhow	_	Word	Word	_	14	L	14:L	_
+11	,	_	Punctuation	Punctuation	_	4	U	4:U	_
+12	we	_	Word	Word	_	14	A	14:A	_
+13	'll	_	Word	Word	_	14	F	14:F	_
+14	leave	_	Word	Word	_	4	H	4:H	_
+15	instructions	_	Word	Word	_	14	A	14:A	_
+16	to	_	Word	Word	_	17	F	17:F	_
+17	ship	_	Word	Word	_	15	E	15:E	_
+18	the	_	Word	Word	_	20	F	20:F	_
+19	whole	_	Word	Word	_	20	E	20:E	_
+20	menagerie	_	Word	Word	_	17	A	17:A	_
+21	to	_	Word	Word	_	22	R	22:R	_
+22	France	_	Word	Word	_	17	A	17:A	_
+23	.	_	Punctuation	Punctuation	_	22	U	22:U	_
+24	"	_	Punctuation	Punctuation	_	22	U	22:U	_
+

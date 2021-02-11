@@ -1,0 +1,31 @@
+# format = ucca
+# sent_id = 2874009
+# text = Could n't the heart of the ocean hide the last - remaining varieties of these titanic species , for whom years are centuries and centuries millennia ?
+1	Could	_	Word	Word	_	8	D	8:D	_
+2	n't	_	Word	Word	_	8	D	8:D	_
+3	the	_	Word	Word	_	4	F	4:F	_
+4	heart	_	Word	Word	_	8	A	8:A	_
+5	of	_	Word	Word	_	7	R	7:R	_
+6	the	_	Word	Word	_	7	F	7:F	_
+7	ocean	_	Word	Word	_	4	C	4:C	_
+8	hide	_	Word	Word	_	0	H	0:H	_
+9	the	_	Word	Word	_	13	F	13:F	_
+10	last	_	Word	Word	_	12	D	12:D	_
+11	-	_	Punctuation	Punctuation	_	12	U	12:U	_
+12	remaining	_	Word	Word	_	13	E	13:E	_
+13	varieties	_	Word	Word	_	8	A	8:A	_
+14	of	_	Word	Word	_	17	R	17:R	_
+15	these	_	Word	Word	_	17	E	17:E	_
+16	titanic	_	Word	Word	_	17	E	17:E	_
+17	species	_	Word	Word	_	13	E	13:E	_
+18	,	_	Punctuation	Punctuation	_	17	U	17:U	_
+19	for	_	Word	Word	_	17	E	17:E	_
+20	whom	_	Word	Word	_	19	R	19:R	_
+21	years	_	Word	Word	_	22	A	22:A	_
+22	are	_	Word	Word	_	0	S	0:S|25:S	_
+23	centuries	_	Word	Word	_	22	A	22:A	_
+24	and	_	Word	Word	_	25	L	25:L	_
+25	centuries	_	Word	Word	_	19	H	19:H	_
+26	millennia	_	Word	Word	_	25	A	25:A	_
+27	?	_	Punctuation	Punctuation	_	25	U	25:U	_
+

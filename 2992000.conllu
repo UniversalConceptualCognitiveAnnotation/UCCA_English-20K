@@ -1,0 +1,15 @@
+# format = ucca
+# sent_id = 2992000
+# text = But this futile search could n't drag on much longer .
+1	But	_	Word	Word	_	4	L	4:L	_
+2	this	_	Word	Word	_	4	E	4:E	_
+3	futile	_	Word	Word	_	4	D	4:D	_
+4	search	_	Word	Word	_	0	H	0:H	_
+5	could	_	Word	Word	_	4	D	4:D	_
+6	n't	_	Word	Word	_	4	D	4:D	_
+7	drag	_	Word	Word	_	4	D	4:D	_
+8	on	_	Word	Word	_	7	Terminal	7:Terminal	_
+9	much	_	Word	Word	_	10	E	10:E	_
+10	longer	_	Word	Word	_	4	T	4:T	_
+11	.	_	Punctuation	Punctuation	_	10	U	10:U	_
+

@@ -1,0 +1,51 @@
+# format = ucca
+# sent_id = 2854000
+# text = So only two possible solutions to the question were left , creating two very distinct groups of supporters : on one side , those favoring a monster of colossal strength ; on the other , those favoring an " underwater boat " of tremendous motor power .
+1	So	_	Word	Word	_	12	L	12:L	_
+2	only	_	Word	Word	_	3	E	3:E	_
+3	two	_	Word	Word	_	5	Q	5:Q	_
+4	possible	_	Word	Word	_	5	E	5:E	_
+5	solutions	_	Word	Word	_	0	C	0:C|12:A	_
+6	to	_	Word	Word	_	8	R	8:R	_
+7	the	_	Word	Word	_	8	F	8:F	_
+8	question	_	Word	Word	_	5	E	5:E	_
+9	were	_	Word	Word	_	10	F	10:F	_
+10	left	_	Word	Word	_	0	H	0:H	_
+11	,	_	Punctuation	Punctuation	_	10	U	10:U	_
+12	creating	_	Word	Word	_	10	H	10:H	_
+13	two	_	Word	Word	_	16	Q	16:Q	_
+14	very	_	Word	Word	_	15	E	15:E	_
+15	distinct	_	Word	Word	_	16	E	16:E	_
+16	groups	_	Word	Word	_	12	A	12:A	_
+17	of	_	Word	Word	_	18	R	18:R	_
+18	supporters	_	Word	Word	_	16	E	16:E	_
+19	:	_	Punctuation	Punctuation	_	16	U	16:U	_
+20	on	_	Word	Word	_	22	R	22:R	_
+21	one	_	Word	Word	_	22	E	22:E	_
+22	side	_	Word	Word	_	0	C	0:C|34:C	_
+23	,	_	Punctuation	Punctuation	_	25	U	25:U	_
+24	those	_	Word	Word	_	25	A	25:A	_
+25	favoring	_	Word	Word	_	16	E	16:E	_
+26	a	_	Word	Word	_	27	F	27:F	_
+27	monster	_	Word	Word	_	30	A	30:A	_
+28	of	_	Word	Word	_	30	R	30:R	_
+29	colossal	_	Word	Word	_	30	D	30:D	_
+30	strength	_	Word	Word	_	25	A	25:A	_
+31	;	_	Punctuation	Punctuation	_	25	U	25:U	_
+32	on	_	Word	Word	_	34	R	34:R	_
+33	the	_	Word	Word	_	34	F	34:F	_
+34	other	_	Word	Word	_	37	E	37:E	_
+35	,	_	Punctuation	Punctuation	_	37	U	37:U	_
+36	those	_	Word	Word	_	37	A	37:A	_
+37	favoring	_	Word	Word	_	25	C	25:C	_
+38	an	_	Word	Word	_	41	F	41:F	_
+39	"	_	Punctuation	Punctuation	_	41	U	41:U	_
+40	underwater	_	Word	Word	_	41	E	41:E	_
+41	boat	_	Word	Word	_	46	A	46:A	_
+42	"	_	Punctuation	Punctuation	_	46	U	46:U	_
+43	of	_	Word	Word	_	46	R	46:R	_
+44	tremendous	_	Word	Word	_	46	D	46:D	_
+45	motor	_	Word	Word	_	46	D	46:D	_
+46	power	_	Word	Word	_	37	A	37:A	_
+47	.	_	Punctuation	Punctuation	_	46	U	46:U	_
+

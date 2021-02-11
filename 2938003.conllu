@@ -1,0 +1,35 @@
+# format = ucca
+# sent_id = 2938003
+# text = The blades of the propeller churned the waves with increasing speed , and the Abraham Lincoln moved out majestically amid a spectator - laden escort of some 100 ferries and tenders
+1	The	_	Word	Word	_	2	F	2:F	_
+2	blades	_	Word	Word	_	6	A	6:A	_
+3	of	_	Word	Word	_	5	R	5:R	_
+4	the	_	Word	Word	_	5	F	5:F	_
+5	propeller	_	Word	Word	_	2	E	2:E	_
+6	churned	_	Word	Word	_	0	H	0:H	_
+7	the	_	Word	Word	_	8	F	8:F	_
+8	waves	_	Word	Word	_	6	A	6:A	_
+9	with	_	Word	Word	_	11	R	11:R	_
+10	increasing	_	Word	Word	_	11	E	11:E	_
+11	speed	_	Word	Word	_	6	D	6:D	_
+12	,	_	Punctuation	Punctuation	_	6	U	6:U	_
+13	and	_	Word	Word	_	17	L	17:L	_
+14	the	_	Word	Word	_	15	F	15:F	_
+15	Abraham	_	Word	Word	_	17	A	17:A	_
+16	Lincoln	_	Word	Word	_	15	Terminal	15:Terminal	_
+17	moved	_	Word	Word	_	6	H	6:H	_
+18	out	_	Word	Word	_	17	Terminal	17:Terminal	_
+19	majestically	_	Word	Word	_	17	D	17:D	_
+20	amid	_	Word	Word	_	24	L	24:L	_
+21	a	_	Word	Word	_	25	F	25:F	_
+22	spectator	_	Word	Word	_	24	A	24:A	_
+23	-	_	Punctuation	Punctuation	_	24	U	24:U	_
+24	laden	_	Word	Word	_	6	H	6:H	_
+25	escort	_	Word	Word	_	6	H	6:H	_
+26	of	_	Word	Word	_	29	R	29:R	_
+27	some	_	Word	Word	_	28	E	28:E	_
+28	100	_	Word	Word	_	29	Q	29:Q	_
+29	ferries	_	Word	Word	_	25	A	25:A	_
+30	and	_	Word	Word	_	29	N	29:N	_
+31	tenders	_	Word	Word	_	29	C	29:C	_
+

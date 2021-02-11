@@ -1,0 +1,19 @@
+# format = ucca
+# sent_id = 2943000
+# text = ﻿ Commander Farragut was a good seaman , worthy of the frigate he commanded .
+1	﻿	_	Punctuation	Punctuation	_	7	U	7:U	_
+2	Commander	_	Word	Word	_	3	E	3:E	_
+3	Farragut	_	Word	Word	_	0	C	0:C|9:A	_
+4	was	_	Word	Word	_	7	F	7:F	_
+5	a	_	Word	Word	_	7	F	7:F	_
+6	good	_	Word	Word	_	7	D	7:D	_
+7	seaman	_	Word	Word	_	0	H	0:H	_
+8	,	_	Punctuation	Punctuation	_	7	U	7:U	_
+9	worthy	_	Word	Word	_	7	H	7:H	_
+10	of	_	Word	Word	_	12	R	12:R	_
+11	the	_	Word	Word	_	12	F	12:F	_
+12	frigate	_	Word	Word	_	9	A	9:A	_
+13	he	_	Word	Word	_	14	A	14:A	_
+14	commanded	_	Word	Word	_	12	E	12:E	_
+15	.	_	Punctuation	Punctuation	_	14	U	14:U	_
+

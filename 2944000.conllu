@@ -1,0 +1,15 @@
+# format = ucca
+# sent_id = 2944000
+# text = The ship 's officers shared the views of their leader .
+1	The	_	Word	Word	_	2	F	2:F	_
+2	ship	_	Word	Word	_	5	A	5:A	_
+3	's	_	Word	Word	_	2	R	2:R	_
+4	officers	_	Word	Word	_	2	A	2:A	_
+5	shared	_	Word	Word	_	0	H	0:H	_
+6	the	_	Word	Word	_	5	Terminal	5:Terminal	_
+7	views	_	Word	Word	_	5	Terminal	5:Terminal	_
+8	of	_	Word	Word	_	9	R	9:R	_
+9	their	_	Word	Word	_	5	A	5:A	_
+10	leader	_	Word	Word	_	9	A	9:A	_
+11	.	_	Punctuation	Punctuation	_	9	U	9:U	_
+

@@ -1,0 +1,37 @@
+# format = ucca
+# sent_id = 2981002
+# text = Sometimes bending over the forecastle railings , sometimes leaning against the sternrail , I eagerly scoured that cotton - colored wake that whitened the ocean as far as the eye could see !
+1	Sometimes	_	Word	Word	_	2	T	2:T	_
+2	bending	_	Word	Word	_	0	H	0:H	_
+3	over	_	Word	Word	_	6	R	6:R	_
+4	the	_	Word	Word	_	6	F	6:F	_
+5	forecastle	_	Word	Word	_	6	E	6:E	_
+6	railings	_	Word	Word	_	2	A	2:A	_
+7	,	_	Punctuation	Punctuation	_	2	U	2:U	_
+8	sometimes	_	Word	Word	_	9	T	9:T	_
+9	leaning	_	Word	Word	_	2	H	2:H	_
+10	against	_	Word	Word	_	12	R	12:R	_
+11	the	_	Word	Word	_	12	F	12:F	_
+12	sternrail	_	Word	Word	_	9	A	9:A	_
+13	,	_	Punctuation	Punctuation	_	9	U	9:U	_
+14	I	_	Word	Word	_	16	A	16:A|2:A|9:A	_
+15	eagerly	_	Word	Word	_	16	D	16:D	_
+16	scoured	_	Word	Word	_	2	H	2:H	_
+17	that	_	Word	Word	_	21	E	21:E	_
+18	cotton	_	Word	Word	_	20	A	20:A	_
+19	-	_	Punctuation	Punctuation	_	20	U	20:U	_
+20	colored	_	Word	Word	_	21	E	21:E	_
+21	wake	_	Word	Word	_	16	A	16:A	_
+22	that	_	Word	Word	_	23	R	23:R	_
+23	whitened	_	Word	Word	_	21	E	21:E	_
+24	the	_	Word	Word	_	25	F	25:F	_
+25	ocean	_	Word	Word	_	23	A	23:A	_
+26	as	_	Word	Word	_	23	D	23:D	_
+27	far	_	Word	Word	_	26	Terminal	26:Terminal	_
+28	as	_	Word	Word	_	26	Terminal	26:Terminal	_
+29	the	_	Word	Word	_	26	Terminal	26:Terminal	_
+30	eye	_	Word	Word	_	26	Terminal	26:Terminal	_
+31	could	_	Word	Word	_	26	Terminal	26:Terminal	_
+32	see	_	Word	Word	_	26	Terminal	26:Terminal	_
+33	!	_	Punctuation	Punctuation	_	23	U	23:U	_
+

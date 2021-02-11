@@ -1,0 +1,10 @@
+# format = ucca
+# sent_id = 2994004
+# text = Spyglasses functioned with feverish energy .
+1	Spyglasses	_	Word	Word	_	2	A	2:A	_
+2	functioned	_	Word	Word	_	0	H	0:H	_
+3	with	_	Word	Word	_	5	R	5:R	_
+4	feverish	_	Word	Word	_	5	E	5:E	_
+5	energy	_	Word	Word	_	2	D	2:D	_
+6	.	_	Punctuation	Punctuation	_	5	U	5:U	_
+

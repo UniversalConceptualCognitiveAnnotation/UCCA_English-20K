@@ -1,0 +1,26 @@
+# format = ucca
+# sent_id = 3002005
+# text = " When one has the honor of being an expert as master is , one must n't lay himself open to- "
+1	"	_	Punctuation	Punctuation	_	6	U	6:U	_
+2	When	_	Word	Word	_	18	L	18:L	_
+3	one	_	Word	Word	_	6	A	6:A|10:A	_
+4	has	_	Word	Word	_	6	F	6:F	_
+5	the	_	Word	Word	_	6	F	6:F	_
+6	honor	_	Word	Word	_	0	H	0:H	_
+7	of	_	Word	Word	_	10	R	10:R	_
+8	being	_	Word	Word	_	10	F	10:F	_
+9	an	_	Word	Word	_	10	F	10:F	_
+10	expert	_	Word	Word	_	0	C	0:C|12:S	_
+11	as	_	Word	Word	_	12	L	12:L	_
+12	master	_	Word	Word	_	10	H	10:H	_
+13	is	_	Word	Word	_	12	F	12:F	_
+14	,	_	Punctuation	Punctuation	_	6	U	6:U	_
+15	one	_	Word	Word	_	18	A	18:A	_
+16	must	_	Word	Word	_	18	D	18:D	_
+17	n't	_	Word	Word	_	18	D	18:D	_
+18	lay	_	Word	Word	_	6	H	6:H	_
+19	himself	_	Word	Word	_	18	A	18:A	_
+20	open	_	Word	Word	_	18	Terminal	18:Terminal	_
+21	to-	_	Word	Word	_	18	Terminal	18:Terminal	_
+22	"	_	Punctuation	Punctuation	_	18	U	18:U	_
+

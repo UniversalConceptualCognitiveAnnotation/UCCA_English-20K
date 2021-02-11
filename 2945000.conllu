@@ -1,0 +1,30 @@
+# format = ucca
+# sent_id = 2945000
+# text = As for the crew , they only wanted to encounter the unicorn , harpoon it , haul it on board , and carve it up .
+1	As	_	Word	Word	_	14	L	14:L	_
+2	for	_	Word	Word	_	1	Terminal	1:Terminal	_
+3	the	_	Word	Word	_	4	F	4:F	_
+4	crew	_	Word	Word	_	0	A	0:A|14:A|17:A|23:A	_
+5	,	_	Punctuation	Punctuation	_	10	U	10:U	_
+6	they	_	Word	Word	_	10	F	10:F	_
+7	only	_	Word	Word	_	10	D	10:D	_
+8	wanted	_	Word	Word	_	10	D	10:D|14:D|17:D|23:D	_
+9	to	_	Word	Word	_	10	F	10:F	_
+10	encounter	_	Word	Word	_	0	H	0:H	_
+11	the	_	Word	Word	_	12	F	12:F	_
+12	unicorn	_	Word	Word	_	10	A	10:A	_
+13	,	_	Punctuation	Punctuation	_	10	U	10:U	_
+14	harpoon	_	Word	Word	_	10	H	10:H	_
+15	it	_	Word	Word	_	14	A	14:A	_
+16	,	_	Punctuation	Punctuation	_	10	U	10:U	_
+17	haul	_	Word	Word	_	10	H	10:H	_
+18	it	_	Word	Word	_	17	A	17:A	_
+19	on	_	Word	Word	_	20	R	20:R	_
+20	board	_	Word	Word	_	17	A	17:A	_
+21	,	_	Punctuation	Punctuation	_	10	U	10:U	_
+22	and	_	Word	Word	_	23	L	23:L	_
+23	carve	_	Word	Word	_	10	H	10:H	_
+24	it	_	Word	Word	_	23	A	23:A	_
+25	up	_	Word	Word	_	23	Terminal	23:Terminal	_
+26	.	_	Punctuation	Punctuation	_	23	U	23:U	_
+

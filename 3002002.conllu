@@ -1,0 +1,44 @@
+# format = ucca
+# sent_id = 3002002
+# text = " To be sure , " Conseil replied serenely , " I do think they 'll have fun at master 's expense . And must it be said ... ? " " It must be said , Conseil . "
+1	"	_	Punctuation	Punctuation	_	8	U	8:U	_
+2	To	_	Word	Word	_	14	G	14:G	_
+3	be	_	Word	Word	_	2	Terminal	2:Terminal	_
+4	sure	_	Word	Word	_	2	Terminal	2:Terminal	_
+5	,	_	Punctuation	Punctuation	_	8	U	8:U	_
+6	"	_	Punctuation	Punctuation	_	8	U	8:U	_
+7	Conseil	_	Word	Word	_	8	A	8:A	_
+8	replied	_	Word	Word	_	0	H	0:H	_
+9	serenely	_	Word	Word	_	8	D	8:D	_
+10	,	_	Punctuation	Punctuation	_	8	U	8:U	_
+11	"	_	Punctuation	Punctuation	_	8	U	8:U	_
+12	I	_	Word	Word	_	14	A	14:A	_
+13	do	_	Word	Word	_	14	F	14:F	_
+14	think	_	Word	Word	_	8	A	8:A	_
+15	they	_	Word	Word	_	18	A	18:A	_
+16	'll	_	Word	Word	_	18	F	18:F	_
+17	have	_	Word	Word	_	18	F	18:F	_
+18	fun	_	Word	Word	_	14	A	14:A	_
+19	at	_	Word	Word	_	20	R	20:R	_
+20	master	_	Word	Word	_	18	A	18:A	_
+21	's	_	Word	Word	_	20	R	20:R	_
+22	expense	_	Word	Word	_	19	Terminal	19:Terminal	_
+23	.	_	Punctuation	Punctuation	_	14	U	14:U	_
+24	And	_	Word	Word	_	28	L	28:L	_
+25	must	_	Word	Word	_	28	D	28:D	_
+26	it	_	Word	Word	_	28	A	28:A	_
+27	be	_	Word	Word	_	28	F	28:F	_
+28	said	_	Word	Word	_	14	H	14:H	_
+29	...	_	Punctuation	Punctuation	_	8	U	8:U	_
+30	?	_	Punctuation	Punctuation	_	8	U	8:U	_
+31	"	_	Punctuation	Punctuation	_	8	U	8:U	_
+32	"	_	Punctuation	Punctuation	_	8	U	8:U	_
+33	It	_	Word	Word	_	36	A	36:A	_
+34	must	_	Word	Word	_	36	D	36:D	_
+35	be	_	Word	Word	_	36	F	36:F	_
+36	said	_	Word	Word	_	8	H	8:H	_
+37	,	_	Punctuation	Punctuation	_	36	U	36:U	_
+38	Conseil	_	Word	Word	_	36	G	36:G	_
+39	.	_	Punctuation	Punctuation	_	36	U	36:U	_
+40	"	_	Punctuation	Punctuation	_	36	U	36:U	_
+

@@ -1,0 +1,19 @@
+# format = ucca
+# sent_id = 2882002
+# text = Very cordially yours , J . B . HOBSON , Secretary of the Navy .
+1	Very	_	Word	Word	_	2	E	2:E	_
+2	cordially	_	Word	Word	_	3	E	3:E	_
+3	yours	_	Word	Word	_	0	H	0:H	_
+4	,	_	Punctuation	Punctuation	_	3	U	3:U	_
+5	J	_	Word	Word	_	3	H	3:H	_
+6	.	_	Punctuation	Punctuation	_	5	U	5:U	_
+7	B	_	Word	Word	_	5	Terminal	5:Terminal	_
+8	.	_	Punctuation	Punctuation	_	5	U	5:U	_
+9	HOBSON	_	Word	Word	_	5	Terminal	5:Terminal	_
+10	,	_	Punctuation	Punctuation	_	5	U	5:U	_
+11	Secretary	_	Word	Word	_	5	E	5:E	_
+12	of	_	Word	Word	_	14	R	14:R	_
+13	the	_	Word	Word	_	14	F	14:F	_
+14	Navy	_	Word	Word	_	11	A	11:A	_
+15	.	_	Punctuation	Punctuation	_	14	U	14:U	_
+

@@ -1,0 +1,16 @@
+# format = ucca
+# sent_id = 2968007
+# text = Because the water surrounds me but does n't penetrate me . "
+1	Because	_	Word	Word	_	9	L	9:L	_
+2	the	_	Word	Word	_	3	F	3:F	_
+3	water	_	Word	Word	_	0	C	0:C|9:A	_
+4	surrounds	_	Word	Word	_	0	H	0:H	_
+5	me	_	Word	Word	_	4	A	4:A	_
+6	but	_	Word	Word	_	9	L	9:L	_
+7	does	_	Word	Word	_	9	F	9:F	_
+8	n't	_	Word	Word	_	9	D	9:D	_
+9	penetrate	_	Word	Word	_	4	H	4:H	_
+10	me	_	Word	Word	_	9	A	9:A	_
+11	.	_	Punctuation	Punctuation	_	9	U	9:U	_
+12	"	_	Punctuation	Punctuation	_	9	U	9:U	_
+

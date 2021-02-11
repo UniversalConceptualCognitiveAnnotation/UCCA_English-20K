@@ -1,0 +1,47 @@
+# format = ucca
+# sent_id = 2974003
+# text = And the Canadian had such good luck that with a right - and - left shot , he harpooned not one whale but two , striking the first straight to the heart and catching the other after a few minutes ' chase !
+1	And	_	Word	Word	_	16	L	16:L	_
+2	the	_	Word	Word	_	3	F	3:F	_
+3	Canadian	_	Word	Word	_	7	A	7:A	_
+4	had	_	Word	Word	_	7	F	7:F	_
+5	such	_	Word	Word	_	6	E	6:E	_
+6	good	_	Word	Word	_	7	D	7:D	_
+7	luck	_	Word	Word	_	0	H	0:H	_
+8	that	_	Word	Word	_	16	L	16:L	_
+9	with	_	Word	Word	_	16	R	16:R	_
+10	a	_	Word	Word	_	16	F	16:F	_
+11	right	_	Word	Word	_	16	D	16:D	_
+12	-	_	Punctuation	Punctuation	_	11	U	11:U	_
+13	and	_	Word	Word	_	11	N	11:N	_
+14	-	_	Punctuation	Punctuation	_	11	U	11:U	_
+15	left	_	Word	Word	_	11	C	11:C	_
+16	shot	_	Word	Word	_	7	H	7:H	_
+17	,	_	Punctuation	Punctuation	_	16	U	16:U	_
+18	he	_	Word	Word	_	19	A	19:A|16:A|24:A|26:A|34:A|42:A	_
+19	harpooned	_	Word	Word	_	7	H	7:H	_
+20	not	_	Word	Word	_	19	D	19:D	_
+21	one	_	Word	Word	_	22	Q	22:Q	_
+22	whale	_	Word	Word	_	0	C	0:C|24:C|28:C|36:C|42:A	_
+23	but	_	Word	Word	_	24	L	24:L	_
+24	two	_	Word	Word	_	7	H	7:H	_
+25	,	_	Punctuation	Punctuation	_	7	U	7:U	_
+26	striking	_	Word	Word	_	7	H	7:H	_
+27	the	_	Word	Word	_	28	F	28:F	_
+28	first	_	Word	Word	_	26	A	26:A	_
+29	straight	_	Word	Word	_	32	R	32:R	_
+30	to	_	Word	Word	_	32	R	32:R	_
+31	the	_	Word	Word	_	32	F	32:F	_
+32	heart	_	Word	Word	_	26	A	26:A	_
+33	and	_	Word	Word	_	34	L	34:L	_
+34	catching	_	Word	Word	_	7	H	7:H	_
+35	the	_	Word	Word	_	36	F	36:F	_
+36	other	_	Word	Word	_	34	A	34:A	_
+37	after	_	Word	Word	_	42	L	42:L	_
+38	a	_	Word	Word	_	40	Q	40:Q	_
+39	few	_	Word	Word	_	38	Terminal	38:Terminal	_
+40	minutes	_	Word	Word	_	42	T	42:T	_
+41	'	_	Punctuation	Punctuation	_	42	U	42:U	_
+42	chase	_	Word	Word	_	7	H	7:H	_
+43	!	_	Punctuation	Punctuation	_	42	U	42:U	_
+

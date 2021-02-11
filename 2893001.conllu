@@ -1,0 +1,13 @@
+# format = ucca
+# sent_id = 2893001
+# text = The " monster question " inflamed all minds .
+1	The	_	Word	Word	_	4	F	4:F	_
+2	"	_	Punctuation	Punctuation	_	4	U	4:U	_
+3	monster	_	Word	Word	_	4	E	4:E	_
+4	question	_	Word	Word	_	6	A	6:A	_
+5	"	_	Punctuation	Punctuation	_	6	U	6:U	_
+6	inflamed	_	Word	Word	_	0	H	0:H	_
+7	all	_	Word	Word	_	8	Q	8:Q	_
+8	minds	_	Word	Word	_	6	A	6:A	_
+9	.	_	Punctuation	Punctuation	_	8	U	8:U	_
+

@@ -1,0 +1,41 @@
+# format = ucca
+# sent_id = 2970004
+# text = " You 've convinced me of one thing , Mr . Naturalist . That deep in the sea , such animals would need to be just as strong as you say - if they exist . "
+1	"	_	Punctuation	Punctuation	_	4	U	4:U	_
+2	You	_	Word	Word	_	4	A	4:A	_
+3	've	_	Word	Word	_	4	F	4:F	_
+4	convinced	_	Word	Word	_	0	H	0:H	_
+5	me	_	Word	Word	_	4	A	4:A	_
+6	of	_	Word	Word	_	8	R	8:R	_
+7	one	_	Word	Word	_	8	Q	8:Q	_
+8	thing	_	Word	Word	_	4	A	4:A	_
+9	,	_	Punctuation	Punctuation	_	4	U	4:U	_
+10	Mr	_	Word	Word	_	4	G	4:G	_
+11	.	_	Punctuation	Punctuation	_	10	U	10:U	_
+12	Naturalist	_	Word	Word	_	10	Terminal	10:Terminal	_
+13	.	_	Punctuation	Punctuation	_	4	U	4:U	_
+14	That	_	Word	Word	_	28	L	28:L	_
+15	deep	_	Word	Word	_	18	R	18:R	_
+16	in	_	Word	Word	_	18	R	18:R	_
+17	the	_	Word	Word	_	18	F	18:F	_
+18	sea	_	Word	Word	_	28	A	28:A	_
+19	,	_	Punctuation	Punctuation	_	28	U	28:U	_
+20	such	_	Word	Word	_	21	E	21:E	_
+21	animals	_	Word	Word	_	28	A	28:A	_
+22	would	_	Word	Word	_	28	D	28:D	_
+23	need	_	Word	Word	_	28	D	28:D	_
+24	to	_	Word	Word	_	28	F	28:F	_
+25	be	_	Word	Word	_	28	F	28:F	_
+26	just	_	Word	Word	_	28	D	28:D	_
+27	as	_	Word	Word	_	28	D	28:D	_
+28	strong	_	Word	Word	_	4	H	4:H	_
+29	as	_	Word	Word	_	31	L	31:L	_
+30	you	_	Word	Word	_	31	A	31:A	_
+31	say	_	Word	Word	_	4	H	4:H	_
+32	-	_	Punctuation	Punctuation	_	4	U	4:U	_
+33	if	_	Word	Word	_	35	L	35:L	_
+34	they	_	Word	Word	_	35	A	35:A	_
+35	exist	_	Word	Word	_	4	H	4:H	_
+36	.	_	Punctuation	Punctuation	_	35	U	35:U	_
+37	"	_	Punctuation	Punctuation	_	35	U	35:U	_
+

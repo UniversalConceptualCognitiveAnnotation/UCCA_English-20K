@@ -1,0 +1,18 @@
+# format = ucca
+# sent_id = 2994003
+# text = Each man wanted one last look with which to sum up his experience .
+1	Each	_	Word	Word	_	2	Q	2:Q	_
+2	man	_	Word	Word	_	0	C	0:C|10:A	_
+3	wanted	_	Word	Word	_	6	D	6:D	_
+4	one	_	Word	Word	_	6	D	6:D	_
+5	last	_	Word	Word	_	6	D	6:D	_
+6	look	_	Word	Word	_	0	H	0:H	_
+7	with	_	Word	Word	_	10	L	10:L	_
+8	which	_	Word	Word	_	7	Terminal	7:Terminal	_
+9	to	_	Word	Word	_	10	F	10:F	_
+10	sum	_	Word	Word	_	6	H	6:H	_
+11	up	_	Word	Word	_	10	Terminal	10:Terminal	_
+12	his	_	Word	Word	_	13	A	13:A	_
+13	experience	_	Word	Word	_	10	A	10:A	_
+14	.	_	Punctuation	Punctuation	_	13	U	13:U	_
+

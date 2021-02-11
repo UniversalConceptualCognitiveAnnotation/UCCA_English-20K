@@ -1,0 +1,9 @@
+# format = ucca
+# sent_id = 2894004
+# text = Wit had defeated science .
+1	Wit	_	Word	Word	_	3	A	3:A	_
+2	had	_	Word	Word	_	3	F	3:F	_
+3	defeated	_	Word	Word	_	0	H	0:H	_
+4	science	_	Word	Word	_	3	A	3:A	_
+5	.	_	Punctuation	Punctuation	_	3	U	3:U	_
+

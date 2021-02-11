@@ -1,0 +1,18 @@
+# format = ucca
+# sent_id = 2976000
+# text = The frigate sailed along the east coast of South America with prodigious speed .
+1	The	_	Word	Word	_	2	F	2:F	_
+2	frigate	_	Word	Word	_	3	A	3:A	_
+3	sailed	_	Word	Word	_	0	H	0:H	_
+4	along	_	Word	Word	_	7	R	7:R	_
+5	the	_	Word	Word	_	7	F	7:F	_
+6	east	_	Word	Word	_	7	E	7:E	_
+7	coast	_	Word	Word	_	3	A	3:A	_
+8	of	_	Word	Word	_	10	R	10:R	_
+9	South	_	Word	Word	_	10	E	10:E	_
+10	America	_	Word	Word	_	7	E	7:E	_
+11	with	_	Word	Word	_	13	R	13:R	_
+12	prodigious	_	Word	Word	_	13	E	13:E	_
+13	speed	_	Word	Word	_	3	D	3:D	_
+14	.	_	Punctuation	Punctuation	_	13	U	13:U	_
+

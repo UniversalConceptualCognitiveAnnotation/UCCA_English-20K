@@ -1,0 +1,57 @@
+# format = ucca
+# sent_id = 2894003
+# text = Finally , in a much - feared satirical journal , an article by its most popular columnist finished off the monster for good , spurning it in the style of Hippolytus repulsing the amorous advances of his stepmother Phaedra , and giving the creature its quietus amid a universal burst of laughter .
+1	Finally	_	Word	Word	_	25	L	25:L	_
+2	,	_	Punctuation	Punctuation	_	18	U	18:U	_
+3	in	_	Word	Word	_	9	R	9:R	_
+4	a	_	Word	Word	_	9	F	9:F	_
+5	much	_	Word	Word	_	7	D	7:D	_
+6	-	_	Punctuation	Punctuation	_	7	U	7:U	_
+7	feared	_	Word	Word	_	9	E	9:E	_
+8	satirical	_	Word	Word	_	9	E	9:E	_
+9	journal	_	Word	Word	_	18	A	18:A	_
+10	,	_	Punctuation	Punctuation	_	18	U	18:U	_
+11	an	_	Word	Word	_	12	F	12:F	_
+12	article	_	Word	Word	_	0	C	0:C|25:A|42:A	_
+13	by	_	Word	Word	_	17	R	17:R	_
+14	its	_	Word	Word	_	17	E	17:E	_
+15	most	_	Word	Word	_	16	D	16:D	_
+16	popular	_	Word	Word	_	17	E	17:E	_
+17	columnist	_	Word	Word	_	12	E	12:E	_
+18	finished	_	Word	Word	_	0	H	0:H	_
+19	off	_	Word	Word	_	18	Terminal	18:Terminal	_
+20	the	_	Word	Word	_	21	F	21:F	_
+21	monster	_	Word	Word	_	18	A	18:A	_
+22	for	_	Word	Word	_	18	D	18:D	_
+23	good	_	Word	Word	_	22	Terminal	22:Terminal	_
+24	,	_	Punctuation	Punctuation	_	18	U	18:U	_
+25	spurning	_	Word	Word	_	18	H	18:H	_
+26	it	_	Word	Word	_	25	A	25:A	_
+27	in	_	Word	Word	_	29	R	29:R	_
+28	the	_	Word	Word	_	29	F	29:F	_
+29	style	_	Word	Word	_	32	L	32:L	_
+30	of	_	Word	Word	_	29	R	29:R	_
+31	Hippolytus	_	Word	Word	_	32	A	32:A|35:A	_
+32	repulsing	_	Word	Word	_	18	H	18:H	_
+33	the	_	Word	Word	_	35	F	35:F	_
+34	amorous	_	Word	Word	_	35	A	35:A	_
+35	advances	_	Word	Word	_	32	A	32:A	_
+36	of	_	Word	Word	_	39	R	39:R	_
+37	his	_	Word	Word	_	38	A	38:A	_
+38	stepmother	_	Word	Word	_	39	E	39:E	_
+39	Phaedra	_	Word	Word	_	35	A	35:A	_
+40	,	_	Punctuation	Punctuation	_	18	U	18:U	_
+41	and	_	Word	Word	_	42	L	42:L	_
+42	giving	_	Word	Word	_	18	H	18:H	_
+43	the	_	Word	Word	_	44	F	44:F	_
+44	creature	_	Word	Word	_	42	A	42:A	_
+45	its	_	Word	Word	_	46	F	46:F	_
+46	quietus	_	Word	Word	_	42	A	42:A	_
+47	amid	_	Word	Word	_	52	L	52:L	_
+48	a	_	Word	Word	_	52	F	52:F	_
+49	universal	_	Word	Word	_	52	A	52:A	_
+50	burst	_	Word	Word	_	52	D	52:D	_
+51	of	_	Word	Word	_	52	R	52:R	_
+52	laughter	_	Word	Word	_	18	H	18:H	_
+53	.	_	Punctuation	Punctuation	_	52	U	52:U	_
+

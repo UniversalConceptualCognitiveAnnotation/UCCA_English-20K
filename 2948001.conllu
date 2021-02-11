@@ -1,0 +1,20 @@
+# format = ucca
+# sent_id = 2948001
+# text = But it had better still . It had Ned Land , the King of Harpooners .
+1	But	_	Word	Word	_	8	L	8:L	_
+2	it	_	Word	Word	_	3	A	3:A	_
+3	had	_	Word	Word	_	0	H	0:H	_
+4	better	_	Word	Word	_	3	A	3:A	_
+5	still	_	Word	Word	_	8	L	8:L	_
+6	.	_	Punctuation	Punctuation	_	3	U	3:U	_
+7	It	_	Word	Word	_	8	A	8:A	_
+8	had	_	Word	Word	_	3	H	3:H	_
+9	Ned	_	Word	Word	_	8	A	8:A	_
+10	Land	_	Word	Word	_	9	Terminal	9:Terminal	_
+11	,	_	Punctuation	Punctuation	_	9	U	9:U	_
+12	the	_	Word	Word	_	13	F	13:F	_
+13	King	_	Word	Word	_	9	E	9:E	_
+14	of	_	Word	Word	_	15	R	15:R	_
+15	Harpooners	_	Word	Word	_	13	E	13:E	_
+16	.	_	Punctuation	Punctuation	_	15	U	15:U	_
+
