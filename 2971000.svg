@@ -5,7 +5,7 @@
 <rdf:RDF xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
 <cc:Work>
 <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
-<dc:date>2021-02-24T07:08:42.234208</dc:date>
+<dc:date>2021-03-02T06:42:54.452030</dc:date>
 <dc:format>image/svg+xml</dc:format>
 <dc:creator>
 <cc:Agent>
@@ -142,9 +142,9 @@
 <g clip-path="url(#a)">
 <g transform="translate(57.152 276.79) rotate(-81.852) scale(.08 -.08)">
 <defs>
-<path id="y" d="m9.8125 72.906h46.094v-8.3125h-36.234v-21.578h34.719v-8.2969h-34.719v-26.422h37.109v-8.2969h-46.969z"/>
+<path id="al" d="m9.8125 72.906h46.094v-8.3125h-36.234v-21.578h34.719v-8.2969h-34.719v-26.422h37.109v-8.2969h-46.969z"/>
 </defs>
-<use xlink:href="#y"/>
+<use xlink:href="#al"/>
 </g>
 </g>
 <path d="m59.11 272.1 0.79178 5.5299q0.34017 2.3758 2.7159 2.0356l7.6643-1.0974q2.3758-0.34017 2.0356-2.7159l-0.79178-5.5299q-0.34017-2.3758-2.7159-2.0356l-7.6643 1.0974q-2.3758 0.34017-2.0356 2.7159z" clip-path="url(#a)" fill="#fff" stroke="#fff"/>
@@ -228,9 +228,9 @@
 <g clip-path="url(#a)">
 <g transform="translate(537.72 237.95) rotate(35.642) scale(.08 -.08)">
 <defs>
-<path id="al" d="m9.8125 72.906h41.891v-8.3125h-32.031v-21.484h28.906v-8.2969h-28.906v-34.812h-9.8594z"/>
+<path id="y" d="m9.8125 72.906h41.891v-8.3125h-32.031v-21.484h28.906v-8.2969h-28.906v-34.812h-9.8594z"/>
 </defs>
-<use xlink:href="#al"/>
+<use xlink:href="#y"/>
 </g>
 </g>
 <path d="m576.98 241.76 5.2186 2.6546q2.1391 1.0882 3.2273-1.051l3.5104-6.901q1.0882-2.1391-1.051-3.2273l-5.2186-2.6546q-2.1391-1.0882-3.2273 1.051l-3.5104 6.901q-1.0882 2.1391 1.051 3.2273z" clip-path="url(#a)" fill="#fff" stroke="#fff"/>
@@ -291,9 +291,9 @@
 <use x="394.824219" xlink:href="#h"/>
 </g>
 </g>
-<path d="m445.66 278.91 2.1327-4.5831q1.0126-2.1759-1.1634-3.1885l-7.0197-3.2666q-2.1759-1.0126-3.1885 1.1634l-2.1327 4.5831q-1.0126 2.1759 1.1634 3.1885l7.0197 3.2666q2.1759 1.0126 3.1885-1.1634z" clip-path="url(#a)" fill="#fff" stroke="#fff"/>
+<path d="m445.75 278.7 1.9413-4.1717q1.0126-2.1759-1.1634-3.1885l-7.0197-3.2666q-2.1759-1.0126-3.1885 1.1634l-1.9413 4.1717q-1.0126 2.1759 1.1634 3.1885l7.0197 3.2666q2.1759 1.0126 3.1885-1.1634z" clip-path="url(#a)" fill="#fff" stroke="#fff"/>
 <g clip-path="url(#a)">
-<g transform="translate(441.97 277.19) rotate(-65.045) scale(.08 -.08)">
+<g transform="translate(442.07 276.99) rotate(-65.045) scale(.08 -.08)">
 <use xlink:href="#y"/>
 </g>
 </g>
