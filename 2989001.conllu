@@ -14,7 +14,7 @@
 11	a	_	Word	Word	_	12	F	12:F	_
 12	century	_	Word	Word	_	10	A	10:A	_
 13	,	_	Punctuation	Punctuation	_	17	U	17:U	_
-14	the	_	Word	Word	_	15	E	15:E	_
+14	the	_	Word	Word	_	15	F	15:F	_
 15	Abraham	_	Word	Word	_	0	C	0:C|26:A|32:A|36:A|44:A|47:A|51:A|61:A	_
 16	Lincoln	_	Word	Word	_	15	Terminal	15:Terminal	_
 17	plowed	_	Word	Word	_	0	H	0:H	_
