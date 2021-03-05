@@ -56,14 +56,6 @@
     <attributes />
     <node ID="1.1" type="FN">
       <attributes />
-      <edge toID="1.5" type="H">
-        <attributes />
-        <category layer_name="UCCA's foundational layer (+restrictions)" slot="1" tag="H" />
-      </edge>
-    </node>
-    <node ID="1.5" type="FN">
-      <attributes />
-      <extra tree_id="7-1" />
       <edge toID="1.6" type="L">
         <attributes />
         <category layer_name="UCCA's foundational layer (+restrictions)" slot="1" tag="L" />
